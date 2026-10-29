@@ -1,0 +1,519 @@
+{
+  "schemaVersion": 2,
+  "id": "IPO-05",
+  "area": "ipo",
+  "groupKey": "IPO-M3",
+  "group": {
+    "vi": "Phát triển năng lực",
+    "en": "Capacity development"
+  },
+  "title": {
+    "vi": "Đánh giá năng lực cảnh sát và nhu cầu huấn luyện",
+    "en": "Police capability assessment and training needs"
+  },
+  "summary": {
+    "vi": "Bài học IPO-05 tập trung vào chủ đề: Đánh giá năng lực cảnh sát và nhu cầu huấn luyện. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+    "en": "Lesson IPO-05 covers the following topic: Police capability assessment and training needs. It connects concepts with professional responsibilities."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "U38",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-014%20UNPOL%20STM%20Lesson%207%20Capacity-building%20and%20Development.pdf",
+  "order": 301,
+  "sections": [
+    {
+      "id": "IPO-05-01",
+      "title": {
+        "vi": "1. Năng lực cần được định nghĩa",
+        "en": "1. Define the capability"
+      },
+      "body": {
+        "vi": "Xác định chức năng cần thực hiện, chuẩn mong đợi và điều kiện thực tế. Đánh giá ở cấp cá nhân, tổ chức và môi trường tạo điều kiện. Không coi mọi khoảng thiếu là thiếu kiến thức.\n\n### 1.1. Ba cấp độ năng lực\n\nCấp cá nhân gồm kiến thức, kỹ năng, ứng xử và khả năng học. Cấp tổ chức gồm cơ cấu, quy trình, quản lý nhân sự, chỉ huy, giám sát và nguồn lực. Môi trường tạo điều kiện gồm khuôn khổ pháp lý, quản trị và quan hệ với các cơ quan liên quan. Một người được đào tạo tốt vẫn có thể khó thực hiện nếu biểu mẫu, chỉ đạo hoặc công cụ mâu thuẫn. Đánh giá phải nối các cấp thay vì chỉ kiểm tra kiến thức.",
+        "en": "Specify the function, expected standard and operating conditions. Assess individuals, the organization and its enabling environment. Not every performance gap is a knowledge gap.\n\n### 1.1. Three levels of capacity\n\nIndividual capacity includes knowledge, skills, conduct and learning ability. Organizational capacity includes structure, procedures, personnel systems, command, oversight and resources. The enabling environment includes law, governance and relationships with other institutions. A well-trained officer may still struggle where tools, forms or instructions conflict. Connect the levels rather than relying on a knowledge test alone. The purpose is to locate the cause and the responsible level of action, not simply produce a ranking of officers."
+      },
+      "sourceIds": [
+        "U38"
+      ]
+    },
+    {
+      "id": "IPO-05-02",
+      "title": {
+        "vi": "2. Thiết kế đánh giá",
+        "en": "2. Design the assessment"
+      },
+      "body": {
+        "vi": "Chọn tiêu chí và nguồn: Quan sát, hồ sơ, phỏng vấn, công cụ thực hành. Giải thích phạm vi, bảo vệ dữ liệu và ghi hạn chế. Mẫu chỉ gồm đơn vị dễ tiếp cận có thể không đại diện; kết luận phải nói rõ phạm vi áp dụng.\n\n### 2.1. Dùng bằng chứng phù hợp tiêu chí\n\nTiêu chí về chất lượng hồ sơ cần xem hồ sơ; tiêu chí về giao tiếp cần quan sát hoặc cách đánh giá thực hành phù hợp. Phỏng vấn giúp hiểu lý do nhưng không tự chứng minh kỹ năng. Nêu rõ mẫu và giới hạn, đối chiếu nhiều nguồn. Khi tiêu chuẩn chưa rõ, phải thống nhất cơ sở với người có thẩm quyền trước khi chấm. Hệ thống đánh giá cần minh bạch để đối tác hiểu vì sao có kết luận.",
+        "en": "Choose criteria and evidence from observation, records, interviews and practical tools. Explain scope, protect data and record limitations. Accessible units may not form a representative sample; define where conclusions apply.\n\n### 2.1. Match evidence to the criterion\n\nFile-quality criteria need file review; communication criteria need appropriate observation or performance assessment. Interviews help explain reasons but do not alone demonstrate a skill. Describe sampling and limits and compare sources. When the required standard is unclear, establish an authorized basis before grading. A transparent process lets partners understand the finding, challenge factual errors and participate in improvement without allowing professional criteria to be replaced by convenience or preference."
+      },
+      "sourceIds": [
+        "U38"
+      ]
+    },
+    {
+      "id": "IPO-05-03",
+      "title": {
+        "vi": "3. Tách nguyên nhân",
+        "en": "3. Distinguish causes"
+      },
+      "body": {
+        "vi": "Một hồ sơ sai có thể do chưa biết, chưa có kỹ năng, quy trình mâu thuẫn, thiếu công cụ hoặc động lực quản lý. Chỉ hai nguyên nhân đầu có thể chủ yếu giải bằng đào tạo. Cần kiểm tra hơn một giả thuyết.",
+        "en": "An inaccurate file may reflect missing knowledge, weak skills, contradictory procedures, absent tools or management conditions. Training mainly addresses the first two. Test more than one explanation before selecting a course."
+      },
+      "sourceIds": [
+        "U38"
+      ]
+    },
+    {
+      "id": "IPO-05-04",
+      "title": {
+        "vi": "4. Xác định nhu cầu đào tạo",
+        "en": "4. Specify training needs"
+      },
+      "body": {
+        "vi": "Viết người học nào, cần làm được hành vi gì, trong điều kiện nào và đánh giá bằng gì. Xếp ưu tiên theo rủi ro, tác động nhiệm vụ và khả năng triển khai. Không lập danh sách khóa từ sở thích giảng viên hoặc thiết bị đang có.\n\n### 4.1. Viết nhu cầu thành mục tiêu học\n\nNêu rõ ai cần học, sau học làm được gì, với công cụ nào và dựa tiêu chí nào để xác nhận. Chọn nội dung đúng khoảng thiếu, phù hợp khả năng tiếp nhận và ngôn ngữ. Lập ưu tiên theo nguy cơ đối với người dân, nhiệm vụ và khả năng duy trì. Sau khóa học, bố trí cơ hội áp dụng, người theo dõi và cách xem lại. Nếu thiếu quy trình hoặc thiết bị, cần biện pháp quản lý đi cùng đào tạo.",
+        "en": "Identify learners, observable behaviour, conditions and assessment evidence. Prioritize by risk, mission effect and feasibility rather than instructor preferences or available equipment.\n\n### 4.1. Turn a need into a learning objective\n\nIdentify the learners, required behaviour, tools or conditions and evidence of success. Select content for the actual gap and adapt to learning readiness and language. Prioritize risks to people, mission importance and sustainability. Plan workplace application, follow-up responsibility and reassessment after the course. Where procedures or equipment are missing, combine training with the necessary organizational action. A course is a chosen response to a defined need, not the default explanation for every poor result."
+      },
+      "sourceIds": [
+        "U38"
+      ]
+    },
+    {
+      "id": "IPO-05-05",
+      "title": {
+        "vi": "5. Kiểm chứng cùng đối tác",
+        "en": "5. Validate with partners"
+      },
+      "body": {
+        "vi": "Trình bày dữ kiện, mời giải thích, thống nhất ưu tiên và trách nhiệm. Quyền sở hữu không có nghĩa để đối tác loại bỏ bằng chứng không thuận lợi; phải giữ tính chuyên môn và quy trình xử lý bất đồng.",
+        "en": "Present findings, invite explanations and agree on priorities and responsibility. Ownership does not mean removing inconvenient evidence. Maintain professional standards and use the agreed mechanism to address disagreement."
+      },
+      "sourceIds": [
+        "U38"
+      ]
+    },
+    {
+      "id": "IPO-05-06",
+      "title": {
+        "vi": "6. Xây dựng ma trận năng lực",
+        "en": "6. Build a capability matrix"
+      },
+      "body": {
+        "vi": "Chức năng: Tiếp nhận vụ việc. Chuẩn: Thông tin bắt buộc chính xác theo quy định được xác nhận. Hiện trạng: Nhiều trường bị bỏ trống trong mẫu được xem. Nguyên nhân cần kiểm tra: Hiểu yêu cầu, tính rõ của biểu mẫu, thời gian, công cụ và kiểm tra cấp quản lý. Nhu cầu huấn luyện chỉ được chốt sau khi phân biệt các yếu tố này.",
+        "en": "Connect the function, confirmed standard, observed performance, possible causes and required action. Missing fields in incident intake may reflect understanding, unclear forms, time pressure, tools or supervision. Finalize training needs only after separating these influences."
+      },
+      "sourceIds": [
+        "U38"
+      ]
+    },
+    {
+      "id": "IPO-05-07",
+      "title": {
+        "vi": "7. Ưu tiên và đánh giá lại",
+        "en": "7. Prioritize and reassess"
+      },
+      "body": {
+        "vi": "Xem mức rủi ro với người dân, tần suất, số người ảnh hưởng và tính khả thi. Không ưu tiên chỉ vì vấn đề dễ tổ chức lớp. Sau hỗ trợ cần quan sát lại công việc để biết kỹ năng được áp dụng; bài kiểm tra cuối khóa chỉ là một nguồn bằng chứng, không chứng minh thay đổi tổ chức.",
+        "en": "Consider risk to people, frequency, numbers affected and feasibility. Do not prioritize only because a class is easy to organize. Observe actual work after support. An end-of-course test is one evidence source, not proof of organizational change."
+      },
+      "sourceIds": [
+        "U38"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "U38",
+      "title": "Lesson 7 Capacity-building and Development",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-014%20UNPOL%20STM%20Lesson%207%20Capacity-building%20and%20Development.pdf",
+      "year": "2021",
+      "publisher": "United Nations UNPOL STM",
+      "format": "pdf",
+      "pages": 26,
+      "pdf_name": "U38.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Mọi khoảng thiếu năng lực đều giải bằng đào tạo.",
+        "en": "Every capability gap is solved by training."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Có thể thiếu công cụ, quy trình hoặc quản lý.",
+        "en": "Tools, procedures or management may be missing."
+      }
+    },
+    {
+      "question": {
+        "vi": "Đánh giá cần nêu chức năng và điều kiện mong đợi.",
+        "en": "Assessment needs a function and expected conditions."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Năng lực phải được định nghĩa trước.",
+        "en": "Define capability first."
+      }
+    },
+    {
+      "question": {
+        "vi": "Chỉ khảo sát đơn vị dễ tiếp cận luôn đại diện toàn lực lượng.",
+        "en": "Only accessible units always represent the whole force."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Phải ghi giới hạn và thiên lệch chọn mẫu.",
+        "en": "State limitations and selection bias."
+      }
+    },
+    {
+      "question": {
+        "vi": "Mục tiêu học nên là hành vi quan sát được.",
+        "en": "Learning objectives should describe observable behaviour."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Cần điều kiện và cách đánh giá.",
+        "en": "Include conditions and assessment."
+      }
+    },
+    {
+      "question": {
+        "vi": "Đối tác có quyền loại mọi bằng chứng bất lợi khỏi đánh giá.",
+        "en": "Ownership permits removing all adverse evidence."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Giữ tính chuyên môn và xử lý bất đồng đúng cơ chế.",
+        "en": "Maintain professional integrity and resolve disagreement properly."
+      }
+    },
+    {
+      "question": {
+        "vi": "Sau khóa học cần xem kỹ năng có áp dụng vào việc.",
+        "en": "After training, check whether skills are applied at work."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Điểm cuối khóa chưa chứng minh thay đổi tổ chức.",
+        "en": "Course scores do not establish organizational change."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Hành vi cần học, người học và điều kiện đánh giá được xác định?",
+        "en": "Which concept matches: Defined learning behaviour, learners and assessment conditions?"
+      },
+      "options": [
+        {
+          "vi": "Attendance",
+          "en": "Attendance"
+        },
+        {
+          "vi": "Nhu cầu đào tạo / Training need",
+          "en": "Training need"
+        },
+        {
+          "vi": "Mốc hiện trạng / Baseline",
+          "en": "Baseline"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Nhu cầu đào tạo / Training need: Hành vi cần học, người học và điều kiện đánh giá được xác định.",
+        "en": "Training need: Defined learning behaviour, learners and assessment conditions."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Tình trạng ban đầu dùng để đối chiếu thay đổi?",
+        "en": "Which concept matches: The initial state used to compare change?"
+      },
+      "options": [
+        {
+          "vi": "Mốc hiện trạng / Baseline",
+          "en": "Baseline"
+        },
+        {
+          "vi": "Attendance",
+          "en": "Attendance"
+        },
+        {
+          "vi": "Nhu cầu đào tạo / Training need",
+          "en": "Training need"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Mốc hiện trạng / Baseline: Tình trạng ban đầu dùng để đối chiếu thay đổi.",
+        "en": "Baseline: The initial state used to compare change."
+      }
+    }
+  ],
+  "updated": "2026-10-26",
+  "moduleId": "IPO-M3",
+  "moduleOrder": 3,
+  "lessonOrder": 1,
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "IPO-05-01",
+      "title": {
+        "vi": "1. Năng lực cần được định nghĩa",
+        "en": "1. Define the capability"
+      },
+      "body": {
+        "vi": "Xác định chức năng cần thực hiện, chuẩn mong đợi và điều kiện thực tế. Đánh giá ở cấp cá nhân, tổ chức và môi trường tạo điều kiện. Không coi mọi khoảng thiếu là thiếu kiến thức.\n\n### 1.1. Ba cấp độ năng lực\n\nCấp cá nhân gồm kiến thức, kỹ năng, ứng xử và khả năng học. Cấp tổ chức gồm cơ cấu, quy trình, quản lý nhân sự, chỉ huy, giám sát và nguồn lực. Môi trường tạo điều kiện gồm khuôn khổ pháp lý, quản trị và quan hệ với các cơ quan liên quan. Một người được đào tạo tốt vẫn có thể khó thực hiện nếu biểu mẫu, chỉ đạo hoặc công cụ mâu thuẫn. Đánh giá phải nối các cấp thay vì chỉ kiểm tra kiến thức.",
+        "en": "Specify the function, expected standard and operating conditions. Assess individuals, the organization and its enabling environment. Not every performance gap is a knowledge gap.\n\n### 1.1. Three levels of capacity\n\nIndividual capacity includes knowledge, skills, conduct and learning ability. Organizational capacity includes structure, procedures, personnel systems, command, oversight and resources. The enabling environment includes law, governance and relationships with other institutions. A well-trained officer may still struggle where tools, forms or instructions conflict. Connect the levels rather than relying on a knowledge test alone. The purpose is to locate the cause and the responsible level of action, not simply produce a ranking of officers."
+      },
+      "sourceIds": [
+        "U38"
+      ]
+    },
+    {
+      "id": "IPO-05-02",
+      "title": {
+        "vi": "2. Thiết kế đánh giá",
+        "en": "2. Design the assessment"
+      },
+      "body": {
+        "vi": "Chọn tiêu chí và nguồn: Quan sát, hồ sơ, phỏng vấn, công cụ thực hành. Giải thích phạm vi, bảo vệ dữ liệu và ghi hạn chế. Mẫu chỉ gồm đơn vị dễ tiếp cận có thể không đại diện; kết luận phải nói rõ phạm vi áp dụng.\n\n### 2.1. Dùng bằng chứng phù hợp tiêu chí\n\nTiêu chí về chất lượng hồ sơ cần xem hồ sơ; tiêu chí về giao tiếp cần quan sát hoặc cách đánh giá thực hành phù hợp. Phỏng vấn giúp hiểu lý do nhưng không tự chứng minh kỹ năng. Nêu rõ mẫu và giới hạn, đối chiếu nhiều nguồn. Khi tiêu chuẩn chưa rõ, phải thống nhất cơ sở với người có thẩm quyền trước khi chấm. Hệ thống đánh giá cần minh bạch để đối tác hiểu vì sao có kết luận.",
+        "en": "Choose criteria and evidence from observation, records, interviews and practical tools. Explain scope, protect data and record limitations. Accessible units may not form a representative sample; define where conclusions apply.\n\n### 2.1. Match evidence to the criterion\n\nFile-quality criteria need file review; communication criteria need appropriate observation or performance assessment. Interviews help explain reasons but do not alone demonstrate a skill. Describe sampling and limits and compare sources. When the required standard is unclear, establish an authorized basis before grading. A transparent process lets partners understand the finding, challenge factual errors and participate in improvement without allowing professional criteria to be replaced by convenience or preference."
+      },
+      "sourceIds": [
+        "U38"
+      ]
+    },
+    {
+      "id": "IPO-05-03",
+      "title": {
+        "vi": "3. Tách nguyên nhân",
+        "en": "3. Distinguish causes"
+      },
+      "body": {
+        "vi": "Một hồ sơ sai có thể do chưa biết, chưa có kỹ năng, quy trình mâu thuẫn, thiếu công cụ hoặc động lực quản lý. Chỉ hai nguyên nhân đầu có thể chủ yếu giải bằng đào tạo. Cần kiểm tra hơn một giả thuyết.",
+        "en": "An inaccurate file may reflect missing knowledge, weak skills, contradictory procedures, absent tools or management conditions. Training mainly addresses the first two. Test more than one explanation before selecting a course."
+      },
+      "sourceIds": [
+        "U38"
+      ]
+    },
+    {
+      "id": "IPO-05-04",
+      "title": {
+        "vi": "4. Xác định nhu cầu đào tạo",
+        "en": "4. Specify training needs"
+      },
+      "body": {
+        "vi": "Viết người học nào, cần làm được hành vi gì, trong điều kiện nào và đánh giá bằng gì. Xếp ưu tiên theo rủi ro, tác động nhiệm vụ và khả năng triển khai. Không lập danh sách khóa từ sở thích giảng viên hoặc thiết bị đang có.\n\n### 4.1. Viết nhu cầu thành mục tiêu học\n\nNêu rõ ai cần học, sau học làm được gì, với công cụ nào và dựa tiêu chí nào để xác nhận. Chọn nội dung đúng khoảng thiếu, phù hợp khả năng tiếp nhận và ngôn ngữ. Lập ưu tiên theo nguy cơ đối với người dân, nhiệm vụ và khả năng duy trì. Sau khóa học, bố trí cơ hội áp dụng, người theo dõi và cách xem lại. Nếu thiếu quy trình hoặc thiết bị, cần biện pháp quản lý đi cùng đào tạo.",
+        "en": "Identify learners, observable behaviour, conditions and assessment evidence. Prioritize by risk, mission effect and feasibility rather than instructor preferences or available equipment.\n\n### 4.1. Turn a need into a learning objective\n\nIdentify the learners, required behaviour, tools or conditions and evidence of success. Select content for the actual gap and adapt to learning readiness and language. Prioritize risks to people, mission importance and sustainability. Plan workplace application, follow-up responsibility and reassessment after the course. Where procedures or equipment are missing, combine training with the necessary organizational action. A course is a chosen response to a defined need, not the default explanation for every poor result."
+      },
+      "sourceIds": [
+        "U38"
+      ]
+    },
+    {
+      "id": "IPO-05-05",
+      "title": {
+        "vi": "5. Kiểm chứng cùng đối tác",
+        "en": "5. Validate with partners"
+      },
+      "body": {
+        "vi": "Trình bày dữ kiện, mời giải thích, thống nhất ưu tiên và trách nhiệm. Quyền sở hữu không có nghĩa để đối tác loại bỏ bằng chứng không thuận lợi; phải giữ tính chuyên môn và quy trình xử lý bất đồng.",
+        "en": "Present findings, invite explanations and agree on priorities and responsibility. Ownership does not mean removing inconvenient evidence. Maintain professional standards and use the agreed mechanism to address disagreement."
+      },
+      "sourceIds": [
+        "U38"
+      ]
+    },
+    {
+      "id": "IPO-05-06",
+      "title": {
+        "vi": "6. Xây dựng ma trận năng lực",
+        "en": "6. Build a capability matrix"
+      },
+      "body": {
+        "vi": "Chức năng: Tiếp nhận vụ việc. Chuẩn: Thông tin bắt buộc chính xác theo quy định được xác nhận. Hiện trạng: Nhiều trường bị bỏ trống trong mẫu được xem. Nguyên nhân cần kiểm tra: Hiểu yêu cầu, tính rõ của biểu mẫu, thời gian, công cụ và kiểm tra cấp quản lý. Nhu cầu huấn luyện chỉ được chốt sau khi phân biệt các yếu tố này.",
+        "en": "Connect the function, confirmed standard, observed performance, possible causes and required action. Missing fields in incident intake may reflect understanding, unclear forms, time pressure, tools or supervision. Finalize training needs only after separating these influences."
+      },
+      "sourceIds": [
+        "U38"
+      ]
+    },
+    {
+      "id": "IPO-05-07",
+      "title": {
+        "vi": "7. Ưu tiên và đánh giá lại",
+        "en": "7. Prioritize and reassess"
+      },
+      "body": {
+        "vi": "Xem mức rủi ro với người dân, tần suất, số người ảnh hưởng và tính khả thi. Không ưu tiên chỉ vì vấn đề dễ tổ chức lớp. Sau hỗ trợ cần quan sát lại công việc để biết kỹ năng được áp dụng; bài kiểm tra cuối khóa chỉ là một nguồn bằng chứng, không chứng minh thay đổi tổ chức.",
+        "en": "Consider risk to people, frequency, numbers affected and feasibility. Do not prioritize only because a class is easy to organize. Observe actual work after support. An end-of-course test is one evidence source, not proof of organizational change."
+      },
+      "sourceIds": [
+        "U38"
+      ]
+    }
+  ],
+  "source_ids": [
+    "U38"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "Nhu cầu đào tạo / Training need",
+      "definition": {
+        "vi": "Hành vi cần học, người học và điều kiện đánh giá được xác định",
+        "en": "Defined learning behaviour, learners and assessment conditions"
+      }
+    },
+    {
+      "term": "Mốc hiện trạng / Baseline",
+      "definition": {
+        "vi": "Tình trạng ban đầu dùng để đối chiếu thay đổi",
+        "en": "The initial state used to compare change"
+      }
+    }
+  ],
+  "diagram": {
+    "type": "seq",
+    "items": [
+      {
+        "vi": "Yêu cầu",
+        "en": "Requirements"
+      },
+      {
+        "vi": "Hiện trạng",
+        "en": "Baseline"
+      },
+      {
+        "vi": "Nguyên nhân",
+        "en": "Causes"
+      },
+      {
+        "vi": "Nhu cầu ưu tiên",
+        "en": "Priority needs"
+      }
+    ],
+    "chapter": 1
+  },
+  "contentVersion": "4tab-2026-10-26",
+  "sourceIntro": {
+    "vi": "Các tài liệu dưới đây là nền tảng kiến thức của bài. Mở nguồn để đọc nội dung gốc; phần giải thích, sơ đồ học tập và câu hỏi được biên soạn cho Handbook.",
+    "en": "The materials below provide the lesson’s knowledge base. Open them for the original teaching material; explanations, instructional diagrams and questions are developed for the Handbook."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Hai bản Việt–Anh phục vụ học tập, không phải bản dịch chính thức của UN. Danh mục và thứ tự 48 bài là cách tổ chức học liệu của Handbook, không phải số bài chính thức của UN.",
+      "Bảng đối chiếu xác định tài liệu nền theo mục; không khẳng định mọi câu diễn giải là trích nguyên văn. Hình gốc ghi rõ tài liệu và trang PDF; sơ đồ học tập được ghi là biên soạn."
+    ],
+    "en": [
+      "The Vietnamese and English texts are for learning and are not official UN translations. The 48-lesson catalogue and numbering are the Handbook’s organization, not the official UN lesson count.",
+      "The mapping identifies source materials by section and does not present every explanation as a verbatim quotation. Original illustrations identify the material and PDF page; instructional diagrams are labelled as developed for the lesson."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bài học IPO-05 tập trung vào chủ đề: Đánh giá năng lực cảnh sát và nhu cầu huấn luyện. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+      "en": "Lesson IPO-05 covers the following topic: Police capability assessment and training needs. It connects concepts with professional responsibilities."
+    },
+    "subtitle": {
+      "vi": "Học kiến thức, hiểu trách nhiệm và kiểm tra nhận thức.",
+      "en": "Learn the concepts, understand responsibilities and check your knowledge."
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích: Năng lực cần được định nghĩa; Thiết kế đánh giá.",
+        "Giải thích: Tách nguyên nhân; Xác định nhu cầu đào tạo.",
+        "Giải thích: Kiểm chứng cùng đối tác; Xây dựng ma trận năng lực; Ưu tiên và đánh giá lại.",
+        "Nhận diện cách hiểu sai và chọn nhận định có căn cứ trong kiểm tra nhận thức."
+      ],
+      "en": [
+        "Explain: Define the capability; Design the assessment.",
+        "Explain: Distinguish causes; Specify training needs.",
+        "Explain: Validate with partners; Build a capability matrix; Prioritize and reassess.",
+        "Recognize misconceptions and select evidence-based statements in the knowledge check."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc các mục theo thứ tự trong tab nội dung, quan sát sơ đồ và hình, sau đó hoàn thành kiểm tra nhận thức. Chọn VI/EN để đổi ngôn ngữ; đáp án được giữ khi đổi ngôn ngữ trong phiên mở trang. Tải lại trang sẽ bắt đầu lại.",
+      "en": "Read the sections in order, study diagrams and illustrations, then complete the knowledge check. Use VI/EN to switch languages; answers are retained across language changes during the session. Reloading starts a new session."
+    }
+  },
+  "figures": [],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft"
+}

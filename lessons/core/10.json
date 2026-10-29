@@ -1,0 +1,739 @@
+{
+  "schemaVersion": 2,
+  "id": "CORE-10",
+  "area": "core",
+  "groupKey": "CORE-M2",
+  "group": {
+    "vi": "Mandate, bảo vệ và các ưu tiên",
+    "en": "Mandates, protection and priorities"
+  },
+  "title": {
+    "vi": "Bảo vệ trẻ em và tư pháp phù hợp với trẻ em",
+    "en": "Child protection and child-sensitive justice"
+  },
+  "summary": {
+    "vi": "Bảo vệ trẻ em cần đặt quyền, an toàn và lợi ích từng trẻ vào quyết định hằng ngày. Bài học giải thích sáu vi phạm nghiêm trọng, tiếp xúc phù hợp, MRM, trẻ liên quan nhóm vũ trang và bảo đảm khi tước tự do, chuyển chăm sóc.",
+    "en": "Child protection places rights, safety and individual best interests in daily decisions. Study grave violations, appropriate interaction, the MRM, armed-group association and custody and care-transfer safeguards."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "C15",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-419%20Lesson%202.6%20Child%20Protection.zip",
+  "order": 204,
+  "sections": [
+    {
+      "id": "CORE-10-01",
+      "title": {
+        "vi": "1. Trẻ em, lợi ích tốt nhất và trách nhiệm bảo vệ",
+        "en": "1. Children, best interests and protection duties"
+      },
+      "body": {
+        "vi": "### 1.1. Nhận diện trẻ em theo chuẩn UN\nTrong hoạt động UN, người dưới **18 tuổi** được xem là trẻ em để áp dụng bảo vệ tương ứng. Không căn cứ riêng vóc dáng, việc mang vũ khí, tình trạng kết hôn hoặc lời khẳng định của một người khác để coi trẻ là người lớn. Khi còn nghi ngờ tuổi của người do UN kiểm soát, áp dụng giả định là trẻ em và chuyển đánh giá theo cơ chế chuyên môn; không tự làm kiểm tra ngoài năng lực.\n\nTrẻ em không phải một nhóm đồng nhất. Tuổi, giới, khuyết tật, ngôn ngữ, hoàn cảnh gia đình, di dời và trải nghiệm bạo lực có thể ảnh hưởng nhu cầu, khả năng hiểu và phản ứng. Không lấy vẻ bình tĩnh làm bằng chứng không bị hại, hoặc coi khóc, im lặng, kể không liền mạch là nói dối.\n\n### 1.2. Bốn nguyên tắc định hướng\n**Không phân biệt đối xử** bảo đảm mọi trẻ được quan tâm theo nhu cầu và quyền. **Lợi ích tốt nhất của trẻ** phải là cân nhắc hàng đầu trong quyết định có liên quan; không đồng nhất với điều cán bộ thấy thuận tiện. **Quyền sống, tồn tại và phát triển** đòi hỏi quan tâm cả an toàn tức thời và ảnh hưởng lâu dài. **Quyền được lắng nghe** yêu cầu xem xét ý kiến phù hợp tuổi và mức trưởng thành, không giao cho trẻ gánh trách nhiệm quyết định thay cơ quan.\n\nCác nguyên tắc cần được xem cùng nhau. Một quyết định bảo vệ phải xét hoàn cảnh cá nhân, nguy cơ, quan hệ chăm sóc và khả năng tiếp cận dịch vụ. Không chỉ gắn nhãn “vì lợi ích trẻ” mà không giải thích căn cứ hoặc không hỏi chuyên gia khi cần.\n\n### 1.3. Trách nhiệm chung, phân công rõ\nBộ phận bảo vệ trẻ em và Child Protection Adviser (CPA) có chức năng chuyên môn, phối hợp và tham mưu theo nhiệm vụ. Đầu mối bảo vệ trẻ em trong quân sự hoặc cảnh sát giúp kết nối công việc. UNICEF và đối tác khác đóng góp theo vai trò; không một tổ chức đơn lẻ đáp ứng mọi nhu cầu.\n\nTất cả nhân sự phái bộ phải tôn trọng quyền trẻ, nhận dấu hiệu và báo qua cơ chế, nhưng không tự thực hiện mọi thủ tục chuyên sâu. **Điểm cần nhớ:** Bảo vệ trẻ em bắt đầu từ cách mỗi cán bộ hành động, đồng thời cần sử dụng đúng mạng lưới chuyên môn và chuyển tuyến.",
+        "en": "### 1.1. Identify children under UN standards\nFor UN operations, persons below **18** are children for relevant protection. Appearance, weapons, marriage or another person’s assertion do not alone establish adulthood. Where age is uncertain in UN custody, presume minority and arrange competent assessment rather than undertaking unqualified tests.\n\nChildren differ by age, gender, disability, language, family circumstances, displacement and experience of violence. Calm appearance does not prove absence of harm; crying, silence or a fragmented account does not establish dishonesty.\n\n### 1.2. Four guiding principles\n**Non-discrimination** requires attention to every child’s rights and needs. **Best interests** must be a primary consideration, not a synonym for operational convenience. **Life, survival and development** concern immediate safety and longer-term effects. **The right to be heard** requires appropriate consideration of views according to age and maturity, without making children carry institutional decision responsibilities.\n\nApply the principles together through individual circumstances, risks, care relationships and services. A best-interests label does not replace reasoning or specialist advice.\n\n### 1.3. Shared responsibility with clear roles\nChild-protection sections and the Child Protection Adviser (CPA) provide expertise, coordination and advice. Uniformed focal points connect component work. UNICEF and other partners contribute distinct capabilities; no single actor meets every need.\n\nAll personnel must respect rights, recognize concerns and report appropriately, without assuming specialist procedural powers. **Remember:** Protection begins with each officer’s conduct and requires proper use of expert and referral networks."
+      },
+      "sourceIds": [
+        "C15",
+        "CP2025",
+        "CRC",
+        "DET2020"
+      ]
+    },
+    {
+      "id": "CORE-10-02",
+      "title": {
+        "vi": "2. Sáu vi phạm nghiêm trọng trong xung đột vũ trang",
+        "en": "2. Six grave violations in armed conflict"
+      },
+      "body": {
+        "vi": "### 2.1. Nhớ đủ sáu nhóm, hiểu phạm vi\nUN xác định sáu nhóm vi phạm nghiêm trọng đối với trẻ em trong tình huống xung đột vũ trang:\n\n1. **Tuyển mộ và sử dụng trẻ em** bởi lực lượng hoặc nhóm vũ trang.\n2. **Giết hại và gây thương tật** đối với trẻ em.\n3. **Hiếp dâm và các hình thức bạo lực tình dục khác** đối với trẻ em.\n4. **Tấn công trường học và bệnh viện.**\n5. **Bắt cóc trẻ em.**\n6. **Từ chối tiếp cận nhân đạo** đối với trẻ em.\n\nĐây là khuôn khổ quan trọng để nhận diện, theo dõi và báo cáo, không phải danh sách duy nhất những hại đáng quan tâm. Bỏ bê, bóc lột hoặc bạo lực khác vẫn cần xử lý, chuyển tuyến theo phạm vi nhiệm vụ dù chưa đủ căn cứ phân loại vào một nhóm trên.\n\n### 2.2. Nhận diện hành vi, không tự kết luận pháp lý\nViệc sử dụng trẻ có thể ở vai trò chiến đấu hoặc hỗ trợ như vận chuyển, làm nhiệm vụ phục vụ nhóm; không chỉ những trẻ cầm súng mới cần được quan tâm. Một trường học có thể bị tác động theo nhiều cách. Cần ghi điều quan sát được và báo chuyên môn, không tự quy mọi thiệt hại là cùng một loại vi phạm đã được xác minh.\n\nCó thể có nhiều vi phạm cùng tác động một trẻ. Bé trai cũng có thể bị bạo lực tình dục; bé gái có thể bị tuyển mộ và sử dụng trong nhiều vai trò. Định kiến giới có thể làm người báo cáo bỏ sót dấu hiệu. Không yêu cầu trẻ chứng minh mức độ bị hại bằng cách kể chi tiết gây tổn thương.\n\n### 2.3. Phòng ngừa ngay trong công việc\nKế hoạch, tuần tra, tiếp xúc và hỗ trợ lực lượng sở tại cần xem nguy cơ đối với trẻ, trường học, bệnh viện và tiếp cận dịch vụ. Không dùng trường học làm nơi thuận tiện cho hoạt động làm tăng rủi ro hoặc trái quy định bảo vệ. Không giao trẻ nhiệm vụ phục vụ đơn vị hoặc thu thông tin nghiệp vụ.\n\n**Điểm cần nhớ:** Nhớ sáu nhóm giúp phát hiện và báo đúng trọng tâm; hành động cần dựa trên an toàn, thông tin có căn cứ và cơ chế xác minh chuyên môn, không dựa vào suy diễn từ một hình ảnh hoặc lời đồn.",
+        "en": "### 2.1. Know the six categories and their scope\nThe UN identifies six grave violations against children in armed conflict:\n\n1. **Recruitment and use** by armed forces or groups.\n2. **Killing and maiming.**\n3. **Rape and other sexual violence.**\n4. **Attacks on schools and hospitals.**\n5. **Abduction.**\n6. **Denial of humanitarian access.**\n\nThese categories guide identification, monitoring and reporting; they do not exhaust all harmful conduct. Neglect, exploitation and other violence may require authorized response and referral even where classification remains uncertain.\n\n### 2.2. Identify conduct without inventing legal findings\nUse of children includes combat and supporting roles such as carrying supplies or serving a group; weapons are not required for concern. Schools can be affected in different ways. Record observations for specialist assessment instead of treating every damage report as an identically verified violation.\n\nSeveral violations may affect one child. Boys can experience sexual violence and girls can be recruited into different roles. Gender stereotypes can conceal indicators. Do not demand distressing detail as proof of harm.\n\n### 2.3. Prevention in daily work\nPlanning, patrols, engagement and partner support must consider children, schools, hospitals and service access. Do not use schools for operational convenience in ways increasing risk or breaching safeguards. Children must not serve the unit or gather operational information.\n\n**Remember:** The six categories help recognize concerns; safe, evidence-based action and specialist verification remain essential."
+      },
+      "sourceIds": [
+        "C15",
+        "CP2025"
+      ]
+    },
+    {
+      "id": "CORE-10-03",
+      "title": {
+        "vi": "3. Tiếp xúc thân thiện và không gây thêm hại",
+        "en": "3. Child-sensitive interaction without further harm"
+      },
+      "body": {
+        "vi": "### 3.1. Tạo điều kiện để trẻ hiểu và cảm thấy an toàn\nGiới thiệu mình bằng lời dễ hiểu, giải thích lý do tiếp xúc và những gì có thể xảy ra tiếp theo trong khả năng biết và được phép. Dùng câu ngắn, thời gian phù hợp và ngôn ngữ trẻ hiểu. Không đe dọa, quát mắng, giễu cợt hoặc hứa kết quả để trẻ làm theo. Người hỗ trợ phiên dịch phải phù hợp và không làm tăng nguy cơ.\n\nQuan sát nhu cầu y tế, mệt, sợ hãi hoặc nhu cầu chăm sóc trước khi hỏi thêm. Khi cần hỗ trợ khẩn cấp, kích hoạt cơ chế thay vì buộc trẻ hoàn thành lời kể. Có người chăm sóc không tự chứng minh an toàn; người đi cùng cũng có thể liên quan hại. Việc xác định ai nên có mặt cần theo lợi ích trẻ và hướng dẫn chuyên môn.\n\n### 3.2. Hỏi vừa đủ cho vai trò\nCán bộ tuyến đầu thường cần thông tin tối thiểu để nhận diện, hiểu nhu cầu an toàn và chuyển đúng nơi. Không tự làm phỏng vấn điều tra hoặc hỏi lặp lại chi tiết bạo lực khi không được giao và chưa được đào tạo. Câu hỏi gợi ý có thể làm sai thông tin và gây thêm hại.\n\nTrong trường hợp trẻ bị UN giữ theo SOP, việc hỏi vượt thông tin về danh tính, tuổi, nhu cầu y tế và nơi gia đình phải theo bảo đảm chuyên biệt, do CPA, đầu mối hoặc cán bộ bảo vệ trẻ em được giao thực hiện. Không sử dụng trẻ làm nguồn khai thác thông tin quân sự hoặc nghiệp vụ. Bảo vệ và nhu cầu chăm sóc không được phụ thuộc việc trẻ cung cấp tin.\n\n### 3.3. Giữ ranh giới nghề nghiệp\nKhông tạo quan hệ riêng tư không phù hợp, đổi quà hoặc lợi ích để lấy sự thân thiện, đưa trẻ vào nơi ở riêng hoặc liên hệ cá nhân ngoài cơ chế. Không chụp, đăng tên, khuôn mặt hoặc câu chuyện nhạy cảm vì muốn thể hiện hoạt động có ích. Lời đồng ý của một trẻ không tự đủ cho mọi hình thức công khai; cần quy định bảo vệ, đồng ý phù hợp và đánh giá nguy cơ.\n\n**Điểm cần nhớ:** Thân thiện là tôn trọng, rõ ràng và an toàn; không phải thân mật riêng tư. Mỗi tiếp xúc cần phù hợp mục đích nhiệm vụ và khả năng chuyên môn.",
+        "en": "### 3.1. Help children understand and feel safe\nIntroduce yourself, explain the purpose and foreseeable next steps in simple language. Use short sentences, suitable timing and understandable language. Do not threaten, ridicule or promise outcomes to obtain compliance. Interpretation must be appropriate and safe.\n\nAddress medical needs, fatigue, fear and care needs before further questioning. Activate urgent assistance rather than requiring a complete account. A caregiver’s presence does not itself establish safety; an accompanying person may be implicated in harm. Seek appropriate guidance on who should participate.\n\n### 3.2. Ask only what your role requires\nFront-line personnel generally need limited information for identity, immediate safety and referral. Do not conduct unassigned or untrained investigative interviews or repeatedly seek traumatic details. Leading questions can distort accounts and cause harm.\n\nFor children in UN custody under the detention SOP, questions beyond identity, age, medical needs and family whereabouts require specialist safeguards and designated child-protection personnel. Do not exploit children for military or operational intelligence. Care must not depend on information provision.\n\n### 3.3. Maintain professional boundaries\nAvoid inappropriate private relationships, gifts exchanged for attention, private accommodation or personal contact outside approved arrangements. Do not publish identities, faces or sensitive stories to demonstrate achievement. A child’s agreement alone does not authorize every publication; apply safeguards, appropriate consent and risk assessment.\n\n**Remember:** Child-friendly means respectful, clear and safe, not privately intimate. Interaction must fit the duty purpose and professional competence."
+      },
+      "sourceIds": [
+        "CP2025",
+        "DET2020"
+      ]
+    },
+    {
+      "id": "CORE-10-04",
+      "title": {
+        "vi": "4. Ghi nhận, chuyển tuyến và cơ chế MRM",
+        "en": "4. Recording, referral and the MRM"
+      },
+      "body": {
+        "vi": "### 4.1. Thông tin ban đầu và việc xác minh\nKhi thấy hoặc nhận thông tin về hại đối với trẻ, ghi thời gian, địa điểm, hành vi, người liên quan trong mức biết, nguồn, tình trạng và nhu cầu khẩn. Phân biệt quan sát trực tiếp, lời thuật lại và nhận định. Nếu có nguy cơ tức thời, báo khẩn và thực hiện phần việc bảo vệ được phép; không chờ xác minh toàn bộ mới đề nghị trợ giúp.\n\nKhông tự điều tra sâu, liên hệ người bị cáo buộc hoặc công khai nghi vấn theo cách làm tăng nguy cơ cho trẻ và nguồn. Việc xác minh theo cơ chế cần chuyên môn và thẩm quyền. Thông tin có thể hữu ích ngay cả khi chưa đầy đủ, miễn là giới hạn được nêu rõ và chuyển đúng nơi.\n\n### 4.2. MRM là cơ chế chuyên biệt\n**Monitoring and Reporting Mechanism (MRM)** là cơ chế giám sát và báo cáo về sáu vi phạm nghiêm trọng đối với trẻ em trong tình huống xung đột, hoạt động theo khuôn khổ và tổ chức liên quan. Cán bộ phái bộ đóng góp bằng nhận diện, ghi nhận và chuyển thông tin theo kênh bảo vệ trẻ em; không tự nhận quyền xác minh chính thức hoặc đưa chủ thể vào danh sách.\n\nTrong phái bộ, cần biết CPA, bộ phận bảo vệ trẻ em, đầu mối cảnh sát và tuyến chỉ huy. Khi không có một bộ phận, sử dụng cơ chế được chỉ định, không coi đó là lý do không báo. Phối hợp còn có thể gồm nhân quyền, y tế, công tác giới và đối tác chăm sóc, theo nhu cầu và quyền truy cập.\n\n### 4.3. Chuyển tuyến phục vụ trẻ\nChuyển tuyến có thể nhằm y tế, bảo vệ, trợ giúp pháp lý hoặc chăm sóc thay thế. Cần làm rõ nơi nhận, khả năng tiếp nhận, thông tin tối thiểu và nguy cơ khi di chuyển hoặc thông báo. Không chỉ đưa một số điện thoại rồi cho rằng trẻ tự giải quyết được.\n\nBảo vệ dữ liệu nhận dạng và trao đổi qua hệ thống được phép. Không chuyển cùng một hồ sơ cho mọi đối tác chỉ để chắc chắn có người đọc. Theo dõi phần việc được giao để biết trẻ đã tiếp cận đầu mối phù hợp, nhưng không truy cập hoặc sao chép dữ liệu ngoài nhu cầu. **Điểm cần nhớ:** Báo cáo và chuyển tuyến bổ sung nhau; mục tiêu không phải hoàn thành biểu mẫu mà là giúp thông tin dẫn đến bảo vệ thực tế.",
+        "en": "### 4.1. Initial information and verification\nRecord timing, location, conduct, known actors, source, condition and urgent needs. Distinguish observation, reported accounts and assessment. Report immediate danger and perform authorized protection without awaiting complete verification.\n\nDo not independently investigate, confront alleged perpetrators or publicize concerns in ways endangering children or sources. Verification requires competent mechanisms. Incomplete information can still help when limitations are explicit and recipients appropriate.\n\n### 4.2. The MRM is a specialized mechanism\nThe **Monitoring and Reporting Mechanism (MRM)** concerns six grave violations in armed conflict under designated frameworks and arrangements. Mission personnel contribute identification, recording and referral through child-protection channels. They do not independently claim official verification or listing authority.\n\nKnow the CPA, child-protection section, police focal points and command contacts. Where a dedicated section is absent, use designated arrangements rather than failing to report. Human rights, medical, gender and care partners may contribute according to need and authorized access.\n\n### 4.3. Referral serves the child\nMedical, protection, legal or interim-care referrals require identified recipients, capacity, minimum necessary information and consideration of movement or notification risks. Giving a phone number alone may not make services accessible.\n\nProtect identifying data and use approved systems. Do not circulate full files to every partner. Follow up assigned responsibilities without collecting unnecessary information. **Remember:** Reporting and referral should produce protection, not merely completed forms."
+      },
+      "sourceIds": [
+        "C15",
+        "CP2025"
+      ]
+    },
+    {
+      "id": "CORE-10-05",
+      "title": {
+        "vi": "5. Trẻ liên quan lực lượng hoặc nhóm vũ trang",
+        "en": "5. Children associated with armed forces or groups"
+      },
+      "body": {
+        "vi": "### 5.1. Trước hết là người cần được bảo vệ\nTrẻ có thể bị tuyển mộ, sử dụng, cưỡng ép, lệ thuộc hoặc bị đe dọa theo nhiều cách. Trẻ liên quan lực lượng hay nhóm vũ trang phải được xem trước hết là nạn nhân và được bảo vệ phù hợp. Không tự gọi trẻ là người lớn hoặc tội phạm chỉ vì có mặt cùng nhóm, mặc trang phục hoặc làm nhiệm vụ hỗ trợ.\n\nĐồng thời, nhận diện tư cách cần bảo vệ không có nghĩa bỏ qua nguy cơ tức thời. Cán bộ phải chuẩn bị, tuân thủ mandate, DUF/ROE áp dụng và ưu tiên tránh, giảm hại khi có tình huống nguy hiểm. Không suy từ hành vi của một trẻ để áp dụng biện pháp chung với tất cả trẻ hoặc cả cộng đồng.\n\n### 5.2. Tách khỏi hại và phối hợp chuyên môn\nKhi có trẻ rời nhóm hoặc được đưa vào kiểm soát UN, báo ngay qua chỉ huy và đầu mối bảo vệ trẻ em. Cần phối hợp về an toàn, y tế, nhận diện gia đình, chăm sóc và nguy cơ tái tuyển mộ. Không công khai ảnh trẻ cùng câu chuyện được giải cứu nếu điều đó làm tăng kỳ thị hoặc nguy cơ.\n\nHỗ trợ rời nhóm và tái hòa nhập cần theo cơ chế chuyên môn. Không buộc trẻ phải có vũ khí để chứng minh đủ điều kiện được quan tâm hoặc được rời nhóm. Khôi phục cuộc sống, tiếp cận học tập, chăm sóc và cộng đồng có thể cần nhiều đối tác, không chỉ một hoạt động bàn giao.\n\n### 5.3. Không xử lý như một hồ sơ người lớn\nChỉ nghi liên quan nhóm vũ trang không tự đủ để quyết định truy cứu hoặc đưa vào cơ sở giữ người lớn. Nếu có cáo buộc cụ thể về hành vi phạm tội, việc xử lý vẫn phải có căn cứ, cơ quan có thẩm quyền và bảo đảm tư pháp trẻ em. Nhân sự UN không tự đóng vai cơ quan công tố hoặc quyết định trách nhiệm hình sự.\n\n**Điểm cần nhớ:** Bảo vệ và an toàn cần được giải quyết đồng thời, có chuyên môn và theo từng trẻ. Không đánh đổi nhu cầu chăm sóc để lấy thông tin hoặc biến việc trẻ rời nhóm thành thủ tục chỉ đếm số người, số vũ khí.",
+        "en": "### 5.1. Treat children primarily as victims\nRecruitment and use may involve coercion, dependency and threats. Children associated with armed forces or groups must be treated primarily as victims requiring protection. Presence, clothing or supporting duties do not automatically establish adulthood or criminal responsibility.\n\nProtection does not eliminate actual immediate risks. Personnel must prepare, follow applicable mandate and DUF/ROE and prioritize avoiding and reducing harm. One child’s conduct cannot justify measures against all children or a community.\n\n### 5.2. Separation from harm requires coordination\nWhen children leave groups or enter UN control, notify command and child-protection channels immediately. Coordinate safety, health, family identification, care and re-recruitment risks. Public rescue stories and images may increase stigma and danger.\n\nSpecialist arrangements govern release and reintegration. Possession of a weapon must not be required for access to release or care. Recovery, education and community reintegration need several partners, not a handover event alone.\n\n### 5.3. Do not treat the case as an adult file\nAlleged association alone does not automatically authorize prosecution or adult custody. Specific offence allegations still require a legal basis, competent authorities and child-justice safeguards. UN personnel do not independently become prosecutors or determine criminal responsibility.\n\n**Remember:** Address protection and safety together, individually and with expertise. Do not exchange care for information or reduce release to headcounts and weapons totals."
+      },
+      "sourceIds": [
+        "CP2025",
+        "DET2020"
+      ]
+    },
+    {
+      "id": "CORE-10-06",
+      "title": {
+        "vi": "6. Tước tự do, tư pháp phù hợp và bàn giao an toàn",
+        "en": "6. Deprivation of liberty, child-sensitive justice and safe handover"
+      },
+      "body": {
+        "vi": "### 6.1. Biện pháp cuối cùng, thời gian ngắn nhất phù hợp\nTước tự do đối với trẻ chỉ là biện pháp cuối cùng, hợp pháp và trong thời gian ngắn nhất phù hợp. Cần ưu tiên giải pháp thay thế khi có thể và do cơ quan có thẩm quyền xem xét. Chuyển hướng khỏi tố tụng hoặc áp dụng biện pháp không giam giữ không có nghĩa cán bộ tùy ý xóa vụ việc; phải đúng cơ chế và bảo đảm quyền.\n\nTrẻ cần được hiểu lý do, quyền, tiếp cận trợ giúp pháp lý và hỗ trợ phù hợp tuổi, có cơ chế xem xét việc tước tự do. Không ép nhận tội hoặc dùng thiếu hiểu biết để lấy lời khai. Quan hệ với gia đình, chăm sóc, y tế và bảo vệ dữ liệu phải được tính trong xử lý; không coi kết quả thuận tiện cho cơ quan là lợi ích tốt nhất.\n\n### 6.2. Khi trẻ do UN kiểm soát\nBáo ngay chỉ huy và tham vấn đầu mối bảo vệ trẻ em. Bố trí bảo vệ phù hợp, tách khỏi người bị giữ là người lớn và theo yêu cầu riêng đối với trẻ em gái, trẻ em trai. Không thực hiện kiểm tra cơ thể xâm phạm hoặc hỏi sâu ngoài thẩm quyền; áp dụng phụ lục bảo đảm cho trẻ.\n\nPhải nỗ lực chuyển trẻ đến cơ quan bảo vệ trẻ em sở tại hoặc đối tác nhân đạo có khả năng chăm sóc tạm thời an toàn **trong 48 giờ từ khi bắt đầu kiểm soát**. Đây không phải quyền giữ đủ 48 giờ. Việc bàn giao cần đánh giá nguy cơ, gồm tra tấn, tái tuyển mộ, giam giữ bởi cơ quan quân sự hoặc xét xử tại tòa quân sự, giữ không buộc tội hay truy tố chỉ vì liên quan nhóm vũ trang.\n\n### 6.3. Ngoại lệ không do cán bộ tự quyết\nNếu không có nơi chăm sóc an toàn phù hợp hoặc có đe dọa thể chất hiện hữu, trực tiếp và cấp thiết liên quan đến trẻ, phụ lục SOP quy định cơ chế ngoại lệ đặc biệt. Người đứng đầu phái bộ, cùng CPA hoặc đầu mối, phải xem xét tiếp tục kiểm soát tạm thời **mỗi 48 giờ**, nỗ lực xử lý nguy cơ và tìm phương án chăm sóc thích hợp. Không viện dẫn chung “vì an toàn” để tự giữ kéo dài.\n\nTìm gia đình hoặc đoàn tụ cần đánh giá an toàn, xác minh và chuyên môn; không giao ngay cho bất kỳ người lớn nào nhận là thân nhân. **Điểm cần nhớ:** Không bàn giao vào nguy cơ, không tự kéo dài giữ trẻ, và không coi thả trẻ không có chăm sóc an toàn là giải pháp mặc định.",
+        "en": "### 6.1. Last resort for the shortest appropriate period\nChild deprivation of liberty must be lawful, a last resort and for the shortest appropriate period. Competent authorities should consider alternatives where possible. Diversion or non-custodial measures require authorized arrangements and safeguards, not arbitrary cancellation by an officer.\n\nChildren need understandable reasons, rights, legal assistance, age-appropriate support and review of deprivation of liberty. Do not exploit limited understanding or coerce confession. Consider family, care, health and privacy; institutional convenience is not best interests.\n\n### 6.2. Children under UN control\nImmediately notify command and consult child-protection personnel. Arrange appropriate protection, separation from adult detainees and required safeguards for girls and boys. Do not perform prohibited intrusive searches or unassigned specialist questioning.\n\nMake every effort to transfer children to host-State child-protection authorities or safe humanitarian interim care **within 48 hours from initial apprehension**. This does not authorize waiting the full period. Assess risks including torture, re-recruitment, military detention or military-court proceedings, detention without charge and prosecution solely for alleged armed-group association.\n\n### 6.3. Officers cannot decide exceptions independently\nWhere suitable safe interim care is unavailable, or a present, direct and imperative physical threat exists from or to the child, the SOP annex provides a narrow exceptional mechanism. The Head of Mission, consulting the CPA or focal point, must review continued temporary control **every 48 hours**, address the threat and seek suitable care. General safety claims do not authorize independent prolonged detention.\n\nFamily tracing and reunification require safety assessment, verification and expertise; do not hand a child to any adult claiming kinship. **Remember:** Avoid unsafe handover, unauthorized extension and abandonment without safe care."
+      },
+      "sourceIds": [
+        "CRC",
+        "CP2025",
+        "DET2020"
+      ]
+    },
+    {
+      "id": "CORE-10-07",
+      "title": {
+        "vi": "7. Bảo vệ trẻ trong kế hoạch, hành vi và đánh giá",
+        "en": "7. Protect children through planning, conduct and review"
+      },
+      "body": {
+        "vi": "### 7.1. Tính đến trẻ trước hoạt động\nĐánh giá cần xem trẻ hiện diện ở đâu, nguy cơ nào khác với người lớn, đường tiếp cận trợ giúp, trường học, bệnh viện và người chăm sóc. Trong hoạt động trật tự công cộng, trẻ có thể là người tham gia, đi cùng gia đình hoặc chỉ có mặt tại địa bàn; không coi tất cả là đối tượng gây rối. Phương án phải tính việc giảm căng thẳng, hỗ trợ và nguy cơ phát sinh từ chính hoạt động.\n\nFPU, IPO, bộ phận bảo đảm và chuyên gia bảo vệ trẻ em cần phối hợp theo nhiệm vụ. Phải có đầu mối nhận trẻ, hỗ trợ y tế, kênh báo và phương án khi trẻ tách gia đình. Không đợi đến lúc đã kiểm soát một nhóm trẻ mới bắt đầu tìm xem ai phụ trách.\n\n### 7.2. Hành vi của chính nhân sự UN\nKhông bóc lột, xâm hại, tuyển dụng hoặc sử dụng trẻ để phục vụ hoạt động đơn vị trái chuẩn mực. Không đổi tiền, quà hoặc hỗ trợ lấy quan hệ tình dục hay lợi ích riêng. Hoạt động tiếp xúc, hình ảnh truyền thông và hỗ trợ phải có cơ chế bảo vệ trẻ, không chỉ dựa vào thiện chí cá nhân.\n\nKhi có dấu hiệu vi phạm của nhân sự UN hoặc đối tác, báo theo cơ chế tương ứng và bảo vệ người cung cấp thông tin. Không tự hòa giải để giữ danh tiếng đơn vị, hoặc chỉ chuyển trẻ ra khỏi nơi xảy ra rồi coi vụ việc đã giải quyết. Nhu cầu chăm sóc và trách nhiệm xử lý sai phạm là hai phần đều cần thực hiện.\n\n### 7.3. Theo dõi kết quả và bàn giao\nĐánh giá không chỉ đếm số trẻ đã gặp, được đưa đi hoặc nhận quà. Cần xem trẻ đã đến dịch vụ phù hợp chưa, nguy cơ còn lại, có bị kỳ thị hoặc tái tuyển mộ không, và ai tiếp tục theo dõi theo chức năng. Chia sẻ chỉ thông tin cần thiết, qua hệ thống được phép; không giữ danh sách trẻ trong tài khoản cá nhân.\n\nKhi luân chuyển, bàn giao đầu mối, công việc còn mở, nguy cơ và giới hạn thông tin, tránh để trẻ phải kể lại vì hồ sơ không được chuyển đúng. **Kết thúc bài:** Mỗi quyết định phải kết nối quyền, an toàn và lợi ích của từng trẻ với cơ chế chuyên môn. Bảo vệ tốt giúp giảm hại và duy trì chăm sóc có trách nhiệm, không chỉ hoàn tất một hoạt động trước mắt.",
+        "en": "### 7.1. Include children before operations\nAssess children’s locations, distinct risks, services, schools, hospitals and caregivers. In public-order settings, children may participate, accompany families or merely be present; do not treat all as disorderly actors. Plan de-escalation, assistance and prevention of harm caused by the operation itself.\n\nFPUs, IPOs, support personnel and specialists need assigned coordination. Identify receiving contacts, medical support, reporting and family-separation arrangements before encountering children in custody.\n\n### 7.2. Safeguards apply to UN personnel\nDo not exploit, abuse, recruit or use children contrary to standards. Never exchange money, gifts or assistance for sexual or personal benefit. Engagement, communications and support require safeguarding arrangements rather than goodwill alone.\n\nReport concerns involving UN personnel or partners through appropriate mechanisms and protect sources. Do not privately settle misconduct to preserve reputation, or assume removing a child resolves the case. Care and accountability both require action.\n\n### 7.3. Follow outcomes and hand over responsibly\nMeeting, transfer or gift counts do not establish protection. Check access to suitable services, continuing risks, stigma or re-recruitment and assigned follow-up responsibility. Share necessary information through approved systems, not private accounts.\n\nRotations require clear contacts, outstanding work, risks and information limits so poor handover does not force repeated accounts. **Retain:** Connect each child’s rights, safety and best interests with competent arrangements. Effective protection reduces harm and sustains accountable care beyond a single activity."
+      },
+      "sourceIds": [
+        "C15",
+        "CP2025"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "C15",
+      "title": "2.6 Child Protection",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-419%20Lesson%202.6%20Child%20Protection.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 39,
+      "pdf_name": "2025 - Lesson 2.6 Child Protection - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "DET2020",
+      "title": "SOP 2020.13: Handling of Detention, including Annex B on children",
+      "url": "https://resourcehub01.blob.core.windows.net/$web/Policy%20and%20Guidance/corepeacekeepingguidance/Security/Safety%20and%20Security%20Management/2020.13%20Handling%20of%20Detention%20in%20United%20Nations%20Peacekeeping%20Operations%20and%20Special%20Political%20Missions%20(SOP).pdf",
+      "year": "2020 / effective 2021",
+      "publisher": "United Nations DPO / DPPA / DSS",
+      "format": "pdf",
+      "pages": 47
+    },
+    {
+      "id": "CP2025",
+      "title": "Handbook on Child Protection for United Nations Uniformed Personnel, Ref. 2025.13",
+      "url": "https://resourcehub01.blob.core.windows.net/%24web/Policy%20and%20Guidance/corepeacekeepingguidance/Thematic%20Operational%20Activities/Child%20Protection/2025.13%20Handbook%20on%20Child%20Protection%20for%20United%20Nations%20Uniformed%20Personnel.pdf",
+      "year": "2025",
+      "publisher": "United Nations DPO",
+      "format": "pdf",
+      "pages": 176
+    },
+    {
+      "id": "CRC",
+      "title": "Convention on the Rights of the Child — Articles 2, 3, 6, 12, 37 and 40",
+      "url": "https://www.unicef.org/child-rights-convention/convention-text",
+      "year": "1989",
+      "publisher": "United Nations / UNICEF",
+      "format": "web"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Khi tuổi còn nghi ngờ trong trường hợp UN kiểm soát người, cách phù hợp là gì?",
+        "en": "What is appropriate when age is uncertain during UN custody?"
+      },
+      "options": [
+        {
+          "vi": "Để người đi cùng tự quyết.",
+          "en": "Let an accompanying person decide."
+        },
+        {
+          "vi": "Coi là người lớn nếu vóc dáng lớn.",
+          "en": "Treat as adult if physically large."
+        },
+        {
+          "vi": "Giả định là trẻ và chuyển đánh giá theo cơ chế chuyên môn.",
+          "en": "Presume minority and arrange competent assessment."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Ngoại hình hoặc hoàn cảnh không đủ thay đánh giá tuổi; bảo đảm trẻ cần được duy trì khi còn nghi ngờ. Xem mục 1.",
+        "en": "Appearance or circumstances do not replace assessment; preserve safeguards during uncertainty. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Lợi ích tốt nhất của trẻ được xác định thế nào?",
+        "en": "How should best interests be considered?"
+      },
+      "options": [
+        {
+          "vi": "Theo ý kiến duy nhất của bất kỳ người lớn đi cùng.",
+          "en": "By the sole view of any accompanying adult."
+        },
+        {
+          "vi": "Theo hoàn cảnh, quyền, nguy cơ, nhu cầu và ý kiến phù hợp của trẻ.",
+          "en": "Through circumstances, rights, risks, needs and appropriate consideration of the child’s views."
+        },
+        {
+          "vi": "Theo phương án thuận tiện nhất cho đơn vị.",
+          "en": "By the most convenient option for the unit."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Nhãn lợi ích tốt nhất không thay thế cân nhắc thực chất và chuyên môn khi cần. Xem mục 1.",
+        "en": "A best-interests label does not replace substantive reasoning or expertise. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Nhóm nào thuộc sáu vi phạm nghiêm trọng?",
+        "en": "Which is one of the six grave violations?"
+      },
+      "options": [
+        {
+          "vi": "Từ chối tiếp cận nhân đạo đối với trẻ em.",
+          "en": "Denial of humanitarian access to children."
+        },
+        {
+          "vi": "Mọi khó khăn học tập không liên quan xung đột.",
+          "en": "Every learning difficulty unrelated to conflict."
+        },
+        {
+          "vi": "Mọi tranh luận trong gia đình.",
+          "en": "Every family disagreement."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Sáu nhóm có phạm vi chuyên biệt; hại khác vẫn cần quan tâm theo nhiệm vụ. Xem mục 2.",
+        "en": "The six categories have specific scope; other harm still requires appropriate attention. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Chỉ trẻ cầm súng mới có thể bị tuyển mộ và sử dụng không?",
+        "en": "Must a child carry a weapon to be recruited or used?"
+      },
+      "options": [
+        {
+          "vi": "Có; chỉ bé trai được tính.",
+          "en": "Yes; only boys count."
+        },
+        {
+          "vi": "Có; không có súng thì không cần báo.",
+          "en": "Yes; no weapon means no reporting need."
+        },
+        {
+          "vi": "Không; có thể bị sử dụng trong nhiều vai trò hỗ trợ.",
+          "en": "No; use can include several supporting roles."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Không giới hạn nhận diện vào vũ khí hoặc định kiến giới; ghi hành vi và chuyển chuyên môn. Xem mục 2.",
+        "en": "Do not limit identification to weapons or gender stereotypes; record conduct for specialist assessment. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Cán bộ tuyến đầu không được giao phỏng vấn chuyên sâu nên làm gì?",
+        "en": "What should front-line personnel without specialist interview tasking do?"
+      },
+      "options": [
+        {
+          "vi": "Gợi ý câu trả lời để trẻ bớt lúng túng.",
+          "en": "Suggest answers to reduce hesitation."
+        },
+        {
+          "vi": "Yêu cầu kể mọi chi tiết nhiều lần để kiểm tra nhất quán.",
+          "en": "Require repeated detailed accounts to test consistency."
+        },
+        {
+          "vi": "Hỏi vừa đủ để bảo vệ, nhận diện nhu cầu và chuyển đúng nơi.",
+          "en": "Ask only what is needed for protection, needs and referral."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Hỏi vượt năng lực có thể gây hại và làm sai thông tin; vai trò cần được giữ rõ. Xem mục 3.",
+        "en": "Questioning beyond competence may harm the child and distort information; maintain role limits. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Một trẻ đồng ý chụp ảnh đã đủ để công khai mọi thông tin chưa?",
+        "en": "Does a child agreeing to a photograph authorize publishing all information?"
+      },
+      "options": [
+        {
+          "vi": "Đủ vì trẻ đã nói đồng ý.",
+          "en": "Yes, because the child agreed."
+        },
+        {
+          "vi": "Chưa; cần quy định bảo vệ, đồng ý phù hợp và đánh giá nguy cơ.",
+          "en": "No; safeguards, appropriate consent and risk assessment remain necessary."
+        },
+        {
+          "vi": "Đủ nếu ảnh phục vụ hình ảnh tốt của UN.",
+          "en": "Yes, if it supports a positive UN image."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Thiện chí truyền thông không xóa nguy cơ nhận diện, kỳ thị hoặc trả đũa. Xem mục 3.",
+        "en": "Positive publicity does not remove identification, stigma or retaliation risks. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Cán bộ đóng góp vào MRM bằng cách nào?",
+        "en": "How do personnel contribute to the MRM?"
+      },
+      "options": [
+        {
+          "vi": "Tự xác minh chính thức và công bố danh sách chủ thể.",
+          "en": "Independently verify officially and publish actor lists."
+        },
+        {
+          "vi": "Nhận diện, ghi nhận và chuyển thông tin qua cơ chế bảo vệ trẻ em.",
+          "en": "Identify, record and refer through child-protection arrangements."
+        },
+        {
+          "vi": "Chỉ ghi khi đã có kết luận tòa án.",
+          "en": "Record only after a court finding."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Thông tin ban đầu có giá trị nhưng việc xác minh, sử dụng chính thức theo cơ chế có thẩm quyền. Xem mục 4.",
+        "en": "Initial information matters, while official verification and use follow competent mechanisms. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Trẻ liên quan nhóm vũ trang trước hết cần được nhìn nhận thế nào?",
+        "en": "How should children associated with armed groups primarily be treated?"
+      },
+      "options": [
+        {
+          "vi": "Là nạn nhân cần bảo vệ, đồng thời đánh giá nguy cơ thực tế.",
+          "en": "As victims requiring protection while assessing actual immediate risks."
+        },
+        {
+          "vi": "Là người lớn vì đã tham gia nhóm.",
+          "en": "As adults because of association."
+        },
+        {
+          "vi": "Là nguồn thông tin để đổi lấy chăm sóc.",
+          "en": "As information sources in exchange for care."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Bảo vệ không bỏ qua an toàn, nhưng không được mặc định tội hoặc đánh đổi quyền. Xem mục 5.",
+        "en": "Protection does not ignore safety, but guilt cannot be presumed or rights traded. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Trẻ rời nhóm có cần mang vũ khí để được quan tâm không?",
+        "en": "Must a child leaving a group possess a weapon to receive attention?"
+      },
+      "options": [
+        {
+          "vi": "Không; không đặt vũ khí làm điều kiện bảo vệ hoặc rời nhóm.",
+          "en": "No; weapons are not a condition for protection or release."
+        },
+        {
+          "vi": "Có để xác nhận đủ giá trị bàn giao.",
+          "en": "Yes, to establish handover value."
+        },
+        {
+          "vi": "Có nếu trẻ từng làm nhiệm vụ hỗ trợ.",
+          "en": "Yes, if the child performed support roles."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Tuyển mộ và sử dụng có nhiều dạng; điều kiện vũ khí có thể bỏ sót trẻ cần giúp. Xem mục 5.",
+        "en": "Recruitment and use take different forms; a weapon condition can exclude children needing assistance. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Tước tự do với trẻ phải được xem xét thế nào?",
+        "en": "How must deprivation of liberty of children be treated?"
+      },
+      "options": [
+        {
+          "vi": "Biện pháp cuối cùng, hợp pháp, thời gian ngắn nhất phù hợp và có bảo đảm.",
+          "en": "As a lawful last resort for the shortest appropriate period with safeguards."
+        },
+        {
+          "vi": "Giữ như người lớn rồi bổ sung bảo đảm sau.",
+          "en": "Use adult custody and add safeguards later."
+        },
+        {
+          "vi": "Mặc định cần thiết nếu có cáo buộc.",
+          "en": "As automatically necessary whenever alleged wrongdoing exists."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Trẻ cần xem xét biện pháp thay thế và thủ tục riêng; cáo buộc không xóa quyền. Xem mục 6.",
+        "en": "Consider alternatives and child-specific procedures; allegations do not remove rights. See section 6."
+      },
+      "chapter": 5
+    },
+    {
+      "question": {
+        "vi": "Nếu không có nơi chăm sóc an toàn sau mốc bàn giao trẻ, cán bộ được làm gì?",
+        "en": "What should happen if safe care is unavailable beyond the child handover timeframe?"
+      },
+      "options": [
+        {
+          "vi": "Tự kéo dài không thời hạn vì chưa có nơi nhận.",
+          "en": "Independently extend indefinitely because no recipient exists."
+        },
+        {
+          "vi": "Thả trẻ ngay ở bất kỳ đâu để hết trách nhiệm.",
+          "en": "Release the child anywhere to end responsibility."
+        },
+        {
+          "vi": "Kích hoạt cơ chế phụ lục: HOM cùng CPA/đầu mối xem xét ngoại lệ và rà mỗi 48 giờ.",
+          "en": "Use the annex mechanism: HOM consultation with the CPA or focal point and review every 48 hours."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Ngoại lệ bảo vệ rất hẹp, có thẩm quyền và rà soát; không hợp pháp hóa giữ tùy ý hoặc bỏ mặc trẻ. Xem mục 6.",
+        "en": "Protective exceptions are narrow, authorized and reviewed, not arbitrary custody or abandonment. See section 6."
+      },
+      "chapter": 5
+    },
+    {
+      "question": {
+        "vi": "Đánh giá kết quả bảo vệ trẻ cần vượt lên chỉ số nào?",
+        "en": "Which output alone is insufficient to assess child protection?"
+      },
+      "options": [
+        {
+          "vi": "Đánh giá nguy cơ tái tuyển mộ.",
+          "en": "Assessment of re-recruitment risks."
+        },
+        {
+          "vi": "Chỉ số trẻ đã gặp hoặc đã chuyển đi.",
+          "en": "Numbers met or transferred alone."
+        },
+        {
+          "vi": "Thông tin về tiếp cận dịch vụ phù hợp.",
+          "en": "Information on access to suitable services."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Cần xem an toàn, chăm sóc và theo dõi; số lượt hoạt động chưa chứng minh giảm hại. Xem mục 7.",
+        "en": "Assess safety, care and follow-up; activity counts do not prove harm reduction. See section 7."
+      },
+      "chapter": 6
+    }
+  ],
+  "updated": "2026-10-28",
+  "moduleId": "CORE-M2",
+  "moduleOrder": 2,
+  "lessonOrder": 4,
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "CORE-10-01",
+      "title": {
+        "vi": "1. Trẻ em, lợi ích tốt nhất và trách nhiệm bảo vệ",
+        "en": "1. Children, best interests and protection duties"
+      },
+      "body": {
+        "vi": "### 1.1. Nhận diện trẻ em theo chuẩn UN\nTrong hoạt động UN, người dưới **18 tuổi** được xem là trẻ em để áp dụng bảo vệ tương ứng. Không căn cứ riêng vóc dáng, việc mang vũ khí, tình trạng kết hôn hoặc lời khẳng định của một người khác để coi trẻ là người lớn. Khi còn nghi ngờ tuổi của người do UN kiểm soát, áp dụng giả định là trẻ em và chuyển đánh giá theo cơ chế chuyên môn; không tự làm kiểm tra ngoài năng lực.\n\nTrẻ em không phải một nhóm đồng nhất. Tuổi, giới, khuyết tật, ngôn ngữ, hoàn cảnh gia đình, di dời và trải nghiệm bạo lực có thể ảnh hưởng nhu cầu, khả năng hiểu và phản ứng. Không lấy vẻ bình tĩnh làm bằng chứng không bị hại, hoặc coi khóc, im lặng, kể không liền mạch là nói dối.\n\n### 1.2. Bốn nguyên tắc định hướng\n**Không phân biệt đối xử** bảo đảm mọi trẻ được quan tâm theo nhu cầu và quyền. **Lợi ích tốt nhất của trẻ** phải là cân nhắc hàng đầu trong quyết định có liên quan; không đồng nhất với điều cán bộ thấy thuận tiện. **Quyền sống, tồn tại và phát triển** đòi hỏi quan tâm cả an toàn tức thời và ảnh hưởng lâu dài. **Quyền được lắng nghe** yêu cầu xem xét ý kiến phù hợp tuổi và mức trưởng thành, không giao cho trẻ gánh trách nhiệm quyết định thay cơ quan.\n\nCác nguyên tắc cần được xem cùng nhau. Một quyết định bảo vệ phải xét hoàn cảnh cá nhân, nguy cơ, quan hệ chăm sóc và khả năng tiếp cận dịch vụ. Không chỉ gắn nhãn “vì lợi ích trẻ” mà không giải thích căn cứ hoặc không hỏi chuyên gia khi cần.\n\n### 1.3. Trách nhiệm chung, phân công rõ\nBộ phận bảo vệ trẻ em và Child Protection Adviser (CPA) có chức năng chuyên môn, phối hợp và tham mưu theo nhiệm vụ. Đầu mối bảo vệ trẻ em trong quân sự hoặc cảnh sát giúp kết nối công việc. UNICEF và đối tác khác đóng góp theo vai trò; không một tổ chức đơn lẻ đáp ứng mọi nhu cầu.\n\nTất cả nhân sự phái bộ phải tôn trọng quyền trẻ, nhận dấu hiệu và báo qua cơ chế, nhưng không tự thực hiện mọi thủ tục chuyên sâu. **Điểm cần nhớ:** Bảo vệ trẻ em bắt đầu từ cách mỗi cán bộ hành động, đồng thời cần sử dụng đúng mạng lưới chuyên môn và chuyển tuyến.",
+        "en": "### 1.1. Identify children under UN standards\nFor UN operations, persons below **18** are children for relevant protection. Appearance, weapons, marriage or another person’s assertion do not alone establish adulthood. Where age is uncertain in UN custody, presume minority and arrange competent assessment rather than undertaking unqualified tests.\n\nChildren differ by age, gender, disability, language, family circumstances, displacement and experience of violence. Calm appearance does not prove absence of harm; crying, silence or a fragmented account does not establish dishonesty.\n\n### 1.2. Four guiding principles\n**Non-discrimination** requires attention to every child’s rights and needs. **Best interests** must be a primary consideration, not a synonym for operational convenience. **Life, survival and development** concern immediate safety and longer-term effects. **The right to be heard** requires appropriate consideration of views according to age and maturity, without making children carry institutional decision responsibilities.\n\nApply the principles together through individual circumstances, risks, care relationships and services. A best-interests label does not replace reasoning or specialist advice.\n\n### 1.3. Shared responsibility with clear roles\nChild-protection sections and the Child Protection Adviser (CPA) provide expertise, coordination and advice. Uniformed focal points connect component work. UNICEF and other partners contribute distinct capabilities; no single actor meets every need.\n\nAll personnel must respect rights, recognize concerns and report appropriately, without assuming specialist procedural powers. **Remember:** Protection begins with each officer’s conduct and requires proper use of expert and referral networks."
+      },
+      "sourceIds": [
+        "C15",
+        "CP2025",
+        "CRC",
+        "DET2020"
+      ]
+    },
+    {
+      "id": "CORE-10-02",
+      "title": {
+        "vi": "2. Sáu vi phạm nghiêm trọng trong xung đột vũ trang",
+        "en": "2. Six grave violations in armed conflict"
+      },
+      "body": {
+        "vi": "### 2.1. Nhớ đủ sáu nhóm, hiểu phạm vi\nUN xác định sáu nhóm vi phạm nghiêm trọng đối với trẻ em trong tình huống xung đột vũ trang:\n\n1. **Tuyển mộ và sử dụng trẻ em** bởi lực lượng hoặc nhóm vũ trang.\n2. **Giết hại và gây thương tật** đối với trẻ em.\n3. **Hiếp dâm và các hình thức bạo lực tình dục khác** đối với trẻ em.\n4. **Tấn công trường học và bệnh viện.**\n5. **Bắt cóc trẻ em.**\n6. **Từ chối tiếp cận nhân đạo** đối với trẻ em.\n\nĐây là khuôn khổ quan trọng để nhận diện, theo dõi và báo cáo, không phải danh sách duy nhất những hại đáng quan tâm. Bỏ bê, bóc lột hoặc bạo lực khác vẫn cần xử lý, chuyển tuyến theo phạm vi nhiệm vụ dù chưa đủ căn cứ phân loại vào một nhóm trên.\n\n### 2.2. Nhận diện hành vi, không tự kết luận pháp lý\nViệc sử dụng trẻ có thể ở vai trò chiến đấu hoặc hỗ trợ như vận chuyển, làm nhiệm vụ phục vụ nhóm; không chỉ những trẻ cầm súng mới cần được quan tâm. Một trường học có thể bị tác động theo nhiều cách. Cần ghi điều quan sát được và báo chuyên môn, không tự quy mọi thiệt hại là cùng một loại vi phạm đã được xác minh.\n\nCó thể có nhiều vi phạm cùng tác động một trẻ. Bé trai cũng có thể bị bạo lực tình dục; bé gái có thể bị tuyển mộ và sử dụng trong nhiều vai trò. Định kiến giới có thể làm người báo cáo bỏ sót dấu hiệu. Không yêu cầu trẻ chứng minh mức độ bị hại bằng cách kể chi tiết gây tổn thương.\n\n### 2.3. Phòng ngừa ngay trong công việc\nKế hoạch, tuần tra, tiếp xúc và hỗ trợ lực lượng sở tại cần xem nguy cơ đối với trẻ, trường học, bệnh viện và tiếp cận dịch vụ. Không dùng trường học làm nơi thuận tiện cho hoạt động làm tăng rủi ro hoặc trái quy định bảo vệ. Không giao trẻ nhiệm vụ phục vụ đơn vị hoặc thu thông tin nghiệp vụ.\n\n**Điểm cần nhớ:** Nhớ sáu nhóm giúp phát hiện và báo đúng trọng tâm; hành động cần dựa trên an toàn, thông tin có căn cứ và cơ chế xác minh chuyên môn, không dựa vào suy diễn từ một hình ảnh hoặc lời đồn.",
+        "en": "### 2.1. Know the six categories and their scope\nThe UN identifies six grave violations against children in armed conflict:\n\n1. **Recruitment and use** by armed forces or groups.\n2. **Killing and maiming.**\n3. **Rape and other sexual violence.**\n4. **Attacks on schools and hospitals.**\n5. **Abduction.**\n6. **Denial of humanitarian access.**\n\nThese categories guide identification, monitoring and reporting; they do not exhaust all harmful conduct. Neglect, exploitation and other violence may require authorized response and referral even where classification remains uncertain.\n\n### 2.2. Identify conduct without inventing legal findings\nUse of children includes combat and supporting roles such as carrying supplies or serving a group; weapons are not required for concern. Schools can be affected in different ways. Record observations for specialist assessment instead of treating every damage report as an identically verified violation.\n\nSeveral violations may affect one child. Boys can experience sexual violence and girls can be recruited into different roles. Gender stereotypes can conceal indicators. Do not demand distressing detail as proof of harm.\n\n### 2.3. Prevention in daily work\nPlanning, patrols, engagement and partner support must consider children, schools, hospitals and service access. Do not use schools for operational convenience in ways increasing risk or breaching safeguards. Children must not serve the unit or gather operational information.\n\n**Remember:** The six categories help recognize concerns; safe, evidence-based action and specialist verification remain essential."
+      },
+      "sourceIds": [
+        "C15",
+        "CP2025"
+      ]
+    },
+    {
+      "id": "CORE-10-03",
+      "title": {
+        "vi": "3. Tiếp xúc thân thiện và không gây thêm hại",
+        "en": "3. Child-sensitive interaction without further harm"
+      },
+      "body": {
+        "vi": "### 3.1. Tạo điều kiện để trẻ hiểu và cảm thấy an toàn\nGiới thiệu mình bằng lời dễ hiểu, giải thích lý do tiếp xúc và những gì có thể xảy ra tiếp theo trong khả năng biết và được phép. Dùng câu ngắn, thời gian phù hợp và ngôn ngữ trẻ hiểu. Không đe dọa, quát mắng, giễu cợt hoặc hứa kết quả để trẻ làm theo. Người hỗ trợ phiên dịch phải phù hợp và không làm tăng nguy cơ.\n\nQuan sát nhu cầu y tế, mệt, sợ hãi hoặc nhu cầu chăm sóc trước khi hỏi thêm. Khi cần hỗ trợ khẩn cấp, kích hoạt cơ chế thay vì buộc trẻ hoàn thành lời kể. Có người chăm sóc không tự chứng minh an toàn; người đi cùng cũng có thể liên quan hại. Việc xác định ai nên có mặt cần theo lợi ích trẻ và hướng dẫn chuyên môn.\n\n### 3.2. Hỏi vừa đủ cho vai trò\nCán bộ tuyến đầu thường cần thông tin tối thiểu để nhận diện, hiểu nhu cầu an toàn và chuyển đúng nơi. Không tự làm phỏng vấn điều tra hoặc hỏi lặp lại chi tiết bạo lực khi không được giao và chưa được đào tạo. Câu hỏi gợi ý có thể làm sai thông tin và gây thêm hại.\n\nTrong trường hợp trẻ bị UN giữ theo SOP, việc hỏi vượt thông tin về danh tính, tuổi, nhu cầu y tế và nơi gia đình phải theo bảo đảm chuyên biệt, do CPA, đầu mối hoặc cán bộ bảo vệ trẻ em được giao thực hiện. Không sử dụng trẻ làm nguồn khai thác thông tin quân sự hoặc nghiệp vụ. Bảo vệ và nhu cầu chăm sóc không được phụ thuộc việc trẻ cung cấp tin.\n\n### 3.3. Giữ ranh giới nghề nghiệp\nKhông tạo quan hệ riêng tư không phù hợp, đổi quà hoặc lợi ích để lấy sự thân thiện, đưa trẻ vào nơi ở riêng hoặc liên hệ cá nhân ngoài cơ chế. Không chụp, đăng tên, khuôn mặt hoặc câu chuyện nhạy cảm vì muốn thể hiện hoạt động có ích. Lời đồng ý của một trẻ không tự đủ cho mọi hình thức công khai; cần quy định bảo vệ, đồng ý phù hợp và đánh giá nguy cơ.\n\n**Điểm cần nhớ:** Thân thiện là tôn trọng, rõ ràng và an toàn; không phải thân mật riêng tư. Mỗi tiếp xúc cần phù hợp mục đích nhiệm vụ và khả năng chuyên môn.",
+        "en": "### 3.1. Help children understand and feel safe\nIntroduce yourself, explain the purpose and foreseeable next steps in simple language. Use short sentences, suitable timing and understandable language. Do not threaten, ridicule or promise outcomes to obtain compliance. Interpretation must be appropriate and safe.\n\nAddress medical needs, fatigue, fear and care needs before further questioning. Activate urgent assistance rather than requiring a complete account. A caregiver’s presence does not itself establish safety; an accompanying person may be implicated in harm. Seek appropriate guidance on who should participate.\n\n### 3.2. Ask only what your role requires\nFront-line personnel generally need limited information for identity, immediate safety and referral. Do not conduct unassigned or untrained investigative interviews or repeatedly seek traumatic details. Leading questions can distort accounts and cause harm.\n\nFor children in UN custody under the detention SOP, questions beyond identity, age, medical needs and family whereabouts require specialist safeguards and designated child-protection personnel. Do not exploit children for military or operational intelligence. Care must not depend on information provision.\n\n### 3.3. Maintain professional boundaries\nAvoid inappropriate private relationships, gifts exchanged for attention, private accommodation or personal contact outside approved arrangements. Do not publish identities, faces or sensitive stories to demonstrate achievement. A child’s agreement alone does not authorize every publication; apply safeguards, appropriate consent and risk assessment.\n\n**Remember:** Child-friendly means respectful, clear and safe, not privately intimate. Interaction must fit the duty purpose and professional competence."
+      },
+      "sourceIds": [
+        "CP2025",
+        "DET2020"
+      ]
+    },
+    {
+      "id": "CORE-10-04",
+      "title": {
+        "vi": "4. Ghi nhận, chuyển tuyến và cơ chế MRM",
+        "en": "4. Recording, referral and the MRM"
+      },
+      "body": {
+        "vi": "### 4.1. Thông tin ban đầu và việc xác minh\nKhi thấy hoặc nhận thông tin về hại đối với trẻ, ghi thời gian, địa điểm, hành vi, người liên quan trong mức biết, nguồn, tình trạng và nhu cầu khẩn. Phân biệt quan sát trực tiếp, lời thuật lại và nhận định. Nếu có nguy cơ tức thời, báo khẩn và thực hiện phần việc bảo vệ được phép; không chờ xác minh toàn bộ mới đề nghị trợ giúp.\n\nKhông tự điều tra sâu, liên hệ người bị cáo buộc hoặc công khai nghi vấn theo cách làm tăng nguy cơ cho trẻ và nguồn. Việc xác minh theo cơ chế cần chuyên môn và thẩm quyền. Thông tin có thể hữu ích ngay cả khi chưa đầy đủ, miễn là giới hạn được nêu rõ và chuyển đúng nơi.\n\n### 4.2. MRM là cơ chế chuyên biệt\n**Monitoring and Reporting Mechanism (MRM)** là cơ chế giám sát và báo cáo về sáu vi phạm nghiêm trọng đối với trẻ em trong tình huống xung đột, hoạt động theo khuôn khổ và tổ chức liên quan. Cán bộ phái bộ đóng góp bằng nhận diện, ghi nhận và chuyển thông tin theo kênh bảo vệ trẻ em; không tự nhận quyền xác minh chính thức hoặc đưa chủ thể vào danh sách.\n\nTrong phái bộ, cần biết CPA, bộ phận bảo vệ trẻ em, đầu mối cảnh sát và tuyến chỉ huy. Khi không có một bộ phận, sử dụng cơ chế được chỉ định, không coi đó là lý do không báo. Phối hợp còn có thể gồm nhân quyền, y tế, công tác giới và đối tác chăm sóc, theo nhu cầu và quyền truy cập.\n\n### 4.3. Chuyển tuyến phục vụ trẻ\nChuyển tuyến có thể nhằm y tế, bảo vệ, trợ giúp pháp lý hoặc chăm sóc thay thế. Cần làm rõ nơi nhận, khả năng tiếp nhận, thông tin tối thiểu và nguy cơ khi di chuyển hoặc thông báo. Không chỉ đưa một số điện thoại rồi cho rằng trẻ tự giải quyết được.\n\nBảo vệ dữ liệu nhận dạng và trao đổi qua hệ thống được phép. Không chuyển cùng một hồ sơ cho mọi đối tác chỉ để chắc chắn có người đọc. Theo dõi phần việc được giao để biết trẻ đã tiếp cận đầu mối phù hợp, nhưng không truy cập hoặc sao chép dữ liệu ngoài nhu cầu. **Điểm cần nhớ:** Báo cáo và chuyển tuyến bổ sung nhau; mục tiêu không phải hoàn thành biểu mẫu mà là giúp thông tin dẫn đến bảo vệ thực tế.",
+        "en": "### 4.1. Initial information and verification\nRecord timing, location, conduct, known actors, source, condition and urgent needs. Distinguish observation, reported accounts and assessment. Report immediate danger and perform authorized protection without awaiting complete verification.\n\nDo not independently investigate, confront alleged perpetrators or publicize concerns in ways endangering children or sources. Verification requires competent mechanisms. Incomplete information can still help when limitations are explicit and recipients appropriate.\n\n### 4.2. The MRM is a specialized mechanism\nThe **Monitoring and Reporting Mechanism (MRM)** concerns six grave violations in armed conflict under designated frameworks and arrangements. Mission personnel contribute identification, recording and referral through child-protection channels. They do not independently claim official verification or listing authority.\n\nKnow the CPA, child-protection section, police focal points and command contacts. Where a dedicated section is absent, use designated arrangements rather than failing to report. Human rights, medical, gender and care partners may contribute according to need and authorized access.\n\n### 4.3. Referral serves the child\nMedical, protection, legal or interim-care referrals require identified recipients, capacity, minimum necessary information and consideration of movement or notification risks. Giving a phone number alone may not make services accessible.\n\nProtect identifying data and use approved systems. Do not circulate full files to every partner. Follow up assigned responsibilities without collecting unnecessary information. **Remember:** Reporting and referral should produce protection, not merely completed forms."
+      },
+      "sourceIds": [
+        "C15",
+        "CP2025"
+      ]
+    },
+    {
+      "id": "CORE-10-05",
+      "title": {
+        "vi": "5. Trẻ liên quan lực lượng hoặc nhóm vũ trang",
+        "en": "5. Children associated with armed forces or groups"
+      },
+      "body": {
+        "vi": "### 5.1. Trước hết là người cần được bảo vệ\nTrẻ có thể bị tuyển mộ, sử dụng, cưỡng ép, lệ thuộc hoặc bị đe dọa theo nhiều cách. Trẻ liên quan lực lượng hay nhóm vũ trang phải được xem trước hết là nạn nhân và được bảo vệ phù hợp. Không tự gọi trẻ là người lớn hoặc tội phạm chỉ vì có mặt cùng nhóm, mặc trang phục hoặc làm nhiệm vụ hỗ trợ.\n\nĐồng thời, nhận diện tư cách cần bảo vệ không có nghĩa bỏ qua nguy cơ tức thời. Cán bộ phải chuẩn bị, tuân thủ mandate, DUF/ROE áp dụng và ưu tiên tránh, giảm hại khi có tình huống nguy hiểm. Không suy từ hành vi của một trẻ để áp dụng biện pháp chung với tất cả trẻ hoặc cả cộng đồng.\n\n### 5.2. Tách khỏi hại và phối hợp chuyên môn\nKhi có trẻ rời nhóm hoặc được đưa vào kiểm soát UN, báo ngay qua chỉ huy và đầu mối bảo vệ trẻ em. Cần phối hợp về an toàn, y tế, nhận diện gia đình, chăm sóc và nguy cơ tái tuyển mộ. Không công khai ảnh trẻ cùng câu chuyện được giải cứu nếu điều đó làm tăng kỳ thị hoặc nguy cơ.\n\nHỗ trợ rời nhóm và tái hòa nhập cần theo cơ chế chuyên môn. Không buộc trẻ phải có vũ khí để chứng minh đủ điều kiện được quan tâm hoặc được rời nhóm. Khôi phục cuộc sống, tiếp cận học tập, chăm sóc và cộng đồng có thể cần nhiều đối tác, không chỉ một hoạt động bàn giao.\n\n### 5.3. Không xử lý như một hồ sơ người lớn\nChỉ nghi liên quan nhóm vũ trang không tự đủ để quyết định truy cứu hoặc đưa vào cơ sở giữ người lớn. Nếu có cáo buộc cụ thể về hành vi phạm tội, việc xử lý vẫn phải có căn cứ, cơ quan có thẩm quyền và bảo đảm tư pháp trẻ em. Nhân sự UN không tự đóng vai cơ quan công tố hoặc quyết định trách nhiệm hình sự.\n\n**Điểm cần nhớ:** Bảo vệ và an toàn cần được giải quyết đồng thời, có chuyên môn và theo từng trẻ. Không đánh đổi nhu cầu chăm sóc để lấy thông tin hoặc biến việc trẻ rời nhóm thành thủ tục chỉ đếm số người, số vũ khí.",
+        "en": "### 5.1. Treat children primarily as victims\nRecruitment and use may involve coercion, dependency and threats. Children associated with armed forces or groups must be treated primarily as victims requiring protection. Presence, clothing or supporting duties do not automatically establish adulthood or criminal responsibility.\n\nProtection does not eliminate actual immediate risks. Personnel must prepare, follow applicable mandate and DUF/ROE and prioritize avoiding and reducing harm. One child’s conduct cannot justify measures against all children or a community.\n\n### 5.2. Separation from harm requires coordination\nWhen children leave groups or enter UN control, notify command and child-protection channels immediately. Coordinate safety, health, family identification, care and re-recruitment risks. Public rescue stories and images may increase stigma and danger.\n\nSpecialist arrangements govern release and reintegration. Possession of a weapon must not be required for access to release or care. Recovery, education and community reintegration need several partners, not a handover event alone.\n\n### 5.3. Do not treat the case as an adult file\nAlleged association alone does not automatically authorize prosecution or adult custody. Specific offence allegations still require a legal basis, competent authorities and child-justice safeguards. UN personnel do not independently become prosecutors or determine criminal responsibility.\n\n**Remember:** Address protection and safety together, individually and with expertise. Do not exchange care for information or reduce release to headcounts and weapons totals."
+      },
+      "sourceIds": [
+        "CP2025",
+        "DET2020"
+      ]
+    },
+    {
+      "id": "CORE-10-06",
+      "title": {
+        "vi": "6. Tước tự do, tư pháp phù hợp và bàn giao an toàn",
+        "en": "6. Deprivation of liberty, child-sensitive justice and safe handover"
+      },
+      "body": {
+        "vi": "### 6.1. Biện pháp cuối cùng, thời gian ngắn nhất phù hợp\nTước tự do đối với trẻ chỉ là biện pháp cuối cùng, hợp pháp và trong thời gian ngắn nhất phù hợp. Cần ưu tiên giải pháp thay thế khi có thể và do cơ quan có thẩm quyền xem xét. Chuyển hướng khỏi tố tụng hoặc áp dụng biện pháp không giam giữ không có nghĩa cán bộ tùy ý xóa vụ việc; phải đúng cơ chế và bảo đảm quyền.\n\nTrẻ cần được hiểu lý do, quyền, tiếp cận trợ giúp pháp lý và hỗ trợ phù hợp tuổi, có cơ chế xem xét việc tước tự do. Không ép nhận tội hoặc dùng thiếu hiểu biết để lấy lời khai. Quan hệ với gia đình, chăm sóc, y tế và bảo vệ dữ liệu phải được tính trong xử lý; không coi kết quả thuận tiện cho cơ quan là lợi ích tốt nhất.\n\n### 6.2. Khi trẻ do UN kiểm soát\nBáo ngay chỉ huy và tham vấn đầu mối bảo vệ trẻ em. Bố trí bảo vệ phù hợp, tách khỏi người bị giữ là người lớn và theo yêu cầu riêng đối với trẻ em gái, trẻ em trai. Không thực hiện kiểm tra cơ thể xâm phạm hoặc hỏi sâu ngoài thẩm quyền; áp dụng phụ lục bảo đảm cho trẻ.\n\nPhải nỗ lực chuyển trẻ đến cơ quan bảo vệ trẻ em sở tại hoặc đối tác nhân đạo có khả năng chăm sóc tạm thời an toàn **trong 48 giờ từ khi bắt đầu kiểm soát**. Đây không phải quyền giữ đủ 48 giờ. Việc bàn giao cần đánh giá nguy cơ, gồm tra tấn, tái tuyển mộ, giam giữ bởi cơ quan quân sự hoặc xét xử tại tòa quân sự, giữ không buộc tội hay truy tố chỉ vì liên quan nhóm vũ trang.\n\n### 6.3. Ngoại lệ không do cán bộ tự quyết\nNếu không có nơi chăm sóc an toàn phù hợp hoặc có đe dọa thể chất hiện hữu, trực tiếp và cấp thiết liên quan đến trẻ, phụ lục SOP quy định cơ chế ngoại lệ đặc biệt. Người đứng đầu phái bộ, cùng CPA hoặc đầu mối, phải xem xét tiếp tục kiểm soát tạm thời **mỗi 48 giờ**, nỗ lực xử lý nguy cơ và tìm phương án chăm sóc thích hợp. Không viện dẫn chung “vì an toàn” để tự giữ kéo dài.\n\nTìm gia đình hoặc đoàn tụ cần đánh giá an toàn, xác minh và chuyên môn; không giao ngay cho bất kỳ người lớn nào nhận là thân nhân. **Điểm cần nhớ:** Không bàn giao vào nguy cơ, không tự kéo dài giữ trẻ, và không coi thả trẻ không có chăm sóc an toàn là giải pháp mặc định.",
+        "en": "### 6.1. Last resort for the shortest appropriate period\nChild deprivation of liberty must be lawful, a last resort and for the shortest appropriate period. Competent authorities should consider alternatives where possible. Diversion or non-custodial measures require authorized arrangements and safeguards, not arbitrary cancellation by an officer.\n\nChildren need understandable reasons, rights, legal assistance, age-appropriate support and review of deprivation of liberty. Do not exploit limited understanding or coerce confession. Consider family, care, health and privacy; institutional convenience is not best interests.\n\n### 6.2. Children under UN control\nImmediately notify command and consult child-protection personnel. Arrange appropriate protection, separation from adult detainees and required safeguards for girls and boys. Do not perform prohibited intrusive searches or unassigned specialist questioning.\n\nMake every effort to transfer children to host-State child-protection authorities or safe humanitarian interim care **within 48 hours from initial apprehension**. This does not authorize waiting the full period. Assess risks including torture, re-recruitment, military detention or military-court proceedings, detention without charge and prosecution solely for alleged armed-group association.\n\n### 6.3. Officers cannot decide exceptions independently\nWhere suitable safe interim care is unavailable, or a present, direct and imperative physical threat exists from or to the child, the SOP annex provides a narrow exceptional mechanism. The Head of Mission, consulting the CPA or focal point, must review continued temporary control **every 48 hours**, address the threat and seek suitable care. General safety claims do not authorize independent prolonged detention.\n\nFamily tracing and reunification require safety assessment, verification and expertise; do not hand a child to any adult claiming kinship. **Remember:** Avoid unsafe handover, unauthorized extension and abandonment without safe care."
+      },
+      "sourceIds": [
+        "CRC",
+        "CP2025",
+        "DET2020"
+      ]
+    },
+    {
+      "id": "CORE-10-07",
+      "title": {
+        "vi": "7. Bảo vệ trẻ trong kế hoạch, hành vi và đánh giá",
+        "en": "7. Protect children through planning, conduct and review"
+      },
+      "body": {
+        "vi": "### 7.1. Tính đến trẻ trước hoạt động\nĐánh giá cần xem trẻ hiện diện ở đâu, nguy cơ nào khác với người lớn, đường tiếp cận trợ giúp, trường học, bệnh viện và người chăm sóc. Trong hoạt động trật tự công cộng, trẻ có thể là người tham gia, đi cùng gia đình hoặc chỉ có mặt tại địa bàn; không coi tất cả là đối tượng gây rối. Phương án phải tính việc giảm căng thẳng, hỗ trợ và nguy cơ phát sinh từ chính hoạt động.\n\nFPU, IPO, bộ phận bảo đảm và chuyên gia bảo vệ trẻ em cần phối hợp theo nhiệm vụ. Phải có đầu mối nhận trẻ, hỗ trợ y tế, kênh báo và phương án khi trẻ tách gia đình. Không đợi đến lúc đã kiểm soát một nhóm trẻ mới bắt đầu tìm xem ai phụ trách.\n\n### 7.2. Hành vi của chính nhân sự UN\nKhông bóc lột, xâm hại, tuyển dụng hoặc sử dụng trẻ để phục vụ hoạt động đơn vị trái chuẩn mực. Không đổi tiền, quà hoặc hỗ trợ lấy quan hệ tình dục hay lợi ích riêng. Hoạt động tiếp xúc, hình ảnh truyền thông và hỗ trợ phải có cơ chế bảo vệ trẻ, không chỉ dựa vào thiện chí cá nhân.\n\nKhi có dấu hiệu vi phạm của nhân sự UN hoặc đối tác, báo theo cơ chế tương ứng và bảo vệ người cung cấp thông tin. Không tự hòa giải để giữ danh tiếng đơn vị, hoặc chỉ chuyển trẻ ra khỏi nơi xảy ra rồi coi vụ việc đã giải quyết. Nhu cầu chăm sóc và trách nhiệm xử lý sai phạm là hai phần đều cần thực hiện.\n\n### 7.3. Theo dõi kết quả và bàn giao\nĐánh giá không chỉ đếm số trẻ đã gặp, được đưa đi hoặc nhận quà. Cần xem trẻ đã đến dịch vụ phù hợp chưa, nguy cơ còn lại, có bị kỳ thị hoặc tái tuyển mộ không, và ai tiếp tục theo dõi theo chức năng. Chia sẻ chỉ thông tin cần thiết, qua hệ thống được phép; không giữ danh sách trẻ trong tài khoản cá nhân.\n\nKhi luân chuyển, bàn giao đầu mối, công việc còn mở, nguy cơ và giới hạn thông tin, tránh để trẻ phải kể lại vì hồ sơ không được chuyển đúng. **Kết thúc bài:** Mỗi quyết định phải kết nối quyền, an toàn và lợi ích của từng trẻ với cơ chế chuyên môn. Bảo vệ tốt giúp giảm hại và duy trì chăm sóc có trách nhiệm, không chỉ hoàn tất một hoạt động trước mắt.",
+        "en": "### 7.1. Include children before operations\nAssess children’s locations, distinct risks, services, schools, hospitals and caregivers. In public-order settings, children may participate, accompany families or merely be present; do not treat all as disorderly actors. Plan de-escalation, assistance and prevention of harm caused by the operation itself.\n\nFPUs, IPOs, support personnel and specialists need assigned coordination. Identify receiving contacts, medical support, reporting and family-separation arrangements before encountering children in custody.\n\n### 7.2. Safeguards apply to UN personnel\nDo not exploit, abuse, recruit or use children contrary to standards. Never exchange money, gifts or assistance for sexual or personal benefit. Engagement, communications and support require safeguarding arrangements rather than goodwill alone.\n\nReport concerns involving UN personnel or partners through appropriate mechanisms and protect sources. Do not privately settle misconduct to preserve reputation, or assume removing a child resolves the case. Care and accountability both require action.\n\n### 7.3. Follow outcomes and hand over responsibly\nMeeting, transfer or gift counts do not establish protection. Check access to suitable services, continuing risks, stigma or re-recruitment and assigned follow-up responsibility. Share necessary information through approved systems, not private accounts.\n\nRotations require clear contacts, outstanding work, risks and information limits so poor handover does not force repeated accounts. **Retain:** Connect each child’s rights, safety and best interests with competent arrangements. Effective protection reduces harm and sustains accountable care beyond a single activity."
+      },
+      "sourceIds": [
+        "C15",
+        "CP2025"
+      ]
+    }
+  ],
+  "source_ids": [
+    "C15",
+    "DET2020",
+    "CP2025",
+    "CRC"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "Child",
+      "definition": {
+        "vi": "Người dưới 18 tuổi trong hoạt động bảo vệ của UN.",
+        "en": "A person below 18 for UN child-protection purposes."
+      }
+    },
+    {
+      "term": "Best interests",
+      "definition": {
+        "vi": "Lợi ích tốt nhất; cân nhắc hàng đầu dựa trên hoàn cảnh từng trẻ.",
+        "en": "Best interests as a primary consideration grounded in individual circumstances."
+      }
+    },
+    {
+      "term": "CPA / CPFP",
+      "definition": {
+        "vi": "Cố vấn bảo vệ trẻ em / đầu mối bảo vệ trẻ em.",
+        "en": "Child Protection Adviser / child protection focal point."
+      }
+    },
+    {
+      "term": "CAAFAG",
+      "definition": {
+        "vi": "Trẻ em liên quan lực lượng hoặc nhóm vũ trang.",
+        "en": "Children associated with armed forces or armed groups."
+      }
+    },
+    {
+      "term": "MRM",
+      "definition": {
+        "vi": "Cơ chế giám sát, báo cáo về sáu vi phạm nghiêm trọng trong xung đột.",
+        "en": "Monitoring and Reporting Mechanism concerning six grave violations in armed conflict."
+      }
+    },
+    {
+      "term": "Referral / Interim care",
+      "definition": {
+        "vi": "Chuyển tuyến dịch vụ / chăm sóc tạm thời phù hợp.",
+        "en": "Referral to appropriate services / suitable interim care."
+      }
+    }
+  ],
+  "diagram": null,
+  "contentVersion": "batch-02-expanded-v1-2026-10-28",
+  "sourceIntro": {
+    "vi": "Tài liệu nền và đọc bổ sung để đối chiếu. Lời giảng Việt–Anh và câu hỏi được biên soạn cho Handbook; hình gốc ghi rõ tài liệu, trang PDF và có lời giải thích riêng.",
+    "en": "Primary and supplementary reading for comparison. Bilingual teaching and questions are authored for the Handbook; original figures identify materials and PDF pages and have separate explanations."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Bản biên soạn đợt 2 ngày 28/10/2026. Hai ngôn ngữ phục vụ học tập, không phải bản dịch chính thức UN. Danh mục CORE là cách tổ chức của Handbook, không phải thứ tự bài chính thức của UN.",
+      "Bài dạy kiến thức và chuẩn mực chung, không tự trao thẩm quyền hoặc thay mandate, DUF/ROE và hướng dẫn phái bộ áp dụng cho vị trí. Học trực tuyến không thay thế huấn luyện thực hành và đánh giá năng lực.",
+      "Nguồn theo mục xác định tài liệu nền, không coi mọi câu là trích nguyên văn. Ví dụ ngắn là phần giảng biên soạn. Hình giữ tiếng Anh gốc, có chú giải Việt–Anh; số trang PDF có thể khác số slide.",
+      "Thời hạn và bảo đảm khi UN giữ người được đối chiếu trực tiếp SOP Ref. 2020.13, hiệu lực 01/01/2021, bản công khai có dấu 21/10/2022. Mục D, đoạn 13–14 nêu giới hạn chung 96 giờ. Annex B, đoạn 7–8, 16–21 quy định bàn giao chăm sóc trẻ trong 48 giờ, ngoại lệ bảo vệ và HOM cùng CPA/đầu mối rà mỗi 48 giờ. Không đọc mốc trẻ em tách khỏi ngoại lệ hoặc biến thành quyền tự gia hạn.",
+      "Đối chiếu bổ sung Handbook Ref. 2025.13, đặc biệt chương về trẻ liên quan lực lượng/nhóm vũ trang, bảo vệ khỏi hại và hoạt động cảnh sát. Quy định hỏi trẻ do UN giữ được đọc cùng SOP Annex A mục (p) và Annex B đoạn 15; không suy rộng thẩm quyền hỏi chuyên sâu cho mọi cán bộ."
+    ],
+    "en": [
+      "Batch 2 authored on 28 October 2026. The bilingual text is learning material, not an official UN translation. CORE numbering belongs to the Handbook rather than official UN lesson numbering.",
+      "The lesson teaches general knowledge and standards. It does not confer powers or replace applicable mandates, DUF/ROE and mission instructions. Online study does not replace practical training and competence assessment.",
+      "Section mapping identifies the knowledge base, not a verbatim source for every sentence. Short examples are authored explanations. Figures retain original English with bilingual commentary; PDF pages may differ from slide numbers.",
+      "UN custody timing and safeguards were checked against SOP Ref. 2020.13, effective 1 January 2021, publicly released with a 21 October 2022 stamp. Section D paragraphs 13–14 establish the general 96-hour limit. Annex B paragraphs 7–8 and 16–21 govern child care handover within 48 hours and protective exceptions reviewed by HOM with CPA/focal-point consultation every 48 hours. Do not detach the child timeframe from safeguards or infer independent extension powers.",
+      "Additional checks used Handbook Ref. 2025.13 on armed-group association, safeguarding and police operations. Questioning of children in UN custody is read with SOP Annex A section (p) and Annex B paragraph 15; specialist questioning powers are not inferred for all officers."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bảo vệ trẻ em cần đặt quyền, an toàn và lợi ích từng trẻ vào quyết định hằng ngày. Bài học giải thích sáu vi phạm nghiêm trọng, tiếp xúc phù hợp, MRM, trẻ liên quan nhóm vũ trang và bảo đảm khi tước tự do, chuyển chăm sóc.",
+      "en": "Child protection places rights, safety and individual best interests in daily decisions. Study grave violations, appropriate interaction, the MRM, armed-group association and custody and care-transfer safeguards."
+    },
+    "subtitle": {
+      "vi": "Lắng nghe trẻ · Không gây thêm hại · Chuyển chăm sóc an toàn",
+      "en": "Hear children · Avoid further harm · Arrange safe care"
+    },
+    "objectives": {
+      "vi": [
+        "Nhận diện trẻ theo chuẩn UN và giải thích bốn nguyên tắc quyền trẻ em.",
+        "Nêu đủ sáu vi phạm nghiêm trọng, nhận diện mà không tự kết luận pháp lý.",
+        "Giữ ranh giới khi tiếp xúc, hỏi thông tin và sử dụng hình ảnh.",
+        "Giải thích đóng góp vào MRM, chuyển tuyến và bảo vệ thông tin.",
+        "Trình bày bảo đảm cho trẻ liên quan nhóm vũ trang, tư pháp và bàn giao, gồm ngoại lệ bảo vệ có thẩm quyền."
+      ],
+      "en": [
+        "Identify children under UN standards and explain four child-rights principles.",
+        "Identify six grave violations without inventing legal findings.",
+        "Maintain interaction, questioning and image-use boundaries.",
+        "Explain MRM contributions, referral and information protection.",
+        "Explain safeguards for armed-group-associated children, justice and safe handover, including authorized protective exceptions."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc 7 mục trong tab Nội dung bài học; xem hình và lời giải thích ở mục liên quan. Làm 12 câu kiểm tra, đọc phản hồi và quay lại mục được chỉ ra. VI/EN giữ đáp án trong phiên mở trang; tải lại trang bắt đầu lại. Bấm hình để xem lớn.",
+      "en": "Read the lesson sections and figures with their explanations. Complete 12 questions, review feedback and revisit indicated sections. VI/EN retains answers during the session; reloading starts again. Click figures to enlarge them."
+    }
+  },
+  "figures": [
+    {
+      "chapter": 1,
+      "image": "assets/lesson-figures/batch-02/C15-p11.png",
+      "alt": {
+        "vi": "Hình 1. Sáu vi phạm nghiêm trọng đối với trẻ em trong xung đột",
+        "en": "Figure 1. Six grave violations against children in armed conflict"
+      },
+      "caption": {
+        "vi": "Hình 1. Sáu vi phạm nghiêm trọng đối với trẻ em trong xung đột",
+        "en": "Figure 1. Six grave violations against children in armed conflict"
+      },
+      "explanation": {
+        "vi": "Hãy đối chiếu đủ sáu nhóm với danh sách trong bài. Tuyển mộ và sử dụng không chỉ liên quan trẻ mang súng; các nhóm khác cũng có thể cùng tác động một trẻ. Hình giúp nhớ phạm vi báo cáo, không thay việc ghi sự kiện và xác minh chuyên môn.",
+        "en": "Check all six categories against the lesson. Recruitment and use extend beyond children carrying weapons, and violations can overlap. The figure aids recognition without replacing factual recording and specialist verification."
+      },
+      "sourceLabel": "UN CPTM 2025 · Lesson 2.6",
+      "pdfPage": 11
+    }
+  ],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft",
+  "figureZoom": true
+}

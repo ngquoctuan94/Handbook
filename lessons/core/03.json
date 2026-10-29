@@ -1,0 +1,692 @@
+{
+  "schemaVersion": 2,
+  "id": "CORE-03",
+  "area": "core",
+  "groupKey": "CORE-M1",
+  "group": {
+    "vi": "UN và hoạt động gìn giữ hòa bình",
+    "en": "UN and peacekeeping"
+  },
+  "title": {
+    "vi": "Tổ chức, vận hành và phối hợp trong phái bộ",
+    "en": "Mission organization, operations and coordination"
+  },
+  "summary": {
+    "vi": "Một phái bộ chỉ hoạt động hiệu quả khi con người hiểu cơ cấu, tuyến chỉ huy và cách các phần việc kết nối. Bài này hướng dẫn đọc cơ cấu, phối hợp dân sự–quân sự–cảnh sát, sử dụng thông tin, tổ chức bảo đảm và làm việc với đối tác để duy trì nhiệm vụ.",
+    "en": "Mission effectiveness depends on understanding structure, command and how contributions connect. Learn to read organizational arrangements, coordinate civilian–military–police work, use information, organize support and maintain effective partnerships."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 13,
+  "sourceKey": "C6",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-409%20Lesson%201.6%20How%20Peacekeeping%20Operations%20Work.zip",
+  "order": 103,
+  "sections": [
+    {
+      "id": "CORE-03-01",
+      "title": {
+        "vi": "1. Hiểu cơ cấu và tuyến chỉ huy phái bộ",
+        "en": "1. Understanding mission structure and command"
+      },
+      "body": {
+        "vi": "### 1.1. Bắt đầu từ nhiệm vụ, không bắt đầu từ sơ đồ\nMột phái bộ gìn giữ hòa bình được tổ chức để thực hiện mandate trong bối cảnh cụ thể. Cơ cấu vì vậy phụ thuộc nhiệm vụ, địa bàn, tình hình chính trị, an ninh và nguồn lực. Sơ đồ chung giúp nhận diện các chức năng thường gặp, nhưng không thay thế sơ đồ tổ chức và chỉ thị của phái bộ nơi anh/chị công tác. Có chức danh trong bài học không có nghĩa mọi phái bộ đều có vị trí đó theo cùng cách bố trí.\n\nHãy đọc sơ đồ bằng ba câu hỏi: Ai quyết định? Ai tổ chức thực hiện? Ai bảo đảm điều kiện? Sau đó tìm vị trí của đơn vị mình, cấp báo cáo trực tiếp và đầu mối phối hợp. Nếu chỉ ghi nhớ chữ viết tắt, cán bộ có thể biết tên cơ quan mà vẫn gửi sai yêu cầu hoặc nhận chỉ đạo không đúng tuyến.\n\n### 1.2. Các chức năng lãnh đạo thường gặp\n**Head of Mission (HOM)** là người đứng đầu phái bộ; trong nhiều phái bộ đa chiều, chức danh này gắn với Đại diện đặc biệt của Tổng Thư ký, tức SRSG. HOM chịu trách nhiệm lãnh đạo chung. Các phó đại diện đặc biệt hỗ trợ theo phân công. Một số vị trí có thể kiêm chức năng điều phối UN tại quốc gia; phải đọc cơ cấu thực tế, không mặc định mọi phái bộ giống nhau.\n\n**Chief of Staff (COS)** giúp bảo đảm sự thống nhất trong hoạt động tham mưu và phối hợp. **Director/Chief of Mission Support (DMS/CMS)** phụ trách chức năng bảo đảm hành chính, hậu cần và hỗ trợ. Người đứng đầu thành phần quân sự và cảnh sát chịu trách nhiệm đối với thành phần mình. Cần phân biệt COS cấp phái bộ với COS của thành phần cảnh sát: Cùng tên chức danh nhưng khác phạm vi.\n\n### 1.3. Chỉ huy thống nhất và tuyến chuyên trách\nQuyền lãnh đạo toàn phái bộ không có nghĩa bỏ qua tuyến chỉ huy quân sự hoặc cảnh sát. HOM thực hiện thẩm quyền đối với các lực lượng này thông qua người đứng đầu thành phần tương ứng. Tính toàn vẹn của các tuyến chỉ huy phải được duy trì khi phối hợp hoạt động.\n\nVới cán bộ FPU, một đề nghị hỗ trợ từ bộ phận khác cần được tiếp nhận, đánh giá và chuyển đúng tuyến; không tự biến thành mệnh lệnh tác chiến của đơn vị. Với IPO được bố trí tại cơ chế phối hợp chung, cần hiểu cả trách nhiệm tại vị trí và yêu cầu báo cáo của thành phần cảnh sát. **Điểm cần nhớ:** Biết người cần trao đổi và biết người có quyền giao việc là hai việc liên quan nhưng không đồng nhất.",
+        "en": "### 1.1. Start with the mandate, not the chart\nA peacekeeping mission is organized to implement its mandate in a particular setting. Its structure depends on tasks, geography, political and security conditions, and resources. A generic chart introduces common functions; it does not replace your mission’s organization chart and directives. A position described here need not exist in the same arrangement in every mission.\n\nRead a chart through three questions: Who decides? Who organizes delivery? Who provides support? Then locate your unit, direct reporting line and coordination contacts. Memorizing abbreviations alone does not prevent misdirected requests or tasking outside proper channels.\n\n### 1.2. Common leadership functions\nThe **Head of Mission (HOM)** leads the mission. In many multidimensional operations, this role is held by the Special Representative of the Secretary-General, or SRSG. Deputies assist through assigned responsibilities. Some posts may combine country-level UN coordination functions; consult the actual structure rather than assuming identical arrangements.\n\nThe **Chief of Staff (COS)** supports coherent staff work and coordination. The **Director/Chief of Mission Support (DMS/CMS)** leads administrative, logistical and support functions. Military and police component heads are responsible for their respective components. Distinguish the mission COS from the police component COS: Similar titles do not imply the same scope.\n\n### 1.3. Unified direction and component command\nMission-wide authority does not remove military and police command chains. The HOM exercises authority over these components through their respective heads. Their command integrity must be maintained during coordination.\n\nAn FPU member should receive, assess and route another section’s request appropriately, rather than treating it automatically as an operational order. An IPO assigned to a joint mechanism must understand both that post’s responsibilities and police reporting requirements. **Remember:** Knowing whom to consult and knowing who can task you are related but different matters."
+      },
+      "sourceIds": [
+        "C6"
+      ]
+    },
+    {
+      "id": "CORE-03-02",
+      "title": {
+        "vi": "2. Các thành phần đóng góp vào một mục tiêu chung",
+        "en": "2. Component contributions to a shared objective"
+      },
+      "body": {
+        "vi": "### 2.1. Thống nhất mục đích, khác nhau về chức năng\nThành phần dân sự, quân sự và cảnh sát cùng thực hiện định hướng của lãnh đạo phái bộ, nhưng đóng góp bằng năng lực khác nhau. Phối hợp tốt bắt đầu từ hiểu sự khác biệt này. Không nên coi một thành phần là lực lượng thay thế tùy ý cho thành phần khác, hoặc đánh giá giá trị công việc chỉ bằng mức độ hiện diện ngoài thực địa.\n\n**Thành phần dân sự** cung cấp năng lực về chính trị, dân sự, nhân quyền, pháp quyền và các lĩnh vực chuyên môn theo mandate. Công việc đối thoại, phân tích, hỗ trợ thể chế và tiếp xúc cộng đồng giúp xác định vấn đề, tạo điều kiện chính trị và theo dõi tác động. Nhân sự dân sự còn đảm nhiệm nhiều chức năng bảo đảm; “dân sự” không phải tên của một phòng nghiệp vụ duy nhất.\n\n### 2.2. Vai trò quân sự và cảnh sát\n**Thành phần quân sự** góp phần tạo môi trường an toàn, an ninh để tiến trình hòa bình và các nhiệm vụ khác được thực hiện. Cách tổ chức có thể bao gồm đơn vị quân sự, chuyên gia quân sự và sĩ quan tham mưu. Nhiệm vụ cụ thể vẫn do mandate và phân công xác định; không suy ra mọi lực lượng quân sự đều làm cùng một công việc.\n\n**UNPOL** có thể hỗ trợ hoạt động cảnh sát sở tại, phát triển năng lực, cải cách và tái thiết cơ quan cảnh sát; khi được giao thẩm quyền, thực hiện chức năng cảnh sát tạm thời. IPO, nhóm cảnh sát chuyên môn và FPU là các hình thức đóng góp khác nhau. Có nhiều dạng triển khai không đồng nghĩa mọi cán bộ có cùng quyền hạn, trang bị hay cách sử dụng.\n\n### 2.3. Đặt các phần việc cạnh nhau\nChẳng hạn, để hỗ trợ người dân tiếp cận một khu vực an toàn, phái bộ có thể cần thông tin về mối đe dọa, đối thoại với các bên, hoạt động cảnh sát theo phân công, hỗ trợ bảo vệ và bảo đảm phương tiện. Không thể kết luận chỉ cần tăng tuần tra là giải quyết toàn bộ vấn đề. Cũng không được tự gán một nhiệm vụ cho cơ quan khác chỉ vì tên chức năng nghe có vẻ phù hợp.\n\nKhi nhận nhiệm vụ, hãy xác định phần việc của mình đóng góp vào mục tiêu nào, đầu vào cần từ ai và sản phẩm phải chuyển cho ai. Nếu hai bộ phận cùng làm một việc, cần thống nhất người chủ trì và cách tránh trùng lặp. Nếu có khoảng trống trách nhiệm, báo cấp có thẩm quyền để phân công, không để vấn đề nằm giữa các đầu mối. **Điểm cần nhớ:** Cùng mục tiêu không xóa khác biệt về trách nhiệm và giới hạn.",
+        "en": "### 2.1. Common purpose, different functions\nCivilian, military and police components contribute different capabilities to mission leadership’s direction. Coordination begins with understanding those differences. Components are not interchangeable, and work should not be valued solely by its visibility in the field.\n\nThe **civilian component** supplies political, civil affairs, human rights, rule-of-law and other expertise required by the mandate. Dialogue, analysis, institutional support and community engagement help identify problems, create political space and assess effects. Civilians also perform many support functions; civilian is not the name of a single substantive section.\n\n### 2.2. Military and police roles\nThe **military component** contributes to a safe and secure environment in which the peace process and other mandated work can progress. It may include military units, experts and staff officers. Actual responsibilities follow the mandate and tasking; not all military personnel perform identical functions.\n\n**UNPOL** may support host-State policing, capacity development, reform and rebuilding, or perform interim policing where executive authority is mandated. IPOs, specialized police teams and FPUs provide different forms of contribution. Their deployment does not confer identical powers, equipment or employment arrangements.\n\n### 2.3. Connect the contributions\nHelping people access a safe area may require threat information, dialogue with parties, assigned police activity, protection support and transport. More patrols alone cannot resolve every aspect. Nor may one section assign another a task merely because its title appears relevant.\n\nIdentify the objective your work supports, the inputs needed and the recipients of your output. Where responsibilities overlap, agree on a lead and avoid duplication. Where a gap exists, seek an authorized assignment rather than leaving the problem between offices. **Remember:** A shared objective does not remove different responsibilities or limits."
+      },
+      "sourceIds": [
+        "C7"
+      ]
+    },
+    {
+      "id": "CORE-03-03",
+      "title": {
+        "vi": "3. Lập kế hoạch và xây dựng nhận thức tình hình chung",
+        "en": "3. Planning and shared situational awareness"
+      },
+      "body": {
+        "vi": "### 3.1. Từ định hướng đến kế hoạch có thể thực hiện\nKế hoạch phái bộ kết nối mục tiêu chính trị, ưu tiên mandate và hoạt động của các thành phần. Kế hoạch tốt nêu rõ việc cần đạt, người chủ trì, đối tác, thời gian, nguồn lực, nguy cơ và cách đánh giá. Một danh sách hoạt động dài chưa chứng minh các phần việc hỗ trợ nhau hoặc có thể thực hiện đồng thời.\n\nĐóng góp của cán bộ ở cấp thực hiện là báo đúng khả năng và điều kiện thực tế. Nếu liên lạc không phủ khu vực, phương tiện chưa sẵn sàng hoặc đầu mối địa phương chưa xác nhận, thông tin đó phải xuất hiện trong quá trình chuẩn bị. Phát hiện sớm hạn chế giúp thay đổi kế hoạch; giấu hạn chế khiến quyết định cấp trên dựa trên giả định sai.\n\n### 3.2. JOC và JMAC khác nhau ở đâu?\n**Joint Operations Centre (JOC)** thường hỗ trợ nhận thức tình hình hiện tại và điều phối thông tin hoạt động. **Joint Mission Analysis Centre (JMAC)** thường cung cấp phân tích tích hợp để hỗ trợ dự báo và quyết định. Có thể hình dung một bên chú trọng điều đang diễn ra, một bên làm rõ ý nghĩa, xu hướng và nguy cơ. Đây là cách phân biệt chức năng để học, không phải ranh giới tuyệt đối hoặc sơ đồ bắt buộc cho mọi phái bộ.\n\nBáo cáo của các thành phần, thông tin địa bàn và chuyên môn được tổng hợp theo cơ chế phái bộ. Các cơ chế chung hỗ trợ lãnh đạo ra quyết định; chúng không mặc nhiên thay tuyến chỉ huy hay cho mọi người quyền truy cập mọi dữ liệu. Cán bộ phải biết kênh báo cáo và yêu cầu bảo vệ thông tin của vị trí mình.\n\n### 3.3. Thông tin rõ giúp quyết định đúng\nTrong báo cáo, phân biệt quan sát trực tiếp, thông tin người khác cung cấp và nhận định phân tích. Ghi thời gian, địa điểm, mức độ xác minh, tác động và nhu cầu xử lý. Một thông tin cũ được chuyển tiếp nhiều lần không trở thành nhiều nguồn độc lập. Một nhận định phổ biến trong nhóm không tự trở thành sự thật đã xác nhận.\n\nNếu có dấu hiệu đe dọa tính mạng, cần báo khẩn theo quy trình và thẩm quyền, không chờ báo cáo định kỳ. Khi thông tin thay đổi, cập nhật cả điểm đã sửa để tránh người nhận tiếp tục dùng phiên bản cũ. Với dữ liệu về người cung cấp tin, nạn nhân hoặc vị trí nhạy cảm, chỉ chia sẻ theo nhiệm vụ và kênh được phép. **Điểm cần nhớ:** Nhận thức tình hình chung cần thông tin kịp thời, có chất lượng và được bảo vệ, không chỉ cần nhiều thông tin.",
+        "en": "### 3.1. Translate direction into feasible plans\nMission planning connects political objectives, mandated priorities and component activities. A useful plan identifies the intended result, lead, partners, timing, resources, risks and assessment method. A long activity list does not demonstrate that tasks reinforce one another or can be delivered together.\n\nPersonnel must report real capabilities and conditions. Communications gaps, unavailable vehicles or unconfirmed local contacts belong in preparation. Early disclosure enables adjustment; concealed limitations leave leadership deciding on false assumptions.\n\n### 3.2. Distinguishing JOC and JMAC\nA **Joint Operations Centre (JOC)** generally supports current situational awareness and operational information coordination. A **Joint Mission Analysis Centre (JMAC)** generally provides integrated analysis supporting anticipation and decision-making. One useful learning distinction is between understanding what is happening and assessing its meaning, trends and risks. It is not an absolute boundary or a mandatory structure for every mission.\n\nComponent reports and field and specialist information are combined through mission arrangements. Joint mechanisms support decisions; they do not automatically replace command channels or grant universal access to data. Know your position’s reporting and information-protection requirements.\n\n### 3.3. Clear information supports sound decisions\nSeparate direct observation, information from others and analytical judgment. Record time, place, verification level, effects and required action. One old report forwarded repeatedly is not several independent sources. A widely shared assumption is not a verified fact.\n\nReport threats to life urgently through applicable procedures rather than waiting for routine reporting. When facts change, identify corrections so recipients stop using outdated information. Share source identities, victim information and sensitive locations only for authorized purposes through appropriate channels. **Remember:** Shared awareness depends on timely, reliable and protected information, rather than volume alone."
+      },
+      "sourceIds": [
+        "C6",
+        "C7"
+      ]
+    },
+    {
+      "id": "CORE-03-04",
+      "title": {
+        "vi": "4. Bảo đảm để nhiệm vụ thực hiện được",
+        "en": "4. Enabling mission delivery"
+      },
+      "body": {
+        "vi": "### 4.1. Bảo đảm nằm trong kế hoạch từ đầu\nHoạt động ngoài thực địa phụ thuộc vào con người, phương tiện, thông tin, y tế, nhiên liệu, cơ sở và quản lý hành chính. Vì vậy, bộ phận bảo đảm phải tham gia chuẩn bị đủ sớm. Một yêu cầu chỉ nêu ngày xuất phát và số người có thể chưa đủ để xác định năng lực vận tải, liên lạc hoặc phương án hỗ trợ.\n\nNgười đề nghị cần giải thích mục đích, địa bàn, thời gian, số lượng, yêu cầu chức năng, ưu tiên và điểm liên hệ. Bộ phận bảo đảm cần phản hồi khả năng, hạn chế, thời gian đáp ứng và phương án thay thế. Hai bên cùng kiểm tra xem thay đổi nguồn lực có làm thay đổi mức độ rủi ro hoặc mục tiêu được giao không. Phê duyệt và điều chỉnh phải theo thẩm quyền, không giải quyết bằng cam kết ngoài khả năng.\n\n### 4.2. Phân biệt có trang bị với sẵn sàng sử dụng\nMột máy vô tuyến nằm trong kho chưa chứng minh liên lạc đã sẵn sàng. Cần có cấu hình phù hợp, nguồn điện, người biết sử dụng, kiểm tra kết nối và đầu mối xử lý sự cố. Tương tự, một phương tiện được ghi trong danh sách vẫn có thể thiếu lái xe đủ điều kiện hoặc đang cần bảo dưỡng. Đây là cách đọc năng lực thực tế thay vì chỉ đếm vật chất.\n\nVí dụ nghiệp vụ bảo đảm: Khi đơn vị nhận nhiệm vụ di chuyển, cán bộ thông tin cần phối hợp xác nhận phương án liên lạc được phê duyệt, trang bị sử dụng được và yêu cầu thử liên lạc. Cán bộ không tự quyết định tuyến hành quân hoặc mở rộng nhiệm vụ; phần việc chuyên môn cung cấp căn cứ để chỉ huy đánh giá khả năng thực hiện.\n\n### 4.3. Quản lý nguồn lực và trách nhiệm\nHồ sơ cấp phát, sử dụng, bảo dưỡng và bàn giao giúp biết tài sản ở đâu, ai chịu trách nhiệm và tình trạng ra sao. Không nên xem hồ sơ là việc làm sau hoạt động để hoàn thiện giấy tờ. Hồ sơ thiếu hoặc sai có thể khiến kế hoạch sau dựa trên nguồn lực không tồn tại, làm chậm sửa chữa và gây thất thoát.\n\nNhu cầu của các đơn vị có thể cạnh tranh cùng nguồn lực. Ưu tiên phải dựa trên nhiệm vụ, nguy cơ và quyết định có thẩm quyền, không dựa vào người liên hệ quen biết. Khi không đáp ứng được, cần báo tác động cụ thể và đề xuất để cấp quyết định lựa chọn. **Điểm cần nhớ:** Công tác thông tin, hậu cần và hành chính tạo điều kiện cho mandate được thực hiện; chất lượng bảo đảm là một phần của chất lượng hoạt động.",
+        "en": "### 4.1. Include support from the beginning\nField activity depends on personnel, vehicles, communications, medical support, fuel, facilities and administration. Support functions need early involvement. A request stating only a departure date and headcount may not establish transport, communications or assistance requirements.\n\nThe requesting section should explain purpose, area, duration, quantities, functional needs, priority and contacts. Support staff should state capacity, constraints, delivery time and alternatives. Together, check whether resource changes affect risks or objectives. Approval and adjustment follow authorized arrangements, not promises beyond available capability.\n\n### 4.2. Equipment on hand is not operational readiness\nA radio in a store does not demonstrate communications readiness. Appropriate configuration, power, trained users, connectivity checks and fault contacts are also needed. A listed vehicle may lack a qualified driver or require maintenance. Assess usable capability rather than counting assets alone.\n\nWhen a unit is assigned movement, communications staff help confirm the approved communications arrangement, serviceable equipment and required checks. They do not independently choose the movement route or expand the mission. Their technical contribution enables the commander to judge feasibility.\n\n### 4.3. Resource management and accountability\nIssue, use, maintenance and handover records establish location, responsibility and condition. They are not merely paperwork to complete after an activity. Inaccurate records can make later plans rely on unavailable resources, delay repairs and allow losses.\n\nCompeting demands require priorities based on tasks, risks and authorized decisions, rather than personal connections. If support cannot be delivered, explain the operational effect and present options to the decision-maker. **Remember:** Communications, logistics and administration enable mandate delivery; support quality is part of operational quality."
+      },
+      "sourceIds": [
+        "C6",
+        "C7"
+      ]
+    },
+    {
+      "id": "CORE-03-05",
+      "title": {
+        "vi": "5. Làm việc với đối tác quốc gia, UN và nhân đạo",
+        "en": "5. Working with national, UN and humanitarian partners"
+      },
+      "body": {
+        "vi": "### 5.1. Đối tác quốc gia không chỉ là cơ quan trung ương\nChính quyền, cảnh sát, cơ quan tư pháp, tổ chức xã hội và cộng đồng có vai trò khác nhau trong xây dựng hòa bình. Quốc gia và người dân sở tại là chủ thể của tiến trình lâu dài; phái bộ hỗ trợ theo mandate. Gặp một người đại diện không có nghĩa đã hiểu nhu cầu của mọi nhóm hoặc được đồng thuận cho mọi hoạt động.\n\nTiếp xúc cần có khả năng tiếp cận phụ nữ, nam giới, thanh niên, người khuyết tật, nhóm thiểu số và người ở địa bàn khó tiếp cận. Không coi lãnh đạo cộng đồng là nguồn duy nhất hoặc mặc nhiên cho rằng tiếng nói nổi bật nhất đại diện tất cả. Cần kiểm tra thông tin từ nhiều góc độ và tránh tạo nguy cơ cho người trao đổi với UN.\n\n### 5.2. UN Country Team và tính liên tục\n**UN Country Team (UNCT)** gồm các cơ quan, quỹ và chương trình UN tại quốc gia. Nhiều tổ chức có mặt trước khi phái bộ triển khai và tiếp tục hoạt động sau khi phái bộ rút. Họ có chuyên môn, quan hệ và chương trình hỗ trợ quan trọng đối với phát triển và chuyển tiếp.\n\nPhối hợp với UNCT giúp kết nối phần việc ngắn hạn của phái bộ với mục tiêu lâu dài và tránh trùng lặp. Tuy nhiên, cùng hệ thống UN không có nghĩa cùng ngân sách, thẩm quyền hoặc thủ tục. Một mong muốn của đối tác phải được chuyển thành thỏa thuận công việc, đầu mối và trách nhiệm rõ ràng; không tự hứa thay tổ chức khác.\n\n### 5.3. Tôn trọng vai trò của các chủ thể nhân đạo\nCác tổ chức nhân đạo cần duy trì hoạt động theo nguyên tắc và nhiệm vụ của mình. Phối hợp bảo vệ và hỗ trợ không biến họ thành bộ phận của kế hoạch cảnh sát hoặc quân sự. Không yêu cầu tổ chức nhân đạo cung cấp dữ liệu nhạy cảm ngoài cơ chế phù hợp, hoặc cho rằng họ phải chấp nhận mọi đề nghị hộ tống.\n\nCán bộ cần nhận diện tổ chức nào làm gì, giới hạn trao đổi và đầu mối liên lạc được thống nhất. Với tổ chức khu vực, tổ chức quốc tế khác và nhà tài trợ, cũng cần phân biệt phối hợp với quyền chỉ đạo. **Điểm cần nhớ:** Quan hệ đối tác hiệu quả dựa trên hiểu chức năng, tôn trọng tính độc lập và thống nhất những việc thực sự có thể làm cùng nhau.",
+        "en": "### 5.1. National partners extend beyond central government\nAuthorities, police, justice institutions, civil society and communities play different peacebuilding roles. National actors and the population own the long-term process; the mission supports them within its mandate. Meeting one representative neither reveals every group’s needs nor establishes consent for every activity.\n\nEngagement should reach women, men, young people, persons with disabilities, minorities and less accessible communities. Do not treat a leader as the only source or assume the loudest voice represents everyone. Seek different perspectives while avoiding risks to people who speak with the UN.\n\n### 5.2. The UN Country Team and continuity\nThe **UN Country Team (UNCT)** brings together UN agencies, funds and programmes in a country. Many operate before a mission arrives and after it leaves. Their expertise, relationships and programmes matter for development and transition.\n\nCoordination connects shorter-term mission work with longer-term objectives and reduces duplication. A common UN identity does not mean identical budgets, powers or procedures. Translate intentions into clear responsibilities and contacts; do not make commitments on another organization’s behalf.\n\n### 5.3. Respect humanitarian roles\nHumanitarian organizations operate according to their own principles and mandates. Coordination does not turn them into parts of police or military plans. Do not request sensitive data outside suitable arrangements or assume they must accept every escort proposal.\n\nKnow each actor’s role, agreed contacts and information-sharing limits. With regional organizations, other international actors and donors, distinguish cooperation from authority to direct. **Remember:** Effective partnership depends on functional understanding, respect for independence and agreement on work that can realistically be done together."
+      },
+      "sourceIds": [
+        "C8"
+      ]
+    },
+    {
+      "id": "CORE-03-06",
+      "title": {
+        "vi": "6. Làm việc đa văn hóa, giải quyết vướng mắc và bàn giao",
+        "en": "6. Multicultural teamwork, resolving issues and handover"
+      },
+      "body": {
+        "vi": "### 6.1. Khác biệt không tự động là thiếu năng lực\nCán bộ đến từ nhiều quốc gia, ngành và môi trường nghề nghiệp. Cùng một từ có thể được hiểu khác; cách phát biểu, phản hồi hoặc thể hiện sự đồng ý cũng khác. Nếu chỉ đánh giá theo thói quen của mình, ta dễ coi sự dè dặt là không hợp tác hoặc coi một câu trả lời lịch sự là cam kết chắc chắn.\n\nDùng ngôn ngữ rõ, hạn chế tiếng lóng và giải thích chữ viết tắt khi cần. Với nhiệm vụ quan trọng, yêu cầu người nhận nhắc lại phần việc, thời hạn và điểm báo cáo bằng lời của họ. Việc xác nhận giúp kiểm tra hiểu chung, không phải cách làm khó người có trình độ ngoại ngữ khác mình.\n\n### 6.2. Giải quyết bất đồng bằng nhiệm vụ và dữ kiện\nKhi hai bộ phận chưa thống nhất, hãy xác định vấn đề nằm ở mục tiêu, trách nhiệm, nguồn lực hay cách hiểu thẩm quyền. Đưa ra dữ kiện, văn bản và tác động; tìm phương án trong phạm vi được giao. Không dùng cấp bậc quốc gia hoặc quan hệ cá nhân để vượt cơ chế UN.\n\nNếu không thể giải quyết ở cấp làm việc, báo tuyến chỉ huy hoặc cơ chế phối hợp có thẩm quyền. Nội dung báo cần nêu phần đã thống nhất, điểm còn vướng và quyết định đang cần. Với dấu hiệu vi phạm hoặc nguy cơ an toàn, dùng kênh báo cáo thích hợp; không che giấu dưới tên gọi “khác biệt văn hóa”.\n\n### 6.3. Bàn giao để người sau tiếp tục được công việc\nMột bản bàn giao tốt nêu mục tiêu và việc đang làm, kết quả đã xác nhận, việc chưa xong, quyết định còn chờ, hạn xử lý, đầu mối và nơi lưu hồ sơ được phép. Với trang bị, cần có tình trạng, trách nhiệm và vấn đề kỹ thuật. Với thông tin nhạy cảm, bàn giao qua hệ thống được phép, không chuyển toàn bộ dữ liệu sang tài khoản cá nhân để tiện sử dụng.\n\nNgười nhận cần có cơ hội hỏi lại và kiểm tra những nội dung quan trọng. Ký nhận tài sản không thay thế bàn giao nhiệm vụ; một buổi nói chuyện không thay thế hồ sơ cần lưu. **Kết thúc bài:** Hãy giữ ba câu hỏi trong công việc hằng ngày: Tôi chịu trách nhiệm phần nào? Cần phối hợp với ai? Thông tin và nguồn lực nào giúp người khác tiếp tục công việc an toàn, đúng nhiệm vụ?",
+        "en": "### 6.1. Difference does not automatically mean incompetence\nPersonnel bring different national, institutional and professional cultures. Words, feedback and expressions of agreement may carry different meanings. Judging solely by personal habits can mistake reserve for non-cooperation or politeness for a firm commitment.\n\nUse clear language, avoid unnecessary slang and explain abbreviations. For important assignments, ask recipients to restate the task, deadline and reporting point in their own words. Confirmation tests shared understanding rather than penalizing different language abilities.\n\n### 6.2. Resolve disagreements through tasks and facts\nIdentify whether disagreement concerns objectives, responsibilities, resources or authority. Present facts, relevant documents and consequences, then seek options within assigned powers. National rank or personal connections do not justify bypassing UN arrangements.\n\nIf working-level discussion cannot resolve the issue, refer it to the appropriate command or coordination mechanism. State agreements reached, unresolved matters and the decision required. Use suitable channels for misconduct or safety concerns; do not excuse them as cultural differences.\n\n### 6.3. Handover enables continuity\nA useful handover records objectives, ongoing work, verified results, outstanding actions, pending decisions, deadlines, contacts and authorized record locations. Equipment handover includes condition, responsibility and technical issues. Transfer sensitive information through approved systems, not personal accounts for convenience.\n\nRecipients need an opportunity to ask questions and verify important points. Signing for assets does not replace task handover; an informal conversation does not replace required records. **Retain three questions:** What am I responsible for? With whom must I coordinate? Which information and resources enable others to continue safely and within the mandate?"
+      },
+      "sourceIds": [
+        "C7",
+        "C8"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "C6",
+      "title": "1.6 How Peacekeeping Operations Work",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-409%20Lesson%201.6%20How%20Peacekeeping%20Operations%20Work.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 23,
+      "pdf_name": "2025 - Lesson 1.6 How Peacekeeping Operations Work - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "C7",
+      "title": "1.7 Working as One in the Mission",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-410%20Lesson%201.7%20Working%20as%20One%20in%20the%20Mission.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 27,
+      "pdf_name": "2025 - Lesson 1.7 Working as One in the Mission - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "C8",
+      "title": "1.8 Mission Partners",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-411%20Lesson%201.8%20Mission%20Partners.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 27,
+      "pdf_name": "2025 - Lesson 1.8 Mission Partners - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Vì sao không dùng sơ đồ chung thay sơ đồ của phái bộ mình?",
+        "en": "Why can a generic chart not replace your mission’s chart?"
+      },
+      "options": [
+        {
+          "vi": "Mọi phái bộ có cùng cơ cấu nhưng đổi tên.",
+          "en": "Every mission has an identical structure under different names."
+        },
+        {
+          "vi": "Cơ cấu phụ thuộc mandate và điều kiện cụ thể.",
+          "en": "Structure follows the mandate and specific conditions."
+        },
+        {
+          "vi": "Cơ cấu chỉ liên quan cán bộ hành chính.",
+          "en": "Structure concerns only administrative officers."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Sơ đồ chung giúp học chức năng; tuyến báo cáo và phân công phải đọc trong cơ cấu thực tế. Xem mục 1.",
+        "en": "A generic chart teaches functions; actual reporting and tasking follow the mission’s arrangements. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Một đề nghị từ thành phần khác cần được hiểu thế nào?",
+        "en": "How should a request from another component be treated?"
+      },
+      "options": [
+        {
+          "vi": "Luôn từ chối vì khác thành phần.",
+          "en": "Always reject it because it comes from another component."
+        },
+        {
+          "vi": "Luôn là mệnh lệnh tác chiến trực tiếp.",
+          "en": "It is always a direct operational order."
+        },
+        {
+          "vi": "Tiếp nhận và chuyển theo cơ chế, không tự coi là mệnh lệnh đơn vị.",
+          "en": "Receive and route it appropriately, without automatically treating it as a unit order."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Phối hợp cần tiếp nhận yêu cầu, nhưng quyền giao việc phải theo tuyến chỉ huy và thẩm quyền. Xem mục 1.",
+        "en": "Coordination requires receiving requests; tasking still follows command and authority. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Phát biểu nào đúng về đóng góp của các thành phần?",
+        "en": "Which statement about component contributions is correct?"
+      },
+      "options": [
+        {
+          "vi": "Cùng mục tiêu nhưng khác chức năng và giới hạn.",
+          "en": "They share objectives but retain different functions and limits."
+        },
+        {
+          "vi": "Có cùng mục tiêu nên thay thế nhau tùy ý.",
+          "en": "Shared objectives make them freely interchangeable."
+        },
+        {
+          "vi": "Chỉ hoạt động ngoài thực địa mới có giá trị.",
+          "en": "Only visible field activity has value."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Công việc chính trị, nhân quyền, quân sự, cảnh sát và bảo đảm có thể bổ sung nhau mà không xóa trách nhiệm riêng. Xem mục 2.",
+        "en": "Political, human rights, military, police and support work can complement one another without erasing distinct responsibilities. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Cách phân biệt JOC và JMAC nào phù hợp nhất?",
+        "en": "Which distinction between JOC and JMAC is most useful?"
+      },
+      "options": [
+        {
+          "vi": "JMAC tự chỉ huy mọi hoạt động cảnh sát.",
+          "en": "JMAC independently commands all police activity."
+        },
+        {
+          "vi": "JOC chú trọng tình hình hiện tại; JMAC chú trọng phân tích tích hợp, theo cơ chế phái bộ.",
+          "en": "JOC emphasizes current awareness; JMAC emphasizes integrated analysis under mission arrangements."
+        },
+        {
+          "vi": "JOC chỉ làm hậu cần và không xử lý thông tin.",
+          "en": "JOC only handles logistics and no information."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Đây là phân biệt chức năng để hiểu; không phải ranh giới tuyệt đối hoặc tuyến thay chỉ huy. Xem mục 3.",
+        "en": "This is a functional learning distinction, not an absolute boundary or replacement command chain. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Một báo cáo được chuyển lại qua nhiều nhóm cho thấy điều gì?",
+        "en": "What does repeated forwarding of one report establish?"
+      },
+      "options": [
+        {
+          "vi": "Chưa chứng minh có nhiều nguồn độc lập.",
+          "en": "It does not establish several independent sources."
+        },
+        {
+          "vi": "Thông tin đã được nhiều nguồn xác nhận.",
+          "en": "Several sources have confirmed it."
+        },
+        {
+          "vi": "Không cần xem thời gian và nguồn ban đầu.",
+          "en": "Original timing and source no longer matter."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Số lượt chuyển không thay thế kiểm tra nguồn, độ mới và mức độ xác minh. Xem mục 3.",
+        "en": "Forwarding counts do not replace source, currency and verification checks. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Khi thông tin đã báo được sửa, việc phù hợp là gì?",
+        "en": "What should happen when reported information is corrected?"
+      },
+      "options": [
+        {
+          "vi": "Cập nhật và làm rõ điểm sửa qua kênh phù hợp.",
+          "en": "Update through suitable channels and identify the correction."
+        },
+        {
+          "vi": "Chờ báo cáo tháng để tránh nhiều thông báo.",
+          "en": "Wait for the monthly report to avoid extra messages."
+        },
+        {
+          "vi": "Chỉ sửa bản cá nhân đang giữ.",
+          "en": "Correct only your personal copy."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Người nhận cần biết phiên bản nào thay đổi để không tiếp tục quyết định theo dữ liệu cũ. Xem mục 3.",
+        "en": "Recipients must know what changed so they do not continue using outdated information. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Máy vô tuyến đã có trong kho chứng minh điều gì?",
+        "en": "What does a radio being in the store prove?"
+      },
+      "options": [
+        {
+          "vi": "Không cần kiểm tra nguồn điện hoặc người dùng.",
+          "en": "Power and user checks are unnecessary."
+        },
+        {
+          "vi": "Chắc chắn hoạt động được trên mọi địa bàn.",
+          "en": "It certainly works in every area."
+        },
+        {
+          "vi": "Có tài sản, nhưng chưa đủ chứng minh liên lạc sẵn sàng.",
+          "en": "An asset exists, but communications readiness is not yet established."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Cần thêm tình trạng, cấu hình, nguồn điện, người sử dụng và kiểm tra kết nối phù hợp. Xem mục 4.",
+        "en": "Condition, configuration, power, users and suitable connectivity checks also matter. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Khi bảo đảm chưa đáp ứng, báo cáo nào có ích nhất?",
+        "en": "Which report is most useful when support is insufficient?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ ghi có khó khăn.",
+          "en": "Only state that difficulties exist."
+        },
+        {
+          "vi": "Cam kết vẫn đủ khả năng dù chưa kiểm tra.",
+          "en": "Promise full capability without checking."
+        },
+        {
+          "vi": "Nêu hạn chế, tác động nhiệm vụ và phương án để cấp có thẩm quyền lựa chọn.",
+          "en": "State the constraint, operational effect and options for authorized decision."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Thông tin cụ thể giúp điều chỉnh nguồn lực, ưu tiên và phương án thay vì che khoảng trống. Xem mục 4.",
+        "en": "Specific information enables adjustment of resources, priorities and plans instead of hiding gaps. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Vì sao cần nghe nhiều nhóm trong cộng đồng?",
+        "en": "Why consult different community groups?"
+      },
+      "options": [
+        {
+          "vi": "Để chọn thông tin thuận lợi cho kế hoạch đã có.",
+          "en": "To select information supporting an existing plan."
+        },
+        {
+          "vi": "Một đại diện chưa phản ánh mọi nhu cầu và rào cản.",
+          "en": "One representative may not reflect all needs and barriers."
+        },
+        {
+          "vi": "Vì ý kiến lãnh đạo luôn không đáng tin.",
+          "en": "Because leaders’ views are always unreliable."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Đa dạng góc nhìn giúp tránh đồng nhất người dễ tiếp cận với toàn bộ cộng đồng; vẫn cần kiểm tra thông tin và an toàn. Xem mục 5.",
+        "en": "Diverse perspectives avoid equating accessible voices with the entire community, while information and safety checks remain necessary. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Phối hợp với tổ chức nhân đạo cho phép điều gì?",
+        "en": "What does coordination with humanitarian actors allow?"
+      },
+      "options": [
+        {
+          "vi": "Thống nhất hợp tác phù hợp vai trò và nguyên tắc của từng bên.",
+          "en": "Agree on cooperation consistent with each actor’s role and principles."
+        },
+        {
+          "vi": "Tự chỉ đạo mọi hoạt động của họ.",
+          "en": "Independently direct all their work."
+        },
+        {
+          "vi": "Yêu cầu mọi dữ liệu nhạy cảm vì cùng địa bàn.",
+          "en": "Demand all sensitive data because they share the area."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Phối hợp không biến đối tác thành đơn vị thuộc quyền hoặc xóa quy tắc bảo vệ thông tin. Xem mục 5.",
+        "en": "Coordination does not create command authority or remove information safeguards. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Cách nào giúp xác nhận hiểu chung về nhiệm vụ?",
+        "en": "What helps confirm shared understanding of a task?"
+      },
+      "options": [
+        {
+          "vi": "Coi câu trả lời lịch sự là đã hiểu mọi yêu cầu.",
+          "en": "Treat a polite reply as complete understanding."
+        },
+        {
+          "vi": "Đề nghị nhắc lại phần việc, thời hạn và điểm báo cáo.",
+          "en": "Ask the recipient to restate the task, deadline and reporting point."
+        },
+        {
+          "vi": "Dùng nhiều chữ viết tắt để thể hiện chuyên môn.",
+          "en": "Use many abbreviations to demonstrate expertise."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Nhắc lại bằng lời của người nhận giúp nhận ra hiểu khác nhau mà không phán xét năng lực theo văn hóa. Xem mục 6.",
+        "en": "Restating in the recipient’s own words reveals differences without judging competence by cultural habits. See section 6."
+      },
+      "chapter": 5
+    },
+    {
+      "question": {
+        "vi": "Bàn giao nào giúp duy trì công việc tốt hơn?",
+        "en": "Which handover best supports continuity?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ ký nhận đủ tài sản.",
+          "en": "Only sign for assets."
+        },
+        {
+          "vi": "Chuyển hồ sơ nhạy cảm qua tài khoản cá nhân cho tiện.",
+          "en": "Transfer sensitive records through personal accounts for convenience."
+        },
+        {
+          "vi": "Nêu việc đang làm, hạn, đầu mối, rủi ro và hồ sơ được phép tiếp cận.",
+          "en": "Record ongoing tasks, deadlines, contacts, risks and authorized records."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Bàn giao nhiệm vụ và tài sản có liên quan nhưng không thay thế nhau; dữ liệu phải đi qua cơ chế được phép. Xem mục 6.",
+        "en": "Task and asset handover are related but not interchangeable; data must use approved arrangements. See section 6."
+      },
+      "chapter": 5
+    }
+  ],
+  "updated": "2026-10-27",
+  "moduleId": "CORE-M1",
+  "moduleOrder": 1,
+  "lessonOrder": 3,
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "CORE-03-01",
+      "title": {
+        "vi": "1. Hiểu cơ cấu và tuyến chỉ huy phái bộ",
+        "en": "1. Understanding mission structure and command"
+      },
+      "body": {
+        "vi": "### 1.1. Bắt đầu từ nhiệm vụ, không bắt đầu từ sơ đồ\nMột phái bộ gìn giữ hòa bình được tổ chức để thực hiện mandate trong bối cảnh cụ thể. Cơ cấu vì vậy phụ thuộc nhiệm vụ, địa bàn, tình hình chính trị, an ninh và nguồn lực. Sơ đồ chung giúp nhận diện các chức năng thường gặp, nhưng không thay thế sơ đồ tổ chức và chỉ thị của phái bộ nơi anh/chị công tác. Có chức danh trong bài học không có nghĩa mọi phái bộ đều có vị trí đó theo cùng cách bố trí.\n\nHãy đọc sơ đồ bằng ba câu hỏi: Ai quyết định? Ai tổ chức thực hiện? Ai bảo đảm điều kiện? Sau đó tìm vị trí của đơn vị mình, cấp báo cáo trực tiếp và đầu mối phối hợp. Nếu chỉ ghi nhớ chữ viết tắt, cán bộ có thể biết tên cơ quan mà vẫn gửi sai yêu cầu hoặc nhận chỉ đạo không đúng tuyến.\n\n### 1.2. Các chức năng lãnh đạo thường gặp\n**Head of Mission (HOM)** là người đứng đầu phái bộ; trong nhiều phái bộ đa chiều, chức danh này gắn với Đại diện đặc biệt của Tổng Thư ký, tức SRSG. HOM chịu trách nhiệm lãnh đạo chung. Các phó đại diện đặc biệt hỗ trợ theo phân công. Một số vị trí có thể kiêm chức năng điều phối UN tại quốc gia; phải đọc cơ cấu thực tế, không mặc định mọi phái bộ giống nhau.\n\n**Chief of Staff (COS)** giúp bảo đảm sự thống nhất trong hoạt động tham mưu và phối hợp. **Director/Chief of Mission Support (DMS/CMS)** phụ trách chức năng bảo đảm hành chính, hậu cần và hỗ trợ. Người đứng đầu thành phần quân sự và cảnh sát chịu trách nhiệm đối với thành phần mình. Cần phân biệt COS cấp phái bộ với COS của thành phần cảnh sát: Cùng tên chức danh nhưng khác phạm vi.\n\n### 1.3. Chỉ huy thống nhất và tuyến chuyên trách\nQuyền lãnh đạo toàn phái bộ không có nghĩa bỏ qua tuyến chỉ huy quân sự hoặc cảnh sát. HOM thực hiện thẩm quyền đối với các lực lượng này thông qua người đứng đầu thành phần tương ứng. Tính toàn vẹn của các tuyến chỉ huy phải được duy trì khi phối hợp hoạt động.\n\nVới cán bộ FPU, một đề nghị hỗ trợ từ bộ phận khác cần được tiếp nhận, đánh giá và chuyển đúng tuyến; không tự biến thành mệnh lệnh tác chiến của đơn vị. Với IPO được bố trí tại cơ chế phối hợp chung, cần hiểu cả trách nhiệm tại vị trí và yêu cầu báo cáo của thành phần cảnh sát. **Điểm cần nhớ:** Biết người cần trao đổi và biết người có quyền giao việc là hai việc liên quan nhưng không đồng nhất.",
+        "en": "### 1.1. Start with the mandate, not the chart\nA peacekeeping mission is organized to implement its mandate in a particular setting. Its structure depends on tasks, geography, political and security conditions, and resources. A generic chart introduces common functions; it does not replace your mission’s organization chart and directives. A position described here need not exist in the same arrangement in every mission.\n\nRead a chart through three questions: Who decides? Who organizes delivery? Who provides support? Then locate your unit, direct reporting line and coordination contacts. Memorizing abbreviations alone does not prevent misdirected requests or tasking outside proper channels.\n\n### 1.2. Common leadership functions\nThe **Head of Mission (HOM)** leads the mission. In many multidimensional operations, this role is held by the Special Representative of the Secretary-General, or SRSG. Deputies assist through assigned responsibilities. Some posts may combine country-level UN coordination functions; consult the actual structure rather than assuming identical arrangements.\n\nThe **Chief of Staff (COS)** supports coherent staff work and coordination. The **Director/Chief of Mission Support (DMS/CMS)** leads administrative, logistical and support functions. Military and police component heads are responsible for their respective components. Distinguish the mission COS from the police component COS: Similar titles do not imply the same scope.\n\n### 1.3. Unified direction and component command\nMission-wide authority does not remove military and police command chains. The HOM exercises authority over these components through their respective heads. Their command integrity must be maintained during coordination.\n\nAn FPU member should receive, assess and route another section’s request appropriately, rather than treating it automatically as an operational order. An IPO assigned to a joint mechanism must understand both that post’s responsibilities and police reporting requirements. **Remember:** Knowing whom to consult and knowing who can task you are related but different matters."
+      },
+      "sourceIds": [
+        "C6"
+      ]
+    },
+    {
+      "id": "CORE-03-02",
+      "title": {
+        "vi": "2. Các thành phần đóng góp vào một mục tiêu chung",
+        "en": "2. Component contributions to a shared objective"
+      },
+      "body": {
+        "vi": "### 2.1. Thống nhất mục đích, khác nhau về chức năng\nThành phần dân sự, quân sự và cảnh sát cùng thực hiện định hướng của lãnh đạo phái bộ, nhưng đóng góp bằng năng lực khác nhau. Phối hợp tốt bắt đầu từ hiểu sự khác biệt này. Không nên coi một thành phần là lực lượng thay thế tùy ý cho thành phần khác, hoặc đánh giá giá trị công việc chỉ bằng mức độ hiện diện ngoài thực địa.\n\n**Thành phần dân sự** cung cấp năng lực về chính trị, dân sự, nhân quyền, pháp quyền và các lĩnh vực chuyên môn theo mandate. Công việc đối thoại, phân tích, hỗ trợ thể chế và tiếp xúc cộng đồng giúp xác định vấn đề, tạo điều kiện chính trị và theo dõi tác động. Nhân sự dân sự còn đảm nhiệm nhiều chức năng bảo đảm; “dân sự” không phải tên của một phòng nghiệp vụ duy nhất.\n\n### 2.2. Vai trò quân sự và cảnh sát\n**Thành phần quân sự** góp phần tạo môi trường an toàn, an ninh để tiến trình hòa bình và các nhiệm vụ khác được thực hiện. Cách tổ chức có thể bao gồm đơn vị quân sự, chuyên gia quân sự và sĩ quan tham mưu. Nhiệm vụ cụ thể vẫn do mandate và phân công xác định; không suy ra mọi lực lượng quân sự đều làm cùng một công việc.\n\n**UNPOL** có thể hỗ trợ hoạt động cảnh sát sở tại, phát triển năng lực, cải cách và tái thiết cơ quan cảnh sát; khi được giao thẩm quyền, thực hiện chức năng cảnh sát tạm thời. IPO, nhóm cảnh sát chuyên môn và FPU là các hình thức đóng góp khác nhau. Có nhiều dạng triển khai không đồng nghĩa mọi cán bộ có cùng quyền hạn, trang bị hay cách sử dụng.\n\n### 2.3. Đặt các phần việc cạnh nhau\nChẳng hạn, để hỗ trợ người dân tiếp cận một khu vực an toàn, phái bộ có thể cần thông tin về mối đe dọa, đối thoại với các bên, hoạt động cảnh sát theo phân công, hỗ trợ bảo vệ và bảo đảm phương tiện. Không thể kết luận chỉ cần tăng tuần tra là giải quyết toàn bộ vấn đề. Cũng không được tự gán một nhiệm vụ cho cơ quan khác chỉ vì tên chức năng nghe có vẻ phù hợp.\n\nKhi nhận nhiệm vụ, hãy xác định phần việc của mình đóng góp vào mục tiêu nào, đầu vào cần từ ai và sản phẩm phải chuyển cho ai. Nếu hai bộ phận cùng làm một việc, cần thống nhất người chủ trì và cách tránh trùng lặp. Nếu có khoảng trống trách nhiệm, báo cấp có thẩm quyền để phân công, không để vấn đề nằm giữa các đầu mối. **Điểm cần nhớ:** Cùng mục tiêu không xóa khác biệt về trách nhiệm và giới hạn.",
+        "en": "### 2.1. Common purpose, different functions\nCivilian, military and police components contribute different capabilities to mission leadership’s direction. Coordination begins with understanding those differences. Components are not interchangeable, and work should not be valued solely by its visibility in the field.\n\nThe **civilian component** supplies political, civil affairs, human rights, rule-of-law and other expertise required by the mandate. Dialogue, analysis, institutional support and community engagement help identify problems, create political space and assess effects. Civilians also perform many support functions; civilian is not the name of a single substantive section.\n\n### 2.2. Military and police roles\nThe **military component** contributes to a safe and secure environment in which the peace process and other mandated work can progress. It may include military units, experts and staff officers. Actual responsibilities follow the mandate and tasking; not all military personnel perform identical functions.\n\n**UNPOL** may support host-State policing, capacity development, reform and rebuilding, or perform interim policing where executive authority is mandated. IPOs, specialized police teams and FPUs provide different forms of contribution. Their deployment does not confer identical powers, equipment or employment arrangements.\n\n### 2.3. Connect the contributions\nHelping people access a safe area may require threat information, dialogue with parties, assigned police activity, protection support and transport. More patrols alone cannot resolve every aspect. Nor may one section assign another a task merely because its title appears relevant.\n\nIdentify the objective your work supports, the inputs needed and the recipients of your output. Where responsibilities overlap, agree on a lead and avoid duplication. Where a gap exists, seek an authorized assignment rather than leaving the problem between offices. **Remember:** A shared objective does not remove different responsibilities or limits."
+      },
+      "sourceIds": [
+        "C7"
+      ]
+    },
+    {
+      "id": "CORE-03-03",
+      "title": {
+        "vi": "3. Lập kế hoạch và xây dựng nhận thức tình hình chung",
+        "en": "3. Planning and shared situational awareness"
+      },
+      "body": {
+        "vi": "### 3.1. Từ định hướng đến kế hoạch có thể thực hiện\nKế hoạch phái bộ kết nối mục tiêu chính trị, ưu tiên mandate và hoạt động của các thành phần. Kế hoạch tốt nêu rõ việc cần đạt, người chủ trì, đối tác, thời gian, nguồn lực, nguy cơ và cách đánh giá. Một danh sách hoạt động dài chưa chứng minh các phần việc hỗ trợ nhau hoặc có thể thực hiện đồng thời.\n\nĐóng góp của cán bộ ở cấp thực hiện là báo đúng khả năng và điều kiện thực tế. Nếu liên lạc không phủ khu vực, phương tiện chưa sẵn sàng hoặc đầu mối địa phương chưa xác nhận, thông tin đó phải xuất hiện trong quá trình chuẩn bị. Phát hiện sớm hạn chế giúp thay đổi kế hoạch; giấu hạn chế khiến quyết định cấp trên dựa trên giả định sai.\n\n### 3.2. JOC và JMAC khác nhau ở đâu?\n**Joint Operations Centre (JOC)** thường hỗ trợ nhận thức tình hình hiện tại và điều phối thông tin hoạt động. **Joint Mission Analysis Centre (JMAC)** thường cung cấp phân tích tích hợp để hỗ trợ dự báo và quyết định. Có thể hình dung một bên chú trọng điều đang diễn ra, một bên làm rõ ý nghĩa, xu hướng và nguy cơ. Đây là cách phân biệt chức năng để học, không phải ranh giới tuyệt đối hoặc sơ đồ bắt buộc cho mọi phái bộ.\n\nBáo cáo của các thành phần, thông tin địa bàn và chuyên môn được tổng hợp theo cơ chế phái bộ. Các cơ chế chung hỗ trợ lãnh đạo ra quyết định; chúng không mặc nhiên thay tuyến chỉ huy hay cho mọi người quyền truy cập mọi dữ liệu. Cán bộ phải biết kênh báo cáo và yêu cầu bảo vệ thông tin của vị trí mình.\n\n### 3.3. Thông tin rõ giúp quyết định đúng\nTrong báo cáo, phân biệt quan sát trực tiếp, thông tin người khác cung cấp và nhận định phân tích. Ghi thời gian, địa điểm, mức độ xác minh, tác động và nhu cầu xử lý. Một thông tin cũ được chuyển tiếp nhiều lần không trở thành nhiều nguồn độc lập. Một nhận định phổ biến trong nhóm không tự trở thành sự thật đã xác nhận.\n\nNếu có dấu hiệu đe dọa tính mạng, cần báo khẩn theo quy trình và thẩm quyền, không chờ báo cáo định kỳ. Khi thông tin thay đổi, cập nhật cả điểm đã sửa để tránh người nhận tiếp tục dùng phiên bản cũ. Với dữ liệu về người cung cấp tin, nạn nhân hoặc vị trí nhạy cảm, chỉ chia sẻ theo nhiệm vụ và kênh được phép. **Điểm cần nhớ:** Nhận thức tình hình chung cần thông tin kịp thời, có chất lượng và được bảo vệ, không chỉ cần nhiều thông tin.",
+        "en": "### 3.1. Translate direction into feasible plans\nMission planning connects political objectives, mandated priorities and component activities. A useful plan identifies the intended result, lead, partners, timing, resources, risks and assessment method. A long activity list does not demonstrate that tasks reinforce one another or can be delivered together.\n\nPersonnel must report real capabilities and conditions. Communications gaps, unavailable vehicles or unconfirmed local contacts belong in preparation. Early disclosure enables adjustment; concealed limitations leave leadership deciding on false assumptions.\n\n### 3.2. Distinguishing JOC and JMAC\nA **Joint Operations Centre (JOC)** generally supports current situational awareness and operational information coordination. A **Joint Mission Analysis Centre (JMAC)** generally provides integrated analysis supporting anticipation and decision-making. One useful learning distinction is between understanding what is happening and assessing its meaning, trends and risks. It is not an absolute boundary or a mandatory structure for every mission.\n\nComponent reports and field and specialist information are combined through mission arrangements. Joint mechanisms support decisions; they do not automatically replace command channels or grant universal access to data. Know your position’s reporting and information-protection requirements.\n\n### 3.3. Clear information supports sound decisions\nSeparate direct observation, information from others and analytical judgment. Record time, place, verification level, effects and required action. One old report forwarded repeatedly is not several independent sources. A widely shared assumption is not a verified fact.\n\nReport threats to life urgently through applicable procedures rather than waiting for routine reporting. When facts change, identify corrections so recipients stop using outdated information. Share source identities, victim information and sensitive locations only for authorized purposes through appropriate channels. **Remember:** Shared awareness depends on timely, reliable and protected information, rather than volume alone."
+      },
+      "sourceIds": [
+        "C6",
+        "C7"
+      ]
+    },
+    {
+      "id": "CORE-03-04",
+      "title": {
+        "vi": "4. Bảo đảm để nhiệm vụ thực hiện được",
+        "en": "4. Enabling mission delivery"
+      },
+      "body": {
+        "vi": "### 4.1. Bảo đảm nằm trong kế hoạch từ đầu\nHoạt động ngoài thực địa phụ thuộc vào con người, phương tiện, thông tin, y tế, nhiên liệu, cơ sở và quản lý hành chính. Vì vậy, bộ phận bảo đảm phải tham gia chuẩn bị đủ sớm. Một yêu cầu chỉ nêu ngày xuất phát và số người có thể chưa đủ để xác định năng lực vận tải, liên lạc hoặc phương án hỗ trợ.\n\nNgười đề nghị cần giải thích mục đích, địa bàn, thời gian, số lượng, yêu cầu chức năng, ưu tiên và điểm liên hệ. Bộ phận bảo đảm cần phản hồi khả năng, hạn chế, thời gian đáp ứng và phương án thay thế. Hai bên cùng kiểm tra xem thay đổi nguồn lực có làm thay đổi mức độ rủi ro hoặc mục tiêu được giao không. Phê duyệt và điều chỉnh phải theo thẩm quyền, không giải quyết bằng cam kết ngoài khả năng.\n\n### 4.2. Phân biệt có trang bị với sẵn sàng sử dụng\nMột máy vô tuyến nằm trong kho chưa chứng minh liên lạc đã sẵn sàng. Cần có cấu hình phù hợp, nguồn điện, người biết sử dụng, kiểm tra kết nối và đầu mối xử lý sự cố. Tương tự, một phương tiện được ghi trong danh sách vẫn có thể thiếu lái xe đủ điều kiện hoặc đang cần bảo dưỡng. Đây là cách đọc năng lực thực tế thay vì chỉ đếm vật chất.\n\nVí dụ nghiệp vụ bảo đảm: Khi đơn vị nhận nhiệm vụ di chuyển, cán bộ thông tin cần phối hợp xác nhận phương án liên lạc được phê duyệt, trang bị sử dụng được và yêu cầu thử liên lạc. Cán bộ không tự quyết định tuyến hành quân hoặc mở rộng nhiệm vụ; phần việc chuyên môn cung cấp căn cứ để chỉ huy đánh giá khả năng thực hiện.\n\n### 4.3. Quản lý nguồn lực và trách nhiệm\nHồ sơ cấp phát, sử dụng, bảo dưỡng và bàn giao giúp biết tài sản ở đâu, ai chịu trách nhiệm và tình trạng ra sao. Không nên xem hồ sơ là việc làm sau hoạt động để hoàn thiện giấy tờ. Hồ sơ thiếu hoặc sai có thể khiến kế hoạch sau dựa trên nguồn lực không tồn tại, làm chậm sửa chữa và gây thất thoát.\n\nNhu cầu của các đơn vị có thể cạnh tranh cùng nguồn lực. Ưu tiên phải dựa trên nhiệm vụ, nguy cơ và quyết định có thẩm quyền, không dựa vào người liên hệ quen biết. Khi không đáp ứng được, cần báo tác động cụ thể và đề xuất để cấp quyết định lựa chọn. **Điểm cần nhớ:** Công tác thông tin, hậu cần và hành chính tạo điều kiện cho mandate được thực hiện; chất lượng bảo đảm là một phần của chất lượng hoạt động.",
+        "en": "### 4.1. Include support from the beginning\nField activity depends on personnel, vehicles, communications, medical support, fuel, facilities and administration. Support functions need early involvement. A request stating only a departure date and headcount may not establish transport, communications or assistance requirements.\n\nThe requesting section should explain purpose, area, duration, quantities, functional needs, priority and contacts. Support staff should state capacity, constraints, delivery time and alternatives. Together, check whether resource changes affect risks or objectives. Approval and adjustment follow authorized arrangements, not promises beyond available capability.\n\n### 4.2. Equipment on hand is not operational readiness\nA radio in a store does not demonstrate communications readiness. Appropriate configuration, power, trained users, connectivity checks and fault contacts are also needed. A listed vehicle may lack a qualified driver or require maintenance. Assess usable capability rather than counting assets alone.\n\nWhen a unit is assigned movement, communications staff help confirm the approved communications arrangement, serviceable equipment and required checks. They do not independently choose the movement route or expand the mission. Their technical contribution enables the commander to judge feasibility.\n\n### 4.3. Resource management and accountability\nIssue, use, maintenance and handover records establish location, responsibility and condition. They are not merely paperwork to complete after an activity. Inaccurate records can make later plans rely on unavailable resources, delay repairs and allow losses.\n\nCompeting demands require priorities based on tasks, risks and authorized decisions, rather than personal connections. If support cannot be delivered, explain the operational effect and present options to the decision-maker. **Remember:** Communications, logistics and administration enable mandate delivery; support quality is part of operational quality."
+      },
+      "sourceIds": [
+        "C6",
+        "C7"
+      ]
+    },
+    {
+      "id": "CORE-03-05",
+      "title": {
+        "vi": "5. Làm việc với đối tác quốc gia, UN và nhân đạo",
+        "en": "5. Working with national, UN and humanitarian partners"
+      },
+      "body": {
+        "vi": "### 5.1. Đối tác quốc gia không chỉ là cơ quan trung ương\nChính quyền, cảnh sát, cơ quan tư pháp, tổ chức xã hội và cộng đồng có vai trò khác nhau trong xây dựng hòa bình. Quốc gia và người dân sở tại là chủ thể của tiến trình lâu dài; phái bộ hỗ trợ theo mandate. Gặp một người đại diện không có nghĩa đã hiểu nhu cầu của mọi nhóm hoặc được đồng thuận cho mọi hoạt động.\n\nTiếp xúc cần có khả năng tiếp cận phụ nữ, nam giới, thanh niên, người khuyết tật, nhóm thiểu số và người ở địa bàn khó tiếp cận. Không coi lãnh đạo cộng đồng là nguồn duy nhất hoặc mặc nhiên cho rằng tiếng nói nổi bật nhất đại diện tất cả. Cần kiểm tra thông tin từ nhiều góc độ và tránh tạo nguy cơ cho người trao đổi với UN.\n\n### 5.2. UN Country Team và tính liên tục\n**UN Country Team (UNCT)** gồm các cơ quan, quỹ và chương trình UN tại quốc gia. Nhiều tổ chức có mặt trước khi phái bộ triển khai và tiếp tục hoạt động sau khi phái bộ rút. Họ có chuyên môn, quan hệ và chương trình hỗ trợ quan trọng đối với phát triển và chuyển tiếp.\n\nPhối hợp với UNCT giúp kết nối phần việc ngắn hạn của phái bộ với mục tiêu lâu dài và tránh trùng lặp. Tuy nhiên, cùng hệ thống UN không có nghĩa cùng ngân sách, thẩm quyền hoặc thủ tục. Một mong muốn của đối tác phải được chuyển thành thỏa thuận công việc, đầu mối và trách nhiệm rõ ràng; không tự hứa thay tổ chức khác.\n\n### 5.3. Tôn trọng vai trò của các chủ thể nhân đạo\nCác tổ chức nhân đạo cần duy trì hoạt động theo nguyên tắc và nhiệm vụ của mình. Phối hợp bảo vệ và hỗ trợ không biến họ thành bộ phận của kế hoạch cảnh sát hoặc quân sự. Không yêu cầu tổ chức nhân đạo cung cấp dữ liệu nhạy cảm ngoài cơ chế phù hợp, hoặc cho rằng họ phải chấp nhận mọi đề nghị hộ tống.\n\nCán bộ cần nhận diện tổ chức nào làm gì, giới hạn trao đổi và đầu mối liên lạc được thống nhất. Với tổ chức khu vực, tổ chức quốc tế khác và nhà tài trợ, cũng cần phân biệt phối hợp với quyền chỉ đạo. **Điểm cần nhớ:** Quan hệ đối tác hiệu quả dựa trên hiểu chức năng, tôn trọng tính độc lập và thống nhất những việc thực sự có thể làm cùng nhau.",
+        "en": "### 5.1. National partners extend beyond central government\nAuthorities, police, justice institutions, civil society and communities play different peacebuilding roles. National actors and the population own the long-term process; the mission supports them within its mandate. Meeting one representative neither reveals every group’s needs nor establishes consent for every activity.\n\nEngagement should reach women, men, young people, persons with disabilities, minorities and less accessible communities. Do not treat a leader as the only source or assume the loudest voice represents everyone. Seek different perspectives while avoiding risks to people who speak with the UN.\n\n### 5.2. The UN Country Team and continuity\nThe **UN Country Team (UNCT)** brings together UN agencies, funds and programmes in a country. Many operate before a mission arrives and after it leaves. Their expertise, relationships and programmes matter for development and transition.\n\nCoordination connects shorter-term mission work with longer-term objectives and reduces duplication. A common UN identity does not mean identical budgets, powers or procedures. Translate intentions into clear responsibilities and contacts; do not make commitments on another organization’s behalf.\n\n### 5.3. Respect humanitarian roles\nHumanitarian organizations operate according to their own principles and mandates. Coordination does not turn them into parts of police or military plans. Do not request sensitive data outside suitable arrangements or assume they must accept every escort proposal.\n\nKnow each actor’s role, agreed contacts and information-sharing limits. With regional organizations, other international actors and donors, distinguish cooperation from authority to direct. **Remember:** Effective partnership depends on functional understanding, respect for independence and agreement on work that can realistically be done together."
+      },
+      "sourceIds": [
+        "C8"
+      ]
+    },
+    {
+      "id": "CORE-03-06",
+      "title": {
+        "vi": "6. Làm việc đa văn hóa, giải quyết vướng mắc và bàn giao",
+        "en": "6. Multicultural teamwork, resolving issues and handover"
+      },
+      "body": {
+        "vi": "### 6.1. Khác biệt không tự động là thiếu năng lực\nCán bộ đến từ nhiều quốc gia, ngành và môi trường nghề nghiệp. Cùng một từ có thể được hiểu khác; cách phát biểu, phản hồi hoặc thể hiện sự đồng ý cũng khác. Nếu chỉ đánh giá theo thói quen của mình, ta dễ coi sự dè dặt là không hợp tác hoặc coi một câu trả lời lịch sự là cam kết chắc chắn.\n\nDùng ngôn ngữ rõ, hạn chế tiếng lóng và giải thích chữ viết tắt khi cần. Với nhiệm vụ quan trọng, yêu cầu người nhận nhắc lại phần việc, thời hạn và điểm báo cáo bằng lời của họ. Việc xác nhận giúp kiểm tra hiểu chung, không phải cách làm khó người có trình độ ngoại ngữ khác mình.\n\n### 6.2. Giải quyết bất đồng bằng nhiệm vụ và dữ kiện\nKhi hai bộ phận chưa thống nhất, hãy xác định vấn đề nằm ở mục tiêu, trách nhiệm, nguồn lực hay cách hiểu thẩm quyền. Đưa ra dữ kiện, văn bản và tác động; tìm phương án trong phạm vi được giao. Không dùng cấp bậc quốc gia hoặc quan hệ cá nhân để vượt cơ chế UN.\n\nNếu không thể giải quyết ở cấp làm việc, báo tuyến chỉ huy hoặc cơ chế phối hợp có thẩm quyền. Nội dung báo cần nêu phần đã thống nhất, điểm còn vướng và quyết định đang cần. Với dấu hiệu vi phạm hoặc nguy cơ an toàn, dùng kênh báo cáo thích hợp; không che giấu dưới tên gọi “khác biệt văn hóa”.\n\n### 6.3. Bàn giao để người sau tiếp tục được công việc\nMột bản bàn giao tốt nêu mục tiêu và việc đang làm, kết quả đã xác nhận, việc chưa xong, quyết định còn chờ, hạn xử lý, đầu mối và nơi lưu hồ sơ được phép. Với trang bị, cần có tình trạng, trách nhiệm và vấn đề kỹ thuật. Với thông tin nhạy cảm, bàn giao qua hệ thống được phép, không chuyển toàn bộ dữ liệu sang tài khoản cá nhân để tiện sử dụng.\n\nNgười nhận cần có cơ hội hỏi lại và kiểm tra những nội dung quan trọng. Ký nhận tài sản không thay thế bàn giao nhiệm vụ; một buổi nói chuyện không thay thế hồ sơ cần lưu. **Kết thúc bài:** Hãy giữ ba câu hỏi trong công việc hằng ngày: Tôi chịu trách nhiệm phần nào? Cần phối hợp với ai? Thông tin và nguồn lực nào giúp người khác tiếp tục công việc an toàn, đúng nhiệm vụ?",
+        "en": "### 6.1. Difference does not automatically mean incompetence\nPersonnel bring different national, institutional and professional cultures. Words, feedback and expressions of agreement may carry different meanings. Judging solely by personal habits can mistake reserve for non-cooperation or politeness for a firm commitment.\n\nUse clear language, avoid unnecessary slang and explain abbreviations. For important assignments, ask recipients to restate the task, deadline and reporting point in their own words. Confirmation tests shared understanding rather than penalizing different language abilities.\n\n### 6.2. Resolve disagreements through tasks and facts\nIdentify whether disagreement concerns objectives, responsibilities, resources or authority. Present facts, relevant documents and consequences, then seek options within assigned powers. National rank or personal connections do not justify bypassing UN arrangements.\n\nIf working-level discussion cannot resolve the issue, refer it to the appropriate command or coordination mechanism. State agreements reached, unresolved matters and the decision required. Use suitable channels for misconduct or safety concerns; do not excuse them as cultural differences.\n\n### 6.3. Handover enables continuity\nA useful handover records objectives, ongoing work, verified results, outstanding actions, pending decisions, deadlines, contacts and authorized record locations. Equipment handover includes condition, responsibility and technical issues. Transfer sensitive information through approved systems, not personal accounts for convenience.\n\nRecipients need an opportunity to ask questions and verify important points. Signing for assets does not replace task handover; an informal conversation does not replace required records. **Retain three questions:** What am I responsible for? With whom must I coordinate? Which information and resources enable others to continue safely and within the mandate?"
+      },
+      "sourceIds": [
+        "C7",
+        "C8"
+      ]
+    }
+  ],
+  "source_ids": [
+    "C6",
+    "C7",
+    "C8"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "HOM / SRSG",
+      "definition": {
+        "vi": "Người đứng đầu phái bộ / Đại diện đặc biệt của Tổng Thư ký.",
+        "en": "Head of Mission / Special Representative of the Secretary-General."
+      }
+    },
+    {
+      "term": "HOPC / HOMC",
+      "definition": {
+        "vi": "Người đứng đầu thành phần cảnh sát / quân sự.",
+        "en": "Head of Police Component / Head of Military Component."
+      }
+    },
+    {
+      "term": "COS",
+      "definition": {
+        "vi": "Chức năng tham mưu, phối hợp; cần phân biệt COS phái bộ và COS thành phần.",
+        "en": "Chief of Staff; distinguish mission-level and component-level posts."
+      }
+    },
+    {
+      "term": "DMS / CMS",
+      "definition": {
+        "vi": "Người đứng đầu chức năng bảo đảm phái bộ theo cơ cấu áp dụng.",
+        "en": "Director / Chief of Mission Support under applicable arrangements."
+      }
+    },
+    {
+      "term": "JOC / JMAC",
+      "definition": {
+        "vi": "Cơ chế hỗ trợ tình hình, thông tin hoạt động / phân tích tích hợp.",
+        "en": "Joint Operations Centre / Joint Mission Analysis Centre."
+      }
+    },
+    {
+      "term": "UNCT",
+      "definition": {
+        "vi": "Nhóm các cơ quan, quỹ và chương trình UN tại quốc gia.",
+        "en": "United Nations Country Team."
+      }
+    }
+  ],
+  "diagram": null,
+  "contentVersion": "batch-01-expanded-v1-2026-10-27",
+  "sourceIntro": {
+    "vi": "Nguồn dưới đây là tài liệu nền để đối chiếu bài học. Nội dung giải thích Việt–Anh và câu hỏi được biên soạn cho Handbook; hình gốc ghi rõ tài liệu và trang PDF.",
+    "en": "The following materials support the lesson. Bilingual explanations and questions are authored for the Handbook; original figures identify the source and PDF page."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Bản biên soạn đợt 1 ngày 27/10/2026. Tài liệu nền gồm CPTM 2025 và/hoặc UNPOL STM 2021 theo danh mục của từng bài. Hai ngôn ngữ phục vụ học tập, không phải bản dịch chính thức của UN.",
+      "Bài học dạy kiến thức chung, không xác định cơ cấu, mandate, quyền hạn hay thủ tục hành chính hiện hành của một phái bộ cụ thể. Khi làm nhiệm vụ, sử dụng văn bản và hướng dẫn có thẩm quyền áp dụng cho vị trí.",
+      "Bảng đối chiếu chỉ ra nguồn theo mục; không coi mọi câu là trích nguyên văn. Ví dụ công việc là phần giải thích biên soạn. Hình giữ nội dung tiếng Anh gốc, kèm chú giải đầy đủ Việt–Anh trong bài.",
+      "Nguồn được dùng theo nội dung giảng và mục tiêu bài; số trang hình là trang PDF, có thể khác số slide."
+    ],
+    "en": [
+      "Batch 1 authored on 27 October 2026 using CPTM 2025 and/or UNPOL STM 2021 as listed for each lesson. The bilingual text is learning material, not an official UN translation.",
+      "This lesson teaches general knowledge rather than establishing a particular mission’s current structure, mandate, powers or administrative procedures. Use authorized instruments applicable to your post.",
+      "The mapping identifies sources by section, not a verbatim source for every sentence. Work examples are authored explanations. Figures retain their original English text with bilingual explanations in the lesson.",
+      "Sources are used for their teaching content and objectives. Figure page numbers refer to PDF pages and may differ from slide numbers."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Một phái bộ chỉ hoạt động hiệu quả khi con người hiểu cơ cấu, tuyến chỉ huy và cách các phần việc kết nối. Bài này hướng dẫn đọc cơ cấu, phối hợp dân sự–quân sự–cảnh sát, sử dụng thông tin, tổ chức bảo đảm và làm việc với đối tác để duy trì nhiệm vụ.",
+      "en": "Mission effectiveness depends on understanding structure, command and how contributions connect. Learn to read organizational arrangements, coordinate civilian–military–police work, use information, organize support and maintain effective partnerships."
+    },
+    "subtitle": {
+      "vi": "Hiểu cơ cấu · Phối hợp đúng vai trò · Duy trì công việc",
+      "en": "Understand structures · Coordinate within roles · Maintain continuity"
+    },
+    "objectives": {
+      "vi": [
+        "Đọc được cơ cấu phái bộ và phân biệt tuyến chỉ huy với đầu mối phối hợp.",
+        "Giải thích đóng góp khác nhau của dân sự, quân sự, cảnh sát và bảo đảm.",
+        "Phân biệt chức năng JOC/JMAC và các yêu cầu chất lượng, bảo vệ thông tin.",
+        "Liên hệ nguồn lực thực tế với khả năng thực hiện kế hoạch.",
+        "Làm rõ nguyên tắc quan hệ đối tác, làm việc đa văn hóa và bàn giao."
+      ],
+      "en": [
+        "Read mission structures and distinguish command from coordination.",
+        "Explain civilian, military, police and support contributions.",
+        "Distinguish JOC/JMAC functions and information quality and protection requirements.",
+        "Connect usable resources with plan feasibility.",
+        "Explain partnership, multicultural teamwork and handover principles."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc 6 mục trong tab Nội dung bài học; xem hình và lời giải thích ở mục liên quan. Làm 12 câu kiểm tra, đọc phản hồi và quay lại mục được chỉ ra. Nút VI/EN đổi ngôn ngữ và giữ đáp án trong phiên mở trang; tải lại trang sẽ bắt đầu lại. Mỗi hình có thể bấm để xem lớn.",
+      "en": "Read the lesson sections and study each figure with its explanation. Complete 12 questions, review feedback and revisit the indicated section. VI/EN retains answers during the current session; reloading starts again. Click a figure to enlarge it."
+    }
+  },
+  "figures": [
+    {
+      "chapter": 0,
+      "image": "assets/lesson-figures/batch-01/C6-p8.png",
+      "alt": {
+        "vi": "Hình 1. Cơ cấu khái quát của một phái bộ gìn giữ hòa bình",
+        "en": "Figure 1. A generic peacekeeping mission structure"
+      },
+      "caption": {
+        "vi": "Hình 1. Cơ cấu khái quát của một phái bộ gìn giữ hòa bình",
+        "en": "Figure 1. A generic peacekeeping mission structure"
+      },
+      "explanation": {
+        "vi": "Hãy nhận diện HOM ở cấp lãnh đạo chung, các chức năng tham mưu và bảo đảm, cùng người đứng đầu quân sự và cảnh sát. Hình giúp hiểu các chức năng; vị trí và tuyến thực tế phải đọc theo cơ cấu phái bộ. Chức danh DSRSG/RC/HC minh họa khả năng kiêm nhiệm, không có nghĩa mọi phái bộ đều bố trí như hình.",
+        "en": "Identify overall leadership, staff and support functions, and military and police heads. This illustrates functions; consult the actual mission chart for positions and reporting. DSRSG/RC/HC illustrates combined roles, not a universal arrangement."
+      },
+      "sourceLabel": "UN CPTM 2025 · Lesson 1.6",
+      "pdfPage": 8
+    }
+  ],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft",
+  "figureZoom": true
+}

@@ -1,0 +1,739 @@
+{
+  "schemaVersion": 2,
+  "id": "FPU-14",
+  "area": "fpu",
+  "groupKey": "FPU-M4",
+  "group": {
+    "vi": "Chiến thuật cảnh sát",
+    "en": "Police tactics"
+  },
+  "title": {
+    "vi": "Hộ tống đoàn xe",
+    "en": "Convoy escort"
+  },
+  "summary": {
+    "vi": "Hộ tống là một nhiệm vụ có điểm khởi đầu, hành trình và bàn giao. Bài học gắn bảo vệ với lái xe an toàn, bảo đảm, liên lạc, hỗ trợ và khả năng tiếp nhận tại nơi đến.",
+    "en": "Escort duties connect departure, journey and handover. Integrate protection with safe driving, logistics, communications, support and destination readiness."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 6,
+  "sourceKey": "CONVOY",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-026%20Convoy%20escort.pdf",
+  "order": 206,
+  "sections": [
+    {
+      "id": "FPU-14-01",
+      "title": {
+        "vi": "1. Hộ tống phục vụ mục tiêu nào?",
+        "en": "1. What does an escort serve?"
+      },
+      "body": {
+        "vi": "### 1.1. Bảo vệ hành trình và khả năng thực hiện nhiệm vụ\nHộ tống đoàn xe hỗ trợ người, phương tiện và hàng hóa di chuyển để thực hiện một nhiệm vụ được phép. FPU có thể được giao bảo vệ vận chuyển UN hoặc hỗ trợ di chuyển nhân sự theo mandate và năng lực. Hoàn thành không chỉ là xe cuối đã tới: Cần xác nhận con người, hàng, tình trạng và phần việc được chuyển đúng nơi, đúng trách nhiệm.\n\nMục tiêu cần được nêu trước khi lựa chọn tổ chức. Đoàn chở người bệnh, vật tư thiết yếu hoặc hàng thông thường có nhu cầu khác nhau về chăm sóc, thời gian, bảo quản và tiếp nhận. Không suy tất cả đều dùng một cách hộ tống vì cùng đi trên đường.\n\n### 1.2. Phân biệt các vai trò\nNgười chỉ huy hộ tống, người phụ trách vận chuyển, lái xe và cơ quan tiếp nhận có trách nhiệm khác nhau. Cần xác định ai quyết định an ninh, ai quản lý người và hàng, ai điều phối chuyển động và ai xử lý thay đổi. Chức danh cụ thể theo cơ chế phái bộ, nhưng phần việc không được bỏ trống hoặc chồng mâu thuẫn.\n\nLái xe dân sự phải được phổ biến điều liên quan, hiểu tín hiệu, liên lạc và giới hạn. Không coi họ như phương tiện không có vai trò quyết định an toàn. Khi có đơn vị khác tham gia, thống nhất cơ chế trước xuất phát, không tự nhận quyền chỉ huy chỉ vì có vũ trang.\n\n### 1.3. Mandate và nguyên tắc phối hợp\nNhiệm vụ hộ tống không tự trao quyền dừng, khám, bắt hoặc dùng vũ lực mọi nơi đoàn đi qua. Căn cứ phát sinh vẫn cần được xác định. Bảo vệ người và hàng không biện minh gây nguy cơ tùy tiện cho người đi đường.\n\nKhông mặc định mọi hoạt động cứu trợ đều cần hoặc chấp nhận hộ tống vũ trang. Phối hợp với cơ quan chịu trách nhiệm, theo cơ chế và nguyên tắc áp dụng; không tự đặt mục tiêu cho đối tác nhân đạo hoặc hứa năng lực chưa được cho phép.\n\n### 1.4. Giữ mục tiêu trong thay đổi\nTình hình, đường hoặc phương tiện có thể thay đổi; cần biết điều gì làm nhiệm vụ không còn khả thi và ai có quyền quyết. Đúng giờ không phải tiêu chí duy nhất. Một hành trình chậm có lý do an toàn và quyết định đúng có thể tốt hơn cố bám lịch làm tăng nguy cơ cho người được bảo vệ.",
+        "en": "### 1.1. Protect movement and mission delivery\nConvoy escort supports authorized movement of people, vehicles and cargo. FPU tasks may include UN transport and personnel protection within mandate and capability. Completion requires accepted people, cargo, condition and responsibility, not merely the last vehicle's arrival.\n\nDefine the objective before organization. Patients, essential supplies and ordinary cargo have different care, timing, handling and reception needs. Sharing a road does not create identical escort requirements.\n\n### 1.2. Distinct responsibilities\nEscort command, transport management, drivers and receivers have different duties. Establish security decisions, passenger and cargo accountability, movement coordination and change authority. Local titles vary, but responsibilities must remain clear.\n\nBrief civilian drivers on signals, contact and limits. They contribute to safety rather than simply operate equipment. Armed status does not automatically confer command over partners.\n\n### 1.3. Mandate and coordination\nEscort does not authorize unrestricted stops, searches, custody or force. Protecting cargo cannot justify arbitrary danger to road users.\n\nHumanitarian activity does not automatically require or accept armed escort. Coordinate with responsible organizations under applicable arrangements and principles without imposing objectives or promising unauthorized capability.\n\n### 1.4. Preserve the objective\nDefine conditions undermining feasibility and who decides. Timing is not the only standard. An authorized safety-related delay can be preferable to maintaining a schedule at excessive risk."
+      },
+      "sourceIds": [
+        "CONVOY",
+        "POLICY"
+      ]
+    },
+    {
+      "id": "FPU-14-02",
+      "title": {
+        "vi": "2. Đánh giá hành trình và tính khả thi",
+        "en": "2. Assessing the journey and feasibility"
+      },
+      "body": {
+        "vi": "### 2.1. Hiểu tuyến và giới hạn thông tin\nXem điều kiện đường, thời tiết, giao thông, địa hình, hạn chế tiếp cận và nguy cơ được báo qua nguồn có trách nhiệm. Phân biệt tuyến đã khảo sát, thông tin người khác cung cấp và giả định còn cần xác nhận. Một báo cáo tốt từ lần trước không chứng minh đường còn dùng được sau mưa hoặc sự kiện mới.\n\nThông tin về vật nổ và khu vực nguy hiểm phải được cập nhật theo đầu mối chuyên trách. Không tự khảo sát bằng cách tiến vào nơi nghi nguy hiểm để rút ngắn kế hoạch. Người lập cần nêu khoảng trống nào có thể làm thay đổi quyết định và cách xử lý trước khi xuất phát.\n\n### 2.2. Người, xe và hàng là một hệ thống\nXác định số người, phương tiện, loại hàng, giới hạn kỹ thuật và yêu cầu bảo quản theo nhiệm vụ. Tải trọng, tình trạng xe, người lái và nhu cầu nghỉ ảnh hưởng thời gian. Không ép một xe vượt khả năng để giữ cả đoàn “đồng đều”. Hàng đặc biệt cần khai báo, chuyên môn và điều kiện theo quy định liên quan.\n\nNăng lực phục vụ yếu nhất có thể giới hạn cả hành trình. Một xe dự kiến tới nhanh nhưng thiếu người nhận, thiếu thiết bị dỡ hoặc không có điều kiện bảo quản vẫn làm nhiệm vụ chưa hoàn tất. Tính khả thi cần bao gồm đầu đi, dọc đường và đầu nhận.\n\n### 2.3. Không áp thông số chung máy móc\nTốc độ, quy mô, cách tổ chức và khoảng cách phải theo đánh giá địa bàn, luật giao thông, điều kiện người–xe và phương án được phép. Không dùng một con số trong tài liệu huấn luyện cũ làm quy tắc tự động cho đường đô thị, đường xấu và mọi loại xe. Người chỉ huy cần hiểu giới hạn và lý do của phương án, không chỉ nhớ số.\n\n### 2.4. Dự phòng có nguồn lực thật\nTính hỏng xe, người cần y tế, thay đổi tiếp cận, thiếu liên lạc hoặc không thể tới nơi nhận. Xác định ai quyết định, hỗ trợ lấy từ đâu và khi nào phải báo. Không gọi một xe đang nhận nhiệm vụ khác là dự phòng sẵn có. Các phương án thay cần được phối hợp với bên vận chuyển, an ninh và tiếp nhận để không tạo kế hoạch không ai thực hiện được.",
+        "en": "### 2.1. Route knowledge and uncertainty\nAssess roads, weather, traffic, terrain, access restrictions and threats through responsible sources. Distinguish verified conditions, received reports and assumptions. Previous access does not establish usability after new weather or incidents.\n\nObtain updated explosive-hazard information through specialists. Do not enter suspected danger to complete reconnaissance. Identify decision-critical gaps and required verification.\n\n### 2.2. A connected system\nAssess people, vehicles, cargo, technical limits and handling requirements. Load, condition, drivers and rest affect timing. Do not pressure a vehicle beyond capability to preserve uniformity. Special cargo needs applicable declarations, expertise and conditions.\n\nReceiving staff, unloading capacity and storage matter as much as travel. Feasibility covers departure, transit and reception.\n\n### 2.3. Avoid universal parameters\nSpeed, size, organization and spacing follow local assessment, traffic law, people, vehicles and authorized plans. Historical training numbers are not automatic rules for every road or vehicle. Understand limitations and reasoning.\n\n### 2.4. Real contingencies\nPlan breakdown, casualties, changed access, failed communications and unavailable reception. Establish decisions, resources and reporting triggers. A vehicle committed elsewhere is not an available reserve. Coordinate alternatives with transport, security and receiving actors."
+      },
+      "sourceIds": [
+        "CONVOY",
+        "CSC006",
+        "UNMAS"
+      ]
+    },
+    {
+      "id": "FPU-14-03",
+      "title": {
+        "vi": "3. Chuẩn bị và phổ biến trước xuất phát",
+        "en": "3. Preparation and pre-departure briefing"
+      },
+      "body": {
+        "vi": "### 3.1. Người và trách nhiệm\nĐối chiếu danh sách người, người lái, người chỉ huy, liên lạc, y tế và quản lý hàng theo kế hoạch. Kiểm tra đủ điều kiện, sức khỏe, mệt mỏi và năng lực sử dụng phương tiện. Thay một lái xe cần xác nhận người mới hiểu nhiệm vụ và đủ điều kiện, không chỉ thay tên trên danh sách.\n\nNgười đi cùng cần biết cách báo vấn đề, yêu cầu an toàn và người liên hệ, phù hợp vai trò. Khi có người cần hỗ trợ vận động hoặc chăm sóc, phải có bố trí tương ứng từ trước; không chờ tới điểm dừng mới tìm ai có thể giúp.\n\n### 3.2. Trang bị hoạt động được\nKiểm tra kỹ thuật, nhiên liệu, thông tin, y tế và vật tư theo yêu cầu. Người có chuyên môn xác nhận phần kỹ thuật; người dùng kiểm tra trong phạm vi. Báo lỗi có ảnh hưởng, không che để tránh lùi giờ. Phương tiện được ghi có mặt nhưng không vận hành an toàn không tạo năng lực hộ tống.\n\nTài liệu người và hàng cần khớp thực tế, có kiểm soát phiên bản và bảo mật. Không phát rộng danh sách nhận dạng, lịch trình hoặc thông tin hàng nhạy cảm ngoài nhu cầu. Những người chịu trách nhiệm y tế và tiếp nhận vẫn cần đủ dữ liệu để chuẩn bị.\n\n### 3.3. Nội dung phổ biến chung\nLàm rõ mục tiêu, phạm vi, chỉ huy, nhiệm vụ từng bên, giới hạn, liên lạc, cách báo, điều kiện thay đổi và tiếp nhận. Đặc biệt kiểm tra hiểu ở các điểm có nhiều cơ quan hoặc ngôn ngữ. Không chỉ đưa tài liệu cho một người đại diện rồi giả định mọi lái xe đã biết.\n\nCác tín hiệu và quy trình cụ thể phải được hướng dẫn, thực hành trong điều kiện an toàn. Không thử tín hiệu mới trên đường thật hoặc để người lái tự suy từ kinh nghiệm của đoàn trước.\n\n### 3.4. Điểm xác nhận cuối\nTrước khởi hành, xác nhận người và hàng đã được đối chiếu, điều kiện thiết yếu đáp ứng, đầu nhận sẵn sàng và tuyến báo biết đoàn bắt đầu. Nếu có giới hạn còn lại, ai chấp nhận và căn cứ phải rõ. Một bảng kiểm đủ chữ ký không thay quyết định phù hợp khi đã biết thiếu điều kiện an toàn.",
+        "en": "### 3.1. People and roles\nReconcile passengers, drivers, command, communications, medical and cargo responsibilities. Verify qualifications, health and fatigue. Replacement drivers need task understanding as well as a roster change.\n\nPassengers require role-appropriate safety instructions and reporting contacts. Arrange mobility or medical assistance in advance.\n\n### 3.2. Functional equipment\nCheck technical condition, fuel, communications, medical resources and supplies. Use qualified technical confirmation and operator checks within competence. Report task-relevant faults rather than conceal them to preserve timing.\n\nMatch manifests to reality, control versions and protect identities, schedules and sensitive cargo information while informing appropriate care and receiving personnel.\n\n### 3.3. Shared briefing\nExplain objective, scope, command, partner duties, limits, communication, reporting, change conditions and reception. Check understanding across organizations and languages; handing one representative a document is insufficient.\n\nPractise relevant signals and procedures safely before deployment. Live traffic is not a place to test unfamiliar conventions.\n\n### 3.4. Final confirmation\nConfirm reconciled people and cargo, essential readiness, receiving arrangements and departure reporting. Establish authority and grounds for any accepted residual limitations. Signatures cannot remedy a known unsafe condition."
+      },
+      "sourceIds": [
+        "CONVOY",
+        "CSC009"
+      ]
+    },
+    {
+      "id": "FPU-14-04",
+      "title": {
+        "vi": "4. Duy trì đoàn và an toàn người đi đường",
+        "en": "4. Maintaining continuity and road-user safety"
+      },
+      "body": {
+        "vi": "### 4.1. Giữ bức tranh về cả đoàn\nNgười phụ trách cần biết đoàn còn đầy đủ, xe nào có hạn chế, người nào cần hỗ trợ và liên lạc có hoạt động không. Việc một xe rời hoặc gia nhập phải theo kế hoạch, được xác nhận và cập nhật. Không suy xe cuối mất liên lạc đã tự tới nơi hoặc đã được lực lượng khác nhận.\n\nNhịp di chuyển phải phù hợp điều kiện thực tế và giới hạn của phương tiện. Người lái phải có thể báo nguy hiểm, mệt hoặc hỏng mà không bị ép giữ tiến độ bất chấp. Chỉ huy cần thông tin để quyết định thay vì chỉ yêu cầu nhanh hơn.\n\n### 4.2. Liên lạc có mục đích\nBáo vị trí trong phạm vi cần, tình trạng, thay đổi và yêu cầu. Xác nhận thông tin quan trọng, ưu tiên khẩn và dùng phương án dự phòng được phép khi cần. Không để mọi người cùng phát làm mất thông tin y tế hoặc sự cố. Thông tin gửi tới đầu nhận cần đúng lúc để họ chuẩn bị và điều chỉnh.\n\nNếu kế hoạch đổi, nêu phần thay và người chịu ảnh hưởng. Không để lực lượng hỗ trợ chờ ở nơi cũ vì chỉ một nhóm được thông báo. Kiểm soát phiên bản lệnh và danh sách theo cơ chế.\n\n### 4.3. Bảo vệ người ngoài đoàn\nNgười đi đường có quyền và nhu cầu tiếp cận. Không mặc định đoàn có quyền buộc mọi giao thông tránh bằng mọi cách. Việc điều tiết, hạn chế hoặc hỗ trợ của đối tác phải có căn cứ và được phối hợp. Tính người đi bộ, xe cấp cứu, trẻ và người hạn chế vận động.\n\nThái độ và giao tiếp ảnh hưởng mức chấp nhận của cộng đồng. Không xúc phạm, tự xử phạt hoặc dùng vũ lực vì người dân không hiểu tín hiệu. Đánh giá hành vi cùng nguy cơ cụ thể, không gán cả nhóm là thù địch vì có phản ánh về đoàn.\n\n### 4.4. Điểm dừng và thay đổi điều kiện\nDừng, tiếp tục hoặc đổi phần việc phải theo phương án và thẩm quyền, có thông tin cho các bên. Cần bảo đảm người, xe, hàng và hỗ trợ tại điểm chuyển. Không để việc dừng vì hành chính làm mất kiểm soát người cần chăm sóc hoặc tài sản. Các kỹ thuật tổ chức và đáp ứng cụ thể cần được thực hành theo kế hoạch địa bàn, không suy từ bài đọc chung.",
+        "en": "### 4.1. Track the whole convoy\nKnow completeness, limitations, assistance needs and communications status. Joining or leaving requires authorized confirmation and updates. Lost contact with a rear vehicle does not prove arrival or acceptance elsewhere.\n\nMatch movement to conditions and vehicle limits. Drivers must report danger, fatigue and defects without pressure to preserve speed regardless of risk.\n\n### 4.2. Decision-relevant communication\nReport necessary location, status, changes and requests. Confirm critical traffic, prioritize emergencies and use approved alternatives. Update receiving actors in time for preparation.\n\nExplain changed orders to all affected support actors, not only one group. Maintain current versions of directions and manifests.\n\n### 4.3. Other road users\nCivilians retain rights and access needs. A convoy does not have unlimited authority to displace traffic. Coordinate lawful restrictions and include pedestrians, ambulances, children and disability.\n\nRespectful communication supports acceptance. Do not punish or use force because people misunderstand signals. Assess actual behaviour and threats rather than label a complaining group hostile.\n\n### 4.4. Stops and transitions\nStopping, continuing and changing tasks require appropriate authority and coordination. Maintain accountability, cargo and care during transitions. Local organizational and response techniques require practical instruction rather than general reading."
+      },
+      "sourceIds": [
+        "CONVOY",
+        "POLICY"
+      ]
+    },
+    {
+      "id": "FPU-14-05",
+      "title": {
+        "vi": "5. Sự cố, y tế và hỗ trợ đường không",
+        "en": "5. Incidents, medical care and air support"
+      },
+      "body": {
+        "vi": "### 5.1. Báo ảnh hưởng thay vì chỉ tên sự cố\nKhi xe hỏng, tai nạn hoặc có người cần y tế, báo vị trí, điều quan sát, ảnh hưởng đoàn, nguy cơ tiếp cận, việc đang làm và hỗ trợ cần. Nói xe không thể đi khác với chỉ báo đèn cảnh báo; thông tin cụ thể giúp điều phối đúng. Không tự tách xe hoặc người ngoài phương án mà không báo, xác nhận.\n\nNếu có nguy cơ an ninh, giữ khả năng chỉ huy, bảo vệ trong thẩm quyền và kích hoạt hỗ trợ. Không tự truy đuổi hoặc chuyển mục tiêu khỏi việc bảo vệ đoàn. Các phương án đáp ứng nguy cơ cao phải được tập trực tiếp; bài học không thay SOP.\n\n### 5.2. Vật nghi nổ và nơi chưa an toàn\nKhông tiếp cận vật nghi nổ để kiểm tra, dọn đường hoặc chụp ảnh. Cảnh báo người khác từ nơi an toàn, báo đầu mối chuyên trách và theo hướng dẫn. Không để yêu cầu giao hàng gấp trở thành lý do thử đi qua khu vực chưa được đánh giá.\n\nSau sự cố, có thể còn cháy, kết cấu hỏng, vật nguy hiểm hoặc nguy cơ tiếp diễn. Tổ chức sơ cứu chỉ khi an toàn và trong năng lực; gọi lực lượng thích hợp. Không tự đưa người chưa huấn luyện tới hiện trường để cứu hoặc lấy hàng.\n\n### 5.3. Hỗ trợ y tế có tiếp nhận\nGọi y tế sớm với tình trạng và điều kiện tiếp cận. Chuyển người cần người điều phối, phương tiện phù hợp, cơ sở tiếp nhận và theo dõi. Một xe đang trống không tự là phương tiện đủ cho mọi ca bệnh. Cung cấp thời điểm, biểu hiện, can thiệp và thay đổi cho người nhận.\n\nKhông hứa thời gian cứu hộ hoặc sơ tán khi chưa được xác nhận. Khả năng thực hiện phụ thuộc điều kiện, nguồn lực và quyết định có thẩm quyền, cần phương án tạm thời phù hợp trong khi chờ.\n\n### 5.4. Đường không cần cơ chế chuyên môn\nYêu cầu trực thăng hoặc hỗ trợ đường không phải qua tuyến điều phối hàng không, tác nghiệp và y tế liên quan. Cán bộ không tự chỉ định nơi hạ, phát lệnh bay hoặc dẫn người tới máy bay khi chưa được phép. Khi được hỗ trợ, tuân thủ tổ bay và người phụ trách an toàn, không tự tiếp cận hoặc chất đồ.\n\nThông tin cần được cung cấp đúng, cập nhật và bảo mật. Việc đã yêu cầu không có nghĩa chuyến bay đã được chấp thuận hoặc chắc chắn tới; phải tiếp tục điều phối chăm sóc và năng lực còn lại.",
+        "en": "### 5.1. Report consequences\nFor breakdown, accident or illness, report location, observations, convoy effects, access risk, current action and support needed. Specific functional impact matters more than a device warning alone. Do not separate people or vehicles without required coordination.\n\nFor security incidents, maintain command, provide authorized protection and activate support rather than pursue unrelated objectives. High-risk responses require practical SOP-based training.\n\n### 5.2. Explosive and scene hazards\nDo not approach suspicious items to inspect, photograph or clear the route. Warn from safety and obtain specialist direction. Urgent cargo does not justify unassessed access.\n\nFire, damaged structures, dangerous items and continuing threats may remain. Provide safe trained first aid and activate suitable responders without exposing unqualified helpers.\n\n### 5.3. Medical continuity\nActivate care early. Transfer needs coordination, suitable transport, reception and monitoring; an empty vehicle does not meet every clinical need. Communicate timing, symptoms, interventions and changes.\n\nDo not promise unconfirmed rescue or evacuation times. Maintain feasible interim care while responsible actors coordinate resources and decisions.\n\n### 5.4. Aviation arrangements\nAir support requests follow aviation, operations and medical channels. Officers must not independently select landing arrangements, direct flights or approach aircraft without authorization. Follow aircrew and safety personnel for movement and loading.\n\nRequests are not approvals or guaranteed arrivals. Provide accurate updates and continue care and capability coordination."
+      },
+      "sourceIds": [
+        "AIR",
+        "UNMAS",
+        "CSC021"
+      ]
+    },
+    {
+      "id": "FPU-14-06",
+      "title": {
+        "vi": "6. Đến nơi, bàn giao và đánh giá",
+        "en": "6. Arrival, handover and assessment"
+      },
+      "body": {
+        "vi": "### 6.1. Xác nhận đủ người và phương tiện\nKhi tới nơi, đối chiếu người, xe, tình trạng và việc thay đổi dọc đường; báo đúng tuyến. Không chỉ dựa vào một người thông báo đã tới khi còn phương tiện chưa xác nhận. Những trường hợp chuyển y tế, tách nhiệm vụ hoặc đổi người nhận phải có hồ sơ rõ.\n\nĐoàn tới trước giờ tiếp nhận hoặc nơi nhận đổi có thể cần quyết định mới về bảo đảm. Không tự để người và hàng ở một vị trí rồi coi nhiệm vụ hoàn thành. Trách nhiệm tiếp tục cho tới khi bàn giao hoặc kết thúc theo thẩm quyền.\n\n### 6.2. Bàn giao người và hàng\nNgười nhận cần biết danh sách phù hợp, tình trạng, hư hỏng, thiếu, yêu cầu bảo quản hoặc chăm sóc và việc còn chờ. Đối chiếu thực vật với hồ sơ, ghi điểm khác và xác nhận. Chữ ký không nên được dùng thay kiểm tra hoặc ép người nhận xác nhận điều chưa biết.\n\nTài sản, hồ sơ và dữ liệu được chuyển theo cơ chế; không tự phân chia hàng dư hoặc hủy chứng từ. Nếu có bất đồng, giữ thông tin và báo đúng người, không sửa số liệu cho khớp bề ngoài.\n\n### 6.3. Phục hồi và báo cáo\nSau hành trình, kiểm tra người, phương tiện, trang bị, vật tư, dữ liệu và nhu cầu nghỉ. Cập nhật khả năng thực hiện nhiệm vụ tiếp theo. Bảo dưỡng và sức khỏe là phần của hoàn tất, không phải việc tùy chọn sau khi đã báo thành công.\n\nBáo cáo nêu mục tiêu, thực hiện, thay đổi, sự cố, thương tích, hại và kết quả bàn giao. Phân biệt quan sát và nhận định, báo khẩn đúng thời điểm thay vì chờ bản tổng kết. Hành trình và danh sách nhạy cảm cần được bảo vệ.\n\n### 6.4. Học từ điểm nối\nRà cách phổ biến cho lái xe, liên lạc, xử lý thay đổi, đầu nhận và nguồn hỗ trợ. Nếu đoàn chờ lâu vì nơi nhận không chuẩn bị, bài học không chỉ là đi sớm hơn; cần sửa xác nhận và thời điểm thông báo. Nếu xe hỏng lặp, phải xem bảo dưỡng và kế hoạch khai thác.\n\nNăng lực hộ tống gồm tổ chức có căn cứ, giữ toàn bộ hành trình trong bức tranh chung, bảo vệ người đi đường và bàn giao liên tục. Kỹ thuật bố trí, điều hành phương tiện và đáp ứng nguy cơ cần đánh giá thực hành theo phương án được phép.",
+        "en": "### 6.1. Confirm people and vehicles\nReconcile identities, vehicles, condition and transit changes and report completion. One arrival message is insufficient while other vehicles remain unconfirmed. Record medical transfer, reassignment and receiver changes.\n\nEarly arrival or changed reception may require renewed support decisions. Leaving people or cargo at a location does not complete responsibility without authorized acceptance or termination.\n\n### 6.2. Substantive handover\nTransfer appropriate lists, condition, damage, shortages, storage or care needs and pending action. Compare reality with records and identify discrepancies. Signatures cannot replace verification.\n\nFollow property and data procedures. Do not distribute surplus cargo, destroy evidence or alter figures to remove disagreement. Preserve information and elevate unresolved issues.\n\n### 6.3. Recovery and reporting\nCheck personnel, transport, equipment, supplies, data and rest needs before declaring further readiness. Maintenance and health are part of completion.\n\nReport objective, conduct, changes, incidents, harm and accepted handover. Separate facts and assessment and retain urgent notification requirements. Protect sensitive movement and identity data.\n\n### 6.4. Learn from interfaces\nReview driver briefing, communications, changes, reception and assistance. Delayed unloading may require better receiving confirmation rather than earlier departure alone; repeated breakdown needs maintenance review.\n\nCompetence combines authorized organization, whole-journey awareness, road-user safeguards and continuous handover. Vehicle organization and high-risk response require separate practical assessment."
+      },
+      "sourceIds": [
+        "CONVOY",
+        "CSC021"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "CONVOY",
+      "title": "Convoy Escort",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-026%20Convoy%20escort.pdf",
+      "format": "pdf",
+      "pages": 22,
+      "reading": "7–13",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "POLICY",
+      "title": "Policy 2024.14: Formed Police Units in United Nations Peace Operations",
+      "publisher": "United Nations DPO",
+      "year": "2024",
+      "url": "https://resourcehub01.blob.core.windows.net/$web/Policy%20and%20Guidance/corepeacekeepingguidance/Thematic%20Operational%20Activities/Police%20and%20Law%20Enforcement/2024.14%20Formed%20Police%20Units%20in%20United%20Nations%20Peace%20Operations.pdf",
+      "format": "pdf",
+      "pages": 34,
+      "reading": "Nguồn chính sách nền; hiệu lực 01/12/2024",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "CSC006",
+      "title": "Familiarization with the Mission Environment",
+      "publisher": "United Nations Police, FPU Command Staff Course",
+      "year": "2026",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-006%20Lesson%206%20Familiarization%20with%20Mission%20Area%20(LP).pdf",
+      "format": "pdf",
+      "checked": "2026-10-29"
+    },
+    {
+      "id": "UNMAS",
+      "title": "Landmines, Explosive Remnants of War and IED Safety Handbook",
+      "publisher": "United Nations Mine Action Service",
+      "url": "https://www.unmas.org/sites/default/files/handbook_english.pdf",
+      "format": "pdf",
+      "checked": "2026-10-29"
+    },
+    {
+      "id": "CSC009",
+      "title": "FPU Command Staff Course 2026 · Lesson 9: Police Operations Orders",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-009%20Lesson%209%20Police%20Ops%20Orders%20(LP).pdf",
+      "year": "2026",
+      "publisher": "United Nations Police / DPO",
+      "format": "pdf"
+    },
+    {
+      "id": "AIR",
+      "title": "Air Support Awareness",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-034%20Air%20Support%20Awareness.pdf",
+      "format": "pdf",
+      "pages": 22,
+      "reading": "7–9",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "CSC021",
+      "title": "Mission Reporting",
+      "publisher": "United Nations Police, FPU Command Staff Course",
+      "year": "2026",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-021%20Lesson%2021%20Mission%20Reporting%20(LP).pdf",
+      "format": "pdf",
+      "checked": "2026-10-29"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Đoàn tới điểm đích nhưng chưa có người nhận hàng. Có coi xong không?",
+        "en": "A convoy arrives but no receiver accepts the cargo. Is the task complete?"
+      },
+      "options": [
+        {
+          "vi": "Có, có thể để hàng rồi rời đi.",
+          "en": "Yes, leave the cargo and depart."
+        },
+        {
+          "vi": "Có, chỉ cần tới đúng tọa độ.",
+          "en": "Yes, reaching the coordinates is enough."
+        },
+        {
+          "vi": "Chưa; phải xác nhận tiếp nhận và trách nhiệm còn lại.",
+          "en": "No; confirm acceptance and remaining responsibilities."
+        }
+      ],
+      "correct": 2,
+      "chapter": 0,
+      "explanation": {
+        "vi": "Hành trình phải gắn với bàn giao có trách nhiệm. Xem mục 1.",
+        "en": "The journey must connect to accountable handover. See section 1."
+      }
+    },
+    {
+      "question": {
+        "vi": "Nhiệm vụ bảo vệ đoàn có tự trao quyền điều hành mọi phương tiện dân sự không?",
+        "en": "Does escort duty automatically confer control over all civilian vehicles?"
+      },
+      "options": [
+        {
+          "vi": "Có, bất kể pháp luật áp dụng.",
+          "en": "Yes, regardless of applicable law."
+        },
+        {
+          "vi": "Không; thực hiện trong thẩm quyền và cơ chế phối hợp được giao.",
+          "en": "No; act within assigned authority and coordination."
+        },
+        {
+          "vi": "Có, đoàn luôn có quyền tuyệt đối.",
+          "en": "Yes, the convoy always has absolute priority."
+        }
+      ],
+      "correct": 1,
+      "chapter": 0,
+      "explanation": {
+        "vi": "Mục đích bảo vệ không tự tạo quyền không giới hạn đối với người đi đường. Xem mục 1.",
+        "en": "Protective purposes do not create unlimited powers over road users. See section 1."
+      }
+    },
+    {
+      "question": {
+        "vi": "Tuyến vẫn đi được nhưng nơi đến chưa thể tiếp nhận. Cần gì?",
+        "en": "The route is passable but the destination cannot receive. What is needed?"
+      },
+      "options": [
+        {
+          "vi": "Xuất phát để nơi đến tự giải quyết.",
+          "en": "Depart and leave reception to solve itself."
+        },
+        {
+          "vi": "Tăng tốc để bù thời gian chờ.",
+          "en": "Drive faster to compensate for waiting."
+        },
+        {
+          "vi": "Đánh giá lại kế hoạch và xác nhận phương án tiếp nhận.",
+          "en": "Reassess the plan and confirm reception arrangements."
+        }
+      ],
+      "correct": 2,
+      "chapter": 1,
+      "explanation": {
+        "vi": "Tính khả thi gồm năng lực tiếp nhận, không chỉ đường đi. Xem mục 2.",
+        "en": "Feasibility includes reception, not merely road access. See section 2."
+      }
+    },
+    {
+      "question": {
+        "vi": "Có nên áp một tốc độ và khoảng cách cố định từ tài liệu cũ cho mọi đoàn?",
+        "en": "Should historical fixed speed and spacing govern every convoy?"
+      },
+      "options": [
+        {
+          "vi": "Có, vì mọi đường đều giống nhau.",
+          "en": "Yes, all roads are equivalent."
+        },
+        {
+          "vi": "Không; theo điều kiện, phương tiện và phương án hiện hành.",
+          "en": "No; follow current conditions, vehicles and approved arrangements."
+        },
+        {
+          "vi": "Có, để không phải phổ biến lại.",
+          "en": "Yes, to avoid another briefing."
+        }
+      ],
+      "correct": 1,
+      "chapter": 1,
+      "explanation": {
+        "vi": "Giá trị mẫu không thay đánh giá an toàn theo địa bàn. Xem mục 2.",
+        "en": "Illustrative values do not replace local safety assessment. See section 2."
+      }
+    },
+    {
+      "question": {
+        "vi": "Danh sách người trên xe thay đổi sát xuất phát. Cần gì?",
+        "en": "Passenger assignments change before departure. What is needed?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ nhớ miệng, không cần cập nhật.",
+          "en": "Rely only on memory."
+        },
+        {
+          "vi": "Cập nhật bản thống nhất và xác nhận người liên quan đã nhận.",
+          "en": "Update the shared version and confirm relevant receipt."
+        },
+        {
+          "vi": "Giữ nhiều bản khác nhau cho thuận tiện.",
+          "en": "Keep conflicting versions for convenience."
+        }
+      ],
+      "correct": 1,
+      "chapter": 2,
+      "explanation": {
+        "vi": "Kiểm đếm và ứng cứu cần thông tin cùng phiên bản. Xem mục 3.",
+        "en": "Accounting and response need consistent information. See section 3."
+      }
+    },
+    {
+      "question": {
+        "vi": "Có đủ xe nhưng một lái xe không đủ điều kiện làm nhiệm vụ. Đánh giá sao?",
+        "en": "Vehicles are available but a driver is unfit for duty. What follows?"
+      },
+      "options": [
+        {
+          "vi": "Chưa đủ sẵn sàng; giải quyết năng lực lái và kế hoạch trước xuất phát.",
+          "en": "Readiness is incomplete; address driving capability and the plan."
+        },
+        {
+          "vi": "Đủ vì số xe không thiếu.",
+          "en": "Ready because vehicle numbers suffice."
+        },
+        {
+          "vi": "Ép lái vì chỉ huy đã quyết giờ.",
+          "en": "Pressure the driver to meet the schedule."
+        }
+      ],
+      "correct": 0,
+      "chapter": 2,
+      "explanation": {
+        "vi": "Con người, phương tiện và bảo đảm tạo một hệ thống sẵn sàng. Xem mục 3.",
+        "en": "People, vehicles and support form one readiness system. See section 3."
+      }
+    },
+    {
+      "question": {
+        "vi": "Một xe tụt khỏi liên lạc và chưa xác nhận vị trí. Có thể chỉ theo xe đầu?",
+        "en": "A vehicle loses contact and its position is unknown. Can the lead alone define convoy status?"
+      },
+      "options": [
+        {
+          "vi": "Không; cần xử lý tình trạng toàn đoàn theo phương án.",
+          "en": "No; address whole-convoy status under the plan."
+        },
+        {
+          "vi": "Có, xe đầu tới đâu là đoàn tới đó.",
+          "en": "Yes, the lead defines the entire convoy."
+        },
+        {
+          "vi": "Có, xe sau tự chịu trách nhiệm tuyệt đối.",
+          "en": "Yes, rear vehicles are entirely on their own."
+        }
+      ],
+      "correct": 0,
+      "chapter": 3,
+      "explanation": {
+        "vi": "Theo dõi phải bao gồm người và phương tiện toàn đoàn. Xem mục 4.",
+        "en": "Monitoring must include all people and vehicles. See section 4."
+      }
+    },
+    {
+      "question": {
+        "vi": "Người đi đường không hiểu tín hiệu đoàn. Cần phản ứng nào?",
+        "en": "A road user misunderstands convoy signals. What is appropriate?"
+      },
+      "options": [
+        {
+          "vi": "Giao tiếp rõ, giảm nguy cơ và xử lý trong thẩm quyền.",
+          "en": "Communicate clearly, reduce risk and act within authority."
+        },
+        {
+          "vi": "Dùng vũ lực để tránh chậm giờ.",
+          "en": "Use force to avoid delay."
+        },
+        {
+          "vi": "Coi ngay là hành vi thù địch.",
+          "en": "Immediately treat it as hostility."
+        }
+      ],
+      "correct": 0,
+      "chapter": 3,
+      "explanation": {
+        "vi": "Lúng túng không tự chứng minh đe dọa hoặc tạo căn cứ dùng vũ lực. Xem mục 4.",
+        "en": "Confusion does not establish threat or justify force. See section 4."
+      }
+    },
+    {
+      "question": {
+        "vi": "Báo xe hỏng nên nêu gì để hỗ trợ hiệu quả?",
+        "en": "What makes a breakdown report useful?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ nói “giải quyết ngay”.",
+          "en": "Only “fix it now”."
+        },
+        {
+          "vi": "Chỉ nhãn hiệu xe.",
+          "en": "Only vehicle make."
+        },
+        {
+          "vi": "Vị trí, người ảnh hưởng, chức năng mất và hỗ trợ cần.",
+          "en": "Location, affected people, lost functions and support needs."
+        }
+      ],
+      "correct": 2,
+      "chapter": 4,
+      "explanation": {
+        "vi": "Hậu quả vận hành giúp đầu mối lựa chọn hỗ trợ phù hợp. Xem mục 5.",
+        "en": "Operational consequences enable appropriate support allocation. See section 5."
+      }
+    },
+    {
+      "question": {
+        "vi": "Có được tự chọn điểm hạ cánh và hứa máy bay sẽ tới không?",
+        "en": "May an escort independently choose a landing site and guarantee aviation support?"
+      },
+      "options": [
+        {
+          "vi": "Có, nếu người yêu cầu cấp bậc cao.",
+          "en": "Yes, if a senior officer requests it."
+        },
+        {
+          "vi": "Không; phối hợp qua kênh được phép và theo quyết định hàng không.",
+          "en": "No; coordinate through authorized channels and aviation decisions."
+        },
+        {
+          "vi": "Có, nếu có khoảng đất trống.",
+          "en": "Yes, if open ground is available."
+        }
+      ],
+      "correct": 1,
+      "chapter": 4,
+      "explanation": {
+        "vi": "Hỗ trợ đường không phụ thuộc phê duyệt, điều kiện và chuyên môn tổ bay. Xem mục 5.",
+        "en": "Air support depends on approval, conditions and aircrew competence. See section 5."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khi số lượng hàng nhận khác chứng từ, cần gì?",
+        "en": "Received cargo differs from documentation. What is appropriate?"
+      },
+      "options": [
+        {
+          "vi": "Bỏ qua vì đoàn đã tới nơi.",
+          "en": "Ignore it because the convoy arrived."
+        },
+        {
+          "vi": "Sửa chứng từ cho khớp mà không nêu khác biệt.",
+          "en": "Alter documents silently to match."
+        },
+        {
+          "vi": "Đối chiếu, ghi chênh lệch và báo người có trách nhiệm.",
+          "en": "Reconcile, record discrepancies and notify responsible personnel."
+        }
+      ],
+      "correct": 2,
+      "chapter": 5,
+      "explanation": {
+        "vi": "Bàn giao phải phản ánh thực tế và giữ trách nhiệm truy vết. Xem mục 6.",
+        "en": "Handover must reflect reality and preserve traceability. See section 6."
+      }
+    },
+    {
+      "question": {
+        "vi": "Sau hành trình, chỉ bổ sung nhiên liệu có đủ sẵn sàng không?",
+        "en": "Does refuelling alone restore post-journey readiness?"
+      },
+      "options": [
+        {
+          "vi": "Không; xét người, xe, trang bị, hồ sơ và nhiệm vụ còn lại.",
+          "en": "No; assess people, vehicles, equipment, records and outstanding tasks."
+        },
+        {
+          "vi": "Có, mọi thứ khác tự phục hồi.",
+          "en": "Yes, everything else recovers automatically."
+        },
+        {
+          "vi": "Có, nếu không có tai nạn được báo.",
+          "en": "Yes, if no accident was reported."
+        }
+      ],
+      "correct": 0,
+      "chapter": 5,
+      "explanation": {
+        "vi": "Khôi phục cần xác nhận chức năng và tình trạng thực tế. Xem mục 6.",
+        "en": "Restoration needs confirmed functions and actual condition. See section 6."
+      }
+    }
+  ],
+  "updated": "2026-10-29",
+  "moduleId": "FPU-M4",
+  "moduleOrder": 2,
+  "lessonOrder": 6,
+  "sourceModule": {
+    "programme": "STM-FPU",
+    "number": 4,
+    "title": "Police tactics"
+  },
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "FPU-14-01",
+      "title": {
+        "vi": "1. Hộ tống phục vụ mục tiêu nào?",
+        "en": "1. What does an escort serve?"
+      },
+      "body": {
+        "vi": "### 1.1. Bảo vệ hành trình và khả năng thực hiện nhiệm vụ\nHộ tống đoàn xe hỗ trợ người, phương tiện và hàng hóa di chuyển để thực hiện một nhiệm vụ được phép. FPU có thể được giao bảo vệ vận chuyển UN hoặc hỗ trợ di chuyển nhân sự theo mandate và năng lực. Hoàn thành không chỉ là xe cuối đã tới: Cần xác nhận con người, hàng, tình trạng và phần việc được chuyển đúng nơi, đúng trách nhiệm.\n\nMục tiêu cần được nêu trước khi lựa chọn tổ chức. Đoàn chở người bệnh, vật tư thiết yếu hoặc hàng thông thường có nhu cầu khác nhau về chăm sóc, thời gian, bảo quản và tiếp nhận. Không suy tất cả đều dùng một cách hộ tống vì cùng đi trên đường.\n\n### 1.2. Phân biệt các vai trò\nNgười chỉ huy hộ tống, người phụ trách vận chuyển, lái xe và cơ quan tiếp nhận có trách nhiệm khác nhau. Cần xác định ai quyết định an ninh, ai quản lý người và hàng, ai điều phối chuyển động và ai xử lý thay đổi. Chức danh cụ thể theo cơ chế phái bộ, nhưng phần việc không được bỏ trống hoặc chồng mâu thuẫn.\n\nLái xe dân sự phải được phổ biến điều liên quan, hiểu tín hiệu, liên lạc và giới hạn. Không coi họ như phương tiện không có vai trò quyết định an toàn. Khi có đơn vị khác tham gia, thống nhất cơ chế trước xuất phát, không tự nhận quyền chỉ huy chỉ vì có vũ trang.\n\n### 1.3. Mandate và nguyên tắc phối hợp\nNhiệm vụ hộ tống không tự trao quyền dừng, khám, bắt hoặc dùng vũ lực mọi nơi đoàn đi qua. Căn cứ phát sinh vẫn cần được xác định. Bảo vệ người và hàng không biện minh gây nguy cơ tùy tiện cho người đi đường.\n\nKhông mặc định mọi hoạt động cứu trợ đều cần hoặc chấp nhận hộ tống vũ trang. Phối hợp với cơ quan chịu trách nhiệm, theo cơ chế và nguyên tắc áp dụng; không tự đặt mục tiêu cho đối tác nhân đạo hoặc hứa năng lực chưa được cho phép.\n\n### 1.4. Giữ mục tiêu trong thay đổi\nTình hình, đường hoặc phương tiện có thể thay đổi; cần biết điều gì làm nhiệm vụ không còn khả thi và ai có quyền quyết. Đúng giờ không phải tiêu chí duy nhất. Một hành trình chậm có lý do an toàn và quyết định đúng có thể tốt hơn cố bám lịch làm tăng nguy cơ cho người được bảo vệ.",
+        "en": "### 1.1. Protect movement and mission delivery\nConvoy escort supports authorized movement of people, vehicles and cargo. FPU tasks may include UN transport and personnel protection within mandate and capability. Completion requires accepted people, cargo, condition and responsibility, not merely the last vehicle's arrival.\n\nDefine the objective before organization. Patients, essential supplies and ordinary cargo have different care, timing, handling and reception needs. Sharing a road does not create identical escort requirements.\n\n### 1.2. Distinct responsibilities\nEscort command, transport management, drivers and receivers have different duties. Establish security decisions, passenger and cargo accountability, movement coordination and change authority. Local titles vary, but responsibilities must remain clear.\n\nBrief civilian drivers on signals, contact and limits. They contribute to safety rather than simply operate equipment. Armed status does not automatically confer command over partners.\n\n### 1.3. Mandate and coordination\nEscort does not authorize unrestricted stops, searches, custody or force. Protecting cargo cannot justify arbitrary danger to road users.\n\nHumanitarian activity does not automatically require or accept armed escort. Coordinate with responsible organizations under applicable arrangements and principles without imposing objectives or promising unauthorized capability.\n\n### 1.4. Preserve the objective\nDefine conditions undermining feasibility and who decides. Timing is not the only standard. An authorized safety-related delay can be preferable to maintaining a schedule at excessive risk."
+      },
+      "sourceIds": [
+        "CONVOY",
+        "POLICY"
+      ]
+    },
+    {
+      "id": "FPU-14-02",
+      "title": {
+        "vi": "2. Đánh giá hành trình và tính khả thi",
+        "en": "2. Assessing the journey and feasibility"
+      },
+      "body": {
+        "vi": "### 2.1. Hiểu tuyến và giới hạn thông tin\nXem điều kiện đường, thời tiết, giao thông, địa hình, hạn chế tiếp cận và nguy cơ được báo qua nguồn có trách nhiệm. Phân biệt tuyến đã khảo sát, thông tin người khác cung cấp và giả định còn cần xác nhận. Một báo cáo tốt từ lần trước không chứng minh đường còn dùng được sau mưa hoặc sự kiện mới.\n\nThông tin về vật nổ và khu vực nguy hiểm phải được cập nhật theo đầu mối chuyên trách. Không tự khảo sát bằng cách tiến vào nơi nghi nguy hiểm để rút ngắn kế hoạch. Người lập cần nêu khoảng trống nào có thể làm thay đổi quyết định và cách xử lý trước khi xuất phát.\n\n### 2.2. Người, xe và hàng là một hệ thống\nXác định số người, phương tiện, loại hàng, giới hạn kỹ thuật và yêu cầu bảo quản theo nhiệm vụ. Tải trọng, tình trạng xe, người lái và nhu cầu nghỉ ảnh hưởng thời gian. Không ép một xe vượt khả năng để giữ cả đoàn “đồng đều”. Hàng đặc biệt cần khai báo, chuyên môn và điều kiện theo quy định liên quan.\n\nNăng lực phục vụ yếu nhất có thể giới hạn cả hành trình. Một xe dự kiến tới nhanh nhưng thiếu người nhận, thiếu thiết bị dỡ hoặc không có điều kiện bảo quản vẫn làm nhiệm vụ chưa hoàn tất. Tính khả thi cần bao gồm đầu đi, dọc đường và đầu nhận.\n\n### 2.3. Không áp thông số chung máy móc\nTốc độ, quy mô, cách tổ chức và khoảng cách phải theo đánh giá địa bàn, luật giao thông, điều kiện người–xe và phương án được phép. Không dùng một con số trong tài liệu huấn luyện cũ làm quy tắc tự động cho đường đô thị, đường xấu và mọi loại xe. Người chỉ huy cần hiểu giới hạn và lý do của phương án, không chỉ nhớ số.\n\n### 2.4. Dự phòng có nguồn lực thật\nTính hỏng xe, người cần y tế, thay đổi tiếp cận, thiếu liên lạc hoặc không thể tới nơi nhận. Xác định ai quyết định, hỗ trợ lấy từ đâu và khi nào phải báo. Không gọi một xe đang nhận nhiệm vụ khác là dự phòng sẵn có. Các phương án thay cần được phối hợp với bên vận chuyển, an ninh và tiếp nhận để không tạo kế hoạch không ai thực hiện được.",
+        "en": "### 2.1. Route knowledge and uncertainty\nAssess roads, weather, traffic, terrain, access restrictions and threats through responsible sources. Distinguish verified conditions, received reports and assumptions. Previous access does not establish usability after new weather or incidents.\n\nObtain updated explosive-hazard information through specialists. Do not enter suspected danger to complete reconnaissance. Identify decision-critical gaps and required verification.\n\n### 2.2. A connected system\nAssess people, vehicles, cargo, technical limits and handling requirements. Load, condition, drivers and rest affect timing. Do not pressure a vehicle beyond capability to preserve uniformity. Special cargo needs applicable declarations, expertise and conditions.\n\nReceiving staff, unloading capacity and storage matter as much as travel. Feasibility covers departure, transit and reception.\n\n### 2.3. Avoid universal parameters\nSpeed, size, organization and spacing follow local assessment, traffic law, people, vehicles and authorized plans. Historical training numbers are not automatic rules for every road or vehicle. Understand limitations and reasoning.\n\n### 2.4. Real contingencies\nPlan breakdown, casualties, changed access, failed communications and unavailable reception. Establish decisions, resources and reporting triggers. A vehicle committed elsewhere is not an available reserve. Coordinate alternatives with transport, security and receiving actors."
+      },
+      "sourceIds": [
+        "CONVOY",
+        "CSC006",
+        "UNMAS"
+      ]
+    },
+    {
+      "id": "FPU-14-03",
+      "title": {
+        "vi": "3. Chuẩn bị và phổ biến trước xuất phát",
+        "en": "3. Preparation and pre-departure briefing"
+      },
+      "body": {
+        "vi": "### 3.1. Người và trách nhiệm\nĐối chiếu danh sách người, người lái, người chỉ huy, liên lạc, y tế và quản lý hàng theo kế hoạch. Kiểm tra đủ điều kiện, sức khỏe, mệt mỏi và năng lực sử dụng phương tiện. Thay một lái xe cần xác nhận người mới hiểu nhiệm vụ và đủ điều kiện, không chỉ thay tên trên danh sách.\n\nNgười đi cùng cần biết cách báo vấn đề, yêu cầu an toàn và người liên hệ, phù hợp vai trò. Khi có người cần hỗ trợ vận động hoặc chăm sóc, phải có bố trí tương ứng từ trước; không chờ tới điểm dừng mới tìm ai có thể giúp.\n\n### 3.2. Trang bị hoạt động được\nKiểm tra kỹ thuật, nhiên liệu, thông tin, y tế và vật tư theo yêu cầu. Người có chuyên môn xác nhận phần kỹ thuật; người dùng kiểm tra trong phạm vi. Báo lỗi có ảnh hưởng, không che để tránh lùi giờ. Phương tiện được ghi có mặt nhưng không vận hành an toàn không tạo năng lực hộ tống.\n\nTài liệu người và hàng cần khớp thực tế, có kiểm soát phiên bản và bảo mật. Không phát rộng danh sách nhận dạng, lịch trình hoặc thông tin hàng nhạy cảm ngoài nhu cầu. Những người chịu trách nhiệm y tế và tiếp nhận vẫn cần đủ dữ liệu để chuẩn bị.\n\n### 3.3. Nội dung phổ biến chung\nLàm rõ mục tiêu, phạm vi, chỉ huy, nhiệm vụ từng bên, giới hạn, liên lạc, cách báo, điều kiện thay đổi và tiếp nhận. Đặc biệt kiểm tra hiểu ở các điểm có nhiều cơ quan hoặc ngôn ngữ. Không chỉ đưa tài liệu cho một người đại diện rồi giả định mọi lái xe đã biết.\n\nCác tín hiệu và quy trình cụ thể phải được hướng dẫn, thực hành trong điều kiện an toàn. Không thử tín hiệu mới trên đường thật hoặc để người lái tự suy từ kinh nghiệm của đoàn trước.\n\n### 3.4. Điểm xác nhận cuối\nTrước khởi hành, xác nhận người và hàng đã được đối chiếu, điều kiện thiết yếu đáp ứng, đầu nhận sẵn sàng và tuyến báo biết đoàn bắt đầu. Nếu có giới hạn còn lại, ai chấp nhận và căn cứ phải rõ. Một bảng kiểm đủ chữ ký không thay quyết định phù hợp khi đã biết thiếu điều kiện an toàn.",
+        "en": "### 3.1. People and roles\nReconcile passengers, drivers, command, communications, medical and cargo responsibilities. Verify qualifications, health and fatigue. Replacement drivers need task understanding as well as a roster change.\n\nPassengers require role-appropriate safety instructions and reporting contacts. Arrange mobility or medical assistance in advance.\n\n### 3.2. Functional equipment\nCheck technical condition, fuel, communications, medical resources and supplies. Use qualified technical confirmation and operator checks within competence. Report task-relevant faults rather than conceal them to preserve timing.\n\nMatch manifests to reality, control versions and protect identities, schedules and sensitive cargo information while informing appropriate care and receiving personnel.\n\n### 3.3. Shared briefing\nExplain objective, scope, command, partner duties, limits, communication, reporting, change conditions and reception. Check understanding across organizations and languages; handing one representative a document is insufficient.\n\nPractise relevant signals and procedures safely before deployment. Live traffic is not a place to test unfamiliar conventions.\n\n### 3.4. Final confirmation\nConfirm reconciled people and cargo, essential readiness, receiving arrangements and departure reporting. Establish authority and grounds for any accepted residual limitations. Signatures cannot remedy a known unsafe condition."
+      },
+      "sourceIds": [
+        "CONVOY",
+        "CSC009"
+      ]
+    },
+    {
+      "id": "FPU-14-04",
+      "title": {
+        "vi": "4. Duy trì đoàn và an toàn người đi đường",
+        "en": "4. Maintaining continuity and road-user safety"
+      },
+      "body": {
+        "vi": "### 4.1. Giữ bức tranh về cả đoàn\nNgười phụ trách cần biết đoàn còn đầy đủ, xe nào có hạn chế, người nào cần hỗ trợ và liên lạc có hoạt động không. Việc một xe rời hoặc gia nhập phải theo kế hoạch, được xác nhận và cập nhật. Không suy xe cuối mất liên lạc đã tự tới nơi hoặc đã được lực lượng khác nhận.\n\nNhịp di chuyển phải phù hợp điều kiện thực tế và giới hạn của phương tiện. Người lái phải có thể báo nguy hiểm, mệt hoặc hỏng mà không bị ép giữ tiến độ bất chấp. Chỉ huy cần thông tin để quyết định thay vì chỉ yêu cầu nhanh hơn.\n\n### 4.2. Liên lạc có mục đích\nBáo vị trí trong phạm vi cần, tình trạng, thay đổi và yêu cầu. Xác nhận thông tin quan trọng, ưu tiên khẩn và dùng phương án dự phòng được phép khi cần. Không để mọi người cùng phát làm mất thông tin y tế hoặc sự cố. Thông tin gửi tới đầu nhận cần đúng lúc để họ chuẩn bị và điều chỉnh.\n\nNếu kế hoạch đổi, nêu phần thay và người chịu ảnh hưởng. Không để lực lượng hỗ trợ chờ ở nơi cũ vì chỉ một nhóm được thông báo. Kiểm soát phiên bản lệnh và danh sách theo cơ chế.\n\n### 4.3. Bảo vệ người ngoài đoàn\nNgười đi đường có quyền và nhu cầu tiếp cận. Không mặc định đoàn có quyền buộc mọi giao thông tránh bằng mọi cách. Việc điều tiết, hạn chế hoặc hỗ trợ của đối tác phải có căn cứ và được phối hợp. Tính người đi bộ, xe cấp cứu, trẻ và người hạn chế vận động.\n\nThái độ và giao tiếp ảnh hưởng mức chấp nhận của cộng đồng. Không xúc phạm, tự xử phạt hoặc dùng vũ lực vì người dân không hiểu tín hiệu. Đánh giá hành vi cùng nguy cơ cụ thể, không gán cả nhóm là thù địch vì có phản ánh về đoàn.\n\n### 4.4. Điểm dừng và thay đổi điều kiện\nDừng, tiếp tục hoặc đổi phần việc phải theo phương án và thẩm quyền, có thông tin cho các bên. Cần bảo đảm người, xe, hàng và hỗ trợ tại điểm chuyển. Không để việc dừng vì hành chính làm mất kiểm soát người cần chăm sóc hoặc tài sản. Các kỹ thuật tổ chức và đáp ứng cụ thể cần được thực hành theo kế hoạch địa bàn, không suy từ bài đọc chung.",
+        "en": "### 4.1. Track the whole convoy\nKnow completeness, limitations, assistance needs and communications status. Joining or leaving requires authorized confirmation and updates. Lost contact with a rear vehicle does not prove arrival or acceptance elsewhere.\n\nMatch movement to conditions and vehicle limits. Drivers must report danger, fatigue and defects without pressure to preserve speed regardless of risk.\n\n### 4.2. Decision-relevant communication\nReport necessary location, status, changes and requests. Confirm critical traffic, prioritize emergencies and use approved alternatives. Update receiving actors in time for preparation.\n\nExplain changed orders to all affected support actors, not only one group. Maintain current versions of directions and manifests.\n\n### 4.3. Other road users\nCivilians retain rights and access needs. A convoy does not have unlimited authority to displace traffic. Coordinate lawful restrictions and include pedestrians, ambulances, children and disability.\n\nRespectful communication supports acceptance. Do not punish or use force because people misunderstand signals. Assess actual behaviour and threats rather than label a complaining group hostile.\n\n### 4.4. Stops and transitions\nStopping, continuing and changing tasks require appropriate authority and coordination. Maintain accountability, cargo and care during transitions. Local organizational and response techniques require practical instruction rather than general reading."
+      },
+      "sourceIds": [
+        "CONVOY",
+        "POLICY"
+      ]
+    },
+    {
+      "id": "FPU-14-05",
+      "title": {
+        "vi": "5. Sự cố, y tế và hỗ trợ đường không",
+        "en": "5. Incidents, medical care and air support"
+      },
+      "body": {
+        "vi": "### 5.1. Báo ảnh hưởng thay vì chỉ tên sự cố\nKhi xe hỏng, tai nạn hoặc có người cần y tế, báo vị trí, điều quan sát, ảnh hưởng đoàn, nguy cơ tiếp cận, việc đang làm và hỗ trợ cần. Nói xe không thể đi khác với chỉ báo đèn cảnh báo; thông tin cụ thể giúp điều phối đúng. Không tự tách xe hoặc người ngoài phương án mà không báo, xác nhận.\n\nNếu có nguy cơ an ninh, giữ khả năng chỉ huy, bảo vệ trong thẩm quyền và kích hoạt hỗ trợ. Không tự truy đuổi hoặc chuyển mục tiêu khỏi việc bảo vệ đoàn. Các phương án đáp ứng nguy cơ cao phải được tập trực tiếp; bài học không thay SOP.\n\n### 5.2. Vật nghi nổ và nơi chưa an toàn\nKhông tiếp cận vật nghi nổ để kiểm tra, dọn đường hoặc chụp ảnh. Cảnh báo người khác từ nơi an toàn, báo đầu mối chuyên trách và theo hướng dẫn. Không để yêu cầu giao hàng gấp trở thành lý do thử đi qua khu vực chưa được đánh giá.\n\nSau sự cố, có thể còn cháy, kết cấu hỏng, vật nguy hiểm hoặc nguy cơ tiếp diễn. Tổ chức sơ cứu chỉ khi an toàn và trong năng lực; gọi lực lượng thích hợp. Không tự đưa người chưa huấn luyện tới hiện trường để cứu hoặc lấy hàng.\n\n### 5.3. Hỗ trợ y tế có tiếp nhận\nGọi y tế sớm với tình trạng và điều kiện tiếp cận. Chuyển người cần người điều phối, phương tiện phù hợp, cơ sở tiếp nhận và theo dõi. Một xe đang trống không tự là phương tiện đủ cho mọi ca bệnh. Cung cấp thời điểm, biểu hiện, can thiệp và thay đổi cho người nhận.\n\nKhông hứa thời gian cứu hộ hoặc sơ tán khi chưa được xác nhận. Khả năng thực hiện phụ thuộc điều kiện, nguồn lực và quyết định có thẩm quyền, cần phương án tạm thời phù hợp trong khi chờ.\n\n### 5.4. Đường không cần cơ chế chuyên môn\nYêu cầu trực thăng hoặc hỗ trợ đường không phải qua tuyến điều phối hàng không, tác nghiệp và y tế liên quan. Cán bộ không tự chỉ định nơi hạ, phát lệnh bay hoặc dẫn người tới máy bay khi chưa được phép. Khi được hỗ trợ, tuân thủ tổ bay và người phụ trách an toàn, không tự tiếp cận hoặc chất đồ.\n\nThông tin cần được cung cấp đúng, cập nhật và bảo mật. Việc đã yêu cầu không có nghĩa chuyến bay đã được chấp thuận hoặc chắc chắn tới; phải tiếp tục điều phối chăm sóc và năng lực còn lại.",
+        "en": "### 5.1. Report consequences\nFor breakdown, accident or illness, report location, observations, convoy effects, access risk, current action and support needed. Specific functional impact matters more than a device warning alone. Do not separate people or vehicles without required coordination.\n\nFor security incidents, maintain command, provide authorized protection and activate support rather than pursue unrelated objectives. High-risk responses require practical SOP-based training.\n\n### 5.2. Explosive and scene hazards\nDo not approach suspicious items to inspect, photograph or clear the route. Warn from safety and obtain specialist direction. Urgent cargo does not justify unassessed access.\n\nFire, damaged structures, dangerous items and continuing threats may remain. Provide safe trained first aid and activate suitable responders without exposing unqualified helpers.\n\n### 5.3. Medical continuity\nActivate care early. Transfer needs coordination, suitable transport, reception and monitoring; an empty vehicle does not meet every clinical need. Communicate timing, symptoms, interventions and changes.\n\nDo not promise unconfirmed rescue or evacuation times. Maintain feasible interim care while responsible actors coordinate resources and decisions.\n\n### 5.4. Aviation arrangements\nAir support requests follow aviation, operations and medical channels. Officers must not independently select landing arrangements, direct flights or approach aircraft without authorization. Follow aircrew and safety personnel for movement and loading.\n\nRequests are not approvals or guaranteed arrivals. Provide accurate updates and continue care and capability coordination."
+      },
+      "sourceIds": [
+        "AIR",
+        "UNMAS",
+        "CSC021"
+      ]
+    },
+    {
+      "id": "FPU-14-06",
+      "title": {
+        "vi": "6. Đến nơi, bàn giao và đánh giá",
+        "en": "6. Arrival, handover and assessment"
+      },
+      "body": {
+        "vi": "### 6.1. Xác nhận đủ người và phương tiện\nKhi tới nơi, đối chiếu người, xe, tình trạng và việc thay đổi dọc đường; báo đúng tuyến. Không chỉ dựa vào một người thông báo đã tới khi còn phương tiện chưa xác nhận. Những trường hợp chuyển y tế, tách nhiệm vụ hoặc đổi người nhận phải có hồ sơ rõ.\n\nĐoàn tới trước giờ tiếp nhận hoặc nơi nhận đổi có thể cần quyết định mới về bảo đảm. Không tự để người và hàng ở một vị trí rồi coi nhiệm vụ hoàn thành. Trách nhiệm tiếp tục cho tới khi bàn giao hoặc kết thúc theo thẩm quyền.\n\n### 6.2. Bàn giao người và hàng\nNgười nhận cần biết danh sách phù hợp, tình trạng, hư hỏng, thiếu, yêu cầu bảo quản hoặc chăm sóc và việc còn chờ. Đối chiếu thực vật với hồ sơ, ghi điểm khác và xác nhận. Chữ ký không nên được dùng thay kiểm tra hoặc ép người nhận xác nhận điều chưa biết.\n\nTài sản, hồ sơ và dữ liệu được chuyển theo cơ chế; không tự phân chia hàng dư hoặc hủy chứng từ. Nếu có bất đồng, giữ thông tin và báo đúng người, không sửa số liệu cho khớp bề ngoài.\n\n### 6.3. Phục hồi và báo cáo\nSau hành trình, kiểm tra người, phương tiện, trang bị, vật tư, dữ liệu và nhu cầu nghỉ. Cập nhật khả năng thực hiện nhiệm vụ tiếp theo. Bảo dưỡng và sức khỏe là phần của hoàn tất, không phải việc tùy chọn sau khi đã báo thành công.\n\nBáo cáo nêu mục tiêu, thực hiện, thay đổi, sự cố, thương tích, hại và kết quả bàn giao. Phân biệt quan sát và nhận định, báo khẩn đúng thời điểm thay vì chờ bản tổng kết. Hành trình và danh sách nhạy cảm cần được bảo vệ.\n\n### 6.4. Học từ điểm nối\nRà cách phổ biến cho lái xe, liên lạc, xử lý thay đổi, đầu nhận và nguồn hỗ trợ. Nếu đoàn chờ lâu vì nơi nhận không chuẩn bị, bài học không chỉ là đi sớm hơn; cần sửa xác nhận và thời điểm thông báo. Nếu xe hỏng lặp, phải xem bảo dưỡng và kế hoạch khai thác.\n\nNăng lực hộ tống gồm tổ chức có căn cứ, giữ toàn bộ hành trình trong bức tranh chung, bảo vệ người đi đường và bàn giao liên tục. Kỹ thuật bố trí, điều hành phương tiện và đáp ứng nguy cơ cần đánh giá thực hành theo phương án được phép.",
+        "en": "### 6.1. Confirm people and vehicles\nReconcile identities, vehicles, condition and transit changes and report completion. One arrival message is insufficient while other vehicles remain unconfirmed. Record medical transfer, reassignment and receiver changes.\n\nEarly arrival or changed reception may require renewed support decisions. Leaving people or cargo at a location does not complete responsibility without authorized acceptance or termination.\n\n### 6.2. Substantive handover\nTransfer appropriate lists, condition, damage, shortages, storage or care needs and pending action. Compare reality with records and identify discrepancies. Signatures cannot replace verification.\n\nFollow property and data procedures. Do not distribute surplus cargo, destroy evidence or alter figures to remove disagreement. Preserve information and elevate unresolved issues.\n\n### 6.3. Recovery and reporting\nCheck personnel, transport, equipment, supplies, data and rest needs before declaring further readiness. Maintenance and health are part of completion.\n\nReport objective, conduct, changes, incidents, harm and accepted handover. Separate facts and assessment and retain urgent notification requirements. Protect sensitive movement and identity data.\n\n### 6.4. Learn from interfaces\nReview driver briefing, communications, changes, reception and assistance. Delayed unloading may require better receiving confirmation rather than earlier departure alone; repeated breakdown needs maintenance review.\n\nCompetence combines authorized organization, whole-journey awareness, road-user safeguards and continuous handover. Vehicle organization and high-risk response require separate practical assessment."
+      },
+      "sourceIds": [
+        "CONVOY",
+        "CSC021"
+      ]
+    }
+  ],
+  "source_ids": [
+    "CONVOY",
+    "POLICY",
+    "CSC006",
+    "UNMAS",
+    "CSC009",
+    "AIR",
+    "CSC021"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "Convoy escort",
+      "definition": {
+        "vi": "Bảo vệ đoàn trong phạm vi nhiệm vụ được giao.",
+        "en": "Protection of a convoy within assigned duties."
+      }
+    },
+    {
+      "term": "Manifest",
+      "definition": {
+        "vi": "Danh sách người hoặc hàng theo mục đích được phép.",
+        "en": "Authorized list of people or cargo."
+      }
+    },
+    {
+      "term": "Reception",
+      "definition": {
+        "vi": "Khả năng tiếp nhận tại nơi đến.",
+        "en": "Destination capacity to receive."
+      }
+    },
+    {
+      "term": "Contingency",
+      "definition": {
+        "vi": "Phương án cho thay đổi hoặc sự cố đã dự kiến.",
+        "en": "Arrangements for foreseeable changes or incidents."
+      }
+    },
+    {
+      "term": "Handover",
+      "definition": {
+        "vi": "Xác nhận thực tế người, hàng và trách nhiệm tiếp nhận.",
+        "en": "Confirmed transfer of people, cargo and responsibility."
+      }
+    }
+  ],
+  "diagram": null,
+  "contentVersion": "batch-05-expanded-v1-2026-10-29",
+  "sourceIntro": {
+    "vi": "Tài liệu nền, đối chiếu theo mục và ghi chú phiên bản. Lời giảng, bản Anh, câu hỏi và lời giải thích hình được biên soạn cho Handbook. Mã bài là cách tổ chức của Handbook.",
+    "en": "Foundational materials, section mapping and edition notes. Teaching, English text, questions and figure commentary are authored for the Handbook. Lesson numbering belongs to the Handbook."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Bản biên soạn đợt 5 ngày 29/10/2026, chờ người dùng duyệt; không phải ấn phẩm hoặc bản dịch chính thức UN. Nguồn theo mục chỉ nền kiến thức, không phải tuyên bố mọi câu là trích nguyên văn.",
+      "Nội dung không thay mandate, DUF, SOP và phương án hiện hành tại phái bộ; không tự trao quyền hoặc chứng nhận năng lực thực hành. Không kế thừa hướng dẫn chiến thuật, cự ly, tốc độ hoặc cơ chế quản trị cũ thành quy định chung.",
+      "Nguồn STM 2015 được đối chiếu với Policy on Formed Police Units 2024.14 và các bài CSC UNPOL 2026 phù hợp. Chỉ thị, trách nhiệm và quy trình áp dụng cần được xác nhận tại địa bàn. Hình giữ nguyên chữ gốc; lời giảng Việt–Anh xác định cách đọc trong bài.",
+      "UNMAS được đối chiếu qua nội dung web chính thức; gói không chứa bản PDF UNMAS. Nội dung chỉ dùng nguyên tắc tránh tiếp cận và can thiệp vật nghi nổ, không quy định cự ly an toàn hay thao tác dò, gỡ. Phải theo huấn luyện và hướng dẫn chuyên trách tại địa bàn.",
+      "Convoy Escort có bìa 2015 nhưng nhiều trang ghi 2012. Chỉ dùng nền lập kế hoạch và hình các yếu tố; không áp thông số tốc độ, cự ly hoặc phản ứng phục kích trong tài liệu cũ. Air Support Awareness dùng cho nhận thức phối hợp, không hướng dẫn điều khiển chuyến bay."
+    ],
+    "en": [
+      "Batch 5 authored on 29 October 2026 for user review; not an official UN publication or translation. Section mapping identifies foundations, not verbatim support for every sentence.",
+      "Content does not replace applicable mandate, DUF, SOPs or plans and grants neither powers nor practical certification. Historical tactics, distances, speeds and governance are not adopted as universal requirements.",
+      "STM 2015 foundations are cross-checked with FPU Policy 2024.14 and relevant UNPOL CSC 2026 lessons. Applicable directions, responsibilities and procedures require local confirmation. Figures preserve original wording with bilingual teaching commentary.",
+      "UNMAS was consulted through official web content; its PDF is not included. Teaching uses non-approach and non-interference principles without prescribing safety distances or probing/disposal techniques. Follow local training and specialist direction.",
+      "Convoy Escort has a 2015 cover with internal 2012 headers. Only planning foundations and the factors slide are used; historical speeds, spacing and ambush procedures are not adopted. Air Support Awareness supports coordination literacy, not flight direction."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Hộ tống là một nhiệm vụ có điểm khởi đầu, hành trình và bàn giao. Bài học gắn bảo vệ với lái xe an toàn, bảo đảm, liên lạc, hỗ trợ và khả năng tiếp nhận tại nơi đến.",
+      "en": "Escort duties connect departure, journey and handover. Integrate protection with safe driving, logistics, communications, support and destination readiness."
+    },
+    "subtitle": {
+      "vi": "Chuẩn bị đủ · Theo dõi toàn đoàn · Bàn giao rõ trách nhiệm",
+      "en": "Prepare fully · Account for the convoy · Confirm handover"
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích: Hộ tống phục vụ mục tiêu nào?.",
+        "Giải thích: Đánh giá hành trình và tính khả thi.",
+        "Giải thích: Chuẩn bị và phổ biến trước xuất phát.",
+        "Giải thích: Duy trì đoàn và an toàn người đi đường.",
+        "Giải thích: Sự cố, y tế và hỗ trợ đường không.",
+        "Giải thích: Đến nơi, bàn giao và đánh giá."
+      ],
+      "en": [
+        "Explain: What does an escort serve?.",
+        "Explain: Assessing the journey and feasibility.",
+        "Explain: Preparation and pre-departure briefing.",
+        "Explain: Maintaining continuity and road-user safety.",
+        "Explain: Incidents, medical care and air support.",
+        "Explain: Arrival, handover and assessment."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc sáu mục trong tab Nội dung bài học và lời giảng kèm hình; bấm hình để xem lớn. Làm 12 câu kiểm tra nhận thức, đọc giải thích và trở lại mục liên quan. VI/EN giữ lựa chọn trong phiên; tải lại trang bắt đầu lại.",
+      "en": "Read six content sections and figure commentary; click figures to enlarge. Complete 12 knowledge questions, review explanations and revisit relevant sections. VI/EN retains selections in the session; reloading starts again."
+    }
+  },
+  "figures": [
+    {
+      "chapter": 1,
+      "image": "assets/lesson-figures/batch-05/CONVOY-p7.png",
+      "caption": {
+        "vi": "Hình 1. Các yếu tố thay đổi giữa những hành trình",
+        "en": "Figure 1. Factors that vary between journeys"
+      },
+      "alt": {
+        "vi": "Hình 1. Các yếu tố thay đổi giữa những hành trình",
+        "en": "Figure 1. Factors that vary between journeys"
+      },
+      "explanation": {
+        "vi": "Quan sát tình hình, môi trường, hành trình, tính nhạy cảm và điều kiện đường. Liên hệ thêm người đi, khả năng xe và nơi tiếp nhận. Không lấy kinh nghiệm một đoàn áp nguyên cho đoàn khác; một thay đổi về hàng hoặc người nhận có thể làm cả kế hoạch cần điều chỉnh.",
+        "en": "Connect situation, environment, itinerary, sensitivity and roads with passengers, vehicle capability and reception. One convoy’s arrangements do not automatically fit another; cargo or reception changes can alter the whole plan."
+      },
+      "sourceLabel": "United Nations, FPU STM · Convoy Escort · 2015",
+      "pdfPage": 7
+    }
+  ],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft",
+  "figureZoom": true
+}

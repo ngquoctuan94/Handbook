@@ -1,0 +1,638 @@
+{
+  "schemaVersion": 2,
+  "id": "FPU-17",
+  "area": "fpu",
+  "groupKey": "FPU-M5",
+  "group": {
+    "vi": "Quản lý trật tự công cộng",
+    "en": "Public order management"
+  },
+  "title": {
+    "vi": "Đám đông, đánh giá tình hình và lập kế hoạch POM",
+    "en": "Crowd assessment and public order planning"
+  },
+  "summary": {
+    "vi": "Bài học FPU-17 tập trung vào chủ đề: Đám đông, đánh giá tình hình và lập kế hoạch POM. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+    "en": "Lesson FPU-17 covers the following topic: Crowd assessment and public order planning. It connects concepts with professional responsibilities."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "CROWD",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-039%20Crowd%20Dynamics%20in%20Public%20Order%20Operations.pdf",
+  "order": 304,
+  "sections": [
+    {
+      "id": "FPU-17-01",
+      "title": {
+        "vi": "1. Quản lý trật tự và bảo vệ quyền",
+        "en": "1. Manage public order and protect rights"
+      },
+      "body": {
+        "vi": "POM là quá trình đánh giá, giao tiếp, tổ chức nguồn lực và quyết định. Mục tiêu không mặc định là giải tán. Tập trung đông người, bày tỏ bất bình hoặc gây bất tiện chưa tự động là bạo lực. Cần mô tả bằng dữ kiện, nhận diện các nhóm và lựa chọn biện pháp phù hợp mục tiêu hợp pháp được giao.",
+        "en": "POM is a process of assessment, communication, organizing resources and decision-making. Dispersal is not the default objective. A gathering, criticism or inconvenience does not automatically establish violence. Describe the situation through evidence, recognize differences among participants and select measures appropriate to the authorized objective."
+      },
+      "sourceIds": [
+        "CROWD",
+        "ORDER",
+        "C13",
+        "ASSEMBLY"
+      ]
+    },
+    {
+      "id": "FPU-17-02",
+      "title": {
+        "vi": "2. Đám đông không phải chủ thể đồng nhất",
+        "en": "2. A crowd is not a single actor"
+      },
+      "body": {
+        "vi": "Đám đông gồm các cá nhân, nhóm nhỏ, có thể tập hợp tự phát hoặc có tổ chức. Phân loại giúp quan sát, không phải nhãn cố định. Cần phân biệt người tham gia, người đi ngang, người ghi hình, người cung cấp dịch vụ; báo hành vi, vị trí, diễn biến liên quan thay vì suy một động cơ chung cho tất cả.\n\n### 2.1. Hành vi và không gian thay đổi cùng nhau\n\nTheo dõi dòng đến, rời, khu tập trung và nơi có người cần hỗ trợ. Quy mô tương đương có thể tạo nguy cơ khác khi lối bị thu hẹp, thời tiết đổi hoặc thông tin thiếu. Tách ước lượng với số đã xác minh, ghi cách quan sát và giới hạn. Nhận định phải cập nhật theo diễn biến thay vì giữ nhãn từ đầu buổi hoặc suy tính chất của mọi người từ một nhóm nhỏ.",
+        "en": "Crowds contain individuals and smaller groups and may form spontaneously or through organization. Categories help observation but are not permanent labels. Distinguish participants, passers-by, journalists or recorders and service providers. Report relevant behaviour and location instead of assigning one motive to everyone.\n\n### 2.1. Read behaviour together with space\n\nTrack arrival, departure, concentrations and assistance needs. Similar numbers may create different risks when access narrows, weather changes or information is missing. Separate estimates from verified figures and state observation limits. Update assessment with events rather than retain the opening label or infer everyone’s conduct from a small group. A changing environment can matter as much as a changing headcount."
+      },
+      "sourceIds": [
+        "CROWD",
+        "ORDER",
+        "C13",
+        "ASSEMBLY"
+      ]
+    },
+    {
+      "id": "FPU-17-03",
+      "title": {
+        "vi": "3. Theo dõi thay đổi theo thời gian",
+        "en": "3. Track change over time"
+      },
+      "body": {
+        "vi": "Nội dung ghi nhận gồm quy mô ước tính và mức chắc chắn, phân bố người, dòng di chuyển, hành vi quan sát được, người cần hỗ trợ và những thay đổi so với lần cập nhật trước. Không chỉ lặp lại một con số đầu buổi.\n\nVí dụ: Số người không tăng nhưng một lối ra bị đóng do xe đỗ. Nguy cơ có thể thay đổi dù quy mô giữ nguyên. Người học cần nhìn quan hệ giữa không gian và hành vi, thay vì chỉ dựa vào âm lượng đám đông hoặc tổng số người.\n\nKhi có tin một nhóm sắp tới, ghi nguồn và mức xác nhận. Tin chưa kiểm chứng có thể cần theo dõi nhưng không nên trình bày như sự kiện đã xảy ra.",
+        "en": "Update estimated size and confidence, distribution, movement, observed conduct, assistance needs and changes since the last report. Risk may change without a larger crowd if an exit becomes blocked. Examine space and flow rather than noise alone. Record the source and verification of reports about incoming groups."
+      },
+      "sourceIds": [
+        "CROWD",
+        "ORDER",
+        "C13",
+        "ASSEMBLY"
+      ]
+    },
+    {
+      "id": "FPU-17-04",
+      "title": {
+        "vi": "4. Giao tiếp và lựa chọn phương án",
+        "en": "4. Communicate and compare options"
+      },
+      "body": {
+        "vi": "Khi lập kế hoạch, có thể so sánh ba cách giảm ùn tắc: Cung cấp thông tin rõ hơn, điều chỉnh điểm tiếp nhận hoặc bố trí hỗ trợ hướng dẫn. Học viên phải xem phương án nào đáp ứng mục tiêu, có nguồn lực và hạn chế tác động không cần thiết.\n\nGiao tiếp không chỉ là phát thông báo. Cần xác định ai có thể tiếp nhận phản hồi, thông điệp có dễ hiểu và người nghe có khả năng làm theo hay không. Nếu loa phát nhưng người ở phía sau không nghe được, chưa có căn cứ nói toàn bộ người tham gia đã được thông báo.\n\n### 4.1. Giao tiếp là một phần đáp ứng\n\nLàm rõ nhu cầu, đầu mối trao đổi và ai có thể nhận phản hồi. Thông báo phải hiểu được, nghe được, thực hiện được; nếu không, xem lại cách truyền trước khi cho là không chấp hành. Ghi điều đã giải thích và phản ứng thực tế. Đối thoại giúp chọn biện pháp phù hợp nhưng không tự bảo đảm hết nguy cơ; tiếp tục theo dõi và phối hợp trong phạm vi được giao.",
+        "en": "Consider clearer information, adjusted access points and guidance assistance where appropriate. Assess the objective, resources and avoidable effects. Communication includes feedback, understandable messages and a realistic opportunity to comply. A loudspeaker announcement does not prove that everyone heard or understood.\n\n### 4.1. Treat communication as part of response\n\nIdentify needs, engagement contacts and feedback recipients. Messages must be understandable, audible and practicable. Examine communication failure before assuming non-compliance. Record explanations and actual responses. Dialogue helps select suitable measures but does not guarantee risk disappears. Continue assessment and coordination within authority, and explain changes consistently so participants and operational elements do not receive conflicting expectations."
+      },
+      "sourceIds": [
+        "CROWD",
+        "ORDER",
+        "C13",
+        "ASSEMBLY"
+      ]
+    },
+    {
+      "id": "FPU-17-05",
+      "title": {
+        "vi": "5. Hành vi cá nhân và tính chất cuộc tập trung",
+        "en": "5. Individual conduct and the wider assembly"
+      },
+      "body": {
+        "vi": "Hành vi bạo lực riêng lẻ không tự làm những người khác mất tính chất tham gia hòa bình. Cần nhận diện cá nhân, hành vi và nguy cơ cụ thể, không đánh giá cả nhóm như nhau. Không sử dụng súng để giải tán hội họp. Mọi quyết định sử dụng vũ lực phải đáp ứng các điều kiện nghiêm ngặt áp dụng.",
+        "en": "Isolated violence does not automatically remove other participants’ peaceful status. Identify the person, conduct and specific threat rather than applying the same assessment to everyone. Firearms are not a means of dispersing assemblies. Decisions must meet the applicable strict conditions for force."
+      },
+      "sourceIds": [
+        "CROWD",
+        "ORDER",
+        "C13",
+        "ASSEMBLY"
+      ]
+    },
+    {
+      "id": "FPU-17-06",
+      "title": {
+        "vi": "6. Kế hoạch POM gắn với bài 07",
+        "en": "6. Apply the planning foundation"
+      },
+      "body": {
+        "vi": "Các phần mệnh lệnh dùng lại khung chung của bài 07. Phần riêng của POM phải làm rõ mục tiêu đối với không gian, dòng người, việc tiếp cận dịch vụ thiết yếu và những người cần hỗ trợ. Kế hoạch cần có điều kiện đánh giá lại, không chỉ điều kiện tăng mức phản ứng.\n\nMột quyết định giảm hiện diện hoặc chuyển sang hỗ trợ giao thông khi nguy cơ giảm cũng cần được xem xét có căn cứ. Tư duy chỉ biết bổ sung biện pháp mà không biết thu hồi khi không còn cần thiết dễ làm nhiệm vụ kéo dài và tăng gián đoạn.",
+        "en": "Use the common order structure from FPU-07, adding space, crowd flows, essential services and assistance needs. Define conditions for reassessment as well as increased response. Reduced presence or a shift to traffic assistance may be appropriate when risk falls. Remove unnecessary measures rather than allowing disruption to continue without purpose."
+      },
+      "sourceIds": [
+        "CROWD",
+        "ORDER",
+        "C13",
+        "ASSEMBLY"
+      ]
+    },
+    {
+      "id": "FPU-17-07",
+      "title": {
+        "vi": "7. Phân tích thay cho định kiến",
+        "en": "7. Analysis without stereotypes"
+      },
+      "body": {
+        "vi": "Phân loại trong tài liệu là công cụ học, không phải lý do xem người biểu tình như đối phương đồng nhất. Báo hành vi quan sát được, phân biệt người tham gia, người đi ngang và người cung cấp dịch vụ. Không lấy ngoại hình hoặc lời phản đối làm dấu hiệu chắc chắn về nguy cơ. Bảo vệ khả năng biểu đạt hòa bình và những người cần tiếp cận dịch vụ là một phần đánh giá.",
+        "en": "Use categories to understand, not to treat demonstrators as one opposing body. Appearance and criticism do not reliably establish threat. Protect peaceful expression and access to essential services. Separate conduct from assumptions about identity."
+      },
+      "sourceIds": [
+        "CROWD",
+        "ORDER",
+        "C13",
+        "ASSEMBLY"
+      ]
+    },
+    {
+      "id": "FPU-17-08",
+      "title": {
+        "vi": "8. Kết quả và điều kiện kết thúc",
+        "en": "8. Define completion and handover"
+      },
+      "body": {
+        "vi": "Đặt tiêu chí cho tình trạng cuối cần đạt, trách nhiệm bàn giao và thông tin còn theo dõi. Cần xem cả tác động chuyển nguy cơ sang lối khác hoặc nhóm khác. Giảm hiện diện khi không còn cần thiết cũng là quyết định cần phân tích, không chỉ tăng lực lượng. Báo cáo phải thể hiện thay đổi và cơ sở, tránh kết luận “ổn định” không có dữ kiện.",
+        "en": "Specify the desired end state, handover and matters requiring monitoring. Check whether risks shifted elsewhere or to another group. Reduction of presence also needs reasoned assessment. Support conclusions about stability with observed change and evidence."
+      },
+      "sourceIds": [
+        "CROWD",
+        "ORDER",
+        "C13",
+        "ASSEMBLY"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "CROWD",
+      "title": "Crowd Dynamics in Public Order Operations",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-039%20Crowd%20Dynamics%20in%20Public%20Order%20Operations.pdf",
+      "format": "pdf",
+      "pages": 22,
+      "reading": "7–9",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "ORDER",
+      "title": "Operational Crowd Control Orders",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-045%20Crowd%20Control%20Orders.pdf",
+      "format": "pdf",
+      "pages": 26,
+      "reading": "7–10",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "C13",
+      "title": "2.4 Protection of Civilians",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-417%20Lesson%202.4%20Protection%20of%20Civilians.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 36,
+      "pdf_name": "2025 - Lesson 2.4 Protection of Civilians - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "ASSEMBLY",
+      "title": "General comment No. 37 (2020) on the right of peaceful assembly (article 21)",
+      "publisher": "United Nations Human Rights Committee",
+      "year": "2020",
+      "url": "https://docstore.ohchr.org/SelfServices/FilesHandler.ashx?enc=WEtyW87uznJql0nPB0R%2BjvIANofAyBdf7Aw9oQ77nX58%2Fy%2BuM8cxMUWb93tupOebEKl%2FMANbswS4GcF1CgqyOg%3D%3D",
+      "format": "web",
+      "pages": null,
+      "reading": "Đoạn 6–8, 17, 78, 88",
+      "checked": "2026-10-24"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Mọi cuộc tập trung đều có mục tiêu nhiệm vụ là giải tán.",
+        "en": "Every gathering makes dispersal the mission objective."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Mục tiêu theo quyền, tình hình và nhiệm vụ hợp pháp.",
+        "en": "Objectives follow rights, conditions and lawful tasking."
+      }
+    },
+    {
+      "question": {
+        "vi": "Đám đông có các cá nhân, nhóm và vai trò khác nhau.",
+        "en": "Crowds contain different individuals, groups and roles."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Không gắn một động cơ cho tất cả.",
+        "en": "Do not assign one motive to everyone."
+      }
+    },
+    {
+      "question": {
+        "vi": "Một hành vi bạo lực làm mọi người khác mất tính hòa bình.",
+        "en": "One violent act removes everyone else’s peaceful status."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Cần đánh giá hành vi và nguy cơ cụ thể.",
+        "en": "Assess specific conduct and threats."
+      }
+    },
+    {
+      "question": {
+        "vi": "Nguy cơ có thể tăng dù số người không đổi.",
+        "en": "Risk can rise without an increase in crowd size."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Không gian, lối ra và dòng người cũng quan trọng.",
+        "en": "Space, exits and flow also matter."
+      }
+    },
+    {
+      "question": {
+        "vi": "Phát loa chứng minh tất cả đã nghe và hiểu.",
+        "en": "A loudspeaker announcement proves everyone heard and understood."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Phải xét tiếp cận, ngôn ngữ và khả năng làm theo.",
+        "en": "Consider reach, language and ability to comply."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khi nguy cơ giảm, cần cân nhắc giảm biện pháp không còn cần thiết.",
+        "en": "When risk falls, consider removing unnecessary measures."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Đánh giá lại không chỉ để tăng phản ứng.",
+        "en": "Reassessment is not only for escalation."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Quản lý trật tự công cộng?",
+        "en": "Which concept matches: Public order management?"
+      },
+      "options": [
+        {
+          "vi": "MOU",
+          "en": "MOU"
+        },
+        {
+          "vi": "Tình trạng cuối / End state",
+          "en": "End state"
+        },
+        {
+          "vi": "POM",
+          "en": "POM"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "POM: Quản lý trật tự công cộng.",
+        "en": "POM: Public order management."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Điều kiện cần đạt để kết thúc hoặc chuyển giao nhiệm vụ?",
+        "en": "Which concept matches: The conditions required for completion or handover?"
+      },
+      "options": [
+        {
+          "vi": "Tình trạng cuối / End state",
+          "en": "End state"
+        },
+        {
+          "vi": "MOU",
+          "en": "MOU"
+        },
+        {
+          "vi": "POM",
+          "en": "POM"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Tình trạng cuối / End state: Điều kiện cần đạt để kết thúc hoặc chuyển giao nhiệm vụ.",
+        "en": "End state: The conditions required for completion or handover."
+      }
+    }
+  ],
+  "updated": "2026-10-26",
+  "moduleId": "FPU-M5",
+  "moduleOrder": 3,
+  "lessonOrder": 4,
+  "sourceModule": {
+    "programme": "STM-FPU",
+    "number": 5,
+    "title": "Public order management"
+  },
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "FPU-17-01",
+      "title": {
+        "vi": "1. Quản lý trật tự và bảo vệ quyền",
+        "en": "1. Manage public order and protect rights"
+      },
+      "body": {
+        "vi": "POM là quá trình đánh giá, giao tiếp, tổ chức nguồn lực và quyết định. Mục tiêu không mặc định là giải tán. Tập trung đông người, bày tỏ bất bình hoặc gây bất tiện chưa tự động là bạo lực. Cần mô tả bằng dữ kiện, nhận diện các nhóm và lựa chọn biện pháp phù hợp mục tiêu hợp pháp được giao.",
+        "en": "POM is a process of assessment, communication, organizing resources and decision-making. Dispersal is not the default objective. A gathering, criticism or inconvenience does not automatically establish violence. Describe the situation through evidence, recognize differences among participants and select measures appropriate to the authorized objective."
+      },
+      "sourceIds": [
+        "CROWD",
+        "ORDER",
+        "C13",
+        "ASSEMBLY"
+      ]
+    },
+    {
+      "id": "FPU-17-02",
+      "title": {
+        "vi": "2. Đám đông không phải chủ thể đồng nhất",
+        "en": "2. A crowd is not a single actor"
+      },
+      "body": {
+        "vi": "Đám đông gồm các cá nhân, nhóm nhỏ, có thể tập hợp tự phát hoặc có tổ chức. Phân loại giúp quan sát, không phải nhãn cố định. Cần phân biệt người tham gia, người đi ngang, người ghi hình, người cung cấp dịch vụ; báo hành vi, vị trí, diễn biến liên quan thay vì suy một động cơ chung cho tất cả.\n\n### 2.1. Hành vi và không gian thay đổi cùng nhau\n\nTheo dõi dòng đến, rời, khu tập trung và nơi có người cần hỗ trợ. Quy mô tương đương có thể tạo nguy cơ khác khi lối bị thu hẹp, thời tiết đổi hoặc thông tin thiếu. Tách ước lượng với số đã xác minh, ghi cách quan sát và giới hạn. Nhận định phải cập nhật theo diễn biến thay vì giữ nhãn từ đầu buổi hoặc suy tính chất của mọi người từ một nhóm nhỏ.",
+        "en": "Crowds contain individuals and smaller groups and may form spontaneously or through organization. Categories help observation but are not permanent labels. Distinguish participants, passers-by, journalists or recorders and service providers. Report relevant behaviour and location instead of assigning one motive to everyone.\n\n### 2.1. Read behaviour together with space\n\nTrack arrival, departure, concentrations and assistance needs. Similar numbers may create different risks when access narrows, weather changes or information is missing. Separate estimates from verified figures and state observation limits. Update assessment with events rather than retain the opening label or infer everyone’s conduct from a small group. A changing environment can matter as much as a changing headcount."
+      },
+      "sourceIds": [
+        "CROWD",
+        "ORDER",
+        "C13",
+        "ASSEMBLY"
+      ]
+    },
+    {
+      "id": "FPU-17-03",
+      "title": {
+        "vi": "3. Theo dõi thay đổi theo thời gian",
+        "en": "3. Track change over time"
+      },
+      "body": {
+        "vi": "Nội dung ghi nhận gồm quy mô ước tính và mức chắc chắn, phân bố người, dòng di chuyển, hành vi quan sát được, người cần hỗ trợ và những thay đổi so với lần cập nhật trước. Không chỉ lặp lại một con số đầu buổi.\n\nVí dụ: Số người không tăng nhưng một lối ra bị đóng do xe đỗ. Nguy cơ có thể thay đổi dù quy mô giữ nguyên. Người học cần nhìn quan hệ giữa không gian và hành vi, thay vì chỉ dựa vào âm lượng đám đông hoặc tổng số người.\n\nKhi có tin một nhóm sắp tới, ghi nguồn và mức xác nhận. Tin chưa kiểm chứng có thể cần theo dõi nhưng không nên trình bày như sự kiện đã xảy ra.",
+        "en": "Update estimated size and confidence, distribution, movement, observed conduct, assistance needs and changes since the last report. Risk may change without a larger crowd if an exit becomes blocked. Examine space and flow rather than noise alone. Record the source and verification of reports about incoming groups."
+      },
+      "sourceIds": [
+        "CROWD",
+        "ORDER",
+        "C13",
+        "ASSEMBLY"
+      ]
+    },
+    {
+      "id": "FPU-17-04",
+      "title": {
+        "vi": "4. Giao tiếp và lựa chọn phương án",
+        "en": "4. Communicate and compare options"
+      },
+      "body": {
+        "vi": "Khi lập kế hoạch, có thể so sánh ba cách giảm ùn tắc: Cung cấp thông tin rõ hơn, điều chỉnh điểm tiếp nhận hoặc bố trí hỗ trợ hướng dẫn. Học viên phải xem phương án nào đáp ứng mục tiêu, có nguồn lực và hạn chế tác động không cần thiết.\n\nGiao tiếp không chỉ là phát thông báo. Cần xác định ai có thể tiếp nhận phản hồi, thông điệp có dễ hiểu và người nghe có khả năng làm theo hay không. Nếu loa phát nhưng người ở phía sau không nghe được, chưa có căn cứ nói toàn bộ người tham gia đã được thông báo.\n\n### 4.1. Giao tiếp là một phần đáp ứng\n\nLàm rõ nhu cầu, đầu mối trao đổi và ai có thể nhận phản hồi. Thông báo phải hiểu được, nghe được, thực hiện được; nếu không, xem lại cách truyền trước khi cho là không chấp hành. Ghi điều đã giải thích và phản ứng thực tế. Đối thoại giúp chọn biện pháp phù hợp nhưng không tự bảo đảm hết nguy cơ; tiếp tục theo dõi và phối hợp trong phạm vi được giao.",
+        "en": "Consider clearer information, adjusted access points and guidance assistance where appropriate. Assess the objective, resources and avoidable effects. Communication includes feedback, understandable messages and a realistic opportunity to comply. A loudspeaker announcement does not prove that everyone heard or understood.\n\n### 4.1. Treat communication as part of response\n\nIdentify needs, engagement contacts and feedback recipients. Messages must be understandable, audible and practicable. Examine communication failure before assuming non-compliance. Record explanations and actual responses. Dialogue helps select suitable measures but does not guarantee risk disappears. Continue assessment and coordination within authority, and explain changes consistently so participants and operational elements do not receive conflicting expectations."
+      },
+      "sourceIds": [
+        "CROWD",
+        "ORDER",
+        "C13",
+        "ASSEMBLY"
+      ]
+    },
+    {
+      "id": "FPU-17-05",
+      "title": {
+        "vi": "5. Hành vi cá nhân và tính chất cuộc tập trung",
+        "en": "5. Individual conduct and the wider assembly"
+      },
+      "body": {
+        "vi": "Hành vi bạo lực riêng lẻ không tự làm những người khác mất tính chất tham gia hòa bình. Cần nhận diện cá nhân, hành vi và nguy cơ cụ thể, không đánh giá cả nhóm như nhau. Không sử dụng súng để giải tán hội họp. Mọi quyết định sử dụng vũ lực phải đáp ứng các điều kiện nghiêm ngặt áp dụng.",
+        "en": "Isolated violence does not automatically remove other participants’ peaceful status. Identify the person, conduct and specific threat rather than applying the same assessment to everyone. Firearms are not a means of dispersing assemblies. Decisions must meet the applicable strict conditions for force."
+      },
+      "sourceIds": [
+        "CROWD",
+        "ORDER",
+        "C13",
+        "ASSEMBLY"
+      ]
+    },
+    {
+      "id": "FPU-17-06",
+      "title": {
+        "vi": "6. Kế hoạch POM gắn với bài 07",
+        "en": "6. Apply the planning foundation"
+      },
+      "body": {
+        "vi": "Các phần mệnh lệnh dùng lại khung chung của bài 07. Phần riêng của POM phải làm rõ mục tiêu đối với không gian, dòng người, việc tiếp cận dịch vụ thiết yếu và những người cần hỗ trợ. Kế hoạch cần có điều kiện đánh giá lại, không chỉ điều kiện tăng mức phản ứng.\n\nMột quyết định giảm hiện diện hoặc chuyển sang hỗ trợ giao thông khi nguy cơ giảm cũng cần được xem xét có căn cứ. Tư duy chỉ biết bổ sung biện pháp mà không biết thu hồi khi không còn cần thiết dễ làm nhiệm vụ kéo dài và tăng gián đoạn.",
+        "en": "Use the common order structure from FPU-07, adding space, crowd flows, essential services and assistance needs. Define conditions for reassessment as well as increased response. Reduced presence or a shift to traffic assistance may be appropriate when risk falls. Remove unnecessary measures rather than allowing disruption to continue without purpose."
+      },
+      "sourceIds": [
+        "CROWD",
+        "ORDER",
+        "C13",
+        "ASSEMBLY"
+      ]
+    },
+    {
+      "id": "FPU-17-07",
+      "title": {
+        "vi": "7. Phân tích thay cho định kiến",
+        "en": "7. Analysis without stereotypes"
+      },
+      "body": {
+        "vi": "Phân loại trong tài liệu là công cụ học, không phải lý do xem người biểu tình như đối phương đồng nhất. Báo hành vi quan sát được, phân biệt người tham gia, người đi ngang và người cung cấp dịch vụ. Không lấy ngoại hình hoặc lời phản đối làm dấu hiệu chắc chắn về nguy cơ. Bảo vệ khả năng biểu đạt hòa bình và những người cần tiếp cận dịch vụ là một phần đánh giá.",
+        "en": "Use categories to understand, not to treat demonstrators as one opposing body. Appearance and criticism do not reliably establish threat. Protect peaceful expression and access to essential services. Separate conduct from assumptions about identity."
+      },
+      "sourceIds": [
+        "CROWD",
+        "ORDER",
+        "C13",
+        "ASSEMBLY"
+      ]
+    },
+    {
+      "id": "FPU-17-08",
+      "title": {
+        "vi": "8. Kết quả và điều kiện kết thúc",
+        "en": "8. Define completion and handover"
+      },
+      "body": {
+        "vi": "Đặt tiêu chí cho tình trạng cuối cần đạt, trách nhiệm bàn giao và thông tin còn theo dõi. Cần xem cả tác động chuyển nguy cơ sang lối khác hoặc nhóm khác. Giảm hiện diện khi không còn cần thiết cũng là quyết định cần phân tích, không chỉ tăng lực lượng. Báo cáo phải thể hiện thay đổi và cơ sở, tránh kết luận “ổn định” không có dữ kiện.",
+        "en": "Specify the desired end state, handover and matters requiring monitoring. Check whether risks shifted elsewhere or to another group. Reduction of presence also needs reasoned assessment. Support conclusions about stability with observed change and evidence."
+      },
+      "sourceIds": [
+        "CROWD",
+        "ORDER",
+        "C13",
+        "ASSEMBLY"
+      ]
+    }
+  ],
+  "source_ids": [
+    "CROWD",
+    "ORDER",
+    "C13",
+    "ASSEMBLY"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "POM",
+      "definition": {
+        "vi": "Quản lý trật tự công cộng",
+        "en": "Public order management"
+      }
+    },
+    {
+      "term": "Tình trạng cuối / End state",
+      "definition": {
+        "vi": "Điều kiện cần đạt để kết thúc hoặc chuyển giao nhiệm vụ",
+        "en": "The conditions required for completion or handover"
+      }
+    }
+  ],
+  "diagram": {
+    "type": "seq",
+    "items": [
+      {
+        "vi": "Quan sát",
+        "en": "Observe"
+      },
+      {
+        "vi": "Đối thoại",
+        "en": "Engage"
+      },
+      {
+        "vi": "Đánh giá lựa chọn",
+        "en": "Assess options"
+      },
+      {
+        "vi": "Theo dõi, điều chỉnh",
+        "en": "Monitor and adjust"
+      }
+    ],
+    "chapter": 1
+  },
+  "contentVersion": "4tab-2026-10-26",
+  "sourceIntro": {
+    "vi": "Các tài liệu dưới đây là nền tảng kiến thức của bài. Mở nguồn để đọc nội dung gốc; phần giải thích, sơ đồ học tập và câu hỏi được biên soạn cho Handbook.",
+    "en": "The materials below provide the lesson’s knowledge base. Open them for the original teaching material; explanations, instructional diagrams and questions are developed for the Handbook."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Hai bản Việt–Anh phục vụ học tập, không phải bản dịch chính thức của UN. Danh mục và thứ tự 48 bài là cách tổ chức học liệu của Handbook, không phải số bài chính thức của UN.",
+      "Bảng đối chiếu xác định tài liệu nền theo mục; không khẳng định mọi câu diễn giải là trích nguyên văn. Hình gốc ghi rõ tài liệu và trang PDF; sơ đồ học tập được ghi là biên soạn.",
+      "STM–FPU 2015 được sử dụng cho nền tảng huấn luyện. Các vai trò và cơ chế tổ chức liên quan được đọc cùng Policy 2024.14. Không dùng số tiền COE, lịch đánh giá, quân số, cự ly hoặc tốc độ mẫu năm 2015 như quy định hiện hành. Các SOP, SUR, MOU và chỉ thị phái bộ áp dụng cần được xác nhận khi triển khai."
+    ],
+    "en": [
+      "The Vietnamese and English texts are for learning and are not official UN translations. The 48-lesson catalogue and numbering are the Handbook’s organization, not the official UN lesson count.",
+      "The mapping identifies source materials by section and does not present every explanation as a verbatim quotation. Original illustrations identify the material and PDF page; instructional diagrams are labelled as developed for the lesson.",
+      "STM–FPU 2015 supplies training foundations. Relevant roles and organizational arrangements are read with Policy 2024.14. Reimbursement rates, assessment schedules, staffing, distances and speeds from old examples are not treated as current universal rules. Applicable mission SOPs, SUR, MOU and directives require confirmation for deployment."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bài học FPU-17 tập trung vào chủ đề: Đám đông, đánh giá tình hình và lập kế hoạch POM. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+      "en": "Lesson FPU-17 covers the following topic: Crowd assessment and public order planning. It connects concepts with professional responsibilities."
+    },
+    "subtitle": {
+      "vi": "Học kiến thức, hiểu trách nhiệm và kiểm tra nhận thức.",
+      "en": "Learn the concepts, understand responsibilities and check your knowledge."
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích: Quản lý trật tự và bảo vệ quyền; Đám đông không phải chủ thể đồng nhất.",
+        "Giải thích: Theo dõi thay đổi theo thời gian; Giao tiếp và lựa chọn phương án.",
+        "Giải thích: Hành vi cá nhân và tính chất cuộc tập trung; Kế hoạch POM gắn với bài 07; Phân tích thay cho định kiến; Kết quả và điều kiện kết thúc.",
+        "Nhận diện cách hiểu sai và chọn nhận định có căn cứ trong kiểm tra nhận thức."
+      ],
+      "en": [
+        "Explain: Manage public order and protect rights; A crowd is not a single actor.",
+        "Explain: Track change over time; Communicate and compare options.",
+        "Explain: Individual conduct and the wider assembly; Apply the planning foundation; Analysis without stereotypes; Define completion and handover.",
+        "Recognize misconceptions and select evidence-based statements in the knowledge check."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc các mục theo thứ tự trong tab nội dung, quan sát sơ đồ và hình, sau đó hoàn thành kiểm tra nhận thức. Chọn VI/EN để đổi ngôn ngữ; đáp án được giữ khi đổi ngôn ngữ trong phiên mở trang. Tải lại trang sẽ bắt đầu lại.",
+      "en": "Read the sections in order, study diagrams and illustrations, then complete the knowledge check. Use VI/EN to switch languages; answers are retained across language changes during the session. Reloading starts a new session."
+    }
+  },
+  "figures": [],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft"
+}

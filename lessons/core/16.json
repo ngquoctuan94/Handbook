@@ -1,0 +1,573 @@
+{
+  "schemaVersion": 2,
+  "id": "CORE-16",
+  "area": "core",
+  "groupKey": "CORE-M3",
+  "group": {
+    "vi": "Trách nhiệm, an toàn và sức khỏe",
+    "en": "Responsibilities, safety and health"
+  },
+  "title": {
+    "vi": "An toàn–an ninh cá nhân và giao thông",
+    "en": "Personal safety, security and road safety"
+  },
+  "summary": {
+    "vi": "Bài học CORE-16 tập trung vào chủ đề: An toàn–an ninh cá nhân và giao thông. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+    "en": "Lesson CORE-16 covers the following topic: Personal safety, security and road safety. It connects concepts with professional responsibilities."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "C25",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-430%20Lesson%203.5%20Safety%20and%20Security%20of%20UN%20Personnel.zip",
+  "order": 302,
+  "sections": [
+    {
+      "id": "CORE-16-01",
+      "title": {
+        "vi": "1. Trách nhiệm và cơ chế",
+        "en": "1. Responsibilities and arrangements"
+      },
+      "body": {
+        "vi": "An ninh là quá trình nhận diện nguy cơ, đánh giá và áp dụng biện pháp theo hệ thống tại phái bộ. Cá nhân phải hiểu briefing, quy trình di chuyển, liên lạc và báo sự cố. Không tự suy rằng kinh nghiệm trong nước thay được làm quen địa bàn.",
+        "en": "Security involves identifying threats, assessing risk and applying mission measures. Personnel must understand briefings, movement rules, communications and incident reporting. Home-country experience does not replace familiarization with the deployment area."
+      },
+      "sourceIds": [
+        "C25",
+        "C26",
+        "C27"
+      ]
+    },
+    {
+      "id": "CORE-16-02",
+      "title": {
+        "vi": "2. Chuẩn bị hoạt động",
+        "en": "2. Prepare the activity"
+      },
+      "body": {
+        "vi": "Xác nhận nhiệm vụ và phê duyệt cần thiết, điều kiện tuyến, người liên hệ, phương tiện và hỗ trợ. Thông tin hết hạn cần cập nhật. Không dùng sự im lặng của đầu mối như chấp thuận. Nếu điều kiện thay đổi, báo để đánh giá lại thay vì tự giữ kế hoạch cũ.\n\n### 2.1. Sẵn sàng cá nhân trong kế hoạch chung\n\nBiết đầu mối, thủ tục, thông tin mới và hỗ trợ. Kiểm tra giấy tờ, thiết bị, pin, phương tiện theo vai trò. Giữ thông tin cần thiết có thể dùng khi kênh chính gặp khó theo hướng dẫn. Báo thay đổi và hạn chế, không để người khác suy sẵn sàng từ việc mình có mặt. An toàn có trách nhiệm chung nhưng mỗi người vẫn phải thực hiện phần việc cá nhân.",
+        "en": "Confirm tasking and required approvals, route conditions, contacts, transport and support. Update expired information. Silence from a focal point is not approval. Report changing conditions so the plan can be reassessed.\n\n### 2.1. Prepare personally within the shared plan\n\nKnow contacts, procedures, current information and support. Check documents, equipment, batteries and transport for the role. Keep essential information usable under the instructed fallback. Report changes and limitations instead of letting presence be mistaken for readiness. Shared responsibility does not erase individual duties. Initiative should help fulfil the task within authority rather than bypass arrangements that keep colleagues informed and able to assist."
+      },
+      "sourceIds": [
+        "C25",
+        "C26",
+        "C27"
+      ]
+    },
+    {
+      "id": "CORE-16-03",
+      "title": {
+        "vi": "3. Nhận thức cá nhân",
+        "en": "3. Personal awareness"
+      },
+      "body": {
+        "vi": "Quan sát môi trường, quản lý giấy tờ và dữ liệu, không khoe thông tin hoạt động hoặc mang theo dữ liệu vượt nhu cầu. Báo mất giấy tờ, thiết bị và dấu hiệu bất thường kịp thời. Khi gặp yêu cầu không rõ, xác minh qua cơ chế được hướng dẫn, tránh tranh cãi hoặc tự nhận quyền chưa có.",
+        "en": "Observe the environment and protect documents and data. Carry only necessary information and avoid publicizing operational details. Report lost documents, equipment and unusual events promptly. Verify unclear requests through instructed channels without escalating confrontation or claiming powers you do not have."
+      },
+      "sourceIds": [
+        "C25",
+        "C26",
+        "C27"
+      ]
+    },
+    {
+      "id": "CORE-16-04",
+      "title": {
+        "vi": "4. Giao thông",
+        "en": "4. Road safety"
+      },
+      "body": {
+        "vi": "Chỉ lái xe khi đủ điều kiện với phương tiện và giấy phép áp dụng. Kiểm tra kỹ thuật trước sử dụng, dây an toàn cho mọi người, quản lý mệt mỏi và không sử dụng điện thoại gây phân tâm. Tốc độ phải phù hợp luật, đường, tầm nhìn và tải, không chỉ giới hạn trên biển. Không uống rượu rồi lái.",
+        "en": "Drive only when qualified and authorized for the vehicle. Conduct checks, ensure everyone wears a seat belt, manage fatigue and avoid distracting phone use. Match speed to law, road, visibility and load rather than the posted maximum alone. Never drive after drinking alcohol."
+      },
+      "sourceIds": [
+        "C25",
+        "C26",
+        "C27"
+      ]
+    },
+    {
+      "id": "CORE-16-05",
+      "title": {
+        "vi": "5. Khi có tai nạn hoặc sự cố",
+        "en": "5. Accidents and incidents"
+      },
+      "body": {
+        "vi": "Đảm bảo an toàn, gọi hỗ trợ, hỗ trợ người bị ảnh hưởng trong năng lực và báo theo quy trình. Không tự bỏ qua vì xe còn chạy hoặc hai bên đồng ý miệng. Ghi diễn biến trung thực, bảo vệ dữ liệu và không công khai thông tin nạn nhân.",
+        "en": "Make the scene safe as far as possible, call assistance, help within competence and report through the required procedure. A vehicle still moving, or an informal agreement between drivers, does not remove reporting obligations. Record events truthfully and protect affected people’s information."
+      },
+      "sourceIds": [
+        "C25",
+        "C26",
+        "C27"
+      ]
+    },
+    {
+      "id": "CORE-16-06",
+      "title": {
+        "vi": "6. Phân biệt các khái niệm",
+        "en": "6. Safety terminology"
+      },
+      "body": {
+        "vi": "Hazard là nguồn nguy hiểm; threat gắn khả năng gây hại theo bối cảnh; vulnerability là yếu tố dễ bị ảnh hưởng; risk xem khả năng và hậu quả trong điều kiện cụ thể. Safety và security có phạm vi liên quan nhưng không đồng nhất. Một biện pháp giảm nguy cơ này có thể làm tăng nguy cơ khác, ví dụ cản lối thoát để tiện kiểm soát ra vào.\n\n### 6.1. Nguồn nguy hiểm, đe dọa và rủi ro\n\nNguồn nguy hiểm có thể là dây điện, đường hoặc thời tiết. Trong khung an ninh, đe dọa thường gắn hành động cố ý gây hại; mức dễ tổn thương tùy người, hoạt động và điều kiện. Đánh giá xem khả năng xảy ra, hậu quả, biện pháp rồi rủi ro còn lại. Chấp thuận theo thẩm quyền; có biện pháp không có nghĩa hết nguy cơ. Xem tương tác để không giảm nguy cơ này bằng tăng nguy cơ khác.",
+        "en": "A hazard is a source of potential harm; a threat concerns harmful potential in context; vulnerability concerns susceptibility; and risk considers likelihood and consequences. Safety and security overlap but are not identical. A control can reduce one risk while creating another, such as blocking an exit to simplify access control.\n\n### 6.1. Hazards, threats and risk\n\nHazards may include electrical faults, roads or weather. In the security framework, threats commonly involve deliberate harmful action; vulnerability depends on people, activity and conditions. Assess likelihood, consequences, controls and residual risk. Follow authorized acceptance arrangements. A control does not prove all risk is gone. Examine interactions so one measure does not worsen another concern, and update the assessment when conditions or exposure change."
+      },
+      "sourceIds": [
+        "C25",
+        "C26",
+        "C27"
+      ]
+    },
+    {
+      "id": "CORE-16-07",
+      "title": {
+        "vi": "7. Kỷ luật báo sự cố và suýt xảy ra",
+        "en": "7. Report near misses"
+      },
+      "body": {
+        "vi": "Sự việc chưa gây hậu quả vẫn có giá trị phòng ngừa. Ghi dữ kiện và chuyển người có trách nhiệm, không giấu vì chưa thiệt hại. Nếu phương tiện gặp bất thường hoặc người lái mệt, phải đánh giá lại năng lực, không chỉ xem lịch nhiệm vụ. Khi xử lý tai nạn, việc bảo vệ người và báo hỗ trợ đi trước tranh luận trách nhiệm.",
+        "en": "An event without injury still provides prevention evidence. Report facts rather than hiding an incident because damage was avoided. Vehicle faults and driver fatigue require reassessment of capability, not merely adherence to a schedule. During an accident response, protecting people and calling assistance precede arguments about blame."
+      },
+      "sourceIds": [
+        "C25",
+        "C26",
+        "C27"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "C25",
+      "title": "3.5 Safety and Security of UN Personnel",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-430%20Lesson%203.5%20Safety%20and%20Security%20of%20UN%20Personnel.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 34,
+      "pdf_name": "2025 - Lesson 3.5 Safety and Security of UN Personnel - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "C26",
+      "title": "3.6 Individual Security Awareness",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-431%20Lesson%203.6%20Individual%20Security%20Awareness.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 36,
+      "pdf_name": "2025 - Lesson 3.6 Individual Security Awareness - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "C27",
+      "title": "3.7 Road Safety",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-432%20Lesson%203.7%20Road%20Safety.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 26,
+      "pdf_name": "2025 - Lesson 3.7 Road Safety - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Đầu mối im lặng đồng nghĩa chấp thuận di chuyển.",
+        "en": "Silence from a focal point means movement approval."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Cần xác nhận phê duyệt theo quy trình.",
+        "en": "Approval requires confirmation under the procedure."
+      }
+    },
+    {
+      "question": {
+        "vi": "Tốc độ phải phù hợp đường, tầm nhìn và tải.",
+        "en": "Speed must fit the road, visibility and load."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Biển giới hạn không thay đánh giá điều kiện.",
+        "en": "A posted limit does not replace condition assessment."
+      }
+    },
+    {
+      "question": {
+        "vi": "Kinh nghiệm trong nước thay được briefing địa bàn.",
+        "en": "Home-country experience replaces area familiarization."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Phải hiểu điều kiện, quy trình tại nơi triển khai.",
+        "en": "Understand local conditions and procedures."
+      }
+    },
+    {
+      "question": {
+        "vi": "Sự cố suýt xảy ra cũng cần được báo để phòng ngừa.",
+        "en": "Near misses should also be reported for prevention."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Không gây thiệt hại vẫn có thông tin hữu ích.",
+        "en": "No damage does not mean no useful evidence."
+      }
+    },
+    {
+      "question": {
+        "vi": "Đến đúng giờ cho phép bỏ qua mệt mỏi lái xe.",
+        "en": "Being on time justifies ignoring driver fatigue."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Mệt mỏi là hạn chế cần xử lý.",
+        "en": "Fatigue is a limitation requiring action."
+      }
+    },
+    {
+      "question": {
+        "vi": "Biện pháp an ninh không được tạo cản trở lối thoát hiểm.",
+        "en": "Security controls should not obstruct emergency escape."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Phải xét tương tác giữa các nguy cơ.",
+        "en": "Consider interactions between risks."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Nguồn có khả năng gây hại?",
+        "en": "Which concept matches: A source of potential harm?"
+      },
+      "options": [
+        {
+          "vi": "Hazard",
+          "en": "Hazard"
+        },
+        {
+          "vi": "Risk",
+          "en": "Risk"
+        },
+        {
+          "vi": "Vulnerability",
+          "en": "Vulnerability"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Hazard: Nguồn có khả năng gây hại.",
+        "en": "Hazard: A source of potential harm."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Yếu tố dễ bị ảnh hưởng bởi nguy cơ?",
+        "en": "Which concept matches: Susceptibility to harm?"
+      },
+      "options": [
+        {
+          "vi": "Hazard",
+          "en": "Hazard"
+        },
+        {
+          "vi": "Vulnerability",
+          "en": "Vulnerability"
+        },
+        {
+          "vi": "Risk",
+          "en": "Risk"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Vulnerability: Yếu tố dễ bị ảnh hưởng bởi nguy cơ.",
+        "en": "Vulnerability: Susceptibility to harm."
+      }
+    }
+  ],
+  "updated": "2026-10-26",
+  "moduleId": "CORE-M3",
+  "moduleOrder": 3,
+  "lessonOrder": 2,
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "CORE-16-01",
+      "title": {
+        "vi": "1. Trách nhiệm và cơ chế",
+        "en": "1. Responsibilities and arrangements"
+      },
+      "body": {
+        "vi": "An ninh là quá trình nhận diện nguy cơ, đánh giá và áp dụng biện pháp theo hệ thống tại phái bộ. Cá nhân phải hiểu briefing, quy trình di chuyển, liên lạc và báo sự cố. Không tự suy rằng kinh nghiệm trong nước thay được làm quen địa bàn.",
+        "en": "Security involves identifying threats, assessing risk and applying mission measures. Personnel must understand briefings, movement rules, communications and incident reporting. Home-country experience does not replace familiarization with the deployment area."
+      },
+      "sourceIds": [
+        "C25",
+        "C26",
+        "C27"
+      ]
+    },
+    {
+      "id": "CORE-16-02",
+      "title": {
+        "vi": "2. Chuẩn bị hoạt động",
+        "en": "2. Prepare the activity"
+      },
+      "body": {
+        "vi": "Xác nhận nhiệm vụ và phê duyệt cần thiết, điều kiện tuyến, người liên hệ, phương tiện và hỗ trợ. Thông tin hết hạn cần cập nhật. Không dùng sự im lặng của đầu mối như chấp thuận. Nếu điều kiện thay đổi, báo để đánh giá lại thay vì tự giữ kế hoạch cũ.\n\n### 2.1. Sẵn sàng cá nhân trong kế hoạch chung\n\nBiết đầu mối, thủ tục, thông tin mới và hỗ trợ. Kiểm tra giấy tờ, thiết bị, pin, phương tiện theo vai trò. Giữ thông tin cần thiết có thể dùng khi kênh chính gặp khó theo hướng dẫn. Báo thay đổi và hạn chế, không để người khác suy sẵn sàng từ việc mình có mặt. An toàn có trách nhiệm chung nhưng mỗi người vẫn phải thực hiện phần việc cá nhân.",
+        "en": "Confirm tasking and required approvals, route conditions, contacts, transport and support. Update expired information. Silence from a focal point is not approval. Report changing conditions so the plan can be reassessed.\n\n### 2.1. Prepare personally within the shared plan\n\nKnow contacts, procedures, current information and support. Check documents, equipment, batteries and transport for the role. Keep essential information usable under the instructed fallback. Report changes and limitations instead of letting presence be mistaken for readiness. Shared responsibility does not erase individual duties. Initiative should help fulfil the task within authority rather than bypass arrangements that keep colleagues informed and able to assist."
+      },
+      "sourceIds": [
+        "C25",
+        "C26",
+        "C27"
+      ]
+    },
+    {
+      "id": "CORE-16-03",
+      "title": {
+        "vi": "3. Nhận thức cá nhân",
+        "en": "3. Personal awareness"
+      },
+      "body": {
+        "vi": "Quan sát môi trường, quản lý giấy tờ và dữ liệu, không khoe thông tin hoạt động hoặc mang theo dữ liệu vượt nhu cầu. Báo mất giấy tờ, thiết bị và dấu hiệu bất thường kịp thời. Khi gặp yêu cầu không rõ, xác minh qua cơ chế được hướng dẫn, tránh tranh cãi hoặc tự nhận quyền chưa có.",
+        "en": "Observe the environment and protect documents and data. Carry only necessary information and avoid publicizing operational details. Report lost documents, equipment and unusual events promptly. Verify unclear requests through instructed channels without escalating confrontation or claiming powers you do not have."
+      },
+      "sourceIds": [
+        "C25",
+        "C26",
+        "C27"
+      ]
+    },
+    {
+      "id": "CORE-16-04",
+      "title": {
+        "vi": "4. Giao thông",
+        "en": "4. Road safety"
+      },
+      "body": {
+        "vi": "Chỉ lái xe khi đủ điều kiện với phương tiện và giấy phép áp dụng. Kiểm tra kỹ thuật trước sử dụng, dây an toàn cho mọi người, quản lý mệt mỏi và không sử dụng điện thoại gây phân tâm. Tốc độ phải phù hợp luật, đường, tầm nhìn và tải, không chỉ giới hạn trên biển. Không uống rượu rồi lái.",
+        "en": "Drive only when qualified and authorized for the vehicle. Conduct checks, ensure everyone wears a seat belt, manage fatigue and avoid distracting phone use. Match speed to law, road, visibility and load rather than the posted maximum alone. Never drive after drinking alcohol."
+      },
+      "sourceIds": [
+        "C25",
+        "C26",
+        "C27"
+      ]
+    },
+    {
+      "id": "CORE-16-05",
+      "title": {
+        "vi": "5. Khi có tai nạn hoặc sự cố",
+        "en": "5. Accidents and incidents"
+      },
+      "body": {
+        "vi": "Đảm bảo an toàn, gọi hỗ trợ, hỗ trợ người bị ảnh hưởng trong năng lực và báo theo quy trình. Không tự bỏ qua vì xe còn chạy hoặc hai bên đồng ý miệng. Ghi diễn biến trung thực, bảo vệ dữ liệu và không công khai thông tin nạn nhân.",
+        "en": "Make the scene safe as far as possible, call assistance, help within competence and report through the required procedure. A vehicle still moving, or an informal agreement between drivers, does not remove reporting obligations. Record events truthfully and protect affected people’s information."
+      },
+      "sourceIds": [
+        "C25",
+        "C26",
+        "C27"
+      ]
+    },
+    {
+      "id": "CORE-16-06",
+      "title": {
+        "vi": "6. Phân biệt các khái niệm",
+        "en": "6. Safety terminology"
+      },
+      "body": {
+        "vi": "Hazard là nguồn nguy hiểm; threat gắn khả năng gây hại theo bối cảnh; vulnerability là yếu tố dễ bị ảnh hưởng; risk xem khả năng và hậu quả trong điều kiện cụ thể. Safety và security có phạm vi liên quan nhưng không đồng nhất. Một biện pháp giảm nguy cơ này có thể làm tăng nguy cơ khác, ví dụ cản lối thoát để tiện kiểm soát ra vào.\n\n### 6.1. Nguồn nguy hiểm, đe dọa và rủi ro\n\nNguồn nguy hiểm có thể là dây điện, đường hoặc thời tiết. Trong khung an ninh, đe dọa thường gắn hành động cố ý gây hại; mức dễ tổn thương tùy người, hoạt động và điều kiện. Đánh giá xem khả năng xảy ra, hậu quả, biện pháp rồi rủi ro còn lại. Chấp thuận theo thẩm quyền; có biện pháp không có nghĩa hết nguy cơ. Xem tương tác để không giảm nguy cơ này bằng tăng nguy cơ khác.",
+        "en": "A hazard is a source of potential harm; a threat concerns harmful potential in context; vulnerability concerns susceptibility; and risk considers likelihood and consequences. Safety and security overlap but are not identical. A control can reduce one risk while creating another, such as blocking an exit to simplify access control.\n\n### 6.1. Hazards, threats and risk\n\nHazards may include electrical faults, roads or weather. In the security framework, threats commonly involve deliberate harmful action; vulnerability depends on people, activity and conditions. Assess likelihood, consequences, controls and residual risk. Follow authorized acceptance arrangements. A control does not prove all risk is gone. Examine interactions so one measure does not worsen another concern, and update the assessment when conditions or exposure change."
+      },
+      "sourceIds": [
+        "C25",
+        "C26",
+        "C27"
+      ]
+    },
+    {
+      "id": "CORE-16-07",
+      "title": {
+        "vi": "7. Kỷ luật báo sự cố và suýt xảy ra",
+        "en": "7. Report near misses"
+      },
+      "body": {
+        "vi": "Sự việc chưa gây hậu quả vẫn có giá trị phòng ngừa. Ghi dữ kiện và chuyển người có trách nhiệm, không giấu vì chưa thiệt hại. Nếu phương tiện gặp bất thường hoặc người lái mệt, phải đánh giá lại năng lực, không chỉ xem lịch nhiệm vụ. Khi xử lý tai nạn, việc bảo vệ người và báo hỗ trợ đi trước tranh luận trách nhiệm.",
+        "en": "An event without injury still provides prevention evidence. Report facts rather than hiding an incident because damage was avoided. Vehicle faults and driver fatigue require reassessment of capability, not merely adherence to a schedule. During an accident response, protecting people and calling assistance precede arguments about blame."
+      },
+      "sourceIds": [
+        "C25",
+        "C26",
+        "C27"
+      ]
+    }
+  ],
+  "source_ids": [
+    "C25",
+    "C26",
+    "C27"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "Hazard",
+      "definition": {
+        "vi": "Nguồn có khả năng gây hại",
+        "en": "A source of potential harm"
+      }
+    },
+    {
+      "term": "Vulnerability",
+      "definition": {
+        "vi": "Yếu tố dễ bị ảnh hưởng bởi nguy cơ",
+        "en": "Susceptibility to harm"
+      }
+    }
+  ],
+  "diagram": {
+    "type": "seq",
+    "items": [
+      {
+        "vi": "Nhận diện nguy cơ",
+        "en": "Identify hazards"
+      },
+      {
+        "vi": "Đánh giá rủi ro",
+        "en": "Assess risk"
+      },
+      {
+        "vi": "Biện pháp phù hợp",
+        "en": "Apply controls"
+      },
+      {
+        "vi": "Báo và cập nhật",
+        "en": "Report and update"
+      }
+    ],
+    "chapter": 1
+  },
+  "contentVersion": "4tab-2026-10-26",
+  "sourceIntro": {
+    "vi": "Các tài liệu dưới đây là nền tảng kiến thức của bài. Mở nguồn để đọc nội dung gốc; phần giải thích, sơ đồ học tập và câu hỏi được biên soạn cho Handbook.",
+    "en": "The materials below provide the lesson’s knowledge base. Open them for the original teaching material; explanations, instructional diagrams and questions are developed for the Handbook."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Hai bản Việt–Anh phục vụ học tập, không phải bản dịch chính thức của UN. Danh mục và thứ tự 48 bài là cách tổ chức học liệu của Handbook, không phải số bài chính thức của UN.",
+      "Bảng đối chiếu xác định tài liệu nền theo mục; không khẳng định mọi câu diễn giải là trích nguyên văn. Hình gốc ghi rõ tài liệu và trang PDF; sơ đồ học tập được ghi là biên soạn."
+    ],
+    "en": [
+      "The Vietnamese and English texts are for learning and are not official UN translations. The 48-lesson catalogue and numbering are the Handbook’s organization, not the official UN lesson count.",
+      "The mapping identifies source materials by section and does not present every explanation as a verbatim quotation. Original illustrations identify the material and PDF page; instructional diagrams are labelled as developed for the lesson."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bài học CORE-16 tập trung vào chủ đề: An toàn–an ninh cá nhân và giao thông. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+      "en": "Lesson CORE-16 covers the following topic: Personal safety, security and road safety. It connects concepts with professional responsibilities."
+    },
+    "subtitle": {
+      "vi": "Học kiến thức, hiểu trách nhiệm và kiểm tra nhận thức.",
+      "en": "Learn the concepts, understand responsibilities and check your knowledge."
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích: Trách nhiệm và cơ chế; Chuẩn bị hoạt động.",
+        "Giải thích: Nhận thức cá nhân; Giao thông.",
+        "Giải thích: Khi có tai nạn hoặc sự cố; Phân biệt các khái niệm; Kỷ luật báo sự cố và suýt xảy ra.",
+        "Nhận diện cách hiểu sai và chọn nhận định có căn cứ trong kiểm tra nhận thức."
+      ],
+      "en": [
+        "Explain: Responsibilities and arrangements; Prepare the activity.",
+        "Explain: Personal awareness; Road safety.",
+        "Explain: Accidents and incidents; Safety terminology; Report near misses.",
+        "Recognize misconceptions and select evidence-based statements in the knowledge check."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc các mục theo thứ tự trong tab nội dung, quan sát sơ đồ và hình, sau đó hoàn thành kiểm tra nhận thức. Chọn VI/EN để đổi ngôn ngữ; đáp án được giữ khi đổi ngôn ngữ trong phiên mở trang. Tải lại trang sẽ bắt đầu lại.",
+      "en": "Read the sections in order, study diagrams and illustrations, then complete the knowledge check. Use VI/EN to switch languages; answers are retained across language changes during the session. Reloading starts a new session."
+    }
+  },
+  "figures": [],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft"
+}

@@ -1,0 +1,760 @@
+{
+  "schemaVersion": 2,
+  "id": "CORE-09",
+  "area": "core",
+  "groupKey": "CORE-M2",
+  "group": {
+    "vi": "Mandate, bảo vệ và các ưu tiên",
+    "en": "Mandates, protection and priorities"
+  },
+  "title": {
+    "vi": "Bảo vệ dân thường toàn diện",
+    "en": "Comprehensive protection of civilians"
+  },
+  "summary": {
+    "vi": "Bảo vệ dân thường cần hiểu nguy cơ, kết hợp công cụ và tổ chức đáp ứng. Bài học làm rõ phạm vi mandate, ba hướng POC, đánh giá, cảnh báo sớm, phối hợp và cách kiểm tra hại thực tế.",
+    "en": "Protecting civilians requires risk understanding, combined tools and organized response. Study mandate scope, three tiers, assessment, early warning, coordination and actual effects."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "C13",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-417%20Lesson%202.4%20Protection%20of%20Civilians.zip",
+  "order": 203,
+  "sections": [
+    {
+      "id": "CORE-09-01",
+      "title": {
+        "vi": "1. Phạm vi bảo vệ dân thường và trách nhiệm phái bộ",
+        "en": "1. Civilian protection and mission responsibilities"
+      },
+      "body": {
+        "vi": "### 1.1. Hiểu đúng trọng tâm POC\nBảo vệ dân thường, hay **Protection of Civilians (POC)**, trong mandate gìn giữ hòa bình tập trung vào phòng ngừa, răn đe và đáp ứng các đe dọa bạo lực thể chất đối với dân thường. Khái niệm bảo vệ trong hệ thống UN có thể rộng hơn; cần phân biệt trọng tâm mandate với mọi nhu cầu nhân đạo, phát triển hoặc dịch vụ xã hội. Các lĩnh vực liên quan hỗ trợ nhau nhưng không phải cùng một chức năng.\n\nBạo lực có thể tác động khác nhau đến phụ nữ, nam giới, trẻ em, người cao tuổi, người khuyết tật hoặc nhóm bị phân biệt. Không chỉ chú ý nơi có nhiều người hoặc vụ việc dễ nhìn thấy. Nguy cơ có thể nằm trên đường đi, tại nơi tạm trú, trong gia đình hoặc do người có quyền lực gây ra. Cần hiểu bối cảnh và cơ chế chuyển thông tin phù hợp.\n\n### 1.2. Trách nhiệm chính của Nhà nước không xóa nhiệm vụ UN\nNước sở tại có trách nhiệm chính bảo vệ dân thường. Phái bộ có mandate POC hỗ trợ trách nhiệm đó và thực hiện phần việc được giao trong khả năng, địa bàn triển khai và thẩm quyền áp dụng. Khi Nhà nước không thể hoặc không sẵn sàng bảo vệ, không thể chỉ viện dẫn trách nhiệm quốc gia để bỏ qua nghĩa vụ của phái bộ.\n\nNguồn đe dọa có thể từ nhiều chủ thể, kể cả lực lượng nhà nước. Đánh giá cần dựa trên hành vi và nguy cơ, không thiên vị theo bên liên quan. Không coi một cộng đồng mất quyền bảo vệ vì nghi ngờ một số người trong đó ủng hộ bên xung đột. Tính không thiên vị đòi hỏi thực hiện mandate có nguyên tắc, không phải đứng ngoài trước hại.\n\n### 1.3. Chủ động trong giới hạn được giao\nCác cụm cho phép sử dụng biện pháp cần thiết không loại bỏ pháp luật, DUF/ROE hoặc giới hạn chức năng. Ngược lại, giới hạn năng lực không phải lời giải thích chung để không đánh giá, không báo hoặc không đề xuất phương án. Cần biết đơn vị có thể làm gì, thiếu gì và chuyển yêu cầu đến đâu.\n\n**Điểm cần nhớ:** POC là trách nhiệm chủ động của toàn phái bộ, được tổ chức bằng thẩm quyền, thông tin, nguồn lực và phối hợp; không phải một khẩu hiệu hoặc lời hứa bảo vệ mọi người ở mọi nơi bằng mọi cách.",
+        "en": "### 1.1. Understand the POC focus\nIn peacekeeping mandates, **Protection of Civilians (POC)** focuses on preventing, deterring and responding to threats of physical violence against civilians. Protection in the wider UN system may be broader. Distinguish the mission mandate from every humanitarian, development or social-service need; related fields reinforce one another without becoming identical functions.\n\nViolence affects women, men, children, older people, persons with disabilities and marginalized groups differently. Look beyond large populations and highly visible incidents. Risks may occur on routes, in shelters or households, or through powerful actors. Understand the context and appropriate referral arrangements.\n\n### 1.2. State responsibility does not remove UN duties\nThe host State has primary protection responsibility. A POC-mandated mission supports it and fulfils assigned duties within capabilities, deployment areas and applicable authority. State inability or unwillingness cannot simply excuse mission inaction.\n\nThreats may originate from different actors, including State forces. Assess conduct and risk impartially. Suspected support for a conflict party by some individuals does not remove an entire community’s protection. Impartiality means principled implementation, not standing aside from harm.\n\n### 1.3. Proactive action within assigned authority\nAuthorization for necessary measures does not remove law, DUF/ROE or functional limits. Conversely, capability limits do not excuse failing to assess, report or propose options. Know what your unit can do, its gaps and escalation channels.\n\n**Remember:** POC is a proactive whole-of-mission responsibility organized through authority, information, resources and coordination, rather than a promise to protect everyone everywhere by any means."
+      },
+      "sourceIds": [
+        "C13",
+        "U40"
+      ]
+    },
+    {
+      "id": "CORE-09-02",
+      "title": {
+        "vi": "2. Ba hướng bảo vệ bổ sung nhau",
+        "en": "2. Three mutually reinforcing protection tiers"
+      },
+      "body": {
+        "vi": "### 2.1. Bảo vệ thông qua đối thoại và tiếp xúc\n**Tier I** gồm đối thoại, vận động, hòa giải, trao đổi với các bên và hoạt động thông tin phù hợp nhằm phòng ngừa hoặc chấm dứt bạo lực. Làm rõ nghĩa vụ, giảm hiểu nhầm, giải quyết tranh chấp và nêu quan ngại có thể tạo tác dụng bảo vệ. Cần chọn người tham gia, thời điểm và cách trao đổi để tránh làm người dân bị trả đũa.\n\nKhông coi đối thoại là hình thức mềm nên không cần chuẩn bị, hoặc là lý do trì hoãn biện pháp cấp thiết khác. Đối thoại cần thông tin, mục tiêu, người có vai trò và theo dõi kết quả. Việc một bên đồng ý trao đổi chưa chứng minh đe dọa đã hết.\n\n### 2.2. Bảo vệ thể chất\n**Tier II** gồm các hoạt động góp phần ngăn bạo lực hoặc giúp dân thường tránh hại trực tiếp, như hiện diện bảo vệ, tuần tra theo đánh giá, tạo điều kiện đi lại an toàn hoặc hỗ trợ nơi trú theo phân công. Khi cần và được cho phép, có thể liên quan đe dọa hoặc sử dụng vũ lực trong giới hạn áp dụng.\n\nKhông phải mọi người tham gia Tier II đều sử dụng vũ lực. Thông tin, trao đổi, y tế, phương tiện và bảo đảm cũng có thể quyết định người dân có được bảo vệ thực tế hay không. Một hoạt động hiện diện không đúng nơi, đúng thời điểm hoặc thiếu phản ứng trước thông tin có thể không giảm nguy cơ.\n\n### 2.3. Thiết lập môi trường bảo vệ\n**Tier III** tác động các điều kiện giúp hại ít xảy ra hoặc không tái diễn: Năng lực cơ quan nhà nước, pháp quyền, trách nhiệm giải trình, cộng đồng và xã hội dân sự, tùy mandate. Mục tiêu không chỉ giải quyết một đe dọa hiện tại mà củng cố khả năng bảo vệ bền vững.\n\nBa hướng không có thứ tự cố định hoặc thứ bậc giá trị. Có thể vừa đối thoại, tổ chức hiện diện phù hợp và hỗ trợ cơ chế tiếp nhận, xử lý vi phạm. Không cần chờ Tier I thất bại mới xem Tier II, hoặc hết nguy cơ mới bắt đầu Tier III. **Điểm cần nhớ:** Hãy chọn sự kết hợp theo đe dọa, nhu cầu, thẩm quyền và năng lực; không gán cứng mỗi hướng cho một thành phần.",
+        "en": "### 2.1. Protection through dialogue and engagement\n**Tier I** includes dialogue, advocacy, mediation, engagement and suitable communication to prevent or end violence. Clarifying obligations, reducing misunderstandings and addressing disputes can protect people. Choose participants, timing and methods to avoid retaliation.\n\nDialogue requires preparation, objectives, relevant actors and follow-up. It is neither an excuse to delay other urgent measures nor proof that danger has ended merely because a party agrees to talk.\n\n### 2.2. Physical protection\n**Tier II** contributes to preventing violence or helping civilians avoid immediate harm through protective presence, informed patrols, safe movement or authorized refuge arrangements. Where necessary and authorized, it may involve threat or use of force within applicable limits.\n\nNot everyone contributing to Tier II uses force. Information, communication, medical care, transport and support can determine practical protection. Presence at the wrong time or place, or without response to warnings, may not reduce danger.\n\n### 2.3. Establishing a protective environment\n**Tier III** strengthens conditions preventing harm and recurrence, including State capacity, rule of law, accountability, communities and civil society according to the mandate. It supports sustainable protection beyond immediate threats.\n\nThe tiers have no fixed sequence or hierarchy. Dialogue, appropriate protective presence and improved reporting and response mechanisms may operate together. Tier I need not fail before Tier II is considered, nor must danger end before Tier III begins. **Remember:** Combine approaches according to threats, needs, authority and capability; do not assign each tier exclusively to one component."
+      },
+      "sourceIds": [
+        "C13",
+        "U40",
+        "POC2023"
+      ]
+    },
+    {
+      "id": "CORE-09-03",
+      "title": {
+        "vi": "3. Đánh giá đe dọa, tình trạng dễ bị hại và nguy cơ",
+        "en": "3. Assess threats, vulnerabilities and risks"
+      },
+      "body": {
+        "vi": "### 3.1. Ba khái niệm cần phân biệt\n**Đe dọa** liên quan chủ thể hoặc hành vi có thể gây hại. **Tình trạng dễ bị hại** là các điều kiện làm một người hoặc nhóm dễ chịu tác động hơn, chẳng hạn hạn chế di chuyển hoặc thiếu kênh cảnh báo. **Nguy cơ** xem khả năng và hậu quả hại trong sự tương tác đó. Đánh giá tình trạng dễ bị hại không phải quy lỗi cho người bị hại.\n\nKhông chỉ hỏi ai có vũ khí. Cần xem ai có thể gây hại, năng lực, ý định, hành vi trước đây, động cơ, cơ hội và thay đổi bối cảnh. Đồng thời hỏi ai có khả năng tự bảo vệ, tổ chức cảnh báo, hỗ trợ hoặc tác động để ngăn bạo lực. Người dân không chỉ là đối tượng thụ động cần nhận bảo vệ.\n\n### 3.2. Nhìn khác biệt trong cùng một cộng đồng\nMột tuyến đường có thể an toàn cho nhóm này nhưng nguy hiểm với nhóm khác vào thời điểm khác. Giới, tuổi, tình trạng khuyết tật, nơi ở, sinh kế hoặc việc phải chăm sóc người khác đều có thể ảnh hưởng tiếp xúc nguy cơ và khả năng tìm trợ giúp. Không kết luận toàn bộ phụ nữ hoặc trẻ em có cùng nhu cầu.\n\nTham vấn cần tiếp cận nhiều nhóm một cách an toàn và tránh chỉ nghe đại diện dễ liên hệ. Có thể cần hình thức riêng tư, phiên dịch hoặc địa điểm thuận tiện hơn. Không tạo nguy cơ mới bằng yêu cầu kể công khai ai gây hại hoặc đánh dấu người đã trao đổi với phái bộ.\n\n### 3.3. Ưu tiên có căn cứ và thừa nhận điều chưa biết\nĐánh giá phải nêu sự kiện, mức độ xác minh, diễn biến dự kiến, hậu quả, năng lực bảo vệ và phần còn thiếu. Số người có thể bị tác động quan trọng nhưng không phải tiêu chí duy nhất; hại nghiêm trọng với nhóm ít người cũng cần quan tâm. Không đợi bằng chứng chắc chắn tuyệt đối mới chuyển cảnh báo có căn cứ về nguy cơ tức thời.\n\nKhi dữ kiện thay đổi, cập nhật nhận định và nơi đã nhận thông tin. Một báo cáo cũ không được dùng như mô tả hiện tại chỉ vì chưa có bản mới. **Điểm cần nhớ:** Đánh giá tốt giúp chọn ưu tiên và phương án, không chỉ tạo một nhãn nguy cơ cao, trung bình hoặc thấp.",
+        "en": "### 3.1. Distinguish three concepts\nA **threat** concerns actors or conduct capable of harm. **Vulnerability** describes conditions increasing exposure or susceptibility, such as restricted movement or poor warning access. **Risk** considers likelihood and consequences in that interaction. Vulnerability analysis must not blame affected people.\n\nLook beyond weapons: Examine capability, intent, past conduct, motives, opportunities and contextual changes. Also identify community capacities for warning, support and prevention. Civilians are not merely passive recipients of protection.\n\n### 3.2. Differences within communities\nA route may be safe for one group but dangerous for another at a different time. Gender, age, disability, location, livelihoods and care responsibilities affect exposure and access to help. Women and children are not homogeneous groups.\n\nConsult diverse people safely rather than only accessible representatives. Privacy, interpretation or accessible locations may be needed. Do not expose people by requiring public allegations or visibly identifying mission interlocutors.\n\n### 3.3. Evidence-based priorities and explicit uncertainty\nDescribe facts, verification, anticipated developments, consequences, protection capacity and gaps. Numbers matter but are not the only criterion; severe risks to small groups also require attention. Credible urgent warnings need not await absolute certainty.\n\nUpdate assessments and prior recipients when facts change. An old report is not current merely because no replacement exists. **Remember:** Good assessment guides priorities and options rather than merely producing a risk label."
+      },
+      "sourceIds": [
+        "C13",
+        "C19"
+      ]
+    },
+    {
+      "id": "CORE-09-04",
+      "title": {
+        "vi": "4. Cảnh báo sớm phải kết nối với đáp ứng",
+        "en": "4. Early warning must connect to response"
+      },
+      "body": {
+        "vi": "### 4.1. Nhận dấu hiệu trước khi bạo lực xảy ra\nCảnh báo sớm có thể đến từ thay đổi hành vi, đe dọa công khai, di chuyển bất thường, gia tăng căng thẳng, thông tin từ cộng đồng hoặc dấu hiệu hạn chế tiếp cận. Một dấu hiệu riêng chưa đủ kết luận bạo lực chắc chắn xảy ra, nhưng có thể cần đối chiếu, theo dõi và báo ngay theo mức khẩn cấp.\n\nCơ chế như trợ lý liên lạc cộng đồng, mạng cảnh báo cộng đồng hoặc hoạt động đánh giá chung giúp tăng hiểu biết địa bàn theo mô hình từng phái bộ. Không chỉ lập một danh sách số điện thoại rồi coi hệ thống hoạt động. Phải có người nhận, năng lực hiểu, phương án xử lý và đường phản hồi khi kênh chính không dùng được.\n\n### 4.2. Báo điều cần cho quyết định\nThông tin cần làm rõ nguy cơ gì, ở đâu, lúc nào, ai có thể bị hại, nguồn và độ chắc chắn, điều đã làm và hỗ trợ đang cần. Báo nhanh không có nghĩa biến nghi vấn thành sự thật. Cần đánh dấu điểm chưa xác minh, nhưng không dùng sự chưa hoàn chỉnh để trì hoãn chuyển thông tin có thể cứu người.\n\nNgười nhận cần xác nhận và chuyển đúng nơi theo cơ chế. Nếu nguy cơ khẩn chưa được xử lý hoặc kênh không đáp ứng, sử dụng tuyến dự phòng và cấp báo phù hợp, giữ khả năng truy nguyên. Cán bộ báo tin không tự cho rằng gửi thông điệp là đã kết thúc phần việc.\n\n### 4.3. Bảo vệ hệ thống và người cung cấp\nNgười dân cần biết cách liên hệ, giới hạn và điều có thể mong đợi. Không hứa phản ứng ngay tại mọi nơi khi không có khả năng. Phải bảo vệ tên, vị trí và việc trao đổi; tránh chia sẻ rộng thông tin khiến nguồn bị trả đũa. Không dùng trẻ em làm đầu mối thu thông tin nghiệp vụ.\n\nKiểm tra định kỳ liên lạc, người trực, cập nhật đầu mối và cách xử lý mất kết nối. Đánh giá xem nhóm ít tiếp cận công nghệ có bị bỏ sót không. **Điểm cần nhớ:** Giá trị của cảnh báo sớm nằm ở chuỗi nhận biết, truyền đạt, quyết định và đáp ứng, không chỉ tốc độ gửi dữ liệu.",
+        "en": "### 4.1. Recognize signs before violence\nWarnings may arise from changing conduct, public threats, unusual movements, rising tensions, community information or access restrictions. A single indicator does not prove violence is certain, but may require checking, monitoring and urgent reporting.\n\nCommunity liaison assistants, alert networks and joint assessments can improve awareness under mission arrangements. A contact list alone is not a functioning system: Identify recipients, understanding, response capacity and backup channels.\n\n### 4.2. Report what decisions require\nDescribe the threat, place, time, potentially affected people, source, confidence, action taken and assistance needed. Speed does not justify turning allegations into facts. Mark uncertainty without delaying potentially life-saving information until it is complete.\n\nRecipients should acknowledge and route information. Use appropriate backup and escalation arrangements if urgent concerns remain unaddressed or channels fail, preserving traceability. Sending a message does not automatically complete the reporter’s responsibilities.\n\n### 4.3. Protect contributors and system reliability\nExplain contact methods, limits and realistic expectations. Do not promise immediate response everywhere. Protect identities, locations and contacts against retaliation. Children must not be used as operational information sources.\n\nCheck communications, duty coverage, contacts and failure procedures. Assess exclusion of people with limited technology access. **Remember:** Early warning matters through recognition, transmission, decisions and response, not data speed alone."
+      },
+      "sourceIds": [
+        "C13",
+        "C19"
+      ]
+    },
+    {
+      "id": "CORE-09-05",
+      "title": {
+        "vi": "5. UNPOL, dân sự, quân sự và bảo đảm phối hợp thế nào?",
+        "en": "5. Coordinating police, civilian, military and support work"
+      },
+      "body": {
+        "vi": "### 5.1. Có người chủ trì, không xóa trách nhiệm riêng\nLãnh đạo phái bộ chịu trách nhiệm tổ chức thực hiện mandate POC; các thành phần cần cùng đánh giá và ưu tiên. Cố vấn POC hỗ trợ tham mưu, phối hợp, theo dõi và lồng ghép. Sự có mặt của một đầu mối chuyên trách không khiến những người khác được đứng ngoài hoặc chuyển mọi quyết định cho đầu mối đó.\n\nCác cơ chế phối hợp cần rõ người chủ trì, nhiệm vụ, nguồn lực, điều kiện hành động, thông tin phải chuyển và yêu cầu báo cáo. Giữ tuyến chỉ huy cảnh sát, quân sự và ranh giới chức năng. Một hoạt động chung không tự tạo quyền chỉ huy đối với đơn vị khác hoặc tổ chức nhân đạo.\n\n### 5.2. Đóng góp của IPO và FPU\nIPO có thể đóng góp qua tiếp xúc cộng đồng, phân tích, cố vấn, giám sát, lập kế hoạch và công việc chuyên môn theo vị trí. FPU có thể cung cấp năng lực cảnh sát theo đơn vị để bảo vệ, quản lý trật tự hoặc thực hiện nhiệm vụ được giao. Không coi POC chỉ là tuần tra có vũ trang, hoặc mặc định mọi cán bộ UNPOL có quyền bắt và tạm giữ trong mọi trường hợp.\n\nKhi hỗ trợ cảnh sát sở tại, cần chú ý cách lực lượng này đối xử với người dân, nguy cơ lạm quyền và điều kiện hỗ trợ. Phát triển năng lực, giám sát và HRDDP có thể liên quan trực tiếp đến hiệu quả bảo vệ. Không tăng năng lực mà bỏ qua nguy cơ nguồn lực bị dùng để gây hại.\n\n### 5.3. Bảo đảm và các đối tác\nLiên lạc, phương tiện, y tế, nhiên liệu và nhân sự phù hợp là điều kiện cho phương án thực hiện được. Đơn vị phải báo khả năng thực tế, hạn chế và tác động; không ghi đủ năng lực khi chưa kiểm tra. Thay đổi nguồn lực có thể buộc điều chỉnh ưu tiên hoặc yêu cầu cấp quyết định hỗ trợ.\n\nTổ chức nhân đạo, quốc gia và cộng đồng là đối tác theo vai trò. Phối hợp cần tôn trọng nguyên tắc nhân đạo, độc lập và bảo vệ thông tin; không ép tổ chức chia sẻ dữ liệu nhạy cảm hoặc chấp nhận hỗ trợ họ đánh giá là không phù hợp. **Điểm cần nhớ:** Phối hợp hiệu quả biến nhiều phần việc thành đáp ứng nhất quán, chứ không biến mọi chủ thể thành một đơn vị.",
+        "en": "### 5.1. Identify leadership without erasing roles\nMission leadership organizes POC implementation and component priorities. POC advisers support advice, coordination, monitoring and mainstreaming. A specialist focal point does not relieve others of duties or inherit every decision.\n\nDefine the lead, tasks, resources, action conditions, information and reporting requirements. Preserve police and military command and functional boundaries. Joint activity does not automatically confer command over another unit or humanitarian organization.\n\n### 5.2. IPO and FPU contributions\nIPOs may contribute engagement, analysis, advice, monitoring, planning and specialist work. FPUs provide organized police capability for authorized protection, public-order and other assignments. POC is not limited to armed patrols, and UNPOL status does not confer universal arrest or detention powers.\n\nSupport to host-State police must consider treatment of civilians, abuse risks and support conditions. Capacity development, monitoring and HRDDP can directly affect protection. Do not strengthen capability while ignoring potential misuse.\n\n### 5.3. Support and partners\nCommunications, transport, medical support, fuel and suitable personnel enable implementation. Report actual capacity, gaps and consequences instead of declaring unverified readiness. Resource changes may require adjusted priorities or higher-level assistance decisions.\n\nNational, community and humanitarian partners have distinct roles. Respect humanitarian principles, independence and information safeguards; do not compel sensitive data sharing or unsuitable assistance. **Remember:** Coordination aligns contributions without converting every actor into one unit."
+      },
+      "sourceIds": [
+        "U40",
+        "C19"
+      ]
+    },
+    {
+      "id": "CORE-09-06",
+      "title": {
+        "vi": "6. Lập kế hoạch cho trước, trong và sau nguy cơ",
+        "en": "6. Plan before, during and after threats"
+      },
+      "body": {
+        "vi": "### 6.1. Bốn góc nhìn thời gian\nCó thể tổ chức kế hoạch theo phòng ngừa, hành động ngăn nguy cơ cận kề, đáp ứng khi hại xảy ra và củng cố sau khủng hoảng. Các giai đoạn có thể chồng lấn và cần quay lại; không phải lịch cứng cho mọi sự kiện. Phòng ngừa vẫn cần tiếp tục khi đang đáp ứng một đe dọa khác.\n\nTrước nguy cơ, chú ý quan hệ cộng đồng, đánh giá, đối thoại, khả năng bảo vệ của đối tác và chuẩn bị nguồn lực. Khi có dấu hiệu cận kề, cập nhật đánh giá, báo và tổ chức phần việc được cho phép để tránh hại. Khi xảy ra bạo lực, thực hiện trách nhiệm bảo vệ theo mandate, khả năng và chỉ huy, không chờ hoàn thiện hồ sơ mới xem xét hành động khẩn cấp được giao.\n\n### 6.2. Phương án phải tính tác động đối với người dân\nHoạt động của phái bộ có thể làm thay đổi nơi tập trung, đường di chuyển hoặc hành vi của chủ thể gây hại. Cần xem người dân có bị chuyển nguy cơ sang địa điểm khác, mất tiếp cận dịch vụ hoặc bị nhận diện là cộng tác với UN không. Không chỉ đánh giá nguy cơ đối với lực lượng mà bỏ qua người được bảo vệ.\n\nNếu có hỗ trợ đi lại hoặc nơi trú, phải phối hợp về an toàn, điều kiện, người chịu trách nhiệm và thông tin cho người dân. Không hứa một điểm an toàn tuyệt đối khi chưa được đánh giá và cho phép. Người cần hỗ trợ di chuyển, trẻ em đi một mình hoặc người cần y tế cần được tính trong phương án, không để đến lúc thực hiện mới phát hiện.\n\n### 6.3. Củng cố sau khủng hoảng\nSau sự cố, vẫn có thể có trả đũa, bạo lực mới, nhu cầu y tế, mất liên lạc gia đình và trở ngại trở về. Cần phối hợp bảo vệ, chuyển tuyến và theo dõi theo nhiệm vụ. Củng cố gồm khôi phục liên hệ, cập nhật đánh giá, hỗ trợ cơ chế pháp quyền và điều chỉnh hoạt động để giảm tái diễn.\n\n**Điểm cần nhớ:** Một hoạt động kết thúc không có nghĩa nguy cơ đã hết. Kế hoạch cần giải thích ai tiếp tục theo dõi, thông tin nào cần cập nhật và điều kiện nào cho phép giảm, thay đổi hoặc kết thúc phần việc.",
+        "en": "### 6.1. Four time perspectives\nPlan across prevention, pre-emption of imminent danger, response and consolidation after a crisis. Phases may overlap and recur rather than form a rigid schedule. Prevention continues while other threats require response.\n\nBefore danger, build relationships, assess threats, engage and prepare partner capacity and resources. As danger becomes imminent, update assessments, report and implement authorized prevention. During violence, fulfil protection responsibilities within the mandate, capabilities and command, rather than waiting for complete paperwork before authorized urgent action.\n\n### 6.2. Consider effects on civilians\nMission activity may change concentrations, routes or perpetrator behaviour. Assess displacement of risk, reduced service access and exposure of civilians as UN collaborators. Do not assess only force safety while overlooking those being protected.\n\nSafe-movement or refuge support requires agreed safety, conditions, responsibilities and communication. Never promise an absolutely safe location without assessment and authorization. Plan for assisted movement, unaccompanied children and medical needs rather than discovering them during delivery.\n\n### 6.3. Consolidation after crisis\nRetaliation, renewed violence, medical needs, family separation and return obstacles may continue. Coordinate protection, referrals and monitoring within tasking. Restore contacts, update analysis and support rule-of-law arrangements to reduce recurrence.\n\n**Remember:** Ending an activity does not establish that danger has ended. Specify follow-up responsibility, information needs and conditions for changing or concluding tasks."
+      },
+      "sourceIds": [
+        "U40",
+        "C19"
+      ]
+    },
+    {
+      "id": "CORE-09-07",
+      "title": {
+        "vi": "7. Đánh giá tác động và điều chỉnh có trách nhiệm",
+        "en": "7. Assess effects and adjust responsibly"
+      },
+      "body": {
+        "vi": "### 7.1. Hoạt động nhiều chưa chứng minh bảo vệ tốt\nSố chuyến tuần tra, cuộc gặp hoặc thông điệp cảnh báo là đầu ra. Muốn đánh giá hiệu quả, cần xem đe dọa và tiếp xúc nguy cơ thay đổi thế nào, người dân có tiếp cận an toàn hơn không, nhóm nào còn bị bỏ sót và có hại phát sinh không. Dữ liệu định lượng cần đi cùng quan sát và phản hồi phù hợp.\n\nSố vụ báo giảm có thể là tiến bộ hoặc biểu hiện mất niềm tin, di dời, gián đoạn liên lạc. Không quy toàn bộ thay đổi cho một hoạt động của đơn vị. Báo cáo cần nêu căn cứ, giới hạn, yếu tố ảnh hưởng và điều chưa biết để cấp quyết định hiểu đúng.\n\n### 7.2. Báo cáo cả phần chưa làm được\nNếu lực lượng không tiếp cận được địa bàn hoặc phản ứng chậm, cần giải thích nguyên nhân, tác động, việc đã thử và hỗ trợ cần. Không dùng một câu chung “ngoài khả năng” để thay phân tích. Đồng thời không tô quá khả năng hoặc hứa với cộng đồng những gì chưa được tổ chức thực hiện.\n\nThông tin về thương vong, hành vi bị cáo buộc và người cung cấp phải chính xác, có mức độ xác minh và được bảo vệ. Khi có dấu hiệu sai phạm hoặc tác động xấu từ chính hoạt động UN, báo theo cơ chế; không chỉ ghi hại do bên ngoài. Tính không gây thêm hại cần được kiểm tra bằng thực tế.\n\n### 7.3. Rà soát và bàn giao\nRà soát xác định điều gì hiệu quả, thất bại hoặc chưa rõ, rồi giao biện pháp sửa với người thực hiện và cách theo dõi. Cập nhật kế hoạch, liên lạc, nguồn lực và giả định; tránh chỉ lưu một biên bản rút kinh nghiệm. Khi bàn giao, cần chuyển nguy cơ còn tồn, đầu mối, quyết định đang chờ và giới hạn thông tin qua hệ thống được phép.\n\n**Kết thúc bài:** Bảo vệ dân thường kết nối hiểu nguy cơ, hành động đúng thẩm quyền, phối hợp và đánh giá tác động. Mục tiêu là giảm hại thật đối với con người; hoạt động, báo cáo và hình ảnh hiện diện chỉ có giá trị khi phục vụ mục tiêu đó.",
+        "en": "### 7.1. Activity does not prove protection\nPatrols, meetings and warning messages are outputs. Assess changes in threats, exposure, safe access, excluded groups and unintended harm. Combine suitable quantitative data with observation and community feedback.\n\nFewer reports may indicate improvement, lost trust, displacement or communications failure. Do not attribute every change to one unit activity. Explain evidence, limitations, influences and uncertainty.\n\n### 7.2. Report unmet needs honestly\nExplain access barriers or delayed response, consequences, attempted measures and assistance required. A generic beyond-capacity statement is not analysis. Equally, do not exaggerate capability or make unorganized commitments to communities.\n\nProtect identities and distinguish verified casualties, allegations and uncertainty. Report harm or misconduct arising from UN activity as well as external conduct. Test do-no-harm commitments against actual effects.\n\n### 7.3. Review and hand over\nIdentify what worked, failed or remains uncertain, then assign correction and follow-up. Update plans, contacts, resources and assumptions rather than storing a lessons-learned minute alone. Handover must preserve outstanding risks, contacts, pending decisions and information limits through approved systems.\n\n**Retain:** POC connects risk understanding, authorized action, coordination and impact assessment. Its purpose is reduced harm to people; activities, reporting and visible presence matter when they support that result."
+      },
+      "sourceIds": [
+        "C13",
+        "C19",
+        "U40"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "C13",
+      "title": "2.4 Protection of Civilians",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-417%20Lesson%202.4%20Protection%20of%20Civilians.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 36,
+      "pdf_name": "2025 - Lesson 2.4 Protection of Civilians - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "C19",
+      "title": "2.10 Integrated Case Study on Protection of Civilians: A Whole-of-Mission Approach",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-423%20Lesson%202.10%20Integrated%20Case%20Study%20on%20POC.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 27,
+      "pdf_name": "2025 - Lesson 2.10 Integrated Case Study on POC - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "U40",
+      "title": "Lesson 9 Protection of Civilians by UN Police",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-018%20UNPOL%20STM%20Lesson%209%20Protection%20of%20Civilians%20by%20UN%20Police.pdf",
+      "year": "2021",
+      "publisher": "United Nations UNPOL STM",
+      "format": "pdf",
+      "pages": 40,
+      "pdf_name": "U40.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "POC2023",
+      "title": "Policy on Protection of Civilians, Ref. 2023.05 — conceptual comparison",
+      "url": "https://peacekeeping.un.org/sites/default/files/2023_protection_of_civilians_policy.pdf",
+      "year": "2023",
+      "publisher": "United Nations DPO",
+      "format": "pdf",
+      "reading": "Đối chiếu ba tầng qua nội dung truy xuất web; không tải toàn bộ PDF trong phiên."
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Trọng tâm mandate POC trong gìn giữ hòa bình là gì?",
+        "en": "What is the focus of a peacekeeping POC mandate?"
+      },
+      "options": [
+        {
+          "vi": "Thay mọi dịch vụ xã hội và phát triển quốc gia.",
+          "en": "Replacing all national social and development services."
+        },
+        {
+          "vi": "Phòng ngừa, răn đe và đáp ứng đe dọa bạo lực thể chất đối với dân thường.",
+          "en": "Preventing, deterring and responding to threats of physical violence against civilians."
+        },
+        {
+          "vi": "Chỉ bảo vệ người ủng hộ phái bộ.",
+          "en": "Protecting only mission supporters."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Bảo vệ có liên hệ nhiều lĩnh vực nhưng không đồng nhất mọi nhu cầu với cùng một chức năng. Xem mục 1.",
+        "en": "Protection connects related fields without turning every need into the same function. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Trách nhiệm chính của nước sở tại cho phép phái bộ đứng ngoài khi Nhà nước không bảo vệ không?",
+        "en": "Does host-State primary responsibility allow a POC-mandated mission to stand aside when the State fails to protect?"
+      },
+      "options": [
+        {
+          "vi": "Có, vì UN chỉ hành động khi mọi bên mời.",
+          "en": "Yes, the UN acts only when every party invites it."
+        },
+        {
+          "vi": "Không; phái bộ vẫn thực hiện phần việc theo mandate và khả năng.",
+          "en": "No; the mission retains mandated responsibilities within capabilities."
+        },
+        {
+          "vi": "Có, nếu nguy cơ do lực lượng nhà nước gây ra.",
+          "en": "Yes, if State forces cause the threat."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Nguồn đe dọa không tự tạo ngoại lệ; cần đánh giá và hành động có nguyên tắc, đúng quyền. Xem mục 1.",
+        "en": "Threat origin does not create an exemption; assess and act impartially within authority. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Ba hướng POC có thứ tự bắt buộc không?",
+        "en": "Do the three POC tiers have a mandatory sequence?"
+      },
+      "options": [
+        {
+          "vi": "Có; môi trường bảo vệ chỉ làm sau khi mọi nguy cơ hết.",
+          "en": "Yes; the protective environment follows the end of all threats."
+        },
+        {
+          "vi": "Có; phải hoàn tất đối thoại trước mọi bảo vệ thể chất.",
+          "en": "Yes; dialogue must finish before any physical protection."
+        },
+        {
+          "vi": "Không; bổ sung nhau và có thể thực hiện đồng thời.",
+          "en": "No; they reinforce one another and can operate simultaneously."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Tình hình, mandate và năng lực định hướng cách kết hợp, không phải một thang cố định. Xem mục 2.",
+        "en": "Conditions, mandate and capability shape the combination, not a fixed ladder. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Bộ phận bảo đảm có thể đóng góp Tier II không?",
+        "en": "Can support personnel contribute to Tier II?"
+      },
+      "options": [
+        {
+          "vi": "Có; liên lạc, vận tải, y tế có thể tạo điều kiện bảo vệ thể chất.",
+          "en": "Yes; communications, transport and medical support can enable physical protection."
+        },
+        {
+          "vi": "Không; Tier II không cần phối hợp dân sự.",
+          "en": "No; Tier II requires no civilian coordination."
+        },
+        {
+          "vi": "Không; chỉ người trực tiếp dùng vũ lực tham gia.",
+          "en": "No; only personnel using force contribute."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Mỗi hướng có vai trò cho nhiều thành phần; đóng góp không đồng nghĩa mọi người dùng vũ lực. Xem mục 2.",
+        "en": "Several components contribute to each tier without everyone using force. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Tình trạng dễ bị hại cần được hiểu thế nào?",
+        "en": "How should vulnerability be understood?"
+      },
+      "options": [
+        {
+          "vi": "Là bằng chứng người dân không có năng lực bảo vệ nào.",
+          "en": "As proof civilians have no protective capacity."
+        },
+        {
+          "vi": "Là đặc tính cố định giống nhau ở mọi phụ nữ.",
+          "en": "As an identical fixed attribute of all women."
+        },
+        {
+          "vi": "Là điều kiện tăng khả năng chịu hại, không phải lỗi người bị hại.",
+          "en": "As conditions increasing susceptibility, not victims’ fault."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Cần xem hoàn cảnh, khác biệt và cả năng lực cộng đồng, không gán nhãn thụ động. Xem mục 3.",
+        "en": "Consider circumstances, differences and community capacities rather than passive labels. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Đánh giá nguy cơ có chất lượng cần gì ngoài nhãn cao/thấp?",
+        "en": "What is needed beyond a high/low risk label?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ tên chủ thể có vũ khí.",
+          "en": "Only the name of an armed actor."
+        },
+        {
+          "vi": "Chỉ số người có mặt trong địa bàn.",
+          "en": "Only the population count."
+        },
+        {
+          "vi": "Căn cứ, mức xác minh, hậu quả, năng lực bảo vệ và khoảng trống.",
+          "en": "Evidence, verification, consequences, protection capacity and gaps."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Nhãn chỉ hữu ích khi giúp lựa chọn ưu tiên và phương án có căn cứ. Xem mục 3.",
+        "en": "A label matters when it supports reasoned priorities and options. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Cảnh báo chưa đầy đủ nhưng cho thấy nguy cơ tức thời nên xử lý thế nào?",
+        "en": "How should incomplete information indicating immediate danger be handled?"
+      },
+      "options": [
+        {
+          "vi": "Bỏ mọi giới hạn xác minh để người nhận phản ứng nhanh.",
+          "en": "Remove uncertainty labels to prompt faster action."
+        },
+        {
+          "vi": "Báo khẩn, nêu mức xác minh và thực hiện phần việc được phép.",
+          "en": "Report urgently with verification limits and perform authorized duties."
+        },
+        {
+          "vi": "Giữ lại đến khi mọi chi tiết chắc chắn.",
+          "en": "Withhold it until every detail is certain."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Kịp thời và chính xác phải đi cùng nhau; không biến nghi vấn thành kết luận. Xem mục 4.",
+        "en": "Timeliness and accuracy belong together; do not turn allegations into findings. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Có danh sách số điện thoại đã đủ hệ thống cảnh báo chưa?",
+        "en": "Is a contact list alone a functioning warning system?"
+      },
+      "options": [
+        {
+          "vi": "Chưa; cần người nhận, xử lý, phản hồi và kênh dự phòng.",
+          "en": "No; recipients, action, feedback and backups are needed."
+        },
+        {
+          "vi": "Đủ nếu danh sách rất dài.",
+          "en": "Yes, if the list is long."
+        },
+        {
+          "vi": "Đủ nếu mọi người đã nhận qua email.",
+          "en": "Yes, if everyone received it by email."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Cảnh báo phải nối với quyết định và đáp ứng, không chỉ lưu thông tin liên lạc. Xem mục 4.",
+        "en": "Warnings must connect to decisions and response, not merely stored contacts. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Phối hợp trong POC có tự xóa tuyến chỉ huy không?",
+        "en": "Does POC coordination automatically remove command boundaries?"
+      },
+      "options": [
+        {
+          "vi": "Có; ai có thông tin trước sẽ chỉ huy mọi đơn vị.",
+          "en": "Yes; whoever receives information first commands everyone."
+        },
+        {
+          "vi": "Có; cố vấn POC quyết định mọi hoạt động của phái bộ.",
+          "en": "Yes; the POC adviser decides all mission operations."
+        },
+        {
+          "vi": "Không; nhiệm vụ và cơ chế chỉ huy phải rõ.",
+          "en": "No; duties and command arrangements must remain clear."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Đầu mối chuyên trách hỗ trợ phối hợp, không tiếp nhận mọi trách nhiệm của các thành phần. Xem mục 5.",
+        "en": "Specialists support coordination without assuming every component’s responsibility. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Hỗ trợ cảnh sát sở tại liên quan bảo vệ dân thường cần xem gì?",
+        "en": "What matters when supporting host-State police for POC?"
+      },
+      "options": [
+        {
+          "vi": "Năng lực, cách đối xử, nguy cơ lạm dụng và HRDDP khi áp dụng.",
+          "en": "Capability, treatment, abuse risks and applicable HRDDP."
+        },
+        {
+          "vi": "Chỉ số trang bị bàn giao.",
+          "en": "Only equipment delivered."
+        },
+        {
+          "vi": "Chỉ cam kết rằng mọi hoạt động có mục đích tốt.",
+          "en": "Only assurances of good intentions."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Năng lực mạnh hơn không tự tạo bảo vệ tốt nếu hỗ trợ có thể bị dùng để gây hại. Xem mục 5.",
+        "en": "Stronger capability does not ensure protection where support may enable harm. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Bốn giai đoạn công việc POC nên được hiểu thế nào?",
+        "en": "How should the four operational phases be understood?"
+      },
+      "options": [
+        {
+          "vi": "Phòng ngừa, ngăn nguy cơ cận kề, đáp ứng, củng cố có thể chồng lấn.",
+          "en": "Prevention, pre-emption, response and consolidation may overlap."
+        },
+        {
+          "vi": "Là lịch cứng giống nhau cho mọi đe dọa.",
+          "en": "They are a rigid schedule for every threat."
+        },
+        {
+          "vi": "Chỉ bắt đầu phòng ngừa sau khi đáp ứng xong.",
+          "en": "Prevention starts only after response ends."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Các góc nhìn thời gian hỗ trợ kế hoạch; kết thúc một hoạt động không chứng minh hết nguy cơ. Xem mục 6.",
+        "en": "Time perspectives support planning; ending an activity does not prove danger has ended. See section 6."
+      },
+      "chapter": 5
+    },
+    {
+      "question": {
+        "vi": "Chỉ số nào cần bổ sung cho số chuyến tuần tra?",
+        "en": "What should complement patrol counts?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ số ảnh hoạt động được đăng.",
+          "en": "Only published activity photographs."
+        },
+        {
+          "vi": "Thay đổi nguy cơ, tiếp cận an toàn, phản hồi và hại phát sinh.",
+          "en": "Changed risks, safe access, feedback and unintended harm."
+        },
+        {
+          "vi": "Chỉ tổng quãng đường phương tiện di chuyển.",
+          "en": "Only total vehicle distance."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Đầu ra cần được nối với tác động đối với con người và giới hạn dữ liệu. Xem mục 7.",
+        "en": "Outputs must connect to effects on people and data limitations. See section 7."
+      },
+      "chapter": 6
+    }
+  ],
+  "updated": "2026-10-28",
+  "moduleId": "CORE-M2",
+  "moduleOrder": 2,
+  "lessonOrder": 3,
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "CORE-09-01",
+      "title": {
+        "vi": "1. Phạm vi bảo vệ dân thường và trách nhiệm phái bộ",
+        "en": "1. Civilian protection and mission responsibilities"
+      },
+      "body": {
+        "vi": "### 1.1. Hiểu đúng trọng tâm POC\nBảo vệ dân thường, hay **Protection of Civilians (POC)**, trong mandate gìn giữ hòa bình tập trung vào phòng ngừa, răn đe và đáp ứng các đe dọa bạo lực thể chất đối với dân thường. Khái niệm bảo vệ trong hệ thống UN có thể rộng hơn; cần phân biệt trọng tâm mandate với mọi nhu cầu nhân đạo, phát triển hoặc dịch vụ xã hội. Các lĩnh vực liên quan hỗ trợ nhau nhưng không phải cùng một chức năng.\n\nBạo lực có thể tác động khác nhau đến phụ nữ, nam giới, trẻ em, người cao tuổi, người khuyết tật hoặc nhóm bị phân biệt. Không chỉ chú ý nơi có nhiều người hoặc vụ việc dễ nhìn thấy. Nguy cơ có thể nằm trên đường đi, tại nơi tạm trú, trong gia đình hoặc do người có quyền lực gây ra. Cần hiểu bối cảnh và cơ chế chuyển thông tin phù hợp.\n\n### 1.2. Trách nhiệm chính của Nhà nước không xóa nhiệm vụ UN\nNước sở tại có trách nhiệm chính bảo vệ dân thường. Phái bộ có mandate POC hỗ trợ trách nhiệm đó và thực hiện phần việc được giao trong khả năng, địa bàn triển khai và thẩm quyền áp dụng. Khi Nhà nước không thể hoặc không sẵn sàng bảo vệ, không thể chỉ viện dẫn trách nhiệm quốc gia để bỏ qua nghĩa vụ của phái bộ.\n\nNguồn đe dọa có thể từ nhiều chủ thể, kể cả lực lượng nhà nước. Đánh giá cần dựa trên hành vi và nguy cơ, không thiên vị theo bên liên quan. Không coi một cộng đồng mất quyền bảo vệ vì nghi ngờ một số người trong đó ủng hộ bên xung đột. Tính không thiên vị đòi hỏi thực hiện mandate có nguyên tắc, không phải đứng ngoài trước hại.\n\n### 1.3. Chủ động trong giới hạn được giao\nCác cụm cho phép sử dụng biện pháp cần thiết không loại bỏ pháp luật, DUF/ROE hoặc giới hạn chức năng. Ngược lại, giới hạn năng lực không phải lời giải thích chung để không đánh giá, không báo hoặc không đề xuất phương án. Cần biết đơn vị có thể làm gì, thiếu gì và chuyển yêu cầu đến đâu.\n\n**Điểm cần nhớ:** POC là trách nhiệm chủ động của toàn phái bộ, được tổ chức bằng thẩm quyền, thông tin, nguồn lực và phối hợp; không phải một khẩu hiệu hoặc lời hứa bảo vệ mọi người ở mọi nơi bằng mọi cách.",
+        "en": "### 1.1. Understand the POC focus\nIn peacekeeping mandates, **Protection of Civilians (POC)** focuses on preventing, deterring and responding to threats of physical violence against civilians. Protection in the wider UN system may be broader. Distinguish the mission mandate from every humanitarian, development or social-service need; related fields reinforce one another without becoming identical functions.\n\nViolence affects women, men, children, older people, persons with disabilities and marginalized groups differently. Look beyond large populations and highly visible incidents. Risks may occur on routes, in shelters or households, or through powerful actors. Understand the context and appropriate referral arrangements.\n\n### 1.2. State responsibility does not remove UN duties\nThe host State has primary protection responsibility. A POC-mandated mission supports it and fulfils assigned duties within capabilities, deployment areas and applicable authority. State inability or unwillingness cannot simply excuse mission inaction.\n\nThreats may originate from different actors, including State forces. Assess conduct and risk impartially. Suspected support for a conflict party by some individuals does not remove an entire community’s protection. Impartiality means principled implementation, not standing aside from harm.\n\n### 1.3. Proactive action within assigned authority\nAuthorization for necessary measures does not remove law, DUF/ROE or functional limits. Conversely, capability limits do not excuse failing to assess, report or propose options. Know what your unit can do, its gaps and escalation channels.\n\n**Remember:** POC is a proactive whole-of-mission responsibility organized through authority, information, resources and coordination, rather than a promise to protect everyone everywhere by any means."
+      },
+      "sourceIds": [
+        "C13",
+        "U40"
+      ]
+    },
+    {
+      "id": "CORE-09-02",
+      "title": {
+        "vi": "2. Ba hướng bảo vệ bổ sung nhau",
+        "en": "2. Three mutually reinforcing protection tiers"
+      },
+      "body": {
+        "vi": "### 2.1. Bảo vệ thông qua đối thoại và tiếp xúc\n**Tier I** gồm đối thoại, vận động, hòa giải, trao đổi với các bên và hoạt động thông tin phù hợp nhằm phòng ngừa hoặc chấm dứt bạo lực. Làm rõ nghĩa vụ, giảm hiểu nhầm, giải quyết tranh chấp và nêu quan ngại có thể tạo tác dụng bảo vệ. Cần chọn người tham gia, thời điểm và cách trao đổi để tránh làm người dân bị trả đũa.\n\nKhông coi đối thoại là hình thức mềm nên không cần chuẩn bị, hoặc là lý do trì hoãn biện pháp cấp thiết khác. Đối thoại cần thông tin, mục tiêu, người có vai trò và theo dõi kết quả. Việc một bên đồng ý trao đổi chưa chứng minh đe dọa đã hết.\n\n### 2.2. Bảo vệ thể chất\n**Tier II** gồm các hoạt động góp phần ngăn bạo lực hoặc giúp dân thường tránh hại trực tiếp, như hiện diện bảo vệ, tuần tra theo đánh giá, tạo điều kiện đi lại an toàn hoặc hỗ trợ nơi trú theo phân công. Khi cần và được cho phép, có thể liên quan đe dọa hoặc sử dụng vũ lực trong giới hạn áp dụng.\n\nKhông phải mọi người tham gia Tier II đều sử dụng vũ lực. Thông tin, trao đổi, y tế, phương tiện và bảo đảm cũng có thể quyết định người dân có được bảo vệ thực tế hay không. Một hoạt động hiện diện không đúng nơi, đúng thời điểm hoặc thiếu phản ứng trước thông tin có thể không giảm nguy cơ.\n\n### 2.3. Thiết lập môi trường bảo vệ\n**Tier III** tác động các điều kiện giúp hại ít xảy ra hoặc không tái diễn: Năng lực cơ quan nhà nước, pháp quyền, trách nhiệm giải trình, cộng đồng và xã hội dân sự, tùy mandate. Mục tiêu không chỉ giải quyết một đe dọa hiện tại mà củng cố khả năng bảo vệ bền vững.\n\nBa hướng không có thứ tự cố định hoặc thứ bậc giá trị. Có thể vừa đối thoại, tổ chức hiện diện phù hợp và hỗ trợ cơ chế tiếp nhận, xử lý vi phạm. Không cần chờ Tier I thất bại mới xem Tier II, hoặc hết nguy cơ mới bắt đầu Tier III. **Điểm cần nhớ:** Hãy chọn sự kết hợp theo đe dọa, nhu cầu, thẩm quyền và năng lực; không gán cứng mỗi hướng cho một thành phần.",
+        "en": "### 2.1. Protection through dialogue and engagement\n**Tier I** includes dialogue, advocacy, mediation, engagement and suitable communication to prevent or end violence. Clarifying obligations, reducing misunderstandings and addressing disputes can protect people. Choose participants, timing and methods to avoid retaliation.\n\nDialogue requires preparation, objectives, relevant actors and follow-up. It is neither an excuse to delay other urgent measures nor proof that danger has ended merely because a party agrees to talk.\n\n### 2.2. Physical protection\n**Tier II** contributes to preventing violence or helping civilians avoid immediate harm through protective presence, informed patrols, safe movement or authorized refuge arrangements. Where necessary and authorized, it may involve threat or use of force within applicable limits.\n\nNot everyone contributing to Tier II uses force. Information, communication, medical care, transport and support can determine practical protection. Presence at the wrong time or place, or without response to warnings, may not reduce danger.\n\n### 2.3. Establishing a protective environment\n**Tier III** strengthens conditions preventing harm and recurrence, including State capacity, rule of law, accountability, communities and civil society according to the mandate. It supports sustainable protection beyond immediate threats.\n\nThe tiers have no fixed sequence or hierarchy. Dialogue, appropriate protective presence and improved reporting and response mechanisms may operate together. Tier I need not fail before Tier II is considered, nor must danger end before Tier III begins. **Remember:** Combine approaches according to threats, needs, authority and capability; do not assign each tier exclusively to one component."
+      },
+      "sourceIds": [
+        "C13",
+        "U40",
+        "POC2023"
+      ]
+    },
+    {
+      "id": "CORE-09-03",
+      "title": {
+        "vi": "3. Đánh giá đe dọa, tình trạng dễ bị hại và nguy cơ",
+        "en": "3. Assess threats, vulnerabilities and risks"
+      },
+      "body": {
+        "vi": "### 3.1. Ba khái niệm cần phân biệt\n**Đe dọa** liên quan chủ thể hoặc hành vi có thể gây hại. **Tình trạng dễ bị hại** là các điều kiện làm một người hoặc nhóm dễ chịu tác động hơn, chẳng hạn hạn chế di chuyển hoặc thiếu kênh cảnh báo. **Nguy cơ** xem khả năng và hậu quả hại trong sự tương tác đó. Đánh giá tình trạng dễ bị hại không phải quy lỗi cho người bị hại.\n\nKhông chỉ hỏi ai có vũ khí. Cần xem ai có thể gây hại, năng lực, ý định, hành vi trước đây, động cơ, cơ hội và thay đổi bối cảnh. Đồng thời hỏi ai có khả năng tự bảo vệ, tổ chức cảnh báo, hỗ trợ hoặc tác động để ngăn bạo lực. Người dân không chỉ là đối tượng thụ động cần nhận bảo vệ.\n\n### 3.2. Nhìn khác biệt trong cùng một cộng đồng\nMột tuyến đường có thể an toàn cho nhóm này nhưng nguy hiểm với nhóm khác vào thời điểm khác. Giới, tuổi, tình trạng khuyết tật, nơi ở, sinh kế hoặc việc phải chăm sóc người khác đều có thể ảnh hưởng tiếp xúc nguy cơ và khả năng tìm trợ giúp. Không kết luận toàn bộ phụ nữ hoặc trẻ em có cùng nhu cầu.\n\nTham vấn cần tiếp cận nhiều nhóm một cách an toàn và tránh chỉ nghe đại diện dễ liên hệ. Có thể cần hình thức riêng tư, phiên dịch hoặc địa điểm thuận tiện hơn. Không tạo nguy cơ mới bằng yêu cầu kể công khai ai gây hại hoặc đánh dấu người đã trao đổi với phái bộ.\n\n### 3.3. Ưu tiên có căn cứ và thừa nhận điều chưa biết\nĐánh giá phải nêu sự kiện, mức độ xác minh, diễn biến dự kiến, hậu quả, năng lực bảo vệ và phần còn thiếu. Số người có thể bị tác động quan trọng nhưng không phải tiêu chí duy nhất; hại nghiêm trọng với nhóm ít người cũng cần quan tâm. Không đợi bằng chứng chắc chắn tuyệt đối mới chuyển cảnh báo có căn cứ về nguy cơ tức thời.\n\nKhi dữ kiện thay đổi, cập nhật nhận định và nơi đã nhận thông tin. Một báo cáo cũ không được dùng như mô tả hiện tại chỉ vì chưa có bản mới. **Điểm cần nhớ:** Đánh giá tốt giúp chọn ưu tiên và phương án, không chỉ tạo một nhãn nguy cơ cao, trung bình hoặc thấp.",
+        "en": "### 3.1. Distinguish three concepts\nA **threat** concerns actors or conduct capable of harm. **Vulnerability** describes conditions increasing exposure or susceptibility, such as restricted movement or poor warning access. **Risk** considers likelihood and consequences in that interaction. Vulnerability analysis must not blame affected people.\n\nLook beyond weapons: Examine capability, intent, past conduct, motives, opportunities and contextual changes. Also identify community capacities for warning, support and prevention. Civilians are not merely passive recipients of protection.\n\n### 3.2. Differences within communities\nA route may be safe for one group but dangerous for another at a different time. Gender, age, disability, location, livelihoods and care responsibilities affect exposure and access to help. Women and children are not homogeneous groups.\n\nConsult diverse people safely rather than only accessible representatives. Privacy, interpretation or accessible locations may be needed. Do not expose people by requiring public allegations or visibly identifying mission interlocutors.\n\n### 3.3. Evidence-based priorities and explicit uncertainty\nDescribe facts, verification, anticipated developments, consequences, protection capacity and gaps. Numbers matter but are not the only criterion; severe risks to small groups also require attention. Credible urgent warnings need not await absolute certainty.\n\nUpdate assessments and prior recipients when facts change. An old report is not current merely because no replacement exists. **Remember:** Good assessment guides priorities and options rather than merely producing a risk label."
+      },
+      "sourceIds": [
+        "C13",
+        "C19"
+      ]
+    },
+    {
+      "id": "CORE-09-04",
+      "title": {
+        "vi": "4. Cảnh báo sớm phải kết nối với đáp ứng",
+        "en": "4. Early warning must connect to response"
+      },
+      "body": {
+        "vi": "### 4.1. Nhận dấu hiệu trước khi bạo lực xảy ra\nCảnh báo sớm có thể đến từ thay đổi hành vi, đe dọa công khai, di chuyển bất thường, gia tăng căng thẳng, thông tin từ cộng đồng hoặc dấu hiệu hạn chế tiếp cận. Một dấu hiệu riêng chưa đủ kết luận bạo lực chắc chắn xảy ra, nhưng có thể cần đối chiếu, theo dõi và báo ngay theo mức khẩn cấp.\n\nCơ chế như trợ lý liên lạc cộng đồng, mạng cảnh báo cộng đồng hoặc hoạt động đánh giá chung giúp tăng hiểu biết địa bàn theo mô hình từng phái bộ. Không chỉ lập một danh sách số điện thoại rồi coi hệ thống hoạt động. Phải có người nhận, năng lực hiểu, phương án xử lý và đường phản hồi khi kênh chính không dùng được.\n\n### 4.2. Báo điều cần cho quyết định\nThông tin cần làm rõ nguy cơ gì, ở đâu, lúc nào, ai có thể bị hại, nguồn và độ chắc chắn, điều đã làm và hỗ trợ đang cần. Báo nhanh không có nghĩa biến nghi vấn thành sự thật. Cần đánh dấu điểm chưa xác minh, nhưng không dùng sự chưa hoàn chỉnh để trì hoãn chuyển thông tin có thể cứu người.\n\nNgười nhận cần xác nhận và chuyển đúng nơi theo cơ chế. Nếu nguy cơ khẩn chưa được xử lý hoặc kênh không đáp ứng, sử dụng tuyến dự phòng và cấp báo phù hợp, giữ khả năng truy nguyên. Cán bộ báo tin không tự cho rằng gửi thông điệp là đã kết thúc phần việc.\n\n### 4.3. Bảo vệ hệ thống và người cung cấp\nNgười dân cần biết cách liên hệ, giới hạn và điều có thể mong đợi. Không hứa phản ứng ngay tại mọi nơi khi không có khả năng. Phải bảo vệ tên, vị trí và việc trao đổi; tránh chia sẻ rộng thông tin khiến nguồn bị trả đũa. Không dùng trẻ em làm đầu mối thu thông tin nghiệp vụ.\n\nKiểm tra định kỳ liên lạc, người trực, cập nhật đầu mối và cách xử lý mất kết nối. Đánh giá xem nhóm ít tiếp cận công nghệ có bị bỏ sót không. **Điểm cần nhớ:** Giá trị của cảnh báo sớm nằm ở chuỗi nhận biết, truyền đạt, quyết định và đáp ứng, không chỉ tốc độ gửi dữ liệu.",
+        "en": "### 4.1. Recognize signs before violence\nWarnings may arise from changing conduct, public threats, unusual movements, rising tensions, community information or access restrictions. A single indicator does not prove violence is certain, but may require checking, monitoring and urgent reporting.\n\nCommunity liaison assistants, alert networks and joint assessments can improve awareness under mission arrangements. A contact list alone is not a functioning system: Identify recipients, understanding, response capacity and backup channels.\n\n### 4.2. Report what decisions require\nDescribe the threat, place, time, potentially affected people, source, confidence, action taken and assistance needed. Speed does not justify turning allegations into facts. Mark uncertainty without delaying potentially life-saving information until it is complete.\n\nRecipients should acknowledge and route information. Use appropriate backup and escalation arrangements if urgent concerns remain unaddressed or channels fail, preserving traceability. Sending a message does not automatically complete the reporter’s responsibilities.\n\n### 4.3. Protect contributors and system reliability\nExplain contact methods, limits and realistic expectations. Do not promise immediate response everywhere. Protect identities, locations and contacts against retaliation. Children must not be used as operational information sources.\n\nCheck communications, duty coverage, contacts and failure procedures. Assess exclusion of people with limited technology access. **Remember:** Early warning matters through recognition, transmission, decisions and response, not data speed alone."
+      },
+      "sourceIds": [
+        "C13",
+        "C19"
+      ]
+    },
+    {
+      "id": "CORE-09-05",
+      "title": {
+        "vi": "5. UNPOL, dân sự, quân sự và bảo đảm phối hợp thế nào?",
+        "en": "5. Coordinating police, civilian, military and support work"
+      },
+      "body": {
+        "vi": "### 5.1. Có người chủ trì, không xóa trách nhiệm riêng\nLãnh đạo phái bộ chịu trách nhiệm tổ chức thực hiện mandate POC; các thành phần cần cùng đánh giá và ưu tiên. Cố vấn POC hỗ trợ tham mưu, phối hợp, theo dõi và lồng ghép. Sự có mặt của một đầu mối chuyên trách không khiến những người khác được đứng ngoài hoặc chuyển mọi quyết định cho đầu mối đó.\n\nCác cơ chế phối hợp cần rõ người chủ trì, nhiệm vụ, nguồn lực, điều kiện hành động, thông tin phải chuyển và yêu cầu báo cáo. Giữ tuyến chỉ huy cảnh sát, quân sự và ranh giới chức năng. Một hoạt động chung không tự tạo quyền chỉ huy đối với đơn vị khác hoặc tổ chức nhân đạo.\n\n### 5.2. Đóng góp của IPO và FPU\nIPO có thể đóng góp qua tiếp xúc cộng đồng, phân tích, cố vấn, giám sát, lập kế hoạch và công việc chuyên môn theo vị trí. FPU có thể cung cấp năng lực cảnh sát theo đơn vị để bảo vệ, quản lý trật tự hoặc thực hiện nhiệm vụ được giao. Không coi POC chỉ là tuần tra có vũ trang, hoặc mặc định mọi cán bộ UNPOL có quyền bắt và tạm giữ trong mọi trường hợp.\n\nKhi hỗ trợ cảnh sát sở tại, cần chú ý cách lực lượng này đối xử với người dân, nguy cơ lạm quyền và điều kiện hỗ trợ. Phát triển năng lực, giám sát và HRDDP có thể liên quan trực tiếp đến hiệu quả bảo vệ. Không tăng năng lực mà bỏ qua nguy cơ nguồn lực bị dùng để gây hại.\n\n### 5.3. Bảo đảm và các đối tác\nLiên lạc, phương tiện, y tế, nhiên liệu và nhân sự phù hợp là điều kiện cho phương án thực hiện được. Đơn vị phải báo khả năng thực tế, hạn chế và tác động; không ghi đủ năng lực khi chưa kiểm tra. Thay đổi nguồn lực có thể buộc điều chỉnh ưu tiên hoặc yêu cầu cấp quyết định hỗ trợ.\n\nTổ chức nhân đạo, quốc gia và cộng đồng là đối tác theo vai trò. Phối hợp cần tôn trọng nguyên tắc nhân đạo, độc lập và bảo vệ thông tin; không ép tổ chức chia sẻ dữ liệu nhạy cảm hoặc chấp nhận hỗ trợ họ đánh giá là không phù hợp. **Điểm cần nhớ:** Phối hợp hiệu quả biến nhiều phần việc thành đáp ứng nhất quán, chứ không biến mọi chủ thể thành một đơn vị.",
+        "en": "### 5.1. Identify leadership without erasing roles\nMission leadership organizes POC implementation and component priorities. POC advisers support advice, coordination, monitoring and mainstreaming. A specialist focal point does not relieve others of duties or inherit every decision.\n\nDefine the lead, tasks, resources, action conditions, information and reporting requirements. Preserve police and military command and functional boundaries. Joint activity does not automatically confer command over another unit or humanitarian organization.\n\n### 5.2. IPO and FPU contributions\nIPOs may contribute engagement, analysis, advice, monitoring, planning and specialist work. FPUs provide organized police capability for authorized protection, public-order and other assignments. POC is not limited to armed patrols, and UNPOL status does not confer universal arrest or detention powers.\n\nSupport to host-State police must consider treatment of civilians, abuse risks and support conditions. Capacity development, monitoring and HRDDP can directly affect protection. Do not strengthen capability while ignoring potential misuse.\n\n### 5.3. Support and partners\nCommunications, transport, medical support, fuel and suitable personnel enable implementation. Report actual capacity, gaps and consequences instead of declaring unverified readiness. Resource changes may require adjusted priorities or higher-level assistance decisions.\n\nNational, community and humanitarian partners have distinct roles. Respect humanitarian principles, independence and information safeguards; do not compel sensitive data sharing or unsuitable assistance. **Remember:** Coordination aligns contributions without converting every actor into one unit."
+      },
+      "sourceIds": [
+        "U40",
+        "C19"
+      ]
+    },
+    {
+      "id": "CORE-09-06",
+      "title": {
+        "vi": "6. Lập kế hoạch cho trước, trong và sau nguy cơ",
+        "en": "6. Plan before, during and after threats"
+      },
+      "body": {
+        "vi": "### 6.1. Bốn góc nhìn thời gian\nCó thể tổ chức kế hoạch theo phòng ngừa, hành động ngăn nguy cơ cận kề, đáp ứng khi hại xảy ra và củng cố sau khủng hoảng. Các giai đoạn có thể chồng lấn và cần quay lại; không phải lịch cứng cho mọi sự kiện. Phòng ngừa vẫn cần tiếp tục khi đang đáp ứng một đe dọa khác.\n\nTrước nguy cơ, chú ý quan hệ cộng đồng, đánh giá, đối thoại, khả năng bảo vệ của đối tác và chuẩn bị nguồn lực. Khi có dấu hiệu cận kề, cập nhật đánh giá, báo và tổ chức phần việc được cho phép để tránh hại. Khi xảy ra bạo lực, thực hiện trách nhiệm bảo vệ theo mandate, khả năng và chỉ huy, không chờ hoàn thiện hồ sơ mới xem xét hành động khẩn cấp được giao.\n\n### 6.2. Phương án phải tính tác động đối với người dân\nHoạt động của phái bộ có thể làm thay đổi nơi tập trung, đường di chuyển hoặc hành vi của chủ thể gây hại. Cần xem người dân có bị chuyển nguy cơ sang địa điểm khác, mất tiếp cận dịch vụ hoặc bị nhận diện là cộng tác với UN không. Không chỉ đánh giá nguy cơ đối với lực lượng mà bỏ qua người được bảo vệ.\n\nNếu có hỗ trợ đi lại hoặc nơi trú, phải phối hợp về an toàn, điều kiện, người chịu trách nhiệm và thông tin cho người dân. Không hứa một điểm an toàn tuyệt đối khi chưa được đánh giá và cho phép. Người cần hỗ trợ di chuyển, trẻ em đi một mình hoặc người cần y tế cần được tính trong phương án, không để đến lúc thực hiện mới phát hiện.\n\n### 6.3. Củng cố sau khủng hoảng\nSau sự cố, vẫn có thể có trả đũa, bạo lực mới, nhu cầu y tế, mất liên lạc gia đình và trở ngại trở về. Cần phối hợp bảo vệ, chuyển tuyến và theo dõi theo nhiệm vụ. Củng cố gồm khôi phục liên hệ, cập nhật đánh giá, hỗ trợ cơ chế pháp quyền và điều chỉnh hoạt động để giảm tái diễn.\n\n**Điểm cần nhớ:** Một hoạt động kết thúc không có nghĩa nguy cơ đã hết. Kế hoạch cần giải thích ai tiếp tục theo dõi, thông tin nào cần cập nhật và điều kiện nào cho phép giảm, thay đổi hoặc kết thúc phần việc.",
+        "en": "### 6.1. Four time perspectives\nPlan across prevention, pre-emption of imminent danger, response and consolidation after a crisis. Phases may overlap and recur rather than form a rigid schedule. Prevention continues while other threats require response.\n\nBefore danger, build relationships, assess threats, engage and prepare partner capacity and resources. As danger becomes imminent, update assessments, report and implement authorized prevention. During violence, fulfil protection responsibilities within the mandate, capabilities and command, rather than waiting for complete paperwork before authorized urgent action.\n\n### 6.2. Consider effects on civilians\nMission activity may change concentrations, routes or perpetrator behaviour. Assess displacement of risk, reduced service access and exposure of civilians as UN collaborators. Do not assess only force safety while overlooking those being protected.\n\nSafe-movement or refuge support requires agreed safety, conditions, responsibilities and communication. Never promise an absolutely safe location without assessment and authorization. Plan for assisted movement, unaccompanied children and medical needs rather than discovering them during delivery.\n\n### 6.3. Consolidation after crisis\nRetaliation, renewed violence, medical needs, family separation and return obstacles may continue. Coordinate protection, referrals and monitoring within tasking. Restore contacts, update analysis and support rule-of-law arrangements to reduce recurrence.\n\n**Remember:** Ending an activity does not establish that danger has ended. Specify follow-up responsibility, information needs and conditions for changing or concluding tasks."
+      },
+      "sourceIds": [
+        "U40",
+        "C19"
+      ]
+    },
+    {
+      "id": "CORE-09-07",
+      "title": {
+        "vi": "7. Đánh giá tác động và điều chỉnh có trách nhiệm",
+        "en": "7. Assess effects and adjust responsibly"
+      },
+      "body": {
+        "vi": "### 7.1. Hoạt động nhiều chưa chứng minh bảo vệ tốt\nSố chuyến tuần tra, cuộc gặp hoặc thông điệp cảnh báo là đầu ra. Muốn đánh giá hiệu quả, cần xem đe dọa và tiếp xúc nguy cơ thay đổi thế nào, người dân có tiếp cận an toàn hơn không, nhóm nào còn bị bỏ sót và có hại phát sinh không. Dữ liệu định lượng cần đi cùng quan sát và phản hồi phù hợp.\n\nSố vụ báo giảm có thể là tiến bộ hoặc biểu hiện mất niềm tin, di dời, gián đoạn liên lạc. Không quy toàn bộ thay đổi cho một hoạt động của đơn vị. Báo cáo cần nêu căn cứ, giới hạn, yếu tố ảnh hưởng và điều chưa biết để cấp quyết định hiểu đúng.\n\n### 7.2. Báo cáo cả phần chưa làm được\nNếu lực lượng không tiếp cận được địa bàn hoặc phản ứng chậm, cần giải thích nguyên nhân, tác động, việc đã thử và hỗ trợ cần. Không dùng một câu chung “ngoài khả năng” để thay phân tích. Đồng thời không tô quá khả năng hoặc hứa với cộng đồng những gì chưa được tổ chức thực hiện.\n\nThông tin về thương vong, hành vi bị cáo buộc và người cung cấp phải chính xác, có mức độ xác minh và được bảo vệ. Khi có dấu hiệu sai phạm hoặc tác động xấu từ chính hoạt động UN, báo theo cơ chế; không chỉ ghi hại do bên ngoài. Tính không gây thêm hại cần được kiểm tra bằng thực tế.\n\n### 7.3. Rà soát và bàn giao\nRà soát xác định điều gì hiệu quả, thất bại hoặc chưa rõ, rồi giao biện pháp sửa với người thực hiện và cách theo dõi. Cập nhật kế hoạch, liên lạc, nguồn lực và giả định; tránh chỉ lưu một biên bản rút kinh nghiệm. Khi bàn giao, cần chuyển nguy cơ còn tồn, đầu mối, quyết định đang chờ và giới hạn thông tin qua hệ thống được phép.\n\n**Kết thúc bài:** Bảo vệ dân thường kết nối hiểu nguy cơ, hành động đúng thẩm quyền, phối hợp và đánh giá tác động. Mục tiêu là giảm hại thật đối với con người; hoạt động, báo cáo và hình ảnh hiện diện chỉ có giá trị khi phục vụ mục tiêu đó.",
+        "en": "### 7.1. Activity does not prove protection\nPatrols, meetings and warning messages are outputs. Assess changes in threats, exposure, safe access, excluded groups and unintended harm. Combine suitable quantitative data with observation and community feedback.\n\nFewer reports may indicate improvement, lost trust, displacement or communications failure. Do not attribute every change to one unit activity. Explain evidence, limitations, influences and uncertainty.\n\n### 7.2. Report unmet needs honestly\nExplain access barriers or delayed response, consequences, attempted measures and assistance required. A generic beyond-capacity statement is not analysis. Equally, do not exaggerate capability or make unorganized commitments to communities.\n\nProtect identities and distinguish verified casualties, allegations and uncertainty. Report harm or misconduct arising from UN activity as well as external conduct. Test do-no-harm commitments against actual effects.\n\n### 7.3. Review and hand over\nIdentify what worked, failed or remains uncertain, then assign correction and follow-up. Update plans, contacts, resources and assumptions rather than storing a lessons-learned minute alone. Handover must preserve outstanding risks, contacts, pending decisions and information limits through approved systems.\n\n**Retain:** POC connects risk understanding, authorized action, coordination and impact assessment. Its purpose is reduced harm to people; activities, reporting and visible presence matter when they support that result."
+      },
+      "sourceIds": [
+        "C13",
+        "C19",
+        "U40"
+      ]
+    }
+  ],
+  "source_ids": [
+    "C13",
+    "C19",
+    "U40",
+    "POC2023"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "POC",
+      "definition": {
+        "vi": "Bảo vệ dân thường; trọng tâm mandate là đe dọa bạo lực thể chất.",
+        "en": "Protection of civilians, focused on threats of physical violence in the mandate."
+      }
+    },
+    {
+      "term": "Tier I / II / III",
+      "definition": {
+        "vi": "Đối thoại, tiếp xúc / bảo vệ thể chất / môi trường bảo vệ.",
+        "en": "Dialogue and engagement / physical protection / protective environment."
+      }
+    },
+    {
+      "term": "Threat / Vulnerability / Risk",
+      "definition": {
+        "vi": "Đe dọa / điều kiện dễ chịu hại / khả năng và hậu quả hại.",
+        "en": "Threat / susceptibility conditions / likelihood and consequences of harm."
+      }
+    },
+    {
+      "term": "CLA / CAN",
+      "definition": {
+        "vi": "Trợ lý liên lạc cộng đồng / mạng cảnh báo cộng đồng.",
+        "en": "Community liaison assistant / community alert network."
+      }
+    },
+    {
+      "term": "Pre-emption / Consolidation",
+      "definition": {
+        "vi": "Ngăn nguy cơ cận kề / củng cố sau khủng hoảng.",
+        "en": "Pre-emption of imminent threats / consolidation after crisis."
+      }
+    },
+    {
+      "term": "Do no harm",
+      "definition": {
+        "vi": "Kiểm soát hại có thể phát sinh từ chính hoạt động bảo vệ.",
+        "en": "Prevent and reduce harm arising from protective activities themselves."
+      }
+    }
+  ],
+  "diagram": null,
+  "contentVersion": "batch-02-expanded-v1-2026-10-28",
+  "sourceIntro": {
+    "vi": "Tài liệu nền và đọc bổ sung để đối chiếu. Lời giảng Việt–Anh và câu hỏi được biên soạn cho Handbook; hình gốc ghi rõ tài liệu, trang PDF và có lời giải thích riêng.",
+    "en": "Primary and supplementary reading for comparison. Bilingual teaching and questions are authored for the Handbook; original figures identify materials and PDF pages and have separate explanations."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Bản biên soạn đợt 2 ngày 28/10/2026. Hai ngôn ngữ phục vụ học tập, không phải bản dịch chính thức UN. Danh mục CORE là cách tổ chức của Handbook, không phải thứ tự bài chính thức của UN.",
+      "Bài dạy kiến thức và chuẩn mực chung, không tự trao thẩm quyền hoặc thay mandate, DUF/ROE và hướng dẫn phái bộ áp dụng cho vị trí. Học trực tuyến không thay thế huấn luyện thực hành và đánh giá năng lực.",
+      "Nguồn theo mục xác định tài liệu nền, không coi mọi câu là trích nguyên văn. Ví dụ ngắn là phần giảng biên soạn. Hình giữ tiếng Anh gốc, có chú giải Việt–Anh; số trang PDF có thể khác số slide.",
+      "CPTM Lesson 2.4 bản 2025 và UNPOL STM Lesson 9 bản 2021 là tài liệu giảng nền. Các trang của Lesson 2.10 trong bộ CPTM còn có nhãn 2024; bài dùng nội dung phối hợp và đánh giá, không trình bày tình huống lịch sử là mandate hiện hành. Khái niệm ba tầng được đối chiếu thêm với nội dung chính sách POC 2023 của UN được truy xuất qua web."
+    ],
+    "en": [
+      "Batch 2 authored on 28 October 2026. The bilingual text is learning material, not an official UN translation. CORE numbering belongs to the Handbook rather than official UN lesson numbering.",
+      "The lesson teaches general knowledge and standards. It does not confer powers or replace applicable mandates, DUF/ROE and mission instructions. Online study does not replace practical training and competence assessment.",
+      "Section mapping identifies the knowledge base, not a verbatim source for every sentence. Short examples are authored explanations. Figures retain original English with bilingual commentary; PDF pages may differ from slide numbers.",
+      "CPTM Lesson 2.4 (2025) and UNPOL STM Lesson 9 (2021) provide the teaching base. Some CPTM Lesson 2.10 pages retain 2024 labels; coordination and assessment concepts are used without treating historical case settings as current mandates. The three-tier concept was also compared with retrieved UN POC Policy 2023 content."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bảo vệ dân thường cần hiểu nguy cơ, kết hợp công cụ và tổ chức đáp ứng. Bài học làm rõ phạm vi mandate, ba hướng POC, đánh giá, cảnh báo sớm, phối hợp và cách kiểm tra hại thực tế.",
+      "en": "Protecting civilians requires risk understanding, combined tools and organized response. Study mandate scope, three tiers, assessment, early warning, coordination and actual effects."
+    },
+    "subtitle": {
+      "vi": "Hiểu nguy cơ · Phối hợp toàn phái bộ · Giảm hại thực tế",
+      "en": "Understand risks · Coordinate mission-wide · Reduce actual harm"
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích trọng tâm POC và quan hệ trách nhiệm nước sở tại với nhiệm vụ UN.",
+        "Phân biệt ba hướng bảo vệ và tính bổ sung, không theo thứ tự cứng.",
+        "Đánh giá đe dọa, tình trạng dễ bị hại, năng lực và khoảng trống.",
+        "Kết nối cảnh báo sớm với quyết định, đáp ứng và bảo vệ nguồn.",
+        "Làm rõ đóng góp UNPOL, đối tác, bảo đảm và đánh giá tác động."
+      ],
+      "en": [
+        "Explain POC scope and the relationship between State and UN duties.",
+        "Distinguish three complementary protection tiers without fixed sequencing.",
+        "Assess threats, vulnerability, capacity and gaps.",
+        "Connect early warning with decisions, response and source protection.",
+        "Explain UNPOL, partner and support contributions and impact assessment."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc 7 mục trong tab Nội dung bài học; xem hình và lời giải thích ở mục liên quan. Làm 12 câu kiểm tra, đọc phản hồi và quay lại mục được chỉ ra. VI/EN giữ đáp án trong phiên mở trang; tải lại trang bắt đầu lại. Bấm hình để xem lớn.",
+      "en": "Read the lesson sections and figures with their explanations. Complete 12 questions, review feedback and revisit indicated sections. VI/EN retains answers during the session; reloading starts again. Click figures to enlarge them."
+    }
+  },
+  "figures": [
+    {
+      "chapter": 1,
+      "image": "assets/lesson-figures/batch-02/C13-p20.png",
+      "alt": {
+        "vi": "Hình 1. Ba hướng bảo vệ dân thường",
+        "en": "Figure 1. Three protection tiers"
+      },
+      "caption": {
+        "vi": "Hình 1. Ba hướng bảo vệ dân thường",
+        "en": "Figure 1. Three protection tiers"
+      },
+      "explanation": {
+        "vi": "Hình nêu rõ thực hiện đồng thời và không có thứ bậc cố định. Hãy liên hệ phần việc của mình với cả đối thoại, bảo vệ thể chất và môi trường bảo vệ; không chia cứng một hướng cho một thành phần hoặc đợi hướng trước thất bại.",
+        "en": "The figure states simultaneity and no inherent hierarchy. Relate work to dialogue, physical protection and the protective environment without assigning one tier exclusively to a component or awaiting failure of another."
+      },
+      "sourceLabel": "UN CPTM 2025 · Lesson 2.4",
+      "pdfPage": 20
+    },
+    {
+      "chapter": 5,
+      "image": "assets/lesson-figures/batch-02/U40-p22.png",
+      "alt": {
+        "vi": "Hình 2. Bốn giai đoạn công việc POC",
+        "en": "Figure 2. Four operational phases of POC"
+      },
+      "caption": {
+        "vi": "Hình 2. Bốn giai đoạn công việc POC",
+        "en": "Figure 2. Four operational phases of POC"
+      },
+      "explanation": {
+        "vi": "Phòng ngừa, ngăn nguy cơ cận kề, đáp ứng và củng cố là các góc nhìn để chuẩn bị công việc. Dòng chú thích trong hình nhắc chúng không nhất thiết tuần tự, có thể đồng thời. Cần xem cả ba hướng bảo vệ ở mỗi giai đoạn theo tình hình.",
+        "en": "Prevention, pre-emption, response and consolidation organize preparation. The figure explicitly notes that phases need not be sequential and may overlap. Consider all three tiers across phases according to circumstances."
+      },
+      "sourceLabel": "UNPOL STM 2021 · Lesson 9",
+      "pdfPage": 22
+    }
+  ],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft",
+  "figureZoom": true
+}

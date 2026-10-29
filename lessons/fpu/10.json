@@ -1,0 +1,703 @@
+{
+  "schemaVersion": 2,
+  "id": "FPU-10",
+  "area": "fpu",
+  "groupKey": "FPU-M4",
+  "group": {
+    "vi": "Chiến thuật cảnh sát",
+    "en": "Police tactics"
+  },
+  "title": {
+    "vi": "Phối hợp tổ công tác và di chuyển chiến thuật",
+    "en": "Team coordination and controlled movement"
+  },
+  "summary": {
+    "vi": "Di chuyển có tổ chức cần mục tiêu, chuẩn bị, liên lạc, quân số và phối hợp được duy trì. Bài học kết nối bảo vệ dân thường, điểm chuyển trách nhiệm, sự cố và huấn luyện tập thể.",
+    "en": "Organized movement requires maintained purpose, preparation, communication, accountability and coordination, connecting civilian safeguards, handovers, incidents and collective training."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "MOVE",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-032%20Tactical%20Progression.pdf",
+  "order": 203,
+  "sections": [
+    {
+      "id": "FPU-10-01",
+      "title": {
+        "vi": "1. Di chuyển theo tổ chức và mục tiêu bảo vệ",
+        "en": "1. Organized movement and protection objectives"
+      },
+      "body": {
+        "vi": "### 1.1. Di chuyển là một phần nhiệm vụ\nDi chuyển của tổ công tác phải phục vụ mục tiêu đã được giao, trong thẩm quyền và điều kiện an toàn. Không chỉ hỏi làm sao tới nơi, mà cần biết vì sao tới, ai được giao việc gì, điều kiện nào cần giữ và khi nào phải báo để điều chỉnh. Một nhóm đến đúng địa điểm nhưng không còn liên lạc, thiếu người hoặc không hiểu nhiệm vụ chưa tạo khả năng thực hiện.\n\nTrong môi trường phái bộ, cần bảo vệ dân thường, nhân sự đơn vị, đối tác và cả người đang được kiểm soát. Không dùng ý tưởng an toàn cho lực lượng để bỏ qua hại đối với cộng đồng. Cũng không coi mọi người trên tuyến là nguồn đe dọa chỉ vì họ chưa được biết trong kế hoạch.\n\n### 1.2. Khả năng phối hợp phải được chuẩn bị\nCác thành viên cần hiểu vai trò, tín hiệu, cách xác nhận, người chỉ huy và phương án khi điều kiện đổi. Giỏi riêng lẻ chưa đủ nếu mỗi người sử dụng một quy ước khác. Khi làm cùng đơn vị khác, cần làm rõ từ ngữ và đầu mối thay vì giả định ai cũng hiểu giống nhau.\n\nTài liệu huấn luyện phân biệt kiến thức nền với thực hành các kỹ thuật di chuyển. Những kỹ thuật trong địa hình, công trình hoặc môi trường nguy cơ cao phải được giảng viên hướng dẫn trên địa bàn tập phù hợp. Bài này xây nền phối hợp, kiểm soát và bảo vệ để người học hiểu yêu cầu của phần thực hành, không tự chứng nhận kỹ năng qua việc đọc.\n\n### 1.3. Không đồng nhất di chuyển với quyền can thiệp\nĐược phép tới một địa điểm không tự trao quyền vào nhà, khám xét, kiểm soát người hoặc sử dụng vũ lực. Khi nhiệm vụ phát sinh việc mới, cán bộ cần xác định căn cứ, báo và nhận hướng dẫn theo thẩm quyền. Một phương án nhanh hơn nhưng vượt quyền không phải lựa chọn hợp lệ chỉ vì giảm thời gian.\n\n### 1.4. Hiệu quả cần đánh giá\nĐánh giá việc tới nơi an toàn, giữ tính gắn kết, giao tiếp và khả năng tiếp tục nhiệm vụ. Xem cả tác động như cản đường dân, tạo lo lắng, làm lộ người cung cấp tin hoặc ảnh hưởng hoạt động cứu trợ. Mục tiêu là thực hiện phần việc có trách nhiệm trong kế hoạch chung, không chỉ giữ một hình thức đội ngũ.",
+        "en": "### 1.1. Movement serves an assignment\nTeam movement must support an authorized objective under safe conditions. Establish why the team moves, roles, required conditions and review points. Arrival without communications, personnel or a shared task understanding does not establish capability.\n\nProtect civilians, members, partners and people under control. Force safety does not remove community safeguards, and unfamiliar people along a route are not automatically threats.\n\n### 1.2. Prepare interoperability\nMembers need common roles, signals, acknowledgement, command and change arrangements. Individual skill is insufficient when conventions differ. Clarify terminology and contacts with other units.\n\nTerrain-, building- and high-risk movement techniques require competent instruction in suitable training conditions. This lesson establishes coordination, control and protection foundations for practical learning rather than certifying technique through reading.\n\n### 1.3. Access is not unrestricted authority\nPermission to reach a location does not automatically authorize entry, search, custody or force. New tasks require grounds and appropriate direction. Faster action outside authority is not justified merely by saving time.\n\n### 1.4. Assess effects\nConsider safe arrival, cohesion, communication and continuing capability, together with civilian access, anxiety, source exposure and humanitarian effects. Responsible contribution to the overall plan matters more than formation appearance."
+      },
+      "sourceIds": [
+        "MOVE",
+        "POLICY"
+      ]
+    },
+    {
+      "id": "FPU-10-02",
+      "title": {
+        "vi": "2. Chuẩn bị trước khi rời vị trí",
+        "en": "2. Preparation before departure"
+      },
+      "body": {
+        "vi": "### 2.1. Hiểu nhiệm vụ và phạm vi\nTổ trưởng cần phổ biến mục tiêu, thời gian, địa điểm, phần việc, giới hạn và yêu cầu báo cáo. Thành viên cần biết ai chỉ huy khi người phụ trách không thể tiếp tục. Kiểm tra hiểu bằng yêu cầu giải thích phần việc, đặc biệt khi có người mới hoặc ngôn ngữ khác.\n\nMột yêu cầu chung như “đi hỗ trợ” chưa đủ để tổ chức hành động. Cần làm rõ đang hỗ trợ ai, đáp ứng việc gì, ai quyết định thay đổi và kết thúc khi nào. Những điểm chưa rõ phải được nêu trước hoặc báo sớm trong tình huống gấp, không để từng thành viên tự suy cách hiểu.\n\n### 2.2. Bức tranh địa bàn và điều kiện\nXem thông tin về đường tiếp cận, thời tiết, điều kiện ánh sáng, nơi có dân, hoạt động khác và nguy cơ đã biết. Phân biệt dữ kiện được xác nhận với giả định. Một tuyến từng dùng được có thể thay đổi vì ngập, sự cố, tập trung đông người hoặc yêu cầu an ninh.\n\nCần cơ chế cập nhật thông tin và quyết định khi điều kiện thay đổi. Không tự tạo tuyến khác ngoài phạm vi chỉ vì thấy đường ngắn hơn. Thay đổi có thể ảnh hưởng liên lạc, hỗ trợ, giới hạn triển khai và những đơn vị đang chờ phối hợp.\n\n### 2.3. Người, trang bị và bảo đảm\nKiểm tra quân số thực, vai trò, tình trạng sức khỏe, mệt mỏi, trang bị bảo vệ theo nhiệm vụ, phương tiện, thông tin và y tế. Người cần sử dụng thiết bị phải được làm quen, không chỉ được phát. Đồ có trong danh sách nhưng hết pin hoặc thiếu phụ kiện không tạo năng lực.\n\nBảo đảm gồm khả năng duy trì, hỗ trợ khi có người bị thương hoặc phương tiện hỏng và điểm liên hệ tiếp nhận. Không chờ tới sự cố mới biết tổ không có cách gọi y tế hoặc không rõ vị trí của mình. Nếu thiếu điều kiện quan trọng, báo người giao nhiệm vụ để có quyết định phù hợp.\n\n### 2.4. Kiểm tra điểm nối\nTrước rời vị trí, xác nhận đã nhận lệnh đúng phiên bản, các thành viên hiểu, liên lạc hoạt động và người nhận báo cáo biết tổ bắt đầu. Phân công theo dõi quân số và trang bị khi cần; giữ thông tin nhạy cảm trong phạm vi biết. Hoàn thành bảng kiểm không thay việc xác nhận thực tế những hạng mục quyết định an toàn.",
+        "en": "### 2.1. Understand task and scope\nBrief the objective, timing, location, assignments, limits, reporting and succession. Check understanding, especially with newcomers and language differences.\n\n“Go and support” is insufficient. Establish the supported actor, task, change authority and end conditions. Clarify gaps rather than leaving members to invent different interpretations.\n\n### 2.2. Understand conditions\nConsider access, weather, visibility, civilians, other activity and known threats. Separate confirmed facts from assumptions. Previously usable routes may be affected by flooding, incidents, crowds or security restrictions.\n\nMaintain updates and change decisions. An unauthorized shortcut can disrupt communications, support, deployment limits and partner coordination.\n\n### 2.3. People, equipment and support\nVerify actual staffing, roles, health, fatigue, task-specific protection, transport, communications and medical arrangements. Equipment needs competent users and working accessories. A listed device without power provides no capability.\n\nPlan sustainment, casualty assistance, breakdown support and receiving contacts. Do not wait for an emergency to discover missing medical access or uncertain location. Report critical gaps for appropriate tasking decisions.\n\n### 2.4. Check interfaces\nConfirm the current order, shared understanding, functioning communications and departure reporting. Assign accountability where needed and protect sensitive information. A completed checklist cannot replace actual verification of critical conditions."
+      },
+      "sourceIds": [
+        "CSC010",
+        "MOVE"
+      ]
+    },
+    {
+      "id": "FPU-10-03",
+      "title": {
+        "vi": "3. Liên lạc và duy trì bức tranh chung",
+        "en": "3. Communications and shared awareness"
+      },
+      "body": {
+        "vi": "### 3.1. Thông tin ngắn, rõ và đúng người\nLiên lạc cần giúp người nhận hiểu ai báo, đang ở đâu, điều gì xảy ra, ảnh hưởng gì, đã làm gì và cần gì. Dùng quy ước phái bộ, từ ngữ rõ và thứ tự ưu tiên. Không chen báo cáo thường lệ làm cản thông tin cấp cứu. Cũng không gửi một tin quá ngắn đến mức người nhận không thể phân biệt quan sát với nhận định.\n\nNói đã gửi chưa có nghĩa đã được nhận. Thông tin quan trọng cần xác nhận theo cơ chế; khi không có phản hồi, thực hiện phương án dự phòng đã được giao. Không lặp phát thông tin nhạy cảm lên mọi kênh chỉ để mong ai đó nghe thấy.\n\n### 3.2. Thống nhất tín hiệu và giới hạn\nTín hiệu bằng lời hoặc dấu hiệu không lời phải được hướng dẫn, thực hành và hiểu chung. Cùng một động tác có thể mang nghĩa khác giữa đơn vị, nên không đoán. Bài đọc không thay việc giảng viên kiểm tra từng người nhận và đáp ứng đúng trong buổi tập.\n\nTránh dùng dấu hiệu không chính thức để thay lệnh quan trọng chưa được người nhận xác nhận. Khi điều kiện cản nghe hoặc nhìn, tổ cần cách giữ liên lạc phù hợp đã được huấn luyện, thay vì tự tăng tốc để bám người trước.\n\n### 3.3. Cập nhật quân số và khả năng\nNgười phụ trách cần biết thành viên có còn đầy đủ và đủ điều kiện thực hiện không, ai đang có vấn đề và năng lực nào giảm. Khi một người tách vì nhiệm vụ hoặc y tế, phải có phân công và xác nhận. Không giả định người phía sau đã được nhóm khác nhận chỉ vì không còn nhìn thấy.\n\nGiữ bức tranh chung không có nghĩa mỗi người phải biết mọi thông tin nhạy cảm. Phân phối theo vai trò, nhưng bảo đảm ai có nhiệm vụ bảo vệ hoặc phối hợp nhận đủ thông tin cần hành động.\n\n### 3.4. Khi liên lạc giảm hoặc mất\nNhận biết mất chức năng, báo qua phương án thay thế nếu có và làm theo điều kiện đã được thống nhất. Không tự tiếp tục mọi việc như trước khi lệnh và hỗ trợ không còn bảo đảm. Cũng không đặt quy tắc chung “mất sóng thì luôn dừng ở mọi nơi”; quyết định phải tính nguy cơ địa bàn, nhiệm vụ và hướng dẫn. Điều cần chuẩn bị từ đầu là ai quyết định, giới hạn hành động và cách khôi phục liên hệ.",
+        "en": "### 3.1. Clear, directed messages\nCommunicate identity, location, event, implications, action and need using mission conventions. Routine traffic must not obstruct emergencies. Excessive brevity must not obscure observation versus assessment.\n\nTransmission does not prove receipt. Obtain required acknowledgement and follow backup arrangements when it fails. Do not broadcast sensitive information indiscriminately across channels.\n\n### 3.2. Shared signals\nVerbal and non-verbal signals require instruction, rehearsal and common meaning. Similar gestures can mean different things across units. Reading cannot establish correct recognition and response.\n\nInformal signs must not replace unacknowledged critical orders. When hearing or visibility is limited, use trained continuity arrangements rather than simply increasing pace.\n\n### 3.3. Personnel and capability updates\nTrack members, condition, problems and capability loss. Authorized separation for duties or care requires assignment and confirmation. Absence from view does not prove acceptance by another team.\n\nShared awareness does not require unrestricted access to sensitive information. Give each role enough information to fulfil protection and coordination responsibilities.\n\n### 3.4. Communications failure\nRecognize failure, use authorized alternatives and follow agreed conditions. Do not automatically continue when command and support are no longer assured. Equally, no universal rule requires stopping everywhere regardless of local danger. Prepare decision authority, action limits and restoration arrangements beforehand."
+      },
+      "sourceIds": [
+        "MOVE",
+        "CSC012"
+      ]
+    },
+    {
+      "id": "FPU-10-04",
+      "title": {
+        "vi": "4. Kiểm soát di chuyển và bảo vệ dân thường",
+        "en": "4. Movement control and civilian safeguards"
+      },
+      "body": {
+        "vi": "### 4.1. Giữ tổ hoạt động thống nhất\nTổ trưởng tổ chức nhịp phù hợp nhiệm vụ, người và điều kiện, duy trì nhận biết và khả năng báo. Không chỉ quan sát người đi đầu; cần xem toàn tổ có thể tiếp tục, có ai tụt vì mệt, trang bị hoặc hiểu sai không. Mỗi thành viên báo vấn đề sớm, không che để tránh ảnh hưởng tiến độ.\n\nTính gắn kết không đồng nghĩa mọi người tự làm cùng một việc. Vai trò phải được giữ và điều chỉnh rõ khi có người không thể thực hiện. Nếu thay người, xác nhận người nhận có năng lực, thông tin và trang bị tương ứng. Đổi tên trên phân công không tự tạo khả năng.\n\n### 4.2. Quyết định tại điểm thay đổi\nTrước khi chuyển điều kiện, tổ phải hiểu phần việc tiếp theo và những thay đổi về nguy cơ, liên lạc hoặc hỗ trợ. Các kỹ thuật cụ thể phụ thuộc địa hình, loại nhiệm vụ và huấn luyện. Không áp một hình vẽ mẫu cho mọi công trình hoặc lấy thời gian trong bài tập làm ngưỡng an toàn chung ngoài thực tế.\n\nNếu điều kiện thực khác giả định, báo và đánh giá lại. Một nơi không thấy người không có nghĩa đã được xác nhận an toàn; ngược lại, có người dân hiện diện cũng không tự tạo căn cứ cưỡng chế. Cần nhận diện đúng điều biết, điều chưa biết và việc được phép làm.\n\n### 4.3. Giữ tiếp cận và phẩm giá\nCân nhắc lối đi của dân, xe cứu thương, người khuyết tật, trẻ em và hoạt động thiết yếu. Giải thích giới hạn tiếp cận khi có căn cứ, phối hợp đầu mối để giảm xung đột và không dùng ngôn ngữ xúc phạm. Hạn chế phải gắn mục đích, phạm vi và thời gian cần thiết, không biến sự thuận tiện của tổ thành lý do cản mọi người.\n\nKhông công khai người đã chia sẻ thông tin hoặc dẫn tổ theo cách gây nguy cơ cho họ. Khi có máy ảnh, thiết bị ghi hoặc dữ liệu vị trí, làm theo quy tắc về mục đích, bảo mật và người được truy cập.\n\n### 4.4. Trang bị và hại có thể phát sinh\nQuản lý vũ khí, phương tiện và trang bị theo quy trình an toàn suốt quá trình. Việc có trang bị mạnh không thay yêu cầu giảm căng thẳng và kiểm soát hại. Không biểu dương phô trương hoặc sử dụng tín hiệu đe dọa ngoài mục đích nhiệm vụ. Mọi sử dụng vũ lực tiếp tục cần căn cứ riêng, cần thiết, tương xứng và trách nhiệm báo.",
+        "en": "### 4.1. Preserve coordinated action\nSet a pace consistent with task, people and conditions. Monitor the whole team, including fatigue, equipment and misunderstanding, not just the lead member. Encourage early reporting instead of concealment to preserve schedules.\n\nCohesion does not mean everyone performs the same role. Reassign explicitly when needed and verify competence, information and equipment. A changed roster entry does not create capability.\n\n### 4.2. Transition points\nBefore changed conditions, establish the next task and implications for risk, communication and support. Specific techniques depend on terrain, assignment and practical instruction. A training diagram or exercise time is not a universal operational safety threshold.\n\nReport departures from assumptions and reassess. No visible person does not prove safety; civilian presence does not establish coercive grounds. Identify knowledge, uncertainty and authorized action.\n\n### 4.3. Access and dignity\nConsider civilian movement, emergency vehicles, disability, children and essential activities. Explain lawful restrictions and coordinate to reduce conflict. Restrictions need purpose, scope and necessary duration rather than mere team convenience.\n\nProtect people who provide information or assistance from exposure. Follow purpose and access safeguards for recording and location data.\n\n### 4.4. Equipment and potential harm\nMaintain weapon, vehicle and equipment safety throughout. Capability does not remove de-escalation and harm-mitigation duties. Avoid intimidation unrelated to the assignment. Any force still requires its own lawful grounds, necessity, proportionality and reporting."
+      },
+      "sourceIds": [
+        "MOVE",
+        "CSC010",
+        "POLICY"
+      ]
+    },
+    {
+      "id": "FPU-10-05",
+      "title": {
+        "vi": "5. Phối hợp liên đơn vị và khi có sự cố",
+        "en": "5. Inter-unit coordination and incidents"
+      },
+      "body": {
+        "vi": "### 5.1. Biết mình nối với ai\nKhi phối hợp FPU khác, IPO, quân sự hoặc lực lượng sở tại, xác định mục tiêu chung, phần việc, người chỉ huy, điều phối và thông tin cần trao. Các bên có thể cùng địa điểm nhưng khác quyền hạn, trang bị và quy tắc sử dụng. Không tự chuyển quyền chỉ huy vì một lực lượng có đông người hoặc phương tiện hơn.\n\nMột cơ chế phối hợp tốt cho biết ai quyết định việc bắt đầu, đổi và kết thúc phần việc; ai cần được báo khi một bên không thể tiếp tục. Thông tin cần tới cả đầu mối được giao và người chịu ảnh hưởng trực tiếp theo kế hoạch. Không cho rằng người dự họp đã phổ biến đủ cho mọi thành viên.\n\n### 5.2. Bàn giao vị trí hoặc phần việc\nNêu rõ phạm vi đã thực hiện, điều chưa xác minh, nguy cơ còn tồn, người liên quan và điều kiện cần giữ. Người nhận phải xác nhận có thể tiếp quản. Không nói “đã an toàn” khi thực tế chỉ biết nhóm mình chưa thấy sự cố. Bàn giao chính xác giúp bên tiếp theo không hành động trên giả định quá chắc.\n\n### 5.3. Thương tích, thiếu người và sự cố trang bị\nKhi có người bị thương, gọi hỗ trợ với vị trí, số người, tình trạng và nguy cơ; tổ chức sơ cứu trong năng lực khi an toàn. Không để việc hoàn thành tiến độ làm chậm chăm sóc. Khi thiếu người, kiểm tra thông tin, báo và tổ chức theo phương án thay vì tự để từng người tách đi tìm.\n\nSự cố phương tiện hoặc liên lạc cần báo ảnh hưởng tới nhiệm vụ và khả năng còn lại. Chỉ huy cần quyết định nguồn lực, phương án hoặc hỗ trợ, không chỉ biết tên thiết bị hỏng. Không dùng phương tiện mất an toàn để giữ hình thức kế hoạch không đổi.\n\n### 5.4. Khi vượt khả năng\nNếu mức nguy cơ hoặc nhiệm vụ vượt năng lực FPU, báo qua tuyến và phối hợp cơ chế phái bộ. Chuyển trách nhiệm giữa cảnh sát và quân sự cần điều kiện, quyết định, thông tin và cơ chế chỉ huy rõ; không phải chỉ thay người đứng đầu tại chỗ. Trong lúc chờ, tiếp tục phần bảo vệ, thông tin và hỗ trợ thuộc thẩm quyền, không bỏ mặc người có nguy cơ hoặc tự nhận nhiệm vụ chưa đủ điều kiện.",
+        "en": "### 5.1. Identify interfaces\nWith other FPUs, IPOs, military or host-State actors, establish the objective, assignments, command, coordination and information needs. Co-location does not imply identical authority or force rules, and greater numbers do not automatically transfer command.\n\nSpecify who starts, changes and ends tasks and who must know if a partner cannot continue. Meeting attendance does not establish that all members received the plan.\n\n### 5.2. Handover of areas or tasks\nState work completed, uncertainty, remaining risks, relevant people and conditions to maintain. Obtain confirmation of acceptance. “No incident observed” is not the same as verified safety. Accurate handover prevents unjustified assumptions.\n\n### 5.3. Casualties, missing personnel and failures\nActivate medical help with location, numbers, condition and hazards, and provide trained first aid when safe. Do not delay care to preserve progress. Reconcile and report missing-person concerns under the plan rather than allowing uncoordinated searches.\n\nExplain equipment failure through task effects and remaining capability. Command needs decision-relevant consequences, not only the defective device's name. Unsafe equipment must not preserve a paper plan.\n\n### 5.4. Beyond capability\nElevate threats or tasks exceeding FPU capability through mission mechanisms. Police–military responsibility transitions need authorized conditions, decisions, information and command arrangements. Continue permitted protection and support while awaiting direction, without abandoning people or assuming unsupported tasks."
+      },
+      "sourceIds": [
+        "CSC012",
+        "POLICY"
+      ]
+    },
+    {
+      "id": "FPU-10-06",
+      "title": {
+        "vi": "6. Hoàn tất, bàn giao và huấn luyện phối hợp",
+        "en": "6. Completion, handover and collective training"
+      },
+      "body": {
+        "vi": "### 6.1. Kết thúc phải được xác nhận\nPhần việc hoàn tất cần báo đúng đầu mối, xác nhận quân số, trang bị, tình trạng người liên quan và việc còn chờ. Không tự coi đến giờ dự kiến là nhiệm vụ đã kết thúc. Nếu phải rời nơi có trách nhiệm bảo vệ tiếp diễn, cần người tiếp nhận hoặc quyết định theo thẩm quyền.\n\nTrở về cũng cần được theo dõi. Người mệt, thiếu nước, bị thương nhẹ hoặc trang bị giảm chức năng có thể cần chăm sóc và phục hồi. Tình trạng sẵn sàng cho nhiệm vụ sau phải cập nhật từ thực tế, không giữ nguyên trạng thái lúc xuất phát.\n\n### 6.2. Báo cáo có giới hạn rõ\nGhi thời gian, tuyến hoặc khu vực trong phạm vi cần báo, diễn biến, thay đổi, quyết định, phối hợp, thương tích và hại phát sinh. Tách quan sát, báo từ nguồn và nhận định. Không đưa dữ liệu nhạy cảm vào bản phát rộng khi không cần thiết; giữ hồ sơ theo cơ chế phái bộ.\n\nMô tả chính xác điểm chưa thực hiện hoặc chưa xác minh. Bản báo thiếu một khoảng trống quan trọng có thể khiến đơn vị sau tin sai và nhận nguy cơ. Trung thực về giới hạn là một phần trách nhiệm bảo vệ.\n\n### 6.3. Rút kinh nghiệm theo giao diện công việc\nXem việc hiểu lệnh, liên lạc, quân số, nhịp phối hợp, quyết định thay đổi và bàn giao. Tìm nguyên nhân cụ thể: Từ ngữ khác nhau, tín hiệu không được nhìn thấy, vai trò chồng hoặc thiết bị không tương thích. Giao việc sửa, người phụ trách và lần kiểm chứng. Không chỉ nhắc thành viên cần chú ý hơn nếu hệ thống vẫn tạo cùng hiểu nhầm.\n\n### 6.4. Thực hành để chứng minh năng lực\nHuấn luyện phối hợp cần tiến từ hiểu vai trò và tín hiệu tới thực hành trong điều kiện được kiểm soát, rồi đánh giá theo nhiệm vụ. Giảng viên đủ năng lực phải theo dõi và dừng khi không an toàn. Tách trang bị tập với thật, chuẩn bị y tế và phục hồi phù hợp.\n\nĐánh giá không chỉ nhìn hình thức hoặc tốc độ; cần xem tổ giữ thông tin, bảo vệ người, báo thay đổi và làm đúng giới hạn. Người đạt câu hỏi trực tuyến chứng minh mức hiểu, còn kỹ năng di chuyển trong địa hình, công trình hoặc nguy cơ cao phải được đánh giá thực hành riêng. Cách tổ chức đó giúp phối hợp có chất lượng ngay cả khi thành viên hoặc điều kiện thay đổi.",
+        "en": "### 6.1. Confirm completion\nReport completion, reconcile people and equipment, identify affected persons and outstanding work. A scheduled end time does not itself terminate responsibility. Continuing protection needs require accepted handover or authorized direction.\n\nMonitor return and recovery. Fatigue, dehydration, minor injuries and equipment degradation affect subsequent readiness. Update actual capability rather than retaining the departure status.\n\n### 6.2. Accurate reporting and limits\nRecord relevant times, areas, events, changes, decisions, coordination, injuries and harm. Separate observation, received information and assessment. Restrict sensitive data appropriately.\n\nState unfinished and unverified work precisely. Omitted uncertainty can expose a succeeding unit to misunderstood risks. Honesty about limits supports protection.\n\n### 6.3. Review interfaces\nExamine orders, communications, accountability, pace, adjustments and handover. Identify specific causes such as inconsistent language, unseen signals, overlapping roles or incompatible equipment. Assign corrections and verification rather than relying solely on reminders to be attentive.\n\n### 6.4. Demonstrate collective competence\nProgress from shared roles and signals to controlled practice and task-based assessment. Qualified instructors must supervise and stop unsafe activity. Separate training and operational equipment and arrange medical support and recovery.\n\nAssess shared awareness, safeguards, change reporting and limits as well as appearance and speed. Online checks establish understanding; terrain-, building- and high-risk movement skills require separate practical assessment. This supports reliable coordination as people and conditions change."
+      },
+      "sourceIds": [
+        "MOVE",
+        "CSC012"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "MOVE",
+      "title": "Tactical Progression",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-032%20Tactical%20Progression.pdf",
+      "format": "pdf",
+      "pages": 55,
+      "reading": "7–11; phần phối hợp và liên lạc",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "POLICY",
+      "title": "Policy 2024.14: Formed Police Units in United Nations Peace Operations",
+      "publisher": "United Nations DPO",
+      "year": "2024",
+      "url": "https://resourcehub01.blob.core.windows.net/$web/Policy%20and%20Guidance/corepeacekeepingguidance/Thematic%20Operational%20Activities/Police%20and%20Law%20Enforcement/2024.14%20Formed%20Police%20Units%20in%20United%20Nations%20Peace%20Operations.pdf",
+      "format": "pdf",
+      "pages": 34,
+      "reading": "Nguồn chính sách nền; hiệu lực 01/12/2024",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "CSC010",
+      "title": "FPU Command Staff Course 2026 · Lesson 10: FPU Tactical Planning",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-010%20Lesson%2010%20FPU%20Tactical%20Planning%20(LP).pdf",
+      "year": "2026",
+      "publisher": "United Nations Police / DPO",
+      "format": "pdf"
+    },
+    {
+      "id": "CSC012",
+      "title": "FPU Command Staff Course 2026 · Lesson 12: Joint and Combined Operations",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-012%20Lesson%2012%20%20Joint%20and%20Combined%20Operations%20(LP).pdf",
+      "year": "2026",
+      "publisher": "United Nations Police / DPO",
+      "format": "pdf"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Đến đúng địa điểm có đủ để kết luận tổ đã hoàn thành tốt không?",
+        "en": "Does arrival alone establish successful team performance?"
+      },
+      "options": [
+        {
+          "vi": "Có, nếu đội hình trông đẹp.",
+          "en": "Yes, if formation looks good."
+        },
+        {
+          "vi": "Có, chỉ thời gian tới nơi là quan trọng.",
+          "en": "Yes, arrival time is all that matters."
+        },
+        {
+          "vi": "Chưa; cần giữ người, liên lạc, năng lực và mục tiêu bảo vệ.",
+          "en": "No; personnel, communications, capability and protective purpose matter."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Di chuyển phục vụ nhiệm vụ và an toàn thực tế, không chỉ vị trí. Xem mục 1.",
+        "en": "Movement serves actual tasks and safety, not location alone. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Được tới một nơi có tự cho phép vào nhà và khám không?",
+        "en": "Does reaching a location automatically authorize entry and search?"
+      },
+      "options": [
+        {
+          "vi": "Có, nếu tuyến đường đã được duyệt.",
+          "en": "Yes, if the route was approved."
+        },
+        {
+          "vi": "Không; các hành vi đó cần căn cứ và thẩm quyền riêng.",
+          "en": "No; those actions require their own grounds and authority."
+        },
+        {
+          "vi": "Có, nếu tổ mang trang bị đầy đủ.",
+          "en": "Yes, if the team is fully equipped."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Quyền di chuyển không tự trở thành mọi quyền can thiệp. Xem mục 1.",
+        "en": "Movement authorization is not unrestricted intervention authority. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Tuyến từng sử dụng cần được nhìn thế nào trong kế hoạch mới?",
+        "en": "How should a previously used route be treated in a new plan?"
+      },
+      "options": [
+        {
+          "vi": "Kiểm tra điều kiện hiện tại và phân biệt dữ kiện với giả định.",
+          "en": "Check current conditions and distinguish facts from assumptions."
+        },
+        {
+          "vi": "Mặc định luôn dùng được.",
+          "en": "Assume it is always usable."
+        },
+        {
+          "vi": "Không cần cập nhật nếu bản đồ chưa đổi.",
+          "en": "No update is needed if the map is unchanged."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Thời tiết, sự cố, dân và an ninh có thể thay đổi khả năng sử dụng. Xem mục 2.",
+        "en": "Weather, incidents, civilians and security can change access. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Bộ đàm có trong bảng nhưng hết pin thể hiện điều gì?",
+        "en": "What does a listed radio with no power demonstrate?"
+      },
+      "options": [
+        {
+          "vi": "Không ảnh hưởng nếu mọi người nhớ lệnh đầu.",
+          "en": "No effect if members remember initial orders."
+        },
+        {
+          "vi": "Đủ điều kiện vì đã được phát.",
+          "en": "Readiness because it was issued."
+        },
+        {
+          "vi": "Số lượng có nhưng chức năng liên lạc chưa được bảo đảm.",
+          "en": "Inventory presence without assured communication capability."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Kiểm tra phải xác nhận chức năng, người dùng và dự phòng phù hợp. Xem mục 2.",
+        "en": "Checks must establish function, users and suitable backup. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Một thông tin quan trọng đã gửi nhưng chưa được xác nhận cần làm gì?",
+        "en": "A critical message was sent without acknowledgement. What next?"
+      },
+      "options": [
+        {
+          "vi": "Theo cơ chế xác nhận và phương án thay thế đã thống nhất.",
+          "en": "Follow agreed acknowledgement and backup arrangements."
+        },
+        {
+          "vi": "Phát dữ liệu nhạy cảm lên mọi kênh.",
+          "en": "Broadcast sensitive data on every channel."
+        },
+        {
+          "vi": "Mặc định người nhận đã biết.",
+          "en": "Assume receipt."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Truyền và nhận không đồng nghĩa; vẫn cần bảo mật và trách nhiệm. Xem mục 3.",
+        "en": "Transmission and receipt differ; privacy and responsibility remain. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Tín hiệu giống nhau giữa hai đơn vị có chắc cùng nghĩa không?",
+        "en": "Do similar signals across units necessarily mean the same thing?"
+      },
+      "options": [
+        {
+          "vi": "Có, cứ đoán theo kinh nghiệm.",
+          "en": "Yes, infer from experience."
+        },
+        {
+          "vi": "Không; phải làm rõ, tập luyện và kiểm tra hiểu chung.",
+          "en": "No; clarify, rehearse and verify shared meaning."
+        },
+        {
+          "vi": "Có, nếu hai bên có cùng số người.",
+          "en": "Yes, with equal staffing."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Quy ước khác nhau có thể gây hiểu nhầm ở điểm phối hợp. Xem mục 3.",
+        "en": "Different conventions can cause interface failures. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Một thành viên tụt lại vì mệt nên được xử lý thế nào?",
+        "en": "How should a member falling behind from fatigue be addressed?"
+      },
+      "options": [
+        {
+          "vi": "Giấu để tránh mất tiến độ.",
+          "en": "Conceal it to preserve progress."
+        },
+        {
+          "vi": "Báo, đánh giá và điều chỉnh qua người phụ trách để giữ an toàn.",
+          "en": "Report, assess and adjust through the responsible leader."
+        },
+        {
+          "vi": "Mặc định nhóm khác sẽ nhận.",
+          "en": "Assume another team takes over."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Tình trạng quân số ảnh hưởng năng lực; cần xác nhận thay đổi trách nhiệm. Xem mục 4.",
+        "en": "Personnel condition affects capability and requires confirmed responsibility changes. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Hạn chế lối đi dân thường cần căn cứ gì?",
+        "en": "What should justify restrictions on civilian movement?"
+      },
+      "options": [
+        {
+          "vi": "Muốn thể hiện uy thế.",
+          "en": "A desire to demonstrate dominance."
+        },
+        {
+          "vi": "Chỉ sự thuận tiện của tổ.",
+          "en": "Team convenience only."
+        },
+        {
+          "vi": "Mục đích hợp pháp, phạm vi và thời gian cần thiết, có bảo đảm phù hợp.",
+          "en": "A lawful purpose, necessary scope and duration, and appropriate safeguards."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "An toàn lực lượng phải đi cùng quyền, tiếp cận và giảm hại cho cộng đồng. Xem mục 4.",
+        "en": "Force safety coexists with rights, access and civilian harm mitigation. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Đơn vị phối hợp có nhiều phương tiện hơn có tự nhận quyền chỉ huy không?",
+        "en": "Does a partner with more equipment automatically assume command?"
+      },
+      "options": [
+        {
+          "vi": "Không; quyền theo cơ chế được phê chuẩn và nhiệm vụ.",
+          "en": "No; authority follows approved arrangements and tasking."
+        },
+        {
+          "vi": "Có, nếu đứng cùng địa điểm.",
+          "en": "Yes, through co-location."
+        },
+        {
+          "vi": "Có, số phương tiện quyết định.",
+          "en": "Yes, equipment numbers decide."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Phối hợp, năng lực và chuyển quyền chỉ huy phải được phân biệt. Xem mục 5.",
+        "en": "Coordination, capability and command transfer are distinct. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Bàn giao nói chưa thấy sự cố khác đã xác nhận an toàn thế nào?",
+        "en": "How does no incident observed differ from verified safety?"
+      },
+      "options": [
+        {
+          "vi": "Không khác gì.",
+          "en": "There is no difference."
+        },
+        {
+          "vi": "Mức biết khác nhau; phải nêu giới hạn và điều chưa xác minh.",
+          "en": "They establish different knowledge; state limits and uncertainty."
+        },
+        {
+          "vi": "Có thể dùng lẫn để báo gọn.",
+          "en": "Use either for brevity."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Người nhận cần căn cứ đúng, tránh nhận nguy cơ từ một khẳng định quá chắc. Xem mục 5.",
+        "en": "Receivers need accurate grounds rather than overstated certainty. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Hết giờ dự kiến có tự kết thúc trách nhiệm bảo vệ không?",
+        "en": "Does reaching the scheduled end time terminate protection responsibility?"
+      },
+      "options": [
+        {
+          "vi": "Không; cần báo, bàn giao hoặc quyết định kết thúc đúng thẩm quyền.",
+          "en": "No; report, hand over or obtain authorized termination."
+        },
+        {
+          "vi": "Có, có thể rời ngay dù chưa ai nhận.",
+          "en": "Yes, leave even without acceptance."
+        },
+        {
+          "vi": "Có, nếu thiếu hồ sơ.",
+          "en": "Yes, if records are incomplete."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Thời gian dự kiến không thay xác nhận trách nhiệm thực tế. Xem mục 6.",
+        "en": "Scheduled timing cannot replace actual responsibility confirmation. See section 6."
+      },
+      "chapter": 5
+    },
+    {
+      "question": {
+        "vi": "Đánh giá thực hành phối hợp nên xem gì ngoài tốc độ?",
+        "en": "What should collective assessment consider besides speed?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ hình thức đều.",
+          "en": "Uniform appearance only."
+        },
+        {
+          "vi": "Chỉ số giờ học.",
+          "en": "Training hours only."
+        },
+        {
+          "vi": "Hiểu lệnh, liên lạc, quân số, bảo vệ, báo đổi và bàn giao.",
+          "en": "Orders, communications, accountability, safeguards, updates and handover."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Năng lực là hành động thống nhất có trách nhiệm; bài kiểm tra trực tuyến không thay đánh giá kỹ năng. Xem mục 6.",
+        "en": "Competence is coordinated accountable performance; online checks do not replace practical assessment. See section 6."
+      },
+      "chapter": 5
+    }
+  ],
+  "updated": "2026-10-28",
+  "moduleId": "FPU-M4",
+  "moduleOrder": 2,
+  "lessonOrder": 3,
+  "sourceModule": {
+    "programme": "STM-FPU",
+    "number": 4,
+    "title": "Police tactics"
+  },
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "FPU-10-01",
+      "title": {
+        "vi": "1. Di chuyển theo tổ chức và mục tiêu bảo vệ",
+        "en": "1. Organized movement and protection objectives"
+      },
+      "body": {
+        "vi": "### 1.1. Di chuyển là một phần nhiệm vụ\nDi chuyển của tổ công tác phải phục vụ mục tiêu đã được giao, trong thẩm quyền và điều kiện an toàn. Không chỉ hỏi làm sao tới nơi, mà cần biết vì sao tới, ai được giao việc gì, điều kiện nào cần giữ và khi nào phải báo để điều chỉnh. Một nhóm đến đúng địa điểm nhưng không còn liên lạc, thiếu người hoặc không hiểu nhiệm vụ chưa tạo khả năng thực hiện.\n\nTrong môi trường phái bộ, cần bảo vệ dân thường, nhân sự đơn vị, đối tác và cả người đang được kiểm soát. Không dùng ý tưởng an toàn cho lực lượng để bỏ qua hại đối với cộng đồng. Cũng không coi mọi người trên tuyến là nguồn đe dọa chỉ vì họ chưa được biết trong kế hoạch.\n\n### 1.2. Khả năng phối hợp phải được chuẩn bị\nCác thành viên cần hiểu vai trò, tín hiệu, cách xác nhận, người chỉ huy và phương án khi điều kiện đổi. Giỏi riêng lẻ chưa đủ nếu mỗi người sử dụng một quy ước khác. Khi làm cùng đơn vị khác, cần làm rõ từ ngữ và đầu mối thay vì giả định ai cũng hiểu giống nhau.\n\nTài liệu huấn luyện phân biệt kiến thức nền với thực hành các kỹ thuật di chuyển. Những kỹ thuật trong địa hình, công trình hoặc môi trường nguy cơ cao phải được giảng viên hướng dẫn trên địa bàn tập phù hợp. Bài này xây nền phối hợp, kiểm soát và bảo vệ để người học hiểu yêu cầu của phần thực hành, không tự chứng nhận kỹ năng qua việc đọc.\n\n### 1.3. Không đồng nhất di chuyển với quyền can thiệp\nĐược phép tới một địa điểm không tự trao quyền vào nhà, khám xét, kiểm soát người hoặc sử dụng vũ lực. Khi nhiệm vụ phát sinh việc mới, cán bộ cần xác định căn cứ, báo và nhận hướng dẫn theo thẩm quyền. Một phương án nhanh hơn nhưng vượt quyền không phải lựa chọn hợp lệ chỉ vì giảm thời gian.\n\n### 1.4. Hiệu quả cần đánh giá\nĐánh giá việc tới nơi an toàn, giữ tính gắn kết, giao tiếp và khả năng tiếp tục nhiệm vụ. Xem cả tác động như cản đường dân, tạo lo lắng, làm lộ người cung cấp tin hoặc ảnh hưởng hoạt động cứu trợ. Mục tiêu là thực hiện phần việc có trách nhiệm trong kế hoạch chung, không chỉ giữ một hình thức đội ngũ.",
+        "en": "### 1.1. Movement serves an assignment\nTeam movement must support an authorized objective under safe conditions. Establish why the team moves, roles, required conditions and review points. Arrival without communications, personnel or a shared task understanding does not establish capability.\n\nProtect civilians, members, partners and people under control. Force safety does not remove community safeguards, and unfamiliar people along a route are not automatically threats.\n\n### 1.2. Prepare interoperability\nMembers need common roles, signals, acknowledgement, command and change arrangements. Individual skill is insufficient when conventions differ. Clarify terminology and contacts with other units.\n\nTerrain-, building- and high-risk movement techniques require competent instruction in suitable training conditions. This lesson establishes coordination, control and protection foundations for practical learning rather than certifying technique through reading.\n\n### 1.3. Access is not unrestricted authority\nPermission to reach a location does not automatically authorize entry, search, custody or force. New tasks require grounds and appropriate direction. Faster action outside authority is not justified merely by saving time.\n\n### 1.4. Assess effects\nConsider safe arrival, cohesion, communication and continuing capability, together with civilian access, anxiety, source exposure and humanitarian effects. Responsible contribution to the overall plan matters more than formation appearance."
+      },
+      "sourceIds": [
+        "MOVE",
+        "POLICY"
+      ]
+    },
+    {
+      "id": "FPU-10-02",
+      "title": {
+        "vi": "2. Chuẩn bị trước khi rời vị trí",
+        "en": "2. Preparation before departure"
+      },
+      "body": {
+        "vi": "### 2.1. Hiểu nhiệm vụ và phạm vi\nTổ trưởng cần phổ biến mục tiêu, thời gian, địa điểm, phần việc, giới hạn và yêu cầu báo cáo. Thành viên cần biết ai chỉ huy khi người phụ trách không thể tiếp tục. Kiểm tra hiểu bằng yêu cầu giải thích phần việc, đặc biệt khi có người mới hoặc ngôn ngữ khác.\n\nMột yêu cầu chung như “đi hỗ trợ” chưa đủ để tổ chức hành động. Cần làm rõ đang hỗ trợ ai, đáp ứng việc gì, ai quyết định thay đổi và kết thúc khi nào. Những điểm chưa rõ phải được nêu trước hoặc báo sớm trong tình huống gấp, không để từng thành viên tự suy cách hiểu.\n\n### 2.2. Bức tranh địa bàn và điều kiện\nXem thông tin về đường tiếp cận, thời tiết, điều kiện ánh sáng, nơi có dân, hoạt động khác và nguy cơ đã biết. Phân biệt dữ kiện được xác nhận với giả định. Một tuyến từng dùng được có thể thay đổi vì ngập, sự cố, tập trung đông người hoặc yêu cầu an ninh.\n\nCần cơ chế cập nhật thông tin và quyết định khi điều kiện thay đổi. Không tự tạo tuyến khác ngoài phạm vi chỉ vì thấy đường ngắn hơn. Thay đổi có thể ảnh hưởng liên lạc, hỗ trợ, giới hạn triển khai và những đơn vị đang chờ phối hợp.\n\n### 2.3. Người, trang bị và bảo đảm\nKiểm tra quân số thực, vai trò, tình trạng sức khỏe, mệt mỏi, trang bị bảo vệ theo nhiệm vụ, phương tiện, thông tin và y tế. Người cần sử dụng thiết bị phải được làm quen, không chỉ được phát. Đồ có trong danh sách nhưng hết pin hoặc thiếu phụ kiện không tạo năng lực.\n\nBảo đảm gồm khả năng duy trì, hỗ trợ khi có người bị thương hoặc phương tiện hỏng và điểm liên hệ tiếp nhận. Không chờ tới sự cố mới biết tổ không có cách gọi y tế hoặc không rõ vị trí của mình. Nếu thiếu điều kiện quan trọng, báo người giao nhiệm vụ để có quyết định phù hợp.\n\n### 2.4. Kiểm tra điểm nối\nTrước rời vị trí, xác nhận đã nhận lệnh đúng phiên bản, các thành viên hiểu, liên lạc hoạt động và người nhận báo cáo biết tổ bắt đầu. Phân công theo dõi quân số và trang bị khi cần; giữ thông tin nhạy cảm trong phạm vi biết. Hoàn thành bảng kiểm không thay việc xác nhận thực tế những hạng mục quyết định an toàn.",
+        "en": "### 2.1. Understand task and scope\nBrief the objective, timing, location, assignments, limits, reporting and succession. Check understanding, especially with newcomers and language differences.\n\n“Go and support” is insufficient. Establish the supported actor, task, change authority and end conditions. Clarify gaps rather than leaving members to invent different interpretations.\n\n### 2.2. Understand conditions\nConsider access, weather, visibility, civilians, other activity and known threats. Separate confirmed facts from assumptions. Previously usable routes may be affected by flooding, incidents, crowds or security restrictions.\n\nMaintain updates and change decisions. An unauthorized shortcut can disrupt communications, support, deployment limits and partner coordination.\n\n### 2.3. People, equipment and support\nVerify actual staffing, roles, health, fatigue, task-specific protection, transport, communications and medical arrangements. Equipment needs competent users and working accessories. A listed device without power provides no capability.\n\nPlan sustainment, casualty assistance, breakdown support and receiving contacts. Do not wait for an emergency to discover missing medical access or uncertain location. Report critical gaps for appropriate tasking decisions.\n\n### 2.4. Check interfaces\nConfirm the current order, shared understanding, functioning communications and departure reporting. Assign accountability where needed and protect sensitive information. A completed checklist cannot replace actual verification of critical conditions."
+      },
+      "sourceIds": [
+        "CSC010",
+        "MOVE"
+      ]
+    },
+    {
+      "id": "FPU-10-03",
+      "title": {
+        "vi": "3. Liên lạc và duy trì bức tranh chung",
+        "en": "3. Communications and shared awareness"
+      },
+      "body": {
+        "vi": "### 3.1. Thông tin ngắn, rõ và đúng người\nLiên lạc cần giúp người nhận hiểu ai báo, đang ở đâu, điều gì xảy ra, ảnh hưởng gì, đã làm gì và cần gì. Dùng quy ước phái bộ, từ ngữ rõ và thứ tự ưu tiên. Không chen báo cáo thường lệ làm cản thông tin cấp cứu. Cũng không gửi một tin quá ngắn đến mức người nhận không thể phân biệt quan sát với nhận định.\n\nNói đã gửi chưa có nghĩa đã được nhận. Thông tin quan trọng cần xác nhận theo cơ chế; khi không có phản hồi, thực hiện phương án dự phòng đã được giao. Không lặp phát thông tin nhạy cảm lên mọi kênh chỉ để mong ai đó nghe thấy.\n\n### 3.2. Thống nhất tín hiệu và giới hạn\nTín hiệu bằng lời hoặc dấu hiệu không lời phải được hướng dẫn, thực hành và hiểu chung. Cùng một động tác có thể mang nghĩa khác giữa đơn vị, nên không đoán. Bài đọc không thay việc giảng viên kiểm tra từng người nhận và đáp ứng đúng trong buổi tập.\n\nTránh dùng dấu hiệu không chính thức để thay lệnh quan trọng chưa được người nhận xác nhận. Khi điều kiện cản nghe hoặc nhìn, tổ cần cách giữ liên lạc phù hợp đã được huấn luyện, thay vì tự tăng tốc để bám người trước.\n\n### 3.3. Cập nhật quân số và khả năng\nNgười phụ trách cần biết thành viên có còn đầy đủ và đủ điều kiện thực hiện không, ai đang có vấn đề và năng lực nào giảm. Khi một người tách vì nhiệm vụ hoặc y tế, phải có phân công và xác nhận. Không giả định người phía sau đã được nhóm khác nhận chỉ vì không còn nhìn thấy.\n\nGiữ bức tranh chung không có nghĩa mỗi người phải biết mọi thông tin nhạy cảm. Phân phối theo vai trò, nhưng bảo đảm ai có nhiệm vụ bảo vệ hoặc phối hợp nhận đủ thông tin cần hành động.\n\n### 3.4. Khi liên lạc giảm hoặc mất\nNhận biết mất chức năng, báo qua phương án thay thế nếu có và làm theo điều kiện đã được thống nhất. Không tự tiếp tục mọi việc như trước khi lệnh và hỗ trợ không còn bảo đảm. Cũng không đặt quy tắc chung “mất sóng thì luôn dừng ở mọi nơi”; quyết định phải tính nguy cơ địa bàn, nhiệm vụ và hướng dẫn. Điều cần chuẩn bị từ đầu là ai quyết định, giới hạn hành động và cách khôi phục liên hệ.",
+        "en": "### 3.1. Clear, directed messages\nCommunicate identity, location, event, implications, action and need using mission conventions. Routine traffic must not obstruct emergencies. Excessive brevity must not obscure observation versus assessment.\n\nTransmission does not prove receipt. Obtain required acknowledgement and follow backup arrangements when it fails. Do not broadcast sensitive information indiscriminately across channels.\n\n### 3.2. Shared signals\nVerbal and non-verbal signals require instruction, rehearsal and common meaning. Similar gestures can mean different things across units. Reading cannot establish correct recognition and response.\n\nInformal signs must not replace unacknowledged critical orders. When hearing or visibility is limited, use trained continuity arrangements rather than simply increasing pace.\n\n### 3.3. Personnel and capability updates\nTrack members, condition, problems and capability loss. Authorized separation for duties or care requires assignment and confirmation. Absence from view does not prove acceptance by another team.\n\nShared awareness does not require unrestricted access to sensitive information. Give each role enough information to fulfil protection and coordination responsibilities.\n\n### 3.4. Communications failure\nRecognize failure, use authorized alternatives and follow agreed conditions. Do not automatically continue when command and support are no longer assured. Equally, no universal rule requires stopping everywhere regardless of local danger. Prepare decision authority, action limits and restoration arrangements beforehand."
+      },
+      "sourceIds": [
+        "MOVE",
+        "CSC012"
+      ]
+    },
+    {
+      "id": "FPU-10-04",
+      "title": {
+        "vi": "4. Kiểm soát di chuyển và bảo vệ dân thường",
+        "en": "4. Movement control and civilian safeguards"
+      },
+      "body": {
+        "vi": "### 4.1. Giữ tổ hoạt động thống nhất\nTổ trưởng tổ chức nhịp phù hợp nhiệm vụ, người và điều kiện, duy trì nhận biết và khả năng báo. Không chỉ quan sát người đi đầu; cần xem toàn tổ có thể tiếp tục, có ai tụt vì mệt, trang bị hoặc hiểu sai không. Mỗi thành viên báo vấn đề sớm, không che để tránh ảnh hưởng tiến độ.\n\nTính gắn kết không đồng nghĩa mọi người tự làm cùng một việc. Vai trò phải được giữ và điều chỉnh rõ khi có người không thể thực hiện. Nếu thay người, xác nhận người nhận có năng lực, thông tin và trang bị tương ứng. Đổi tên trên phân công không tự tạo khả năng.\n\n### 4.2. Quyết định tại điểm thay đổi\nTrước khi chuyển điều kiện, tổ phải hiểu phần việc tiếp theo và những thay đổi về nguy cơ, liên lạc hoặc hỗ trợ. Các kỹ thuật cụ thể phụ thuộc địa hình, loại nhiệm vụ và huấn luyện. Không áp một hình vẽ mẫu cho mọi công trình hoặc lấy thời gian trong bài tập làm ngưỡng an toàn chung ngoài thực tế.\n\nNếu điều kiện thực khác giả định, báo và đánh giá lại. Một nơi không thấy người không có nghĩa đã được xác nhận an toàn; ngược lại, có người dân hiện diện cũng không tự tạo căn cứ cưỡng chế. Cần nhận diện đúng điều biết, điều chưa biết và việc được phép làm.\n\n### 4.3. Giữ tiếp cận và phẩm giá\nCân nhắc lối đi của dân, xe cứu thương, người khuyết tật, trẻ em và hoạt động thiết yếu. Giải thích giới hạn tiếp cận khi có căn cứ, phối hợp đầu mối để giảm xung đột và không dùng ngôn ngữ xúc phạm. Hạn chế phải gắn mục đích, phạm vi và thời gian cần thiết, không biến sự thuận tiện của tổ thành lý do cản mọi người.\n\nKhông công khai người đã chia sẻ thông tin hoặc dẫn tổ theo cách gây nguy cơ cho họ. Khi có máy ảnh, thiết bị ghi hoặc dữ liệu vị trí, làm theo quy tắc về mục đích, bảo mật và người được truy cập.\n\n### 4.4. Trang bị và hại có thể phát sinh\nQuản lý vũ khí, phương tiện và trang bị theo quy trình an toàn suốt quá trình. Việc có trang bị mạnh không thay yêu cầu giảm căng thẳng và kiểm soát hại. Không biểu dương phô trương hoặc sử dụng tín hiệu đe dọa ngoài mục đích nhiệm vụ. Mọi sử dụng vũ lực tiếp tục cần căn cứ riêng, cần thiết, tương xứng và trách nhiệm báo.",
+        "en": "### 4.1. Preserve coordinated action\nSet a pace consistent with task, people and conditions. Monitor the whole team, including fatigue, equipment and misunderstanding, not just the lead member. Encourage early reporting instead of concealment to preserve schedules.\n\nCohesion does not mean everyone performs the same role. Reassign explicitly when needed and verify competence, information and equipment. A changed roster entry does not create capability.\n\n### 4.2. Transition points\nBefore changed conditions, establish the next task and implications for risk, communication and support. Specific techniques depend on terrain, assignment and practical instruction. A training diagram or exercise time is not a universal operational safety threshold.\n\nReport departures from assumptions and reassess. No visible person does not prove safety; civilian presence does not establish coercive grounds. Identify knowledge, uncertainty and authorized action.\n\n### 4.3. Access and dignity\nConsider civilian movement, emergency vehicles, disability, children and essential activities. Explain lawful restrictions and coordinate to reduce conflict. Restrictions need purpose, scope and necessary duration rather than mere team convenience.\n\nProtect people who provide information or assistance from exposure. Follow purpose and access safeguards for recording and location data.\n\n### 4.4. Equipment and potential harm\nMaintain weapon, vehicle and equipment safety throughout. Capability does not remove de-escalation and harm-mitigation duties. Avoid intimidation unrelated to the assignment. Any force still requires its own lawful grounds, necessity, proportionality and reporting."
+      },
+      "sourceIds": [
+        "MOVE",
+        "CSC010",
+        "POLICY"
+      ]
+    },
+    {
+      "id": "FPU-10-05",
+      "title": {
+        "vi": "5. Phối hợp liên đơn vị và khi có sự cố",
+        "en": "5. Inter-unit coordination and incidents"
+      },
+      "body": {
+        "vi": "### 5.1. Biết mình nối với ai\nKhi phối hợp FPU khác, IPO, quân sự hoặc lực lượng sở tại, xác định mục tiêu chung, phần việc, người chỉ huy, điều phối và thông tin cần trao. Các bên có thể cùng địa điểm nhưng khác quyền hạn, trang bị và quy tắc sử dụng. Không tự chuyển quyền chỉ huy vì một lực lượng có đông người hoặc phương tiện hơn.\n\nMột cơ chế phối hợp tốt cho biết ai quyết định việc bắt đầu, đổi và kết thúc phần việc; ai cần được báo khi một bên không thể tiếp tục. Thông tin cần tới cả đầu mối được giao và người chịu ảnh hưởng trực tiếp theo kế hoạch. Không cho rằng người dự họp đã phổ biến đủ cho mọi thành viên.\n\n### 5.2. Bàn giao vị trí hoặc phần việc\nNêu rõ phạm vi đã thực hiện, điều chưa xác minh, nguy cơ còn tồn, người liên quan và điều kiện cần giữ. Người nhận phải xác nhận có thể tiếp quản. Không nói “đã an toàn” khi thực tế chỉ biết nhóm mình chưa thấy sự cố. Bàn giao chính xác giúp bên tiếp theo không hành động trên giả định quá chắc.\n\n### 5.3. Thương tích, thiếu người và sự cố trang bị\nKhi có người bị thương, gọi hỗ trợ với vị trí, số người, tình trạng và nguy cơ; tổ chức sơ cứu trong năng lực khi an toàn. Không để việc hoàn thành tiến độ làm chậm chăm sóc. Khi thiếu người, kiểm tra thông tin, báo và tổ chức theo phương án thay vì tự để từng người tách đi tìm.\n\nSự cố phương tiện hoặc liên lạc cần báo ảnh hưởng tới nhiệm vụ và khả năng còn lại. Chỉ huy cần quyết định nguồn lực, phương án hoặc hỗ trợ, không chỉ biết tên thiết bị hỏng. Không dùng phương tiện mất an toàn để giữ hình thức kế hoạch không đổi.\n\n### 5.4. Khi vượt khả năng\nNếu mức nguy cơ hoặc nhiệm vụ vượt năng lực FPU, báo qua tuyến và phối hợp cơ chế phái bộ. Chuyển trách nhiệm giữa cảnh sát và quân sự cần điều kiện, quyết định, thông tin và cơ chế chỉ huy rõ; không phải chỉ thay người đứng đầu tại chỗ. Trong lúc chờ, tiếp tục phần bảo vệ, thông tin và hỗ trợ thuộc thẩm quyền, không bỏ mặc người có nguy cơ hoặc tự nhận nhiệm vụ chưa đủ điều kiện.",
+        "en": "### 5.1. Identify interfaces\nWith other FPUs, IPOs, military or host-State actors, establish the objective, assignments, command, coordination and information needs. Co-location does not imply identical authority or force rules, and greater numbers do not automatically transfer command.\n\nSpecify who starts, changes and ends tasks and who must know if a partner cannot continue. Meeting attendance does not establish that all members received the plan.\n\n### 5.2. Handover of areas or tasks\nState work completed, uncertainty, remaining risks, relevant people and conditions to maintain. Obtain confirmation of acceptance. “No incident observed” is not the same as verified safety. Accurate handover prevents unjustified assumptions.\n\n### 5.3. Casualties, missing personnel and failures\nActivate medical help with location, numbers, condition and hazards, and provide trained first aid when safe. Do not delay care to preserve progress. Reconcile and report missing-person concerns under the plan rather than allowing uncoordinated searches.\n\nExplain equipment failure through task effects and remaining capability. Command needs decision-relevant consequences, not only the defective device's name. Unsafe equipment must not preserve a paper plan.\n\n### 5.4. Beyond capability\nElevate threats or tasks exceeding FPU capability through mission mechanisms. Police–military responsibility transitions need authorized conditions, decisions, information and command arrangements. Continue permitted protection and support while awaiting direction, without abandoning people or assuming unsupported tasks."
+      },
+      "sourceIds": [
+        "CSC012",
+        "POLICY"
+      ]
+    },
+    {
+      "id": "FPU-10-06",
+      "title": {
+        "vi": "6. Hoàn tất, bàn giao và huấn luyện phối hợp",
+        "en": "6. Completion, handover and collective training"
+      },
+      "body": {
+        "vi": "### 6.1. Kết thúc phải được xác nhận\nPhần việc hoàn tất cần báo đúng đầu mối, xác nhận quân số, trang bị, tình trạng người liên quan và việc còn chờ. Không tự coi đến giờ dự kiến là nhiệm vụ đã kết thúc. Nếu phải rời nơi có trách nhiệm bảo vệ tiếp diễn, cần người tiếp nhận hoặc quyết định theo thẩm quyền.\n\nTrở về cũng cần được theo dõi. Người mệt, thiếu nước, bị thương nhẹ hoặc trang bị giảm chức năng có thể cần chăm sóc và phục hồi. Tình trạng sẵn sàng cho nhiệm vụ sau phải cập nhật từ thực tế, không giữ nguyên trạng thái lúc xuất phát.\n\n### 6.2. Báo cáo có giới hạn rõ\nGhi thời gian, tuyến hoặc khu vực trong phạm vi cần báo, diễn biến, thay đổi, quyết định, phối hợp, thương tích và hại phát sinh. Tách quan sát, báo từ nguồn và nhận định. Không đưa dữ liệu nhạy cảm vào bản phát rộng khi không cần thiết; giữ hồ sơ theo cơ chế phái bộ.\n\nMô tả chính xác điểm chưa thực hiện hoặc chưa xác minh. Bản báo thiếu một khoảng trống quan trọng có thể khiến đơn vị sau tin sai và nhận nguy cơ. Trung thực về giới hạn là một phần trách nhiệm bảo vệ.\n\n### 6.3. Rút kinh nghiệm theo giao diện công việc\nXem việc hiểu lệnh, liên lạc, quân số, nhịp phối hợp, quyết định thay đổi và bàn giao. Tìm nguyên nhân cụ thể: Từ ngữ khác nhau, tín hiệu không được nhìn thấy, vai trò chồng hoặc thiết bị không tương thích. Giao việc sửa, người phụ trách và lần kiểm chứng. Không chỉ nhắc thành viên cần chú ý hơn nếu hệ thống vẫn tạo cùng hiểu nhầm.\n\n### 6.4. Thực hành để chứng minh năng lực\nHuấn luyện phối hợp cần tiến từ hiểu vai trò và tín hiệu tới thực hành trong điều kiện được kiểm soát, rồi đánh giá theo nhiệm vụ. Giảng viên đủ năng lực phải theo dõi và dừng khi không an toàn. Tách trang bị tập với thật, chuẩn bị y tế và phục hồi phù hợp.\n\nĐánh giá không chỉ nhìn hình thức hoặc tốc độ; cần xem tổ giữ thông tin, bảo vệ người, báo thay đổi và làm đúng giới hạn. Người đạt câu hỏi trực tuyến chứng minh mức hiểu, còn kỹ năng di chuyển trong địa hình, công trình hoặc nguy cơ cao phải được đánh giá thực hành riêng. Cách tổ chức đó giúp phối hợp có chất lượng ngay cả khi thành viên hoặc điều kiện thay đổi.",
+        "en": "### 6.1. Confirm completion\nReport completion, reconcile people and equipment, identify affected persons and outstanding work. A scheduled end time does not itself terminate responsibility. Continuing protection needs require accepted handover or authorized direction.\n\nMonitor return and recovery. Fatigue, dehydration, minor injuries and equipment degradation affect subsequent readiness. Update actual capability rather than retaining the departure status.\n\n### 6.2. Accurate reporting and limits\nRecord relevant times, areas, events, changes, decisions, coordination, injuries and harm. Separate observation, received information and assessment. Restrict sensitive data appropriately.\n\nState unfinished and unverified work precisely. Omitted uncertainty can expose a succeeding unit to misunderstood risks. Honesty about limits supports protection.\n\n### 6.3. Review interfaces\nExamine orders, communications, accountability, pace, adjustments and handover. Identify specific causes such as inconsistent language, unseen signals, overlapping roles or incompatible equipment. Assign corrections and verification rather than relying solely on reminders to be attentive.\n\n### 6.4. Demonstrate collective competence\nProgress from shared roles and signals to controlled practice and task-based assessment. Qualified instructors must supervise and stop unsafe activity. Separate training and operational equipment and arrange medical support and recovery.\n\nAssess shared awareness, safeguards, change reporting and limits as well as appearance and speed. Online checks establish understanding; terrain-, building- and high-risk movement skills require separate practical assessment. This supports reliable coordination as people and conditions change."
+      },
+      "sourceIds": [
+        "MOVE",
+        "CSC012"
+      ]
+    }
+  ],
+  "source_ids": [
+    "MOVE",
+    "POLICY",
+    "CSC010",
+    "CSC012"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "Cohesion",
+      "definition": {
+        "vi": "Tính gắn kết và khả năng hành động có tổ chức.",
+        "en": "Cohesion and coordinated collective action."
+      }
+    },
+    {
+      "term": "Interoperability",
+      "definition": {
+        "vi": "Hiểu và phối hợp được giữa người, đơn vị, cơ chế.",
+        "en": "Ability to work across people, units and arrangements."
+      }
+    },
+    {
+      "term": "Acknowledgement",
+      "definition": {
+        "vi": "Xác nhận nhận và hiểu thông tin theo cơ chế.",
+        "en": "Acknowledgement of information under agreed procedures."
+      }
+    },
+    {
+      "term": "Handover",
+      "definition": {
+        "vi": "Chuyển trách nhiệm có nội dung, điều kiện và xác nhận.",
+        "en": "Transfer of responsibility with information, conditions and acceptance."
+      }
+    },
+    {
+      "term": "Contingency trigger",
+      "definition": {
+        "vi": "Điều kiện kích hoạt phương án dự phòng được thống nhất.",
+        "en": "An agreed condition activating a contingency."
+      }
+    }
+  ],
+  "diagram": null,
+  "contentVersion": "batch-04-expanded-v1-2026-10-28",
+  "sourceIntro": {
+    "vi": "Nguồn theo mục và tài liệu đối chiếu. Lời giảng, bản Anh và câu hỏi được biên soạn cho Handbook. Hình gốc có tài liệu, trang PDF và lời giải thích riêng.",
+    "en": "Section-level sources and supplementary reading. Teaching, English text and questions are authored for the Handbook. Original figures identify source, PDF page and separate commentary."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Bản biên soạn đợt 4, ngày 28/10/2026, chờ người dùng duyệt; không phải ấn phẩm hoặc bản dịch chính thức UN. Mã bài là cách tổ chức của Handbook.",
+      "Giao diện giữ bốn tab, Tahoma, cỡ chữ và bố cục mẫu. Hình giữ chữ gốc, có lời giảng Việt–Anh. Nguồn theo mục chỉ nền kiến thức, không coi mọi câu là trích nguyên văn.",
+      "Nội dung chung không thay mandate, DUF hoặc SOP phái bộ, không tự trao quyền hoặc chứng nhận năng lực thực hành. Phần thực hành cần người hướng dẫn đủ năng lực và điều kiện phù hợp.",
+      "Nền Tactical Progression và Organization 2015 được đối chiếu chính sách 2024.14, CSC Lessons 10 và 12 (2026). Nội dung chọn theo phạm vi phối hợp, chỉ huy, chuẩn bị, bảo vệ và trách nhiệm, không dùng ngưỡng thời gian hoặc sơ đồ chiến thuật cũ như quy tắc an toàn chung.",
+      "Kỹ thuật vượt địa hình, di chuyển trong công trình và xử trí nguy cơ cao cần huấn luyện trực tiếp theo nhiệm vụ, loại trang bị và cơ sở được phép. Câu hỏi trong bài chỉ kiểm tra hiểu trách nhiệm và nguyên tắc."
+    ],
+    "en": [
+      "Batch 4 authored on 28 October 2026 for user review, not an official UN publication or translation. Lesson numbering belongs to the Handbook.",
+      "The four-tab Tahoma interface, sizes and sample layout are retained. Figures preserve original text with bilingual commentary. Mapping identifies knowledge foundations, not verbatim sourcing for every sentence.",
+      "General content does not replace applicable mandates, DUF or mission SOPs and confers neither powers nor practical certification. Practical learning requires competent instruction and suitable conditions.",
+      "Tactical Progression and Organization 2015 are compared with Policy 2024.14 and CSC Lessons 10 and 12 (2026). Selected content concerns preparation, command, coordination, protection and responsibility, without treating historical tactical timings or diagrams as universal safety rules.",
+      "Terrain, building and high-risk movement techniques require direct, task- and equipment-specific training in authorized facilities. Questions assess responsibility and principles rather than practical certification."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Di chuyển có tổ chức cần mục tiêu, chuẩn bị, liên lạc, quân số và phối hợp được duy trì. Bài học kết nối bảo vệ dân thường, điểm chuyển trách nhiệm, sự cố và huấn luyện tập thể.",
+      "en": "Organized movement requires maintained purpose, preparation, communication, accountability and coordination, connecting civilian safeguards, handovers, incidents and collective training."
+    },
+    "subtitle": {
+      "vi": "Giữ liên lạc · Rõ trách nhiệm · Bảo vệ khi di chuyển",
+      "en": "Maintain communication · Clarify responsibility · Protect during movement"
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích di chuyển phục vụ mục tiêu mà không tự tạo quyền can thiệp.",
+        "Tổ chức chuẩn bị nhiệm vụ, địa bàn, người, trang bị và hỗ trợ.",
+        "Duy trì thông tin, tín hiệu thống nhất, quân số và xử trí mất liên lạc.",
+        "Kết nối kiểm soát di chuyển với tiếp cận, phẩm giá và giảm hại.",
+        "Giải thích phối hợp liên đơn vị, bàn giao và kiểm chứng thực hành."
+      ],
+      "en": [
+        "Explain movement towards an objective without creating intervention powers.",
+        "Explain task, area, personnel, equipment and support preparation.",
+        "Maintain shared information, signals, accountability and communication-failure arrangements.",
+        "Connect movement control with access, dignity and harm reduction.",
+        "Explain inter-unit coordination, handover and practical verification."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc sáu mục trong tab Nội dung bài học; bấm hình để xem lớn và đọc lời giảng kèm. Làm 12 câu kiểm tra, đọc giải thích và trở lại mục liên quan. VI/EN giữ đáp án trong phiên; tải lại trang bắt đầu lại.",
+      "en": "Read six sections and figure commentary; click figures to enlarge. Complete 12 questions, review explanations and revisit relevant sections. VI/EN retains selections during the session; reloading starts again."
+    }
+  },
+  "figures": [
+    {
+      "chapter": 4,
+      "image": "assets/lesson-figures/batch-04/CSC012-p23.png",
+      "alt": {
+        "vi": "Hình 1. Nguyên tắc chỉ huy, kiểm soát và phối hợp",
+        "en": "Figure 1. Command, control and coordination principles"
+      },
+      "caption": {
+        "vi": "Hình 1. Nguyên tắc chỉ huy, kiểm soát và phối hợp",
+        "en": "Figure 1. Command, control and coordination principles"
+      },
+      "explanation": {
+        "vi": "Phối hợp cần đúng tuyến HoPC và người được giao, không tự chuyển quyền vì đứng chung hoặc có nhiều phương tiện. Phải xác định ai quyết định, ai thực hiện và ai nhận trách nhiệm tại điểm bàn giao.",
+        "en": "Coordination follows HoPC and authorized delegates, not proximity or equipment numbers. Establish decision authority, implementation and accepted responsibility at interfaces."
+      },
+      "sourceLabel": "UN FPU Command Staff Course 2026 · Lesson 12",
+      "pdfPage": 23
+    }
+  ],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft",
+  "figureZoom": true
+}

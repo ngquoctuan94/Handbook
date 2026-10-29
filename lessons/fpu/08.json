@@ -1,0 +1,735 @@
+{
+  "schemaVersion": 2,
+  "id": "FPU-08",
+  "area": "fpu",
+  "groupKey": "FPU-M3",
+  "group": {
+    "vi": "Huấn luyện súng",
+    "en": "Firearms training"
+  },
+  "title": {
+    "vi": "Huấn luyện súng: Cơ bản, trung cấp và nâng cao",
+    "en": "Firearms training: Basic, intermediate and advanced"
+  },
+  "summary": {
+    "vi": "Huấn luyện súng cần kết nối thẩm quyền, an toàn và phán đoán với lộ trình cơ bản–trung cấp–nâng cao. Bài học giải thích tiêu chí tiến bộ, tổ chức buổi học, đánh giá và trách nhiệm sau sự cố.",
+    "en": "Firearms learning connects authority, safety and judgment with basic, intermediate and advanced progression, controlled instruction, assessment and incident accountability."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "GUN1",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-022%20Firearms%20Basic.pdf",
+  "order": 101,
+  "sections": [
+    {
+      "id": "FPU-08-01",
+      "title": {
+        "vi": "1. Năng lực sử dụng súng và quyền sử dụng súng",
+        "en": "1. Firearms competence and authority"
+      },
+      "body": {
+        "vi": "### 1.1. Hai yêu cầu phải cùng được đáp ứng\nHuấn luyện súng nhằm bảo đảm cán bộ có thể quản lý, sử dụng trang bị an toàn và quyết định đúng trong phạm vi được giao. Thành tích bắn không tự trao quyền dùng súng. Một người thực hiện kỹ thuật tốt nhưng không nhận đúng căn cứ, đe dọa hoặc giới hạn vẫn chưa đạt năng lực cần cho công vụ quốc tế.\n\nQuyền mang, sử dụng súng phụ thuộc mandate, văn bản triển khai, DUF, phân công và chuẩn mực áp dụng. Vũ khí đưa tới phái bộ phải phù hợp cam kết và được quản lý. Không đem kinh nghiệm hoặc loại súng từng dùng trong nước để tự suy rằng có thể sử dụng một loại khác chưa được làm quen và xác nhận năng lực.\n\n### 1.2. Ngưỡng nghiêm ngặt khi dùng súng\nSúng là phương tiện có khả năng gây chết người. Trong thực thi pháp luật, việc dùng súng đối với người chỉ được xem xét trong những hoàn cảnh nghiêm ngặt liên quan bảo vệ trước đe dọa chết người hoặc thương tích nghiêm trọng và các trường hợp tương ứng trong nguyên tắc áp dụng, khi biện pháp ít nghiêm trọng hơn không đủ. Cố ý sử dụng súng gây chết người chỉ có thể khi hoàn toàn không thể tránh để bảo vệ sinh mạng.\n\nKhông đồng nhất bỏ chạy, không chấp hành hoặc gây thiệt hại tài sản với ngưỡng đó. Mục tiêu là ngăn đe dọa hợp pháp cần xử lý, không trừng phạt hoặc thể hiện uy thế. Phải tiếp tục đánh giá khi tình hình thay đổi, giảm hoặc dừng vũ lực khi căn cứ không còn.\n\n### 1.3. Cảnh báo, phòng ngừa và chăm sóc\nCần nhận diện mình và cảnh báo rõ khi phù hợp yêu cầu, cho thời gian tuân thủ, trừ ngoại lệ được chuẩn mực cho phép khi việc cảnh báo tạo nguy cơ nghiêm trọng hoặc rõ ràng không thích hợp. Đã cảnh báo không tự làm việc sử dụng súng trở nên hợp pháp. Kế hoạch và huấn luyện phải giảm nhu cầu dùng vũ lực, hạn chế hại cho người không liên quan và chuẩn bị hỗ trợ y tế.\n\n### 1.4. Điều người học cần phân biệt\nHãy phân biệt được phép mang, đủ năng lực kỹ thuật và được phép sử dụng trong một hoàn cảnh cụ thể. Ba điều liên quan nhưng không thay thế nhau. Bài học kết nối chuẩn quyết định với an toàn, lộ trình huấn luyện và trách nhiệm; thao tác vũ khí phải được hướng dẫn, thực hành và đánh giá trực tiếp trên đúng loại trang bị.",
+        "en": "### 1.1. Competence and authority are both required\nFirearms training develops safe management and sound decisions within assigned authority. Shooting performance does not confer permission to fire. Technical proficiency without correct recognition of grounds, threats and limits is incomplete professional competence.\n\nCarriage and use depend on the mandate, deployment arrangements, DUF, assignment and applicable standards. Deployed weapons must match authorized contributions and control arrangements. Domestic experience does not establish competence on an unfamiliar type.\n\n### 1.2. Strict thresholds\nFirearms are potentially lethal. Their use against people is restricted to stringent circumstances involving protection against death or serious injury and corresponding authorized grounds, where less extreme means are insufficient. Intentional lethal use is permitted only when strictly unavoidable to protect life.\n\nEscape, non-compliance or property damage does not automatically meet that threshold. The purpose is stopping a legally relevant threat, not punishment or intimidation. Reassess and reduce or stop force as circumstances change.\n\n### 1.3. Warning, precaution and care\nIdentify police status and give clear warning with time to comply where required, subject to recognized exceptions for serious danger or clear inappropriateness. Warning alone does not legalize firing. Planning and training must reduce force needs, mitigate harm and prepare medical support.\n\n### 1.4. Three separate questions\nDistinguish authorized carriage, demonstrated technical competence and lawful use in a particular event. This lesson connects judgment, safety, training progression and accountability. Weapon-specific procedures require direct instruction, practice and assessment."
+      },
+      "sourceIds": [
+        "POLICY",
+        "CSC014",
+        "BPUFF"
+      ]
+    },
+    {
+      "id": "FPU-08-02",
+      "title": {
+        "vi": "2. Nền an toàn khi quản lý và tiếp xúc vũ khí",
+        "en": "2. Safety foundations for handling and control"
+      },
+      "body": {
+        "vi": "### 2.1. An toàn là hành vi được duy trì\nBốn nguyên tắc nền gồm: Coi súng có đạn cho tới khi được kiểm tra đúng quy trình; giữ hướng an toàn; giữ ngón tay ngoài cò khi chưa có quyết định sử dụng hợp pháp; nhận diện rõ người, hoàn cảnh và khu vực xung quanh trước bất kỳ quyết định bắn nào. Những nguyên tắc này bổ sung nhau và cần được duy trì cả khi nhận, trả, di chuyển hoặc bảo dưỡng.\n\nMột lời thông báo súng đã an toàn không thay kiểm tra theo quy trình của loại vũ khí và người có trách nhiệm. Đồng thời, việc kiểm tra không được thực hiện tùy tiện ở nơi không phù hợp. Cần dùng khu vực, hướng và cơ chế kiểm soát đã được quy định, có hướng dẫn trực tiếp trong huấn luyện.\n\n### 2.2. Nhận, trả và lưu giữ\nHồ sơ phải liên hệ vũ khí với số nhận dạng, người nhận, thời gian và tình trạng. Đạn cùng trang bị liên quan được quản lý theo chế độ, không để người không có nhiệm vụ tiếp cận. Khi mất, thiếu hoặc nghi bất thường, báo ngay theo tuyến, bảo vệ hiện trường và hồ sơ; không tự bù số lượng để tránh ghi nhận.\n\nKho, điểm giao nhận và khu vực làm việc có yêu cầu khác nhau. Một người giữ trang bị không được tự chuyển cho người khác ngoài cơ chế cho phép. Trách nhiệm phải theo được trong suốt quá trình, không chỉ lúc kiểm kê cuối ca.\n\n### 2.3. Tình trạng kỹ thuật và giới hạn người dùng\nLỗi, hư hỏng, ăn mòn hoặc dấu hiệu hoạt động bất thường cần được báo và xử lý bởi người có năng lực. Không tự sửa, thay chi tiết hoặc dùng vật tư chưa được phép để đưa vũ khí trở lại nhiệm vụ. Việc làm sạch theo trách nhiệm người dùng không đồng nghĩa đủ trình độ bảo dưỡng kỹ thuật.\n\n### 2.4. Dừng khi không an toàn\nAi phát hiện điều kiện nguy hiểm phải có thể báo và kích hoạt dừng theo quy tắc huấn luyện. Không coi yêu cầu dừng là làm mất thành tích. Cần thống nhất tín hiệu, cách xác nhận và người cho phép tiếp tục sau khi kiểm tra. Khi có sự cố, ưu tiên an toàn, gọi y tế nếu cần và giữ thông tin; không tiếp tục bài tập để “kết thúc cho xong”.",
+        "en": "### 2.1. Sustained behaviour\nCore principles include treating firearms as loaded until correctly checked, maintaining a safe direction, keeping the finger away from the trigger without a lawful firing decision, and identifying the person, circumstances and surrounding area before firing. They apply during issue, return, movement and maintenance as well as training.\n\nAnother person's assurance does not replace required checks. Checks themselves must occur under weapon-specific procedures in an appropriate controlled location, learned through direct instruction.\n\n### 2.2. Issue, return and storage\nConnect serial identification with the recipient, time and condition. Control ammunition and access under the applicable system. Report losses, shortages or abnormalities promptly and preserve evidence rather than quietly replacing missing items.\n\nStorage, issue and operational locations have distinct requirements. Transfers between people require authorization and traceability throughout use, not only at final inventory.\n\n### 2.3. Technical condition\nReport damage, corrosion and abnormal function to competent personnel. Do not make unauthorized repairs, modifications or substitutions. Operator cleaning does not establish technical-maintenance qualifications.\n\n### 2.4. Stop unsafe activity\nAnyone noticing danger must be able to report and activate the established training stop process. Agree signals, acknowledgement and authority to resume after checks. Prioritize safety, medical help and information preservation following an incident rather than completing the exercise at any cost."
+      },
+      "sourceIds": [
+        "GUN1",
+        "CSC014"
+      ]
+    },
+    {
+      "id": "FPU-08-03",
+      "title": {
+        "vi": "3. Ba cấp huấn luyện và điều kiện tiến bộ",
+        "en": "3. Three training levels and progression"
+      },
+      "body": {
+        "vi": "### 3.1. Cơ bản: Nền kiểm soát và hiểu đúng\nCấp cơ bản xây nền hiểu trang bị, nguyên tắc an toàn, trách nhiệm, kiểm soát hành vi và năng lực thực hành ban đầu dưới hướng dẫn. Người học cần chứng minh làm đúng ổn định, hiểu lệnh và biết dừng, báo khi có vấn đề. Không chỉ tính số buổi tham dự hoặc một kết quả tốt tình cờ.\n\nKiến thức về vũ lực phải được gắn ngay vào cấp này. Học viên cần hiểu khác biệt giữa tình huống có nguy cơ, tình huống chưa rõ và tình huống đủ căn cứ sử dụng. Nếu chỉ huấn luyện kỹ thuật mà để quyết định hợp pháp tới cuối khóa, có thể hình thành thói quen không phù hợp từ đầu.\n\n### 3.2. Trung cấp: Giữ chuẩn khi yêu cầu phức tạp hơn\nCấp trung cấp tăng yêu cầu về nhận lệnh, phối hợp và duy trì kiểm soát trong bài thực hành được thiết kế. Chỉ tăng độ phức tạp khi nền cơ bản đã được đánh giá. Người hướng dẫn cần biết lỗi nào do kỹ thuật, lỗi nào do không hiểu nhiệm vụ, thiếu ngôn ngữ hoặc quá tải.\n\nKhông dùng tốc độ hoặc áp lực như mục tiêu độc lập. Nếu học viên mất an toàn khi yêu cầu tăng, cần giảm mức, hướng dẫn và kiểm tra lại. Bỏ qua lỗi để giữ lịch có thể chuyển thiếu sót vào môi trường tác nghiệp thật.\n\n### 3.3. Nâng cao: Tích hợp phán đoán và phối hợp\nCấp nâng cao tích hợp nhiều yêu cầu trong môi trường huấn luyện có kiểm soát, gồm đánh giá tình hình, lựa chọn hợp pháp, giao tiếp, phối hợp và trách nhiệm sau hành động. Cần quan sát cả quyết định không sử dụng súng khi chưa đủ căn cứ. Mục tiêu không phải luôn phản ứng mạnh hoặc nhanh hơn.\n\nThực hành chuyên sâu cần giảng viên, cơ sở, trang bị và biện pháp bảo vệ tương xứng. Không tự thêm nội dung chỉ vì đã hoàn thành một cấp trước hoặc xem được video. Các thao tác cụ thể và chuẩn đạt phải theo chương trình, loại vũ khí cùng cơ chế đánh giá áp dụng.\n\n### 3.4. Tiến cấp dựa trên bằng chứng\nMỗi cấp cần tiêu chí, đánh giá, ghi nhận thiếu sót, huấn luyện bổ sung và xác nhận phù hợp trước khi chuyển tiếp. Ba tên cấp mô tả lộ trình đào tạo, không tự tương đương giấy phép hoặc quyền dùng súng rộng hơn. Người đã đạt cấp cao vẫn phải tuân thủ giới hạn, kiểm tra và huấn luyện duy trì.",
+        "en": "### 3.1. Basic: Controlled foundations\nBasic training establishes equipment knowledge, safety, responsibility, behavioural control and initial supervised practical competence. Learners must perform consistently, understand commands and stop or report problems. Attendance or one successful attempt is insufficient.\n\nIntegrate lawful-force judgment from the outset. Distinguish potential danger, uncertainty and circumstances meeting the use threshold. Delaying judgment training until the course's end can establish inappropriate habits.\n\n### 3.2. Intermediate: Standards under added complexity\nIntermediate work increases command, coordination and control demands within designed exercises after basic competence is demonstrated. Instructors distinguish technical deficits from misunderstanding, language gaps and overload.\n\nSpeed and pressure are not independent objectives. Reduce complexity, coach and reassess if safety deteriorates. Ignoring faults to preserve a schedule transfers risk to real operations.\n\n### 3.3. Advanced: Integrated judgment\nAdvanced training combines assessment, lawful choice, communication, coordination and post-action duties in controlled settings. Assess decisions not to fire when grounds are absent. Greater force or speed is not the purpose.\n\nSpecialized practice requires suitable instructors, facilities, equipment and safeguards. Videos and previous course completion do not authorize improvised exercises. Procedures and standards remain programme- and weapon-specific.\n\n### 3.4. Evidence-based progression\nSpecify criteria, assess, record gaps, provide remediation and verify readiness before progression. Level names describe a learning pathway, not expanded legal powers. Advanced qualification does not remove safety, review or sustainment requirements."
+      },
+      "sourceIds": [
+        "GUN1",
+        "GUN2",
+        "GUN3"
+      ]
+    },
+    {
+      "id": "FPU-08-04",
+      "title": {
+        "vi": "4. Tổ chức buổi huấn luyện có kiểm soát",
+        "en": "4. Organizing controlled training"
+      },
+      "body": {
+        "vi": "### 4.1. Chuẩn bị người và điều kiện\nKế hoạch buổi học cần mục tiêu, điều kiện đầu vào, người hướng dẫn đủ năng lực, người phụ trách an toàn, khu vực được phép và hỗ trợ y tế. Kiểm tra tình trạng sức khỏe, mệt mỏi, khả năng hiểu ngôn ngữ và trang bị cần thiết. Một học viên vừa kết thúc ca dài có thể không đủ điều kiện cho bài yêu cầu tập trung cao.\n\nTrách nhiệm phải rõ giữa điều hành bài tập, quan sát an toàn, quản lý trang bị và xử trí sự cố. Khi một người đảm nhiệm nhiều vai trò, phải đánh giá còn đủ khả năng giám sát không. Không dùng số lượng người tham gia làm lý do vượt năng lực kiểm soát của giảng viên.\n\n### 4.2. Phân biệt phương tiện tập và trang bị thật\nBài mô phỏng cần quy trình kiểm tra và tách biệt trang bị, đạn hoặc phương tiện dùng cho từng dạng huấn luyện. Người tham gia phải biết ranh giới khu vực và không tự mang thêm trang bị. Cách quản lý phải ngăn nhầm lẫn, không chỉ dựa vào trí nhớ hoặc lời nói mọi người đã biết.\n\nNgay cả phương tiện mô phỏng vẫn có thể gây chấn thương nếu dùng không đúng. Trang bị bảo vệ, giới hạn bài tập, tín hiệu dừng và xử trí y tế cần phù hợp loại thực hành. Không gọi một phương tiện là “không nguy hiểm” chỉ vì không phải đạn tác nghiệp.\n\n### 4.3. Phổ biến và kiểm tra hiểu\nTrước buổi học, giải thích mục tiêu, phần việc, lệnh, điều kiện dừng, giới hạn và cách báo sự cố. Yêu cầu người học nhắc lại phần quan trọng khi cần. Không dùng tiếng lệnh chưa thống nhất giữa các nhóm, nhất là khi có nhiều quốc gia hoặc ngôn ngữ.\n\nQuan sát từng người, sửa lỗi có trọng tâm, cho tập lại và kiểm tra. Người hướng dẫn không chỉ nhìn kết quả cuối; hành vi an toàn trong toàn bộ quá trình mới cho biết mức kiểm soát thực.\n\n### 4.4. Kết thúc có kiểm đếm\nSau buổi học, quản lý việc thu hồi, kiểm tra, đối chiếu số lượng và tình trạng theo quy trình; báo bất thường, xử lý vật tư và cập nhật hồ sơ. Không để một bài tập kết thúc trên lịch trong khi trách nhiệm trang bị còn chưa được bàn giao. Ghi rõ ai chưa đạt và cần làm gì trước buổi tiếp theo.",
+        "en": "### 4.1. People and conditions\nSpecify objectives, prerequisites, qualified instruction, safety responsibility, an authorized area and medical support. Consider health, fatigue, language comprehension and equipment. Recent prolonged duty may make demanding practice inappropriate.\n\nSeparate exercise direction, safety observation, equipment control and emergency roles clearly. Assess supervision capacity when roles overlap. Participant numbers must remain within effective control.\n\n### 4.2. Separate training and operational equipment\nUse formal checks and separation for equipment and ammunition appropriate to each exercise. Participants must understand boundaries and avoid unauthorized items. Prevent confusion through systems rather than memory alone.\n\nSimulation can still injure. Match protection, exercise limits, stop signals and medical arrangements to the activity. Non-operational ammunition does not mean harmless equipment.\n\n### 4.3. Brief and verify understanding\nExplain objectives, tasks, commands, limits, stop conditions and reporting. Check important instructions by having learners explain them. Avoid inconsistent command language across national or language groups.\n\nObserve individual behaviour, provide focused correction, repeat and reassess. Final results alone cannot establish safe control throughout an exercise.\n\n### 4.4. Accountable closure\nRecover, check and reconcile equipment and ammunition under procedures. Report abnormalities and update records. An exercise is not fully closed while custody remains unclear. Record outstanding competence gaps and required remediation."
+      },
+      "sourceIds": [
+        "GUN1",
+        "GUN2",
+        "GUN3"
+      ]
+    },
+    {
+      "id": "FPU-08-05",
+      "title": {
+        "vi": "5. Đánh giá năng lực, khắc phục và duy trì",
+        "en": "5. Assessment, remediation and sustainment"
+      },
+      "body": {
+        "vi": "### 5.1. Đánh giá nhiều thành phần\nĐánh giá cần xem kiến thức pháp lý, hành vi an toàn, hiểu lệnh, kiểm soát trang bị, phán đoán và phần thực hành theo chuẩn. Không để điểm kỹ thuật cao che lỗi an toàn nghiêm trọng. Tiêu chí phải được thông báo và áp dụng thống nhất, có hồ sơ để giải thích kết quả.\n\nMột bài chỉ có lựa chọn sử dụng súng không đủ kiểm tra quyết định không sử dụng. Trong các bài được thiết kế đúng, người học cần nhận ra khi thông tin chưa đủ, khi cần giao tiếp, khi đe dọa đã chấm dứt và khi phải gọi hỗ trợ. Đây là kiểm tra phán đoán nghề nghiệp, không chỉ phản xạ.\n\n### 5.2. Sửa đúng nguyên nhân\nKhi không đạt, xác định khoảng trống cụ thể, huấn luyện bổ sung, điều kiện thực hành và cách đánh giá lại. Người chưa hiểu ngôn ngữ cần hỗ trợ khác người chưa kiểm soát được trang bị. Tăng số lần làm mà không sửa nguyên nhân có thể củng cố lỗi.\n\nKhông hạ chuẩn để đủ danh sách hoặc cho người khác thực hiện thay. Nếu thiếu sót ảnh hưởng điều kiện nhận nhiệm vụ, phải báo và điều chỉnh phân công qua cơ chế đơn vị. Việc bảo vệ sự trung thực của kết quả quan trọng hơn hình thức toàn bộ học viên đều đạt.\n\n### 5.3. Duy trì đúng loại và đúng vai trò\nNăng lực có thể suy giảm nếu lâu không thực hành; đổi trang bị, vai trò hoặc điều kiện cũng tạo nhu cầu huấn luyện lại. Kế hoạch duy trì cần theo chính sách, lịch phái bộ và kết quả đánh giá, sử dụng giảng viên được phép. Không chỉ ôn ngay trước một kỳ kiểm tra.\n\nLàm quen loại mới cần hướng dẫn, thực hành và xác nhận tương ứng. Không coi hai loại có hình thức giống nhau là có cùng quy trình hoặc hành vi kỹ thuật. Người chỉ huy cần biết ai đủ điều kiện cho vai trò nào ở thời điểm hiện tại.\n\n### 5.4. Hồ sơ có giá trị sử dụng\nGhi ngày, nội dung, loại trang bị, tiêu chí, người đánh giá, kết quả, giới hạn và việc còn phải làm. Phân biệt đã dự, đã được kiểm tra, đã đạt và còn hiệu lực theo quy định. Hồ sơ cần phục vụ giao nhiệm vụ và huấn luyện tiếp, không chỉ chứng minh số giờ học.",
+        "en": "### 5.1. Several dimensions\nAssess legal knowledge, safety behaviour, command comprehension, equipment control, judgment and prescribed practical performance. High technical scores cannot conceal serious safety failures. Apply communicated criteria consistently and retain explanatory records.\n\nExercises that always require firing cannot adequately assess restraint. Properly designed assessment includes uncertainty, communication, ended threats and assistance needs. This tests professional judgment rather than reflex alone.\n\n### 5.2. Address causes\nIdentify the exact deficit, remedial instruction, practice conditions and reassessment. Language misunderstanding requires different help from equipment-control failure. Repetition without correction can reinforce error.\n\nDo not lower standards or substitute another person to complete a list. Report task-relevant limitations and adjust assignments through command. Accurate outcomes matter more than universal pass rates.\n\n### 5.3. Sustain role-specific competence\nSkills may deteriorate without practice. Changed equipment, duties or conditions may require renewed training. Sustainment follows policy, mission schedules and findings with authorized instructors, rather than last-minute preparation only.\n\nSimilar-looking weapons need not have identical procedures. Familiarization requires instruction, practice and verification. Command must know who is currently qualified for each role.\n\n### 5.4. Useful records\nRecord dates, content, equipment, criteria, assessor, result, limitations and further action. Distinguish attendance, assessment, passing and continuing validity. Records should support tasking and further development, not merely hour counts."
+      },
+      "sourceIds": [
+        "POLICY",
+        "GUN1",
+        "GUN2",
+        "GUN3"
+      ]
+    },
+    {
+      "id": "FPU-08-06",
+      "title": {
+        "vi": "6. Sự cố, báo cáo và trách nhiệm sau sử dụng",
+        "en": "6. Incidents, reporting and post-use responsibilities"
+      },
+      "body": {
+        "vi": "### 6.1. Cứu giúp và bảo đảm an toàn\nSau sự cố hoặc sử dụng súng, ưu tiên chấm dứt nguy cơ, hỗ trợ y tế và bảo vệ những người liên quan trong phạm vi nhiệm vụ. Mọi phát súng khi làm nhiệm vụ cần được báo kịp thời theo cơ chế, không chỉ khi có người bị thương. Thiệt hại hoặc nguy cơ đối với dân thường cũng phải được ghi nhận.\n\nMột vụ nổ súng ngoài ý muốn trong huấn luyện hoặc giao nhận không được xem là chuyện nội bộ để tự bỏ qua. Cần dừng, kiểm soát khu vực theo quy trình, gọi hỗ trợ và báo người có trách nhiệm. Không tự tiếp tục sử dụng trang bị nghi có lỗi trước khi được đánh giá.\n\n### 6.2. Ghi sự kiện khách quan\nBáo thời gian, địa điểm, diễn biến, điều quan sát được, căn cứ quyết định tại thời điểm đó, cảnh báo nếu có, hành động và kết quả đã biết. Phân biệt điều trực tiếp thấy với thông tin người khác báo. Không điền chi tiết giả để bản tường trình có vẻ liền mạch.\n\nGiữ hồ sơ giao nhận, thông tin trang bị và tài liệu liên quan theo yêu cầu. Không tự thay đổi hiện trường, sửa nhật ký hoặc thống nhất lời kể để giảm trách nhiệm. Việc bảo toàn thông tin phải đi cùng chăm sóc người bị hại; không trì hoãn cứu giúp chỉ để giữ nguyên một vị trí.\n\n### 6.3. Giám sát và học từ gần sự cố\nChỉ huy phải xử lý thiếu sót khi biết, hỗ trợ quá trình xem xét và tổ chức biện pháp khắc phục. Sự cố suýt xảy ra cần được báo vì có thể cho thấy lỗi giao nhận, bố trí hoặc giám sát trước khi có thương vong. Phân biệt học để phòng ngừa với các thủ tục điều tra, kỷ luật có thẩm quyền; một buổi rút kinh nghiệm không thay các thủ tục đó.\n\n### 6.4. Chuẩn nghề nghiệp cần duy trì\nNgười học cần biết mình được làm gì, được huấn luyện tới đâu, tình trạng trang bị ra sao và khi nào phải dừng, báo, tìm hỗ trợ. Năng lực súng có trách nhiệm thể hiện ở cả quản lý an toàn, quyết định kiềm chế và phản ứng đúng sau sự cố. Thành tích thực hành chỉ có ý nghĩa khi nằm trong nền bảo vệ sinh mạng, quyền con người và trách nhiệm giải trình ấy.",
+        "en": "### 6.1. Safety and assistance\nAfter discharge or an incident, end danger, arrange medical care and protect affected people within authority. Report every operational discharge through applicable mechanisms, not only injury cases. Record civilian harm and risks.\n\nAn unintended discharge in training or issue procedures is not a private matter to dismiss. Stop, control the situation, obtain support and report. Suspect equipment requires assessment before further use.\n\n### 6.2. Objective accounts\nRecord timing, location, events, observations, decision grounds, warnings, actions and known results. Separate direct knowledge from received information and do not invent missing details.\n\nPreserve issue records, equipment information and relevant evidence. Do not alter logs or coordinate accounts to reduce responsibility. Evidence protection must coexist with urgent care rather than delay it.\n\n### 6.3. Oversight and near misses\nCommanders must address known shortcomings and support authorized review. Near misses can reveal issue, organization or supervision failures before casualties. Preventive learning does not replace competent investigation or disciplinary procedures.\n\n### 6.4. Professional standards\nKnow authority, training limits, equipment condition and stopping or reporting requirements. Responsible competence includes safe custody, restraint in decisions and proper post-incident action. Practical results matter within a foundation of life protection, rights and accountability."
+      },
+      "sourceIds": [
+        "POLICY",
+        "CSC014"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "POLICY",
+      "title": "Policy 2024.14: Formed Police Units in United Nations Peace Operations",
+      "publisher": "United Nations DPO",
+      "year": "2024",
+      "url": "https://resourcehub01.blob.core.windows.net/$web/Policy%20and%20Guidance/corepeacekeepingguidance/Thematic%20Operational%20Activities/Police%20and%20Law%20Enforcement/2024.14%20Formed%20Police%20Units%20in%20United%20Nations%20Peace%20Operations.pdf",
+      "format": "pdf",
+      "pages": 34,
+      "reading": "Nguồn chính sách nền; hiệu lực 01/12/2024",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "CSC014",
+      "title": "FPU Command Staff Course 2026 · Lesson 14: Use of Force and Firearms",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-014%20Lesson%2014%20Use%20of%20Force%20and%20Firearms%20(LP).pdf",
+      "year": "2026",
+      "publisher": "United Nations Police / DPO",
+      "format": "pdf"
+    },
+    {
+      "id": "BPUFF",
+      "title": "Basic Principles on the Use of Force and Firearms by Law Enforcement Officials",
+      "url": "https://www.ohchr.org/sites/default/files/Documents/ProfessionalInterest/firearms.pdf",
+      "year": "1990",
+      "publisher": "United Nations / OHCHR",
+      "format": "pdf"
+    },
+    {
+      "id": "GUN1",
+      "title": "Firearms Basic Level",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-022%20Firearms%20Basic.pdf",
+      "format": "pdf",
+      "pages": 58,
+      "reading": "2–3; 7; 25",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "GUN2",
+      "title": "Firearms Intermediate Level",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-023%20Firearms%20Intermediate.pdf",
+      "format": "pdf",
+      "pages": 29,
+      "reading": "phần mục tiêu, điều kiện và nội dung huấn luyện",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "GUN3",
+      "title": "Firearms Advanced Level",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-024%20Firearms%20Advanced.pdf",
+      "format": "pdf",
+      "pages": 21,
+      "reading": "phần mục tiêu, điều kiện và nội dung huấn luyện",
+      "checked": "2026-10-24"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Bắn đạt điểm cao có tự trao quyền dùng súng khi làm nhiệm vụ không?",
+        "en": "Does a high shooting score itself authorize operational firearm use?"
+      },
+      "options": [
+        {
+          "vi": "Không; còn cần thẩm quyền và căn cứ hoàn cảnh cụ thể.",
+          "en": "No; authority and situation-specific grounds are still required."
+        },
+        {
+          "vi": "Có, nếu đã hoàn thành cấp nâng cao.",
+          "en": "Yes, after advanced training."
+        },
+        {
+          "vi": "Có, trong mọi trường hợp bỏ chạy.",
+          "en": "Yes, in every escape situation."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Năng lực kỹ thuật, quyền mang và quyền sử dụng là các điều kiện khác nhau. Xem mục 1.",
+        "en": "Technical competence, carriage and use authority are distinct conditions. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Cố ý dùng súng gây chết người chỉ có thể khi nào?",
+        "en": "When may intentional lethal firearm use be permitted?"
+      },
+      "options": [
+        {
+          "vi": "Khi cần bảo vệ uy thế.",
+          "en": "To preserve authority’s prestige."
+        },
+        {
+          "vi": "Khi hoàn toàn không thể tránh để bảo vệ sinh mạng, trong giới hạn áp dụng.",
+          "en": "Only when strictly unavoidable to protect life within applicable limits."
+        },
+        {
+          "vi": "Khi có bất kỳ thiệt hại tài sản nào.",
+          "en": "Whenever any property damage occurs."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Ngưỡng bảo vệ sinh mạng nghiêm ngặt không được thay bằng không chấp hành hoặc trừng phạt. Xem mục 1.",
+        "en": "The strict life-protection threshold cannot be replaced by non-compliance or punishment. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Thông báo của người khác rằng súng an toàn nên được hiểu thế nào?",
+        "en": "How should another person’s assurance of safety be treated?"
+      },
+      "options": [
+        {
+          "vi": "Đủ để bỏ mọi kiểm tra.",
+          "en": "It removes all checking requirements."
+        },
+        {
+          "vi": "Không thay kiểm tra đúng quy trình và nơi kiểm soát được quy định.",
+          "en": "It does not replace required checks in the prescribed controlled setting."
+        },
+        {
+          "vi": "Cho phép tự kiểm tra bằng cách tùy tiện ở bất kỳ đâu.",
+          "en": "It permits improvised checks anywhere."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "An toàn cần quy trình đúng loại và điều kiện, không dựa chỉ lời nói. Xem mục 2.",
+        "en": "Safety requires type-specific procedures and conditions, not assurance alone. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Phát hiện hỏng kỹ thuật, người sử dụng nên làm gì?",
+        "en": "What should an operator do about a technical defect?"
+      },
+      "options": [
+        {
+          "vi": "Báo và kiểm soát sử dụng, chuyển người đủ năng lực xử lý.",
+          "en": "Report, control use and refer to competent technical personnel."
+        },
+        {
+          "vi": "Tự thay chi tiết chưa được phép.",
+          "en": "Make unauthorized component changes."
+        },
+        {
+          "vi": "Giấu lỗi nếu vẫn dùng được đôi lúc.",
+          "en": "Conceal it if the weapon sometimes works."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Vận hành không đồng nghĩa có quyền sửa; lỗi cần được xử lý có kiểm chứng. Xem mục 2.",
+        "en": "Operation does not establish repair authority; verified correction is required. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Điều kiện tiến từ cơ bản lên trung cấp là gì?",
+        "en": "What supports progression from basic to intermediate training?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ dự đủ ngày.",
+          "en": "Attendance days only."
+        },
+        {
+          "vi": "Muốn tăng độ khó cho hấp dẫn.",
+          "en": "A desire for a more exciting challenge."
+        },
+        {
+          "vi": "Đã chứng minh nền năng lực và an toàn theo tiêu chí.",
+          "en": "Demonstrated foundational competence and safety against criteria."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Tiến cấp dựa bằng chứng, không chỉ lịch hoặc tên khóa. Xem mục 3.",
+        "en": "Progression is evidence-based rather than schedule- or title-based. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Ở cấp nâng cao, quyết định không sử dụng khi thiếu căn cứ có giá trị không?",
+        "en": "At advanced level, does deciding not to fire without grounds matter?"
+      },
+      "options": [
+        {
+          "vi": "Không; tốc độ là tiêu chí duy nhất.",
+          "en": "No; speed is the only criterion."
+        },
+        {
+          "vi": "Có; là phần phán đoán nghề nghiệp cần được đánh giá.",
+          "en": "Yes; professional judgment requires its assessment."
+        },
+        {
+          "vi": "Không; mọi bài phải kết thúc bằng sử dụng súng.",
+          "en": "No; every exercise must end in firing."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Năng lực tích hợp gồm lựa chọn hợp pháp và kiềm chế, không chỉ kỹ thuật. Xem mục 3.",
+        "en": "Integrated competence includes lawful restraint as well as technique. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Vì sao phải tách và kiểm soát trang bị tập với trang bị thật?",
+        "en": "Why separate and control training and operational equipment?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ để kho đẹp hơn.",
+          "en": "Only to improve storage appearance."
+        },
+        {
+          "vi": "Không cần nếu mọi người quen nhau.",
+          "en": "It is unnecessary when everyone knows each other."
+        },
+        {
+          "vi": "Để ngăn nhầm lẫn, với kiểm tra và trách nhiệm rõ.",
+          "en": "To prevent confusion through checks and clear responsibility."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Biện pháp hệ thống cần thiết; trí nhớ và sự quen biết không đủ. Xem mục 4.",
+        "en": "System safeguards are necessary; familiarity and memory are insufficient. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Khi phát hiện điều kiện huấn luyện nguy hiểm, cần làm gì?",
+        "en": "What is required on detecting unsafe training conditions?"
+      },
+      "options": [
+        {
+          "vi": "Tiếp tục để giữ thành tích.",
+          "en": "Continue to preserve results."
+        },
+        {
+          "vi": "Chờ hết buổi mới báo.",
+          "en": "Wait until the session ends."
+        },
+        {
+          "vi": "Kích hoạt dừng theo quy tắc, kiểm tra và chỉ tiếp tục khi được phép.",
+          "en": "Activate the stop process, check and resume only when authorized."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Dừng an toàn là trách nhiệm, không phải lỗi gây mất tiến độ. Xem mục 4.",
+        "en": "Stopping danger is a responsibility, not a failure to maintain schedule. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Điểm kỹ thuật cao có bù lỗi an toàn nghiêm trọng không?",
+        "en": "Can high technical scores offset serious safety failures?"
+      },
+      "options": [
+        {
+          "vi": "Có, nếu tổng điểm đủ.",
+          "en": "Yes, if the total score passes."
+        },
+        {
+          "vi": "Không; phải đánh giá và khắc phục lỗi theo chuẩn.",
+          "en": "No; assess and remedy the failure under standards."
+        },
+        {
+          "vi": "Có, nếu học viên có thâm niên.",
+          "en": "Yes, for experienced personnel."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Năng lực gồm nhiều thành phần; an toàn không thể được che bằng thành tích. Xem mục 5.",
+        "en": "Competence has several dimensions; results cannot conceal unsafe conduct. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Đổi sang loại vũ khí hình thức tương tự có cần làm quen không?",
+        "en": "Does a similar-looking new weapon require familiarization?"
+      },
+      "options": [
+        {
+          "vi": "Có; cần hướng dẫn, thực hành và xác nhận phù hợp.",
+          "en": "Yes; suitable instruction, practice and verification are needed."
+        },
+        {
+          "vi": "Chỉ cần xem ảnh.",
+          "en": "Only viewing a photograph is needed."
+        },
+        {
+          "vi": "Không, hình giống là quy trình giống.",
+          "en": "No; similar appearance means identical procedures."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Tương đồng hình thức không chứng minh cùng chức năng hoặc năng lực người dùng. Xem mục 5.",
+        "en": "Visual similarity establishes neither identical function nor operator competence. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Phát súng ngoài ý muốn trong huấn luyện nên xử lý thế nào?",
+        "en": "How should an unintended training discharge be handled?"
+      },
+      "options": [
+        {
+          "vi": "Tự thống nhất lời kể rồi tiếp tục.",
+          "en": "Coordinate accounts and continue."
+        },
+        {
+          "vi": "Bỏ qua nếu chưa thấy ai bị thương.",
+          "en": "Ignore it without visible injury."
+        },
+        {
+          "vi": "Dừng, bảo đảm an toàn, hỗ trợ và báo theo cơ chế.",
+          "en": "Stop, establish safety, obtain assistance and report."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Sự cố và gần sự cố cần xử lý để ngăn hại, không chỉ khi đã có thương vong. Xem mục 6.",
+        "en": "Incidents and near misses require action before casualties occur. See section 6."
+      },
+      "chapter": 5
+    },
+    {
+      "question": {
+        "vi": "Báo cáo sau sử dụng cần phân biệt điều gì?",
+        "en": "What distinction matters in post-use reporting?"
+      },
+      "options": [
+        {
+          "vi": "Điều trực tiếp quan sát, thông tin được báo và căn cứ biết lúc quyết định.",
+          "en": "Direct observation, received information and grounds known at decision time."
+        },
+        {
+          "vi": "Không cần phân biệt nếu câu chuyện liền mạch.",
+          "en": "No distinction if the story is coherent."
+        },
+        {
+          "vi": "Có thể bổ sung chi tiết giả cho đủ mẫu.",
+          "en": "Invent details to complete the form."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Tính khách quan và bối cảnh quyết định giúp giải trình; không sửa hồ sơ để giảm trách nhiệm. Xem mục 6.",
+        "en": "Objectivity and decision context support accountability; do not alter records to reduce responsibility. See section 6."
+      },
+      "chapter": 5
+    }
+  ],
+  "updated": "2026-10-28",
+  "moduleId": "FPU-M3",
+  "moduleOrder": 1,
+  "lessonOrder": 1,
+  "sourceModule": {
+    "programme": "STM-FPU",
+    "number": 3,
+    "title": "Firearms training"
+  },
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "FPU-08-01",
+      "title": {
+        "vi": "1. Năng lực sử dụng súng và quyền sử dụng súng",
+        "en": "1. Firearms competence and authority"
+      },
+      "body": {
+        "vi": "### 1.1. Hai yêu cầu phải cùng được đáp ứng\nHuấn luyện súng nhằm bảo đảm cán bộ có thể quản lý, sử dụng trang bị an toàn và quyết định đúng trong phạm vi được giao. Thành tích bắn không tự trao quyền dùng súng. Một người thực hiện kỹ thuật tốt nhưng không nhận đúng căn cứ, đe dọa hoặc giới hạn vẫn chưa đạt năng lực cần cho công vụ quốc tế.\n\nQuyền mang, sử dụng súng phụ thuộc mandate, văn bản triển khai, DUF, phân công và chuẩn mực áp dụng. Vũ khí đưa tới phái bộ phải phù hợp cam kết và được quản lý. Không đem kinh nghiệm hoặc loại súng từng dùng trong nước để tự suy rằng có thể sử dụng một loại khác chưa được làm quen và xác nhận năng lực.\n\n### 1.2. Ngưỡng nghiêm ngặt khi dùng súng\nSúng là phương tiện có khả năng gây chết người. Trong thực thi pháp luật, việc dùng súng đối với người chỉ được xem xét trong những hoàn cảnh nghiêm ngặt liên quan bảo vệ trước đe dọa chết người hoặc thương tích nghiêm trọng và các trường hợp tương ứng trong nguyên tắc áp dụng, khi biện pháp ít nghiêm trọng hơn không đủ. Cố ý sử dụng súng gây chết người chỉ có thể khi hoàn toàn không thể tránh để bảo vệ sinh mạng.\n\nKhông đồng nhất bỏ chạy, không chấp hành hoặc gây thiệt hại tài sản với ngưỡng đó. Mục tiêu là ngăn đe dọa hợp pháp cần xử lý, không trừng phạt hoặc thể hiện uy thế. Phải tiếp tục đánh giá khi tình hình thay đổi, giảm hoặc dừng vũ lực khi căn cứ không còn.\n\n### 1.3. Cảnh báo, phòng ngừa và chăm sóc\nCần nhận diện mình và cảnh báo rõ khi phù hợp yêu cầu, cho thời gian tuân thủ, trừ ngoại lệ được chuẩn mực cho phép khi việc cảnh báo tạo nguy cơ nghiêm trọng hoặc rõ ràng không thích hợp. Đã cảnh báo không tự làm việc sử dụng súng trở nên hợp pháp. Kế hoạch và huấn luyện phải giảm nhu cầu dùng vũ lực, hạn chế hại cho người không liên quan và chuẩn bị hỗ trợ y tế.\n\n### 1.4. Điều người học cần phân biệt\nHãy phân biệt được phép mang, đủ năng lực kỹ thuật và được phép sử dụng trong một hoàn cảnh cụ thể. Ba điều liên quan nhưng không thay thế nhau. Bài học kết nối chuẩn quyết định với an toàn, lộ trình huấn luyện và trách nhiệm; thao tác vũ khí phải được hướng dẫn, thực hành và đánh giá trực tiếp trên đúng loại trang bị.",
+        "en": "### 1.1. Competence and authority are both required\nFirearms training develops safe management and sound decisions within assigned authority. Shooting performance does not confer permission to fire. Technical proficiency without correct recognition of grounds, threats and limits is incomplete professional competence.\n\nCarriage and use depend on the mandate, deployment arrangements, DUF, assignment and applicable standards. Deployed weapons must match authorized contributions and control arrangements. Domestic experience does not establish competence on an unfamiliar type.\n\n### 1.2. Strict thresholds\nFirearms are potentially lethal. Their use against people is restricted to stringent circumstances involving protection against death or serious injury and corresponding authorized grounds, where less extreme means are insufficient. Intentional lethal use is permitted only when strictly unavoidable to protect life.\n\nEscape, non-compliance or property damage does not automatically meet that threshold. The purpose is stopping a legally relevant threat, not punishment or intimidation. Reassess and reduce or stop force as circumstances change.\n\n### 1.3. Warning, precaution and care\nIdentify police status and give clear warning with time to comply where required, subject to recognized exceptions for serious danger or clear inappropriateness. Warning alone does not legalize firing. Planning and training must reduce force needs, mitigate harm and prepare medical support.\n\n### 1.4. Three separate questions\nDistinguish authorized carriage, demonstrated technical competence and lawful use in a particular event. This lesson connects judgment, safety, training progression and accountability. Weapon-specific procedures require direct instruction, practice and assessment."
+      },
+      "sourceIds": [
+        "POLICY",
+        "CSC014",
+        "BPUFF"
+      ]
+    },
+    {
+      "id": "FPU-08-02",
+      "title": {
+        "vi": "2. Nền an toàn khi quản lý và tiếp xúc vũ khí",
+        "en": "2. Safety foundations for handling and control"
+      },
+      "body": {
+        "vi": "### 2.1. An toàn là hành vi được duy trì\nBốn nguyên tắc nền gồm: Coi súng có đạn cho tới khi được kiểm tra đúng quy trình; giữ hướng an toàn; giữ ngón tay ngoài cò khi chưa có quyết định sử dụng hợp pháp; nhận diện rõ người, hoàn cảnh và khu vực xung quanh trước bất kỳ quyết định bắn nào. Những nguyên tắc này bổ sung nhau và cần được duy trì cả khi nhận, trả, di chuyển hoặc bảo dưỡng.\n\nMột lời thông báo súng đã an toàn không thay kiểm tra theo quy trình của loại vũ khí và người có trách nhiệm. Đồng thời, việc kiểm tra không được thực hiện tùy tiện ở nơi không phù hợp. Cần dùng khu vực, hướng và cơ chế kiểm soát đã được quy định, có hướng dẫn trực tiếp trong huấn luyện.\n\n### 2.2. Nhận, trả và lưu giữ\nHồ sơ phải liên hệ vũ khí với số nhận dạng, người nhận, thời gian và tình trạng. Đạn cùng trang bị liên quan được quản lý theo chế độ, không để người không có nhiệm vụ tiếp cận. Khi mất, thiếu hoặc nghi bất thường, báo ngay theo tuyến, bảo vệ hiện trường và hồ sơ; không tự bù số lượng để tránh ghi nhận.\n\nKho, điểm giao nhận và khu vực làm việc có yêu cầu khác nhau. Một người giữ trang bị không được tự chuyển cho người khác ngoài cơ chế cho phép. Trách nhiệm phải theo được trong suốt quá trình, không chỉ lúc kiểm kê cuối ca.\n\n### 2.3. Tình trạng kỹ thuật và giới hạn người dùng\nLỗi, hư hỏng, ăn mòn hoặc dấu hiệu hoạt động bất thường cần được báo và xử lý bởi người có năng lực. Không tự sửa, thay chi tiết hoặc dùng vật tư chưa được phép để đưa vũ khí trở lại nhiệm vụ. Việc làm sạch theo trách nhiệm người dùng không đồng nghĩa đủ trình độ bảo dưỡng kỹ thuật.\n\n### 2.4. Dừng khi không an toàn\nAi phát hiện điều kiện nguy hiểm phải có thể báo và kích hoạt dừng theo quy tắc huấn luyện. Không coi yêu cầu dừng là làm mất thành tích. Cần thống nhất tín hiệu, cách xác nhận và người cho phép tiếp tục sau khi kiểm tra. Khi có sự cố, ưu tiên an toàn, gọi y tế nếu cần và giữ thông tin; không tiếp tục bài tập để “kết thúc cho xong”.",
+        "en": "### 2.1. Sustained behaviour\nCore principles include treating firearms as loaded until correctly checked, maintaining a safe direction, keeping the finger away from the trigger without a lawful firing decision, and identifying the person, circumstances and surrounding area before firing. They apply during issue, return, movement and maintenance as well as training.\n\nAnother person's assurance does not replace required checks. Checks themselves must occur under weapon-specific procedures in an appropriate controlled location, learned through direct instruction.\n\n### 2.2. Issue, return and storage\nConnect serial identification with the recipient, time and condition. Control ammunition and access under the applicable system. Report losses, shortages or abnormalities promptly and preserve evidence rather than quietly replacing missing items.\n\nStorage, issue and operational locations have distinct requirements. Transfers between people require authorization and traceability throughout use, not only at final inventory.\n\n### 2.3. Technical condition\nReport damage, corrosion and abnormal function to competent personnel. Do not make unauthorized repairs, modifications or substitutions. Operator cleaning does not establish technical-maintenance qualifications.\n\n### 2.4. Stop unsafe activity\nAnyone noticing danger must be able to report and activate the established training stop process. Agree signals, acknowledgement and authority to resume after checks. Prioritize safety, medical help and information preservation following an incident rather than completing the exercise at any cost."
+      },
+      "sourceIds": [
+        "GUN1",
+        "CSC014"
+      ]
+    },
+    {
+      "id": "FPU-08-03",
+      "title": {
+        "vi": "3. Ba cấp huấn luyện và điều kiện tiến bộ",
+        "en": "3. Three training levels and progression"
+      },
+      "body": {
+        "vi": "### 3.1. Cơ bản: Nền kiểm soát và hiểu đúng\nCấp cơ bản xây nền hiểu trang bị, nguyên tắc an toàn, trách nhiệm, kiểm soát hành vi và năng lực thực hành ban đầu dưới hướng dẫn. Người học cần chứng minh làm đúng ổn định, hiểu lệnh và biết dừng, báo khi có vấn đề. Không chỉ tính số buổi tham dự hoặc một kết quả tốt tình cờ.\n\nKiến thức về vũ lực phải được gắn ngay vào cấp này. Học viên cần hiểu khác biệt giữa tình huống có nguy cơ, tình huống chưa rõ và tình huống đủ căn cứ sử dụng. Nếu chỉ huấn luyện kỹ thuật mà để quyết định hợp pháp tới cuối khóa, có thể hình thành thói quen không phù hợp từ đầu.\n\n### 3.2. Trung cấp: Giữ chuẩn khi yêu cầu phức tạp hơn\nCấp trung cấp tăng yêu cầu về nhận lệnh, phối hợp và duy trì kiểm soát trong bài thực hành được thiết kế. Chỉ tăng độ phức tạp khi nền cơ bản đã được đánh giá. Người hướng dẫn cần biết lỗi nào do kỹ thuật, lỗi nào do không hiểu nhiệm vụ, thiếu ngôn ngữ hoặc quá tải.\n\nKhông dùng tốc độ hoặc áp lực như mục tiêu độc lập. Nếu học viên mất an toàn khi yêu cầu tăng, cần giảm mức, hướng dẫn và kiểm tra lại. Bỏ qua lỗi để giữ lịch có thể chuyển thiếu sót vào môi trường tác nghiệp thật.\n\n### 3.3. Nâng cao: Tích hợp phán đoán và phối hợp\nCấp nâng cao tích hợp nhiều yêu cầu trong môi trường huấn luyện có kiểm soát, gồm đánh giá tình hình, lựa chọn hợp pháp, giao tiếp, phối hợp và trách nhiệm sau hành động. Cần quan sát cả quyết định không sử dụng súng khi chưa đủ căn cứ. Mục tiêu không phải luôn phản ứng mạnh hoặc nhanh hơn.\n\nThực hành chuyên sâu cần giảng viên, cơ sở, trang bị và biện pháp bảo vệ tương xứng. Không tự thêm nội dung chỉ vì đã hoàn thành một cấp trước hoặc xem được video. Các thao tác cụ thể và chuẩn đạt phải theo chương trình, loại vũ khí cùng cơ chế đánh giá áp dụng.\n\n### 3.4. Tiến cấp dựa trên bằng chứng\nMỗi cấp cần tiêu chí, đánh giá, ghi nhận thiếu sót, huấn luyện bổ sung và xác nhận phù hợp trước khi chuyển tiếp. Ba tên cấp mô tả lộ trình đào tạo, không tự tương đương giấy phép hoặc quyền dùng súng rộng hơn. Người đã đạt cấp cao vẫn phải tuân thủ giới hạn, kiểm tra và huấn luyện duy trì.",
+        "en": "### 3.1. Basic: Controlled foundations\nBasic training establishes equipment knowledge, safety, responsibility, behavioural control and initial supervised practical competence. Learners must perform consistently, understand commands and stop or report problems. Attendance or one successful attempt is insufficient.\n\nIntegrate lawful-force judgment from the outset. Distinguish potential danger, uncertainty and circumstances meeting the use threshold. Delaying judgment training until the course's end can establish inappropriate habits.\n\n### 3.2. Intermediate: Standards under added complexity\nIntermediate work increases command, coordination and control demands within designed exercises after basic competence is demonstrated. Instructors distinguish technical deficits from misunderstanding, language gaps and overload.\n\nSpeed and pressure are not independent objectives. Reduce complexity, coach and reassess if safety deteriorates. Ignoring faults to preserve a schedule transfers risk to real operations.\n\n### 3.3. Advanced: Integrated judgment\nAdvanced training combines assessment, lawful choice, communication, coordination and post-action duties in controlled settings. Assess decisions not to fire when grounds are absent. Greater force or speed is not the purpose.\n\nSpecialized practice requires suitable instructors, facilities, equipment and safeguards. Videos and previous course completion do not authorize improvised exercises. Procedures and standards remain programme- and weapon-specific.\n\n### 3.4. Evidence-based progression\nSpecify criteria, assess, record gaps, provide remediation and verify readiness before progression. Level names describe a learning pathway, not expanded legal powers. Advanced qualification does not remove safety, review or sustainment requirements."
+      },
+      "sourceIds": [
+        "GUN1",
+        "GUN2",
+        "GUN3"
+      ]
+    },
+    {
+      "id": "FPU-08-04",
+      "title": {
+        "vi": "4. Tổ chức buổi huấn luyện có kiểm soát",
+        "en": "4. Organizing controlled training"
+      },
+      "body": {
+        "vi": "### 4.1. Chuẩn bị người và điều kiện\nKế hoạch buổi học cần mục tiêu, điều kiện đầu vào, người hướng dẫn đủ năng lực, người phụ trách an toàn, khu vực được phép và hỗ trợ y tế. Kiểm tra tình trạng sức khỏe, mệt mỏi, khả năng hiểu ngôn ngữ và trang bị cần thiết. Một học viên vừa kết thúc ca dài có thể không đủ điều kiện cho bài yêu cầu tập trung cao.\n\nTrách nhiệm phải rõ giữa điều hành bài tập, quan sát an toàn, quản lý trang bị và xử trí sự cố. Khi một người đảm nhiệm nhiều vai trò, phải đánh giá còn đủ khả năng giám sát không. Không dùng số lượng người tham gia làm lý do vượt năng lực kiểm soát của giảng viên.\n\n### 4.2. Phân biệt phương tiện tập và trang bị thật\nBài mô phỏng cần quy trình kiểm tra và tách biệt trang bị, đạn hoặc phương tiện dùng cho từng dạng huấn luyện. Người tham gia phải biết ranh giới khu vực và không tự mang thêm trang bị. Cách quản lý phải ngăn nhầm lẫn, không chỉ dựa vào trí nhớ hoặc lời nói mọi người đã biết.\n\nNgay cả phương tiện mô phỏng vẫn có thể gây chấn thương nếu dùng không đúng. Trang bị bảo vệ, giới hạn bài tập, tín hiệu dừng và xử trí y tế cần phù hợp loại thực hành. Không gọi một phương tiện là “không nguy hiểm” chỉ vì không phải đạn tác nghiệp.\n\n### 4.3. Phổ biến và kiểm tra hiểu\nTrước buổi học, giải thích mục tiêu, phần việc, lệnh, điều kiện dừng, giới hạn và cách báo sự cố. Yêu cầu người học nhắc lại phần quan trọng khi cần. Không dùng tiếng lệnh chưa thống nhất giữa các nhóm, nhất là khi có nhiều quốc gia hoặc ngôn ngữ.\n\nQuan sát từng người, sửa lỗi có trọng tâm, cho tập lại và kiểm tra. Người hướng dẫn không chỉ nhìn kết quả cuối; hành vi an toàn trong toàn bộ quá trình mới cho biết mức kiểm soát thực.\n\n### 4.4. Kết thúc có kiểm đếm\nSau buổi học, quản lý việc thu hồi, kiểm tra, đối chiếu số lượng và tình trạng theo quy trình; báo bất thường, xử lý vật tư và cập nhật hồ sơ. Không để một bài tập kết thúc trên lịch trong khi trách nhiệm trang bị còn chưa được bàn giao. Ghi rõ ai chưa đạt và cần làm gì trước buổi tiếp theo.",
+        "en": "### 4.1. People and conditions\nSpecify objectives, prerequisites, qualified instruction, safety responsibility, an authorized area and medical support. Consider health, fatigue, language comprehension and equipment. Recent prolonged duty may make demanding practice inappropriate.\n\nSeparate exercise direction, safety observation, equipment control and emergency roles clearly. Assess supervision capacity when roles overlap. Participant numbers must remain within effective control.\n\n### 4.2. Separate training and operational equipment\nUse formal checks and separation for equipment and ammunition appropriate to each exercise. Participants must understand boundaries and avoid unauthorized items. Prevent confusion through systems rather than memory alone.\n\nSimulation can still injure. Match protection, exercise limits, stop signals and medical arrangements to the activity. Non-operational ammunition does not mean harmless equipment.\n\n### 4.3. Brief and verify understanding\nExplain objectives, tasks, commands, limits, stop conditions and reporting. Check important instructions by having learners explain them. Avoid inconsistent command language across national or language groups.\n\nObserve individual behaviour, provide focused correction, repeat and reassess. Final results alone cannot establish safe control throughout an exercise.\n\n### 4.4. Accountable closure\nRecover, check and reconcile equipment and ammunition under procedures. Report abnormalities and update records. An exercise is not fully closed while custody remains unclear. Record outstanding competence gaps and required remediation."
+      },
+      "sourceIds": [
+        "GUN1",
+        "GUN2",
+        "GUN3"
+      ]
+    },
+    {
+      "id": "FPU-08-05",
+      "title": {
+        "vi": "5. Đánh giá năng lực, khắc phục và duy trì",
+        "en": "5. Assessment, remediation and sustainment"
+      },
+      "body": {
+        "vi": "### 5.1. Đánh giá nhiều thành phần\nĐánh giá cần xem kiến thức pháp lý, hành vi an toàn, hiểu lệnh, kiểm soát trang bị, phán đoán và phần thực hành theo chuẩn. Không để điểm kỹ thuật cao che lỗi an toàn nghiêm trọng. Tiêu chí phải được thông báo và áp dụng thống nhất, có hồ sơ để giải thích kết quả.\n\nMột bài chỉ có lựa chọn sử dụng súng không đủ kiểm tra quyết định không sử dụng. Trong các bài được thiết kế đúng, người học cần nhận ra khi thông tin chưa đủ, khi cần giao tiếp, khi đe dọa đã chấm dứt và khi phải gọi hỗ trợ. Đây là kiểm tra phán đoán nghề nghiệp, không chỉ phản xạ.\n\n### 5.2. Sửa đúng nguyên nhân\nKhi không đạt, xác định khoảng trống cụ thể, huấn luyện bổ sung, điều kiện thực hành và cách đánh giá lại. Người chưa hiểu ngôn ngữ cần hỗ trợ khác người chưa kiểm soát được trang bị. Tăng số lần làm mà không sửa nguyên nhân có thể củng cố lỗi.\n\nKhông hạ chuẩn để đủ danh sách hoặc cho người khác thực hiện thay. Nếu thiếu sót ảnh hưởng điều kiện nhận nhiệm vụ, phải báo và điều chỉnh phân công qua cơ chế đơn vị. Việc bảo vệ sự trung thực của kết quả quan trọng hơn hình thức toàn bộ học viên đều đạt.\n\n### 5.3. Duy trì đúng loại và đúng vai trò\nNăng lực có thể suy giảm nếu lâu không thực hành; đổi trang bị, vai trò hoặc điều kiện cũng tạo nhu cầu huấn luyện lại. Kế hoạch duy trì cần theo chính sách, lịch phái bộ và kết quả đánh giá, sử dụng giảng viên được phép. Không chỉ ôn ngay trước một kỳ kiểm tra.\n\nLàm quen loại mới cần hướng dẫn, thực hành và xác nhận tương ứng. Không coi hai loại có hình thức giống nhau là có cùng quy trình hoặc hành vi kỹ thuật. Người chỉ huy cần biết ai đủ điều kiện cho vai trò nào ở thời điểm hiện tại.\n\n### 5.4. Hồ sơ có giá trị sử dụng\nGhi ngày, nội dung, loại trang bị, tiêu chí, người đánh giá, kết quả, giới hạn và việc còn phải làm. Phân biệt đã dự, đã được kiểm tra, đã đạt và còn hiệu lực theo quy định. Hồ sơ cần phục vụ giao nhiệm vụ và huấn luyện tiếp, không chỉ chứng minh số giờ học.",
+        "en": "### 5.1. Several dimensions\nAssess legal knowledge, safety behaviour, command comprehension, equipment control, judgment and prescribed practical performance. High technical scores cannot conceal serious safety failures. Apply communicated criteria consistently and retain explanatory records.\n\nExercises that always require firing cannot adequately assess restraint. Properly designed assessment includes uncertainty, communication, ended threats and assistance needs. This tests professional judgment rather than reflex alone.\n\n### 5.2. Address causes\nIdentify the exact deficit, remedial instruction, practice conditions and reassessment. Language misunderstanding requires different help from equipment-control failure. Repetition without correction can reinforce error.\n\nDo not lower standards or substitute another person to complete a list. Report task-relevant limitations and adjust assignments through command. Accurate outcomes matter more than universal pass rates.\n\n### 5.3. Sustain role-specific competence\nSkills may deteriorate without practice. Changed equipment, duties or conditions may require renewed training. Sustainment follows policy, mission schedules and findings with authorized instructors, rather than last-minute preparation only.\n\nSimilar-looking weapons need not have identical procedures. Familiarization requires instruction, practice and verification. Command must know who is currently qualified for each role.\n\n### 5.4. Useful records\nRecord dates, content, equipment, criteria, assessor, result, limitations and further action. Distinguish attendance, assessment, passing and continuing validity. Records should support tasking and further development, not merely hour counts."
+      },
+      "sourceIds": [
+        "POLICY",
+        "GUN1",
+        "GUN2",
+        "GUN3"
+      ]
+    },
+    {
+      "id": "FPU-08-06",
+      "title": {
+        "vi": "6. Sự cố, báo cáo và trách nhiệm sau sử dụng",
+        "en": "6. Incidents, reporting and post-use responsibilities"
+      },
+      "body": {
+        "vi": "### 6.1. Cứu giúp và bảo đảm an toàn\nSau sự cố hoặc sử dụng súng, ưu tiên chấm dứt nguy cơ, hỗ trợ y tế và bảo vệ những người liên quan trong phạm vi nhiệm vụ. Mọi phát súng khi làm nhiệm vụ cần được báo kịp thời theo cơ chế, không chỉ khi có người bị thương. Thiệt hại hoặc nguy cơ đối với dân thường cũng phải được ghi nhận.\n\nMột vụ nổ súng ngoài ý muốn trong huấn luyện hoặc giao nhận không được xem là chuyện nội bộ để tự bỏ qua. Cần dừng, kiểm soát khu vực theo quy trình, gọi hỗ trợ và báo người có trách nhiệm. Không tự tiếp tục sử dụng trang bị nghi có lỗi trước khi được đánh giá.\n\n### 6.2. Ghi sự kiện khách quan\nBáo thời gian, địa điểm, diễn biến, điều quan sát được, căn cứ quyết định tại thời điểm đó, cảnh báo nếu có, hành động và kết quả đã biết. Phân biệt điều trực tiếp thấy với thông tin người khác báo. Không điền chi tiết giả để bản tường trình có vẻ liền mạch.\n\nGiữ hồ sơ giao nhận, thông tin trang bị và tài liệu liên quan theo yêu cầu. Không tự thay đổi hiện trường, sửa nhật ký hoặc thống nhất lời kể để giảm trách nhiệm. Việc bảo toàn thông tin phải đi cùng chăm sóc người bị hại; không trì hoãn cứu giúp chỉ để giữ nguyên một vị trí.\n\n### 6.3. Giám sát và học từ gần sự cố\nChỉ huy phải xử lý thiếu sót khi biết, hỗ trợ quá trình xem xét và tổ chức biện pháp khắc phục. Sự cố suýt xảy ra cần được báo vì có thể cho thấy lỗi giao nhận, bố trí hoặc giám sát trước khi có thương vong. Phân biệt học để phòng ngừa với các thủ tục điều tra, kỷ luật có thẩm quyền; một buổi rút kinh nghiệm không thay các thủ tục đó.\n\n### 6.4. Chuẩn nghề nghiệp cần duy trì\nNgười học cần biết mình được làm gì, được huấn luyện tới đâu, tình trạng trang bị ra sao và khi nào phải dừng, báo, tìm hỗ trợ. Năng lực súng có trách nhiệm thể hiện ở cả quản lý an toàn, quyết định kiềm chế và phản ứng đúng sau sự cố. Thành tích thực hành chỉ có ý nghĩa khi nằm trong nền bảo vệ sinh mạng, quyền con người và trách nhiệm giải trình ấy.",
+        "en": "### 6.1. Safety and assistance\nAfter discharge or an incident, end danger, arrange medical care and protect affected people within authority. Report every operational discharge through applicable mechanisms, not only injury cases. Record civilian harm and risks.\n\nAn unintended discharge in training or issue procedures is not a private matter to dismiss. Stop, control the situation, obtain support and report. Suspect equipment requires assessment before further use.\n\n### 6.2. Objective accounts\nRecord timing, location, events, observations, decision grounds, warnings, actions and known results. Separate direct knowledge from received information and do not invent missing details.\n\nPreserve issue records, equipment information and relevant evidence. Do not alter logs or coordinate accounts to reduce responsibility. Evidence protection must coexist with urgent care rather than delay it.\n\n### 6.3. Oversight and near misses\nCommanders must address known shortcomings and support authorized review. Near misses can reveal issue, organization or supervision failures before casualties. Preventive learning does not replace competent investigation or disciplinary procedures.\n\n### 6.4. Professional standards\nKnow authority, training limits, equipment condition and stopping or reporting requirements. Responsible competence includes safe custody, restraint in decisions and proper post-incident action. Practical results matter within a foundation of life protection, rights and accountability."
+      },
+      "sourceIds": [
+        "POLICY",
+        "CSC014"
+      ]
+    }
+  ],
+  "source_ids": [
+    "POLICY",
+    "CSC014",
+    "BPUFF",
+    "GUN1",
+    "GUN2",
+    "GUN3"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "Competence / Authority",
+      "definition": {
+        "vi": "Năng lực thực hiện / thẩm quyền được làm.",
+        "en": "Competence to perform / authority to act."
+      }
+    },
+    {
+      "term": "DUF",
+      "definition": {
+        "vi": "Chỉ thị sử dụng vũ lực của cảnh sát theo phái bộ.",
+        "en": "Mission police Directive on the Use of Force."
+      }
+    },
+    {
+      "term": "Safety stop",
+      "definition": {
+        "vi": "Dừng huấn luyện khi không an toàn theo quy tắc.",
+        "en": "Stopping unsafe training under established rules."
+      }
+    },
+    {
+      "term": "Remediation",
+      "definition": {
+        "vi": "Huấn luyện bổ sung và kiểm chứng thiếu sót.",
+        "en": "Targeted remedial training and reassessment."
+      }
+    },
+    {
+      "term": "Traceability",
+      "definition": {
+        "vi": "Truy lại người, vũ khí, thời gian và tình trạng.",
+        "en": "Traceability of person, weapon, timing and condition."
+      }
+    }
+  ],
+  "diagram": null,
+  "contentVersion": "batch-04-expanded-v1-2026-10-28",
+  "sourceIntro": {
+    "vi": "Nguồn theo mục và tài liệu đối chiếu. Lời giảng, bản Anh và câu hỏi được biên soạn cho Handbook. Hình gốc có tài liệu, trang PDF và lời giải thích riêng.",
+    "en": "Section-level sources and supplementary reading. Teaching, English text and questions are authored for the Handbook. Original figures identify source, PDF page and separate commentary."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Bản biên soạn đợt 4, ngày 28/10/2026, chờ người dùng duyệt; không phải ấn phẩm hoặc bản dịch chính thức UN. Mã bài là cách tổ chức của Handbook.",
+      "Giao diện giữ bốn tab, Tahoma, cỡ chữ và bố cục mẫu. Hình giữ chữ gốc, có lời giảng Việt–Anh. Nguồn theo mục chỉ nền kiến thức, không coi mọi câu là trích nguyên văn.",
+      "Nội dung chung không thay mandate, DUF hoặc SOP phái bộ, không tự trao quyền hoặc chứng nhận năng lực thực hành. Phần thực hành cần người hướng dẫn đủ năng lực và điều kiện phù hợp.",
+      "Đối chiếu ba module Firearms 2015 với chính sách 2024.14 và CSC Lesson 14 (2026). Ba cấp được giảng về mục tiêu, điều kiện, an toàn và đánh giá; bài không cung cấp bài bắn, thông số chiến thuật hoặc thao tác loại vũ khí để tự tập.",
+      "Ngưỡng sử dụng súng và cố ý gây chết người đối chiếu BPUFF, nguồn OHCHR và đoạn 78 chính sách. Tính hợp pháp không được suy từ điểm bắn, cấp khóa hoặc cảnh báo đã đưa ra."
+    ],
+    "en": [
+      "Batch 4 authored on 28 October 2026 for user review, not an official UN publication or translation. Lesson numbering belongs to the Handbook.",
+      "The four-tab Tahoma interface, sizes and sample layout are retained. Figures preserve original text with bilingual commentary. Mapping identifies knowledge foundations, not verbatim sourcing for every sentence.",
+      "General content does not replace applicable mandates, DUF or mission SOPs and confers neither powers nor practical certification. Practical learning requires competent instruction and suitable conditions.",
+      "The three Firearms 2015 modules are compared with Policy 2024.14 and CSC Lesson 14 (2026). Levels are taught through objectives, prerequisites, safety and assessment, without self-training shooting courses, tactical parameters or weapon-specific drills.",
+      "Firearm and intentional-lethal thresholds are compared with BPUFF, OHCHR material and policy paragraph 78. Shooting scores, course level and prior warnings do not establish legality."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Huấn luyện súng cần kết nối thẩm quyền, an toàn và phán đoán với lộ trình cơ bản–trung cấp–nâng cao. Bài học giải thích tiêu chí tiến bộ, tổ chức buổi học, đánh giá và trách nhiệm sau sự cố.",
+      "en": "Firearms learning connects authority, safety and judgment with basic, intermediate and advanced progression, controlled instruction, assessment and incident accountability."
+    },
+    "subtitle": {
+      "vi": "An toàn nhất quán · Quyết định hợp pháp · Tiến bộ có đánh giá",
+      "en": "Consistent safety · Lawful judgment · Assessed progression"
+    },
+    "objectives": {
+      "vi": [
+        "Phân biệt kỹ năng, quyền mang và quyền sử dụng trong hoàn cảnh cụ thể.",
+        "Giải thích giới hạn súng, bảo vệ sinh mạng và trách nhiệm.",
+        "Nêu nền an toàn, giao nhận, kiểm soát kỹ thuật và dừng.",
+        "Phân biệt mục đích ba cấp và yêu cầu thực hành trực tiếp.",
+        "Tổ chức đánh giá nhiều mặt, khắc phục và duy trì theo vai trò."
+      ],
+      "en": [
+        "Distinguish technical skill, carriage authority and situation-specific use.",
+        "Explain firearm limits, life protection and accountability.",
+        "Explain safety, issue controls, technical limits and stopping.",
+        "Distinguish the three levels and requirements for supervised practice.",
+        "Explain multidimensional assessment, remediation and role-specific sustainment."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc sáu mục trong tab Nội dung bài học; bấm hình để xem lớn và đọc lời giảng kèm. Làm 12 câu kiểm tra, đọc giải thích và trở lại mục liên quan. VI/EN giữ đáp án trong phiên; tải lại trang bắt đầu lại.",
+      "en": "Read six sections and figure commentary; click figures to enlarge. Complete 12 questions, review explanations and revisit relevant sections. VI/EN retains selections during the session; reloading starts again."
+    }
+  },
+  "figures": [
+    {
+      "chapter": 1,
+      "image": "assets/lesson-figures/batch-04/GUN1-p7.png",
+      "alt": {
+        "vi": "Hình 1. Bốn nguyên tắc an toàn nền",
+        "en": "Figure 1. Four core safety rules"
+      },
+      "caption": {
+        "vi": "Hình 1. Bốn nguyên tắc an toàn nền",
+        "en": "Figure 1. Four core safety rules"
+      },
+      "explanation": {
+        "vi": "Các nguyên tắc bổ sung nhau suốt giao nhận, bảo dưỡng và nhiệm vụ. Hình nhắc an toàn, không tự trao quyền bắn; mọi quyết định còn phải đạt căn cứ pháp lý và giới hạn phái bộ. Quy trình kiểm tra vũ khí cần học trực tiếp theo loại.",
+        "en": "Apply the principles together during issue, maintenance and duty. The image is a safety reminder, not firing authority; legal and mission limits still apply. Learn weapon-specific checks through direct instruction."
+      },
+      "sourceLabel": "UN FPU STM 2015 · Firearms Basic Level",
+      "pdfPage": 7
+    }
+  ],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft",
+  "figureZoom": true
+}

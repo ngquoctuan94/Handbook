@@ -1,0 +1,588 @@
+{
+  "schemaVersion": 2,
+  "id": "IPO-10",
+  "area": "ipo",
+  "groupKey": "IPO-M4",
+  "group": {
+    "vi": "Chuẩn bị đánh giá tuyển chọn",
+    "en": "Selection assessment preparation"
+  },
+  "title": {
+    "vi": "Chuẩn bị đánh giá sử dụng súng",
+    "en": "Preparing for a firearms assessment"
+  },
+  "summary": {
+    "vi": "Bài học IPO-10 tập trung vào chủ đề: Chuẩn bị đánh giá sử dụng súng. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+    "en": "Lesson IPO-10 covers the following topic: Preparing for a firearms assessment. It connects concepts with professional responsibilities."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "AMS2024",
+  "sourceUrl": "https://unmiss.unmissions.org/sites/default/files/2026-02/SOP%20on%20Assessment%20for%20Mission%20Service%20of%20Individual%20Police%20Officers%20%282024%29.pdf",
+  "order": 404,
+  "sections": [
+    {
+      "id": "IPO-10-01",
+      "title": {
+        "vi": "1. Phạm vi",
+        "en": "1. Confirm scope and conditions"
+      },
+      "body": {
+        "vi": "Yêu cầu đánh giá phụ thuộc nhiệm vụ và hướng dẫn đang áp dụng. Kiểm tra loại vũ khí, năng lực yêu cầu và điều kiện được thực hành qua đầu mối chính thức. Không tự dùng cự ly, số đạn và điểm đạt từ tài liệu cũ như chuẩn hiện hành.\n\n### 1.1. Đọc yêu cầu trước luyện tập\n\nXác nhận cơ quan đánh giá, loại trang bị, điều kiện được tham gia và các văn bản đã nhận. Phân biệt yêu cầu lựa chọn cá nhân với chương trình huấn luyện đơn vị và giấy phép sử dụng trong phái bộ. Chỉ ghi thông số chính thức khi có căn cứ và đúng đợt. Khi tài liệu khác nhau, xin làm rõ thay vì chọn bản có tiêu chí dễ hơn.",
+        "en": "Requirements depend on the intended role and applicable instructions. Confirm weapon type, expected competence and practice conditions with official focal points. Distances, ammunition counts and pass scores from old examples are not automatically current standards.\n\n### 1.1. Read the requirements before practice\n\nConfirm the assessment authority, equipment, participation conditions and received instructions. Distinguish individual selection, unit training and mission authorization to use a weapon. Record numerical criteria only when grounded in the official instructions for the relevant assessment. Seek clarification if documents differ rather than choosing the easier version. Preparation should produce verified readiness for the actual requirement, not confidence based on a remembered course or another candidate’s experience."
+      },
+      "sourceIds": [
+        "GUN1",
+        "U41",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-10-02",
+      "title": {
+        "vi": "2. An toàn là nền tảng",
+        "en": "2. Safety is the foundation"
+      },
+      "body": {
+        "vi": "Nhận biết quy tắc hướng nòng, kiểm soát cò, trạng thái vũ khí và khu vực mục tiêu. Chỉ thực hiện nhận, kiểm tra, sử dụng và bàn giao theo quy trình đúng mẫu súng và người có thẩm quyền giám sát. Không tự chuyển từ luyện khô sang bắn thật.",
+        "en": "Understand safe muzzle direction, trigger discipline, weapon condition and the target area. Receipt, checks, use and handover follow the specific weapon’s approved procedure under authorized supervision. Do not independently switch from dry practice to live firing."
+      },
+      "sourceIds": [
+        "GUN1",
+        "U41",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-10-03",
+      "title": {
+        "vi": "3. Làm quen và đánh giá đầu vào",
+        "en": "3. Familiarization and initial assessment"
+      },
+      "body": {
+        "vi": "Kinh nghiệm với mẫu khác không thay được làm quen. Người hướng dẫn cần xác nhận khả năng thao tác an toàn trước bài tiếp theo. Đọc bài hoặc xem video không chứng nhận năng lực. Nội dung này liên kết FPU 08 nhưng tách rõ yêu cầu tuyển chọn IPO với huấn luyện đơn vị.\n\n### 3.1. Xác nhận nền tảng đúng trang bị\n\nNgười hướng dẫn cần quan sát hiểu lệnh, trạng thái an toàn, nhận–bàn giao và khả năng tuân thủ quy trình đúng mẫu. Người học báo ngay phần chưa quen. Chỉ chuyển nội dung khi điều kiện tiên quyết được xác nhận. Điểm mạnh với vũ khí khác có thể hỗ trợ quá trình học nhưng không thay đánh giá thực tế. Việc chấp nhận luyện bổ sung thể hiện trách nhiệm, không phải yếu kém nghề nghiệp.",
+        "en": "Experience with another model does not replace familiarization. An instructor must confirm safe competence before progression. Reading or watching a video is not certification. FPU-08 provides related training foundations, while IPO selection requirements remain distinct from unit training.\n\n### 3.1. Verify foundations on the actual equipment\n\nThe instructor should observe command understanding, safe condition, receipt and handover, and compliance with the model’s procedure. Declare unfamiliarity promptly. Progress only after prerequisites are confirmed. Prior competence on another weapon may help learning but cannot replace direct assessment. Accepting remedial training demonstrates responsibility. It is safer and professionally stronger to identify a limitation before an exercise than conceal it and rely on experience when the equipment or instructions differ."
+      },
+      "sourceIds": [
+        "GUN1",
+        "U41",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-10-04",
+      "title": {
+        "vi": "4. Luyện tập và kiểm soát lỗi",
+        "en": "4. Practice and fault control"
+      },
+      "body": {
+        "vi": "Luyện tại cơ sở đủ điều kiện, theo giáo án và lệnh dừng, có bố trí y tế. Khi nghi lỗi trang bị hoặc điều kiện không an toàn, dừng và báo người phụ trách. Không cố hoàn tất lượt kiểm tra rồi mới thông báo. Điểm bắn cao không bù lỗi an toàn.",
+        "en": "Train at an authorized facility under the programme and stop commands with medical arrangements. Stop and report suspected equipment faults or unsafe conditions; do not finish first and disclose later. High shooting scores cannot compensate for a safety failure."
+      },
+      "sourceIds": [
+        "GUN1",
+        "U41",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-10-05",
+      "title": {
+        "vi": "5. Hồ sơ và trách nhiệm",
+        "en": "5. Records and professional responsibility"
+      },
+      "body": {
+        "vi": "Ghi loại trang bị, điều kiện đánh giá, nội dung đạt/chưa đạt và yêu cầu luyện bổ sung. Phân biệt kỹ năng bắn với quyền quyết định sử dụng súng trong công tác; đạt bài bắn không tạo quyền dùng vũ lực ngoài khuôn khổ.\n\n### 5.1. Hồ sơ năng lực phục vụ quyết định\n\nHồ sơ cần nói rõ nội dung đã thể hiện, điều kiện đánh giá, giới hạn và phần cần luyện lại. Kết luận của người đánh giá phải được ghi theo thẩm quyền; không tự đổi chứng nhận tham dự thành chứng nhận đạt. Sau kết quả, việc bố trí mang, sử dụng hoặc bảo quản súng vẫn theo quy định nhiệm vụ. Năng lực kỹ thuật và trách nhiệm pháp lý phải được duy trì cùng nhau.",
+        "en": "Record equipment, assessment conditions, demonstrated competence, deficiencies and remedial requirements. Shooting skill and the authority to use a firearm at work are distinct. Passing a test does not authorize force beyond the applicable framework.\n\n### 5.1. Make competence records useful for decisions\n\nState demonstrated tasks, assessment conditions, limits and remedial needs. Preserve the authorized assessor’s conclusion; attendance must not be relabelled as a pass. After the result, carriage, use and storage remain subject to duty rules. Technical ability and legal responsibility must be sustained together. A useful record enables a later supervisor to understand what was actually assessed without inferring broad operational powers or competence from a score alone."
+      },
+      "sourceIds": [
+        "GUN1",
+        "U41",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-10-06",
+      "title": {
+        "vi": "6. Luyện có điều kiện tiên quyết",
+        "en": "6. Progression requires prerequisites"
+      },
+      "body": {
+        "vi": "Người chưa thể hiện thao tác an toàn với đúng trang bị không chuyển lên bài khó chỉ vì đã có nhiều kinh nghiệm. Lỗi có thể do hiểu lệnh, mẫu vũ khí, điều kiện hoặc kỹ năng; cần được người có thẩm quyền xác định và hướng dẫn. Không áp quy trình mẫu khác khi chưa xác nhận.",
+        "en": "Unverified safe handling on the actual equipment prevents progression despite years of experience. An authorized instructor should distinguish misunderstood commands, model differences, conditions and skill gaps. Do not apply another model’s procedure without confirmation."
+      },
+      "sourceIds": [
+        "GUN1",
+        "U41",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-10-07",
+      "title": {
+        "vi": "7. Kết quả và trách nhiệm nghiệp vụ",
+        "en": "7. Results and operational judgement"
+      },
+      "body": {
+        "vi": "Hồ sơ phải nêu nội dung đạt/chưa đạt và giới hạn, không chỉ điểm số. Khả năng thực hiện bài kiểm tra khác với quyết định dùng súng khi làm nhiệm vụ. Phần nguyên tắc pháp lý học tại UN Core 08 phải đi cùng an toàn kỹ thuật; không dùng thành tích bắn làm căn cứ tự tin vượt quyền hoặc bỏ quy trình báo cáo.",
+        "en": "Record the content passed or not passed and limitations, not just the score. Test performance differs from lawful operational decisions. The legal principles in CORE-08 must accompany technical safety. A shooting record does not justify exceeding authority or bypassing reporting."
+      },
+      "sourceIds": [
+        "GUN1",
+        "U41",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "GUN1",
+      "title": "Firearms Basic Level",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-022%20Firearms%20Basic.pdf",
+      "format": "pdf",
+      "pages": 58,
+      "reading": "2–3; 7; 25",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "U41",
+      "title": "Lesson 10 Use of Force and Firearms by UN Police",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-020%20UNPOL%20STM%20Lesson%2010%20Use%20of%20Force%20and%20Firearms%20by%20UN%20Police.pdf",
+      "year": "2021",
+      "publisher": "United Nations UNPOL STM",
+      "format": "pdf",
+      "pages": 45,
+      "pdf_name": "U41.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "AMS-GUIDE",
+      "title": "UN Police — Information for individual police officers",
+      "url": "https://police.un.org/en/information-for-individual-police-officers",
+      "year": "2026"
+    },
+    {
+      "id": "EASP",
+      "title": "Electronic Application for Seconded Police",
+      "url": "https://police.un.org/sites/default/files/easp_english_0.pdf"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Kinh nghiệm mẫu súng khác thay được làm quen trang bị mới.",
+        "en": "Experience on another model replaces familiarization with new equipment."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Cần xác nhận an toàn đúng mẫu.",
+        "en": "Confirm safe competence on the actual model."
+      }
+    },
+    {
+      "question": {
+        "vi": "Luyện tập phải có người giám sát và lệnh dừng rõ.",
+        "en": "Practice needs supervision and clear stop commands."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Điều kiện huấn luyện phải được kiểm soát.",
+        "en": "Training conditions must be controlled."
+      }
+    },
+    {
+      "question": {
+        "vi": "Điểm cao cho phép bỏ qua lỗi an toàn.",
+        "en": "A high score permits ignoring safety failures."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "An toàn là điều kiện nền tảng.",
+        "en": "Safety is foundational."
+      }
+    },
+    {
+      "question": {
+        "vi": "Hồ sơ phải nêu điều kiện và nội dung chưa đạt.",
+        "en": "Records should state conditions and deficiencies."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Không chỉ ghi tổng điểm.",
+        "en": "Do not record only a total score."
+      }
+    },
+    {
+      "question": {
+        "vi": "Đạt bài bắn trao quyền sử dụng súng ngoài mandate.",
+        "en": "Passing a test permits firearm use beyond the mandate."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Kỹ năng khác quyền pháp lý.",
+        "en": "Skill differs from legal authority."
+      }
+    },
+    {
+      "question": {
+        "vi": "Nghi lỗi trang bị cần dừng, báo người phụ trách.",
+        "en": "Suspected equipment faults require stopping and reporting."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Không chờ bắn xong mới thông báo.",
+        "en": "Do not wait until firing is completed."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Năng lực an toàn cần xác nhận trước bài tiếp theo?",
+        "en": "Which concept matches: Safe competence to verify before the next exercise?"
+      },
+      "options": [
+        {
+          "vi": "Điều kiện tiên quyết / Prerequisite",
+          "en": "Prerequisite"
+        },
+        {
+          "vi": "Operational authority",
+          "en": "Operational authority"
+        },
+        {
+          "vi": "Luyện bổ sung / Remedial practice",
+          "en": "Remedial practice"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Điều kiện tiên quyết / Prerequisite: Năng lực an toàn cần xác nhận trước bài tiếp theo.",
+        "en": "Prerequisite: Safe competence to verify before the next exercise."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Huấn luyện nhằm sửa nội dung chưa đạt?",
+        "en": "Which concept matches: Training to correct demonstrated deficiencies?"
+      },
+      "options": [
+        {
+          "vi": "Luyện bổ sung / Remedial practice",
+          "en": "Remedial practice"
+        },
+        {
+          "vi": "Điều kiện tiên quyết / Prerequisite",
+          "en": "Prerequisite"
+        },
+        {
+          "vi": "Operational authority",
+          "en": "Operational authority"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Luyện bổ sung / Remedial practice: Huấn luyện nhằm sửa nội dung chưa đạt.",
+        "en": "Remedial practice: Training to correct demonstrated deficiencies."
+      }
+    }
+  ],
+  "updated": "2026-10-26",
+  "moduleId": "IPO-M4",
+  "moduleOrder": 4,
+  "lessonOrder": 4,
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "IPO-10-01",
+      "title": {
+        "vi": "1. Phạm vi",
+        "en": "1. Confirm scope and conditions"
+      },
+      "body": {
+        "vi": "Yêu cầu đánh giá phụ thuộc nhiệm vụ và hướng dẫn đang áp dụng. Kiểm tra loại vũ khí, năng lực yêu cầu và điều kiện được thực hành qua đầu mối chính thức. Không tự dùng cự ly, số đạn và điểm đạt từ tài liệu cũ như chuẩn hiện hành.\n\n### 1.1. Đọc yêu cầu trước luyện tập\n\nXác nhận cơ quan đánh giá, loại trang bị, điều kiện được tham gia và các văn bản đã nhận. Phân biệt yêu cầu lựa chọn cá nhân với chương trình huấn luyện đơn vị và giấy phép sử dụng trong phái bộ. Chỉ ghi thông số chính thức khi có căn cứ và đúng đợt. Khi tài liệu khác nhau, xin làm rõ thay vì chọn bản có tiêu chí dễ hơn.",
+        "en": "Requirements depend on the intended role and applicable instructions. Confirm weapon type, expected competence and practice conditions with official focal points. Distances, ammunition counts and pass scores from old examples are not automatically current standards.\n\n### 1.1. Read the requirements before practice\n\nConfirm the assessment authority, equipment, participation conditions and received instructions. Distinguish individual selection, unit training and mission authorization to use a weapon. Record numerical criteria only when grounded in the official instructions for the relevant assessment. Seek clarification if documents differ rather than choosing the easier version. Preparation should produce verified readiness for the actual requirement, not confidence based on a remembered course or another candidate’s experience."
+      },
+      "sourceIds": [
+        "GUN1",
+        "U41",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-10-02",
+      "title": {
+        "vi": "2. An toàn là nền tảng",
+        "en": "2. Safety is the foundation"
+      },
+      "body": {
+        "vi": "Nhận biết quy tắc hướng nòng, kiểm soát cò, trạng thái vũ khí và khu vực mục tiêu. Chỉ thực hiện nhận, kiểm tra, sử dụng và bàn giao theo quy trình đúng mẫu súng và người có thẩm quyền giám sát. Không tự chuyển từ luyện khô sang bắn thật.",
+        "en": "Understand safe muzzle direction, trigger discipline, weapon condition and the target area. Receipt, checks, use and handover follow the specific weapon’s approved procedure under authorized supervision. Do not independently switch from dry practice to live firing."
+      },
+      "sourceIds": [
+        "GUN1",
+        "U41",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-10-03",
+      "title": {
+        "vi": "3. Làm quen và đánh giá đầu vào",
+        "en": "3. Familiarization and initial assessment"
+      },
+      "body": {
+        "vi": "Kinh nghiệm với mẫu khác không thay được làm quen. Người hướng dẫn cần xác nhận khả năng thao tác an toàn trước bài tiếp theo. Đọc bài hoặc xem video không chứng nhận năng lực. Nội dung này liên kết FPU 08 nhưng tách rõ yêu cầu tuyển chọn IPO với huấn luyện đơn vị.\n\n### 3.1. Xác nhận nền tảng đúng trang bị\n\nNgười hướng dẫn cần quan sát hiểu lệnh, trạng thái an toàn, nhận–bàn giao và khả năng tuân thủ quy trình đúng mẫu. Người học báo ngay phần chưa quen. Chỉ chuyển nội dung khi điều kiện tiên quyết được xác nhận. Điểm mạnh với vũ khí khác có thể hỗ trợ quá trình học nhưng không thay đánh giá thực tế. Việc chấp nhận luyện bổ sung thể hiện trách nhiệm, không phải yếu kém nghề nghiệp.",
+        "en": "Experience with another model does not replace familiarization. An instructor must confirm safe competence before progression. Reading or watching a video is not certification. FPU-08 provides related training foundations, while IPO selection requirements remain distinct from unit training.\n\n### 3.1. Verify foundations on the actual equipment\n\nThe instructor should observe command understanding, safe condition, receipt and handover, and compliance with the model’s procedure. Declare unfamiliarity promptly. Progress only after prerequisites are confirmed. Prior competence on another weapon may help learning but cannot replace direct assessment. Accepting remedial training demonstrates responsibility. It is safer and professionally stronger to identify a limitation before an exercise than conceal it and rely on experience when the equipment or instructions differ."
+      },
+      "sourceIds": [
+        "GUN1",
+        "U41",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-10-04",
+      "title": {
+        "vi": "4. Luyện tập và kiểm soát lỗi",
+        "en": "4. Practice and fault control"
+      },
+      "body": {
+        "vi": "Luyện tại cơ sở đủ điều kiện, theo giáo án và lệnh dừng, có bố trí y tế. Khi nghi lỗi trang bị hoặc điều kiện không an toàn, dừng và báo người phụ trách. Không cố hoàn tất lượt kiểm tra rồi mới thông báo. Điểm bắn cao không bù lỗi an toàn.",
+        "en": "Train at an authorized facility under the programme and stop commands with medical arrangements. Stop and report suspected equipment faults or unsafe conditions; do not finish first and disclose later. High shooting scores cannot compensate for a safety failure."
+      },
+      "sourceIds": [
+        "GUN1",
+        "U41",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-10-05",
+      "title": {
+        "vi": "5. Hồ sơ và trách nhiệm",
+        "en": "5. Records and professional responsibility"
+      },
+      "body": {
+        "vi": "Ghi loại trang bị, điều kiện đánh giá, nội dung đạt/chưa đạt và yêu cầu luyện bổ sung. Phân biệt kỹ năng bắn với quyền quyết định sử dụng súng trong công tác; đạt bài bắn không tạo quyền dùng vũ lực ngoài khuôn khổ.\n\n### 5.1. Hồ sơ năng lực phục vụ quyết định\n\nHồ sơ cần nói rõ nội dung đã thể hiện, điều kiện đánh giá, giới hạn và phần cần luyện lại. Kết luận của người đánh giá phải được ghi theo thẩm quyền; không tự đổi chứng nhận tham dự thành chứng nhận đạt. Sau kết quả, việc bố trí mang, sử dụng hoặc bảo quản súng vẫn theo quy định nhiệm vụ. Năng lực kỹ thuật và trách nhiệm pháp lý phải được duy trì cùng nhau.",
+        "en": "Record equipment, assessment conditions, demonstrated competence, deficiencies and remedial requirements. Shooting skill and the authority to use a firearm at work are distinct. Passing a test does not authorize force beyond the applicable framework.\n\n### 5.1. Make competence records useful for decisions\n\nState demonstrated tasks, assessment conditions, limits and remedial needs. Preserve the authorized assessor’s conclusion; attendance must not be relabelled as a pass. After the result, carriage, use and storage remain subject to duty rules. Technical ability and legal responsibility must be sustained together. A useful record enables a later supervisor to understand what was actually assessed without inferring broad operational powers or competence from a score alone."
+      },
+      "sourceIds": [
+        "GUN1",
+        "U41",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-10-06",
+      "title": {
+        "vi": "6. Luyện có điều kiện tiên quyết",
+        "en": "6. Progression requires prerequisites"
+      },
+      "body": {
+        "vi": "Người chưa thể hiện thao tác an toàn với đúng trang bị không chuyển lên bài khó chỉ vì đã có nhiều kinh nghiệm. Lỗi có thể do hiểu lệnh, mẫu vũ khí, điều kiện hoặc kỹ năng; cần được người có thẩm quyền xác định và hướng dẫn. Không áp quy trình mẫu khác khi chưa xác nhận.",
+        "en": "Unverified safe handling on the actual equipment prevents progression despite years of experience. An authorized instructor should distinguish misunderstood commands, model differences, conditions and skill gaps. Do not apply another model’s procedure without confirmation."
+      },
+      "sourceIds": [
+        "GUN1",
+        "U41",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-10-07",
+      "title": {
+        "vi": "7. Kết quả và trách nhiệm nghiệp vụ",
+        "en": "7. Results and operational judgement"
+      },
+      "body": {
+        "vi": "Hồ sơ phải nêu nội dung đạt/chưa đạt và giới hạn, không chỉ điểm số. Khả năng thực hiện bài kiểm tra khác với quyết định dùng súng khi làm nhiệm vụ. Phần nguyên tắc pháp lý học tại UN Core 08 phải đi cùng an toàn kỹ thuật; không dùng thành tích bắn làm căn cứ tự tin vượt quyền hoặc bỏ quy trình báo cáo.",
+        "en": "Record the content passed or not passed and limitations, not just the score. Test performance differs from lawful operational decisions. The legal principles in CORE-08 must accompany technical safety. A shooting record does not justify exceeding authority or bypassing reporting."
+      },
+      "sourceIds": [
+        "GUN1",
+        "U41",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    }
+  ],
+  "source_ids": [
+    "GUN1",
+    "U41",
+    "AMS-GUIDE",
+    "EASP"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "Điều kiện tiên quyết / Prerequisite",
+      "definition": {
+        "vi": "Năng lực an toàn cần xác nhận trước bài tiếp theo",
+        "en": "Safe competence to verify before the next exercise"
+      }
+    },
+    {
+      "term": "Luyện bổ sung / Remedial practice",
+      "definition": {
+        "vi": "Huấn luyện nhằm sửa nội dung chưa đạt",
+        "en": "Training to correct demonstrated deficiencies"
+      }
+    }
+  ],
+  "diagram": {
+    "type": "seq",
+    "items": [
+      {
+        "vi": "Xác nhận yêu cầu",
+        "en": "Confirm requirements"
+      },
+      {
+        "vi": "An toàn đúng mẫu",
+        "en": "Model-specific safety"
+      },
+      {
+        "vi": "Luyện có giám sát",
+        "en": "Supervised practice"
+      },
+      {
+        "vi": "Đánh giá, ghi nhận",
+        "en": "Assess and record"
+      }
+    ],
+    "chapter": 1
+  },
+  "contentVersion": "4tab-2026-10-26",
+  "sourceIntro": {
+    "vi": "Các tài liệu dưới đây là nền tảng kiến thức của bài. Mở nguồn để đọc nội dung gốc; phần giải thích, sơ đồ học tập và câu hỏi được biên soạn cho Handbook.",
+    "en": "The materials below provide the lesson’s knowledge base. Open them for the original teaching material; explanations, instructional diagrams and questions are developed for the Handbook."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Hai bản Việt–Anh phục vụ học tập, không phải bản dịch chính thức của UN. Danh mục và thứ tự 48 bài là cách tổ chức học liệu của Handbook, không phải số bài chính thức của UN.",
+      "Bảng đối chiếu xác định tài liệu nền theo mục; không khẳng định mọi câu diễn giải là trích nguyên văn. Hình gốc ghi rõ tài liệu và trang PDF; sơ đồ học tập được ghi là biên soạn.",
+      "Không trích tiêu chí chi tiết từ SOP AMS 2024 khi chưa xác minh được toàn văn. Bài cung cấp phương pháp chuẩn bị; thời lượng, điểm đạt, cự ly, số đạn, lần thử và hiệu lực phải theo thông báo chính thức của đợt đánh giá. Ví dụ câu và số liệu trong phần báo cáo chỉ dùng luyện ngôn ngữ."
+    ],
+    "en": [
+      "The Vietnamese and English texts are for learning and are not official UN translations. The 48-lesson catalogue and numbering are the Handbook’s organization, not the official UN lesson count.",
+      "The mapping identifies source materials by section and does not present every explanation as a verbatim quotation. Original illustrations identify the material and PDF page; instructional diagrams are labelled as developed for the lesson.",
+      "Detailed AMS 2024 criteria are not quoted without verified full text. These lessons teach preparation methods; timing, pass scores, distances, ammunition, attempts and validity must follow official instructions for the assessment. Sentence and numerical examples in reporting are language practice only."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bài học IPO-10 tập trung vào chủ đề: Chuẩn bị đánh giá sử dụng súng. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+      "en": "Lesson IPO-10 covers the following topic: Preparing for a firearms assessment. It connects concepts with professional responsibilities."
+    },
+    "subtitle": {
+      "vi": "Học kiến thức, hiểu trách nhiệm và kiểm tra nhận thức.",
+      "en": "Learn the concepts, understand responsibilities and check your knowledge."
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích: Phạm vi; An toàn là nền tảng.",
+        "Giải thích: Làm quen và đánh giá đầu vào; Luyện tập và kiểm soát lỗi.",
+        "Giải thích: Hồ sơ và trách nhiệm; Luyện có điều kiện tiên quyết; Kết quả và trách nhiệm nghiệp vụ.",
+        "Nhận diện cách hiểu sai và chọn nhận định có căn cứ trong kiểm tra nhận thức."
+      ],
+      "en": [
+        "Explain: Confirm scope and conditions; Safety is the foundation.",
+        "Explain: Familiarization and initial assessment; Practice and fault control.",
+        "Explain: Records and professional responsibility; Progression requires prerequisites; Results and operational judgement.",
+        "Recognize misconceptions and select evidence-based statements in the knowledge check."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc các mục theo thứ tự trong tab nội dung, quan sát sơ đồ và hình, sau đó hoàn thành kiểm tra nhận thức. Chọn VI/EN để đổi ngôn ngữ; đáp án được giữ khi đổi ngôn ngữ trong phiên mở trang. Tải lại trang sẽ bắt đầu lại.",
+      "en": "Read the sections in order, study diagrams and illustrations, then complete the knowledge check. Use VI/EN to switch languages; answers are retained across language changes during the session. Reloading starts a new session."
+    }
+  },
+  "figures": [],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft"
+}

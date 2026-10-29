@@ -1,0 +1,738 @@
+{
+  "schemaVersion": 2,
+  "id": "CORE-06",
+  "area": "core",
+  "groupKey": "CORE-M2",
+  "group": {
+    "vi": "Mandate, bảo vệ và các ưu tiên",
+    "en": "Mandates, protection and priorities"
+  },
+  "title": {
+    "vi": "Nhân quyền và thẩm định nhân quyền trong hoạt động cảnh sát",
+    "en": "Human rights and human rights due diligence in policing"
+  },
+  "summary": {
+    "vi": "Nhân quyền định hướng cách cảnh sát hành động và cách UN hỗ trợ lực lượng khác. Bài học đi từ nhận diện, bảo vệ và báo cáo thông tin đến phạm vi HRDDP, đánh giá nguy cơ, giảm thiểu và theo dõi hỗ trợ.",
+    "en": "Human rights guide policing conduct and UN support to other forces. Progress from recognizing concerns, protection and reporting to HRDDP coverage, risk assessment, mitigation and monitoring."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "C12",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-416%20Lesson%202.3%20Human%20Rights.zip",
+  "order": 202,
+  "sections": [
+    {
+      "id": "CORE-06-01",
+      "title": {
+        "vi": "1. Nhân quyền là nền tảng của hoạt động cảnh sát",
+        "en": "1. Human rights as a foundation of policing"
+      },
+      "body": {
+        "vi": "### 1.1. Quyền gắn với mỗi con người\nNhân quyền là những quyền vốn có của mọi người, không phụ thuộc quốc tịch, giới, dân tộc, ngôn ngữ, tôn giáo, địa vị hoặc hoàn cảnh. Quyền không phải phần thưởng cho người hợp tác với cảnh sát. Người bị nghi phạm tội, người bị bắt và người có quan điểm khác vẫn phải được đối xử theo pháp luật và tôn trọng nhân phẩm.\n\nTính phổ quát nghĩa là quyền thuộc về mọi người; tính không thể chia cắt và phụ thuộc lẫn nhau nhắc rằng các quyền hỗ trợ nhau. Một người không thể tiếp cận dịch vụ hoặc bị phân biệt đối xử có thể gặp nhiều rào cản đồng thời. Tuy nhiên, không phải mọi quyền đều có cùng điều kiện hạn chế: Việc hạn chế quyền phải có căn cứ và đáp ứng yêu cầu pháp lý tương ứng; cấm tra tấn không được gạt bỏ vì lý do khẩn cấp.\n\n### 1.2. Từ nguyên tắc đến công việc hằng ngày\nTrong hoạt động cảnh sát, nhân quyền hiện diện ở tiếp nhận thông tin, tuần tra, khám xét, sử dụng vũ lực, bắt giữ, quản lý thông tin và tiếp xúc người dân. Câu hỏi không chỉ là “đã hoàn thành việc chưa”, mà còn là “đã thực hiện bằng cách nào và tác động đến ai”. Kết quả đạt bằng hành vi trái pháp luật không trở thành hợp pháp vì mục đích được cho là tốt.\n\nKhông phân biệt đối xử cần đi cùng khả năng đáp ứng nhu cầu khác nhau. Người có khuyết tật, trẻ em hoặc người không biết ngôn ngữ làm việc có thể cần hình thức hỗ trợ phù hợp để thực sự tiếp cận dịch vụ. Đối xử công bằng không luôn có nghĩa sử dụng cùng một cách tiếp nhận cho tất cả.\n\n### 1.3. Trách nhiệm chung và chuyên môn riêng\nThúc đẩy, bảo vệ và tôn trọng nhân quyền là trách nhiệm của cả phái bộ và từng cán bộ. Bộ phận nhân quyền cung cấp chuyên môn, tư vấn và phối hợp theo nhiệm vụ; sự có mặt của chuyên gia không làm cán bộ khác được đứng ngoài khi thấy vấn đề. Ngược lại, trách nhiệm chung cũng không biến mọi cán bộ thành điều tra viên nhân quyền có thẩm quyền thực hiện mọi thủ tục.\n\n**Điểm cần nhớ:** Hiểu quyền, hành động trong phạm vi được giao, ghi nhận đúng và chuyển thông tin đúng nơi là các phần liên kết của trách nhiệm nghề nghiệp. Năng lực bảo vệ cần thể hiện cả trong cách UN hành động và cách UN hỗ trợ người khác.",
+        "en": "### 1.1. Rights belong to every person\nHuman rights are inherent to everyone, regardless of nationality, gender, ethnicity, language, religion, status or circumstances. They are not a reward for cooperating with police. Suspects, arrested persons and people holding different views still require lawful treatment and respect for dignity.\n\nUniversality means everyone holds rights. Indivisibility and interdependence recognize that rights reinforce one another: Exclusion and discrimination can create several overlapping barriers. Rights do not all have identical limitation rules. Restrictions require the relevant legal basis and conditions; an emergency does not justify torture.\n\n### 1.2. Principles in everyday work\nHuman rights matter in receiving information, patrols, searches, force, arrest, information management and community contact. Ask not only whether a task was completed, but how and with what effects. A desirable objective does not make unlawful conduct lawful.\n\nNon-discrimination includes responding to different needs. Children, persons with disabilities or people unfamiliar with the working language may require suitable assistance to access services. Fair treatment does not always mean an identical reception process for everyone.\n\n### 1.3. Shared responsibility and specialist roles\nPromoting, protecting and respecting rights are responsibilities of the mission and every member. Human rights personnel provide expertise, advice and coordination within their mandate. Their presence does not excuse inaction by others; equally, shared responsibility does not make every officer a human rights investigator authorized to perform every procedure.\n\n**Remember:** Understanding rights, acting within tasking, recording accurately and referring information appropriately are connected professional responsibilities. Protection matters both in UN conduct and in support provided to others."
+      },
+      "sourceIds": [
+        "C12"
+      ]
+    },
+    {
+      "id": "CORE-06-02",
+      "title": {
+        "vi": "2. Nhận diện vấn đề và ghi nhận thông tin có căn cứ",
+        "en": "2. Recognizing concerns and recording reliable information"
+      },
+      "body": {
+        "vi": "### 2.1. Sự kiện, nghi vấn và kết luận khác nhau\nMột người cho biết bị đánh khi tạm giữ là thông tin cần được tiếp nhận nghiêm túc; chưa thể chỉ từ lời thuật lại mà kết luận toàn bộ sự việc hoặc trách nhiệm pháp lý. Ngược lại, chưa có kết luận điều tra không phải lý do bỏ qua dấu hiệu nguy hiểm. Cần phản ánh đúng nội dung, mức độ xác minh và nhu cầu bảo vệ, y tế hoặc chuyển tuyến.\n\nQuan sát nên ghi người, thời gian, địa điểm, hành động và những gì trực tiếp nhìn hoặc nghe được. Tránh từ kết luận như “tra tấn đã được chứng minh” nếu chưa có căn cứ hoặc thẩm quyền xác định. Không sửa lời người cung cấp cho khớp một giả định ban đầu; cũng không bỏ chi tiết trái với nhận định của mình.\n\n### 2.2. Phân biệt violation và abuse trong cách dùng UN\nTrong cách dùng phổ biến của UN, **human rights violation** thường liên quan trách nhiệm của Nhà nước hoặc người hành động nhân danh Nhà nước; **human rights abuse** thường dùng đối với hành vi của chủ thể ngoài Nhà nước. Phân loại và nghĩa vụ cụ thể có thể phức tạp, nhất là với nhóm có tổ chức hoặc kiểm soát lãnh thổ; cần tham vấn chuyên môn.\n\nSự phân biệt giúp báo cáo chính xác, không tạo ra thứ bậc coi hành vi của một bên ít nghiêm trọng hơn. Người bị hại cần được bảo vệ bất kể chủ thể gây hại. Khi chưa rõ, ghi hành vi, chủ thể được cho là liên quan và nguồn thông tin, thay vì tự gắn nhãn pháp lý chắc chắn.\n\n### 2.3. Nhận ra dấu hiệu và nguy cơ\nCác dấu hiệu cần quan tâm có thể liên quan đến sử dụng vũ lực quá mức, tạm giữ tùy tiện, đối xử tàn nhẫn, bạo lực tình dục, mất tích cưỡng bức hoặc phân biệt đối xử. Cần xem hành vi đơn lẻ và cả mô hình lặp lại: Ai bị tác động, địa điểm nào, đơn vị nào, thời điểm và cách giải thích có giống nhau không?\n\nMột nguồn được nhiều người chia sẻ lại chưa trở thành nhiều nguồn độc lập. Thông tin mạng hoặc lời đồn phải được nhận diện đúng tính chất, không chuyển thành sự thật chỉ vì xuất hiện thường xuyên. **Điểm cần nhớ:** Báo cáo tốt vừa tránh kết luận vượt bằng chứng vừa không xem nhẹ dấu hiệu cần hành động.",
+        "en": "### 2.1. Facts, allegations and findings differ\nA person reporting assault in detention deserves serious attention. The account alone does not establish every fact or legal responsibility. Conversely, absence of a completed investigation is no reason to ignore danger. Record the account, verification status and protection, medical or referral needs accurately.\n\nDescribe people, time, place, conduct and what you directly saw or heard. Do not claim torture has been proven without an adequate basis or competent finding. Do not reshape an account to fit an initial assumption or omit conflicting details.\n\n### 2.2. UN usage of violation and abuse\nIn common UN usage, a **human rights violation** generally concerns State responsibility or persons acting on the State’s behalf; **human rights abuse** commonly describes conduct by non-State actors. Classification and obligations can be complex, particularly for organized groups or territorial control; obtain specialist advice.\n\nThe distinction improves precision rather than ranking one perpetrator’s conduct as less serious. Victims need protection regardless of the actor. If classification is unclear, record conduct, alleged actor and source instead of asserting a definitive legal label.\n\n### 2.3. Recognize indicators and patterns\nConcerns may involve excessive force, arbitrary detention, cruel treatment, sexual violence, enforced disappearance or discrimination. Consider individual incidents and repeated patterns: Affected groups, places, units, timing and recurring explanations.\n\nRepeated circulation of one account is not independent corroboration. Identify rumours and online information as such; frequency does not convert them into established facts. **Remember:** Good reporting neither exceeds the evidence nor dismisses concerns requiring action."
+      },
+      "sourceIds": [
+        "C12"
+      ]
+    },
+    {
+      "id": "CORE-06-03",
+      "title": {
+        "vi": "3. Bảo vệ người, thông tin và phối hợp xử lý",
+        "en": "3. Protecting people and information and coordinating action"
+      },
+      "body": {
+        "vi": "### 3.1. Ưu tiên an toàn và không gây thêm hại\nKhi tiếp nhận thông tin, xem người cung cấp có đang gặp nguy hiểm, cần hỗ trợ khẩn cấp hoặc có nguy cơ bị trả đũa không. Hành động bảo vệ phải trong mandate, thẩm quyền và quy trình. Nếu có đe dọa khẩn cấp, báo và thực hiện phần việc được phép; không chờ hoàn thiện mọi thông tin mới đề nghị hỗ trợ.\n\nKhông hứa bảo vệ tuyệt đối, giữ bí mật tuyệt đối hoặc bảo đảm kết quả điều tra khi không thể thực hiện. Giải thích vai trò của mình, mục đích tiếp nhận và những giới hạn liên quan. Việc người dân kể chuyện không tự đồng nghĩa đồng ý cho công khai tên, hình ảnh hoặc chuyển toàn bộ nội dung cho mọi cơ quan.\n\n### 3.2. Thu thập vừa đủ và chuyển đúng nơi\nCán bộ không được đào tạo hoặc không được giao phỏng vấn chuyên sâu nên tránh hỏi lặp lại, gây áp lực hoặc buộc người bị hại kể chi tiết nhạy cảm. Cần thông tin đủ để ghi nhận, đánh giá nhu cầu tức thời và chuyển đúng đầu mối. Với trẻ em hoặc người bị bạo lực tình dục, sử dụng cơ chế và chuyên gia phù hợp; tránh khiến họ phải thuật lại nhiều lần không cần thiết.\n\nBáo cáo qua kênh chỉ huy và chuyên môn được quy định, phối hợp bộ phận nhân quyền khi cần. Giữ nguyên nguồn gốc, thời gian và mức độ xác minh của thông tin. Việc chuyển tuyến không kết thúc trách nhiệm theo dõi phần việc của mình; cần biết thông tin đã tới đúng nơi và vấn đề khẩn cấp đã được tiếp nhận theo cơ chế phù hợp.\n\n### 3.3. Quản lý dữ liệu nhạy cảm\nChỉ thu thập và chia sẻ dữ liệu cần thiết cho mục đích nhiệm vụ, với người có trách nhiệm và qua hệ thống được phép. Không đưa danh sách nạn nhân, ảnh thương tích hoặc dữ liệu nhận dạng vào nhóm trao đổi đông người để tiện báo cáo. Không lưu vào tài khoản cá nhân hoặc công khai câu chuyện để chứng minh thành tích.\n\nGhi nhận và bảo quản thông tin theo hướng dẫn; không tự thực hiện thủ tục chứng cứ ngoài năng lực và phân công. Nếu có sai sót hoặc lộ thông tin, báo qua cơ chế xử lý thay vì âm thầm xóa để che dấu vết. **Điểm cần nhớ:** Bảo vệ thông tin là bảo vệ con người; báo cáo nhanh phải đi cùng kiểm soát người nhận và nội dung.",
+        "en": "### 3.1. Prioritize safety and avoid further harm\nCheck immediate danger, urgent assistance needs and retaliation risks. Protection action must remain within the mandate, authority and procedures. Report imminent threats and perform authorized actions without waiting to complete every detail before seeking help.\n\nDo not promise absolute protection, confidentiality or investigative outcomes you cannot guarantee. Explain your role, purpose and relevant limits. A person’s account is not automatic consent to publish identity or images or circulate everything to every institution.\n\n### 3.2. Collect what is needed and refer appropriately\nPersonnel without the training or assignment for specialist interviewing should avoid repeated questioning, pressure and unnecessary sensitive detail. Obtain enough information to record concerns, identify immediate needs and refer appropriately. Children and survivors of sexual violence require suitable mechanisms and expertise; avoid unnecessary repeated accounts.\n\nUse prescribed command and professional channels and coordinate with human rights personnel as needed. Preserve source, timing and verification status. Referral does not end responsibility for your own assigned follow-up: Ensure information reaches the proper recipient and urgent concerns receive attention through the applicable mechanism.\n\n### 3.3. Manage sensitive data\nCollect and share only information needed for the assigned purpose, with responsible recipients through approved systems. Do not place victim lists, injury photographs or identifying data in broad discussion groups, personal accounts or publicity materials.\n\nFollow recording and preservation guidance rather than performing evidence procedures beyond training or tasking. Report mistakes or disclosure incidents instead of deleting information to conceal what occurred. **Remember:** Protecting information protects people; speed requires control over recipients and content."
+      },
+      "sourceIds": [
+        "C12",
+        "U35"
+      ]
+    },
+    {
+      "id": "CORE-06-04",
+      "title": {
+        "vi": "4. HRDDP áp dụng cho những hỗ trợ nào?",
+        "en": "4. What support falls under the HRDDP?"
+      },
+      "body": {
+        "vi": "### 4.1. Vì sao có chính sách này?\n**Human Rights Due Diligence Policy (HRDDP)** là chính sách UN về việc thẩm định và kiểm soát nguy cơ nhân quyền khi hỗ trợ lực lượng an ninh ngoài UN. Chính sách giúp bảo đảm hỗ trợ phù hợp với Hiến chương và nghĩa vụ của tổ chức, tránh việc UN góp phần vào vi phạm nghiêm trọng của bên nhận. Bảo vệ tính chính danh của UN có liên hệ trực tiếp với bảo vệ con người, không chỉ với hình ảnh truyền thông.\n\nHRDDP áp dụng cho các thực thể UN cung cấp hỗ trợ thuộc phạm vi chính sách, không chỉ thành phần cảnh sát. IPO, FPU, dân sự và quân sự đều có thể liên quan theo công việc. Không thể chuyển hết trách nhiệm sang bộ phận nhân quyền hoặc cho rằng đơn vị hậu cần chỉ cấp phát nên không cần biết mục đích sử dụng.\n\n### 4.2. Đối tượng và hình thức hỗ trợ\nLực lượng nhận có thể là cảnh sát, cơ quan thực thi pháp luật khác, cơ quan dân sự quản lý lực lượng an ninh hoặc lực lượng của tổ chức khu vực ngoài UN, tùy trường hợp. Phải xác định đơn vị nhận và hoạt động cụ thể, không chỉ tên cơ quan chung.\n\nHỗ trợ có thể gồm hoạt động chung, đào tạo nghiệp vụ, cố vấn, hợp tác kỹ thuật, vận tải, phương tiện liên lạc, chia sẻ thông tin nghiệp vụ hoặc hỗ trợ tài chính. Hỗ trợ đột xuất cũng có thể thuộc phạm vi, không chỉ chương trình dài hạn. Thay tên hoạt động thành “giao lưu” hoặc “hỗ trợ kỹ thuật” không tự làm mất nguy cơ.\n\n### 4.3. Phạm vi có giới hạn và ngoại lệ hẹp\nKhông phải mọi tương tác đều là hỗ trợ thuộc HRDDP. Tài liệu hướng dẫn phân biệt một số hoạt động như hỗ trợ trung gian hòa giải, sơ tán y tế cứu người và hoạt động thực sự nhằm thúc đẩy tuân thủ luật nhân quyền, nhân đạo, tị nạn. Không được mở rộng các trường hợp này thành lý do bỏ đánh giá đối với cả chương trình nghiệp vụ hoặc hậu cần.\n\nKhi chưa chắc hoạt động thuộc phạm vi hay ngoại lệ, cần xin hướng dẫn của đầu mối HRDDP, pháp lý hoặc cấp có thẩm quyền theo cơ chế phái bộ. Nghĩa vụ nhân quyền và các quy định khác vẫn áp dụng dù một hoạt động không thuộc HRDDP. **Điểm cần nhớ:** Xác định ai nhận, nhận gì, dùng vào đâu và nguy cơ liên quan trước khi quyết định cần quy trình nào.",
+        "en": "### 4.1. Why this policy exists\nThe **Human Rights Due Diligence Policy (HRDDP)** governs assessment and management of human rights risks in UN support to non-UN security forces. It helps ensure support complies with the Charter and organizational obligations and avoids contributing to recipients’ grave violations. UN legitimacy concerns protection of people, not merely public image.\n\nThe policy applies across UN entities providing covered support, not only police. IPOs, FPUs, civilians and military personnel may have relevant duties. Responsibility cannot simply be transferred to human rights personnel; logistics providers also need to understand the intended use of support.\n\n### 4.2. Recipients and forms of support\nRecipients may include police, other law-enforcement agencies, civilian authorities responsible for security forces or non-UN regional forces, as applicable. Identify the receiving unit and activity rather than a broad institution name alone.\n\nCovered support may include joint operations, operational training, advice, technical cooperation, transport, communications, operational information sharing and finance. Ad hoc assistance may also be covered. Calling something an exchange or technical support does not eliminate risk.\n\n### 4.3. Boundaries and narrow exclusions\nNot every interaction constitutes covered support. Guidance distinguishes certain activities such as mediation support, life-saving medical evacuation and engagement genuinely intended to promote compliance with human rights, humanitarian and refugee law. These distinctions do not justify exempting an entire operational or logistical programme.\n\nSeek the mission’s HRDDP, legal or other authorized guidance when scope is unclear. Human rights obligations and other rules still apply outside HRDDP coverage. **Remember:** Identify recipients, assistance, intended use and risks before determining the required process."
+      },
+      "sourceIds": [
+        "U35",
+        "HRDDP-GUIDE"
+      ]
+    },
+    {
+      "id": "CORE-06-05",
+      "title": {
+        "vi": "5. Đánh giá nguy cơ trước hỗ trợ",
+        "en": "5. Assessing risk before support"
+      },
+      "body": {
+        "vi": "### 5.1. Đánh giá nguy cơ, không chỉ tìm bản án\nĐánh giá cần xem có căn cứ đáng kể để cho rằng bên nhận có nguy cơ thực sự thực hiện vi phạm nghiêm trọng luật nhân đạo, nhân quyền hoặc tị nạn hay không. Không phải chỉ kiểm tra đã có bản án hình sự hay chưa. Thông tin đáng tin cậy về hành vi trước đây, chỉ huy, cơ chế quản lý và hoạt động sắp được hỗ trợ đều có thể quan trọng.\n\nKhông cung cấp hỗ trợ khi các điều kiện cấm trong chính sách được đáp ứng, bao gồm nguy cơ nêu trên và việc cơ quan liên quan không có biện pháp khắc phục hoặc giảm thiểu cần thiết. Quyết định cần qua quy trình và người có thẩm quyền. Cán bộ cung cấp thông tin, nhận diện vấn đề và báo cáo theo trách nhiệm, không tự tạo một cơ chế phê duyệt song song.\n\n### 5.2. Những nội dung phải xem xét\n\n1. **Hồ sơ hành vi:** Thông tin về vi phạm trước đây, mô hình lặp lại, đơn vị và người chỉ huy liên quan.\n2. **Trách nhiệm giải trình:** Cách cơ quan xử lý khi có cáo buộc; hiệu quả thực tế của điều tra, khắc phục và xử lý.\n3. **Phòng ngừa:** Quy trình, đào tạo, tổ chức, nhân sự và giám sát có giúp ngăn tái diễn không?\n4. **Pháp luật, chính sách:** Có chỉ thị hoặc cách làm làm tăng nguy cơ vi phạm không?\n5. **Loại hỗ trợ:** Hỗ trợ sẽ tăng năng lực nào, trong hoạt động gì và có thể góp phần vào nguy cơ ra sao?\n6. **Khả năng theo dõi:** Có tiếp cận thông tin, địa điểm và người cần thiết để giám sát không?\n7. **Khả năng tác động:** Điều kiện hỗ trợ có giúp thay đổi hành vi không; việc không hỗ trợ có tác động gì cần tính đến?\n\nKhông phải chỉ ghi đủ các ô là đánh giá xong. Cần phân tích mối liên hệ giữa thông tin và nguy cơ của hoạt động cụ thể. Ví dụ, một chỉ thị sử dụng vũ lực trái chuẩn mực có ý nghĩa trực tiếp khi hỗ trợ năng lực cho đúng loại hoạt động đó.\n\n### 5.3. Làm rõ độ tin cậy và khoảng trống\nDùng nguồn phù hợp, đáng tin cậy và có thể đối chiếu theo cơ chế. Ghi rõ điều đã biết, điều chưa xác minh và thiếu thông tin nào có thể ảnh hưởng quyết định. Không có báo cáo vi phạm không tự chứng minh nguy cơ thấp; có thể tồn tại rào cản tiếp cận hoặc người dân sợ cung cấp thông tin.\n\n**Điểm cần nhớ:** HRDDP là đánh giá rủi ro để quyết định hỗ trợ có trách nhiệm, không phải một thủ tục kết tội. Vì vậy, vừa không bỏ qua dấu hiệu đáng tin cậy vừa không trình bày cáo buộc như kết luận đã xác minh.",
+        "en": "### 5.1. Assess risk, not convictions alone\nAssess whether substantial grounds indicate a real risk of recipients committing grave violations of humanitarian, human rights or refugee law. This is not limited to checking for a criminal conviction. Reliable information about past conduct, commanders, management and the proposed activity matters.\n\nSupport must not be provided where the policy’s prohibiting conditions are met, including the relevant risk and failure by authorities to take necessary corrective or mitigating measures. Decisions follow authorized procedures. Personnel supply information, identify concerns and report; they do not establish parallel approval systems.\n\n### 5.2. Factors to examine\n\n1. **Conduct record:** Past violations, repeated patterns, units and commanders involved.\n2. **Accountability:** Actual investigation, corrective action and response to allegations.\n3. **Prevention:** Whether procedures, training, organization, staffing and oversight prevent recurrence.\n4. **Law and policy:** Directives or practices that increase risk.\n5. **Support type:** Capabilities strengthened, activities concerned and their relationship to harm.\n6. **Monitoring feasibility:** Access to relevant information, places and people.\n7. **Leverage:** Whether support conditions can influence conduct and the effects of withholding support.\n\nCompleting boxes does not replace analysis. Connect evidence to the specific proposed activity. An unlawful use-of-force directive, for example, directly matters when support strengthens that type of operation.\n\n### 5.3. Reliability and information gaps\nUse suitable, reliable and appropriately corroborated sources. Distinguish established information, unverified material and gaps affecting the decision. Absence of reports does not prove low risk; access barriers or fear may suppress reporting.\n\n**Remember:** HRDDP assesses risk for responsible support decisions; it is not a criminal conviction process. Take credible indicators seriously without presenting allegations as verified findings."
+      },
+      "sourceIds": [
+        "U35",
+        "HRDDP-GUIDE"
+      ]
+    },
+    {
+      "id": "CORE-06-06",
+      "title": {
+        "vi": "6. Biện pháp giảm thiểu phải tác động được nguy cơ",
+        "en": "6. Mitigation must address the actual risk"
+      },
+      "body": {
+        "vi": "### 6.1. Từ nhận diện nguy cơ đến điều kiện cụ thể\nCó nguy cơ không tự động loại trừ mọi hỗ trợ nếu có biện pháp phù hợp làm giảm nguy cơ theo yêu cầu chính sách. Nhưng một lời cam kết chung cũng không đủ để kết luận đã an toàn. Cần nêu biện pháp giải quyết nguy cơ nào, ai thực hiện, khi nào hoàn thành, kiểm tra bằng gì và làm gì nếu không thực hiện.\n\nVí dụ, nếu nguy cơ xuất phát từ chỉ huy, kiểm soát yếu và không có theo dõi, một buổi phổ biến nhân quyền có thể hữu ích nhưng chưa đủ. Có thể cần sửa cách lập kế hoạch, cơ chế giám sát, quy định sử dụng vũ lực, tiếp cận thông tin và xử lý vi phạm, tùy đánh giá và quyết định có thẩm quyền.\n\n### 6.2. Các nhóm biện pháp thường gặp\nBiện pháp có thể liên quan phát triển năng lực, đào tạo phù hợp; lập kế hoạch và dự phòng chung; cải thiện quy định và chỉ huy; tăng theo dõi, báo cáo; yêu cầu trách nhiệm đối với vi phạm trước; hoặc loại trừ đơn vị, người chỉ huy có vấn đề khỏi phạm vi hỗ trợ theo cơ chế. Lựa chọn phải gắn với nguyên nhân và khả năng thực hiện, không sao chép một danh sách cho mọi nơi.\n\nVới hỗ trợ phương tiện hoặc thông tin, cần xem cách kiểm soát mục đích sử dụng, phạm vi người nhận và khả năng theo dõi. Không coi trang bị ít sát thương là tự động không gây nguy cơ: Cách sử dụng, huấn luyện và giám sát vẫn quyết định khả năng gây hại.\n\n### 6.3. Đánh giá nguy cơ còn lại\nSau khi xác định biện pháp, cần đánh giá chúng có khả thi và đủ giảm nguy cơ không. Nếu bên nhận không đồng ý điều kiện quan trọng hoặc không cho phép theo dõi cần thiết, đó là thông tin ảnh hưởng quyết định, không phải chi tiết có thể để sau. Quyết định và điều kiện hỗ trợ phải được ghi theo quy trình.\n\nKhông đổi tên hoạt động, chia nhỏ hỗ trợ hoặc chuyển qua đầu mối khác chỉ để tránh đánh giá. Nếu chưa đủ căn cứ để quyết định, báo phần còn thiếu và yêu cầu hướng dẫn. **Điểm cần nhớ:** Biện pháp giảm thiểu có giá trị khi thực hiện và kiểm chứng được, không chỉ khi được viết trong kế hoạch.",
+        "en": "### 6.1. Turn risks into concrete conditions\nRisk does not automatically exclude every form of support if suitable measures can reduce it as policy requires. General assurances alone do not demonstrate safety. Specify which risk each measure addresses, who acts, when, how it is checked and what happens if it is not implemented.\n\nWhere weak command and monitoring drive risk, human rights instruction may help but be insufficient. Operational planning, oversight, force directives, access and accountability may also require improvement, according to assessment and authorized decisions.\n\n### 6.2. Common categories of measures\nMeasures may involve capacity development, suitable training, joint and contingency planning, improved rules and command, monitoring and reporting, accountability for earlier violations, or exclusion of problematic units and commanders through applicable arrangements. Select feasible measures addressing causes rather than copying a universal checklist.\n\nEquipment or information support requires controls on purpose, recipients and monitoring. Less-lethal equipment is not automatically risk-free: Use, training and supervision still determine potential harm.\n\n### 6.3. Examine residual risk\nAssess whether proposed measures are feasible and sufficient. A recipient’s refusal of essential conditions or necessary monitoring affects the decision; it is not a detail to postpone. Record decisions and conditions through the proper process.\n\nDo not rename, divide or reroute assistance to evade assessment. If information is insufficient, identify gaps and seek guidance. **Remember:** Mitigation matters when it can be implemented and verified, not merely written into a plan."
+      },
+      "sourceIds": [
+        "U35",
+        "HRDDP-GUIDE"
+      ]
+    },
+    {
+      "id": "CORE-06-07",
+      "title": {
+        "vi": "7. Theo dõi, can thiệp và rà soát hỗ trợ",
+        "en": "7. Monitoring, intervention and review of support"
+      },
+      "body": {
+        "vi": "### 7.1. Chấp thuận hỗ trợ không kết thúc HRDDP\nNguy cơ có thể thay đổi khi đơn vị nhận đổi chỉ huy, địa bàn, nhiệm vụ hoặc cách sử dụng nguồn lực. Cần theo dõi hành vi liên quan đến hỗ trợ, việc thực hiện biện pháp và thông tin mới. Một đánh giá được duyệt trước đây không bao phủ vô thời hạn mọi hoạt động tiếp theo.\n\nKế hoạch theo dõi phải xác định người chịu trách nhiệm, nội dung, nguồn thông tin, cách ghi nhận, thời điểm rà soát và đường báo cáo khi có dấu hiệu nghiêm trọng. Có thể phối hợp bộ phận nhân quyền và các đầu mối khác, nhưng đơn vị cung cấp hỗ trợ vẫn có trách nhiệm theo dõi theo chính sách và phân công. Không coi đã nhờ chuyên gia là có thể bỏ toàn bộ việc này.\n\n### 7.2. Khi có dấu hiệu vi phạm\nGhi nhận sự kiện và nguy cơ, bảo vệ thông tin và báo kịp thời qua cơ chế. Cần có trao đổi, can thiệp với bên nhận ở cấp phù hợp để chấm dứt vi phạm và thực hiện biện pháp khắc phục. Nếu vi phạm tiếp diễn và điều kiện chính sách yêu cầu, hỗ trợ phải bị đình chỉ hoặc rút theo quyết định có thẩm quyền. Không coi việc tiếp tục hỗ trợ là mặc định chỉ vì hoạt động đã được lập kế hoạch.\n\nCán bộ không tự đặt cho mình quyền quyết định đối với toàn bộ hỗ trợ của phái bộ. Tuy nhiên, phải thực hiện trách nhiệm cá nhân về phần việc được giao, báo ngay điều đáng lo ngại và không che giấu thông tin để hoạt động tiếp tục. Trong việc khẩn cấp, làm theo mandate, thẩm quyền và hướng dẫn liên quan; không dùng tính khẩn cấp làm ngoại lệ chung để bỏ chính sách.\n\n### 7.3. Bàn giao để nguy cơ không bị quên\nHồ sơ cần cho thấy bên nhận, loại hỗ trợ, đánh giá và điều kiện, biện pháp đã thực hiện, thông tin theo dõi, vấn đề còn mở và cấp quyết định. Khi luân chuyển, bàn giao rõ người tiếp tục theo dõi và hạn xử lý; không chỉ chuyển bản phê duyệt ban đầu.\n\n**Kết thúc bài:** Nhân quyền định hướng mọi hoạt động của UN. HRDDP bổ sung một quá trình có trách nhiệm khi hỗ trợ lực lượng ngoài UN: Xác định phạm vi, đánh giá nguy cơ, lựa chọn và kiểm tra biện pháp, theo dõi và xử lý thay đổi. Chất lượng thể hiện ở khả năng ngăn và giảm hại cho con người, không phải số biểu mẫu đã ký.",
+        "en": "### 7.1. Approval does not end due diligence\nRisk changes with commanders, areas, tasks and resource use. Monitor conduct linked to support, implementation of measures and new information. An earlier approval does not indefinitely cover all later activities.\n\nIdentify monitoring responsibilities, subjects, sources, records, review points and escalation channels. Human rights and other partners may assist, but providers retain monitoring responsibilities under policy and tasking. Requesting expert help does not eliminate those duties.\n\n### 7.2. When violations are indicated\nRecord facts and risks, protect information and report promptly. Engage recipients at the appropriate level to end violations and secure corrective action. If violations persist and policy conditions require it, support must be suspended or withdrawn through competent decisions. Prior planning does not make continued assistance the default.\n\nOfficers do not independently assume authority over all mission assistance. They must nevertheless discharge personal duties, promptly raise concerns and avoid concealing information to preserve activities. Urgent action follows the mandate, authority and relevant guidance; urgency is not a blanket policy exemption.\n\n### 7.3. Handover must preserve risk awareness\nRecords should establish recipients, support, assessment, conditions, implemented measures, monitoring findings, outstanding matters and decision authority. Rotations require clear follow-up responsibility and deadlines, not transfer of the initial approval alone.\n\n**Retain:** Human rights guide all UN work. HRDDP adds a responsible process for support to non-UN forces: Define scope, assess risk, select and verify mitigation, monitor and respond to change. Its quality lies in preventing and reducing harm, rather than counting signed forms."
+      },
+      "sourceIds": [
+        "U35",
+        "HRDDP-GUIDE"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "C12",
+      "title": "2.3 Human Rights",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-416%20Lesson%202.3%20Human%20Rights.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 33,
+      "pdf_name": "2025 - Lesson 2.3 Human Rights - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "U35",
+      "title": "Lesson 4 Human Rights Due Diligence Policy",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-008%20UNPOL%20STM%20Lesson%204%20Human%20Rights%20Due%20Diligence%20Policy.pdf",
+      "year": "2021",
+      "publisher": "United Nations UNPOL STM",
+      "format": "pdf",
+      "pages": 34,
+      "pdf_name": "U35.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "HRDDP-GUIDE",
+      "title": "Guidance note and attached HRDDP policy",
+      "url": "https://unsdg.un.org/resources/guidance-note-human-rights-due-diligence-policy-un-support-non-united-nations-security",
+      "publisher": "United Nations",
+      "year": "2015",
+      "format": "web"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Người bị nghi phạm tội có mất quyền được đối xử đúng pháp luật không?",
+        "en": "Does a suspect lose the right to lawful treatment?"
+      },
+      "options": [
+        {
+          "vi": "Không; vẫn có nhân phẩm và các quyền áp dụng.",
+          "en": "No; dignity and applicable rights remain."
+        },
+        {
+          "vi": "Có nếu chỉ huy cho phép.",
+          "en": "Yes, if a commander permits it."
+        },
+        {
+          "vi": "Có nếu không hợp tác.",
+          "en": "Yes, if uncooperative."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Nhân quyền không phải phần thưởng cho hợp tác; mục đích tốt không hợp pháp hóa hành vi bị cấm. Xem mục 1.",
+        "en": "Rights are not rewards for cooperation; a desirable objective does not legalize prohibited conduct. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Trách nhiệm của bộ phận nhân quyền làm thay đổi trách nhiệm cán bộ khác thế nào?",
+        "en": "How does a human rights component affect others’ duties?"
+      },
+      "options": [
+        {
+          "vi": "Cung cấp chuyên môn; cán bộ khác vẫn có trách nhiệm trong phần việc.",
+          "en": "It provides expertise; other personnel retain responsibilities in their work."
+        },
+        {
+          "vi": "Mọi cán bộ khác được đứng ngoài.",
+          "en": "Everyone else may ignore concerns."
+        },
+        {
+          "vi": "Mọi cán bộ tự có quyền điều tra chuyên sâu.",
+          "en": "Everyone automatically gains specialist investigative powers."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Trách nhiệm chung không xóa vai trò chuyên môn hoặc giới hạn phân công. Xem mục 1.",
+        "en": "Shared responsibility does not remove specialist roles or tasking limits. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Thông tin chưa được điều tra xong nên được báo thế nào?",
+        "en": "How should information awaiting investigation be reported?"
+      },
+      "options": [
+        {
+          "vi": "Nêu nội dung, nguồn và mức độ xác minh; không bỏ qua nguy cơ.",
+          "en": "State the account, source and verification status without ignoring risk."
+        },
+        {
+          "vi": "Không báo cho đến khi có bản án.",
+          "en": "Do not report until a conviction exists."
+        },
+        {
+          "vi": "Ghi như kết luận đã chứng minh.",
+          "en": "Report it as proven."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Cần vừa chính xác về bằng chứng vừa kịp thời đối với bảo vệ và chuyển tuyến. Xem mục 2.",
+        "en": "Evidence precision must accompany timely protection and referral. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Phân biệt violation và abuse có nghĩa gì?",
+        "en": "What does distinguishing violation from abuse achieve?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ cần tên gọi, không cần ghi sự kiện.",
+          "en": "Labels replace factual description."
+        },
+        {
+          "vi": "Giúp nhận diện chủ thể và báo cáo chính xác; không hạ mức nghiêm trọng của hại.",
+          "en": "It improves attribution and reporting, not the ranking of harm as less serious."
+        },
+        {
+          "vi": "Hành vi ngoài Nhà nước luôn ít quan trọng.",
+          "en": "Non-State conduct is always less important."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Cách dùng phổ biến phân biệt trách nhiệm Nhà nước và chủ thể ngoài Nhà nước; trường hợp phức tạp cần chuyên môn. Xem mục 2.",
+        "en": "Common usage distinguishes State responsibility and non-State actors; complex cases need expert assessment. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Người dân kể sự việc có tự đồng ý cho công khai danh tính không?",
+        "en": "Does giving an account automatically authorize publication of identity?"
+      },
+      "options": [
+        {
+          "vi": "Có, vì đã nói với UN.",
+          "en": "Yes, because they spoke to the UN."
+        },
+        {
+          "vi": "Không; phải tuân thủ mục đích, giới hạn và cơ chế bảo vệ thông tin.",
+          "en": "No; comply with purpose, limits and information safeguards."
+        },
+        {
+          "vi": "Có, nếu giúp thể hiện thành tích.",
+          "en": "Yes, if it demonstrates performance."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Tiếp nhận thông tin không đồng nghĩa được công khai hoặc chia sẻ không giới hạn. Xem mục 3.",
+        "en": "Receiving information does not authorize public disclosure or unrestricted sharing. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "HRDDP liên quan đến nội dung nào?",
+        "en": "What does the HRDDP address?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ tuyển dụng cán bộ UN.",
+          "en": "Only UN personnel recruitment."
+        },
+        {
+          "vi": "Nguy cơ trong hỗ trợ UN cho lực lượng an ninh ngoài UN.",
+          "en": "Risks in UN support to non-UN security forces."
+        },
+        {
+          "vi": "Chỉ chất lượng biểu mẫu hành chính.",
+          "en": "Only the quality of administrative forms."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Chính sách điều chỉnh hỗ trợ và trách nhiệm đánh giá, giảm thiểu, theo dõi; khác với sàng lọc nhân sự UN. Xem mục 4.",
+        "en": "The policy governs support assessment, mitigation and monitoring; it differs from UN personnel screening. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Hỗ trợ đột xuất hoặc hậu cần có tự nằm ngoài HRDDP không?",
+        "en": "Is ad hoc or logistical support automatically outside HRDDP?"
+      },
+      "options": [
+        {
+          "vi": "Có, nếu không có UN trực tiếp dùng vũ lực.",
+          "en": "Yes, if the UN does not directly use force."
+        },
+        {
+          "vi": "Có, vì không phải chương trình dài hạn.",
+          "en": "Yes, it is not a long-term programme."
+        },
+        {
+          "vi": "Không; cần xem người nhận, hình thức và mục đích cụ thể.",
+          "en": "No; examine recipients, assistance and intended use."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Hỗ trợ có thể tạo năng lực góp phần vào hại dù UN không trực tiếp thực hiện hành vi. Xem mục 4.",
+        "en": "Support can contribute to harmful capability even when the UN does not directly commit the act. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Hiểu ngoại lệ HRDDP như thế nào là đúng?",
+        "en": "How should HRDDP exclusions be understood?"
+      },
+      "options": [
+        {
+          "vi": "Hẹp và theo mục đích thực tế; không miễn cả chương trình chỉ vì có nội dung nhân quyền.",
+          "en": "Narrowly and according to actual purpose; human rights content does not exempt a whole programme."
+        },
+        {
+          "vi": "Có ngoại lệ thì không còn nghĩa vụ nhân quyền nào.",
+          "en": "An exclusion removes all human rights obligations."
+        },
+        {
+          "vi": "Thêm một buổi nhân quyền là miễn mọi đào tạo nghiệp vụ.",
+          "en": "Adding one human rights session exempts all operational training."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Các trường hợp đặc thù không xóa nghĩa vụ khác; khi chưa rõ phải xin hướng dẫn. Xem mục 4.",
+        "en": "Specific exclusions do not remove other obligations; seek guidance where scope is unclear. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Không có bản án hình sự có đủ chứng minh nguy cơ thấp không?",
+        "en": "Does absence of a criminal conviction establish low risk?"
+      },
+      "options": [
+        {
+          "vi": "Có, HRDDP chỉ xem bản án.",
+          "en": "Yes, HRDDP only considers convictions."
+        },
+        {
+          "vi": "Có, nếu bên nhận yêu cầu hỗ trợ gấp.",
+          "en": "Yes, if recipients request urgent support."
+        },
+        {
+          "vi": "Không; phải xem thông tin đáng tin cậy, mô hình hành vi và cơ chế kiểm soát.",
+          "en": "No; consider reliable information, patterns and safeguards."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Đây là đánh giá nguy cơ, không phải điều kiện phải có kết án trước mới được quan tâm. Xem mục 5.",
+        "en": "This is risk assessment; concern does not require a prior conviction. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Không tiếp cận được thông tin về bên nhận cần hiểu thế nào?",
+        "en": "How should inability to access recipient information be treated?"
+      },
+      "options": [
+        {
+          "vi": "Là lý do bỏ phần đánh giá.",
+          "en": "As a reason to omit assessment."
+        },
+        {
+          "vi": "Là bằng chứng chắc chắn không có vi phạm.",
+          "en": "As certain proof that no violations occurred."
+        },
+        {
+          "vi": "Là khoảng trống ảnh hưởng đánh giá và khả năng theo dõi.",
+          "en": "As a gap affecting assessment and monitoring feasibility."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Thiếu báo cáo có thể do rào cản tiếp cận hoặc sợ trả đũa; không đồng nhất thiếu dữ liệu với an toàn. Xem mục 5.",
+        "en": "Missing reports may reflect access barriers or fear; lack of data is not proof of safety. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Biện pháp giảm thiểu có chất lượng phải như thế nào?",
+        "en": "What makes a mitigation measure credible?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ cần được ghi trong kế hoạch.",
+          "en": "Being written in a plan is sufficient."
+        },
+        {
+          "vi": "Gắn nguy cơ, có người làm, điều kiện thực hiện và cách kiểm chứng.",
+          "en": "Address the risk with responsibility, feasible conditions and verification."
+        },
+        {
+          "vi": "Chỉ cần một cam kết chung.",
+          "en": "A general assurance is sufficient."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Biện pháp phải tác động nguyên nhân và nguy cơ còn lại, không chỉ hoàn thiện hồ sơ. Xem mục 6.",
+        "en": "Measures must address causes and residual risk, not merely complete paperwork. See section 6."
+      },
+      "chapter": 5
+    },
+    {
+      "question": {
+        "vi": "Sau khi hỗ trợ được chấp thuận, việc nào vẫn cần làm?",
+        "en": "What remains necessary after support approval?"
+      },
+      "options": [
+        {
+          "vi": "Mỗi cán bộ tự quyết toàn bộ hỗ trợ của phái bộ.",
+          "en": "Every officer independently decides all mission support."
+        },
+        {
+          "vi": "Không cần xem lại dù đổi chỉ huy hoặc nhiệm vụ.",
+          "en": "No review is needed despite changes of commander or task."
+        },
+        {
+          "vi": "Theo dõi, cập nhật nguy cơ và báo để can thiệp, rà soát theo thẩm quyền.",
+          "en": "Monitor, update risks and report for authorized intervention and review."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Chấp thuận không kết thúc quá trình; khi vi phạm tiếp diễn và điều kiện chính sách yêu cầu, đình chỉ hoặc rút hỗ trợ qua cơ chế có thẩm quyền. Xem mục 7.",
+        "en": "Approval does not end the process; persistent violations and policy conditions require suspension or withdrawal through competent arrangements. See section 7."
+      },
+      "chapter": 6
+    }
+  ],
+  "updated": "2026-10-27",
+  "moduleId": "CORE-M2",
+  "moduleOrder": 2,
+  "lessonOrder": 2,
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "CORE-06-01",
+      "title": {
+        "vi": "1. Nhân quyền là nền tảng của hoạt động cảnh sát",
+        "en": "1. Human rights as a foundation of policing"
+      },
+      "body": {
+        "vi": "### 1.1. Quyền gắn với mỗi con người\nNhân quyền là những quyền vốn có của mọi người, không phụ thuộc quốc tịch, giới, dân tộc, ngôn ngữ, tôn giáo, địa vị hoặc hoàn cảnh. Quyền không phải phần thưởng cho người hợp tác với cảnh sát. Người bị nghi phạm tội, người bị bắt và người có quan điểm khác vẫn phải được đối xử theo pháp luật và tôn trọng nhân phẩm.\n\nTính phổ quát nghĩa là quyền thuộc về mọi người; tính không thể chia cắt và phụ thuộc lẫn nhau nhắc rằng các quyền hỗ trợ nhau. Một người không thể tiếp cận dịch vụ hoặc bị phân biệt đối xử có thể gặp nhiều rào cản đồng thời. Tuy nhiên, không phải mọi quyền đều có cùng điều kiện hạn chế: Việc hạn chế quyền phải có căn cứ và đáp ứng yêu cầu pháp lý tương ứng; cấm tra tấn không được gạt bỏ vì lý do khẩn cấp.\n\n### 1.2. Từ nguyên tắc đến công việc hằng ngày\nTrong hoạt động cảnh sát, nhân quyền hiện diện ở tiếp nhận thông tin, tuần tra, khám xét, sử dụng vũ lực, bắt giữ, quản lý thông tin và tiếp xúc người dân. Câu hỏi không chỉ là “đã hoàn thành việc chưa”, mà còn là “đã thực hiện bằng cách nào và tác động đến ai”. Kết quả đạt bằng hành vi trái pháp luật không trở thành hợp pháp vì mục đích được cho là tốt.\n\nKhông phân biệt đối xử cần đi cùng khả năng đáp ứng nhu cầu khác nhau. Người có khuyết tật, trẻ em hoặc người không biết ngôn ngữ làm việc có thể cần hình thức hỗ trợ phù hợp để thực sự tiếp cận dịch vụ. Đối xử công bằng không luôn có nghĩa sử dụng cùng một cách tiếp nhận cho tất cả.\n\n### 1.3. Trách nhiệm chung và chuyên môn riêng\nThúc đẩy, bảo vệ và tôn trọng nhân quyền là trách nhiệm của cả phái bộ và từng cán bộ. Bộ phận nhân quyền cung cấp chuyên môn, tư vấn và phối hợp theo nhiệm vụ; sự có mặt của chuyên gia không làm cán bộ khác được đứng ngoài khi thấy vấn đề. Ngược lại, trách nhiệm chung cũng không biến mọi cán bộ thành điều tra viên nhân quyền có thẩm quyền thực hiện mọi thủ tục.\n\n**Điểm cần nhớ:** Hiểu quyền, hành động trong phạm vi được giao, ghi nhận đúng và chuyển thông tin đúng nơi là các phần liên kết của trách nhiệm nghề nghiệp. Năng lực bảo vệ cần thể hiện cả trong cách UN hành động và cách UN hỗ trợ người khác.",
+        "en": "### 1.1. Rights belong to every person\nHuman rights are inherent to everyone, regardless of nationality, gender, ethnicity, language, religion, status or circumstances. They are not a reward for cooperating with police. Suspects, arrested persons and people holding different views still require lawful treatment and respect for dignity.\n\nUniversality means everyone holds rights. Indivisibility and interdependence recognize that rights reinforce one another: Exclusion and discrimination can create several overlapping barriers. Rights do not all have identical limitation rules. Restrictions require the relevant legal basis and conditions; an emergency does not justify torture.\n\n### 1.2. Principles in everyday work\nHuman rights matter in receiving information, patrols, searches, force, arrest, information management and community contact. Ask not only whether a task was completed, but how and with what effects. A desirable objective does not make unlawful conduct lawful.\n\nNon-discrimination includes responding to different needs. Children, persons with disabilities or people unfamiliar with the working language may require suitable assistance to access services. Fair treatment does not always mean an identical reception process for everyone.\n\n### 1.3. Shared responsibility and specialist roles\nPromoting, protecting and respecting rights are responsibilities of the mission and every member. Human rights personnel provide expertise, advice and coordination within their mandate. Their presence does not excuse inaction by others; equally, shared responsibility does not make every officer a human rights investigator authorized to perform every procedure.\n\n**Remember:** Understanding rights, acting within tasking, recording accurately and referring information appropriately are connected professional responsibilities. Protection matters both in UN conduct and in support provided to others."
+      },
+      "sourceIds": [
+        "C12"
+      ]
+    },
+    {
+      "id": "CORE-06-02",
+      "title": {
+        "vi": "2. Nhận diện vấn đề và ghi nhận thông tin có căn cứ",
+        "en": "2. Recognizing concerns and recording reliable information"
+      },
+      "body": {
+        "vi": "### 2.1. Sự kiện, nghi vấn và kết luận khác nhau\nMột người cho biết bị đánh khi tạm giữ là thông tin cần được tiếp nhận nghiêm túc; chưa thể chỉ từ lời thuật lại mà kết luận toàn bộ sự việc hoặc trách nhiệm pháp lý. Ngược lại, chưa có kết luận điều tra không phải lý do bỏ qua dấu hiệu nguy hiểm. Cần phản ánh đúng nội dung, mức độ xác minh và nhu cầu bảo vệ, y tế hoặc chuyển tuyến.\n\nQuan sát nên ghi người, thời gian, địa điểm, hành động và những gì trực tiếp nhìn hoặc nghe được. Tránh từ kết luận như “tra tấn đã được chứng minh” nếu chưa có căn cứ hoặc thẩm quyền xác định. Không sửa lời người cung cấp cho khớp một giả định ban đầu; cũng không bỏ chi tiết trái với nhận định của mình.\n\n### 2.2. Phân biệt violation và abuse trong cách dùng UN\nTrong cách dùng phổ biến của UN, **human rights violation** thường liên quan trách nhiệm của Nhà nước hoặc người hành động nhân danh Nhà nước; **human rights abuse** thường dùng đối với hành vi của chủ thể ngoài Nhà nước. Phân loại và nghĩa vụ cụ thể có thể phức tạp, nhất là với nhóm có tổ chức hoặc kiểm soát lãnh thổ; cần tham vấn chuyên môn.\n\nSự phân biệt giúp báo cáo chính xác, không tạo ra thứ bậc coi hành vi của một bên ít nghiêm trọng hơn. Người bị hại cần được bảo vệ bất kể chủ thể gây hại. Khi chưa rõ, ghi hành vi, chủ thể được cho là liên quan và nguồn thông tin, thay vì tự gắn nhãn pháp lý chắc chắn.\n\n### 2.3. Nhận ra dấu hiệu và nguy cơ\nCác dấu hiệu cần quan tâm có thể liên quan đến sử dụng vũ lực quá mức, tạm giữ tùy tiện, đối xử tàn nhẫn, bạo lực tình dục, mất tích cưỡng bức hoặc phân biệt đối xử. Cần xem hành vi đơn lẻ và cả mô hình lặp lại: Ai bị tác động, địa điểm nào, đơn vị nào, thời điểm và cách giải thích có giống nhau không?\n\nMột nguồn được nhiều người chia sẻ lại chưa trở thành nhiều nguồn độc lập. Thông tin mạng hoặc lời đồn phải được nhận diện đúng tính chất, không chuyển thành sự thật chỉ vì xuất hiện thường xuyên. **Điểm cần nhớ:** Báo cáo tốt vừa tránh kết luận vượt bằng chứng vừa không xem nhẹ dấu hiệu cần hành động.",
+        "en": "### 2.1. Facts, allegations and findings differ\nA person reporting assault in detention deserves serious attention. The account alone does not establish every fact or legal responsibility. Conversely, absence of a completed investigation is no reason to ignore danger. Record the account, verification status and protection, medical or referral needs accurately.\n\nDescribe people, time, place, conduct and what you directly saw or heard. Do not claim torture has been proven without an adequate basis or competent finding. Do not reshape an account to fit an initial assumption or omit conflicting details.\n\n### 2.2. UN usage of violation and abuse\nIn common UN usage, a **human rights violation** generally concerns State responsibility or persons acting on the State’s behalf; **human rights abuse** commonly describes conduct by non-State actors. Classification and obligations can be complex, particularly for organized groups or territorial control; obtain specialist advice.\n\nThe distinction improves precision rather than ranking one perpetrator’s conduct as less serious. Victims need protection regardless of the actor. If classification is unclear, record conduct, alleged actor and source instead of asserting a definitive legal label.\n\n### 2.3. Recognize indicators and patterns\nConcerns may involve excessive force, arbitrary detention, cruel treatment, sexual violence, enforced disappearance or discrimination. Consider individual incidents and repeated patterns: Affected groups, places, units, timing and recurring explanations.\n\nRepeated circulation of one account is not independent corroboration. Identify rumours and online information as such; frequency does not convert them into established facts. **Remember:** Good reporting neither exceeds the evidence nor dismisses concerns requiring action."
+      },
+      "sourceIds": [
+        "C12"
+      ]
+    },
+    {
+      "id": "CORE-06-03",
+      "title": {
+        "vi": "3. Bảo vệ người, thông tin và phối hợp xử lý",
+        "en": "3. Protecting people and information and coordinating action"
+      },
+      "body": {
+        "vi": "### 3.1. Ưu tiên an toàn và không gây thêm hại\nKhi tiếp nhận thông tin, xem người cung cấp có đang gặp nguy hiểm, cần hỗ trợ khẩn cấp hoặc có nguy cơ bị trả đũa không. Hành động bảo vệ phải trong mandate, thẩm quyền và quy trình. Nếu có đe dọa khẩn cấp, báo và thực hiện phần việc được phép; không chờ hoàn thiện mọi thông tin mới đề nghị hỗ trợ.\n\nKhông hứa bảo vệ tuyệt đối, giữ bí mật tuyệt đối hoặc bảo đảm kết quả điều tra khi không thể thực hiện. Giải thích vai trò của mình, mục đích tiếp nhận và những giới hạn liên quan. Việc người dân kể chuyện không tự đồng nghĩa đồng ý cho công khai tên, hình ảnh hoặc chuyển toàn bộ nội dung cho mọi cơ quan.\n\n### 3.2. Thu thập vừa đủ và chuyển đúng nơi\nCán bộ không được đào tạo hoặc không được giao phỏng vấn chuyên sâu nên tránh hỏi lặp lại, gây áp lực hoặc buộc người bị hại kể chi tiết nhạy cảm. Cần thông tin đủ để ghi nhận, đánh giá nhu cầu tức thời và chuyển đúng đầu mối. Với trẻ em hoặc người bị bạo lực tình dục, sử dụng cơ chế và chuyên gia phù hợp; tránh khiến họ phải thuật lại nhiều lần không cần thiết.\n\nBáo cáo qua kênh chỉ huy và chuyên môn được quy định, phối hợp bộ phận nhân quyền khi cần. Giữ nguyên nguồn gốc, thời gian và mức độ xác minh của thông tin. Việc chuyển tuyến không kết thúc trách nhiệm theo dõi phần việc của mình; cần biết thông tin đã tới đúng nơi và vấn đề khẩn cấp đã được tiếp nhận theo cơ chế phù hợp.\n\n### 3.3. Quản lý dữ liệu nhạy cảm\nChỉ thu thập và chia sẻ dữ liệu cần thiết cho mục đích nhiệm vụ, với người có trách nhiệm và qua hệ thống được phép. Không đưa danh sách nạn nhân, ảnh thương tích hoặc dữ liệu nhận dạng vào nhóm trao đổi đông người để tiện báo cáo. Không lưu vào tài khoản cá nhân hoặc công khai câu chuyện để chứng minh thành tích.\n\nGhi nhận và bảo quản thông tin theo hướng dẫn; không tự thực hiện thủ tục chứng cứ ngoài năng lực và phân công. Nếu có sai sót hoặc lộ thông tin, báo qua cơ chế xử lý thay vì âm thầm xóa để che dấu vết. **Điểm cần nhớ:** Bảo vệ thông tin là bảo vệ con người; báo cáo nhanh phải đi cùng kiểm soát người nhận và nội dung.",
+        "en": "### 3.1. Prioritize safety and avoid further harm\nCheck immediate danger, urgent assistance needs and retaliation risks. Protection action must remain within the mandate, authority and procedures. Report imminent threats and perform authorized actions without waiting to complete every detail before seeking help.\n\nDo not promise absolute protection, confidentiality or investigative outcomes you cannot guarantee. Explain your role, purpose and relevant limits. A person’s account is not automatic consent to publish identity or images or circulate everything to every institution.\n\n### 3.2. Collect what is needed and refer appropriately\nPersonnel without the training or assignment for specialist interviewing should avoid repeated questioning, pressure and unnecessary sensitive detail. Obtain enough information to record concerns, identify immediate needs and refer appropriately. Children and survivors of sexual violence require suitable mechanisms and expertise; avoid unnecessary repeated accounts.\n\nUse prescribed command and professional channels and coordinate with human rights personnel as needed. Preserve source, timing and verification status. Referral does not end responsibility for your own assigned follow-up: Ensure information reaches the proper recipient and urgent concerns receive attention through the applicable mechanism.\n\n### 3.3. Manage sensitive data\nCollect and share only information needed for the assigned purpose, with responsible recipients through approved systems. Do not place victim lists, injury photographs or identifying data in broad discussion groups, personal accounts or publicity materials.\n\nFollow recording and preservation guidance rather than performing evidence procedures beyond training or tasking. Report mistakes or disclosure incidents instead of deleting information to conceal what occurred. **Remember:** Protecting information protects people; speed requires control over recipients and content."
+      },
+      "sourceIds": [
+        "C12",
+        "U35"
+      ]
+    },
+    {
+      "id": "CORE-06-04",
+      "title": {
+        "vi": "4. HRDDP áp dụng cho những hỗ trợ nào?",
+        "en": "4. What support falls under the HRDDP?"
+      },
+      "body": {
+        "vi": "### 4.1. Vì sao có chính sách này?\n**Human Rights Due Diligence Policy (HRDDP)** là chính sách UN về việc thẩm định và kiểm soát nguy cơ nhân quyền khi hỗ trợ lực lượng an ninh ngoài UN. Chính sách giúp bảo đảm hỗ trợ phù hợp với Hiến chương và nghĩa vụ của tổ chức, tránh việc UN góp phần vào vi phạm nghiêm trọng của bên nhận. Bảo vệ tính chính danh của UN có liên hệ trực tiếp với bảo vệ con người, không chỉ với hình ảnh truyền thông.\n\nHRDDP áp dụng cho các thực thể UN cung cấp hỗ trợ thuộc phạm vi chính sách, không chỉ thành phần cảnh sát. IPO, FPU, dân sự và quân sự đều có thể liên quan theo công việc. Không thể chuyển hết trách nhiệm sang bộ phận nhân quyền hoặc cho rằng đơn vị hậu cần chỉ cấp phát nên không cần biết mục đích sử dụng.\n\n### 4.2. Đối tượng và hình thức hỗ trợ\nLực lượng nhận có thể là cảnh sát, cơ quan thực thi pháp luật khác, cơ quan dân sự quản lý lực lượng an ninh hoặc lực lượng của tổ chức khu vực ngoài UN, tùy trường hợp. Phải xác định đơn vị nhận và hoạt động cụ thể, không chỉ tên cơ quan chung.\n\nHỗ trợ có thể gồm hoạt động chung, đào tạo nghiệp vụ, cố vấn, hợp tác kỹ thuật, vận tải, phương tiện liên lạc, chia sẻ thông tin nghiệp vụ hoặc hỗ trợ tài chính. Hỗ trợ đột xuất cũng có thể thuộc phạm vi, không chỉ chương trình dài hạn. Thay tên hoạt động thành “giao lưu” hoặc “hỗ trợ kỹ thuật” không tự làm mất nguy cơ.\n\n### 4.3. Phạm vi có giới hạn và ngoại lệ hẹp\nKhông phải mọi tương tác đều là hỗ trợ thuộc HRDDP. Tài liệu hướng dẫn phân biệt một số hoạt động như hỗ trợ trung gian hòa giải, sơ tán y tế cứu người và hoạt động thực sự nhằm thúc đẩy tuân thủ luật nhân quyền, nhân đạo, tị nạn. Không được mở rộng các trường hợp này thành lý do bỏ đánh giá đối với cả chương trình nghiệp vụ hoặc hậu cần.\n\nKhi chưa chắc hoạt động thuộc phạm vi hay ngoại lệ, cần xin hướng dẫn của đầu mối HRDDP, pháp lý hoặc cấp có thẩm quyền theo cơ chế phái bộ. Nghĩa vụ nhân quyền và các quy định khác vẫn áp dụng dù một hoạt động không thuộc HRDDP. **Điểm cần nhớ:** Xác định ai nhận, nhận gì, dùng vào đâu và nguy cơ liên quan trước khi quyết định cần quy trình nào.",
+        "en": "### 4.1. Why this policy exists\nThe **Human Rights Due Diligence Policy (HRDDP)** governs assessment and management of human rights risks in UN support to non-UN security forces. It helps ensure support complies with the Charter and organizational obligations and avoids contributing to recipients’ grave violations. UN legitimacy concerns protection of people, not merely public image.\n\nThe policy applies across UN entities providing covered support, not only police. IPOs, FPUs, civilians and military personnel may have relevant duties. Responsibility cannot simply be transferred to human rights personnel; logistics providers also need to understand the intended use of support.\n\n### 4.2. Recipients and forms of support\nRecipients may include police, other law-enforcement agencies, civilian authorities responsible for security forces or non-UN regional forces, as applicable. Identify the receiving unit and activity rather than a broad institution name alone.\n\nCovered support may include joint operations, operational training, advice, technical cooperation, transport, communications, operational information sharing and finance. Ad hoc assistance may also be covered. Calling something an exchange or technical support does not eliminate risk.\n\n### 4.3. Boundaries and narrow exclusions\nNot every interaction constitutes covered support. Guidance distinguishes certain activities such as mediation support, life-saving medical evacuation and engagement genuinely intended to promote compliance with human rights, humanitarian and refugee law. These distinctions do not justify exempting an entire operational or logistical programme.\n\nSeek the mission’s HRDDP, legal or other authorized guidance when scope is unclear. Human rights obligations and other rules still apply outside HRDDP coverage. **Remember:** Identify recipients, assistance, intended use and risks before determining the required process."
+      },
+      "sourceIds": [
+        "U35",
+        "HRDDP-GUIDE"
+      ]
+    },
+    {
+      "id": "CORE-06-05",
+      "title": {
+        "vi": "5. Đánh giá nguy cơ trước hỗ trợ",
+        "en": "5. Assessing risk before support"
+      },
+      "body": {
+        "vi": "### 5.1. Đánh giá nguy cơ, không chỉ tìm bản án\nĐánh giá cần xem có căn cứ đáng kể để cho rằng bên nhận có nguy cơ thực sự thực hiện vi phạm nghiêm trọng luật nhân đạo, nhân quyền hoặc tị nạn hay không. Không phải chỉ kiểm tra đã có bản án hình sự hay chưa. Thông tin đáng tin cậy về hành vi trước đây, chỉ huy, cơ chế quản lý và hoạt động sắp được hỗ trợ đều có thể quan trọng.\n\nKhông cung cấp hỗ trợ khi các điều kiện cấm trong chính sách được đáp ứng, bao gồm nguy cơ nêu trên và việc cơ quan liên quan không có biện pháp khắc phục hoặc giảm thiểu cần thiết. Quyết định cần qua quy trình và người có thẩm quyền. Cán bộ cung cấp thông tin, nhận diện vấn đề và báo cáo theo trách nhiệm, không tự tạo một cơ chế phê duyệt song song.\n\n### 5.2. Những nội dung phải xem xét\n\n1. **Hồ sơ hành vi:** Thông tin về vi phạm trước đây, mô hình lặp lại, đơn vị và người chỉ huy liên quan.\n2. **Trách nhiệm giải trình:** Cách cơ quan xử lý khi có cáo buộc; hiệu quả thực tế của điều tra, khắc phục và xử lý.\n3. **Phòng ngừa:** Quy trình, đào tạo, tổ chức, nhân sự và giám sát có giúp ngăn tái diễn không?\n4. **Pháp luật, chính sách:** Có chỉ thị hoặc cách làm làm tăng nguy cơ vi phạm không?\n5. **Loại hỗ trợ:** Hỗ trợ sẽ tăng năng lực nào, trong hoạt động gì và có thể góp phần vào nguy cơ ra sao?\n6. **Khả năng theo dõi:** Có tiếp cận thông tin, địa điểm và người cần thiết để giám sát không?\n7. **Khả năng tác động:** Điều kiện hỗ trợ có giúp thay đổi hành vi không; việc không hỗ trợ có tác động gì cần tính đến?\n\nKhông phải chỉ ghi đủ các ô là đánh giá xong. Cần phân tích mối liên hệ giữa thông tin và nguy cơ của hoạt động cụ thể. Ví dụ, một chỉ thị sử dụng vũ lực trái chuẩn mực có ý nghĩa trực tiếp khi hỗ trợ năng lực cho đúng loại hoạt động đó.\n\n### 5.3. Làm rõ độ tin cậy và khoảng trống\nDùng nguồn phù hợp, đáng tin cậy và có thể đối chiếu theo cơ chế. Ghi rõ điều đã biết, điều chưa xác minh và thiếu thông tin nào có thể ảnh hưởng quyết định. Không có báo cáo vi phạm không tự chứng minh nguy cơ thấp; có thể tồn tại rào cản tiếp cận hoặc người dân sợ cung cấp thông tin.\n\n**Điểm cần nhớ:** HRDDP là đánh giá rủi ro để quyết định hỗ trợ có trách nhiệm, không phải một thủ tục kết tội. Vì vậy, vừa không bỏ qua dấu hiệu đáng tin cậy vừa không trình bày cáo buộc như kết luận đã xác minh.",
+        "en": "### 5.1. Assess risk, not convictions alone\nAssess whether substantial grounds indicate a real risk of recipients committing grave violations of humanitarian, human rights or refugee law. This is not limited to checking for a criminal conviction. Reliable information about past conduct, commanders, management and the proposed activity matters.\n\nSupport must not be provided where the policy’s prohibiting conditions are met, including the relevant risk and failure by authorities to take necessary corrective or mitigating measures. Decisions follow authorized procedures. Personnel supply information, identify concerns and report; they do not establish parallel approval systems.\n\n### 5.2. Factors to examine\n\n1. **Conduct record:** Past violations, repeated patterns, units and commanders involved.\n2. **Accountability:** Actual investigation, corrective action and response to allegations.\n3. **Prevention:** Whether procedures, training, organization, staffing and oversight prevent recurrence.\n4. **Law and policy:** Directives or practices that increase risk.\n5. **Support type:** Capabilities strengthened, activities concerned and their relationship to harm.\n6. **Monitoring feasibility:** Access to relevant information, places and people.\n7. **Leverage:** Whether support conditions can influence conduct and the effects of withholding support.\n\nCompleting boxes does not replace analysis. Connect evidence to the specific proposed activity. An unlawful use-of-force directive, for example, directly matters when support strengthens that type of operation.\n\n### 5.3. Reliability and information gaps\nUse suitable, reliable and appropriately corroborated sources. Distinguish established information, unverified material and gaps affecting the decision. Absence of reports does not prove low risk; access barriers or fear may suppress reporting.\n\n**Remember:** HRDDP assesses risk for responsible support decisions; it is not a criminal conviction process. Take credible indicators seriously without presenting allegations as verified findings."
+      },
+      "sourceIds": [
+        "U35",
+        "HRDDP-GUIDE"
+      ]
+    },
+    {
+      "id": "CORE-06-06",
+      "title": {
+        "vi": "6. Biện pháp giảm thiểu phải tác động được nguy cơ",
+        "en": "6. Mitigation must address the actual risk"
+      },
+      "body": {
+        "vi": "### 6.1. Từ nhận diện nguy cơ đến điều kiện cụ thể\nCó nguy cơ không tự động loại trừ mọi hỗ trợ nếu có biện pháp phù hợp làm giảm nguy cơ theo yêu cầu chính sách. Nhưng một lời cam kết chung cũng không đủ để kết luận đã an toàn. Cần nêu biện pháp giải quyết nguy cơ nào, ai thực hiện, khi nào hoàn thành, kiểm tra bằng gì và làm gì nếu không thực hiện.\n\nVí dụ, nếu nguy cơ xuất phát từ chỉ huy, kiểm soát yếu và không có theo dõi, một buổi phổ biến nhân quyền có thể hữu ích nhưng chưa đủ. Có thể cần sửa cách lập kế hoạch, cơ chế giám sát, quy định sử dụng vũ lực, tiếp cận thông tin và xử lý vi phạm, tùy đánh giá và quyết định có thẩm quyền.\n\n### 6.2. Các nhóm biện pháp thường gặp\nBiện pháp có thể liên quan phát triển năng lực, đào tạo phù hợp; lập kế hoạch và dự phòng chung; cải thiện quy định và chỉ huy; tăng theo dõi, báo cáo; yêu cầu trách nhiệm đối với vi phạm trước; hoặc loại trừ đơn vị, người chỉ huy có vấn đề khỏi phạm vi hỗ trợ theo cơ chế. Lựa chọn phải gắn với nguyên nhân và khả năng thực hiện, không sao chép một danh sách cho mọi nơi.\n\nVới hỗ trợ phương tiện hoặc thông tin, cần xem cách kiểm soát mục đích sử dụng, phạm vi người nhận và khả năng theo dõi. Không coi trang bị ít sát thương là tự động không gây nguy cơ: Cách sử dụng, huấn luyện và giám sát vẫn quyết định khả năng gây hại.\n\n### 6.3. Đánh giá nguy cơ còn lại\nSau khi xác định biện pháp, cần đánh giá chúng có khả thi và đủ giảm nguy cơ không. Nếu bên nhận không đồng ý điều kiện quan trọng hoặc không cho phép theo dõi cần thiết, đó là thông tin ảnh hưởng quyết định, không phải chi tiết có thể để sau. Quyết định và điều kiện hỗ trợ phải được ghi theo quy trình.\n\nKhông đổi tên hoạt động, chia nhỏ hỗ trợ hoặc chuyển qua đầu mối khác chỉ để tránh đánh giá. Nếu chưa đủ căn cứ để quyết định, báo phần còn thiếu và yêu cầu hướng dẫn. **Điểm cần nhớ:** Biện pháp giảm thiểu có giá trị khi thực hiện và kiểm chứng được, không chỉ khi được viết trong kế hoạch.",
+        "en": "### 6.1. Turn risks into concrete conditions\nRisk does not automatically exclude every form of support if suitable measures can reduce it as policy requires. General assurances alone do not demonstrate safety. Specify which risk each measure addresses, who acts, when, how it is checked and what happens if it is not implemented.\n\nWhere weak command and monitoring drive risk, human rights instruction may help but be insufficient. Operational planning, oversight, force directives, access and accountability may also require improvement, according to assessment and authorized decisions.\n\n### 6.2. Common categories of measures\nMeasures may involve capacity development, suitable training, joint and contingency planning, improved rules and command, monitoring and reporting, accountability for earlier violations, or exclusion of problematic units and commanders through applicable arrangements. Select feasible measures addressing causes rather than copying a universal checklist.\n\nEquipment or information support requires controls on purpose, recipients and monitoring. Less-lethal equipment is not automatically risk-free: Use, training and supervision still determine potential harm.\n\n### 6.3. Examine residual risk\nAssess whether proposed measures are feasible and sufficient. A recipient’s refusal of essential conditions or necessary monitoring affects the decision; it is not a detail to postpone. Record decisions and conditions through the proper process.\n\nDo not rename, divide or reroute assistance to evade assessment. If information is insufficient, identify gaps and seek guidance. **Remember:** Mitigation matters when it can be implemented and verified, not merely written into a plan."
+      },
+      "sourceIds": [
+        "U35",
+        "HRDDP-GUIDE"
+      ]
+    },
+    {
+      "id": "CORE-06-07",
+      "title": {
+        "vi": "7. Theo dõi, can thiệp và rà soát hỗ trợ",
+        "en": "7. Monitoring, intervention and review of support"
+      },
+      "body": {
+        "vi": "### 7.1. Chấp thuận hỗ trợ không kết thúc HRDDP\nNguy cơ có thể thay đổi khi đơn vị nhận đổi chỉ huy, địa bàn, nhiệm vụ hoặc cách sử dụng nguồn lực. Cần theo dõi hành vi liên quan đến hỗ trợ, việc thực hiện biện pháp và thông tin mới. Một đánh giá được duyệt trước đây không bao phủ vô thời hạn mọi hoạt động tiếp theo.\n\nKế hoạch theo dõi phải xác định người chịu trách nhiệm, nội dung, nguồn thông tin, cách ghi nhận, thời điểm rà soát và đường báo cáo khi có dấu hiệu nghiêm trọng. Có thể phối hợp bộ phận nhân quyền và các đầu mối khác, nhưng đơn vị cung cấp hỗ trợ vẫn có trách nhiệm theo dõi theo chính sách và phân công. Không coi đã nhờ chuyên gia là có thể bỏ toàn bộ việc này.\n\n### 7.2. Khi có dấu hiệu vi phạm\nGhi nhận sự kiện và nguy cơ, bảo vệ thông tin và báo kịp thời qua cơ chế. Cần có trao đổi, can thiệp với bên nhận ở cấp phù hợp để chấm dứt vi phạm và thực hiện biện pháp khắc phục. Nếu vi phạm tiếp diễn và điều kiện chính sách yêu cầu, hỗ trợ phải bị đình chỉ hoặc rút theo quyết định có thẩm quyền. Không coi việc tiếp tục hỗ trợ là mặc định chỉ vì hoạt động đã được lập kế hoạch.\n\nCán bộ không tự đặt cho mình quyền quyết định đối với toàn bộ hỗ trợ của phái bộ. Tuy nhiên, phải thực hiện trách nhiệm cá nhân về phần việc được giao, báo ngay điều đáng lo ngại và không che giấu thông tin để hoạt động tiếp tục. Trong việc khẩn cấp, làm theo mandate, thẩm quyền và hướng dẫn liên quan; không dùng tính khẩn cấp làm ngoại lệ chung để bỏ chính sách.\n\n### 7.3. Bàn giao để nguy cơ không bị quên\nHồ sơ cần cho thấy bên nhận, loại hỗ trợ, đánh giá và điều kiện, biện pháp đã thực hiện, thông tin theo dõi, vấn đề còn mở và cấp quyết định. Khi luân chuyển, bàn giao rõ người tiếp tục theo dõi và hạn xử lý; không chỉ chuyển bản phê duyệt ban đầu.\n\n**Kết thúc bài:** Nhân quyền định hướng mọi hoạt động của UN. HRDDP bổ sung một quá trình có trách nhiệm khi hỗ trợ lực lượng ngoài UN: Xác định phạm vi, đánh giá nguy cơ, lựa chọn và kiểm tra biện pháp, theo dõi và xử lý thay đổi. Chất lượng thể hiện ở khả năng ngăn và giảm hại cho con người, không phải số biểu mẫu đã ký.",
+        "en": "### 7.1. Approval does not end due diligence\nRisk changes with commanders, areas, tasks and resource use. Monitor conduct linked to support, implementation of measures and new information. An earlier approval does not indefinitely cover all later activities.\n\nIdentify monitoring responsibilities, subjects, sources, records, review points and escalation channels. Human rights and other partners may assist, but providers retain monitoring responsibilities under policy and tasking. Requesting expert help does not eliminate those duties.\n\n### 7.2. When violations are indicated\nRecord facts and risks, protect information and report promptly. Engage recipients at the appropriate level to end violations and secure corrective action. If violations persist and policy conditions require it, support must be suspended or withdrawn through competent decisions. Prior planning does not make continued assistance the default.\n\nOfficers do not independently assume authority over all mission assistance. They must nevertheless discharge personal duties, promptly raise concerns and avoid concealing information to preserve activities. Urgent action follows the mandate, authority and relevant guidance; urgency is not a blanket policy exemption.\n\n### 7.3. Handover must preserve risk awareness\nRecords should establish recipients, support, assessment, conditions, implemented measures, monitoring findings, outstanding matters and decision authority. Rotations require clear follow-up responsibility and deadlines, not transfer of the initial approval alone.\n\n**Retain:** Human rights guide all UN work. HRDDP adds a responsible process for support to non-UN forces: Define scope, assess risk, select and verify mitigation, monitor and respond to change. Its quality lies in preventing and reducing harm, rather than counting signed forms."
+      },
+      "sourceIds": [
+        "U35",
+        "HRDDP-GUIDE"
+      ]
+    }
+  ],
+  "source_ids": [
+    "C12",
+    "U35",
+    "HRDDP-GUIDE"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "Human rights",
+      "definition": {
+        "vi": "Quyền vốn có của mọi người; không phải phần thưởng cho sự hợp tác.",
+        "en": "Rights inherent to everyone, not rewards for cooperation."
+      }
+    },
+    {
+      "term": "Violation / Abuse",
+      "definition": {
+        "vi": "Cách dùng phổ biến phân biệt hành vi liên quan trách nhiệm Nhà nước / chủ thể ngoài Nhà nước; phân loại cụ thể cần chuyên môn.",
+        "en": "Common usage distinguishes State-related violations / non-State abuses; precise classification may require expertise."
+      }
+    },
+    {
+      "term": "HRDDP",
+      "definition": {
+        "vi": "Chính sách UN về nguy cơ trong hỗ trợ lực lượng an ninh ngoài UN.",
+        "en": "Human Rights Due Diligence Policy on UN support to non-UN security forces."
+      }
+    },
+    {
+      "term": "Risk assessment",
+      "definition": {
+        "vi": "Phân tích nguy cơ dựa trên thông tin, loại hỗ trợ và điều kiện thực tế.",
+        "en": "Analysis of risk using information, support type and actual conditions."
+      }
+    },
+    {
+      "term": "Mitigation / Residual risk",
+      "definition": {
+        "vi": "Biện pháp giảm nguy cơ / nguy cơ còn lại sau biện pháp.",
+        "en": "Measures reducing risk / risk remaining after measures."
+      }
+    },
+    {
+      "term": "Monitoring / Intervention",
+      "definition": {
+        "vi": "Theo dõi và xử lý qua cơ chế phù hợp, không dừng ở phê duyệt ban đầu.",
+        "en": "Monitoring and authorized response beyond initial approval."
+      }
+    }
+  ],
+  "diagram": null,
+  "contentVersion": "batch-01-expanded-v1-2026-10-27",
+  "sourceIntro": {
+    "vi": "Nguồn dưới đây là tài liệu nền để đối chiếu bài học. Nội dung giải thích Việt–Anh và câu hỏi được biên soạn cho Handbook; hình gốc ghi rõ tài liệu và trang PDF.",
+    "en": "The following materials support the lesson. Bilingual explanations and questions are authored for the Handbook; original figures identify the source and PDF page."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Bản biên soạn đợt 1 ngày 27/10/2026. Tài liệu nền gồm CPTM 2025 và/hoặc UNPOL STM 2021 theo danh mục của từng bài. Hai ngôn ngữ phục vụ học tập, không phải bản dịch chính thức của UN.",
+      "Bài học dạy kiến thức chung, không xác định cơ cấu, mandate, quyền hạn hay thủ tục hành chính hiện hành của một phái bộ cụ thể. Khi làm nhiệm vụ, sử dụng văn bản và hướng dẫn có thẩm quyền áp dụng cho vị trí.",
+      "Bảng đối chiếu chỉ ra nguồn theo mục; không coi mọi câu là trích nguyên văn. Ví dụ công việc là phần giải thích biên soạn. Hình giữ nội dung tiếng Anh gốc, kèm chú giải đầy đủ Việt–Anh trong bài.",
+      "Nguồn được dùng theo nội dung giảng và mục tiêu bài; số trang hình là trang PDF, có thể khác số slide."
+    ],
+    "en": [
+      "Batch 1 authored on 27 October 2026 using CPTM 2025 and/or UNPOL STM 2021 as listed for each lesson. The bilingual text is learning material, not an official UN translation.",
+      "This lesson teaches general knowledge rather than establishing a particular mission’s current structure, mandate, powers or administrative procedures. Use authorized instruments applicable to your post.",
+      "The mapping identifies sources by section, not a verbatim source for every sentence. Work examples are authored explanations. Figures retain their original English text with bilingual explanations in the lesson.",
+      "Sources are used for their teaching content and objectives. Figure page numbers refer to PDF pages and may differ from slide numbers."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Nhân quyền định hướng cách cảnh sát hành động và cách UN hỗ trợ lực lượng khác. Bài học đi từ nhận diện, bảo vệ và báo cáo thông tin đến phạm vi HRDDP, đánh giá nguy cơ, giảm thiểu và theo dõi hỗ trợ.",
+      "en": "Human rights guide policing conduct and UN support to other forces. Progress from recognizing concerns, protection and reporting to HRDDP coverage, risk assessment, mitigation and monitoring."
+    },
+    "subtitle": {
+      "vi": "Tôn trọng quyền · Đánh giá nguy cơ · Theo dõi và bảo vệ con người",
+      "en": "Respect rights · Assess risks · Monitor and protect people"
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích nhân quyền trong công việc cảnh sát, không phân biệt đối xử và trách nhiệm chung.",
+        "Phân biệt sự kiện, cáo buộc, kết luận; ghi nhận đúng và bảo vệ thông tin.",
+        "Xác định phạm vi HRDDP, đối tượng nhận và hình thức hỗ trợ.",
+        "Trình bày các yếu tố đánh giá nguy cơ và điều kiện giảm thiểu có thể kiểm chứng.",
+        "Giải thích trách nhiệm theo dõi, báo cáo, can thiệp và rà soát qua cơ chế có thẩm quyền."
+      ],
+      "en": [
+        "Explain rights in policing, non-discrimination and shared responsibilities.",
+        "Distinguish facts, allegations and findings; record accurately and protect information.",
+        "Identify HRDDP coverage, recipients and forms of support.",
+        "Explain risk factors and verifiable mitigation conditions.",
+        "Explain monitoring, reporting, intervention and review through authorized arrangements."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc 7 mục trong tab Nội dung bài học; xem hình và lời giải thích ở mục liên quan. Làm 12 câu kiểm tra, đọc phản hồi và quay lại mục được chỉ ra. Nút VI/EN đổi ngôn ngữ và giữ đáp án trong phiên mở trang; tải lại trang sẽ bắt đầu lại. Mỗi hình có thể bấm để xem lớn.",
+      "en": "Read the lesson sections and study each figure with its explanation. Complete 12 questions, review feedback and revisit the indicated section. VI/EN retains answers during the current session; reloading starts again. Click a figure to enlarge it."
+    }
+  },
+  "figures": [
+    {
+      "chapter": 4,
+      "image": "assets/lesson-figures/batch-01/U35-p14.png",
+      "alt": {
+        "vi": "Hình 1. Các yếu tố đánh giá nguy cơ HRDDP",
+        "en": "Figure 1. Factors in HRDDP risk assessment"
+      },
+      "caption": {
+        "vi": "Hình 1. Các yếu tố đánh giá nguy cơ HRDDP",
+        "en": "Figure 1. Factors in HRDDP risk assessment"
+      },
+      "explanation": {
+        "vi": "Hãy liên hệ từng yếu tố với bên nhận và hỗ trợ cụ thể. Hồ sơ vi phạm, cách xử lý trách nhiệm, chính sách và khả năng theo dõi phải được phân tích cùng nhau. Danh sách không thay thế kết luận có căn cứ về nguy cơ và các điều kiện hỗ trợ.",
+        "en": "Connect each factor to the actual recipient and assistance. Conduct, accountability, policy and monitoring feasibility require combined analysis. A checklist does not replace a reasoned risk assessment and support conditions."
+      },
+      "sourceLabel": "UNPOL STM 2021 · Lesson 4",
+      "pdfPage": 14
+    },
+    {
+      "chapter": 6,
+      "image": "assets/lesson-figures/batch-01/U35-p25.png",
+      "alt": {
+        "vi": "Hình 2. Theo dõi và can thiệp sau khi hỗ trợ",
+        "en": "Figure 2. Monitoring and intervention after support"
+      },
+      "caption": {
+        "vi": "Hình 2. Theo dõi và can thiệp sau khi hỗ trợ",
+        "en": "Figure 2. Monitoring and intervention after support"
+      },
+      "explanation": {
+        "vi": "Cột theo dõi nhấn mạnh trách nhiệm của bên cung cấp và phối hợp nhân quyền. Cột can thiệp cho thấy đối thoại, giảm thiểu và khả năng đình chỉ hoặc rút hỗ trợ theo chính sách. Vì vậy, hồ sơ không thể kết thúc ở bản chấp thuận ban đầu.",
+        "en": "Monitoring emphasizes provider responsibility and human rights cooperation. Intervention includes dialogue, mitigation and potential suspension or withdrawal under policy. Records therefore cannot end with initial approval."
+      },
+      "sourceLabel": "UNPOL STM 2021 · Lesson 4",
+      "pdfPage": 25
+    }
+  ],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft",
+  "figureZoom": true
+}

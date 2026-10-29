@@ -1,0 +1,667 @@
+{
+  "cptm": {
+    "vi": "CPTM – Tài liệu huấn luyện tiền triển khai",
+    "en": "Core Pre-deployment Training Materials (CPTM)",
+    "url": "https://peacekeepingresourcehub.un.org/en/training/pre-deployment/cptm/intro"
+  },
+  "unpol": {
+    "vi": "UNPOL STM – Huấn luyện chuyên ngành Cảnh sát UN",
+    "en": "UNPOL Specialized Training Materials",
+    "url": "https://peacekeepingresourcehub.un.org/en/training/stm/unpol"
+  },
+  "fpu": {
+    "vi": "FPU STM – Huấn luyện đơn vị cảnh sát",
+    "en": "FPU Specialized Training Materials",
+    "url": "https://peacekeepingresourcehub.un.org/en/training/stm/fpu"
+  },
+  "ipo": {
+    "vi": "Huấn luyện trước triển khai của IPO",
+    "en": "IPO Pre-deployment Training",
+    "url": "https://peacekeepingresourcehub.un.org/en/training/stm/unpol"
+  },
+  "sgf": {
+    "vi": "Khung hướng dẫn chiến lược của UNPOL",
+    "en": "UN Police Strategic Guidance Framework",
+    "url": "https://police.un.org/en/strategic-guidance-framework"
+  },
+  "cpoc": {
+    "vi": "Bảo vệ dân thường toàn diện cho Cảnh sát UN",
+    "en": "Comprehensive Protection of Civilians for UN Police",
+    "url": "https://peacekeepingresourcehub.un.org/en/training/rtp/cpoc-police"
+  },
+  "cp": {
+    "vi": "Bảo vệ trẻ em dành cho Cảnh sát UN",
+    "en": "Child Protection for UN Police",
+    "url": "https://peacekeepingresourcehub.un.org/en/training/rtp/cp-police"
+  },
+  "crsv": {
+    "vi": "Huấn luyện về bạo lực tình dục liên quan đến xung đột",
+    "en": "Conflict-Related Sexual Violence",
+    "url": "https://peacekeepingresourcehub.un.org/en/training/stm/fpu"
+  },
+  "csc": {
+    "vi": "Khóa chỉ huy và tham mưu FPU",
+    "en": "FPU Command and Staff Course",
+    "url": "https://peacekeepingresourcehub.un.org/en/training/stm/FPU-CSC"
+  },
+  "COE": {
+    "vi": "Contingent Owned Equipment",
+    "en": "Contingent Owned Equipment",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-055%20Contingent%20Owned%20Equipment.pdf"
+  },
+  "TRAIN": {
+    "vi": "FPU Training & Maintenance",
+    "en": "FPU Training & Maintenance",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-054%20FPU%20Training%20%26%20maintenance.pdf"
+  },
+  "STRESS": {
+    "vi": "Stress Awareness",
+    "en": "Stress Awareness",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-059%20Stress%20Awareness.pdf"
+  },
+  "FIRST": {
+    "vi": "Operational First Aid",
+    "en": "Operational First Aid",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-033%20Operational%20First%20Aid.pdf"
+  },
+  "PLAN": {
+    "vi": "Decision Making Process",
+    "en": "Decision Making Process",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-056%20Decision%20making%20process.pdf"
+  },
+  "GUN1": {
+    "vi": "Firearms Basic Level",
+    "en": "Firearms Basic Level",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-022%20Firearms%20Basic.pdf"
+  },
+  "GUN2": {
+    "vi": "Firearms Intermediate Level",
+    "en": "Firearms Intermediate Level",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-023%20Firearms%20Intermediate.pdf"
+  },
+  "GUN3": {
+    "vi": "Firearms Advanced Level",
+    "en": "Firearms Advanced Level",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-024%20Firearms%20Advanced.pdf"
+  },
+  "SEARCH": {
+    "vi": "Approaching & Searching Suspects",
+    "en": "Approaching & Searching Suspects",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-027%20Approaching%20%26%20Searching%20Suspects.pdf"
+  },
+  "CUFF": {
+    "vi": "Handcuffing Suspects",
+    "en": "Handcuffing Suspects",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-028%20Handcuffing%20Suspects.pdf"
+  },
+  "BATON": {
+    "vi": "Use of Baton and Unarmed Defence Techniques",
+    "en": "Use of Baton and Unarmed Defence Techniques",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-029%20Baton%20and%20UDT.pdf"
+  },
+  "ARREST": {
+    "vi": "Arrest Methods",
+    "en": "Arrest Methods",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-035%20Arrest%20methods.pdf"
+  },
+  "MOVE": {
+    "vi": "Tactical Progression",
+    "en": "Tactical Progression",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-032%20Tactical%20Progression.pdf"
+  },
+  "CHECK": {
+    "vi": "Checkpoints",
+    "en": "Checkpoints",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-025%20Checkpoints.pdf"
+  },
+  "CONVOY": {
+    "vi": "Convoy Escort",
+    "en": "Convoy Escort",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-026%20Convoy%20escort.pdf"
+  },
+  "PATROL": {
+    "vi": "Patrols",
+    "en": "Patrols",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-030%20Patrols.pdf"
+  },
+  "VEHICLE": {
+    "vi": "Vehicle Control",
+    "en": "Vehicle Control",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-031%20Vehicles%20control.pdf"
+  },
+  "AIR": {
+    "vi": "Air Support Awareness",
+    "en": "Air Support Awareness",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-034%20Air%20Support%20Awareness.pdf"
+  },
+  "ATTACK": {
+    "vi": "Attack with Firearms and Explosives",
+    "en": "Attack with Firearms and Explosives",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-036%20Attack%20with%20Firearms%20and%20Explosives.pdf"
+  },
+  "BARRIER": {
+    "vi": "Barricades",
+    "en": "Barricades",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-037%20Barricades.pdf"
+  },
+  "BREAK": {
+    "vi": "Breaking Contact",
+    "en": "Breaking Contact",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-038%20Breaking%20contact.pdf"
+  },
+  "CROWD": {
+    "vi": "Crowd Dynamics in Public Order Operations",
+    "en": "Crowd Dynamics in Public Order Operations",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-039%20Crowd%20Dynamics%20in%20Public%20Order%20Operations.pdf"
+  },
+  "EVICT": {
+    "vi": "Eviction from Occupied Premises",
+    "en": "Eviction from Occupied Premises",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-040%20Eviction%20from%20occupied%20premises.pdf"
+  },
+  "EQUIP": {
+    "vi": "Equipment Familiarisation",
+    "en": "Equipment Familiarisation",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-041%20Equipment%20familiarisation.pdf"
+  },
+  "FOOT": {
+    "vi": "Foot Tactics",
+    "en": "Foot Tactics",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-042%20FPU%20Foot%20Tactics.pdf"
+  },
+  "PRISON": {
+    "vi": "Interventions in Prison",
+    "en": "Interventions in Prison",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-043%20Intervention%20in%20prisons.pdf"
+  },
+  "LESS": {
+    "vi": "Less Than Lethal Weapons",
+    "en": "Less Than Lethal Weapons",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-044%20Less%20Than%20Lethal%20Weapons.pdf"
+  },
+  "ORDER": {
+    "vi": "Operational Crowd Control Orders",
+    "en": "Operational Crowd Control Orders",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-045%20Crowd%20Control%20Orders.pdf"
+  },
+  "SIT": {
+    "vi": "Sit-in",
+    "en": "Sit-in",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-047%20Sit%20in.pdf"
+  },
+  "VIP": {
+    "vi": "Basic Tactics on VIP Protection",
+    "en": "Basic Tactics on VIP Protection",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-048%20Basic%20tactics%20on%20VIP%20protection.pdf"
+  },
+  "VEHTAC": {
+    "vi": "Vehicle Tactics",
+    "en": "Vehicle Tactics",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-050%20Vehicles%20tactics.pdf"
+  },
+  "FACILITY": {
+    "vi": "Security of UN Facilities",
+    "en": "Security of UN Facilities",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-058%20Security%20of%20UN%20Facilities.pdf"
+  },
+  "FIRE": {
+    "vi": "Extinguishing Fire",
+    "en": "Extinguishing Fire",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-051%20Extinguishing%20Fire.pdf"
+  },
+  "WHO": {
+    "vi": "Psychological first aid: Guide for field workers",
+    "en": "Psychological first aid: Guide for field workers",
+    "url": "https://www.who.int/publications/i/item/9789241548205"
+  },
+  "AHA": {
+    "vi": "Part 7: Adult Basic Life Support",
+    "en": "Part 7: Adult Basic Life Support",
+    "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support"
+  },
+  "BLEED": {
+    "vi": "2024 AHA and American Red Cross Guidelines for First Aid — Top Things to Know",
+    "en": "2024 AHA and American Red Cross Guidelines for First Aid — Top Things to Know",
+    "url": "https://professional.heart.org/en/science-news/2024-aha-and-american-red-cross-guidelines-for-first-aid/top-things-to-know"
+  },
+  "OSHA": {
+    "vi": "Fight or Flee? — Evacuation Plans and Procedures",
+    "en": "Fight or Flee? — Evacuation Plans and Procedures",
+    "url": "https://www.osha.gov/etools%2Fevacuation-plans-procedures%2Feap%2Ffight-or-flee"
+  },
+  "ASSEMBLY": {
+    "vi": "General comment No. 37 (2020) on the right of peaceful assembly (article 21)",
+    "en": "General comment No. 37 (2020) on the right of peaceful assembly (article 21)",
+    "url": "https://docstore.ohchr.org/SelfServices/FilesHandler.ashx?enc=WEtyW87uznJql0nPB0R%2BjvIANofAyBdf7Aw9oQ77nX58%2Fy%2BuM8cxMUWb93tupOebEKl%2FMANbswS4GcF1CgqyOg%3D%3D"
+  },
+  "LLW": {
+    "vi": "United Nations Human Rights Guidance on Less-Lethal Weapons in Law Enforcement",
+    "en": "United Nations Human Rights Guidance on Less-Lethal Weapons in Law Enforcement",
+    "url": "https://www.ohchr.org/Documents/HRBodies/CCPR/LLW_Guidance.pdf"
+  },
+  "POLICY": {
+    "vi": "Policy 2024.14: Formed Police Units in United Nations Peace Operations",
+    "en": "Policy 2024.14: Formed Police Units in United Nations Peace Operations",
+    "url": "https://resourcehub01.blob.core.windows.net/$web/Policy%20and%20Guidance/corepeacekeepingguidance/Thematic%20Operational%20Activities/Police%20and%20Law%20Enforcement/2024.14%20Formed%20Police%20Units%20in%20United%20Nations%20Peace%20Operations.pdf"
+  },
+  "C1": {
+    "vi": "1.1 UN Peacekeeping – Strategic Level",
+    "en": "1.1 UN Peacekeeping – Strategic Level",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-404%20Lesson%201.1%20UN%20Peacekeeping%20-%20Strategic%20Level.zip"
+  },
+  "C2": {
+    "vi": "1.2 Peace and Security Activities",
+    "en": "1.2 Peace and Security Activities",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-405%20Lesson%201.2%20Peace%20and%20Security%20Activities.zip"
+  },
+  "C3": {
+    "vi": "1.3 Principles of UN Peacekeeping",
+    "en": "1.3 Principles of UN Peacekeeping",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-406%20Lesson%201.3%20Principles%20of%20UN%20Peacekeeping.zip"
+  },
+  "C4": {
+    "vi": "1.4 Legal Framework of UN Peacekeeping",
+    "en": "1.4 Legal Framework of UN Peacekeeping",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-407%20Lesson%201.4%20Legal%20Framework%20for%20UN%20Peacekeeping.zip"
+  },
+  "C5": {
+    "vi": "1.5 Implementing Security Council Mandates",
+    "en": "1.5 Implementing Security Council Mandates",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-408%20Lesson%201.5%20Implementing%20Security%20Council%20Mandates.zip"
+  },
+  "C6": {
+    "vi": "1.6 How Peacekeeping Operations Work",
+    "en": "1.6 How Peacekeeping Operations Work",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-409%20Lesson%201.6%20How%20Peacekeeping%20Operations%20Work.zip"
+  },
+  "C7": {
+    "vi": "1.7 Working as One in the Mission",
+    "en": "1.7 Working as One in the Mission",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-410%20Lesson%201.7%20Working%20as%20One%20in%20the%20Mission.zip"
+  },
+  "C8": {
+    "vi": "1.8 Mission Partners",
+    "en": "1.8 Mission Partners",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-411%20Lesson%201.8%20Mission%20Partners.zip"
+  },
+  "C9": {
+    "vi": "2.1 Overview of Mandated Tasks",
+    "en": "2.1 Overview of Mandated Tasks",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-413%20Lesson%202.1%20Overview%20of%20Mandated%20Tasks.zip"
+  },
+  "C10": {
+    "vi": "2.2 Implementing Peacebuilding Activities, Part 1",
+    "en": "2.2 Implementing Peacebuilding Activities, Part 1",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-414%20Lesson%202.2%20Part%201%20Implementing%20Peacebuilding%20Activities.zip"
+  },
+  "C11": {
+    "vi": "2.2 Implementing Peacebuilding Activities, Part 2",
+    "en": "2.2 Implementing Peacebuilding Activities, Part 2",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-415%20Lesson%202.2%20Part%202%20Implementing%20Peacebuilding%20Activities.zip"
+  },
+  "C12": {
+    "vi": "2.3 Human Rights",
+    "en": "2.3 Human Rights",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-416%20Lesson%202.3%20Human%20Rights.zip"
+  },
+  "C13": {
+    "vi": "2.4 Protection of Civilians",
+    "en": "2.4 Protection of Civilians",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-417%20Lesson%202.4%20Protection%20of%20Civilians.zip"
+  },
+  "C14": {
+    "vi": "2.5 Protection from Conflict-Related Sexual Violence",
+    "en": "2.5 Protection from Conflict-Related Sexual Violence",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-418%20Lesson%202.5%20Protection%20from%20CRSV.zip"
+  },
+  "C15": {
+    "vi": "2.6 Child Protection",
+    "en": "2.6 Child Protection",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-419%20Lesson%202.6%20Child%20Protection.zip"
+  },
+  "C16": {
+    "vi": "2.7 Women, Peace and Security",
+    "en": "2.7 Women, Peace and Security",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-420%20Lesson%202.7%20Women,%20Peace,%20and%20Security.zip"
+  },
+  "C17": {
+    "vi": "2.8 Climate, Peace and Security",
+    "en": "2.8 Climate, Peace and Security",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-421%20Lesson%202.8%20Climate,%20Peace,%20and%20Security.zip"
+  },
+  "C18": {
+    "vi": "2.9 Strategic Communication and Information Integrity",
+    "en": "2.9 Strategic Communication and Information Integrity",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-422%20Lesson%202.9%20Strategic%20Communication%20and%20Information%20Integrity.zip"
+  },
+  "C19": {
+    "vi": "2.10 Integrated Case Study on Protection of Civilians: A Whole-of-Mission Approach",
+    "en": "2.10 Integrated Case Study on Protection of Civilians: A Whole-of-Mission Approach",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-423%20Lesson%202.10%20Integrated%20Case%20Study%20on%20POC.zip"
+  },
+  "C20": {
+    "vi": "3.1 UN Values and Behaviours, Part 1",
+    "en": "3.1 UN Values and Behaviours, Part 1",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-425%20Lesson%203.1%20Part%201%20UN%20Values%20and%20Behaviors.zip"
+  },
+  "C21": {
+    "vi": "3.1 UN Values and Behaviours, Part 2",
+    "en": "3.1 UN Values and Behaviours, Part 2",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-426%20Lesson%203.1%20Part%202%20UN%20Values%20and%20Behaviors.zip"
+  },
+  "C22": {
+    "vi": "3.2 Conduct and Discipline",
+    "en": "3.2 Conduct and Discipline",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-427%20Lesson%203.2%20Conduct%20and%20Discipline.zip"
+  },
+  "C23": {
+    "vi": "3.3 Sexual Exploitation and Abuse",
+    "en": "3.3 Sexual Exploitation and Abuse",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-428%20Lesson%203.3%20Sexual%20Exploitation%20and%20Abuse.zip"
+  },
+  "C24": {
+    "vi": "3.4 Environment and Natural Resources",
+    "en": "3.4 Environment and Natural Resources",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-429%20Lesson%203.4%20Environment%20and%20Natural%20Resources.zip"
+  },
+  "C25": {
+    "vi": "3.5 Safety and Security of UN Personnel",
+    "en": "3.5 Safety and Security of UN Personnel",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-430%20Lesson%203.5%20Safety%20and%20Security%20of%20UN%20Personnel.zip"
+  },
+  "C26": {
+    "vi": "3.6 Individual Security Awareness",
+    "en": "3.6 Individual Security Awareness",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-431%20Lesson%203.6%20Individual%20Security%20Awareness.zip"
+  },
+  "C27": {
+    "vi": "3.7 Road Safety",
+    "en": "3.7 Road Safety",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-432%20Lesson%203.7%20Road%20Safety.zip"
+  },
+  "C28": {
+    "vi": "3.8 Health",
+    "en": "3.8 Health",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-433%20Lesson%203.8%20Health.zip"
+  },
+  "C29": {
+    "vi": "3.9 Understanding Stress",
+    "en": "3.9 Understanding Stress",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-434%20Lesson%203.9%20Understanding%20Stress.zip"
+  },
+  "C30": {
+    "vi": "3.10 HIV/AIDS",
+    "en": "3.10 HIV/AIDS",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-435%20Lesson%203.10%20HIV%20and%20AIDS.zip"
+  },
+  "C31": {
+    "vi": "3.11 Emergency First Aid",
+    "en": "3.11 Emergency First Aid",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-436%20Lesson%203.11%20Emergency%20First%20Aid.zip"
+  },
+  "U32": {
+    "vi": "Lesson 1 Overview of UN Police",
+    "en": "Lesson 1 Overview of UN Police",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-002%20UNPOL%20STM%20Lesson%201%20Overview%20of%20UN%20Police.pdf"
+  },
+  "U33": {
+    "vi": "Lesson 2 Police Command in a UN Context",
+    "en": "Lesson 2 Police Command in a UN Context",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-004%20UNPOL%20STM%20Lesson%202%20Police%20Command%20in%20a%20UN%20Context.pdf"
+  },
+  "U34": {
+    "vi": "Lesson 3 Introduction to UNPOL Administration",
+    "en": "Lesson 3 Introduction to UNPOL Administration",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-006%20UNPOL%20STM%20Lesson%203%20Introduction%20to%20UNPOL%20Administration.pdf"
+  },
+  "U35": {
+    "vi": "Lesson 4 Human Rights Due Diligence Policy",
+    "en": "Lesson 4 Human Rights Due Diligence Policy",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-008%20UNPOL%20STM%20Lesson%204%20Human%20Rights%20Due%20Diligence%20Policy.pdf"
+  },
+  "U36": {
+    "vi": "Lesson 5 Community-Oriented Policing",
+    "en": "Lesson 5 Community-Oriented Policing",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-010%20UNPOL%20STM%20Lesson%205%20Community-Oriented%20Policing.pdf"
+  },
+  "U37": {
+    "vi": "Lesson 6 Intelligence-led Policing",
+    "en": "Lesson 6 Intelligence-led Policing",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-012%20UNPOL%20STM%20Lesson%206%20Intelligence-led%20Policing.pdf"
+  },
+  "U38": {
+    "vi": "Lesson 7 Capacity-building and Development",
+    "en": "Lesson 7 Capacity-building and Development",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-014%20UNPOL%20STM%20Lesson%207%20Capacity-building%20and%20Development.pdf"
+  },
+  "U39": {
+    "vi": "Lesson 8 UNPOL Monitoring, Mentoring and Advising",
+    "en": "Lesson 8 UNPOL Monitoring, Mentoring and Advising",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-016%20UNPOL%20STM%20Lesson%208%20UNPOL%20Monitoring,%20Mentoring%20and%20Advising.pdf"
+  },
+  "U40": {
+    "vi": "Lesson 9 Protection of Civilians by UN Police",
+    "en": "Lesson 9 Protection of Civilians by UN Police",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-018%20UNPOL%20STM%20Lesson%209%20Protection%20of%20Civilians%20by%20UN%20Police.pdf"
+  },
+  "U41": {
+    "vi": "Lesson 10 Use of Force and Firearms by UN Police",
+    "en": "Lesson 10 Use of Force and Firearms by UN Police",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-020%20UNPOL%20STM%20Lesson%2010%20Use%20of%20Force%20and%20Firearms%20by%20UN%20Police.pdf"
+  },
+  "U42": {
+    "vi": "Lesson 11 Apprehension, Arrest and Detention in UN Peace Operations",
+    "en": "Lesson 11 Apprehension, Arrest and Detention in UN Peace Operations",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-022%20UNPOL%20STM%20Lesson%2011%20Apprehension,%20Arrest%20and%20Detention%20in%20UN%20Peace%20Operations.pdf"
+  },
+  "INTRO": {
+    "vi": "Introduction to FPUs",
+    "en": "Introduction to FPUs",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-052%20Introduction%20to%20FPUs.pdf"
+  },
+  "COORD": {
+    "vi": "FPU Coordination Unit",
+    "en": "FPU Coordination Unit",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-053%20FPU%E2%80%99s%20Coordination%20unit.pdf"
+  },
+  "ORG": {
+    "vi": "Organization of an FPU",
+    "en": "Organization of an FPU",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-046%20Organization%20of%20an%20FPU.pdf"
+  },
+  "AMS2024": {
+    "vi": "SOP on Assessment for Mission Service of Individual Police Officers (2024)",
+    "en": "SOP on Assessment for Mission Service of Individual Police Officers (2024)",
+    "url": "https://unmiss.unmissions.org/sites/default/files/2026-02/SOP%20on%20Assessment%20for%20Mission%20Service%20of%20Individual%20Police%20Officers%20%282024%29.pdf"
+  },
+  "VIP-2015": {
+    "vi": "Basic Tactics on VIP Protection — UN Peacekeeping PDT Standards for FPUs, 1st edition 2015",
+    "en": "Basic Tactics on VIP Protection — UN Peacekeeping PDT Standards for FPUs, 1st edition 2015",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-048%20Basic%20tactics%20on%20VIP%20protection.pdf"
+  },
+  "AMS-GUIDE": {
+    "vi": "UN Police — Information for individual police officers",
+    "en": "UN Police — Information for individual police officers",
+    "url": "https://police.un.org/en/information-for-individual-police-officers"
+  },
+  "EASP": {
+    "vi": "Electronic Application for Seconded Police",
+    "en": "Electronic Application for Seconded Police",
+    "url": "https://police.un.org/sites/default/files/easp_english_0.pdf"
+  },
+  "CHARTER": {
+    "vi": "Charter of the United Nations — Full text",
+    "en": "Charter of the United Nations — Full text",
+    "url": "https://www.un.org/en/about-us/un-charter/full-text"
+  },
+  "PRINCIPLES": {
+    "vi": "Principles of UN Peacekeeping",
+    "en": "Principles of UN Peacekeeping",
+    "url": "https://peacekeeping.un.org/en/principles-of-peacekeeping"
+  },
+  "SGF": {
+    "vi": "Strategic Guidance Framework for International Policing",
+    "en": "Strategic Guidance Framework for International Policing",
+    "url": "https://police.un.org/en/strategic-guidance-framework-for-international-policing"
+  },
+  "HRDDP-GUIDE": {
+    "vi": "Guidance note and attached HRDDP policy",
+    "en": "Guidance note and attached HRDDP policy",
+    "url": "https://unsdg.un.org/resources/guidance-note-human-rights-due-diligence-policy-un-support-non-united-nations-security"
+  },
+  "DET2020": {
+    "vi": "SOP 2020.13: Handling of Detention, including Annex B on children",
+    "en": "SOP 2020.13: Handling of Detention, including Annex B on children",
+    "url": "https://resourcehub01.blob.core.windows.net/$web/Policy%20and%20Guidance/corepeacekeepingguidance/Security/Safety%20and%20Security%20Management/2020.13%20Handling%20of%20Detention%20in%20United%20Nations%20Peacekeeping%20Operations%20and%20Special%20Political%20Missions%20(SOP).pdf"
+  },
+  "BPUFF": {
+    "vi": "Basic Principles on the Use of Force and Firearms by Law Enforcement Officials",
+    "en": "Basic Principles on the Use of Force and Firearms by Law Enforcement Officials",
+    "url": "https://www.ohchr.org/sites/default/files/Documents/ProfessionalInterest/firearms.pdf"
+  },
+  "POC2023": {
+    "vi": "Policy on Protection of Civilians, Ref. 2023.05 — conceptual comparison",
+    "en": "Policy on Protection of Civilians, Ref. 2023.05 — conceptual comparison",
+    "url": "https://peacekeeping.un.org/sites/default/files/2023_protection_of_civilians_policy.pdf"
+  },
+  "CP2025": {
+    "vi": "Handbook on Child Protection for United Nations Uniformed Personnel, Ref. 2025.13",
+    "en": "Handbook on Child Protection for United Nations Uniformed Personnel, Ref. 2025.13",
+    "url": "https://resourcehub01.blob.core.windows.net/%24web/Policy%20and%20Guidance/corepeacekeepingguidance/Thematic%20Operational%20Activities/Child%20Protection/2025.13%20Handbook%20on%20Child%20Protection%20for%20United%20Nations%20Uniformed%20Personnel.pdf"
+  },
+  "CRC": {
+    "vi": "Convention on the Rights of the Child — Articles 2, 3, 6, 12, 37 and 40",
+    "en": "Convention on the Rights of the Child — Articles 2, 3, 6, 12, 37 and 40",
+    "url": "https://www.unicef.org/child-rights-convention/convention-text"
+  },
+  "CSC003": {
+    "vi": "FPU Command Staff Course 2026 · Lesson 3: Overview of UN Police",
+    "en": "FPU Command Staff Course 2026 · Lesson 3: Overview of UN Police",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-003%20Lesson%203%20Overview%20of%20UN%20Police%20(LP).pdf"
+  },
+  "CSC007": {
+    "vi": "FPU Command Staff Course 2026 · Lesson 7: Command and Leadership",
+    "en": "FPU Command Staff Course 2026 · Lesson 7: Command and Leadership",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-007%20Lesson%207%20Command%20and%20Leadership%20(LP).pdf"
+  },
+  "CSC009": {
+    "vi": "FPU Command Staff Course 2026 · Lesson 9: Police Operations Orders",
+    "en": "FPU Command Staff Course 2026 · Lesson 9: Police Operations Orders",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-009%20Lesson%209%20Police%20Ops%20Orders%20(LP).pdf"
+  },
+  "CSC020": {
+    "vi": "FPU Command Staff Course 2026 · Lesson 20: COE and Inspection Regime",
+    "en": "FPU Command Staff Course 2026 · Lesson 20: COE and Inspection Regime",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-020%20Lesson%2020%20COE%20and%20Inspection%20Regime%20(LP).pdf"
+  },
+  "COE2026": {
+    "vi": "Uniformed Capability Requirements Paper — September 2026",
+    "en": "Uniformed Capability Requirements Paper — September 2026",
+    "url": "https://pcrs.un.org/ru/media/276"
+  },
+  "RES80271": {
+    "vi": "General Assembly resolution A/RES/80/271 — COE reimbursement review",
+    "en": "General Assembly resolution A/RES/80/271 — COE reimbursement review",
+    "url": "https://docs.un.org/A/RES/80/271"
+  },
+  "CSC004": {
+    "vi": "FPU Command Staff Course 2026 · Lesson 4: Preparing for Deployment: AOC/FPAT",
+    "en": "FPU Command Staff Course 2026 · Lesson 4: Preparing for Deployment: AOC/FPAT",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-004%20Lesson%204%20Preparing%20for%20Deployment%20AOC%20FPAT%20(LP).pdf"
+  },
+  "CSC019": {
+    "vi": "FPU Command Staff Course 2026 · Lesson 19: SOP on PAER",
+    "en": "FPU Command Staff Course 2026 · Lesson 19: SOP on PAER",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-019%20Lesson%2019%20SOP%20on%20PAER%20(LP).pdf"
+  },
+  "CSC018": {
+    "vi": "FPU Command Staff Course 2026 · Lesson 18: Stress Management and Welfare",
+    "en": "FPU Command Staff Course 2026 · Lesson 18: Stress Management and Welfare",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-018%20Lesson%2018%20Stress%20Management%20and%20Welfare%20(LP).pdf"
+  },
+  "WHOBURN": {
+    "vi": "Burn-out: An occupational phenomenon (ICD-11)",
+    "en": "Burn-out: An occupational phenomenon (ICD-11)",
+    "url": "https://www.who.int/standards/classifications/frequently-asked-questions/burn-out-an-occupational-phenomenon"
+  },
+  "WHODEB": {
+    "vi": "Psychological debriefing in people exposed to a recent traumatic event",
+    "en": "Psychological debriefing in people exposed to a recent traumatic event",
+    "url": "https://www.who.int/teams/mental-health-and-substance-use/treatment-care/mental-health-gap-action-programme/evidence-centre/other-significant-emotional-and-medical-unexplained-somatic-complaints/psychological-debriefing-in-people-exposed-to-a-recent-traumatic-event"
+  },
+  "FA2024": {
+    "vi": "2024 AHA and American Red Cross Guidelines for First Aid",
+    "en": "2024 AHA and American Red Cross Guidelines for First Aid",
+    "url": "https://cpr.heart.org/en/resuscitation-science/2024-first-aid-guidelines"
+  },
+  "TOUR": {
+    "vi": "How to Apply a Tourniquet — removal and loosening safeguards",
+    "en": "How to Apply a Tourniquet — removal and loosening safeguards",
+    "url": "https://www.redcross.org/take-a-class/resources/articles/how-to-apply-a-tourniquet"
+  },
+  "EAP": {
+    "vi": "Emergency action plans — safety reference, US workplace standard",
+    "en": "Emergency action plans — safety reference, US workplace standard",
+    "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.38"
+  },
+  "OSHAUSE": {
+    "vi": "Portable Fire Extinguishers — Use",
+    "en": "Portable Fire Extinguishers — Use",
+    "url": "https://www.osha.gov/etools/evacuation-plans-procedures/emergency-standards/portable-extinguishers/use"
+  },
+  "USFA": {
+    "vi": "Stop, Drop and Roll Fire Safety Pictographs",
+    "en": "Stop, Drop and Roll Fire Safety Pictographs",
+    "url": "https://www.usfa.fema.gov/gallery/pictographs/stop-drop-roll.html"
+  },
+  "CSC008": {
+    "vi": "FPU Command Staff Course 2026 · Lesson 8: Decision-Making",
+    "en": "FPU Command Staff Course 2026 · Lesson 8: Decision-Making",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-008%20Lesson%208%20Decision-Making%20(LP).pdf"
+  },
+  "CSC014": {
+    "vi": "FPU Command Staff Course 2026 · Lesson 14: Use of Force and Firearms",
+    "en": "FPU Command Staff Course 2026 · Lesson 14: Use of Force and Firearms",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-014%20Lesson%2014%20Use%20of%20Force%20and%20Firearms%20(LP).pdf"
+  },
+  "CSC015": {
+    "vi": "FPU Command Staff Course 2026 · Lesson 15: Apprehension and Detention",
+    "en": "FPU Command Staff Course 2026 · Lesson 15: Apprehension and Detention",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-015%20Lesson%2015%20Apprehension%20and%20Detention%20(LP).pdf"
+  },
+  "COP": {
+    "vi": "Control, restraint and searches — health monitoring",
+    "en": "Control, restraint and searches — health monitoring",
+    "url": "https://www.college.police.uk/app/detention-and-custody/control-restraint-and-searches"
+  },
+  "CSC010": {
+    "vi": "FPU Command Staff Course 2026 · Lesson 10: FPU Tactical Planning",
+    "en": "FPU Command Staff Course 2026 · Lesson 10: FPU Tactical Planning",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-010%20Lesson%2010%20FPU%20Tactical%20Planning%20(LP).pdf"
+  },
+  "CSC012": {
+    "vi": "FPU Command Staff Course 2026 · Lesson 12: Joint and Combined Operations",
+    "en": "FPU Command Staff Course 2026 · Lesson 12: Joint and Combined Operations",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-012%20Lesson%2012%20%20Joint%20and%20Combined%20Operations%20(LP).pdf"
+  },
+  "CSC021": {
+    "vi": "Mission Reporting",
+    "en": "Mission Reporting",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-021%20Lesson%2021%20Mission%20Reporting%20(LP).pdf"
+  },
+  "CSC011": {
+    "vi": "Mission Integrated Security Plan — FPU Perspective",
+    "en": "Mission Integrated Security Plan — FPU Perspective",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-011%20Lesson%2011%20Mission%20Integrated%20Security%20Plan%20-%20FPU%20Perspective%20(LP).pdf"
+  },
+  "UNMAS": {
+    "vi": "Landmines, Explosive Remnants of War and IED Safety Handbook",
+    "en": "Landmines, Explosive Remnants of War and IED Safety Handbook",
+    "url": "https://www.unmas.org/sites/default/files/handbook_english.pdf"
+  },
+  "CSC006": {
+    "vi": "Familiarization with the Mission Environment",
+    "en": "Familiarization with the Mission Environment",
+    "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-006%20Lesson%206%20Familiarization%20with%20Mission%20Area%20(LP).pdf"
+  }
+}

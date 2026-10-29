@@ -1,0 +1,733 @@
+{
+  "schemaVersion": 2,
+  "id": "FPU-11",
+  "area": "fpu",
+  "groupKey": "FPU-M5",
+  "group": {
+    "vi": "Quản lý trật tự công cộng",
+    "en": "Public order management"
+  },
+  "title": {
+    "vi": "Ứng phó sự cố nguy hiểm và bảo vệ lực lượng",
+    "en": "Dangerous incidents and force protection"
+  },
+  "summary": {
+    "vi": "Bài học hướng dẫn nhận diện sự cố, báo khẩn, bảo vệ người, huy động hỗ trợ và duy trì trách nhiệm tới khi khôi phục. Trọng tâm là phán đoán có căn cứ trong điều kiện thông tin chưa đầy đủ.",
+    "en": "Recognize incidents, report urgently, protect people, activate support and sustain accountability through recovery, using reasoned judgment under uncertainty."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "ATTACK",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-036%20Attack%20with%20Firearms%20and%20Explosives.pdf",
+  "order": 302,
+  "sections": [
+    {
+      "id": "FPU-11-01",
+      "title": {
+        "vi": "1. Nhận diện sự cố và mục tiêu bảo vệ",
+        "en": "1. Recognizing incidents and protective objectives"
+      },
+      "body": {
+        "vi": "### 1.1. Sự cố nguy hiểm không chỉ có một dạng\nFPU có thể gặp bạo lực, tiếng nổ, vật nghi nguy hiểm, cháy, tai nạn hoặc tình trạng đám đông thay đổi nhanh. Các sự kiện có thể xuất hiện cùng nhau và làm thông tin ban đầu không rõ. Người chỉ huy cần nhận biết điều đang đe dọa sinh mạng, giữ khả năng điều hành và huy động hỗ trợ, thay vì vội đặt tên nguyên nhân.\n\nTiếng động lớn chưa tự chứng minh có tấn công; người chạy chưa tự là người gây hại. Cần tách quan sát trực tiếp, điều được báo và giả định. Tuy nhiên, thiếu thông tin đầy đủ không phải lý do đứng chờ khi đã có nguy cơ rõ cần bảo vệ. Phản ứng phải đủ kịp thời trong thẩm quyền và tiếp tục được rà lại.\n\n### 1.2. Bảo vệ lực lượng gắn với bảo vệ con người\nBảo vệ lực lượng nhằm duy trì sinh mạng, sức khỏe và năng lực thực hiện mandate. Mục tiêu này phải đi cùng bảo vệ dân thường, đối tác và người đang do UN kiểm soát. Không được xem một cộng đồng là nguồn đe dọa chung vì một số cá nhân có hành vi bạo lực; không dùng sự hoảng loạn làm căn cứ trừng phạt tập thể.\n\nKhi đánh giá, hãy hỏi ai đang bị hại, ai có thể bị hại tiếp, đơn vị có thể làm gì ngay và cần năng lực nào khác. Việc bảo vệ cần tính cả người bị thương, người không thể tự di chuyển, trẻ em và người khó nhận được cảnh báo.\n\n### 1.3. Nhiệm vụ và giới hạn vẫn tồn tại\nTình huống nguy hiểm không tự chuyển mọi hoạt động cảnh sát thành tác chiến quân sự. Mandate, DUF, lệnh và tiêu chuẩn sử dụng vũ lực tiếp tục ràng buộc quyết định. Mục đích là ngăn hại và thực hiện nhiệm vụ hợp pháp, không trả đũa hoặc truy đuổi ngoài phạm vi được giao.\n\nNếu sự cố vượt năng lực, cần báo rõ mức nguy cơ, ảnh hưởng, việc đã làm và hỗ trợ cần thiết qua tuyến. Yêu cầu lực lượng khác không tự chuyển quyền chỉ huy hoặc cho phép áp dụng quy tắc của bên khác.\n\n### 1.4. Phản ứng được chuẩn bị trước\nMỗi thành viên cần biết tín hiệu, người chỉ huy, cách báo, đầu mối y tế và phần việc khi có sự cố. Những điểm này phải được tập trước, có kiểm tra hiểu. Trong khủng hoảng, một nhóm giỏi riêng lẻ nhưng dùng tín hiệu khác nhau có thể tạo thêm nguy cơ cho chính mình và người xung quanh.",
+        "en": "### 1.1. Several kinds of danger\nAn FPU may encounter violence, explosions, suspicious objects, fire, accidents or rapidly changing crowds. Combined events can obscure the initial picture. Command must recognize life threats, maintain direction and activate support rather than prematurely label a cause.\n\nA loud noise does not establish an attack; running does not identify an offender. Separate observation, reporting and assumptions. Incomplete information does not justify waiting when protective action is clearly needed. Act promptly within authority and reassess.\n\n### 1.2. Force protection and human protection\nForce protection preserves life, health and mandate capability alongside duties towards civilians, partners and people under UN control. Individual violence does not make an entire community a threat or justify collective punishment.\n\nIdentify who is harmed, who may be harmed next, immediate feasible action and additional capability needed. Consider casualties, limited mobility, children and people unable to receive warnings.\n\n### 1.3. Continuing limits\nDanger does not automatically turn policing into military combat. The mandate, DUF, orders and force standards continue to apply. Prevent harm rather than retaliate or pursue beyond assigned authority.\n\nReport threats exceeding capability, implications, actions and assistance needs. Requesting another component does not automatically transfer command or replace applicable force rules.\n\n### 1.4. Prepared responses\nMembers need common signals, command, reporting, medical contacts and incident roles, rehearsed and checked beforehand. Individually skilled people using incompatible conventions can create further danger during crisis."
+      },
+      "sourceIds": [
+        "ATTACK",
+        "POLICY"
+      ]
+    },
+    {
+      "id": "FPU-11-02",
+      "title": {
+        "vi": "2. Thông tin khẩn và duy trì chỉ huy",
+        "en": "2. Urgent information and command continuity"
+      },
+      "body": {
+        "vi": "### 2.1. Báo điều giúp quyết định\nThông báo ban đầu cần giúp người nhận biết vị trí, sự kiện quan sát, nguy cơ, người bị ảnh hưởng, hành động đang làm và yêu cầu hỗ trợ. Nói rõ điều chưa xác minh. Không chờ đủ mọi chi tiết mới báo, nhưng cũng không biến suy đoán thành sự thật để tin nghe có vẻ đầy đủ.\n\nThông tin y tế cần số người, tình trạng nổi bật, nguy cơ tiếp cận và cách liên hệ. Báo “cần xe” chưa cho biết cần loại hỗ trợ nào; báo người không đáp ứng hoặc khu vực chưa thể tiếp cận giúp đầu mối huy động phù hợp hơn. Tiếp tục cập nhật khi vị trí hoặc tình trạng thay đổi.\n\n### 2.2. Từ truyền tin đến xác nhận\nThông tin khẩn cần tới đúng tuyến và được xác nhận theo cơ chế. Nếu không có phản hồi, dùng phương án thay thế đã được thống nhất; không mặc định ai đó đã nghe. Hạn chế người cùng phát và ưu tiên thông tin sinh mạng. Các quy tắc riêng khi có hiểm họa nổ hoặc yêu cầu kỹ thuật phải theo huấn luyện địa bàn, không tự tạo quy tắc chung từ trí nhớ.\n\nKhông phát tên người cung cấp tin, dữ liệu nhạy cảm hoặc chi tiết không cần thiết lên kênh rộng. Nhanh và bảo mật không loại trừ nhau; phải tổ chức để người cần quyết định nhận đủ thông tin mà không làm tăng hại.\n\n### 2.3. Giữ vai trò và kế nhiệm\nChỉ huy cần xác định ai điều hành, ai theo dõi quân số, ai liên lạc, ai hỗ trợ y tế và ai tiếp nhận tăng cường. Khi người phụ trách không thể tiếp tục, áp dụng kế nhiệm và thông báo. Không để nhiều người cùng ra lệnh mâu thuẫn chỉ vì có cấp bậc hoặc tới hiện trường sau.\n\nViệc phân công không miễn trách nhiệm quan sát và báo nguy hiểm của mọi thành viên. Nếu một người thấy chỉ thị không thể thực hiện an toàn hoặc điều kiện đã đổi, phải nêu ngay, có thông tin cụ thể để chỉ huy quyết định.\n\n### 2.4. Duy trì bức tranh chung\nGhi những thay đổi quan trọng về người, năng lực, phạm vi và yêu cầu còn chờ. Một bản tin ban đầu có thể nhanh lỗi thời; không để các bên hành động theo những bức tranh khác nhau. Cập nhật cần nêu điều thay và ý nghĩa, tránh đọc lại mọi chi tiết khiến cảnh báo mới bị chìm. Khả năng chỉ huy phụ thuộc chất lượng thông tin được chia sẻ, không chỉ số lượng thiết bị liên lạc.",
+        "en": "### 2.1. Report for decisions\nInitial reports should establish location, observations, threats, affected people, current action and assistance needed, with explicit uncertainty. Report promptly without inventing completeness.\n\nMedical activation needs casualty numbers, significant condition, access hazards and contact arrangements. “Need a vehicle” is less useful than the actual care and access problem. Update changes in location or condition.\n\n### 2.2. Confirm receipt\nUrgent information needs correct routing and acknowledgement. Use agreed alternatives without assuming reception. Prioritize life-safety traffic and avoid competing transmissions. Explosive-hazard communications restrictions, where applicable, follow local specialist training rather than improvised universal rules.\n\nShare sensitive details only as necessary. Timeliness and confidentiality require arrangements that inform decision-makers without creating additional harm.\n\n### 2.3. Roles and succession\nIdentify command, personnel accountability, communications, medical assistance and reception of support. Apply and announce succession when necessary. Rank or later arrival must not create contradictory orders.\n\nAssigned roles do not remove every member's duty to observe and report danger. State concrete changed conditions or unsafe feasibility promptly.\n\n### 2.4. A shared picture\nTrack important changes in people, capability, boundaries and outstanding requests. Early reports become outdated. Highlight changes and implications rather than burying new warnings in repeated detail. Command depends on information quality, not device counts alone."
+      },
+      "sourceIds": [
+        "CSC021",
+        "CSC011"
+      ]
+    },
+    {
+      "id": "FPU-11-03",
+      "title": {
+        "vi": "3. Bảo vệ ban đầu và hiểm họa nổ",
+        "en": "3. Initial protection and explosive hazards"
+      },
+      "body": {
+        "vi": "### 3.1. Tránh tạo thêm người bị hại\nPhản ứng ban đầu phải tính nguy cơ đang tiếp diễn, lối tiếp cận và khả năng hỗ trợ. Không lao tới người bị thương hoặc vật lạ khi chưa hiểu nguy hiểm đối với người cứu. Huy động người có nhiệm vụ, báo vị trí và thực hiện phần bảo vệ trong năng lực theo phương án đã được huấn luyện.\n\nHành động cần đủ linh hoạt để bảo vệ nhưng không tùy tiện. Những động tác di chuyển, đưa người ra khỏi nguy hiểm và đáp ứng trong môi trường bạo lực phải được tập trực tiếp dưới giám sát; đọc một bài học không chứng minh tổ đã đủ năng lực thực hiện chúng.\n\n### 3.2. Vật nghi nguy hiểm: Không tiếp cận để xác minh\nVới vật nghi là mìn, vật nổ chưa nổ hoặc thiết bị nguy hiểm, không chạm, nhấc, mở, di chuyển hoặc thu làm kỷ niệm. Không lại gần chụp ảnh hay xem ký hiệu để làm báo cáo chính xác hơn. Vật cũ, nhỏ hoặc bị đất che một phần vẫn có thể nguy hiểm; hình thức không cho phép cán bộ tự kết luận đã an toàn.\n\nCảnh báo người khác từ nơi an toàn, thông báo vị trí đã biết cùng điều quan sát được cho đầu mối chuyên trách, và làm theo hướng dẫn địa bàn. Không tới gần để đặt dấu. Không tháo biển cảnh báo hoặc dùng sự hiện diện của người khác làm bằng chứng khu vực không có hiểm họa.\n\n### 3.3. Nếu nghi đang ở khu vực có vật nổ\nNgừng di chuyển tùy tiện, cảnh báo và xin hướng dẫn chuyên trách theo huấn luyện. Không tự dò đường, bới đất hoặc lần theo lối tưởng an toàn từ một mô tả chung. Việc cứu người trong khu nghi nhiễm cần phương án chuyên môn; không tạo thêm người mắc nạn bằng nỗ lực tự phát.\n\nHồ sơ vị trí và cảnh báo phải chuyển tới người tiếp tục nhiệm vụ để tránh họ lặp nguy cơ. Không tự mở lại tuyến hoặc cho người đi qua chỉ vì chưa thấy sự cố trong một khoảng thời gian.\n\n### 3.4. Sau tiếng nổ hoặc sự cố\nCòn có thể có cháy, vật chưa nổ, kết cấu hỏng và nguy cơ tiếp diễn. Không tập trung đông người quanh hiện trường để nhìn hoặc quay video. Giữ khả năng tiếp cận lực lượng cứu nạn, bảo vệ người không có nhiệm vụ và nhận hướng dẫn. Cán bộ không có chuyên môn không xử lý vật nổ để lấy vật chứng; an toàn và thu thập chứng cứ phải được phối hợp đúng người.",
+        "en": "### 3.1. Avoid additional casualties\nConsider continuing danger, access and support before approaching casualties or unusual objects. Activate assigned responders, report location and provide protective assistance within trained capability.\n\nDanger-area movement and casualty extraction require supervised practical learning. Flexibility is not improvisation without competence, and reading does not certify a team.\n\n### 3.2. Do not approach to identify\nDo not touch, lift, open, move or collect suspected mines, unexploded ordnance or hazardous devices. Do not approach for photographs or markings. Age, small size or partial burial does not establish safety.\n\nWarn others from safety, report the known location and observations, and follow specialist direction. Do not approach to mark an object or remove warning signs. Other people's presence does not establish a hazard-free area.\n\n### 3.3. Suspected hazardous ground\nStop unplanned movement, warn and seek specialist guidance under local training. Do not probe, dig or improvise a safe path from general advice. Rescue in suspected contaminated ground requires competent planning.\n\nTransfer warnings and locations to subsequent teams. Neither time without an incident nor an absence of visible objects authorizes reopening an area.\n\n### 3.4. After an explosion\nFire, unexploded items, structural damage and continuing threats may remain. Prevent unnecessary gathering and recording, preserve rescue access and obtain direction. Unqualified officers must not handle explosives to collect evidence. Coordinate safety and investigation through competent actors."
+      },
+      "sourceIds": [
+        "UNMAS"
+      ]
+    },
+    {
+      "id": "FPU-11-04",
+      "title": {
+        "vi": "4. Thương tích, kiểm đếm và hỗ trợ chuyên trách",
+        "en": "4. Casualties, accountability and specialist support"
+      },
+      "body": {
+        "vi": "### 4.1. Gọi y tế sớm và đúng nhu cầu\nKhi có thương tích hoặc người không đáp ứng, kích hoạt hỗ trợ y tế sớm, nêu vị trí, số người, tình trạng và nguy cơ tiếp cận. Sơ cứu chỉ thực hiện khi an toàn trong năng lực đã học. Không trì hoãn gọi để tự chẩn đoán hoặc chờ xác định ai chịu chi phí, trách nhiệm.\n\nNhân viên y tế cần biết điều quan sát và can thiệp đã làm, không chỉ tên sự cố. Thay đổi đáp ứng, thở hoặc chảy máu phải được cập nhật. Những quy trình chuyên sâu và phân loại nhiều nạn nhân cần đào tạo, người có trách nhiệm; không tự tạo thuật toán từ bài đọc.\n\n### 4.2. Kiểm đếm hơn là đếm tổng số\nĐối chiếu từng người, nơi được biết cuối, nhiệm vụ được giao và tình trạng. Tổng số có vẻ đủ vẫn có thể nhầm nếu tính khách hoặc người đơn vị khác. Người bị chuyển y tế, tách làm nhiệm vụ hoặc tiếp quản bởi nhóm khác cần được ghi và xác nhận.\n\nKhông tự cho người tản ra tìm thành viên chưa xác định khi điều kiện nguy hiểm chưa được quản lý. Báo chính xác điều biết và điều chưa biết để chỉ huy tổ chức tìm, cứu hoặc phối hợp phù hợp. Bỏ trống một tên vì nghĩ người đó sẽ tự về làm mất cơ hội hỗ trợ.\n\n### 4.3. Nêu khả năng còn lại\nSau sự cố, chỉ huy phải biết năng lực thực tế: Quân số đủ điều kiện, liên lạc, phương tiện, y tế, mức mệt và nhiệm vụ còn giữ. Có thể còn nhiều người nhưng thiếu người chỉ huy hoặc phương tiện quan trọng. Không dùng một tỷ lệ chung để khẳng định đơn vị tiếp tục mọi nhiệm vụ.\n\nHỗ trợ cần được yêu cầu theo phần việc: Y tế, cứu nạn, xử lý vật nổ, tăng cường an ninh hoặc phương tiện. Yêu cầu rõ giúp đầu mối huy động đúng, đồng thời nêu điều kiện để tiếp nhận an toàn.\n\n### 4.4. Bàn giao có xác nhận\nKhi chuyên gia hoặc lực lượng khác đến, cung cấp tình hình, nguy cơ, việc đã làm, người còn liên quan và giới hạn thông tin. Xác định ai tiếp quản phần nào; không coi họ xuất hiện là mọi trách nhiệm đã chuyển. Người đang được chăm sóc và người do UN kiểm soát cần được bàn giao rõ để không mất giám sát trong quá trình nhiều bên cùng tham gia.",
+        "en": "### 4.1. Early, appropriate medical activation\nReport location, casualty numbers, condition and access hazards promptly. Provide first aid only when safe and within training. Do not delay activation while diagnosing or resolving administrative responsibility.\n\nDescribe observations, interventions and changes in responsiveness, breathing or bleeding. Advanced care and multiple-casualty triage require their own training and responsible personnel.\n\n### 4.2. Account for individuals\nReconcile names, last-known locations, assignments and condition. A plausible total can include visitors or another unit's members. Medical evacuation, task separation and acceptance by another group require records and confirmation.\n\nDo not send members on uncontrolled searches through unmanaged danger. Report knowledge and gaps for organized response rather than assuming a missing person will return.\n\n### 4.3. Remaining capability\nEstablish fit personnel, command, communications, transport, medical support, fatigue and continuing duties. Staffing percentages can conceal critical role or equipment gaps.\n\nRequest support by function—medical, rescue, explosive-hazard response, security or transport—with conditions for safe reception.\n\n### 4.4. Confirm handover\nBrief arriving specialists on conditions, risks, actions, affected people and uncertainty. Establish which responsibilities transfer; arrival alone does not transfer everything. Maintain confirmed care and custody during multi-actor response."
+      },
+      "sourceIds": [
+        "CSC011",
+        "POLICY"
+      ]
+    },
+    {
+      "id": "FPU-11-05",
+      "title": {
+        "vi": "5. Điều chỉnh, ngừng phần việc và phối hợp",
+        "en": "5. Adjustment, disengagement and coordination"
+      },
+      "body": {
+        "vi": "### 5.1. Quyết định dựa trên mục tiêu và điều kiện\nChỉ huy cần so sánh tiếp tục, thay cách thực hiện, tạm dừng, rời khu vực hoặc xin năng lực khác theo thẩm quyền. Không tiếp tục chỉ để tránh bị xem là lùi bước; cũng không tự rời nhiệm vụ bảo vệ đang tiếp diễn mà không báo và tổ chức chuyển tiếp. Mục đích là giảm hại và giữ khả năng thực hiện mandate.\n\nMột phương án cần tính cả người bị ảnh hưởng, thương tích, liên lạc và tác động tới đơn vị đang phối hợp. Sự cố xảy ra ở một bộ phận có thể làm thay đổi nhiệm vụ của nhiều bên. Phải báo ý nghĩa thay đổi, không chỉ thông báo đã đổi vị trí.\n\n### 5.2. Không dùng công thức chung cho mọi tình huống\nCách điều chỉnh hoặc tách khỏi tiếp xúc nguy hiểm phụ thuộc loại đe dọa, địa bàn, nguồn lực và lệnh. Các đội hình, thứ tự và động tác cần được huấn luyện trực tiếp theo phương án được phép. Không lấy một sơ đồ trong tài liệu cũ làm hướng dẫn đủ để xử lý một sự cố thực tế.\n\nMọi phần sử dụng vũ lực vẫn cần căn cứ và giới hạn. Không dùng thay đổi nhiệm vụ để bỏ báo cáo vũ lực, thương tích hoặc hại dân sự; không truy tìm người gây hại theo ý riêng khi nhiệm vụ chính đang cần bảo vệ.\n\n### 5.3. Phối hợp quân sự và đối tác\nNếu mức nguy cơ vượt năng lực cảnh sát, báo và kích hoạt cơ chế phối hợp phái bộ. Chuyển trách nhiệm phải có quyết định, phạm vi, thông tin, người chỉ huy và cách báo. Cảnh sát và quân sự có vai trò bổ sung; cùng hiện diện không có nghĩa tự dùng chung mọi quyền hoặc DUF/ROE.\n\nĐối tác sở tại cũng phải được phối hợp theo cơ chế và đánh giá nguy cơ. Không bàn giao người, tài sản hoặc nhiệm vụ chỉ để giảm áp lực mà chưa có căn cứ và bảo đảm phù hợp.\n\n### 5.4. Truyền quyết định tới người thực hiện\nLệnh điều chỉnh cần ngắn, rõ việc thay, mục đích, giới hạn và người nhận. Xác nhận hiểu ở điểm quan trọng, cập nhật phiên bản và thông báo bên chịu ảnh hưởng. Giữ hồ sơ để có thể truy lại ai quyết định dựa trên điều gì; không chờ sau sự cố mới cố ghép các lời kể thành một trình tự chắc chắn giả.",
+        "en": "### 5.1. Review the objective and conditions\nConsider continuation, changed methods, pause, relocation or additional capability within authority. Neither avoiding the appearance of retreat nor escaping pressure justifies an unsafe choice or unreported abandonment of continuing protection.\n\nAssess effects on affected people, casualties, communications and partners. One sub-unit's incident can alter several actors' tasks. Explain implications as well as changed location.\n\n### 5.2. No universal formula\nDisengagement or adjustment depends on threat, setting, resources and orders. Formations and physical procedures require direct authorized training. A historical diagram is insufficient for a live event.\n\nForce limits and incident reporting continue. Do not pursue personal objectives while protection responsibilities remain unmet.\n\n### 5.3. Military and partner coordination\nActivate mission arrangements where threats exceed police capability. Responsibility transitions require authorized decisions, scope, information, command and reporting. Co-presence does not merge police and military powers or force rules.\n\nHost-State cooperation also requires safeguards. Do not transfer people, property or duties simply to reduce pressure.\n\n### 5.4. Communicate changes\nState changed tasks, purpose, limits and recipients. Confirm understanding, control versions and inform affected partners. Preserve the decision basis rather than reconstructing false certainty afterwards."
+      },
+      "sourceIds": [
+        "BREAK",
+        "POLICY",
+        "CSC012"
+      ]
+    },
+    {
+      "id": "FPU-11-06",
+      "title": {
+        "vi": "6. Sau sự cố: Hồ sơ, phục hồi và học tập",
+        "en": "6. After an incident: Records, recovery and learning"
+      },
+      "body": {
+        "vi": "### 6.1. Báo sự kiện khách quan\nGhi thời gian, vị trí trong phạm vi cần thiết, diễn biến, quan sát, quyết định, hành động, thương tích và nhu cầu tiếp theo. Phân biệt điều biết lúc quyết với thông tin chỉ xuất hiện sau đó. Khi chưa rõ nguyên nhân, dùng từ thể hiện mức chắc chắn thay vì kết luận về chủ thể hoặc loại tấn công.\n\nBáo khẩn, báo sử dụng vũ lực, thương vong và hại dân sự theo cơ chế tương ứng. Bản tổng hợp sau không thay thông báo phải gửi ngay. Không thống nhất lời kể để làm nhẹ sự cố hoặc sửa nhật ký để tạo hình ảnh đáp ứng hoàn hảo.\n\n### 6.2. Bảo toàn thông tin và hiện trường\nGiữ hồ sơ, ghi nhận trang bị và chuyển tài liệu theo đầu mối. Không tự xử lý vật nghi nổ để lấy bằng chứng; không đưa ảnh người bị hại lên nhóm không có nhiệm vụ. Bảo toàn hiện trường không được trở thành lý do chậm cứu người; các ưu tiên phải được phối hợp với lực lượng có trách nhiệm.\n\n### 6.3. Phục hồi năng lực và con người\nĐánh giá quân số, thiết bị, vật tư, sức khỏe và mệt mỏi trước khi xác nhận sẵn sàng trở lại. Trang bị có vẻ nguyên vẹn vẫn có thể cần kiểm tra sau va đập, nhiệt hoặc sự cố. Người đã tham gia cần cơ hội chăm sóc y tế, nghỉ và hỗ trợ tâm lý theo nhu cầu, không buộc kể lại cảm xúc trước tập thể.\n\nRút kinh nghiệm tác nghiệp tập trung quyết định và công việc, khác với chăm sóc tâm lý. Giữ riêng tư, không gán nhãn người có phản ứng căng thẳng và không dùng im lặng làm bằng chứng họ không bị ảnh hưởng.\n\n### 6.4. Bài học phải được kiểm chứng\nTìm điểm đã hoạt động và điểm thiếu: Nhận cảnh báo, hiểu lệnh, kiểm đếm, tiếp cận y tế, nhận tăng cường hoặc chuyển trách nhiệm. Giao biện pháp sửa, người phụ trách, nguồn lực và lần kiểm chứng. Nếu lỗi là đầu mối không nhận tin, cần sửa kênh và xác nhận; chỉ nhắc bình tĩnh hơn sẽ không đủ.\n\nNăng lực cần đạt là nhận biết sớm, báo có căn cứ, bảo vệ trong giới hạn, gọi đúng hỗ trợ và duy trì trách nhiệm tới phục hồi. Các kỹ thuật đáp ứng sự cố nguy hiểm phải được huấn luyện thực hành riêng, dưới người có năng lực và biện pháp an toàn phù hợp.",
+        "en": "### 6.1. Objective reporting\nRecord timing, relevant location, events, observations, decisions, action, casualties and further needs. Distinguish contemporaneous knowledge from later information. Use appropriate uncertainty rather than premature attribution.\n\nUrgent, force, casualty and civilian-harm reporting retain their own requirements. A later summary does not replace immediate notification. Do not coordinate accounts or alter logs to minimize the event.\n\n### 6.2. Preserve information safely\nRetain records and equipment information through authorized channels. Unqualified personnel must not handle suspected explosives for evidence. Restrict casualty images and sensitive data. Coordinate evidence preservation without delaying lifesaving assistance.\n\n### 6.3. Recover people and capability\nReassess personnel, equipment, supplies, health and fatigue before return to readiness. Apparently intact equipment may need post-impact or heat checks. Provide access to care, rest and needs-based psychological support without forced emotional disclosure.\n\nOperational review differs from psychological care. Protect privacy and avoid assuming silence means no impact.\n\n### 6.4. Verify learning\nReview warning, orders, accounting, care, reinforcement and responsibility transfer. Assign correction, ownership, resources and verification. Communication failures require repaired channels and acknowledgement, not reminders alone.\n\nIntended understanding combines early recognition, grounded reporting, lawful protection, appropriate assistance and continuing responsibility. High-risk response techniques require separate supervised practical training."
+      },
+      "sourceIds": [
+        "CSC021",
+        "POLICY"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "ATTACK",
+      "title": "Attack with Firearms and Explosives",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-036%20Attack%20with%20Firearms%20and%20Explosives.pdf",
+      "format": "pdf",
+      "pages": 26,
+      "reading": "phần mục tiêu và nhận diện tình huống",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "POLICY",
+      "title": "Policy 2024.14: Formed Police Units in United Nations Peace Operations",
+      "publisher": "United Nations DPO",
+      "year": "2024",
+      "url": "https://resourcehub01.blob.core.windows.net/$web/Policy%20and%20Guidance/corepeacekeepingguidance/Thematic%20Operational%20Activities/Police%20and%20Law%20Enforcement/2024.14%20Formed%20Police%20Units%20in%20United%20Nations%20Peace%20Operations.pdf",
+      "format": "pdf",
+      "pages": 34,
+      "reading": "Nguồn chính sách nền; hiệu lực 01/12/2024",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "CSC021",
+      "title": "Mission Reporting",
+      "publisher": "United Nations Police, FPU Command Staff Course",
+      "year": "2026",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-021%20Lesson%2021%20Mission%20Reporting%20(LP).pdf",
+      "format": "pdf",
+      "checked": "2026-10-29"
+    },
+    {
+      "id": "CSC011",
+      "title": "Mission Integrated Security Plan — FPU Perspective",
+      "publisher": "United Nations Police, FPU Command Staff Course",
+      "year": "2026",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-011%20Lesson%2011%20Mission%20Integrated%20Security%20Plan%20-%20FPU%20Perspective%20(LP).pdf",
+      "format": "pdf",
+      "checked": "2026-10-29"
+    },
+    {
+      "id": "UNMAS",
+      "title": "Landmines, Explosive Remnants of War and IED Safety Handbook",
+      "publisher": "United Nations Mine Action Service",
+      "url": "https://www.unmas.org/sites/default/files/handbook_english.pdf",
+      "format": "pdf",
+      "checked": "2026-10-29"
+    },
+    {
+      "id": "BREAK",
+      "title": "Breaking Contact",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-038%20Breaking%20contact.pdf",
+      "format": "pdf",
+      "pages": 12,
+      "reading": "7–9",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "CSC012",
+      "title": "FPU Command Staff Course 2026 · Lesson 12: Joint and Combined Operations",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-012%20Lesson%2012%20%20Joint%20and%20Combined%20Operations%20(LP).pdf",
+      "year": "2026",
+      "publisher": "United Nations Police / DPO",
+      "format": "pdf"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Sau tiếng nổ, tin đầu tiên nói chắc có người tấn công. Cần báo thế nào?",
+        "en": "After an explosion, an initial account asserts an attack. How should it be reported?"
+      },
+      "options": [
+        {
+          "vi": "Khẳng định ngay toàn bộ tin đầu là sự thật.",
+          "en": "Confirm the entire first account as fact."
+        },
+        {
+          "vi": "Nêu quan sát, nguồn tin và điều chưa xác minh.",
+          "en": "Separate observations, source and unverified claims."
+        },
+        {
+          "vi": "Không báo cho tới khi biết danh tính người gây ra.",
+          "en": "Withhold reporting until an offender is identified."
+        }
+      ],
+      "correct": 1,
+      "chapter": 0,
+      "explanation": {
+        "vi": "Thông tin ban đầu phải giúp bảo vệ mà không biến giả định thành sự kiện. Xem mục 1.",
+        "en": "Initial information must support protection without converting assumptions into facts. See section 1."
+      }
+    },
+    {
+      "question": {
+        "vi": "Nhiệm vụ bị gián đoạn và người dân đang ở gần nguy cơ. Ưu tiên phù hợp là gì?",
+        "en": "The task is disrupted and civilians are near danger. What is appropriate?"
+      },
+      "options": [
+        {
+          "vi": "Coi mọi người gần hiện trường là đối tượng thù địch.",
+          "en": "Treat everyone nearby as hostile."
+        },
+        {
+          "vi": "Đạt mục tiêu ban đầu bất kể nguy cơ mới.",
+          "en": "Complete the original objective regardless of changed danger."
+        },
+        {
+          "vi": "Bảo vệ sinh mạng và điều chỉnh theo thẩm quyền, DUF và tình hình.",
+          "en": "Protect life and adjust within authority, DUF and conditions."
+        }
+      ],
+      "correct": 2,
+      "chapter": 0,
+      "explanation": {
+        "vi": "Mục tiêu nhiệm vụ không loại bỏ nghĩa vụ bảo vệ hoặc giới hạn sử dụng vũ lực. Xem mục 1.",
+        "en": "Mission objectives do not remove protective duties or force limits. See section 1."
+      }
+    },
+    {
+      "question": {
+        "vi": "Báo khẩn chỉ ghi “có sự cố” thì còn thiếu gì quan trọng?",
+        "en": "What is missing from an urgent report saying only “incident”?"
+      },
+      "options": [
+        {
+          "vi": "Nhận xét chắc chắn về động cơ khi chưa có chứng cứ.",
+          "en": "A definitive motive without evidence."
+        },
+        {
+          "vi": "Danh sách đời tư của mọi người quanh đó.",
+          "en": "Private details of everyone nearby."
+        },
+        {
+          "vi": "Vị trí, nguy cơ, người bị ảnh hưởng, hành động và hỗ trợ cần.",
+          "en": "Location, danger, affected people, actions and needed support."
+        }
+      ],
+      "correct": 2,
+      "chapter": 1,
+      "explanation": {
+        "vi": "Người nhận cần thông tin đủ để định vị và huy động đúng hỗ trợ. Xem mục 2.",
+        "en": "Recipients need enough information to locate and activate suitable support. See section 2."
+      }
+    },
+    {
+      "question": {
+        "vi": "Đã bấm gửi yêu cầu hỗ trợ nhưng chưa được trả lời. Có thể kết luận gì?",
+        "en": "A support request was sent without acknowledgement. What follows?"
+      },
+      "options": [
+        {
+          "vi": "Hỗ trợ chắc chắn đang trên đường.",
+          "en": "Support is certainly on its way."
+        },
+        {
+          "vi": "Cần xác nhận tiếp nhận hoặc dùng kênh dự phòng đã quy định.",
+          "en": "Confirm receipt or use the established fallback."
+        },
+        {
+          "vi": "Có thể ngừng mọi liên lạc tiếp theo.",
+          "en": "All further communication can stop."
+        }
+      ],
+      "correct": 1,
+      "chapter": 1,
+      "explanation": {
+        "vi": "Gửi thành công chưa chứng minh người có trách nhiệm đã nhận và hành động. Xem mục 2.",
+        "en": "Successful sending does not establish accountable receipt or action. See section 2."
+      }
+    },
+    {
+      "question": {
+        "vi": "Thấy vật nghi nổ cạnh lối đi, cần làm gì?",
+        "en": "A suspicious explosive item is near a path. What is appropriate?"
+      },
+      "options": [
+        {
+          "vi": "Không tiếp cận hay chạm; cảnh báo từ nơi an toàn và báo chuyên trách.",
+          "en": "Do not approach or touch; warn from safety and notify specialists."
+        },
+        {
+          "vi": "Mang vật sang chỗ vắng để người khác đi qua.",
+          "en": "Move it away so others can pass."
+        },
+        {
+          "vi": "Tới sát để chụp ảnh và đặt dấu ngay bên cạnh.",
+          "en": "Approach for a close photograph and marker."
+        }
+      ],
+      "correct": 0,
+      "chapter": 2,
+      "explanation": {
+        "vi": "Không tạo thêm tiếp xúc nguy hiểm để nhận diện hoặc đánh dấu. Xem mục 3.",
+        "en": "Do not create additional exposure for identification or marking. See section 3."
+      }
+    },
+    {
+      "question": {
+        "vi": "Nghi đang ở trong khu vực có nguy cơ vật nổ, lựa chọn nào đúng?",
+        "en": "You suspect you are within explosive contamination. What is appropriate?"
+      },
+      "options": [
+        {
+          "vi": "Dùng dụng cụ tự dò đường cho cả nhóm.",
+          "en": "Improvise probing for the group."
+        },
+        {
+          "vi": "Ngừng di chuyển không được hướng dẫn, báo vị trí và xin hướng dẫn chuyên trách.",
+          "en": "Stop unplanned movement, report and seek specialist guidance."
+        },
+        {
+          "vi": "Chạy theo đường ngắn nhất chưa kiểm tra.",
+          "en": "Run along the shortest unchecked route."
+        }
+      ],
+      "correct": 1,
+      "chapter": 2,
+      "explanation": {
+        "vi": "Di chuyển hoặc tự dò có thể tăng nguy cơ; áp dụng hướng dẫn địa bàn đã được huấn luyện. Xem mục 3.",
+        "en": "Movement or improvised probing can increase exposure; follow trained local guidance. See section 3."
+      }
+    },
+    {
+      "question": {
+        "vi": "Quân số tổng bằng lúc xuất phát nhưng hai người đã đổi xe, cần gì?",
+        "en": "The headcount matches departure, but two people changed vehicles. What is needed?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ ghi tổng số, không cần tên.",
+          "en": "Record totals without identities."
+        },
+        {
+          "vi": "Kết luận ngay mọi người đều an toàn.",
+          "en": "Conclude everyone is safe immediately."
+        },
+        {
+          "vi": "Đối chiếu từng người, vị trí và tình trạng chưa xác nhận.",
+          "en": "Reconcile individuals, locations and unresolved status."
+        }
+      ],
+      "correct": 2,
+      "chapter": 3,
+      "explanation": {
+        "vi": "Tổng bằng nhau có thể che giấu người thiếu và người chưa được ghi nhận. Xem mục 4.",
+        "en": "Matching totals can conceal missing or unrecorded individuals. See section 4."
+      }
+    },
+    {
+      "question": {
+        "vi": "Yêu cầu tăng viện nên phản ánh điều gì?",
+        "en": "What should a reinforcement request describe?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ số lượng thiết bị hỏng, không cần tác động.",
+          "en": "Only the number of broken devices."
+        },
+        {
+          "vi": "Một yêu cầu chung “gửi càng nhiều càng tốt”.",
+          "en": "A generic request for as much as possible."
+        },
+        {
+          "vi": "Chức năng bị suy giảm, hậu quả và loại hỗ trợ cần.",
+          "en": "Lost functions, consequences and needed capability."
+        }
+      ],
+      "correct": 2,
+      "chapter": 3,
+      "explanation": {
+        "vi": "Nhu cầu theo chức năng giúp đầu mối phân bổ đúng khả năng. Xem mục 4.",
+        "en": "Functional needs help allocate appropriate capability. See section 4."
+      }
+    },
+    {
+      "question": {
+        "vi": "Phối hợp với thành phần quân sự có tự chuyển toàn bộ quyền quyết định không?",
+        "en": "Does military coordination automatically transfer all decision authority?"
+      },
+      "options": [
+        {
+          "vi": "Có, không cần báo chỉ huy FPU.",
+          "en": "Yes, FPU command notification is unnecessary."
+        },
+        {
+          "vi": "Không; phải theo cơ chế chỉ huy và thẩm quyền được xác định.",
+          "en": "No; follow established command and authority arrangements."
+        },
+        {
+          "vi": "Có, mọi giới hạn cảnh sát tự hết.",
+          "en": "Yes, all policing limits cease."
+        }
+      ],
+      "correct": 1,
+      "chapter": 4,
+      "explanation": {
+        "vi": "Phối hợp cần rõ trách nhiệm, không suy ra chuyển quyền từ việc cùng có mặt. Xem mục 5.",
+        "en": "Coordination needs clear responsibilities; presence alone does not transfer authority. See section 5."
+      }
+    },
+    {
+      "question": {
+        "vi": "Tình hình mới vượt khả năng phương án ban đầu. Cần xử lý thế nào?",
+        "en": "New conditions exceed the original plan. What is appropriate?"
+      },
+      "options": [
+        {
+          "vi": "Báo, đánh giá và xin hoặc thực hiện điều chỉnh trong thẩm quyền.",
+          "en": "Report, reassess and seek or make authorized adjustments."
+        },
+        {
+          "vi": "Tiếp tục nguyên phương án để tránh bị coi là thất bại.",
+          "en": "Continue unchanged to avoid appearing unsuccessful."
+        },
+        {
+          "vi": "Tự truy đuổi người nghi gây sự cố ngoài nhiệm vụ.",
+          "en": "Independently pursue a suspected actor beyond the task."
+        }
+      ],
+      "correct": 0,
+      "chapter": 4,
+      "explanation": {
+        "vi": "Điều chỉnh có trách nhiệm giữ mục đích bảo vệ và giới hạn nhiệm vụ. Xem mục 5.",
+        "en": "Accountable adjustment preserves protection and task limits. See section 5."
+      }
+    },
+    {
+      "question": {
+        "vi": "Thu thập chứng cứ có được làm chậm hỗ trợ người bị thương không?",
+        "en": "May evidence collection delay casualty assistance?"
+      },
+      "options": [
+        {
+          "vi": "Không; bảo vệ sinh mạng và chăm sóc kịp thời đi trước việc thu thập không khẩn.",
+          "en": "No; life protection and timely care precede non-urgent collection."
+        },
+        {
+          "vi": "Có, nếu cần ảnh đẹp cho báo cáo.",
+          "en": "Yes, for better report photographs."
+        },
+        {
+          "vi": "Có, để hiện trường không thay đổi.",
+          "en": "Yes, to keep the scene unchanged."
+        }
+      ],
+      "correct": 0,
+      "chapter": 5,
+      "explanation": {
+        "vi": "Bảo toàn chứng cứ phải được tổ chức phù hợp ưu tiên sinh mạng. Xem mục 6.",
+        "en": "Evidence preservation must respect life-saving priorities. See section 6."
+      }
+    },
+    {
+      "question": {
+        "vi": "Sau sự cố, kết luận nào dẫn tới khắc phục thực chất?",
+        "en": "Which post-incident conclusion supports real correction?"
+      },
+      "options": [
+        {
+          "vi": "Giao sửa lỗi liên lạc, người phụ trách và cách thử lại.",
+          "en": "Assign a communications correction, owner and retest."
+        },
+        {
+          "vi": "Chỉ thống kê số báo cáo đã gửi.",
+          "en": "Only count submitted reports."
+        },
+        {
+          "vi": "Chỉ yêu cầu mọi người nâng cao ý thức.",
+          "en": "Only demand greater awareness."
+        }
+      ],
+      "correct": 0,
+      "chapter": 5,
+      "explanation": {
+        "vi": "Bài học cần thành hành động kiểm chứng được thay vì khẩu hiệu. Xem mục 6.",
+        "en": "Learning requires verifiable action rather than slogans. See section 6."
+      }
+    }
+  ],
+  "updated": "2026-10-29",
+  "moduleId": "FPU-M5",
+  "moduleOrder": 3,
+  "lessonOrder": 2,
+  "sourceModule": {
+    "programme": "STM-FPU",
+    "number": 5,
+    "title": "Public order management"
+  },
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "FPU-11-01",
+      "title": {
+        "vi": "1. Nhận diện sự cố và mục tiêu bảo vệ",
+        "en": "1. Recognizing incidents and protective objectives"
+      },
+      "body": {
+        "vi": "### 1.1. Sự cố nguy hiểm không chỉ có một dạng\nFPU có thể gặp bạo lực, tiếng nổ, vật nghi nguy hiểm, cháy, tai nạn hoặc tình trạng đám đông thay đổi nhanh. Các sự kiện có thể xuất hiện cùng nhau và làm thông tin ban đầu không rõ. Người chỉ huy cần nhận biết điều đang đe dọa sinh mạng, giữ khả năng điều hành và huy động hỗ trợ, thay vì vội đặt tên nguyên nhân.\n\nTiếng động lớn chưa tự chứng minh có tấn công; người chạy chưa tự là người gây hại. Cần tách quan sát trực tiếp, điều được báo và giả định. Tuy nhiên, thiếu thông tin đầy đủ không phải lý do đứng chờ khi đã có nguy cơ rõ cần bảo vệ. Phản ứng phải đủ kịp thời trong thẩm quyền và tiếp tục được rà lại.\n\n### 1.2. Bảo vệ lực lượng gắn với bảo vệ con người\nBảo vệ lực lượng nhằm duy trì sinh mạng, sức khỏe và năng lực thực hiện mandate. Mục tiêu này phải đi cùng bảo vệ dân thường, đối tác và người đang do UN kiểm soát. Không được xem một cộng đồng là nguồn đe dọa chung vì một số cá nhân có hành vi bạo lực; không dùng sự hoảng loạn làm căn cứ trừng phạt tập thể.\n\nKhi đánh giá, hãy hỏi ai đang bị hại, ai có thể bị hại tiếp, đơn vị có thể làm gì ngay và cần năng lực nào khác. Việc bảo vệ cần tính cả người bị thương, người không thể tự di chuyển, trẻ em và người khó nhận được cảnh báo.\n\n### 1.3. Nhiệm vụ và giới hạn vẫn tồn tại\nTình huống nguy hiểm không tự chuyển mọi hoạt động cảnh sát thành tác chiến quân sự. Mandate, DUF, lệnh và tiêu chuẩn sử dụng vũ lực tiếp tục ràng buộc quyết định. Mục đích là ngăn hại và thực hiện nhiệm vụ hợp pháp, không trả đũa hoặc truy đuổi ngoài phạm vi được giao.\n\nNếu sự cố vượt năng lực, cần báo rõ mức nguy cơ, ảnh hưởng, việc đã làm và hỗ trợ cần thiết qua tuyến. Yêu cầu lực lượng khác không tự chuyển quyền chỉ huy hoặc cho phép áp dụng quy tắc của bên khác.\n\n### 1.4. Phản ứng được chuẩn bị trước\nMỗi thành viên cần biết tín hiệu, người chỉ huy, cách báo, đầu mối y tế và phần việc khi có sự cố. Những điểm này phải được tập trước, có kiểm tra hiểu. Trong khủng hoảng, một nhóm giỏi riêng lẻ nhưng dùng tín hiệu khác nhau có thể tạo thêm nguy cơ cho chính mình và người xung quanh.",
+        "en": "### 1.1. Several kinds of danger\nAn FPU may encounter violence, explosions, suspicious objects, fire, accidents or rapidly changing crowds. Combined events can obscure the initial picture. Command must recognize life threats, maintain direction and activate support rather than prematurely label a cause.\n\nA loud noise does not establish an attack; running does not identify an offender. Separate observation, reporting and assumptions. Incomplete information does not justify waiting when protective action is clearly needed. Act promptly within authority and reassess.\n\n### 1.2. Force protection and human protection\nForce protection preserves life, health and mandate capability alongside duties towards civilians, partners and people under UN control. Individual violence does not make an entire community a threat or justify collective punishment.\n\nIdentify who is harmed, who may be harmed next, immediate feasible action and additional capability needed. Consider casualties, limited mobility, children and people unable to receive warnings.\n\n### 1.3. Continuing limits\nDanger does not automatically turn policing into military combat. The mandate, DUF, orders and force standards continue to apply. Prevent harm rather than retaliate or pursue beyond assigned authority.\n\nReport threats exceeding capability, implications, actions and assistance needs. Requesting another component does not automatically transfer command or replace applicable force rules.\n\n### 1.4. Prepared responses\nMembers need common signals, command, reporting, medical contacts and incident roles, rehearsed and checked beforehand. Individually skilled people using incompatible conventions can create further danger during crisis."
+      },
+      "sourceIds": [
+        "ATTACK",
+        "POLICY"
+      ]
+    },
+    {
+      "id": "FPU-11-02",
+      "title": {
+        "vi": "2. Thông tin khẩn và duy trì chỉ huy",
+        "en": "2. Urgent information and command continuity"
+      },
+      "body": {
+        "vi": "### 2.1. Báo điều giúp quyết định\nThông báo ban đầu cần giúp người nhận biết vị trí, sự kiện quan sát, nguy cơ, người bị ảnh hưởng, hành động đang làm và yêu cầu hỗ trợ. Nói rõ điều chưa xác minh. Không chờ đủ mọi chi tiết mới báo, nhưng cũng không biến suy đoán thành sự thật để tin nghe có vẻ đầy đủ.\n\nThông tin y tế cần số người, tình trạng nổi bật, nguy cơ tiếp cận và cách liên hệ. Báo “cần xe” chưa cho biết cần loại hỗ trợ nào; báo người không đáp ứng hoặc khu vực chưa thể tiếp cận giúp đầu mối huy động phù hợp hơn. Tiếp tục cập nhật khi vị trí hoặc tình trạng thay đổi.\n\n### 2.2. Từ truyền tin đến xác nhận\nThông tin khẩn cần tới đúng tuyến và được xác nhận theo cơ chế. Nếu không có phản hồi, dùng phương án thay thế đã được thống nhất; không mặc định ai đó đã nghe. Hạn chế người cùng phát và ưu tiên thông tin sinh mạng. Các quy tắc riêng khi có hiểm họa nổ hoặc yêu cầu kỹ thuật phải theo huấn luyện địa bàn, không tự tạo quy tắc chung từ trí nhớ.\n\nKhông phát tên người cung cấp tin, dữ liệu nhạy cảm hoặc chi tiết không cần thiết lên kênh rộng. Nhanh và bảo mật không loại trừ nhau; phải tổ chức để người cần quyết định nhận đủ thông tin mà không làm tăng hại.\n\n### 2.3. Giữ vai trò và kế nhiệm\nChỉ huy cần xác định ai điều hành, ai theo dõi quân số, ai liên lạc, ai hỗ trợ y tế và ai tiếp nhận tăng cường. Khi người phụ trách không thể tiếp tục, áp dụng kế nhiệm và thông báo. Không để nhiều người cùng ra lệnh mâu thuẫn chỉ vì có cấp bậc hoặc tới hiện trường sau.\n\nViệc phân công không miễn trách nhiệm quan sát và báo nguy hiểm của mọi thành viên. Nếu một người thấy chỉ thị không thể thực hiện an toàn hoặc điều kiện đã đổi, phải nêu ngay, có thông tin cụ thể để chỉ huy quyết định.\n\n### 2.4. Duy trì bức tranh chung\nGhi những thay đổi quan trọng về người, năng lực, phạm vi và yêu cầu còn chờ. Một bản tin ban đầu có thể nhanh lỗi thời; không để các bên hành động theo những bức tranh khác nhau. Cập nhật cần nêu điều thay và ý nghĩa, tránh đọc lại mọi chi tiết khiến cảnh báo mới bị chìm. Khả năng chỉ huy phụ thuộc chất lượng thông tin được chia sẻ, không chỉ số lượng thiết bị liên lạc.",
+        "en": "### 2.1. Report for decisions\nInitial reports should establish location, observations, threats, affected people, current action and assistance needed, with explicit uncertainty. Report promptly without inventing completeness.\n\nMedical activation needs casualty numbers, significant condition, access hazards and contact arrangements. “Need a vehicle” is less useful than the actual care and access problem. Update changes in location or condition.\n\n### 2.2. Confirm receipt\nUrgent information needs correct routing and acknowledgement. Use agreed alternatives without assuming reception. Prioritize life-safety traffic and avoid competing transmissions. Explosive-hazard communications restrictions, where applicable, follow local specialist training rather than improvised universal rules.\n\nShare sensitive details only as necessary. Timeliness and confidentiality require arrangements that inform decision-makers without creating additional harm.\n\n### 2.3. Roles and succession\nIdentify command, personnel accountability, communications, medical assistance and reception of support. Apply and announce succession when necessary. Rank or later arrival must not create contradictory orders.\n\nAssigned roles do not remove every member's duty to observe and report danger. State concrete changed conditions or unsafe feasibility promptly.\n\n### 2.4. A shared picture\nTrack important changes in people, capability, boundaries and outstanding requests. Early reports become outdated. Highlight changes and implications rather than burying new warnings in repeated detail. Command depends on information quality, not device counts alone."
+      },
+      "sourceIds": [
+        "CSC021",
+        "CSC011"
+      ]
+    },
+    {
+      "id": "FPU-11-03",
+      "title": {
+        "vi": "3. Bảo vệ ban đầu và hiểm họa nổ",
+        "en": "3. Initial protection and explosive hazards"
+      },
+      "body": {
+        "vi": "### 3.1. Tránh tạo thêm người bị hại\nPhản ứng ban đầu phải tính nguy cơ đang tiếp diễn, lối tiếp cận và khả năng hỗ trợ. Không lao tới người bị thương hoặc vật lạ khi chưa hiểu nguy hiểm đối với người cứu. Huy động người có nhiệm vụ, báo vị trí và thực hiện phần bảo vệ trong năng lực theo phương án đã được huấn luyện.\n\nHành động cần đủ linh hoạt để bảo vệ nhưng không tùy tiện. Những động tác di chuyển, đưa người ra khỏi nguy hiểm và đáp ứng trong môi trường bạo lực phải được tập trực tiếp dưới giám sát; đọc một bài học không chứng minh tổ đã đủ năng lực thực hiện chúng.\n\n### 3.2. Vật nghi nguy hiểm: Không tiếp cận để xác minh\nVới vật nghi là mìn, vật nổ chưa nổ hoặc thiết bị nguy hiểm, không chạm, nhấc, mở, di chuyển hoặc thu làm kỷ niệm. Không lại gần chụp ảnh hay xem ký hiệu để làm báo cáo chính xác hơn. Vật cũ, nhỏ hoặc bị đất che một phần vẫn có thể nguy hiểm; hình thức không cho phép cán bộ tự kết luận đã an toàn.\n\nCảnh báo người khác từ nơi an toàn, thông báo vị trí đã biết cùng điều quan sát được cho đầu mối chuyên trách, và làm theo hướng dẫn địa bàn. Không tới gần để đặt dấu. Không tháo biển cảnh báo hoặc dùng sự hiện diện của người khác làm bằng chứng khu vực không có hiểm họa.\n\n### 3.3. Nếu nghi đang ở khu vực có vật nổ\nNgừng di chuyển tùy tiện, cảnh báo và xin hướng dẫn chuyên trách theo huấn luyện. Không tự dò đường, bới đất hoặc lần theo lối tưởng an toàn từ một mô tả chung. Việc cứu người trong khu nghi nhiễm cần phương án chuyên môn; không tạo thêm người mắc nạn bằng nỗ lực tự phát.\n\nHồ sơ vị trí và cảnh báo phải chuyển tới người tiếp tục nhiệm vụ để tránh họ lặp nguy cơ. Không tự mở lại tuyến hoặc cho người đi qua chỉ vì chưa thấy sự cố trong một khoảng thời gian.\n\n### 3.4. Sau tiếng nổ hoặc sự cố\nCòn có thể có cháy, vật chưa nổ, kết cấu hỏng và nguy cơ tiếp diễn. Không tập trung đông người quanh hiện trường để nhìn hoặc quay video. Giữ khả năng tiếp cận lực lượng cứu nạn, bảo vệ người không có nhiệm vụ và nhận hướng dẫn. Cán bộ không có chuyên môn không xử lý vật nổ để lấy vật chứng; an toàn và thu thập chứng cứ phải được phối hợp đúng người.",
+        "en": "### 3.1. Avoid additional casualties\nConsider continuing danger, access and support before approaching casualties or unusual objects. Activate assigned responders, report location and provide protective assistance within trained capability.\n\nDanger-area movement and casualty extraction require supervised practical learning. Flexibility is not improvisation without competence, and reading does not certify a team.\n\n### 3.2. Do not approach to identify\nDo not touch, lift, open, move or collect suspected mines, unexploded ordnance or hazardous devices. Do not approach for photographs or markings. Age, small size or partial burial does not establish safety.\n\nWarn others from safety, report the known location and observations, and follow specialist direction. Do not approach to mark an object or remove warning signs. Other people's presence does not establish a hazard-free area.\n\n### 3.3. Suspected hazardous ground\nStop unplanned movement, warn and seek specialist guidance under local training. Do not probe, dig or improvise a safe path from general advice. Rescue in suspected contaminated ground requires competent planning.\n\nTransfer warnings and locations to subsequent teams. Neither time without an incident nor an absence of visible objects authorizes reopening an area.\n\n### 3.4. After an explosion\nFire, unexploded items, structural damage and continuing threats may remain. Prevent unnecessary gathering and recording, preserve rescue access and obtain direction. Unqualified officers must not handle explosives to collect evidence. Coordinate safety and investigation through competent actors."
+      },
+      "sourceIds": [
+        "UNMAS"
+      ]
+    },
+    {
+      "id": "FPU-11-04",
+      "title": {
+        "vi": "4. Thương tích, kiểm đếm và hỗ trợ chuyên trách",
+        "en": "4. Casualties, accountability and specialist support"
+      },
+      "body": {
+        "vi": "### 4.1. Gọi y tế sớm và đúng nhu cầu\nKhi có thương tích hoặc người không đáp ứng, kích hoạt hỗ trợ y tế sớm, nêu vị trí, số người, tình trạng và nguy cơ tiếp cận. Sơ cứu chỉ thực hiện khi an toàn trong năng lực đã học. Không trì hoãn gọi để tự chẩn đoán hoặc chờ xác định ai chịu chi phí, trách nhiệm.\n\nNhân viên y tế cần biết điều quan sát và can thiệp đã làm, không chỉ tên sự cố. Thay đổi đáp ứng, thở hoặc chảy máu phải được cập nhật. Những quy trình chuyên sâu và phân loại nhiều nạn nhân cần đào tạo, người có trách nhiệm; không tự tạo thuật toán từ bài đọc.\n\n### 4.2. Kiểm đếm hơn là đếm tổng số\nĐối chiếu từng người, nơi được biết cuối, nhiệm vụ được giao và tình trạng. Tổng số có vẻ đủ vẫn có thể nhầm nếu tính khách hoặc người đơn vị khác. Người bị chuyển y tế, tách làm nhiệm vụ hoặc tiếp quản bởi nhóm khác cần được ghi và xác nhận.\n\nKhông tự cho người tản ra tìm thành viên chưa xác định khi điều kiện nguy hiểm chưa được quản lý. Báo chính xác điều biết và điều chưa biết để chỉ huy tổ chức tìm, cứu hoặc phối hợp phù hợp. Bỏ trống một tên vì nghĩ người đó sẽ tự về làm mất cơ hội hỗ trợ.\n\n### 4.3. Nêu khả năng còn lại\nSau sự cố, chỉ huy phải biết năng lực thực tế: Quân số đủ điều kiện, liên lạc, phương tiện, y tế, mức mệt và nhiệm vụ còn giữ. Có thể còn nhiều người nhưng thiếu người chỉ huy hoặc phương tiện quan trọng. Không dùng một tỷ lệ chung để khẳng định đơn vị tiếp tục mọi nhiệm vụ.\n\nHỗ trợ cần được yêu cầu theo phần việc: Y tế, cứu nạn, xử lý vật nổ, tăng cường an ninh hoặc phương tiện. Yêu cầu rõ giúp đầu mối huy động đúng, đồng thời nêu điều kiện để tiếp nhận an toàn.\n\n### 4.4. Bàn giao có xác nhận\nKhi chuyên gia hoặc lực lượng khác đến, cung cấp tình hình, nguy cơ, việc đã làm, người còn liên quan và giới hạn thông tin. Xác định ai tiếp quản phần nào; không coi họ xuất hiện là mọi trách nhiệm đã chuyển. Người đang được chăm sóc và người do UN kiểm soát cần được bàn giao rõ để không mất giám sát trong quá trình nhiều bên cùng tham gia.",
+        "en": "### 4.1. Early, appropriate medical activation\nReport location, casualty numbers, condition and access hazards promptly. Provide first aid only when safe and within training. Do not delay activation while diagnosing or resolving administrative responsibility.\n\nDescribe observations, interventions and changes in responsiveness, breathing or bleeding. Advanced care and multiple-casualty triage require their own training and responsible personnel.\n\n### 4.2. Account for individuals\nReconcile names, last-known locations, assignments and condition. A plausible total can include visitors or another unit's members. Medical evacuation, task separation and acceptance by another group require records and confirmation.\n\nDo not send members on uncontrolled searches through unmanaged danger. Report knowledge and gaps for organized response rather than assuming a missing person will return.\n\n### 4.3. Remaining capability\nEstablish fit personnel, command, communications, transport, medical support, fatigue and continuing duties. Staffing percentages can conceal critical role or equipment gaps.\n\nRequest support by function—medical, rescue, explosive-hazard response, security or transport—with conditions for safe reception.\n\n### 4.4. Confirm handover\nBrief arriving specialists on conditions, risks, actions, affected people and uncertainty. Establish which responsibilities transfer; arrival alone does not transfer everything. Maintain confirmed care and custody during multi-actor response."
+      },
+      "sourceIds": [
+        "CSC011",
+        "POLICY"
+      ]
+    },
+    {
+      "id": "FPU-11-05",
+      "title": {
+        "vi": "5. Điều chỉnh, ngừng phần việc và phối hợp",
+        "en": "5. Adjustment, disengagement and coordination"
+      },
+      "body": {
+        "vi": "### 5.1. Quyết định dựa trên mục tiêu và điều kiện\nChỉ huy cần so sánh tiếp tục, thay cách thực hiện, tạm dừng, rời khu vực hoặc xin năng lực khác theo thẩm quyền. Không tiếp tục chỉ để tránh bị xem là lùi bước; cũng không tự rời nhiệm vụ bảo vệ đang tiếp diễn mà không báo và tổ chức chuyển tiếp. Mục đích là giảm hại và giữ khả năng thực hiện mandate.\n\nMột phương án cần tính cả người bị ảnh hưởng, thương tích, liên lạc và tác động tới đơn vị đang phối hợp. Sự cố xảy ra ở một bộ phận có thể làm thay đổi nhiệm vụ của nhiều bên. Phải báo ý nghĩa thay đổi, không chỉ thông báo đã đổi vị trí.\n\n### 5.2. Không dùng công thức chung cho mọi tình huống\nCách điều chỉnh hoặc tách khỏi tiếp xúc nguy hiểm phụ thuộc loại đe dọa, địa bàn, nguồn lực và lệnh. Các đội hình, thứ tự và động tác cần được huấn luyện trực tiếp theo phương án được phép. Không lấy một sơ đồ trong tài liệu cũ làm hướng dẫn đủ để xử lý một sự cố thực tế.\n\nMọi phần sử dụng vũ lực vẫn cần căn cứ và giới hạn. Không dùng thay đổi nhiệm vụ để bỏ báo cáo vũ lực, thương tích hoặc hại dân sự; không truy tìm người gây hại theo ý riêng khi nhiệm vụ chính đang cần bảo vệ.\n\n### 5.3. Phối hợp quân sự và đối tác\nNếu mức nguy cơ vượt năng lực cảnh sát, báo và kích hoạt cơ chế phối hợp phái bộ. Chuyển trách nhiệm phải có quyết định, phạm vi, thông tin, người chỉ huy và cách báo. Cảnh sát và quân sự có vai trò bổ sung; cùng hiện diện không có nghĩa tự dùng chung mọi quyền hoặc DUF/ROE.\n\nĐối tác sở tại cũng phải được phối hợp theo cơ chế và đánh giá nguy cơ. Không bàn giao người, tài sản hoặc nhiệm vụ chỉ để giảm áp lực mà chưa có căn cứ và bảo đảm phù hợp.\n\n### 5.4. Truyền quyết định tới người thực hiện\nLệnh điều chỉnh cần ngắn, rõ việc thay, mục đích, giới hạn và người nhận. Xác nhận hiểu ở điểm quan trọng, cập nhật phiên bản và thông báo bên chịu ảnh hưởng. Giữ hồ sơ để có thể truy lại ai quyết định dựa trên điều gì; không chờ sau sự cố mới cố ghép các lời kể thành một trình tự chắc chắn giả.",
+        "en": "### 5.1. Review the objective and conditions\nConsider continuation, changed methods, pause, relocation or additional capability within authority. Neither avoiding the appearance of retreat nor escaping pressure justifies an unsafe choice or unreported abandonment of continuing protection.\n\nAssess effects on affected people, casualties, communications and partners. One sub-unit's incident can alter several actors' tasks. Explain implications as well as changed location.\n\n### 5.2. No universal formula\nDisengagement or adjustment depends on threat, setting, resources and orders. Formations and physical procedures require direct authorized training. A historical diagram is insufficient for a live event.\n\nForce limits and incident reporting continue. Do not pursue personal objectives while protection responsibilities remain unmet.\n\n### 5.3. Military and partner coordination\nActivate mission arrangements where threats exceed police capability. Responsibility transitions require authorized decisions, scope, information, command and reporting. Co-presence does not merge police and military powers or force rules.\n\nHost-State cooperation also requires safeguards. Do not transfer people, property or duties simply to reduce pressure.\n\n### 5.4. Communicate changes\nState changed tasks, purpose, limits and recipients. Confirm understanding, control versions and inform affected partners. Preserve the decision basis rather than reconstructing false certainty afterwards."
+      },
+      "sourceIds": [
+        "BREAK",
+        "POLICY",
+        "CSC012"
+      ]
+    },
+    {
+      "id": "FPU-11-06",
+      "title": {
+        "vi": "6. Sau sự cố: Hồ sơ, phục hồi và học tập",
+        "en": "6. After an incident: Records, recovery and learning"
+      },
+      "body": {
+        "vi": "### 6.1. Báo sự kiện khách quan\nGhi thời gian, vị trí trong phạm vi cần thiết, diễn biến, quan sát, quyết định, hành động, thương tích và nhu cầu tiếp theo. Phân biệt điều biết lúc quyết với thông tin chỉ xuất hiện sau đó. Khi chưa rõ nguyên nhân, dùng từ thể hiện mức chắc chắn thay vì kết luận về chủ thể hoặc loại tấn công.\n\nBáo khẩn, báo sử dụng vũ lực, thương vong và hại dân sự theo cơ chế tương ứng. Bản tổng hợp sau không thay thông báo phải gửi ngay. Không thống nhất lời kể để làm nhẹ sự cố hoặc sửa nhật ký để tạo hình ảnh đáp ứng hoàn hảo.\n\n### 6.2. Bảo toàn thông tin và hiện trường\nGiữ hồ sơ, ghi nhận trang bị và chuyển tài liệu theo đầu mối. Không tự xử lý vật nghi nổ để lấy bằng chứng; không đưa ảnh người bị hại lên nhóm không có nhiệm vụ. Bảo toàn hiện trường không được trở thành lý do chậm cứu người; các ưu tiên phải được phối hợp với lực lượng có trách nhiệm.\n\n### 6.3. Phục hồi năng lực và con người\nĐánh giá quân số, thiết bị, vật tư, sức khỏe và mệt mỏi trước khi xác nhận sẵn sàng trở lại. Trang bị có vẻ nguyên vẹn vẫn có thể cần kiểm tra sau va đập, nhiệt hoặc sự cố. Người đã tham gia cần cơ hội chăm sóc y tế, nghỉ và hỗ trợ tâm lý theo nhu cầu, không buộc kể lại cảm xúc trước tập thể.\n\nRút kinh nghiệm tác nghiệp tập trung quyết định và công việc, khác với chăm sóc tâm lý. Giữ riêng tư, không gán nhãn người có phản ứng căng thẳng và không dùng im lặng làm bằng chứng họ không bị ảnh hưởng.\n\n### 6.4. Bài học phải được kiểm chứng\nTìm điểm đã hoạt động và điểm thiếu: Nhận cảnh báo, hiểu lệnh, kiểm đếm, tiếp cận y tế, nhận tăng cường hoặc chuyển trách nhiệm. Giao biện pháp sửa, người phụ trách, nguồn lực và lần kiểm chứng. Nếu lỗi là đầu mối không nhận tin, cần sửa kênh và xác nhận; chỉ nhắc bình tĩnh hơn sẽ không đủ.\n\nNăng lực cần đạt là nhận biết sớm, báo có căn cứ, bảo vệ trong giới hạn, gọi đúng hỗ trợ và duy trì trách nhiệm tới phục hồi. Các kỹ thuật đáp ứng sự cố nguy hiểm phải được huấn luyện thực hành riêng, dưới người có năng lực và biện pháp an toàn phù hợp.",
+        "en": "### 6.1. Objective reporting\nRecord timing, relevant location, events, observations, decisions, action, casualties and further needs. Distinguish contemporaneous knowledge from later information. Use appropriate uncertainty rather than premature attribution.\n\nUrgent, force, casualty and civilian-harm reporting retain their own requirements. A later summary does not replace immediate notification. Do not coordinate accounts or alter logs to minimize the event.\n\n### 6.2. Preserve information safely\nRetain records and equipment information through authorized channels. Unqualified personnel must not handle suspected explosives for evidence. Restrict casualty images and sensitive data. Coordinate evidence preservation without delaying lifesaving assistance.\n\n### 6.3. Recover people and capability\nReassess personnel, equipment, supplies, health and fatigue before return to readiness. Apparently intact equipment may need post-impact or heat checks. Provide access to care, rest and needs-based psychological support without forced emotional disclosure.\n\nOperational review differs from psychological care. Protect privacy and avoid assuming silence means no impact.\n\n### 6.4. Verify learning\nReview warning, orders, accounting, care, reinforcement and responsibility transfer. Assign correction, ownership, resources and verification. Communication failures require repaired channels and acknowledgement, not reminders alone.\n\nIntended understanding combines early recognition, grounded reporting, lawful protection, appropriate assistance and continuing responsibility. High-risk response techniques require separate supervised practical training."
+      },
+      "sourceIds": [
+        "CSC021",
+        "POLICY"
+      ]
+    }
+  ],
+  "source_ids": [
+    "ATTACK",
+    "POLICY",
+    "CSC021",
+    "CSC011",
+    "UNMAS",
+    "BREAK",
+    "CSC012"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "Force protection",
+      "definition": {
+        "vi": "Bảo vệ lực lượng trong thực hiện nhiệm vụ.",
+        "en": "Protection of personnel during assigned duties."
+      }
+    },
+    {
+      "term": "Flash report",
+      "definition": {
+        "vi": "Báo khẩn ban đầu về diễn biến quan trọng.",
+        "en": "Initial urgent report of a critical development."
+      }
+    },
+    {
+      "term": "Accountability",
+      "definition": {
+        "vi": "Đối chiếu từng người và trách nhiệm tiếp tục.",
+        "en": "Individual accounting and continuing responsibility."
+      }
+    },
+    {
+      "term": "DUF",
+      "definition": {
+        "vi": "Chỉ thị sử dụng vũ lực áp dụng tại phái bộ.",
+        "en": "Applicable mission Directive on Use of Force."
+      }
+    },
+    {
+      "term": "Handover",
+      "definition": {
+        "vi": "Bàn giao được người có trách nhiệm xác nhận.",
+        "en": "Transfer accepted by an accountable receiver."
+      }
+    }
+  ],
+  "diagram": null,
+  "contentVersion": "batch-05-expanded-v1-2026-10-29",
+  "sourceIntro": {
+    "vi": "Tài liệu nền, đối chiếu theo mục và ghi chú phiên bản. Lời giảng, bản Anh, câu hỏi và lời giải thích hình được biên soạn cho Handbook. Mã bài là cách tổ chức của Handbook.",
+    "en": "Foundational materials, section mapping and edition notes. Teaching, English text, questions and figure commentary are authored for the Handbook. Lesson numbering belongs to the Handbook."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Bản biên soạn đợt 5 ngày 29/10/2026, chờ người dùng duyệt; không phải ấn phẩm hoặc bản dịch chính thức UN. Nguồn theo mục chỉ nền kiến thức, không phải tuyên bố mọi câu là trích nguyên văn.",
+      "Nội dung không thay mandate, DUF, SOP và phương án hiện hành tại phái bộ; không tự trao quyền hoặc chứng nhận năng lực thực hành. Không kế thừa hướng dẫn chiến thuật, cự ly, tốc độ hoặc cơ chế quản trị cũ thành quy định chung.",
+      "Nguồn STM 2015 được đối chiếu với Policy on Formed Police Units 2024.14 và các bài CSC UNPOL 2026 phù hợp. Chỉ thị, trách nhiệm và quy trình áp dụng cần được xác nhận tại địa bàn. Hình giữ nguyên chữ gốc; lời giảng Việt–Anh xác định cách đọc trong bài.",
+      "UNMAS được đối chiếu qua nội dung web chính thức; gói không chứa bản PDF UNMAS. Nội dung chỉ dùng nguyên tắc tránh tiếp cận và can thiệp vật nghi nổ, không quy định cự ly an toàn hay thao tác dò, gỡ. Phải theo huấn luyện và hướng dẫn chuyên trách tại địa bàn."
+    ],
+    "en": [
+      "Batch 5 authored on 29 October 2026 for user review; not an official UN publication or translation. Section mapping identifies foundations, not verbatim support for every sentence.",
+      "Content does not replace applicable mandate, DUF, SOPs or plans and grants neither powers nor practical certification. Historical tactics, distances, speeds and governance are not adopted as universal requirements.",
+      "STM 2015 foundations are cross-checked with FPU Policy 2024.14 and relevant UNPOL CSC 2026 lessons. Applicable directions, responsibilities and procedures require local confirmation. Figures preserve original wording with bilingual teaching commentary.",
+      "UNMAS was consulted through official web content; its PDF is not included. Teaching uses non-approach and non-interference principles without prescribing safety distances or probing/disposal techniques. Follow local training and specialist direction."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bài học hướng dẫn nhận diện sự cố, báo khẩn, bảo vệ người, huy động hỗ trợ và duy trì trách nhiệm tới khi khôi phục. Trọng tâm là phán đoán có căn cứ trong điều kiện thông tin chưa đầy đủ.",
+      "en": "Recognize incidents, report urgently, protect people, activate support and sustain accountability through recovery, using reasoned judgment under uncertainty."
+    },
+    "subtitle": {
+      "vi": "Nhận diện đúng · Bảo vệ sinh mạng · Phối hợp có trách nhiệm",
+      "en": "Recognize accurately · Protect life · Coordinate accountably"
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích: Nhận diện sự cố và mục tiêu bảo vệ.",
+        "Giải thích: Thông tin khẩn và duy trì chỉ huy.",
+        "Giải thích: Bảo vệ ban đầu và hiểm họa nổ.",
+        "Giải thích: Thương tích, kiểm đếm và hỗ trợ chuyên trách.",
+        "Giải thích: Điều chỉnh, ngừng phần việc và phối hợp.",
+        "Giải thích: Sau sự cố: Hồ sơ, phục hồi và học tập."
+      ],
+      "en": [
+        "Explain: Recognizing incidents and protective objectives.",
+        "Explain: Urgent information and command continuity.",
+        "Explain: Initial protection and explosive hazards.",
+        "Explain: Casualties, accountability and specialist support.",
+        "Explain: Adjustment, disengagement and coordination.",
+        "Explain: After an incident: Records, recovery and learning."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc sáu mục trong tab Nội dung bài học và lời giảng kèm hình; bấm hình để xem lớn. Làm 12 câu kiểm tra nhận thức, đọc giải thích và trở lại mục liên quan. VI/EN giữ lựa chọn trong phiên; tải lại trang bắt đầu lại.",
+      "en": "Read six content sections and figure commentary; click figures to enlarge. Complete 12 knowledge questions, review explanations and revisit relevant sections. VI/EN retains selections in the session; reloading starts again."
+    }
+  },
+  "figures": [
+    {
+      "chapter": 1,
+      "image": "assets/lesson-figures/batch-05/CSC021-p18.png",
+      "caption": {
+        "vi": "Hình 1. Báo khẩn để huy động hành động",
+        "en": "Figure 1. Flash reporting for action"
+      },
+      "alt": {
+        "vi": "Hình 1. Báo khẩn để huy động hành động",
+        "en": "Figure 1. Flash reporting for action"
+      },
+      "explanation": {
+        "vi": "Hãy chú ý dòng cuối: Báo khẩn được gửi trước khi có đủ mọi chi tiết. Khi báo, phân biệt điều quan sát được và điều đang xác minh; thông tin về nguy cơ, người bị ảnh hưởng và hỗ trợ cần giúp người nhận quyết định. Các ví dụ trên hình không phải danh sách khép kín.",
+        "en": "Notice the final statement: An early alert precedes complete details. Separate observations from uncertainty and provide danger, affected people and support needs. The examples are not an exhaustive list."
+      },
+      "sourceLabel": "United Nations Police, FPU Command Staff Course · Mission Reporting · 2026",
+      "pdfPage": 18
+    }
+  ],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft",
+  "figureZoom": true
+}

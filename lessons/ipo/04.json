@@ -1,0 +1,519 @@
+{
+  "schemaVersion": 2,
+  "id": "IPO-04",
+  "area": "ipo",
+  "groupKey": "IPO-M2",
+  "group": {
+    "vi": "Giám sát, hướng dẫn và cố vấn",
+    "en": "Monitoring, mentoring and advising"
+  },
+  "title": {
+    "vi": "Kỹ năng hướng dẫn, kèm cặp và cố vấn",
+    "en": "Mentoring, coaching and professional advice"
+  },
+  "summary": {
+    "vi": "Bài học IPO-04 tập trung vào chủ đề: Kỹ năng hướng dẫn, kèm cặp và cố vấn. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+    "en": "Lesson IPO-04 covers the following topic: Mentoring, coaching and professional advice. It connects concepts with professional responsibilities."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "U39",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-016%20UNPOL%20STM%20Lesson%208%20UNPOL%20Monitoring,%20Mentoring%20and%20Advising.pdf",
+  "order": 202,
+  "sections": [
+    {
+      "id": "IPO-04-01",
+      "title": {
+        "vi": "1. Chọn đúng vai trò",
+        "en": "1. Choose the correct role"
+      },
+      "body": {
+        "vi": "Mentoring hỗ trợ phát triển qua quan hệ làm việc và phản hồi; advising đưa phân tích, lựa chọn và khuyến nghị cho quyết định. Phân biệt với ra lệnh, làm thay hoặc chỉ giảng lý thuyết. Thỏa thuận kỳ vọng và giới hạn ngay từ đầu.\n\n### 1.1. Thống nhất quan hệ làm việc\n\nLàm rõ người ra quyết định, lĩnh vực IPO hỗ trợ, nội dung có thể quan sát và cách bảo mật. Cùng xác định mục tiêu, nhịp trao đổi và cách nêu bất đồng. Mentoring phù hợp phát triển năng lực qua quan hệ liên tục; advising có thể tập trung một quyết định hoặc vấn đề chuyên môn. Trong cả hai, người hỗ trợ phải biết giới hạn chuyên môn của mình và tìm đồng nghiệp phù hợp khi cần.",
+        "en": "Mentoring supports development through a working relationship, practice and feedback. Advising offers analysis, options and recommendations for decisions. Neither automatically means command, doing the work for someone or delivering a lecture. Agree on expectations and limits at the outset.\n\n### 1.1. Establish the working relationship\n\nClarify who decides, the IPO’s support area, what may be observed and confidentiality arrangements. Agree on objectives, contact frequency and how disagreement is raised. Mentoring supports development through a continuing relationship; advice may focus on a particular decision or technical issue. Both require awareness of the adviser’s own limits. Refer to suitable expertise when needed instead of using international status as a substitute for subject knowledge."
+      },
+      "sourceIds": [
+        "U39"
+      ]
+    },
+    {
+      "id": "IPO-04-02",
+      "title": {
+        "vi": "2. Xác định mục tiêu học",
+        "en": "2. Set learning objectives together"
+      },
+      "body": {
+        "vi": "Bắt đầu từ nhiệm vụ và biểu hiện cần thay đổi. Cùng đối tác xem kinh nghiệm, nguồn lực và rào cản. Không lấy việc đối tác chưa làm theo cách của mình để kết luận họ thiếu chuyên nghiệp.",
+        "en": "Start from the task and the performance to improve. Examine experience, resources and barriers with the partner. A different working method does not alone demonstrate unprofessional practice."
+      },
+      "sourceIds": [
+        "U39"
+      ]
+    },
+    {
+      "id": "IPO-04-03",
+      "title": {
+        "vi": "3. Hướng dẫn qua thực hành",
+        "en": "3. Develop through practice"
+      },
+      "body": {
+        "vi": "Giải thích mục tiêu, minh họa phù hợp, để đối tác thực hiện và phản hồi dựa vào quan sát. Tăng mức tự chủ khi năng lực được thể hiện. Nếu IPO luôn viết hộ báo cáo, kết quả trước mắt có thể tốt nhưng năng lực chưa được chuyển giao.\n\n### 3.1. Chuyển từ biết sang tự làm\n\nChia một nhiệm vụ thành các phần có thể quan sát. Cho đối tác giải thích cách làm, thực hành và tự nhận xét trước khi góp ý. Phản hồi nên gắn hành vi với kết quả, không gắn nhãn con người. Luyện lại điểm cần sửa và giảm hỗ trợ khi họ thực hiện ổn định. Kết thúc bằng cách áp dụng trong công việc thật và thời điểm xem lại. Học được thể hiện khi đối tác tự xử lý được việc tương tự, không chỉ lặp lời hướng dẫn.",
+        "en": "Explain the objective, demonstrate appropriately, let the partner perform and provide observation-based feedback. Increase autonomy as competence is demonstrated. If the IPO always writes the report, the immediate product may improve without transferring capability.\n\n### 3.1. Move from knowing to independent performance\n\nBreak the task into observable parts. Let the partner explain, practise and reflect before offering feedback. Connect behaviour with its effect rather than labelling the person. Repeat the part needing correction and reduce assistance as performance becomes consistent. Agree on workplace application and review. Learning is demonstrated when the partner can handle a comparable task with appropriate independence, not merely repeat the mentor’s explanation or reproduce a document prepared by the IPO."
+      },
+      "sourceIds": [
+        "U39"
+      ]
+    },
+    {
+      "id": "IPO-04-04",
+      "title": {
+        "vi": "4. Cố vấn bằng lựa chọn",
+        "en": "4. Advise through options"
+      },
+      "body": {
+        "vi": "Nêu vấn đề, bằng chứng, phương án, tác động và hạn chế. Phân biệt điều bắt buộc theo chuẩn với điều là lựa chọn quản lý. Khuyến nghị phải tính khả năng duy trì; không đề xuất hệ thống mà đối tác không vận hành được khi hỗ trợ kết thúc.\n\n### 4.1. Trình bày khuyến nghị có lựa chọn\n\nMột bản tư vấn ngắn có thể dùng thứ tự: Vấn đề; dữ kiện; lựa chọn; tác động và nguồn lực; đề xuất; điều kiện cần xác nhận. Đưa ra lựa chọn khả thi giúp người quyết định cân nhắc, thay vì chỉ nghe một đáp án. Nếu luật hoặc chuẩn bắt buộc đã quy định, phải chỉ rõ đó là giới hạn. Nếu là phương án quản lý, nêu căn cứ và phần có thể điều chỉnh.",
+        "en": "Set out the problem, evidence, options, effects and limits. Distinguish mandatory standards from management choices. Recommendations must be sustainable after support ends; do not propose a system the partner cannot operate.\n\n### 4.1. Present options in professional advice\n\nA concise advice note can cover the issue, evidence, options, effects and resources, recommendation and matters needing confirmation. Feasible alternatives help the decision-maker weigh choices rather than receive a single unexplained answer. Identify binding law or standards as constraints. Where a recommendation concerns management discretion, explain the basis and what can be adapted. Record the resulting decision and follow-up without implying that acceptance of the advice transfers command responsibility to the IPO."
+      },
+      "sourceIds": [
+        "U39"
+      ]
+    },
+    {
+      "id": "IPO-04-05",
+      "title": {
+        "vi": "5. Quan hệ và bất đồng",
+        "en": "5. Manage relationships and disagreement"
+      },
+      "body": {
+        "vi": "Lắng nghe lý do, nhận biết quyền lực và bối cảnh văn hóa nhưng không thỏa hiệp với vi phạm. Bất đồng chuyên môn cần giải thích và báo qua cơ chế phù hợp, không biến thành đối đầu cá nhân. Ghi thỏa thuận và theo dõi.",
+        "en": "Listen to reasons and recognize power and cultural context without compromising on violations. Explain professional disagreement and refer through proper mechanisms rather than personal confrontation. Record agreements and follow-up."
+      },
+      "sourceIds": [
+        "U39"
+      ]
+    },
+    {
+      "id": "IPO-04-06",
+      "title": {
+        "vi": "6. Tổ chức buổi kèm cặp",
+        "en": "6. Structure a mentoring session"
+      },
+      "body": {
+        "vi": "Mở bằng công việc cần cải thiện, để đối tác giải thích cách làm, quan sát thực hành phù hợp rồi phản hồi hành vi cụ thể. Kết thúc bằng việc họ tự trình bày điều sẽ áp dụng và bằng chứng để xem lại. Không làm thay toàn bộ rồi đánh giá họ đã tiến bộ vì sản phẩm cuối đẹp hơn.",
+        "en": "Begin with the work to improve. Let the partner explain and demonstrate, observe suitable practice, and give feedback on specific behaviour. Finish with the partner explaining what they will apply and what evidence will show progress. An improved product created entirely by the mentor does not demonstrate learning."
+      },
+      "sourceIds": [
+        "U39"
+      ]
+    },
+    {
+      "id": "IPO-04-07",
+      "title": {
+        "vi": "7. Một bản advice có chất lượng",
+        "en": "7. Write quality advice"
+      },
+      "body": {
+        "vi": "Nêu vấn đề, căn cứ, lựa chọn, lợi ích/rủi ro, nguồn lực và đề xuất. Tách chuẩn bắt buộc với điều là khuyến nghị. Nếu không đủ bằng chứng, chỉ ra điều cần kiểm chứng và quyết định nào chưa thể đưa ra. Sự tự tin trong trình bày không thay bằng chứng hoặc thẩm quyền.",
+        "en": "Present the issue, basis, options, benefits, risks, resources and recommendation. Label mandatory requirements separately from advice. If evidence is insufficient, identify what to verify and which decisions cannot yet be supported. Confidence in delivery does not replace evidence or authority."
+      },
+      "sourceIds": [
+        "U39"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "U39",
+      "title": "Lesson 8 UNPOL Monitoring, Mentoring and Advising",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-016%20UNPOL%20STM%20Lesson%208%20UNPOL%20Monitoring,%20Mentoring%20and%20Advising.pdf",
+      "year": "2021",
+      "publisher": "United Nations UNPOL STM",
+      "format": "pdf",
+      "pages": 74,
+      "pdf_name": "U39.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Mentoring nghĩa là IPO làm thay toàn bộ.",
+        "en": "Mentoring means the IPO does all the work."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Mục tiêu là đối tác tự tăng năng lực.",
+        "en": "The aim is the partner’s own competence."
+      }
+    },
+    {
+      "question": {
+        "vi": "Advising cần phân tích lựa chọn và tác động.",
+        "en": "Advising needs analysis of options and effects."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Khuyến nghị phải có căn cứ.",
+        "en": "Recommendations require a basis."
+      }
+    },
+    {
+      "question": {
+        "vi": "Cách làm khác luôn chứng minh đối tác thiếu chuyên nghiệp.",
+        "en": "A different method always proves unprofessional practice."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Cần xét chuẩn, bối cảnh và kết quả.",
+        "en": "Consider standards, context and results."
+      }
+    },
+    {
+      "question": {
+        "vi": "Tăng tự chủ khi năng lực được thể hiện là phù hợp.",
+        "en": "Increasing autonomy as competence is demonstrated is appropriate."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Thực hành của đối tác là bằng chứng quan trọng.",
+        "en": "The partner’s practice is important evidence."
+      }
+    },
+    {
+      "question": {
+        "vi": "Tự tin trình bày có thể thay bằng chứng.",
+        "en": "Confident presentation can replace evidence."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Sự tự tin không tạo căn cứ hoặc thẩm quyền.",
+        "en": "Confidence creates neither evidence nor authority."
+      }
+    },
+    {
+      "question": {
+        "vi": "Phải tách chuẩn bắt buộc với khuyến nghị quản lý.",
+        "en": "Distinguish mandatory standards from management advice."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Người nhận cần hiểu quyền lựa chọn.",
+        "en": "Recipients need to understand their discretion."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Kèm cặp để đối tác phát triển qua thực hành, phản hồi?",
+        "en": "Which concept matches: Supporting partner development through practice and feedback?"
+      },
+      "options": [
+        {
+          "vi": "Advising",
+          "en": "Advising"
+        },
+        {
+          "vi": "Command",
+          "en": "Command"
+        },
+        {
+          "vi": "Mentoring",
+          "en": "Mentoring"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Mentoring: Kèm cặp để đối tác phát triển qua thực hành, phản hồi.",
+        "en": "Mentoring: Supporting partner development through practice and feedback."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Cung cấp phân tích và khuyến nghị cho quyết định?",
+        "en": "Which concept matches: Providing analysis and recommendations for decisions?"
+      },
+      "options": [
+        {
+          "vi": "Advising",
+          "en": "Advising"
+        },
+        {
+          "vi": "Command",
+          "en": "Command"
+        },
+        {
+          "vi": "Mentoring",
+          "en": "Mentoring"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Advising: Cung cấp phân tích và khuyến nghị cho quyết định.",
+        "en": "Advising: Providing analysis and recommendations for decisions."
+      }
+    }
+  ],
+  "updated": "2026-10-26",
+  "moduleId": "IPO-M2",
+  "moduleOrder": 2,
+  "lessonOrder": 2,
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "IPO-04-01",
+      "title": {
+        "vi": "1. Chọn đúng vai trò",
+        "en": "1. Choose the correct role"
+      },
+      "body": {
+        "vi": "Mentoring hỗ trợ phát triển qua quan hệ làm việc và phản hồi; advising đưa phân tích, lựa chọn và khuyến nghị cho quyết định. Phân biệt với ra lệnh, làm thay hoặc chỉ giảng lý thuyết. Thỏa thuận kỳ vọng và giới hạn ngay từ đầu.\n\n### 1.1. Thống nhất quan hệ làm việc\n\nLàm rõ người ra quyết định, lĩnh vực IPO hỗ trợ, nội dung có thể quan sát và cách bảo mật. Cùng xác định mục tiêu, nhịp trao đổi và cách nêu bất đồng. Mentoring phù hợp phát triển năng lực qua quan hệ liên tục; advising có thể tập trung một quyết định hoặc vấn đề chuyên môn. Trong cả hai, người hỗ trợ phải biết giới hạn chuyên môn của mình và tìm đồng nghiệp phù hợp khi cần.",
+        "en": "Mentoring supports development through a working relationship, practice and feedback. Advising offers analysis, options and recommendations for decisions. Neither automatically means command, doing the work for someone or delivering a lecture. Agree on expectations and limits at the outset.\n\n### 1.1. Establish the working relationship\n\nClarify who decides, the IPO’s support area, what may be observed and confidentiality arrangements. Agree on objectives, contact frequency and how disagreement is raised. Mentoring supports development through a continuing relationship; advice may focus on a particular decision or technical issue. Both require awareness of the adviser’s own limits. Refer to suitable expertise when needed instead of using international status as a substitute for subject knowledge."
+      },
+      "sourceIds": [
+        "U39"
+      ]
+    },
+    {
+      "id": "IPO-04-02",
+      "title": {
+        "vi": "2. Xác định mục tiêu học",
+        "en": "2. Set learning objectives together"
+      },
+      "body": {
+        "vi": "Bắt đầu từ nhiệm vụ và biểu hiện cần thay đổi. Cùng đối tác xem kinh nghiệm, nguồn lực và rào cản. Không lấy việc đối tác chưa làm theo cách của mình để kết luận họ thiếu chuyên nghiệp.",
+        "en": "Start from the task and the performance to improve. Examine experience, resources and barriers with the partner. A different working method does not alone demonstrate unprofessional practice."
+      },
+      "sourceIds": [
+        "U39"
+      ]
+    },
+    {
+      "id": "IPO-04-03",
+      "title": {
+        "vi": "3. Hướng dẫn qua thực hành",
+        "en": "3. Develop through practice"
+      },
+      "body": {
+        "vi": "Giải thích mục tiêu, minh họa phù hợp, để đối tác thực hiện và phản hồi dựa vào quan sát. Tăng mức tự chủ khi năng lực được thể hiện. Nếu IPO luôn viết hộ báo cáo, kết quả trước mắt có thể tốt nhưng năng lực chưa được chuyển giao.\n\n### 3.1. Chuyển từ biết sang tự làm\n\nChia một nhiệm vụ thành các phần có thể quan sát. Cho đối tác giải thích cách làm, thực hành và tự nhận xét trước khi góp ý. Phản hồi nên gắn hành vi với kết quả, không gắn nhãn con người. Luyện lại điểm cần sửa và giảm hỗ trợ khi họ thực hiện ổn định. Kết thúc bằng cách áp dụng trong công việc thật và thời điểm xem lại. Học được thể hiện khi đối tác tự xử lý được việc tương tự, không chỉ lặp lời hướng dẫn.",
+        "en": "Explain the objective, demonstrate appropriately, let the partner perform and provide observation-based feedback. Increase autonomy as competence is demonstrated. If the IPO always writes the report, the immediate product may improve without transferring capability.\n\n### 3.1. Move from knowing to independent performance\n\nBreak the task into observable parts. Let the partner explain, practise and reflect before offering feedback. Connect behaviour with its effect rather than labelling the person. Repeat the part needing correction and reduce assistance as performance becomes consistent. Agree on workplace application and review. Learning is demonstrated when the partner can handle a comparable task with appropriate independence, not merely repeat the mentor’s explanation or reproduce a document prepared by the IPO."
+      },
+      "sourceIds": [
+        "U39"
+      ]
+    },
+    {
+      "id": "IPO-04-04",
+      "title": {
+        "vi": "4. Cố vấn bằng lựa chọn",
+        "en": "4. Advise through options"
+      },
+      "body": {
+        "vi": "Nêu vấn đề, bằng chứng, phương án, tác động và hạn chế. Phân biệt điều bắt buộc theo chuẩn với điều là lựa chọn quản lý. Khuyến nghị phải tính khả năng duy trì; không đề xuất hệ thống mà đối tác không vận hành được khi hỗ trợ kết thúc.\n\n### 4.1. Trình bày khuyến nghị có lựa chọn\n\nMột bản tư vấn ngắn có thể dùng thứ tự: Vấn đề; dữ kiện; lựa chọn; tác động và nguồn lực; đề xuất; điều kiện cần xác nhận. Đưa ra lựa chọn khả thi giúp người quyết định cân nhắc, thay vì chỉ nghe một đáp án. Nếu luật hoặc chuẩn bắt buộc đã quy định, phải chỉ rõ đó là giới hạn. Nếu là phương án quản lý, nêu căn cứ và phần có thể điều chỉnh.",
+        "en": "Set out the problem, evidence, options, effects and limits. Distinguish mandatory standards from management choices. Recommendations must be sustainable after support ends; do not propose a system the partner cannot operate.\n\n### 4.1. Present options in professional advice\n\nA concise advice note can cover the issue, evidence, options, effects and resources, recommendation and matters needing confirmation. Feasible alternatives help the decision-maker weigh choices rather than receive a single unexplained answer. Identify binding law or standards as constraints. Where a recommendation concerns management discretion, explain the basis and what can be adapted. Record the resulting decision and follow-up without implying that acceptance of the advice transfers command responsibility to the IPO."
+      },
+      "sourceIds": [
+        "U39"
+      ]
+    },
+    {
+      "id": "IPO-04-05",
+      "title": {
+        "vi": "5. Quan hệ và bất đồng",
+        "en": "5. Manage relationships and disagreement"
+      },
+      "body": {
+        "vi": "Lắng nghe lý do, nhận biết quyền lực và bối cảnh văn hóa nhưng không thỏa hiệp với vi phạm. Bất đồng chuyên môn cần giải thích và báo qua cơ chế phù hợp, không biến thành đối đầu cá nhân. Ghi thỏa thuận và theo dõi.",
+        "en": "Listen to reasons and recognize power and cultural context without compromising on violations. Explain professional disagreement and refer through proper mechanisms rather than personal confrontation. Record agreements and follow-up."
+      },
+      "sourceIds": [
+        "U39"
+      ]
+    },
+    {
+      "id": "IPO-04-06",
+      "title": {
+        "vi": "6. Tổ chức buổi kèm cặp",
+        "en": "6. Structure a mentoring session"
+      },
+      "body": {
+        "vi": "Mở bằng công việc cần cải thiện, để đối tác giải thích cách làm, quan sát thực hành phù hợp rồi phản hồi hành vi cụ thể. Kết thúc bằng việc họ tự trình bày điều sẽ áp dụng và bằng chứng để xem lại. Không làm thay toàn bộ rồi đánh giá họ đã tiến bộ vì sản phẩm cuối đẹp hơn.",
+        "en": "Begin with the work to improve. Let the partner explain and demonstrate, observe suitable practice, and give feedback on specific behaviour. Finish with the partner explaining what they will apply and what evidence will show progress. An improved product created entirely by the mentor does not demonstrate learning."
+      },
+      "sourceIds": [
+        "U39"
+      ]
+    },
+    {
+      "id": "IPO-04-07",
+      "title": {
+        "vi": "7. Một bản advice có chất lượng",
+        "en": "7. Write quality advice"
+      },
+      "body": {
+        "vi": "Nêu vấn đề, căn cứ, lựa chọn, lợi ích/rủi ro, nguồn lực và đề xuất. Tách chuẩn bắt buộc với điều là khuyến nghị. Nếu không đủ bằng chứng, chỉ ra điều cần kiểm chứng và quyết định nào chưa thể đưa ra. Sự tự tin trong trình bày không thay bằng chứng hoặc thẩm quyền.",
+        "en": "Present the issue, basis, options, benefits, risks, resources and recommendation. Label mandatory requirements separately from advice. If evidence is insufficient, identify what to verify and which decisions cannot yet be supported. Confidence in delivery does not replace evidence or authority."
+      },
+      "sourceIds": [
+        "U39"
+      ]
+    }
+  ],
+  "source_ids": [
+    "U39"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "Mentoring",
+      "definition": {
+        "vi": "Kèm cặp để đối tác phát triển qua thực hành, phản hồi",
+        "en": "Supporting partner development through practice and feedback"
+      }
+    },
+    {
+      "term": "Advising",
+      "definition": {
+        "vi": "Cung cấp phân tích và khuyến nghị cho quyết định",
+        "en": "Providing analysis and recommendations for decisions"
+      }
+    }
+  ],
+  "diagram": {
+    "type": "seq",
+    "items": [
+      {
+        "vi": "Thống nhất mục tiêu",
+        "en": "Agree objectives"
+      },
+      {
+        "vi": "Thực hành",
+        "en": "Practise"
+      },
+      {
+        "vi": "Phản hồi cụ thể",
+        "en": "Specific feedback"
+      },
+      {
+        "vi": "Tăng tự chủ",
+        "en": "Increase autonomy"
+      }
+    ],
+    "chapter": 1
+  },
+  "contentVersion": "4tab-2026-10-26",
+  "sourceIntro": {
+    "vi": "Các tài liệu dưới đây là nền tảng kiến thức của bài. Mở nguồn để đọc nội dung gốc; phần giải thích, sơ đồ học tập và câu hỏi được biên soạn cho Handbook.",
+    "en": "The materials below provide the lesson’s knowledge base. Open them for the original teaching material; explanations, instructional diagrams and questions are developed for the Handbook."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Hai bản Việt–Anh phục vụ học tập, không phải bản dịch chính thức của UN. Danh mục và thứ tự 48 bài là cách tổ chức học liệu của Handbook, không phải số bài chính thức của UN.",
+      "Bảng đối chiếu xác định tài liệu nền theo mục; không khẳng định mọi câu diễn giải là trích nguyên văn. Hình gốc ghi rõ tài liệu và trang PDF; sơ đồ học tập được ghi là biên soạn."
+    ],
+    "en": [
+      "The Vietnamese and English texts are for learning and are not official UN translations. The 48-lesson catalogue and numbering are the Handbook’s organization, not the official UN lesson count.",
+      "The mapping identifies source materials by section and does not present every explanation as a verbatim quotation. Original illustrations identify the material and PDF page; instructional diagrams are labelled as developed for the lesson."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bài học IPO-04 tập trung vào chủ đề: Kỹ năng hướng dẫn, kèm cặp và cố vấn. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+      "en": "Lesson IPO-04 covers the following topic: Mentoring, coaching and professional advice. It connects concepts with professional responsibilities."
+    },
+    "subtitle": {
+      "vi": "Học kiến thức, hiểu trách nhiệm và kiểm tra nhận thức.",
+      "en": "Learn the concepts, understand responsibilities and check your knowledge."
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích: Chọn đúng vai trò; Xác định mục tiêu học.",
+        "Giải thích: Hướng dẫn qua thực hành; Cố vấn bằng lựa chọn.",
+        "Giải thích: Quan hệ và bất đồng; Tổ chức buổi kèm cặp; Một bản advice có chất lượng.",
+        "Nhận diện cách hiểu sai và chọn nhận định có căn cứ trong kiểm tra nhận thức."
+      ],
+      "en": [
+        "Explain: Choose the correct role; Set learning objectives together.",
+        "Explain: Develop through practice; Advise through options.",
+        "Explain: Manage relationships and disagreement; Structure a mentoring session; Write quality advice.",
+        "Recognize misconceptions and select evidence-based statements in the knowledge check."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc các mục theo thứ tự trong tab nội dung, quan sát sơ đồ và hình, sau đó hoàn thành kiểm tra nhận thức. Chọn VI/EN để đổi ngôn ngữ; đáp án được giữ khi đổi ngôn ngữ trong phiên mở trang. Tải lại trang sẽ bắt đầu lại.",
+      "en": "Read the sections in order, study diagrams and illustrations, then complete the knowledge check. Use VI/EN to switch languages; answers are retained across language changes during the session. Reloading starts a new session."
+    }
+  },
+  "figures": [],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft"
+}

@@ -1,0 +1,717 @@
+{
+  "schemaVersion": 2,
+  "id": "FPU-06",
+  "area": "fpu",
+  "groupKey": "FPU-M5",
+  "group": {
+    "vi": "Quản lý trật tự công cộng",
+    "en": "Public order management"
+  },
+  "title": {
+    "vi": "Phòng cháy và xử lý sự cố cháy",
+    "en": "Fire prevention and initial fire response"
+  },
+  "summary": {
+    "vi": "Bài học kết nối phòng ngừa, báo động, sơ tán, giới hạn xử lý ban đầu, sử dụng bình và chăm sóc người bị ảnh hưởng. Trọng tâm là nhận diện nguy cơ và bảo vệ sinh mạng.",
+    "en": "Connect prevention, warning, evacuation, initial-response limits, extinguishers and casualty care, with life protection at the centre."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "FIRE",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-051%20Extinguishing%20Fire.pdf",
+  "order": 301,
+  "sections": [
+    {
+      "id": "FPU-06-01",
+      "title": {
+        "vi": "1. Nguy cơ cháy và nguyên tắc phòng ngừa",
+        "en": "1. Fire risks and prevention principles"
+      },
+      "body": {
+        "vi": "### 1.1. Cháy là sự cố an toàn, không chỉ là ngọn lửa\nTrong doanh trại và khi làm nhiệm vụ, cháy có thể đe dọa người, làm mất đường thoát, phá hủy thông tin liên lạc và gián đoạn bảo đảm. Khói, khí độc và nhiệt có thể gây hại trước khi ngọn lửa tới gần. Vì vậy, việc nhìn thấy một đám cháy nhỏ không đủ để kết luận môi trường xung quanh an toàn.\n\nNguồn nguy cơ thường gặp gồm thiết bị điện, bộ sạc, bếp, nhiên liệu, công việc sinh nhiệt và vật liệu để không đúng nơi. Trong hoạt động ngoài doanh trại, cần tính cả xe, nguồn điện tạm, chất dễ cháy và đường tiếp cận lực lượng chữa cháy. Cách đánh giá phải dựa vào điều kiện thực tế, không mặc định một khu vực đã an toàn chỉ vì chưa từng xảy ra sự cố.\n\n### 1.2. Tam giác cháy và cách hiểu đúng\nMột mô hình cơ bản liên hệ nhiên liệu, nguồn nhiệt và oxy. Kiểm soát một yếu tố có thể ngăn hoặc hạn chế cháy, nhưng không có nghĩa mọi người có thể tự xử lý mọi đám cháy. Chất cháy, nguồn điện, không gian và sản phẩm cháy quyết định phương pháp cùng trang bị phù hợp. Một cách làm đúng với vật liệu này có thể làm sự cố khác nặng hơn.\n\nTrong phòng ngừa, hãy tìm các điểm có thể ngắt chuỗi nguy cơ trước khi phát cháy: Loại bỏ nguồn nhiệt không kiểm soát, bảo quản vật liệu đúng chỗ và giữ vệ sinh. Mô hình là công cụ đặt câu hỏi; không phải căn cứ để tự khóa hệ thống thông gió hoặc tiến vào nơi thiếu oxy.\n\n### 1.3. Từ phát hiện tới khắc phục\nCán bộ phải báo dây dẫn hỏng, ổ điện quá tải, mùi khét hoặc thiết bị bất thường theo cơ chế đơn vị. Người có chuyên môn xử lý phần điện, khí và hệ thống kỹ thuật. Không tự sửa tạm bằng vật liệu không phù hợp hoặc tiếp tục sử dụng thiết bị đã có dấu hiệu nguy hiểm để tránh gián đoạn công việc.\n\nĐơn vị cần giao người theo dõi việc sửa, kiểm soát sử dụng trong lúc chờ và xác nhận đã khắc phục. Chỉ gửi báo cáo chưa làm mất nguy cơ. Thiếu sót liên quan lối thoát hoặc thiết bị cảnh báo cần được ưu tiên vì ảnh hưởng nhiều người.\n\n### 1.4. Trách nhiệm mỗi ngày\nGiữ lối đi và cửa thoát thông thoáng; không chèn mở cửa chống cháy trái quy định; không che bình chữa cháy hoặc biển báo. Theo đúng quy định hút thuốc, nấu ăn và lưu trữ nhiên liệu. Những hành vi nhỏ, lặp hằng ngày tạo nền phòng ngừa hiệu quả hơn việc chỉ diễn tập khi có đoàn kiểm tra.",
+        "en": "### 1.1. More than visible flame\nFire can injure people, block escape, destroy communications and interrupt support. Smoke, toxic gases and heat may cause harm before flames reach a person. A small visible fire therefore does not establish safe surroundings.\n\nTypical risks involve electrical equipment, chargers, cooking, fuels, heat-producing work and poorly stored materials. Outside camp, consider vehicles, temporary power, combustible substances and fire-service access. Assess actual conditions rather than assuming safety because no previous incident occurred.\n\n### 1.2. The fire triangle\nA basic model connects fuel, heat and oxygen. Controlling one element can prevent or limit fire, but does not make every fire suitable for untrained intervention. Burning material, electricity, space and combustion products determine appropriate methods. An action suitable for one fire may worsen another.\n\nUse the model to identify prevention opportunities: Control ignition sources, store materials properly and maintain housekeeping. It is not permission to alter ventilation systems or enter oxygen-deficient areas.\n\n### 1.3. Detection and correction\nReport damaged wiring, overloaded outlets, burning smells and abnormal equipment. Qualified personnel handle electrical, gas and technical systems. Do not improvise repairs or continue using unsafe equipment merely to avoid disruption.\n\nAssign corrective responsibility, control interim use and verify restoration. Reporting alone does not remove the hazard. Escape-route and warning-system defects deserve priority because they affect many people.\n\n### 1.4. Daily responsibility\nKeep exits and routes clear, respect fire-door arrangements and maintain access to extinguishers and signs. Follow smoking, cooking and fuel-storage rules. Consistent daily behaviour is the foundation of prevention, rather than preparation only for inspections."
+      },
+      "sourceIds": [
+        "FIRE"
+      ]
+    },
+    {
+      "id": "FPU-06-02",
+      "title": {
+        "vi": "2. Báo động, sơ tán và kiểm đếm",
+        "en": "2. Alarm, evacuation and accountability"
+      },
+      "body": {
+        "vi": "### 2.1. Báo sớm, chỉ rõ vị trí\nKhi phát hiện cháy hoặc dấu hiệu nghiêm trọng, kích hoạt báo động và gọi đầu mối ứng cứu theo phương án địa bàn. Cung cấp vị trí chính xác, khu vực liên quan, điều quan sát được, người có thể còn bên trong và nguy cơ đặc biệt nếu đã biết. Không trì hoãn báo để tự tìm hết nguyên nhân hoặc tự chứng minh đám cháy lớn đến mức nào.\n\nPhân công một người gọi và xác nhận đã liên hệ khi có đủ người hỗ trợ. Tiếng báo động phải được hiểu là tín hiệu cần hành động theo phương án, không phải lời mời tập trung nhìn sự cố. Khi hệ thống không hoạt động, dùng phương án thông báo dự phòng đã được đơn vị thống nhất.\n\n### 2.2. Đi theo lối an toàn\nRời khu vực theo đường thoát được chỉ dẫn và còn an toàn, tránh nơi có khói, nhiệt hoặc nguy cơ lan. Không dùng thang máy thông thường khi cháy và không quay lại lấy đồ. Đóng cửa phía sau nếu có thể làm an toàn, không khóa gây cản trở người thoát. Nếu tuyến chính bị ảnh hưởng, dùng tuyến thay thế đã biết và nghe hướng dẫn của người phụ trách.\n\nKhông đi xuyên khói để tìm một người mà không có năng lực, thiết bị và phân công cứu nạn. Nếu bị kẹt, báo vị trí và tình trạng, tìm cách hạn chế khói xâm nhập khi an toàn, ra dấu cho lực lượng ứng cứu và làm theo hướng dẫn. Không tự suy rằng nhìn thấy cửa ra qua khói thì có thể tới đó an toàn.\n\n### 2.3. Hỗ trợ người có nhu cầu khác nhau\nPhương án phải tính tới người bị thương, người hạn chế vận động, khách, người không hiểu ngôn ngữ và ca đêm. Giao người hỗ trợ cùng giải pháp phù hợp từ trước; không chờ sự cố mới bàn ai sẽ giúp. Việc hỗ trợ phải tránh làm cả nhóm mắc kẹt hoặc sử dụng kỹ thuật di chuyển vượt năng lực.\n\n### 2.4. Tập kết và kiểm đếm\nTới điểm tập kết đã quy định, giữ thông thoáng đường cho xe ứng cứu và báo với người kiểm đếm. Đối chiếu quân số, khách, người đã chuyển vị trí và người chưa xác định. Khi thiếu người, báo tên hoặc nhận dạng, nơi cuối được thấy và thông tin liên quan cho lực lượng cứu nạn; không tổ chức tự quay vào tìm.\n\nChỉ trở lại khi người có thẩm quyền cho phép. Lửa tắt nhìn thấy không loại trừ khói độc, cháy âm, mất an toàn điện hoặc kết cấu. Kiểm đếm hoàn tất cũng không có nghĩa hiện trường đã đủ điều kiện sử dụng trở lại.",
+        "en": "### 2.1. Warn early and locate precisely\nActivate the local alarm and response system promptly. State the exact location, observed conditions, people potentially inside and known special hazards. Do not postpone notification while establishing the cause or exact size.\n\nWhere helpers are available, assign a named caller and confirm contact. An alarm requires action under the plan rather than gathering to watch. Use established backup warning arrangements if the system fails.\n\n### 2.2. Use a safe route\nFollow a designated, currently safe exit, avoiding smoke, heat and spreading danger. Do not use ordinary lifts or return for belongings. Close doors when safe without locking people in. Use known alternatives and follow authorized direction when the main route is compromised.\n\nDo not enter smoke to search without rescue competence, equipment and assignment. If trapped, communicate location and condition, limit smoke entry where safe, signal responders and follow instructions. Seeing an exit through smoke does not establish that it is reachable safely.\n\n### 2.3. Different assistance needs\nPlan for injured people, limited mobility, visitors, language barriers and night shifts. Assign appropriate assistance beforehand. Avoid improvised movement beyond competence or actions that trap additional people.\n\n### 2.4. Assembly and accounting\nReport to the designated assembly point and accountability lead, keeping response access clear. Reconcile personnel, visitors, changed locations and missing people. Give responders identifying information and last-known locations rather than re-entering independently.\n\nReturn only after authorized clearance. Visible extinguishment does not exclude toxic smoke, hidden fire, electrical or structural danger. Completed accountability does not itself authorize reuse of the premises."
+      },
+      "sourceIds": [
+        "OSHA",
+        "EAP"
+      ]
+    },
+    {
+      "id": "FPU-06-03",
+      "title": {
+        "vi": "3. Khi nào có thể xử lý ban đầu?",
+        "en": "3. When is initial intervention appropriate?"
+      },
+      "body": {
+        "vi": "### 3.1. Quyết định quan trọng hơn thao tác\nCó bình chữa cháy trong tay không có nghĩa phải sử dụng. Xử lý ban đầu chỉ có thể cân nhắc khi phù hợp phương án, người thực hiện đã được huấn luyện và cho phép, đám cháy còn rất nhỏ, chất cháy được hiểu, bình phù hợp và đường thoát luôn an toàn. Báo động cùng gọi lực lượng hỗ trợ phải được thực hiện; không giấu sự cố để tự xử lý cho nhanh.\n\nĐiều kiện cần được xem cùng nhau. Một đám cháy nhỏ nhưng trong nơi đầy khói hoặc liên quan chất không xác định vẫn có thể vượt khả năng. Không lấy kích thước ngọn lửa làm tiêu chí duy nhất. Bình xách tay có lượng chất chữa cháy hạn chế; sự cố có thể phát triển nhanh hơn thời gian người dùng dự tính.\n\n### 3.2. Nhận diện điểm phải dừng\nRút lui ngay nếu khói, nhiệt hoặc cháy có thể cắt đường ra; cần thiết bị bảo vệ hô hấp; không tiếp cận được trong tư thế an toàn; không biết chất cháy; hoặc ngọn lửa lan, bình hết mà chưa kiểm soát. Không lần lượt thử nhiều bình trong lúc môi trường xấu đi. Không dùng khăn ướt hoặc mặt nạ không chuyên dụng để tự coi mình được bảo vệ khi vào khói.\n\nDừng đúng lúc là một quyết định bảo vệ, không phải thất bại cá nhân. Cần báo tình trạng đã thấy, hành động đã làm và vị trí đang rút về, để người khác không tiếp tục vào dựa trên thông tin cũ.\n\n### 3.3. Giới hạn năng lực FPU\nTrang bị bảo vệ làm nhiệm vụ trật tự không tự thay quần áo, thiết bị và huấn luyện của lực lượng chữa cháy chuyên nghiệp. Năng lực phòng cháy hoặc xử lý ban đầu không đồng nghĩa khả năng cứu nạn trong công trình cháy, xử lý hóa chất hay bình áp lực bị nung nóng. Khi vượt khả năng, phải cô lập theo phương án, sơ tán và để đầu mối chuyên trách quyết định.\n\n### 3.4. Rà nguy cơ trước mỗi hành động\nTrước khi lại gần, tự hỏi: Đã báo chưa; mình có nhiệm vụ và năng lực không; biết loại cháy không; có bình phù hợp không; phía sau còn đường thoát không; không khí có an toàn không. Nếu một câu không thể trả lời chắc, chọn khoảng cách an toàn và gọi người có trách nhiệm. Không phải người phát hiện đầu tiên thì phải là người dập lửa.",
+        "en": "### 3.1. The decision precedes the technique\nAn available extinguisher does not create a duty to use it. Consider initial intervention only under the plan, with trained and authorized personnel, a very small fire, understood burning material, a suitable extinguisher and a continuously safe exit. Activate warnings and professional support rather than concealing the incident.\n\nAll conditions matter together. A small fire in smoke or involving unknown substances may already exceed capability. Portable extinguishers contain limited agent, while conditions can deteriorate rapidly.\n\n### 3.2. Recognize withdrawal conditions\nWithdraw if smoke, heat or spread threatens escape, respiratory protection is needed, safe approach is impossible, materials are unknown, or the fire grows or remains uncontrolled when the extinguisher empties. Do not keep trying devices as conditions worsen. Wet cloths and ordinary masks do not provide specialist smoke protection.\n\nTimely withdrawal is protective judgment. Report conditions, actions taken and your new location so others do not approach on outdated information.\n\n### 3.3. FPU capability limits\nPublic-order protective equipment does not replace firefighter equipment and training. Initial response competence does not establish capability for internal rescue, hazardous chemicals or heated pressure vessels. Follow isolation and evacuation arrangements and refer specialist decisions to competent responders.\n\n### 3.4. Reassess before action\nConfirm warning, assignment, competence, fire type, suitable equipment, escape and breathable surroundings. If uncertain, remain safely clear and activate responsible support. The first person noticing a fire need not be the person attempting extinguishment."
+      },
+      "sourceIds": [
+        "OSHA"
+      ]
+    },
+    {
+      "id": "FPU-06-04",
+      "title": {
+        "vi": "4. Bình chữa cháy và giới hạn sử dụng",
+        "en": "4. Extinguishers and their limits"
+      },
+      "body": {
+        "vi": "### 4.1. Đọc nhãn thay vì đoán màu\nBình được lựa chọn theo nhãn, ký hiệu loại cháy, chất chữa cháy và hướng dẫn nhà sản xuất. Không dựa riêng màu vỏ hoặc màu nhãn, vì hệ thống phân loại và cách ghi giữa nơi cung cấp có thể khác nhau. Đơn vị phải tổ chức làm quen với chính loại đang có, vị trí, tình trạng và cách dùng trong buổi thực hành.\n\nNước có thể phù hợp một số chất rắn thông thường, nhưng không dùng để phun vào thiết bị còn mang điện hoặc dầu mỡ nấu ăn đang cháy. Bình CO2, bột, bọt hoặc loại chuyên dùng có công dụng và giới hạn riêng. Một bình được ghi nhiều loại cháy không có nghĩa thích hợp cho mọi hóa chất, pin hoặc không gian kín.\n\n### 4.2. Kiểm tra khả năng dùng được\nTrước sự cố, kiểm tra khả năng tiếp cận, niêm phong, tình trạng bên ngoài, nhãn hướng dẫn và việc kiểm định, bảo dưỡng theo chế độ. Đồng hồ áp suất chỉ có ở một số loại; không dùng một tiêu chí cho mọi bình. Bình đã sử dụng hoặc có nghi ngờ hỏng phải được báo, thay và xử lý bởi người có trách nhiệm, không đặt lại vị trí như còn đầy.\n\nKiểm tra bình cần đi cùng kiểm tra lối thoát và nhu cầu từng khu vực. Một bình tốt nhưng bị khóa sau cửa hoặc không ai biết vị trí sẽ không tạo năng lực xử lý kịp thời.\n\n### 4.3. Hiểu PASS trong điều kiện được phép\nVới loại phù hợp sử dụng theo cách này, PASS giúp nhớ: Rút chốt; hướng vào gốc lửa; bóp tay cầm; quét ngang. Thực hiện theo hướng dẫn cụ thể của bình, trong tầm hiệu quả, giữ lối thoát an toàn và không tiến vào môi trường nguy hiểm. Khung nhớ không thay thực hành hoặc quyết định có nên can thiệp.\n\nVới CO2, phần loa phun có thể rất lạnh; tránh cầm phần không được thiết kế làm tay nắm. CO2 trong không gian kín có thể tạo nguy cơ thiếu oxy. Không thử phun bình vào người như một phương pháp làm mát hoặc chỉ vì quần áo đang cháy.\n\n### 4.4. Khi lửa có vẻ đã tắt\nLùi ra an toàn, theo dõi từ vị trí phù hợp và báo lực lượng chuyên trách. Không chạm vật nóng, tự bật điện trở lại hoặc coi hết ngọn lửa là hết nguy cơ. Đơn vị cần kiểm soát người quay lại, giữ đường tiếp cận và ghi nhận bình đã dùng để bổ sung sau sự cố.",
+        "en": "### 4.1. Read labels rather than colours\nSelect extinguishers by their markings, fire suitability, agent and manufacturer instructions. Colours and classification conventions vary. Train with the actual devices deployed, including their locations and limitations.\n\nWater may suit ordinary solid combustibles but must not be directed at energized equipment or burning cooking oil. CO2, powder, foam and specialist agents have distinct restrictions. Multi-class markings do not imply suitability for every chemical, battery or enclosed space.\n\n### 4.2. Establish usability\nCheck access, seals, external condition, instructions and required servicing. Not every extinguisher has a pressure gauge. Report and replace used or suspect equipment rather than returning it as ready.\n\nInspect routes and local needs as well as devices. A serviceable extinguisher behind a locked door or at an unknown location does not provide timely capability.\n\n### 4.3. PASS within authorized conditions\nWhere appropriate for the device, PASS recalls pulling the pin, aiming at the fire's base, squeezing and sweeping. Follow device instructions and effective range while preserving escape. The mnemonic replaces neither practical training nor the decision whether to intervene.\n\nCO2 discharge horns can cause cold injury; use only intended handgrips. CO2 can create oxygen-deficiency risks in enclosed spaces. Do not discharge an extinguisher at a person as improvised cooling.\n\n### 4.4. Apparent extinguishment\nWithdraw safely, observe from a suitable location and inform competent responders. Do not touch hot items or restore power independently. Control re-entry, maintain access and record equipment requiring replenishment. Absence of visible flame does not establish safety."
+      },
+      "sourceIds": [
+        "FIRE",
+        "OSHAUSE"
+      ]
+    },
+    {
+      "id": "FPU-06-05",
+      "title": {
+        "vi": "5. Người bén lửa, bỏng và tiếp cận chăm sóc",
+        "en": "5. Burning clothing, burns and medical support"
+      },
+      "body": {
+        "vi": "### 5.1. Phân biệt hai việc khác nhau\nQuần áo bén lửa cần ngừng quá trình cháy; da bị bỏng sau khi lửa đã tắt cần được làm mát và chăm sóc. Hai việc liên quan nhưng không thay nhau. Chỉ làm mát một vùng trong khi quần áo vẫn cháy hoặc chỉ dập lửa rồi bỏ qua đường thở đều có thể bỏ sót nguy cơ sinh mạng.\n\nNếu quần áo bén lửa, không chạy làm lửa lan. Dừng, hạ người xuống và lăn để dập lửa nếu có thể, bảo vệ mặt. Đồng đội cần gọi giúp và hỗ trợ an toàn theo huấn luyện, có thể dùng chăn phù hợp để phủ dập lửa khi làm được an toàn. Không tự lao vào đám cháy hoặc giằng kéo người theo cách gây thêm hại.\n\n### 5.2. Không tin quá mức vào trang phục\nChất liệu chống cháy có thể giảm một số nguy cơ nhưng không làm người mặc miễn nhiễm nhiệt, khói hoặc nhiên liệu. Không yêu cầu cán bộ đứng yên chờ nhiên liệu tự cháy hết. Trang bị bị tác động cần được đánh giá, không tự tiếp tục nhiệm vụ vì bên ngoài trông chưa hỏng.\n\nĐặc biệt chú ý dấu hiệu khó thở, khàn tiếng, bỏng vùng mặt hoặc giảm đáp ứng sau tiếp xúc khói, lửa. Đây là lý do gọi y tế khẩn; không mặc định chỉ có vết bỏng ngoài da. Người còn nói được ban đầu vẫn có thể xấu đi.\n\n### 5.3. Làm mát và bảo vệ vết bỏng\nKhi đã an toàn và lửa tắt, làm mát bỏng nhiệt ngay, ưu tiên nước sạch chảy, tránh làm toàn thân bị lạnh. Không đặt đá trực tiếp, bôi dầu mỡ, kem đánh răng hoặc chọc bóng nước. Không bóc vật dính chặt vào da. Che bảo vệ phù hợp và kết nối y tế, đặc biệt khi bỏng rộng, sâu, vị trí quan trọng hoặc có nghi hít khói.\n\nXử trí điện, hóa chất hoặc người còn trong vùng nguy hiểm có yêu cầu riêng; phải kiểm soát nguồn và gọi chuyên môn. Không suy rằng một phương pháp dùng được cho mọi dạng bỏng. Các nguyên tắc sơ cứu cần được thực hành và đọc cùng FPU-05.\n\n### 5.4. Theo dõi tới bàn giao\nKiểm tra đáp ứng, hơi thở và tình trạng; báo thời điểm, loại phơi nhiễm đã biết, biểu hiện cùng hỗ trợ đã làm. Nếu người không đáp ứng và không thở bình thường, áp dụng nhận biết ngừng tim và CPR trong năng lực theo hướng dẫn cấp cứu. Chăm sóc y tế không được chậm vì chờ hoàn tất báo cáo sự cố.",
+        "en": "### 5.1. Extinguishment and burn care differ\nBurning clothing requires stopping combustion; injured skin then requires cooling and care. Cooling one area while clothing continues burning, or extinguishing flames while overlooking breathing, can miss life threats.\n\nDo not run when clothing catches fire. Stop, drop and roll where possible, protecting the face. Helpers should activate assistance and use trained, safe methods, including a suitable blanket when feasible. Avoid entering fire or pulling the casualty in ways that add injury.\n\n### 5.2. Protective clothing has limits\nFlame-resistant material does not make a wearer immune to heat, smoke or fuel. Do not wait for fuel to burn away. Affected equipment requires assessment even if it looks intact.\n\nBreathing difficulty, hoarseness, facial burns or reduced responsiveness after smoke or flame exposure require urgent medical assistance. Visible skin injury may not represent the whole problem, and initial ability to speak does not guarantee continued stability.\n\n### 5.3. Cool and protect\nAfter safety and extinguishment, promptly cool thermal burns, preferably with clean running water, while preventing whole-body chilling. Avoid direct ice, grease, toothpaste, blister-breaking and removal of adherent material. Cover appropriately and obtain care for significant burns or suspected inhalation injury.\n\nElectrical, chemical and ongoing environmental hazards require source control and specialist guidance. Do not generalize one method to every burn. Practise first aid and connect these principles with FPU-05.\n\n### 5.4. Continue until handover\nMonitor responsiveness and breathing and report timing, known exposure, symptoms and assistance. Unresponsiveness with absent or abnormal breathing requires presumed-arrest recognition and CPR within competence under emergency guidance. Incident paperwork must not delay medical care."
+      },
+      "sourceIds": [
+        "FIRE",
+        "USFA",
+        "FA2024"
+      ]
+    },
+    {
+      "id": "FPU-06-06",
+      "title": {
+        "vi": "6. Chuẩn bị đơn vị và học từ sự cố",
+        "en": "6. Unit preparedness and incident learning"
+      },
+      "body": {
+        "vi": "### 6.1. Phương án phải sử dụng được\nĐơn vị cần biết tín hiệu báo động, đầu mối ứng cứu, tuyến thoát, điểm tập kết, người kiểm đếm và vai trò hỗ trợ. Đánh giá khu vực lưu trú, bếp, kho, bảo dưỡng, phương tiện và nơi tập trung đông người theo điều kiện. Phương án cần tính thời gian ngoài giờ, người mới đến và khả năng thông báo khi điện hoặc liên lạc bị gián đoạn.\n\nDanh bạ chỉ có giá trị khi được xác minh và có thể tìm nhanh. Không dùng số khẩn cấp của quốc gia khác trong tài liệu mẫu như thể áp dụng tại địa bàn. Cán bộ cần biết ai thực hiện việc ngắt điện, nhiên liệu hoặc hệ thống; người không được giao không tự quay lại làm.\n\n### 6.2. Diễn tập có mục tiêu\nDiễn tập nên kiểm tra thời gian phát hiện–báo, hiểu tín hiệu, lựa chọn lối thoát, hỗ trợ người có nhu cầu và kiểm đếm. Chọn mục tiêu quan sát được thay vì chỉ hoàn thành một cuộc tập kết. Kiểm tra người mới và ca trực ít được tham gia để tránh đánh giá quá cao mức sẵn sàng.\n\nHuấn luyện dùng bình cần giảng viên đủ năng lực, thiết bị phù hợp và biện pháp an toàn. Không tự tạo lửa bằng nhiên liệu để làm bài tập chưa được đánh giá và cho phép. Mô phỏng phải được quản lý để không phát sinh sự cố thật hoặc làm người tham gia hiểu sai báo động.\n\n### 6.3. Sau sự cố\nBảo vệ hiện trường theo hướng dẫn, ghi thông tin khách quan, không tự sửa dấu vết hoặc vứt trang bị liên quan trước khi được phép. Đánh giá thiệt hại, chăm sóc người bị ảnh hưởng, bổ sung phương tiện và chỉ phục hồi sử dụng khi có xác nhận phù hợp. Sự cố suýt xảy ra cũng cần được báo để sửa nguy cơ trước lần sau.\n\n### 6.4. Biến nhận xét thành hành động\nNếu lối thoát bị chặn, cần xác định vật cản, người di dời, phương án ngăn lặp và thời điểm kiểm tra. Nếu báo động không được nghe ở khu ngủ, cần xử lý hệ thống và kiểm chứng ở điều kiện tương tự. Kết luận “tăng cường ý thức” không đủ khi nguyên nhân là thiết kế, phân công hoặc bảo dưỡng. Năng lực cần đạt là phát hiện sớm, báo rõ, thoát an toàn, biết giới hạn can thiệp và duy trì trách nhiệm tới khi sự cố được bàn giao.",
+        "en": "### 6.1. A usable plan\nMembers need alarm meanings, response contacts, routes, assembly points, accountability and assistance roles. Assess accommodation, kitchens, storage, maintenance, vehicles and crowded areas. Include out-of-hours conditions, newcomers and power or communications failure.\n\nVerify contacts and make them quickly accessible. Foreign emergency numbers in sample materials are not local arrangements. Identify who may isolate power, fuel or systems; unassigned people should not re-enter to do so.\n\n### 6.2. Purposeful exercises\nTest detection and warning, alarm comprehension, route choice, assistance and accounting. Use observable objectives rather than merely recording assembly. Include newcomers and less-represented shifts.\n\nExtinguisher practice needs qualified instruction, suitable equipment and risk controls. Do not improvise fuel fires for unauthorized exercises. Manage simulation to prevent real incidents and alarm confusion.\n\n### 6.3. After an incident\nPreserve the scene as directed and record objective information. Avoid altering evidence or disposing of relevant equipment without authorization. Assess damage, support affected people, replenish resources and restore use only after appropriate clearance. Report near misses as opportunities for prevention.\n\n### 6.4. Actionable learning\nA blocked exit requires identified obstruction removal, ownership, recurrence prevention and verification. An inaudible alarm requires system correction tested under comparable conditions. “Raise awareness” cannot correct every design, assignment or maintenance fault. Intended competence combines early recognition, clear warning, safe escape, intervention limits and responsible handover."
+      },
+      "sourceIds": [
+        "OSHA",
+        "EAP",
+        "FIRE"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "FIRE",
+      "title": "Extinguishing Fire",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-051%20Extinguishing%20Fire.pdf",
+      "format": "pdf",
+      "pages": 17,
+      "reading": "7–10",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "OSHA",
+      "title": "Fight or Flee? — Evacuation Plans and Procedures",
+      "url": "https://www.osha.gov/etools/evacuation-plans-procedures/eap/fight-or-flee",
+      "publisher": "US OSHA",
+      "format": "web",
+      "checked": "2026-10-28"
+    },
+    {
+      "id": "EAP",
+      "title": "Emergency action plans — safety reference, US workplace standard",
+      "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.38",
+      "publisher": "US OSHA",
+      "format": "web",
+      "checked": "2026-10-28"
+    },
+    {
+      "id": "OSHAUSE",
+      "title": "Portable Fire Extinguishers — Use",
+      "url": "https://www.osha.gov/etools/evacuation-plans-procedures/emergency-standards/portable-extinguishers/use",
+      "publisher": "US OSHA",
+      "format": "web",
+      "checked": "2026-10-28"
+    },
+    {
+      "id": "USFA",
+      "title": "Stop, Drop and Roll Fire Safety Pictographs",
+      "url": "https://www.usfa.fema.gov/gallery/pictographs/stop-drop-roll.html",
+      "publisher": "US Fire Administration / FEMA",
+      "format": "web",
+      "checked": "2026-10-28"
+    },
+    {
+      "id": "FA2024",
+      "title": "2024 AHA and American Red Cross Guidelines for First Aid",
+      "url": "https://cpr.heart.org/en/resuscitation-science/2024-first-aid-guidelines",
+      "year": "2024",
+      "publisher": "AHA / American Red Cross",
+      "format": "web",
+      "checked": "2026-10-28"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Một ngọn lửa nhỏ có chứng minh nơi đó an toàn không?",
+        "en": "Does a small flame establish a safe environment?"
+      },
+      "options": [
+        {
+          "vi": "Có, nếu người quan sát chưa thấy đau.",
+          "en": "Yes, if observers feel no pain."
+        },
+        {
+          "vi": "Không; phải xét khói, khí, nhiệt, chất cháy và đường thoát.",
+          "en": "No; assess smoke, gases, heat, materials and escape."
+        },
+        {
+          "vi": "Có, nếu chưa lan ra ngoài phòng.",
+          "en": "Yes, if it remains in the room."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Nguy cơ có thể xuất hiện trước khi lửa tới người; kích thước không phải tiêu chí duy nhất. Xem mục 1.",
+        "en": "Danger can arise before flames reach people; size is not the only criterion. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Báo một ổ điện hỏng có đủ để kết luận nguy cơ đã được xử lý không?",
+        "en": "Does reporting a defective outlet establish correction?"
+      },
+      "options": [
+        {
+          "vi": "Chưa; cần kiểm soát sử dụng, giao xử lý và xác minh khắc phục.",
+          "en": "No; control use, assign correction and verify restoration."
+        },
+        {
+          "vi": "Đủ, vì đã hoàn thành việc gửi báo.",
+          "en": "Yes, because notification is complete."
+        },
+        {
+          "vi": "Đủ, nếu người dùng tự sửa tạm.",
+          "en": "Yes, if a user improvises a repair."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Thông báo và loại bỏ nguy cơ là hai việc khác nhau; phần kỹ thuật cần người đủ năng lực. Xem mục 1.",
+        "en": "Notification and hazard removal differ; technical work requires competence. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Khi thiếu người ở điểm tập kết, lựa chọn nào phù hợp?",
+        "en": "When someone is missing at assembly, what is appropriate?"
+      },
+      "options": [
+        {
+          "vi": "Bỏ qua vì có thể họ đi nơi khác.",
+          "en": "Ignore it because they may be elsewhere."
+        },
+        {
+          "vi": "Báo thông tin và nơi cuối được thấy cho lực lượng cứu nạn.",
+          "en": "Give identifying information and last-known location to responders."
+        },
+        {
+          "vi": "Từng người tự quay vào tìm.",
+          "en": "Everyone independently re-enters."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Kiểm đếm phải dẫn tới thông tin cứu nạn chính xác, không tạo thêm người mắc kẹt. Xem mục 2.",
+        "en": "Accountability must support rescue information without creating more casualties. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Khi nào được trở lại công trình sau cháy?",
+        "en": "When may people re-enter after fire?"
+      },
+      "options": [
+        {
+          "vi": "Khi người có thẩm quyền xác nhận cho phép.",
+          "en": "After authorized clearance."
+        },
+        {
+          "vi": "Ngay khi không nhìn thấy lửa.",
+          "en": "As soon as no flame is visible."
+        },
+        {
+          "vi": "Khi cần lấy giấy tờ quan trọng.",
+          "en": "Whenever important papers are needed."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Cháy âm, khí, điện hoặc kết cấu vẫn có thể nguy hiểm sau khi lửa tắt. Xem mục 2.",
+        "en": "Hidden fire, gases, electrical and structural risks may remain. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Có bình xách tay thì có nên xử lý mọi đám cháy nhỏ?",
+        "en": "Should every small fire be tackled because an extinguisher is available?"
+      },
+      "options": [
+        {
+          "vi": "Không; cần đủ điều kiện, huấn luyện, cho phép, đúng bình và lối thoát.",
+          "en": "No; authorization, training, suitable conditions, agent and escape are needed."
+        },
+        {
+          "vi": "Có, nếu trang bị trật tự công cộng đang đầy đủ.",
+          "en": "Yes, with complete public-order equipment."
+        },
+        {
+          "vi": "Có, để tránh gọi lực lượng chuyên trách.",
+          "en": "Yes, to avoid calling specialists."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Các điều kiện phải được xét cùng nhau; trang bị FPU không thay trang bị chữa cháy chuyên nghiệp. Xem mục 3.",
+        "en": "Conditions work together; FPU equipment does not replace firefighter capability. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Bình hết nhưng lửa chưa tắt và khói tăng, cần làm gì?",
+        "en": "The extinguisher empties, fire remains and smoke increases. What next?"
+      },
+      "options": [
+        {
+          "vi": "Rút lui ngay theo lối an toàn và báo tình trạng.",
+          "en": "Withdraw promptly along a safe route and report."
+        },
+        {
+          "vi": "Dùng khăn ướt để ở lại lâu hơn.",
+          "en": "Use a wet cloth to remain longer."
+        },
+        {
+          "vi": "Tiếp tục tìm bình khác trong vùng khói.",
+          "en": "Keep searching for extinguishers in smoke."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Điều kiện vượt khả năng xử lý ban đầu; đường thoát và không khí an toàn là ưu tiên. Xem mục 3.",
+        "en": "Conditions exceed initial-response capability; safe escape and atmosphere take priority. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Căn cứ chọn bình phù hợp nhất là gì?",
+        "en": "What best determines extinguisher suitability?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ kích thước lớn.",
+          "en": "Large size only."
+        },
+        {
+          "vi": "Nhãn, ký hiệu, chất chữa cháy và hướng dẫn nhà sản xuất.",
+          "en": "Markings, agent and manufacturer instructions."
+        },
+        {
+          "vi": "Chỉ màu vỏ.",
+          "en": "Cylinder colour only."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Màu và phân loại có thể khác giữa hệ thống; phải hiểu đúng thiết bị thực có. Xem mục 4.",
+        "en": "Colours and conventions vary; understand the actual device. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "PASS có thay quyết định có nên can thiệp không?",
+        "en": "Does PASS replace deciding whether to intervene?"
+      },
+      "options": [
+        {
+          "vi": "Có, không cần huấn luyện nữa.",
+          "en": "Yes, further training is unnecessary."
+        },
+        {
+          "vi": "Có, cứ nhớ bốn chữ là xử lý mọi cháy.",
+          "en": "Yes, knowing the letters enables every fire response."
+        },
+        {
+          "vi": "Không; là khung nhớ thao tác cho trường hợp và thiết bị phù hợp.",
+          "en": "No; it is a technique mnemonic for suitable situations and devices."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Đánh giá nguy cơ, cho phép và giới hạn đi trước kỹ thuật. Xem mục 4.",
+        "en": "Risk, authorization and limits precede technique. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Quần áo bén lửa, hành động nào phù hợp?",
+        "en": "What is appropriate when clothing catches fire?"
+      },
+      "options": [
+        {
+          "vi": "Chờ vì vải chống cháy luôn bảo vệ hoàn toàn.",
+          "en": "Wait because flame-resistant fabric always fully protects."
+        },
+        {
+          "vi": "Không chạy; dừng, hạ người và lăn nếu có thể, bảo vệ mặt.",
+          "en": "Do not run; stop, drop and roll where possible, protecting the face."
+        },
+        {
+          "vi": "Chạy để gió dập lửa.",
+          "en": "Run so airflow extinguishes it."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Cần ngừng cháy và hỗ trợ an toàn; vải bảo vệ có giới hạn. Xem mục 5.",
+        "en": "Stop combustion and assist safely; protective fabric has limits. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Khàn tiếng và khó thở sau khói cần được xem thế nào?",
+        "en": "How should hoarseness and breathing difficulty after smoke be treated?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ cần chờ giọng trở lại.",
+          "en": "Simply wait for the voice to recover."
+        },
+        {
+          "vi": "Không đáng lo nếu vẫn nói được.",
+          "en": "Not concerning if speech remains possible."
+        },
+        {
+          "vi": "Là dấu hiệu cần y tế khẩn, không chỉ xem vết bỏng ngoài.",
+          "en": "As signs requiring urgent medical care beyond visible skin burns."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Tổn thương đường thở có thể nặng lên dù ban đầu người còn nói. Xem mục 5.",
+        "en": "Airway injury may worsen despite initial speech. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Diễn tập có giá trị nên kiểm tra gì?",
+        "en": "What should a useful drill test?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ số người ký tham dự.",
+          "en": "Attendance signatures only."
+        },
+        {
+          "vi": "Chỉ số ảnh tập kết.",
+          "en": "Assembly photographs only."
+        },
+        {
+          "vi": "Hiểu tín hiệu, thoát, hỗ trợ, kiểm đếm và điểm cần sửa.",
+          "en": "Warning comprehension, escape, assistance, accounting and corrections."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Mục tiêu quan sát được giúp biết phương án thực sự hoạt động ở đâu và thiếu ở đâu. Xem mục 6.",
+        "en": "Observable objectives show which arrangements work and which fail. See section 6."
+      },
+      "chapter": 5
+    },
+    {
+      "question": {
+        "vi": "Báo động không nghe được ở khu ngủ, kết luận nào cần hành động?",
+        "en": "An alarm is inaudible in sleeping areas. What action is needed?"
+      },
+      "options": [
+        {
+          "vi": "Bỏ qua nếu chưa có cháy.",
+          "en": "Ignore it until a fire occurs."
+        },
+        {
+          "vi": "Chỉ nhắc mọi người chú ý hơn.",
+          "en": "Only remind people to pay attention."
+        },
+        {
+          "vi": "Sửa hệ thống hoặc bố trí phù hợp rồi kiểm chứng trong điều kiện tương tự.",
+          "en": "Correct the system or arrangements and verify under comparable conditions."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Lỗi hệ thống cần biện pháp cụ thể, không chỉ khẩu hiệu nhận thức. Xem mục 6.",
+        "en": "A system defect requires specific correction, not awareness slogans alone. See section 6."
+      },
+      "chapter": 5
+    }
+  ],
+  "updated": "2026-10-28",
+  "moduleId": "FPU-M5",
+  "moduleOrder": 3,
+  "lessonOrder": 1,
+  "sourceModule": {
+    "programme": "STM-FPU",
+    "number": 5,
+    "title": "Public order management"
+  },
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "FPU-06-01",
+      "title": {
+        "vi": "1. Nguy cơ cháy và nguyên tắc phòng ngừa",
+        "en": "1. Fire risks and prevention principles"
+      },
+      "body": {
+        "vi": "### 1.1. Cháy là sự cố an toàn, không chỉ là ngọn lửa\nTrong doanh trại và khi làm nhiệm vụ, cháy có thể đe dọa người, làm mất đường thoát, phá hủy thông tin liên lạc và gián đoạn bảo đảm. Khói, khí độc và nhiệt có thể gây hại trước khi ngọn lửa tới gần. Vì vậy, việc nhìn thấy một đám cháy nhỏ không đủ để kết luận môi trường xung quanh an toàn.\n\nNguồn nguy cơ thường gặp gồm thiết bị điện, bộ sạc, bếp, nhiên liệu, công việc sinh nhiệt và vật liệu để không đúng nơi. Trong hoạt động ngoài doanh trại, cần tính cả xe, nguồn điện tạm, chất dễ cháy và đường tiếp cận lực lượng chữa cháy. Cách đánh giá phải dựa vào điều kiện thực tế, không mặc định một khu vực đã an toàn chỉ vì chưa từng xảy ra sự cố.\n\n### 1.2. Tam giác cháy và cách hiểu đúng\nMột mô hình cơ bản liên hệ nhiên liệu, nguồn nhiệt và oxy. Kiểm soát một yếu tố có thể ngăn hoặc hạn chế cháy, nhưng không có nghĩa mọi người có thể tự xử lý mọi đám cháy. Chất cháy, nguồn điện, không gian và sản phẩm cháy quyết định phương pháp cùng trang bị phù hợp. Một cách làm đúng với vật liệu này có thể làm sự cố khác nặng hơn.\n\nTrong phòng ngừa, hãy tìm các điểm có thể ngắt chuỗi nguy cơ trước khi phát cháy: Loại bỏ nguồn nhiệt không kiểm soát, bảo quản vật liệu đúng chỗ và giữ vệ sinh. Mô hình là công cụ đặt câu hỏi; không phải căn cứ để tự khóa hệ thống thông gió hoặc tiến vào nơi thiếu oxy.\n\n### 1.3. Từ phát hiện tới khắc phục\nCán bộ phải báo dây dẫn hỏng, ổ điện quá tải, mùi khét hoặc thiết bị bất thường theo cơ chế đơn vị. Người có chuyên môn xử lý phần điện, khí và hệ thống kỹ thuật. Không tự sửa tạm bằng vật liệu không phù hợp hoặc tiếp tục sử dụng thiết bị đã có dấu hiệu nguy hiểm để tránh gián đoạn công việc.\n\nĐơn vị cần giao người theo dõi việc sửa, kiểm soát sử dụng trong lúc chờ và xác nhận đã khắc phục. Chỉ gửi báo cáo chưa làm mất nguy cơ. Thiếu sót liên quan lối thoát hoặc thiết bị cảnh báo cần được ưu tiên vì ảnh hưởng nhiều người.\n\n### 1.4. Trách nhiệm mỗi ngày\nGiữ lối đi và cửa thoát thông thoáng; không chèn mở cửa chống cháy trái quy định; không che bình chữa cháy hoặc biển báo. Theo đúng quy định hút thuốc, nấu ăn và lưu trữ nhiên liệu. Những hành vi nhỏ, lặp hằng ngày tạo nền phòng ngừa hiệu quả hơn việc chỉ diễn tập khi có đoàn kiểm tra.",
+        "en": "### 1.1. More than visible flame\nFire can injure people, block escape, destroy communications and interrupt support. Smoke, toxic gases and heat may cause harm before flames reach a person. A small visible fire therefore does not establish safe surroundings.\n\nTypical risks involve electrical equipment, chargers, cooking, fuels, heat-producing work and poorly stored materials. Outside camp, consider vehicles, temporary power, combustible substances and fire-service access. Assess actual conditions rather than assuming safety because no previous incident occurred.\n\n### 1.2. The fire triangle\nA basic model connects fuel, heat and oxygen. Controlling one element can prevent or limit fire, but does not make every fire suitable for untrained intervention. Burning material, electricity, space and combustion products determine appropriate methods. An action suitable for one fire may worsen another.\n\nUse the model to identify prevention opportunities: Control ignition sources, store materials properly and maintain housekeeping. It is not permission to alter ventilation systems or enter oxygen-deficient areas.\n\n### 1.3. Detection and correction\nReport damaged wiring, overloaded outlets, burning smells and abnormal equipment. Qualified personnel handle electrical, gas and technical systems. Do not improvise repairs or continue using unsafe equipment merely to avoid disruption.\n\nAssign corrective responsibility, control interim use and verify restoration. Reporting alone does not remove the hazard. Escape-route and warning-system defects deserve priority because they affect many people.\n\n### 1.4. Daily responsibility\nKeep exits and routes clear, respect fire-door arrangements and maintain access to extinguishers and signs. Follow smoking, cooking and fuel-storage rules. Consistent daily behaviour is the foundation of prevention, rather than preparation only for inspections."
+      },
+      "sourceIds": [
+        "FIRE"
+      ]
+    },
+    {
+      "id": "FPU-06-02",
+      "title": {
+        "vi": "2. Báo động, sơ tán và kiểm đếm",
+        "en": "2. Alarm, evacuation and accountability"
+      },
+      "body": {
+        "vi": "### 2.1. Báo sớm, chỉ rõ vị trí\nKhi phát hiện cháy hoặc dấu hiệu nghiêm trọng, kích hoạt báo động và gọi đầu mối ứng cứu theo phương án địa bàn. Cung cấp vị trí chính xác, khu vực liên quan, điều quan sát được, người có thể còn bên trong và nguy cơ đặc biệt nếu đã biết. Không trì hoãn báo để tự tìm hết nguyên nhân hoặc tự chứng minh đám cháy lớn đến mức nào.\n\nPhân công một người gọi và xác nhận đã liên hệ khi có đủ người hỗ trợ. Tiếng báo động phải được hiểu là tín hiệu cần hành động theo phương án, không phải lời mời tập trung nhìn sự cố. Khi hệ thống không hoạt động, dùng phương án thông báo dự phòng đã được đơn vị thống nhất.\n\n### 2.2. Đi theo lối an toàn\nRời khu vực theo đường thoát được chỉ dẫn và còn an toàn, tránh nơi có khói, nhiệt hoặc nguy cơ lan. Không dùng thang máy thông thường khi cháy và không quay lại lấy đồ. Đóng cửa phía sau nếu có thể làm an toàn, không khóa gây cản trở người thoát. Nếu tuyến chính bị ảnh hưởng, dùng tuyến thay thế đã biết và nghe hướng dẫn của người phụ trách.\n\nKhông đi xuyên khói để tìm một người mà không có năng lực, thiết bị và phân công cứu nạn. Nếu bị kẹt, báo vị trí và tình trạng, tìm cách hạn chế khói xâm nhập khi an toàn, ra dấu cho lực lượng ứng cứu và làm theo hướng dẫn. Không tự suy rằng nhìn thấy cửa ra qua khói thì có thể tới đó an toàn.\n\n### 2.3. Hỗ trợ người có nhu cầu khác nhau\nPhương án phải tính tới người bị thương, người hạn chế vận động, khách, người không hiểu ngôn ngữ và ca đêm. Giao người hỗ trợ cùng giải pháp phù hợp từ trước; không chờ sự cố mới bàn ai sẽ giúp. Việc hỗ trợ phải tránh làm cả nhóm mắc kẹt hoặc sử dụng kỹ thuật di chuyển vượt năng lực.\n\n### 2.4. Tập kết và kiểm đếm\nTới điểm tập kết đã quy định, giữ thông thoáng đường cho xe ứng cứu và báo với người kiểm đếm. Đối chiếu quân số, khách, người đã chuyển vị trí và người chưa xác định. Khi thiếu người, báo tên hoặc nhận dạng, nơi cuối được thấy và thông tin liên quan cho lực lượng cứu nạn; không tổ chức tự quay vào tìm.\n\nChỉ trở lại khi người có thẩm quyền cho phép. Lửa tắt nhìn thấy không loại trừ khói độc, cháy âm, mất an toàn điện hoặc kết cấu. Kiểm đếm hoàn tất cũng không có nghĩa hiện trường đã đủ điều kiện sử dụng trở lại.",
+        "en": "### 2.1. Warn early and locate precisely\nActivate the local alarm and response system promptly. State the exact location, observed conditions, people potentially inside and known special hazards. Do not postpone notification while establishing the cause or exact size.\n\nWhere helpers are available, assign a named caller and confirm contact. An alarm requires action under the plan rather than gathering to watch. Use established backup warning arrangements if the system fails.\n\n### 2.2. Use a safe route\nFollow a designated, currently safe exit, avoiding smoke, heat and spreading danger. Do not use ordinary lifts or return for belongings. Close doors when safe without locking people in. Use known alternatives and follow authorized direction when the main route is compromised.\n\nDo not enter smoke to search without rescue competence, equipment and assignment. If trapped, communicate location and condition, limit smoke entry where safe, signal responders and follow instructions. Seeing an exit through smoke does not establish that it is reachable safely.\n\n### 2.3. Different assistance needs\nPlan for injured people, limited mobility, visitors, language barriers and night shifts. Assign appropriate assistance beforehand. Avoid improvised movement beyond competence or actions that trap additional people.\n\n### 2.4. Assembly and accounting\nReport to the designated assembly point and accountability lead, keeping response access clear. Reconcile personnel, visitors, changed locations and missing people. Give responders identifying information and last-known locations rather than re-entering independently.\n\nReturn only after authorized clearance. Visible extinguishment does not exclude toxic smoke, hidden fire, electrical or structural danger. Completed accountability does not itself authorize reuse of the premises."
+      },
+      "sourceIds": [
+        "OSHA",
+        "EAP"
+      ]
+    },
+    {
+      "id": "FPU-06-03",
+      "title": {
+        "vi": "3. Khi nào có thể xử lý ban đầu?",
+        "en": "3. When is initial intervention appropriate?"
+      },
+      "body": {
+        "vi": "### 3.1. Quyết định quan trọng hơn thao tác\nCó bình chữa cháy trong tay không có nghĩa phải sử dụng. Xử lý ban đầu chỉ có thể cân nhắc khi phù hợp phương án, người thực hiện đã được huấn luyện và cho phép, đám cháy còn rất nhỏ, chất cháy được hiểu, bình phù hợp và đường thoát luôn an toàn. Báo động cùng gọi lực lượng hỗ trợ phải được thực hiện; không giấu sự cố để tự xử lý cho nhanh.\n\nĐiều kiện cần được xem cùng nhau. Một đám cháy nhỏ nhưng trong nơi đầy khói hoặc liên quan chất không xác định vẫn có thể vượt khả năng. Không lấy kích thước ngọn lửa làm tiêu chí duy nhất. Bình xách tay có lượng chất chữa cháy hạn chế; sự cố có thể phát triển nhanh hơn thời gian người dùng dự tính.\n\n### 3.2. Nhận diện điểm phải dừng\nRút lui ngay nếu khói, nhiệt hoặc cháy có thể cắt đường ra; cần thiết bị bảo vệ hô hấp; không tiếp cận được trong tư thế an toàn; không biết chất cháy; hoặc ngọn lửa lan, bình hết mà chưa kiểm soát. Không lần lượt thử nhiều bình trong lúc môi trường xấu đi. Không dùng khăn ướt hoặc mặt nạ không chuyên dụng để tự coi mình được bảo vệ khi vào khói.\n\nDừng đúng lúc là một quyết định bảo vệ, không phải thất bại cá nhân. Cần báo tình trạng đã thấy, hành động đã làm và vị trí đang rút về, để người khác không tiếp tục vào dựa trên thông tin cũ.\n\n### 3.3. Giới hạn năng lực FPU\nTrang bị bảo vệ làm nhiệm vụ trật tự không tự thay quần áo, thiết bị và huấn luyện của lực lượng chữa cháy chuyên nghiệp. Năng lực phòng cháy hoặc xử lý ban đầu không đồng nghĩa khả năng cứu nạn trong công trình cháy, xử lý hóa chất hay bình áp lực bị nung nóng. Khi vượt khả năng, phải cô lập theo phương án, sơ tán và để đầu mối chuyên trách quyết định.\n\n### 3.4. Rà nguy cơ trước mỗi hành động\nTrước khi lại gần, tự hỏi: Đã báo chưa; mình có nhiệm vụ và năng lực không; biết loại cháy không; có bình phù hợp không; phía sau còn đường thoát không; không khí có an toàn không. Nếu một câu không thể trả lời chắc, chọn khoảng cách an toàn và gọi người có trách nhiệm. Không phải người phát hiện đầu tiên thì phải là người dập lửa.",
+        "en": "### 3.1. The decision precedes the technique\nAn available extinguisher does not create a duty to use it. Consider initial intervention only under the plan, with trained and authorized personnel, a very small fire, understood burning material, a suitable extinguisher and a continuously safe exit. Activate warnings and professional support rather than concealing the incident.\n\nAll conditions matter together. A small fire in smoke or involving unknown substances may already exceed capability. Portable extinguishers contain limited agent, while conditions can deteriorate rapidly.\n\n### 3.2. Recognize withdrawal conditions\nWithdraw if smoke, heat or spread threatens escape, respiratory protection is needed, safe approach is impossible, materials are unknown, or the fire grows or remains uncontrolled when the extinguisher empties. Do not keep trying devices as conditions worsen. Wet cloths and ordinary masks do not provide specialist smoke protection.\n\nTimely withdrawal is protective judgment. Report conditions, actions taken and your new location so others do not approach on outdated information.\n\n### 3.3. FPU capability limits\nPublic-order protective equipment does not replace firefighter equipment and training. Initial response competence does not establish capability for internal rescue, hazardous chemicals or heated pressure vessels. Follow isolation and evacuation arrangements and refer specialist decisions to competent responders.\n\n### 3.4. Reassess before action\nConfirm warning, assignment, competence, fire type, suitable equipment, escape and breathable surroundings. If uncertain, remain safely clear and activate responsible support. The first person noticing a fire need not be the person attempting extinguishment."
+      },
+      "sourceIds": [
+        "OSHA"
+      ]
+    },
+    {
+      "id": "FPU-06-04",
+      "title": {
+        "vi": "4. Bình chữa cháy và giới hạn sử dụng",
+        "en": "4. Extinguishers and their limits"
+      },
+      "body": {
+        "vi": "### 4.1. Đọc nhãn thay vì đoán màu\nBình được lựa chọn theo nhãn, ký hiệu loại cháy, chất chữa cháy và hướng dẫn nhà sản xuất. Không dựa riêng màu vỏ hoặc màu nhãn, vì hệ thống phân loại và cách ghi giữa nơi cung cấp có thể khác nhau. Đơn vị phải tổ chức làm quen với chính loại đang có, vị trí, tình trạng và cách dùng trong buổi thực hành.\n\nNước có thể phù hợp một số chất rắn thông thường, nhưng không dùng để phun vào thiết bị còn mang điện hoặc dầu mỡ nấu ăn đang cháy. Bình CO2, bột, bọt hoặc loại chuyên dùng có công dụng và giới hạn riêng. Một bình được ghi nhiều loại cháy không có nghĩa thích hợp cho mọi hóa chất, pin hoặc không gian kín.\n\n### 4.2. Kiểm tra khả năng dùng được\nTrước sự cố, kiểm tra khả năng tiếp cận, niêm phong, tình trạng bên ngoài, nhãn hướng dẫn và việc kiểm định, bảo dưỡng theo chế độ. Đồng hồ áp suất chỉ có ở một số loại; không dùng một tiêu chí cho mọi bình. Bình đã sử dụng hoặc có nghi ngờ hỏng phải được báo, thay và xử lý bởi người có trách nhiệm, không đặt lại vị trí như còn đầy.\n\nKiểm tra bình cần đi cùng kiểm tra lối thoát và nhu cầu từng khu vực. Một bình tốt nhưng bị khóa sau cửa hoặc không ai biết vị trí sẽ không tạo năng lực xử lý kịp thời.\n\n### 4.3. Hiểu PASS trong điều kiện được phép\nVới loại phù hợp sử dụng theo cách này, PASS giúp nhớ: Rút chốt; hướng vào gốc lửa; bóp tay cầm; quét ngang. Thực hiện theo hướng dẫn cụ thể của bình, trong tầm hiệu quả, giữ lối thoát an toàn và không tiến vào môi trường nguy hiểm. Khung nhớ không thay thực hành hoặc quyết định có nên can thiệp.\n\nVới CO2, phần loa phun có thể rất lạnh; tránh cầm phần không được thiết kế làm tay nắm. CO2 trong không gian kín có thể tạo nguy cơ thiếu oxy. Không thử phun bình vào người như một phương pháp làm mát hoặc chỉ vì quần áo đang cháy.\n\n### 4.4. Khi lửa có vẻ đã tắt\nLùi ra an toàn, theo dõi từ vị trí phù hợp và báo lực lượng chuyên trách. Không chạm vật nóng, tự bật điện trở lại hoặc coi hết ngọn lửa là hết nguy cơ. Đơn vị cần kiểm soát người quay lại, giữ đường tiếp cận và ghi nhận bình đã dùng để bổ sung sau sự cố.",
+        "en": "### 4.1. Read labels rather than colours\nSelect extinguishers by their markings, fire suitability, agent and manufacturer instructions. Colours and classification conventions vary. Train with the actual devices deployed, including their locations and limitations.\n\nWater may suit ordinary solid combustibles but must not be directed at energized equipment or burning cooking oil. CO2, powder, foam and specialist agents have distinct restrictions. Multi-class markings do not imply suitability for every chemical, battery or enclosed space.\n\n### 4.2. Establish usability\nCheck access, seals, external condition, instructions and required servicing. Not every extinguisher has a pressure gauge. Report and replace used or suspect equipment rather than returning it as ready.\n\nInspect routes and local needs as well as devices. A serviceable extinguisher behind a locked door or at an unknown location does not provide timely capability.\n\n### 4.3. PASS within authorized conditions\nWhere appropriate for the device, PASS recalls pulling the pin, aiming at the fire's base, squeezing and sweeping. Follow device instructions and effective range while preserving escape. The mnemonic replaces neither practical training nor the decision whether to intervene.\n\nCO2 discharge horns can cause cold injury; use only intended handgrips. CO2 can create oxygen-deficiency risks in enclosed spaces. Do not discharge an extinguisher at a person as improvised cooling.\n\n### 4.4. Apparent extinguishment\nWithdraw safely, observe from a suitable location and inform competent responders. Do not touch hot items or restore power independently. Control re-entry, maintain access and record equipment requiring replenishment. Absence of visible flame does not establish safety."
+      },
+      "sourceIds": [
+        "FIRE",
+        "OSHAUSE"
+      ]
+    },
+    {
+      "id": "FPU-06-05",
+      "title": {
+        "vi": "5. Người bén lửa, bỏng và tiếp cận chăm sóc",
+        "en": "5. Burning clothing, burns and medical support"
+      },
+      "body": {
+        "vi": "### 5.1. Phân biệt hai việc khác nhau\nQuần áo bén lửa cần ngừng quá trình cháy; da bị bỏng sau khi lửa đã tắt cần được làm mát và chăm sóc. Hai việc liên quan nhưng không thay nhau. Chỉ làm mát một vùng trong khi quần áo vẫn cháy hoặc chỉ dập lửa rồi bỏ qua đường thở đều có thể bỏ sót nguy cơ sinh mạng.\n\nNếu quần áo bén lửa, không chạy làm lửa lan. Dừng, hạ người xuống và lăn để dập lửa nếu có thể, bảo vệ mặt. Đồng đội cần gọi giúp và hỗ trợ an toàn theo huấn luyện, có thể dùng chăn phù hợp để phủ dập lửa khi làm được an toàn. Không tự lao vào đám cháy hoặc giằng kéo người theo cách gây thêm hại.\n\n### 5.2. Không tin quá mức vào trang phục\nChất liệu chống cháy có thể giảm một số nguy cơ nhưng không làm người mặc miễn nhiễm nhiệt, khói hoặc nhiên liệu. Không yêu cầu cán bộ đứng yên chờ nhiên liệu tự cháy hết. Trang bị bị tác động cần được đánh giá, không tự tiếp tục nhiệm vụ vì bên ngoài trông chưa hỏng.\n\nĐặc biệt chú ý dấu hiệu khó thở, khàn tiếng, bỏng vùng mặt hoặc giảm đáp ứng sau tiếp xúc khói, lửa. Đây là lý do gọi y tế khẩn; không mặc định chỉ có vết bỏng ngoài da. Người còn nói được ban đầu vẫn có thể xấu đi.\n\n### 5.3. Làm mát và bảo vệ vết bỏng\nKhi đã an toàn và lửa tắt, làm mát bỏng nhiệt ngay, ưu tiên nước sạch chảy, tránh làm toàn thân bị lạnh. Không đặt đá trực tiếp, bôi dầu mỡ, kem đánh răng hoặc chọc bóng nước. Không bóc vật dính chặt vào da. Che bảo vệ phù hợp và kết nối y tế, đặc biệt khi bỏng rộng, sâu, vị trí quan trọng hoặc có nghi hít khói.\n\nXử trí điện, hóa chất hoặc người còn trong vùng nguy hiểm có yêu cầu riêng; phải kiểm soát nguồn và gọi chuyên môn. Không suy rằng một phương pháp dùng được cho mọi dạng bỏng. Các nguyên tắc sơ cứu cần được thực hành và đọc cùng FPU-05.\n\n### 5.4. Theo dõi tới bàn giao\nKiểm tra đáp ứng, hơi thở và tình trạng; báo thời điểm, loại phơi nhiễm đã biết, biểu hiện cùng hỗ trợ đã làm. Nếu người không đáp ứng và không thở bình thường, áp dụng nhận biết ngừng tim và CPR trong năng lực theo hướng dẫn cấp cứu. Chăm sóc y tế không được chậm vì chờ hoàn tất báo cáo sự cố.",
+        "en": "### 5.1. Extinguishment and burn care differ\nBurning clothing requires stopping combustion; injured skin then requires cooling and care. Cooling one area while clothing continues burning, or extinguishing flames while overlooking breathing, can miss life threats.\n\nDo not run when clothing catches fire. Stop, drop and roll where possible, protecting the face. Helpers should activate assistance and use trained, safe methods, including a suitable blanket when feasible. Avoid entering fire or pulling the casualty in ways that add injury.\n\n### 5.2. Protective clothing has limits\nFlame-resistant material does not make a wearer immune to heat, smoke or fuel. Do not wait for fuel to burn away. Affected equipment requires assessment even if it looks intact.\n\nBreathing difficulty, hoarseness, facial burns or reduced responsiveness after smoke or flame exposure require urgent medical assistance. Visible skin injury may not represent the whole problem, and initial ability to speak does not guarantee continued stability.\n\n### 5.3. Cool and protect\nAfter safety and extinguishment, promptly cool thermal burns, preferably with clean running water, while preventing whole-body chilling. Avoid direct ice, grease, toothpaste, blister-breaking and removal of adherent material. Cover appropriately and obtain care for significant burns or suspected inhalation injury.\n\nElectrical, chemical and ongoing environmental hazards require source control and specialist guidance. Do not generalize one method to every burn. Practise first aid and connect these principles with FPU-05.\n\n### 5.4. Continue until handover\nMonitor responsiveness and breathing and report timing, known exposure, symptoms and assistance. Unresponsiveness with absent or abnormal breathing requires presumed-arrest recognition and CPR within competence under emergency guidance. Incident paperwork must not delay medical care."
+      },
+      "sourceIds": [
+        "FIRE",
+        "USFA",
+        "FA2024"
+      ]
+    },
+    {
+      "id": "FPU-06-06",
+      "title": {
+        "vi": "6. Chuẩn bị đơn vị và học từ sự cố",
+        "en": "6. Unit preparedness and incident learning"
+      },
+      "body": {
+        "vi": "### 6.1. Phương án phải sử dụng được\nĐơn vị cần biết tín hiệu báo động, đầu mối ứng cứu, tuyến thoát, điểm tập kết, người kiểm đếm và vai trò hỗ trợ. Đánh giá khu vực lưu trú, bếp, kho, bảo dưỡng, phương tiện và nơi tập trung đông người theo điều kiện. Phương án cần tính thời gian ngoài giờ, người mới đến và khả năng thông báo khi điện hoặc liên lạc bị gián đoạn.\n\nDanh bạ chỉ có giá trị khi được xác minh và có thể tìm nhanh. Không dùng số khẩn cấp của quốc gia khác trong tài liệu mẫu như thể áp dụng tại địa bàn. Cán bộ cần biết ai thực hiện việc ngắt điện, nhiên liệu hoặc hệ thống; người không được giao không tự quay lại làm.\n\n### 6.2. Diễn tập có mục tiêu\nDiễn tập nên kiểm tra thời gian phát hiện–báo, hiểu tín hiệu, lựa chọn lối thoát, hỗ trợ người có nhu cầu và kiểm đếm. Chọn mục tiêu quan sát được thay vì chỉ hoàn thành một cuộc tập kết. Kiểm tra người mới và ca trực ít được tham gia để tránh đánh giá quá cao mức sẵn sàng.\n\nHuấn luyện dùng bình cần giảng viên đủ năng lực, thiết bị phù hợp và biện pháp an toàn. Không tự tạo lửa bằng nhiên liệu để làm bài tập chưa được đánh giá và cho phép. Mô phỏng phải được quản lý để không phát sinh sự cố thật hoặc làm người tham gia hiểu sai báo động.\n\n### 6.3. Sau sự cố\nBảo vệ hiện trường theo hướng dẫn, ghi thông tin khách quan, không tự sửa dấu vết hoặc vứt trang bị liên quan trước khi được phép. Đánh giá thiệt hại, chăm sóc người bị ảnh hưởng, bổ sung phương tiện và chỉ phục hồi sử dụng khi có xác nhận phù hợp. Sự cố suýt xảy ra cũng cần được báo để sửa nguy cơ trước lần sau.\n\n### 6.4. Biến nhận xét thành hành động\nNếu lối thoát bị chặn, cần xác định vật cản, người di dời, phương án ngăn lặp và thời điểm kiểm tra. Nếu báo động không được nghe ở khu ngủ, cần xử lý hệ thống và kiểm chứng ở điều kiện tương tự. Kết luận “tăng cường ý thức” không đủ khi nguyên nhân là thiết kế, phân công hoặc bảo dưỡng. Năng lực cần đạt là phát hiện sớm, báo rõ, thoát an toàn, biết giới hạn can thiệp và duy trì trách nhiệm tới khi sự cố được bàn giao.",
+        "en": "### 6.1. A usable plan\nMembers need alarm meanings, response contacts, routes, assembly points, accountability and assistance roles. Assess accommodation, kitchens, storage, maintenance, vehicles and crowded areas. Include out-of-hours conditions, newcomers and power or communications failure.\n\nVerify contacts and make them quickly accessible. Foreign emergency numbers in sample materials are not local arrangements. Identify who may isolate power, fuel or systems; unassigned people should not re-enter to do so.\n\n### 6.2. Purposeful exercises\nTest detection and warning, alarm comprehension, route choice, assistance and accounting. Use observable objectives rather than merely recording assembly. Include newcomers and less-represented shifts.\n\nExtinguisher practice needs qualified instruction, suitable equipment and risk controls. Do not improvise fuel fires for unauthorized exercises. Manage simulation to prevent real incidents and alarm confusion.\n\n### 6.3. After an incident\nPreserve the scene as directed and record objective information. Avoid altering evidence or disposing of relevant equipment without authorization. Assess damage, support affected people, replenish resources and restore use only after appropriate clearance. Report near misses as opportunities for prevention.\n\n### 6.4. Actionable learning\nA blocked exit requires identified obstruction removal, ownership, recurrence prevention and verification. An inaudible alarm requires system correction tested under comparable conditions. “Raise awareness” cannot correct every design, assignment or maintenance fault. Intended competence combines early recognition, clear warning, safe escape, intervention limits and responsible handover."
+      },
+      "sourceIds": [
+        "OSHA",
+        "EAP",
+        "FIRE"
+      ]
+    }
+  ],
+  "source_ids": [
+    "FIRE",
+    "OSHA",
+    "EAP",
+    "OSHAUSE",
+    "USFA",
+    "FA2024"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "Fire triangle",
+      "definition": {
+        "vi": "Mô hình nhiên liệu — nhiệt — oxy.",
+        "en": "Fuel — heat — oxygen model."
+      }
+    },
+    {
+      "term": "Incipient fire",
+      "definition": {
+        "vi": "Đám cháy ở giai đoạn rất sớm, chỉ xử lý khi đủ điều kiện.",
+        "en": "Very early-stage fire, only suitable for intervention under required conditions."
+      }
+    },
+    {
+      "term": "Egress / Assembly",
+      "definition": {
+        "vi": "Đường thoát / tập kết theo phương án.",
+        "en": "Escape route / designated assembly."
+      }
+    },
+    {
+      "term": "PASS",
+      "definition": {
+        "vi": "Rút chốt; hướng gốc lửa; bóp; quét — khi phù hợp loại bình.",
+        "en": "Pull; aim; squeeze; sweep, where appropriate to the device."
+      }
+    },
+    {
+      "term": "Accountability",
+      "definition": {
+        "vi": "Kiểm đếm và xác định người chưa được xác nhận an toàn.",
+        "en": "Accounting for people and unresolved safety status."
+      }
+    }
+  ],
+  "diagram": null,
+  "contentVersion": "batch-04-expanded-v1-2026-10-28",
+  "sourceIntro": {
+    "vi": "Nguồn theo mục và tài liệu đối chiếu. Lời giảng, bản Anh và câu hỏi được biên soạn cho Handbook. Hình gốc có tài liệu, trang PDF và lời giải thích riêng.",
+    "en": "Section-level sources and supplementary reading. Teaching, English text and questions are authored for the Handbook. Original figures identify source, PDF page and separate commentary."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Bản biên soạn đợt 4, ngày 28/10/2026, chờ người dùng duyệt; không phải ấn phẩm hoặc bản dịch chính thức UN. Mã bài là cách tổ chức của Handbook.",
+      "Giao diện giữ bốn tab, Tahoma, cỡ chữ và bố cục mẫu. Hình giữ chữ gốc, có lời giảng Việt–Anh. Nguồn theo mục chỉ nền kiến thức, không coi mọi câu là trích nguyên văn.",
+      "Nội dung chung không thay mandate, DUF hoặc SOP phái bộ, không tự trao quyền hoặc chứng nhận năng lực thực hành. Phần thực hành cần người hướng dẫn đủ năng lực và điều kiện phù hợp.",
+      "FPU STM Extinguishing Fire (2015) cung cấp nền và hình tam giác cháy; phần phân loại bình được đọc theo nhãn và nhà sản xuất, không theo màu hoặc hệ chữ chung cho mọi quốc gia. Không kế thừa cách diễn đạt coi trang phục chống cháy đủ bảo vệ hoặc chờ nhiên liệu tự cháy hết.",
+      "OSHA, USFA và AHA/Red Cross được đối chiếu qua web chính thức để bổ sung giới hạn can thiệp, sơ tán, quần áo bén lửa và bỏng. Chuẩn OSHA là nguồn tham khảo an toàn của Hoa Kỳ, không được trình bày như pháp luật tự áp dụng cho mọi phái bộ."
+    ],
+    "en": [
+      "Batch 4 authored on 28 October 2026 for user review, not an official UN publication or translation. Lesson numbering belongs to the Handbook.",
+      "The four-tab Tahoma interface, sizes and sample layout are retained. Figures preserve original text with bilingual commentary. Mapping identifies knowledge foundations, not verbatim sourcing for every sentence.",
+      "General content does not replace applicable mandates, DUF or mission SOPs and confers neither powers nor practical certification. Practical learning requires competent instruction and suitable conditions.",
+      "FPU STM Extinguishing Fire (2015) provides foundations and the fire-triangle figure. Device markings and manufacturer instructions govern suitability, not universal colour or lettering assumptions. Clothing protection is not treated as immunity or a reason to wait for fuel to burn away.",
+      "Official OSHA, USFA and AHA/Red Cross web content supplements intervention limits, evacuation, burning clothing and burn care. US OSHA standards are safety references, not automatically applicable mission law."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bài học kết nối phòng ngừa, báo động, sơ tán, giới hạn xử lý ban đầu, sử dụng bình và chăm sóc người bị ảnh hưởng. Trọng tâm là nhận diện nguy cơ và bảo vệ sinh mạng.",
+      "en": "Connect prevention, warning, evacuation, initial-response limits, extinguishers and casualty care, with life protection at the centre."
+    },
+    "subtitle": {
+      "vi": "Phát hiện sớm · Thoát an toàn · Can thiệp đúng khả năng",
+      "en": "Recognize early · Escape safely · Act within capability"
+    },
+    "objectives": {
+      "vi": [
+        "Nhận diện nguồn nguy cơ và dùng tam giác cháy để đặt câu hỏi phòng ngừa.",
+        "Giải thích báo động, thoát, hỗ trợ và kiểm đếm.",
+        "Đánh giá khi nào không được hoặc phải ngừng xử lý ban đầu.",
+        "Đọc nhãn bình, hiểu PASS và các giới hạn an toàn.",
+        "Kết nối dập lửa, sơ cứu, bàn giao và khắc phục sau sự cố."
+      ],
+      "en": [
+        "Identify hazards and use the fire triangle for prevention questions.",
+        "Explain warning, escape, assistance and accounting.",
+        "Assess when initial intervention is inappropriate or must stop.",
+        "Interpret markings, PASS and safety limits.",
+        "Connect extinguishment, first aid, handover and correction."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc sáu mục trong tab Nội dung bài học; bấm hình để xem lớn và đọc lời giảng kèm. Làm 12 câu kiểm tra, đọc giải thích và trở lại mục liên quan. VI/EN giữ đáp án trong phiên; tải lại trang bắt đầu lại.",
+      "en": "Read six sections and figure commentary; click figures to enlarge. Complete 12 questions, review explanations and revisit relevant sections. VI/EN retains selections during the session; reloading starts again."
+    }
+  },
+  "figures": [
+    {
+      "chapter": 0,
+      "image": "assets/lesson-figures/batch-04/FIRE-p7.png",
+      "alt": {
+        "vi": "Hình 1. Tam giác cháy",
+        "en": "Figure 1. The fire triangle"
+      },
+      "caption": {
+        "vi": "Hình 1. Tam giác cháy",
+        "en": "Figure 1. The fire triangle"
+      },
+      "explanation": {
+        "vi": "Quan sát nhiên liệu, nhiệt và oxy. Dùng hình để tìm điểm phòng ngừa, không suy rằng có thể tự loại oxy trong phòng hoặc dùng mọi chất chữa cháy. Phương pháp cần đúng vật liệu và giới hạn an toàn.",
+        "en": "Use fuel, heat and oxygen to identify prevention opportunities. The model does not authorize altering room oxygen or using any extinguishing agent; methods depend on materials and safe limits."
+      },
+      "sourceLabel": "UN FPU STM 2015 · Extinguishing Fire",
+      "pdfPage": 7
+    }
+  ],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft",
+  "figureZoom": true
+}

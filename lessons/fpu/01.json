@@ -1,0 +1,698 @@
+{
+  "schemaVersion": 2,
+  "id": "FPU-01",
+  "area": "fpu",
+  "groupKey": "FPU-M6",
+  "group": {
+    "vi": "Chỉ huy và tham mưu",
+    "en": "Command staff training"
+  },
+  "title": {
+    "vi": "Tổ chức, nhiệm vụ, chỉ huy và phối hợp FPU",
+    "en": "FPU organization, tasks, command and coordination"
+  },
+  "summary": {
+    "vi": "Bài học giải thích giá trị của FPU như một đơn vị thống nhất, ba chức năng cốt lõi, cơ cấu, tuyến chỉ huy, lập kế hoạch và trách nhiệm báo cáo.",
+    "en": "Study FPU cohesion, three core functions, structure, command, planning and reporting responsibilities."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "INTRO",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-052%20Introduction%20to%20FPUs.pdf",
+  "order": 401,
+  "sections": [
+    {
+      "id": "FPU-01-01",
+      "title": {
+        "vi": "1. FPU trong hệ thống cảnh sát UN",
+        "en": "1. FPUs within United Nations policing"
+      },
+      "body": {
+        "vi": "### 1.1. Giá trị của một đơn vị thống nhất\nFPU là đơn vị cảnh sát có vũ trang, cơ động, được huấn luyện và tổ chức để hoạt động thống nhất. Giá trị của FPU nằm ở khả năng kết hợp chỉ huy, quân số, phương tiện và bảo đảm thành một năng lực thực hiện nhiệm vụ. Một nhóm cán bộ giỏi nhưng chưa tập luyện cùng nhau, chưa có thông tin liên lạc chung và chưa thống nhất cách thực hiện lệnh chưa tạo thành năng lực ấy.\n\nTrong phái bộ, hoạt động cảnh sát phục vụ an toàn con người, pháp quyền và thực hiện mandate. FPU có thể tạo sự hiện diện bảo vệ, hỗ trợ một hoạt động cảnh sát cần sức mạnh tập thể hoặc bảo vệ nhân sự UN. Cách lựa chọn nhiệm vụ phải xuất phát từ yêu cầu bảo vệ và thẩm quyền; không xuất phát từ mong muốn sử dụng hết quân số hoặc phương tiện đang có.\n\n### 1.2. FPU, IPO và năng lực chuyên biệt\nIPO là cán bộ cảnh sát cá nhân, thường đóng góp bằng chuyên môn, tham mưu, cố vấn, hướng dẫn hoặc thực hiện nhiệm vụ cảnh sát theo mandate. FPU đóng góp bằng khả năng đáp ứng theo đơn vị. Đội chuyên biệt có thể cung cấp năng lực như bảo vệ yếu nhân hoặc chuyên môn khác khi được xác định trong yêu cầu đơn vị. Có chuyên môn trong nước không tự động cho phép đơn vị thực hiện mọi nhiệm vụ tại phái bộ.\n\nHãy liên hệ ba tầng văn bản: Mandate xác định phái bộ phải làm gì và phạm vi được giao; CONOPS chuyển nhiệm vụ thành cách sử dụng năng lực; SUR và MOU xác định yêu cầu, cơ cấu và đóng góp của đơn vị. Lệnh tác nghiệp cụ thể tiếp tục phải phù hợp các tầng này cùng DUF và hướng dẫn phái bộ.\n\n### 1.3. Hoạt động độc lập và hỗ trợ\nPhần lớn hoạt động được tiến hành hỗ trợ cảnh sát nước sở tại. Một số hoàn cảnh cho phép FPU hoạt động độc lập theo mandate và thẩm quyền, đặc biệt khi bảo vệ dân thường hoặc bảo vệ UN. Không đồng nhất “hỗ trợ” với chấp hành mọi yêu cầu của nước sở tại; cũng không đồng nhất “độc lập” với tự tạo quyền bắt giữ, khám xét hoặc sử dụng vũ lực.\n\nVí dụ, yêu cầu hỗ trợ giữ an toàn cho một cuộc tụ tập cần được làm rõ về mục tiêu, nguy cơ đối với người tham gia, lực lượng phối hợp và thẩm quyền. Chỉ biết địa điểm tập kết chưa đủ để tổ chức một hoạt động có trách nhiệm.",
+        "en": "### 1.1. The value of a cohesive unit\nAn FPU is an armed, mobile police unit trained and organized to operate cohesively. It combines command, personnel, equipment and support into a deployable capability. Skilled individuals who have not rehearsed together, established shared communications or agreed how to execute orders do not yet provide that capability.\n\nMission policing serves human safety, the rule of law and mandate implementation. An FPU may provide protective presence, support operations requiring a formed response or protect UN personnel. Task selection starts with protection needs and authority, rather than the desire to employ all available personnel or vehicles.\n\n### 1.2. FPUs, IPOs and specialized capacity\nIndividual Police Officers contribute professional expertise, advice, mentoring or other mandated policing functions. FPUs contribute formed-unit response. Specialized capacities, including close protection where specified, must match unit requirements. Domestic expertise does not itself authorize every mission task.\n\nConnect three levels of documentation: The mandate establishes mission responsibilities and authority; the CONOPS translates them into the employment of capabilities; the SUR and MOU establish unit requirements, structure and contributions. Specific operational orders must remain consistent with these documents, the DUF and mission instructions.\n\n### 1.3. Independent action and support\nMost tasks support host-State law enforcement. Independent action may be required within the mandate and allocated authority, especially to protect civilians or the UN. Supporting the host State does not mean accepting every request; independent action does not create unrestricted arrest, search or force powers.\n\nA request to help secure an assembly therefore requires clarification of the objective, risks to participants, partners and authority. Knowing only a gathering point is insufficient preparation for responsible police action."
+      },
+      "sourceIds": [
+        "POLICY",
+        "CSC003"
+      ]
+    },
+    {
+      "id": "FPU-01-02",
+      "title": {
+        "vi": "2. Ba chức năng cốt lõi và giới hạn nhiệm vụ",
+        "en": "2. Three core functions and task boundaries"
+      },
+      "body": {
+        "vi": "### 2.1. Bảo vệ dân thường khỏi đe dọa bạo lực thể chất\nBảo vệ bắt đầu từ hiểu ai đang bị đe dọa, bởi ai, ở đâu và vào thời điểm nào. FPU đóng góp qua tiếp xúc cộng đồng, hiện diện tại nơi dễ xảy ra hại, tuần tra phù hợp nguy cơ và đáp ứng theo nhiệm vụ được giao. Phòng ngừa và đáp ứng bổ sung cho nhau; bảo vệ không chỉ bắt đầu khi đã có thương vong.\n\nMột đơn vị không thể đánh giá thành công chỉ bằng số lượt tuần tra. Cần xem người có nguy cơ đã tiếp cận được nơi an toàn chưa, đe dọa có dịch chuyển sang khu khác không và hoạt động của FPU có làm tăng nguy cơ trả đũa với người cung cấp tin không. Các câu hỏi ấy giúp chỉ huy đề xuất điều chỉnh nhiệm vụ thay vì lặp lại hoạt động không còn tác dụng.\n\n### 2.2. Hỗ trợ hoặc thực hiện hoạt động cần đáp ứng theo đơn vị\nChức năng thứ hai là hỗ trợ hoặc tiến hành hoạt động cảnh sát đòi hỏi đáp ứng tập thể hay năng lực chuyên biệt vượt khả năng IPO hoặc đội cảnh sát chuyên biệt liên quan. Quản lý trật tự công cộng là một lĩnh vực quan trọng, nhưng không bao trùm toàn bộ vai trò FPU. Đối thoại, giảm căng thẳng, phân biệt người có hành vi bạo lực với người tham gia ôn hòa và hạn chế hại cho dân thường vẫn là yêu cầu xuyên suốt.\n\nCảnh sát sở tại có thể là đối tác nhưng cũng có thể tạo nguy cơ cho người dân. Khi phát hiện dấu hiệu vi phạm, cán bộ phải báo cáo và đề nghị đánh giá lại hỗ trợ theo cơ chế phái bộ; không dùng danh nghĩa phối hợp để bỏ qua trách nhiệm của mình.\n\n### 2.3. Bảo vệ nhân sự và tài sản UN\nChức năng thứ ba là bảo vệ nhân sự và tài sản UN. Nhiệm vụ có thể gồm bảo vệ cơ sở, hộ tống hoặc đáp ứng một nguy cơ an ninh theo phân công. Phạm vi từng nhiệm vụ phải phù hợp năng lực, phương tiện, thời gian duy trì và cơ chế chỉ huy. Bố trí quá nhiều vị trí tĩnh có thể làm mất lực lượng cơ động cần cho bảo vệ dân thường; đây là vấn đề cần được chỉ huy đánh giá và báo lên.\n\n### 2.4. Kiểm tra trước khi nhận nhiệm vụ\nTrước một nhiệm vụ mới, hãy kiểm tra: Mục tiêu thuộc chức năng và mandate nào; ai giao lệnh; quyền hạn và giới hạn là gì; đơn vị có năng lực thực hiện an toàn không; phải phối hợp, báo cáo và kết thúc ra sao. Nếu còn thiếu, cần làm rõ và nêu phương án khả thi qua tuyến chỉ huy. Áp lực thời gian không thay thế việc xác định thẩm quyền.",
+        "en": "### 2.1. Protect civilians from physical violence\nProtection starts by identifying who is threatened, by whom, where and when. Community engagement, presence in vulnerable locations, risk-informed patrols and assigned responses are complementary contributions. Protection work begins before casualties occur.\n\nPatrol numbers alone cannot establish success. Ask whether people at risk reached safety, whether threats moved elsewhere and whether FPU activity increased retaliation risks for informants. These questions support changes to tasking when repeated activity no longer produces protection.\n\n### 2.2. Support or undertake formed police operations\nThe second function concerns operations requiring a formed response or specialized capability beyond relevant IPO or Specialized Police Team capacity. Public order management is important without defining the entire FPU role. Dialogue, de-escalation, distinction between violent individuals and peaceful participants, and civilian harm mitigation remain central.\n\nHost-State police can be partners and can also present protection risks. Report indications of violations and seek review through mission mechanisms. Cooperation does not remove individual or command responsibility.\n\n### 2.3. Protect UN personnel and property\nThe third function protects UN personnel and property through assigned guarding, escorts or other security responses. Tasks must match capability, equipment, sustainment and command arrangements. Excessive static commitments can remove mobility needed for civilian protection; commanders must assess and elevate that trade-off.\n\n### 2.4. Questions before accepting a task\nEstablish the mandated objective, the issuing authority, powers and limits, the unit's ability to act safely, and coordination, reporting and termination arrangements. Seek clarification and propose feasible alternatives through command when these elements are missing. Urgency does not replace authority."
+      },
+      "sourceIds": [
+        "POLICY",
+        "CSC003"
+      ]
+    },
+    {
+      "id": "FPU-01-03",
+      "title": {
+        "vi": "3. Cơ cấu đơn vị và tính gắn kết",
+        "en": "3. Unit structure and cohesion"
+      },
+      "body": {
+        "vi": "### 3.1. Ba bộ phận cùng tạo năng lực\nCơ cấu FPU gồm bộ phận chỉ huy và tác nghiệp, bộ phận bảo đảm hậu cần và bộ phận thực thi. Chỉ huy và tác nghiệp tổ chức quyết định, mệnh lệnh, thông tin và điều hành. Hậu cần duy trì phương tiện, dịch vụ, y tế và khả năng tự bảo đảm theo cam kết. Bộ phận thực thi trực tiếp thực hiện nhiệm vụ trong các phân đội chiến thuật. Không bộ phận nào hoạt động tách rời hai bộ phận còn lại.\n\nMột kế hoạch tuần tra không có xe đủ điều kiện, thông tin liên lạc và hỗ trợ y tế chưa phải kế hoạch có thể thực hiện. Ngược lại, phương tiện đầy đủ cũng không bù được việc thiếu người có năng lực chỉ huy hoặc không hiểu mục tiêu. Đó là lý do kiểm tra sẵn sàng phải xem cả con người, trang bị và tổ chức.\n\n### 3.2. Quy mô chuẩn và yêu cầu riêng\nChính sách FPU 2024.14 xác định cơ cấu chuẩn hướng tới quân số tối thiểu 160 người, có ít nhất bốn trung đội tác nghiệp, mỗi trung đội khoảng 32 người. Cơ cấu và năng lực cụ thể được xác định theo SUR của đơn vị. Không lấy một sơ đồ mẫu để khẳng định mọi FPU có biên chế giống nhau, đặc biệt với đơn vị chuyên biệt hoặc năng lực tăng cường.\n\nTrong FPU cấp đại đội, nhân sự tác nghiệp phải chiếm tối thiểu 85%, nhân sự bảo đảm không vượt 15%. Với đơn vị chủ yếu làm quản lý trật tự công cộng, năng lực chuyên biệt bổ sung không được tính thay cho năng lực tác nghiệp POM tối thiểu theo chính sách. Khi lập bảng quân số, phải phân biệt tổng số có mặt với số có thể thực hiện đúng vai trò.\n\n### 3.3. Phân đội và triển khai tách\nTiểu đội là đơn vị triển khai nhỏ nhất, có tối thiểu mười nhân sự tác nghiệp và không được chia nhỏ thêm. Việc sử dụng ở cấp nhỏ nhất chỉ nên trong thời gian giới hạn, có đánh giá nguy cơ, chỉ huy và bảo đảm phù hợp. Nguyên tắc chung là giữ tính thống nhất FPU; triển khai trung đội ra địa bàn xa cần được cho phép, đánh giá tác động và bố trí năng lực duy trì theo SUR, MOU cùng hướng dẫn phái bộ.\n\n### 3.4. Con người trong cơ cấu\nVai trò cần gắn với năng lực thực tế: Ngôn ngữ, điều hành, lái xe, sử dụng trang bị và xử trí thông tin. Phụ nữ cần có cơ hội tham gia đầy đủ các vị trí, kể cả chỉ huy và tác nghiệp; không mặc định chỉ giao công việc tiếp xúc phụ nữ hoặc hành chính. Khi có người vắng, phải xác định ai thay và năng lực nào bị giảm. Đổi tên trên bảng phân công không tự khôi phục năng lực đã thiếu.",
+        "en": "### 3.1. Three mutually supporting components\nAn FPU comprises command and operations, logistical support and executive components. Command and operations organize decisions, orders, information and direction. Logistics sustains equipment, services, medical support and agreed self-sustainment. Executive personnel carry out tasks within tactical sub-units. None functions effectively in isolation.\n\nA patrol plan without serviceable transport, communications and medical support is not executable. Equipment cannot compensate for absent command competence or unclear objectives. Readiness therefore concerns people, equipment and organization together.\n\n### 3.2. Standard structure and specific requirements\nPolicy 2024.14 describes a standard structure with a desired minimum strength of 160, at least four operational platoons of approximately 32 officers each. Actual composition and capabilities are specified in the unit SUR. A sample chart does not establish identical staffing for every FPU, particularly specialized units.\n\nFor a company-size FPU, operational personnel must constitute at least 85%, with support personnel not exceeding 15%. Additional specialist capacities in primarily POM units do not substitute for the policy's minimum POM operational capacity. Distinguish total personnel present from those available and qualified for a particular role.\n\n### 3.3. Sub-units and separated deployment\nSections are the smallest deployable units, comprising at least ten operational members, and cannot be broken down further. Employment at that level requires limited duration and appropriate risk, command and support arrangements. The general rule preserves FPU cohesion. Remote platoon deployment requires authorization, impact assessment and sustainment under the SUR, MOU and mission arrangements.\n\n### 3.4. People within the structure\nAssign roles according to language, command, driving, equipment and information-handling competence. Women must have meaningful access to all functions, including command and operations. Do not confine them to administration or engagement with women. When a member is unavailable, identify a qualified replacement and the actual capability loss. Changing a roster entry does not itself restore readiness."
+      },
+      "sourceIds": [
+        "POLICY",
+        "CSC003"
+      ]
+    },
+    {
+      "id": "FPU-01-04",
+      "title": {
+        "vi": "4. Tuyến chỉ huy và các cấp kiểm soát",
+        "en": "4. Command relationships and levels of control"
+      },
+      "body": {
+        "vi": "### 4.1. Từ thẩm quyền UN đến lệnh tác nghiệp\nQuốc gia đóng góp chuyển giao thẩm quyền tác nghiệp cho UN theo cơ chế triển khai. Thẩm quyền này thuộc Tổng Thư ký dưới thẩm quyền Hội đồng Bảo an, được thực hiện qua Trưởng phái bộ và Trưởng thành phần cảnh sát. Trong thành phần cảnh sát, HoPC giữ quyền chỉ huy FPU và có thể ủy quyền theo cơ cấu được xác lập.\n\nQuốc gia đóng góp tiếp tục có trách nhiệm quốc gia đối với nhân sự và các nghĩa vụ liên quan; điều đó không tạo một tuyến giao lệnh tác nghiệp song song. FPU không nhận hoặc truyền chỉ thị tác nghiệp hay lệnh chiến thuật từ cơ quan quốc gia hoặc chỉ huy quân sự, trừ cơ chế chỉ huy thống nhất đặc biệt được UNHQ cho phép. Khi có yêu cầu ngoài tuyến, cần báo cáo và làm rõ thẩm quyền trước khi coi đó là lệnh thực hiện.\n\n### 4.2. Phân biệt OPCON, TACOM và TACON\n**OPCON** là kiểm soát tác nghiệp trong phạm vi được giao. HoPC có thể ủy quyền OPCON cho chỉ huy FPU. **TACOM** là chỉ huy chiến thuật đối với đơn vị; chỉ huy FPU giữ vai trò này theo cơ chế áp dụng. **TACON** là kiểm soát chiến thuật đối với một hoạt động hay hành động cụ thể, do chỉ huy FPU hoặc chỉ huy phân đội liên quan thực hiện.\n\nBa thuật ngữ không phải ba tên gọi thay thế nhau. Cần biết ai quyết định sử dụng đơn vị, ai chịu trách nhiệm chỉ huy chiến thuật và ai điều khiển hoạt động cụ thể. Việc một đơn vị phối hợp hoặc bố trí gần lực lượng khác không tự chuyển giao các quyền này.\n\n### 4.3. Nhiều FPU cùng tham gia\nKhi nhiều FPU hoặc phân đội từ nhiều FPU cùng hoạt động, từng đơn vị vẫn báo cáo qua tuyến của mình. Deputy-Chief Ops (FPU) hoặc người được giao chịu trách nhiệm chỉ huy chiến thuật chung theo cơ chế chính sách. Trước khi bắt đầu, cần thống nhất người điều phối, mục tiêu chung, nhiệm vụ từng đơn vị, liên lạc, báo cáo và cách xử lý khi tình hình vượt phương án.\n\n### 4.4. Mệnh lệnh rõ và có trách nhiệm\nMột lệnh cần đủ để cấp dưới hiểu mục đích, việc phải làm, giới hạn và trách nhiệm. Nhận lệnh phải có xác nhận hiểu, không chỉ nhắc lại thời gian. Nếu thiếu thẩm quyền, mâu thuẫn hoặc có dấu hiệu trái pháp luật, cán bộ phải nêu vấn đề qua cơ chế chỉ huy, bảo vệ tính hợp pháp và thực hiện nghĩa vụ báo cáo; không coi mệnh lệnh là căn cứ miễn trách nhiệm cá nhân.",
+        "en": "### 4.1. From UN authority to operational orders\nContributing States transfer operational authority to the UN under deployment arrangements. It is vested in the Secretary-General under Security Council authority and exercised through the Head of Mission and Head of Police Component. The HoPC commands FPUs and may delegate within the established structure.\n\nNational responsibilities for personnel do not create a parallel operational tasking chain. FPUs must not receive or transmit operational directives or tactical orders from national authorities or military commands, except under specific unified arrangements authorized by UNHQ. Report and clarify requests received outside the authorized chain.\n\n### 4.2. Distinguish OPCON, TACOM and TACON\n**OPCON** concerns operational control within delegated authority; the HoPC may delegate it to an FPU commander. **TACOM** concerns tactical command of the unit. **TACON** concerns control of a particular operation or action, exercised by the FPU commander or relevant subordinate commander.\n\nThese are distinct relationships. Establish who employs the unit, who holds tactical command and who controls the specific activity. Cooperation or physical proximity to another component does not itself transfer authority.\n\n### 4.3. Operations involving several FPUs\nUnits retain their reporting chains when several FPUs or their sub-units operate together. The Deputy-Chief Ops (FPU), or the designated delegate, assumes common tactical-command responsibility under policy arrangements. Agree coordination, shared objectives, separate assignments, communications, reporting and responses to changed conditions before deployment.\n\n### 4.4. Clear and accountable orders\nSubordinates must understand the purpose, tasks, limits and responsibilities. Acknowledgement should confirm understanding rather than merely repeat timing. Missing authority, contradictory instructions or apparent illegality require action through command and reporting mechanisms. An order does not remove individual responsibility for lawful conduct."
+      },
+      "sourceIds": [
+        "POLICY",
+        "CSC003",
+        "CSC007"
+      ]
+    },
+    {
+      "id": "FPU-01-05",
+      "title": {
+        "vi": "5. Phối hợp và chuyển mục tiêu thành kế hoạch",
+        "en": "5. Coordination and translating objectives into plans"
+      },
+      "body": {
+        "vi": "### 5.1. Biết đối tác và điểm nối công việc\nFPU cần phối hợp với IPO, đơn vị FPU khác, quân sự, an ninh, bảo vệ dân thường, nhân quyền, y tế và bảo đảm theo nhiệm vụ. Mỗi bên có chức năng và tuyến trách nhiệm riêng. Phối hợp tốt làm rõ ai cung cấp thông tin, ai quyết định, ai thực hiện và ai theo dõi. Cuộc họp nhiều người nhưng không xác định trách nhiệm và thời điểm báo lại chưa tạo ra cơ chế phối hợp có hiệu quả.\n\nTiếp xúc với cộng đồng giúp hiểu thời gian, địa điểm và nhóm dễ bị hại. Thông tin nhận được cần được đánh giá và chuyển đến đúng đầu mối, đồng thời bảo vệ danh tính, an toàn và kỳ vọng của người chia sẻ. Không hứa mức bảo vệ mà đơn vị không có khả năng cung cấp; giải thích rõ cách tiếp nhận và giới hạn hỗ trợ.\n\n### 5.2. Năm phần SMEAC\nLệnh tác nghiệp cảnh sát có thể tổ chức theo năm phần SMEAC:\n1. **Tình hình:** Thông tin liên quan, nguy cơ, lực lượng và điều kiện ảnh hưởng nhiệm vụ.\n2. **Nhiệm vụ:** Ai làm gì, ở đâu, khi nào và nhằm mục đích gì.\n3. **Thực hiện:** Ý định, phân công, phối hợp, giới hạn và điều kiện điều chỉnh.\n4. **Hành chính và hậu cần:** Quân số, phương tiện, tiếp tế, y tế và bảo đảm duy trì.\n5. **Chỉ huy và kiểm soát:** Trách nhiệm, kế nhiệm, liên lạc và báo cáo.\n\nĐây là khung giúp tổ chức thông tin, không phải giấy phép thực hiện một nhiệm vụ chưa có thẩm quyền. Phần thực hiện cần cho cấp dưới hiểu hiệu quả bảo vệ mong muốn, thay vì chỉ liệt kê vị trí hoặc thao tác.\n\n### 5.3. Kiểm tra khả năng thực hiện\nChỉ huy đối chiếu mục tiêu với lực lượng có thể triển khai, thời gian tới nơi, khả năng duy trì, liên lạc và hỗ trợ y tế. Cần xét cả những nhiệm vụ khác đang sử dụng cùng nguồn lực. Một xe được ghi trong hai kế hoạch cùng giờ không phải hai xe. Một kíp vừa kết thúc nhiệm vụ dài có thể cần phục hồi trước khi được sử dụng tiếp.\n\n### 5.4. Phối hợp khi tình hình thay đổi\nKhi xuất hiện nguy cơ mới, đơn vị phải báo thông tin đủ để chỉ huy quyết định: Điều gì thay đổi, ảnh hưởng gì, đã làm gì trong thẩm quyền và cần hỗ trợ gì. Giữ kênh báo cáo thông suốt, xác nhận người nhận và cập nhật quyết định. Tự điều chỉnh nhiệm vụ vượt phạm vi được giao có thể làm hở vị trí bảo vệ khác và phá vỡ kế hoạch chung.",
+        "en": "### 5.1. Partners and working interfaces\nAn FPU may coordinate with IPOs, other FPUs, military, security, protection, human rights, medical and support actors. Each retains distinct functions and accountability. Effective coordination identifies information providers, decision-makers, implementers and follow-up responsibilities. Attendance at a meeting does not itself establish a working arrangement.\n\nCommunity contact informs understanding of vulnerable people, locations and timing. Evaluate information, refer it appropriately and protect contributors' identities and expectations. Explain assistance limits and avoid promises beyond available capability.\n\n### 5.2. The five SMEAC elements\nA police operational order can follow SMEAC:\n1. **Situation:** Relevant information, threats, forces and operating conditions.\n2. **Mission:** Who does what, where, when and for what purpose.\n3. **Execution:** Intent, assignments, coordination, limits and adjustment conditions.\n4. **Administration and logistics:** Personnel, transport, supplies, medical support and sustainment.\n5. **Command and control:** Responsibilities, succession, communications and reporting.\n\nThe framework organizes information without authorizing an otherwise unauthorized task. Execution should explain the intended protective effect, rather than only positions or actions.\n\n### 5.3. Test feasibility\nCompare objectives with deployable personnel, arrival time, sustainment, communications and medical support. Account for competing commitments. A vehicle assigned to two simultaneous plans is still one vehicle. A team returning from prolonged duty may require recovery before further employment.\n\n### 5.4. Coordinate changing conditions\nReport what changed, its implications, action already taken within authority and support required. Maintain reporting channels, confirm receipt and communicate revised decisions. Uncoordinated changes beyond assigned authority can expose another protection location and undermine the wider plan."
+      },
+      "sourceIds": [
+        "POLICY",
+        "CSC009"
+      ]
+    },
+    {
+      "id": "FPU-01-06",
+      "title": {
+        "vi": "6. Báo cáo, trách nhiệm và bàn giao",
+        "en": "6. Reporting, accountability and handover"
+      },
+      "body": {
+        "vi": "### 6.1. Báo cáo phục vụ quyết định\nBáo cáo tác nghiệp phải giúp người nhận hiểu tình hình và quyết định, gồm thời gian, địa điểm, sự kiện, nguồn biết, hành động, kết quả và nhu cầu tiếp theo. Phân biệt điều trực tiếp quan sát với thông tin được cung cấp và nhận định của đơn vị. Nếu thông tin ban đầu chưa đầy đủ, hãy nêu rõ và cập nhật; không chờ hoàn chỉnh mọi chi tiết mới báo một nguy cơ khẩn cấp.\n\nBáo cáo thương vong, sử dụng vũ lực, thiệt hại dân sự hoặc sự cố nghiêm trọng phải theo cơ chế áp dụng. Mọi hại có thể phát sinh từ hoạt động của đơn vị cần được ghi nhận để xem xét, khắc phục và học tập. Việc báo cáo không được trì hoãn chỉ vì nội dung có thể bất lợi cho đơn vị.\n\n### 6.2. Trách nhiệm chỉ huy và cá nhân\nChỉ huy chịu trách nhiệm về quyết định sử dụng năng lực, lệnh rõ ràng, giám sát và hành động khi biết thiếu sót. Cán bộ chịu trách nhiệm về hành vi của mình, tuân thủ giới hạn và báo thông tin đúng. Không thể thay thế hai trách nhiệm này bằng một bản tổng kết thành tích chung.\n\nKhi có dấu hiệu sai phạm, cần bảo vệ người bị hại, bảo toàn thông tin và thực hiện nghĩa vụ báo cáo qua cơ chế phù hợp. Không thống nhất lời kể để làm báo cáo “đẹp”; không tự kết luận điều tra thay cơ quan có trách nhiệm. Hồ sơ phải cho phép truy lại ai quyết định, dựa trên thông tin nào và điều gì đã xảy ra.\n\n### 6.3. Rút kinh nghiệm có đầu ra\nRút kinh nghiệm nên trả lời: Mục tiêu ban đầu là gì; thực tế diễn ra thế nào; điều gì giải thích chênh lệch; cần duy trì hoặc sửa gì. Kết luận phải chuyển thành việc cụ thể, người phụ trách và mốc kiểm tra. Nếu vướng mắc là liên lạc không tương thích, chỉ nhắc “tăng cường phối hợp” sẽ không khắc phục được; phải xác định thiết bị, quy ước hoặc luyện tập cần thay đổi.\n\n### 6.4. Bàn giao giữ liên tục năng lực\nBàn giao phải bao gồm nhiệm vụ đang tiếp diễn, nguy cơ chưa xử lý, lực lượng và trang bị thực có, hồ sơ, đầu mối cùng những hạn chế đang tồn tại. Người nhận cần xác nhận hiểu và kiểm tra thực tế phần việc quan trọng. Số lượng đủ trên biên bản nhưng xe không hoạt động hoặc thiếu người sử dụng vẫn là thiếu năng lực. Đó cũng là cầu nối sang FPU-02 về COE và FPU-03 về duy trì sẵn sàng.",
+        "en": "### 6.1. Reporting for decisions\nOperational reports establish time, location, events, information sources, actions, results and further needs. Separate direct observation, received information and assessment. Identify gaps and update them; do not delay urgent warning while waiting for every detail.\n\nFollow applicable channels for casualties, force, civilian harm and serious incidents. Record harm arising from unit activity for review, remedy and learning. Potentially adverse information about the unit is not a reason to withhold a report.\n\n### 6.2. Command and individual responsibility\nCommanders are responsible for employment decisions, clear orders, supervision and addressing known shortcomings. Officers remain responsible for their conduct, limits and accurate reporting. A general performance summary cannot replace either responsibility.\n\nWhere misconduct is suspected, protect affected people, preserve information and report appropriately. Do not coordinate accounts to improve appearances or substitute personal conclusions for an authorized investigation. Records should establish who decided, on what information and what actually occurred.\n\n### 6.3. Learning that produces action\nReview the intended objective, actual events, reasons for differences and required changes. Assign actions, owners and review dates. If incompatible communications caused failure, “improve coordination” is insufficient: Identify the equipment, procedures or rehearsal that must change.\n\n### 6.4. Handover sustaining capability\nTransfer continuing tasks, unresolved threats, actual personnel and equipment status, records, contacts and limitations. The receiving team must understand and check critical matters. A complete inventory does not establish readiness when equipment is inoperable or qualified operators are absent. This connects organizational responsibility with COE management in FPU-02 and sustained readiness in FPU-03."
+      },
+      "sourceIds": [
+        "POLICY",
+        "CSC009"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "POLICY",
+      "title": "Policy 2024.14: Formed Police Units in United Nations Peace Operations",
+      "publisher": "United Nations DPO",
+      "year": "2024",
+      "url": "https://resourcehub01.blob.core.windows.net/$web/Policy%20and%20Guidance/corepeacekeepingguidance/Thematic%20Operational%20Activities/Police%20and%20Law%20Enforcement/2024.14%20Formed%20Police%20Units%20in%20United%20Nations%20Peace%20Operations.pdf",
+      "format": "pdf",
+      "pages": 34,
+      "reading": "Nguồn chính sách nền; hiệu lực 01/12/2024",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "CSC003",
+      "title": "FPU Command Staff Course 2026 · Lesson 3: Overview of UN Police",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-003%20Lesson%203%20Overview%20of%20UN%20Police%20(LP).pdf",
+      "year": "2026",
+      "publisher": "United Nations Police / DPO",
+      "format": "pdf"
+    },
+    {
+      "id": "CSC007",
+      "title": "FPU Command Staff Course 2026 · Lesson 7: Command and Leadership",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-007%20Lesson%207%20Command%20and%20Leadership%20(LP).pdf",
+      "year": "2026",
+      "publisher": "United Nations Police / DPO",
+      "format": "pdf"
+    },
+    {
+      "id": "CSC009",
+      "title": "FPU Command Staff Course 2026 · Lesson 9: Police Operations Orders",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-009%20Lesson%209%20Police%20Ops%20Orders%20(LP).pdf",
+      "year": "2026",
+      "publisher": "United Nations Police / DPO",
+      "format": "pdf"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Điều gì tạo nên giá trị đặc thù của FPU?",
+        "en": "What establishes the distinctive value of an FPU?"
+      },
+      "options": [
+        {
+          "vi": "Khả năng thực hiện mọi quyền cảnh sát trong nước tại phái bộ.",
+          "en": "The ability to exercise all domestic police powers in a mission."
+        },
+        {
+          "vi": "Khả năng chỉ huy, hành động và bảo đảm thống nhất theo đơn vị.",
+          "en": "Cohesive command, action and sustainment as a unit."
+        },
+        {
+          "vi": "Tổng số người có kinh nghiệm riêng lẻ, dù chưa tập cùng nhau.",
+          "en": "The total number of individually experienced officers, even without collective preparation."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "FPU tạo năng lực tập thể, cần tổ chức và huấn luyện chung; kinh nghiệm cá nhân không tự tạo quyền hạn. Xem mục 1.",
+        "en": "An FPU provides organized collective capability; individual experience does not create authority. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Quan hệ nào giữa mandate, CONOPS, SUR và MOU là đúng?",
+        "en": "Which relationship between mandate, CONOPS, SUR and MOU is correct?"
+      },
+      "options": [
+        {
+          "vi": "Chúng kết nối nhiệm vụ và thẩm quyền với cách sử dụng cùng yêu cầu, đóng góp đơn vị.",
+          "en": "They connect tasks and authority with employment, requirements and contributions."
+        },
+        {
+          "vi": "SUR tự trao mọi quyền cần để đạt tiêu chuẩn trang bị.",
+          "en": "The SUR grants any power needed to achieve equipment standards."
+        },
+        {
+          "vi": "Một lệnh tại hiện trường luôn thay thế mọi văn bản này.",
+          "en": "A field order always overrides all these documents."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Các văn bản có vai trò khác nhau và phải được đọc liên kết; lệnh cụ thể vẫn nằm trong giới hạn áp dụng. Xem mục 1.",
+        "en": "These documents have distinct, connected roles; operational orders remain subject to applicable limits. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Đánh giá nào phản ánh kết quả bảo vệ dân thường tốt hơn?",
+        "en": "Which assessment better addresses civilian-protection results?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ ghi lượng trang bị đã sử dụng.",
+          "en": "Record equipment usage only."
+        },
+        {
+          "vi": "Xem nguy cơ thực tế giảm hay dịch chuyển và người có nguy cơ tiếp cận an toàn thế nào.",
+          "en": "Examine reduced or displaced threats and whether people at risk can reach safety."
+        },
+        {
+          "vi": "Chỉ đếm số lần tuần tra đã hoàn thành.",
+          "en": "Count completed patrols only."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Hoạt động là đầu ra; hiệu quả bảo vệ cần xem hại thực tế và tác động ngoài dự kiến. Xem mục 2.",
+        "en": "Activities are outputs; protection assessment examines actual harm and unintended effects. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Yêu cầu hỗ trợ từ đối tác nước sở tại nên được xem xét thế nào?",
+        "en": "How should a host-State request for support be considered?"
+      },
+      "options": [
+        {
+          "vi": "Luôn chấp hành vì đây là cảnh sát nước sở tại.",
+          "en": "Always comply because the requester is the host-State police."
+        },
+        {
+          "vi": "Chỉ cần có đủ phương tiện là có thể thực hiện.",
+          "en": "Available equipment alone makes the task permissible."
+        },
+        {
+          "vi": "Theo mandate, thẩm quyền, nguy cơ và cơ chế giao nhiệm vụ của UN.",
+          "en": "Against mandate, authority, risk and UN tasking arrangements."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Phối hợp không bỏ giới hạn thẩm quyền hoặc trách nhiệm bảo vệ và báo cáo. Xem mục 2.",
+        "en": "Cooperation does not remove authority limits, protection duties or reporting responsibilities. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Một sơ đồ FPU mẫu chứng minh điều gì?",
+        "en": "What does a sample FPU chart establish?"
+      },
+      "options": [
+        {
+          "vi": "Có thể bỏ bộ phận bảo đảm nếu quân số tác nghiệp đủ.",
+          "en": "Support can be omitted when operational staffing is sufficient."
+        },
+        {
+          "vi": "Cách tổ chức minh họa; phải đối chiếu cơ cấu thực với chính sách và SUR.",
+          "en": "An illustrative structure that must be compared with policy and the actual SUR."
+        },
+        {
+          "vi": "Mọi đơn vị đều có biên chế và năng lực chuyên biệt giống hệt nhau.",
+          "en": "Every unit has identical staffing and specialist capacities."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Cơ cấu chuẩn hỗ trợ hiểu chức năng; yêu cầu đơn vị và tính duy trì vẫn phải được xác minh. Xem mục 3.",
+        "en": "A standard structure explains functions; specific requirements and sustainment still need verification. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Việc chia tiểu đội thành các nhóm nhỏ độc lập cần hiểu thế nào?",
+        "en": "How should independently splitting a section be understood?"
+      },
+      "options": [
+        {
+          "vi": "Luôn được phép nếu mỗi nhóm có một bộ đàm.",
+          "en": "Always permitted if each group has a radio."
+        },
+        {
+          "vi": "Tiểu đội là đơn vị triển khai nhỏ nhất theo chính sách, không được chia nhỏ thêm.",
+          "en": "The section is the smallest deployable unit under policy and cannot be broken down further."
+        },
+        {
+          "vi": "Chỉ cần chia đều số người, không cần xem chỉ huy và bảo đảm.",
+          "en": "Only equal numbers matter, without command or support assessment."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Tính gắn kết, khả năng chỉ huy và bảo đảm là điều kiện của triển khai; số người đơn thuần chưa đủ. Xem mục 3.",
+        "en": "Cohesion, command and support underpin deployment, not numbers alone. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Một cơ quan quốc gia gửi yêu cầu tác nghiệp ngoài tuyến UN. Đơn vị cần làm gì?",
+        "en": "A national authority sends operational tasking outside the UN chain. What is required?"
+      },
+      "options": [
+        {
+          "vi": "Chuyển ngay yêu cầu thành lệnh cho phân đội mà không kiểm tra.",
+          "en": "Immediately issue it to sub-units without checking authority."
+        },
+        {
+          "vi": "Tự động thực hiện vì nhân sự thuộc quốc gia đó.",
+          "en": "Automatically comply because the personnel belong to that State."
+        },
+        {
+          "vi": "Báo cáo, làm rõ theo tuyến UN và cơ chế được cho phép.",
+          "en": "Report and clarify through UN command and authorized arrangements."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Trách nhiệm quốc gia không tạo tuyến tác nghiệp song song; cơ chế thống nhất đặc biệt cần UNHQ cho phép. Xem mục 4.",
+        "en": "National responsibilities do not establish a parallel operational chain; exceptional unified arrangements require UNHQ authorization. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Đơn vị phối hợp gần lực lượng quân sự có tự động chuyển TACOM không?",
+        "en": "Does operating near military forces automatically transfer TACOM?"
+      },
+      "options": [
+        {
+          "vi": "Không; quyền chỉ huy phải theo cơ chế được xác lập, không theo vị trí địa lý.",
+          "en": "No; command follows authorized arrangements, not physical proximity."
+        },
+        {
+          "vi": "Có, nếu quân sự có nhiều phương tiện hơn.",
+          "en": "Yes, if the military has more equipment."
+        },
+        {
+          "vi": "Có, khi nhiệm vụ diễn ra ngoài doanh trại.",
+          "en": "Yes, whenever the task occurs outside the camp."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Phối hợp và chuyển quyền chỉ huy là hai quan hệ cần được xác định rõ. Xem mục 4.",
+        "en": "Coordination and transfer of command are distinct relationships requiring clarity. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Phần nào của SMEAC làm rõ ý định, phân công và phối hợp?",
+        "en": "Which SMEAC element explains intent, assignments and coordination?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ phần hành chính và hậu cần.",
+          "en": "Administration and logistics only."
+        },
+        {
+          "vi": "Chỉ phần mô tả tình hình.",
+          "en": "Situation only."
+        },
+        {
+          "vi": "Thực hiện.",
+          "en": "Execution."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Execution chuyển nhiệm vụ thành cách tổ chức thực hiện trong giới hạn; các phần khác bổ sung thông tin tương ứng. Xem mục 5.",
+        "en": "Execution organizes task delivery within limits; the other sections supply complementary information. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Một xe được giao cho hai nhiệm vụ cùng giờ. Cần kết luận gì?",
+        "en": "One vehicle is assigned to two simultaneous tasks. What follows?"
+      },
+      "options": [
+        {
+          "vi": "Có xung đột nguồn lực cần điều chỉnh hoặc quyết định lại.",
+          "en": "There is a resource conflict requiring adjustment or a revised decision."
+        },
+        {
+          "vi": "Cả hai kế hoạch đều có đủ xe vì đều đã ghi xe đó.",
+          "en": "Both plans have sufficient transport because both list the vehicle."
+        },
+        {
+          "vi": "Người lái tự chọn nhiệm vụ, không cần báo.",
+          "en": "The driver should choose without reporting."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Kế hoạch phải phản ánh nguồn lực thực và ảnh hưởng tới các nhiệm vụ khác. Xem mục 5.",
+        "en": "Plans must reflect actual resources and competing commitments. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Báo cáo chưa đủ mọi chi tiết nhưng có nguy cơ khẩn cấp nên xử lý thế nào?",
+        "en": "What should happen when an urgent threat report lacks some details?"
+      },
+      "options": [
+        {
+          "vi": "Chờ hoàn chỉnh mọi chi tiết mới gửi.",
+          "en": "Wait until every detail is complete."
+        },
+        {
+          "vi": "Điền giả phần còn thiếu để tránh bị hỏi lại.",
+          "en": "Invent missing details to avoid questions."
+        },
+        {
+          "vi": "Báo sớm thông tin đã biết, nêu khoảng trống và cập nhật.",
+          "en": "Report known facts promptly, identify gaps and update."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Thông tin có giới hạn vẫn hữu ích khi giới hạn được nói rõ; trì hoãn có thể mất cơ hội đáp ứng. Xem mục 6.",
+        "en": "Incomplete information remains useful when uncertainty is explicit; delay can undermine response. See section 6."
+      },
+      "chapter": 5
+    },
+    {
+      "question": {
+        "vi": "Kết luận rút kinh nghiệm nào có khả năng tạo cải thiện?",
+        "en": "Which review conclusion is actionable?"
+      },
+      "options": [
+        {
+          "vi": "Xác định lỗi liên lạc, người sửa, nguồn lực và lần kiểm chứng.",
+          "en": "Identify the communications fault, owner, resources and verification point."
+        },
+        {
+          "vi": "Chỉ ghi tăng cường phối hợp.",
+          "en": "Only state that coordination must improve."
+        },
+        {
+          "vi": "Chỉ tuyên bố nhiệm vụ thành công vì đơn vị đã trở về.",
+          "en": "Declare success solely because the unit returned."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Bài học phải chuyển thành hành động và kiểm tra hiệu quả, gắn với mục tiêu thực tế. Xem mục 6.",
+        "en": "Lessons require action and effectiveness checks against the actual objective. See section 6."
+      },
+      "chapter": 5
+    }
+  ],
+  "updated": "2026-10-28",
+  "moduleId": "FPU-M6",
+  "moduleOrder": 4,
+  "lessonOrder": 1,
+  "sourceModule": {
+    "programme": "STM-FPU",
+    "number": 6,
+    "title": "Command staff training"
+  },
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "FPU-01-01",
+      "title": {
+        "vi": "1. FPU trong hệ thống cảnh sát UN",
+        "en": "1. FPUs within United Nations policing"
+      },
+      "body": {
+        "vi": "### 1.1. Giá trị của một đơn vị thống nhất\nFPU là đơn vị cảnh sát có vũ trang, cơ động, được huấn luyện và tổ chức để hoạt động thống nhất. Giá trị của FPU nằm ở khả năng kết hợp chỉ huy, quân số, phương tiện và bảo đảm thành một năng lực thực hiện nhiệm vụ. Một nhóm cán bộ giỏi nhưng chưa tập luyện cùng nhau, chưa có thông tin liên lạc chung và chưa thống nhất cách thực hiện lệnh chưa tạo thành năng lực ấy.\n\nTrong phái bộ, hoạt động cảnh sát phục vụ an toàn con người, pháp quyền và thực hiện mandate. FPU có thể tạo sự hiện diện bảo vệ, hỗ trợ một hoạt động cảnh sát cần sức mạnh tập thể hoặc bảo vệ nhân sự UN. Cách lựa chọn nhiệm vụ phải xuất phát từ yêu cầu bảo vệ và thẩm quyền; không xuất phát từ mong muốn sử dụng hết quân số hoặc phương tiện đang có.\n\n### 1.2. FPU, IPO và năng lực chuyên biệt\nIPO là cán bộ cảnh sát cá nhân, thường đóng góp bằng chuyên môn, tham mưu, cố vấn, hướng dẫn hoặc thực hiện nhiệm vụ cảnh sát theo mandate. FPU đóng góp bằng khả năng đáp ứng theo đơn vị. Đội chuyên biệt có thể cung cấp năng lực như bảo vệ yếu nhân hoặc chuyên môn khác khi được xác định trong yêu cầu đơn vị. Có chuyên môn trong nước không tự động cho phép đơn vị thực hiện mọi nhiệm vụ tại phái bộ.\n\nHãy liên hệ ba tầng văn bản: Mandate xác định phái bộ phải làm gì và phạm vi được giao; CONOPS chuyển nhiệm vụ thành cách sử dụng năng lực; SUR và MOU xác định yêu cầu, cơ cấu và đóng góp của đơn vị. Lệnh tác nghiệp cụ thể tiếp tục phải phù hợp các tầng này cùng DUF và hướng dẫn phái bộ.\n\n### 1.3. Hoạt động độc lập và hỗ trợ\nPhần lớn hoạt động được tiến hành hỗ trợ cảnh sát nước sở tại. Một số hoàn cảnh cho phép FPU hoạt động độc lập theo mandate và thẩm quyền, đặc biệt khi bảo vệ dân thường hoặc bảo vệ UN. Không đồng nhất “hỗ trợ” với chấp hành mọi yêu cầu của nước sở tại; cũng không đồng nhất “độc lập” với tự tạo quyền bắt giữ, khám xét hoặc sử dụng vũ lực.\n\nVí dụ, yêu cầu hỗ trợ giữ an toàn cho một cuộc tụ tập cần được làm rõ về mục tiêu, nguy cơ đối với người tham gia, lực lượng phối hợp và thẩm quyền. Chỉ biết địa điểm tập kết chưa đủ để tổ chức một hoạt động có trách nhiệm.",
+        "en": "### 1.1. The value of a cohesive unit\nAn FPU is an armed, mobile police unit trained and organized to operate cohesively. It combines command, personnel, equipment and support into a deployable capability. Skilled individuals who have not rehearsed together, established shared communications or agreed how to execute orders do not yet provide that capability.\n\nMission policing serves human safety, the rule of law and mandate implementation. An FPU may provide protective presence, support operations requiring a formed response or protect UN personnel. Task selection starts with protection needs and authority, rather than the desire to employ all available personnel or vehicles.\n\n### 1.2. FPUs, IPOs and specialized capacity\nIndividual Police Officers contribute professional expertise, advice, mentoring or other mandated policing functions. FPUs contribute formed-unit response. Specialized capacities, including close protection where specified, must match unit requirements. Domestic expertise does not itself authorize every mission task.\n\nConnect three levels of documentation: The mandate establishes mission responsibilities and authority; the CONOPS translates them into the employment of capabilities; the SUR and MOU establish unit requirements, structure and contributions. Specific operational orders must remain consistent with these documents, the DUF and mission instructions.\n\n### 1.3. Independent action and support\nMost tasks support host-State law enforcement. Independent action may be required within the mandate and allocated authority, especially to protect civilians or the UN. Supporting the host State does not mean accepting every request; independent action does not create unrestricted arrest, search or force powers.\n\nA request to help secure an assembly therefore requires clarification of the objective, risks to participants, partners and authority. Knowing only a gathering point is insufficient preparation for responsible police action."
+      },
+      "sourceIds": [
+        "POLICY",
+        "CSC003"
+      ]
+    },
+    {
+      "id": "FPU-01-02",
+      "title": {
+        "vi": "2. Ba chức năng cốt lõi và giới hạn nhiệm vụ",
+        "en": "2. Three core functions and task boundaries"
+      },
+      "body": {
+        "vi": "### 2.1. Bảo vệ dân thường khỏi đe dọa bạo lực thể chất\nBảo vệ bắt đầu từ hiểu ai đang bị đe dọa, bởi ai, ở đâu và vào thời điểm nào. FPU đóng góp qua tiếp xúc cộng đồng, hiện diện tại nơi dễ xảy ra hại, tuần tra phù hợp nguy cơ và đáp ứng theo nhiệm vụ được giao. Phòng ngừa và đáp ứng bổ sung cho nhau; bảo vệ không chỉ bắt đầu khi đã có thương vong.\n\nMột đơn vị không thể đánh giá thành công chỉ bằng số lượt tuần tra. Cần xem người có nguy cơ đã tiếp cận được nơi an toàn chưa, đe dọa có dịch chuyển sang khu khác không và hoạt động của FPU có làm tăng nguy cơ trả đũa với người cung cấp tin không. Các câu hỏi ấy giúp chỉ huy đề xuất điều chỉnh nhiệm vụ thay vì lặp lại hoạt động không còn tác dụng.\n\n### 2.2. Hỗ trợ hoặc thực hiện hoạt động cần đáp ứng theo đơn vị\nChức năng thứ hai là hỗ trợ hoặc tiến hành hoạt động cảnh sát đòi hỏi đáp ứng tập thể hay năng lực chuyên biệt vượt khả năng IPO hoặc đội cảnh sát chuyên biệt liên quan. Quản lý trật tự công cộng là một lĩnh vực quan trọng, nhưng không bao trùm toàn bộ vai trò FPU. Đối thoại, giảm căng thẳng, phân biệt người có hành vi bạo lực với người tham gia ôn hòa và hạn chế hại cho dân thường vẫn là yêu cầu xuyên suốt.\n\nCảnh sát sở tại có thể là đối tác nhưng cũng có thể tạo nguy cơ cho người dân. Khi phát hiện dấu hiệu vi phạm, cán bộ phải báo cáo và đề nghị đánh giá lại hỗ trợ theo cơ chế phái bộ; không dùng danh nghĩa phối hợp để bỏ qua trách nhiệm của mình.\n\n### 2.3. Bảo vệ nhân sự và tài sản UN\nChức năng thứ ba là bảo vệ nhân sự và tài sản UN. Nhiệm vụ có thể gồm bảo vệ cơ sở, hộ tống hoặc đáp ứng một nguy cơ an ninh theo phân công. Phạm vi từng nhiệm vụ phải phù hợp năng lực, phương tiện, thời gian duy trì và cơ chế chỉ huy. Bố trí quá nhiều vị trí tĩnh có thể làm mất lực lượng cơ động cần cho bảo vệ dân thường; đây là vấn đề cần được chỉ huy đánh giá và báo lên.\n\n### 2.4. Kiểm tra trước khi nhận nhiệm vụ\nTrước một nhiệm vụ mới, hãy kiểm tra: Mục tiêu thuộc chức năng và mandate nào; ai giao lệnh; quyền hạn và giới hạn là gì; đơn vị có năng lực thực hiện an toàn không; phải phối hợp, báo cáo và kết thúc ra sao. Nếu còn thiếu, cần làm rõ và nêu phương án khả thi qua tuyến chỉ huy. Áp lực thời gian không thay thế việc xác định thẩm quyền.",
+        "en": "### 2.1. Protect civilians from physical violence\nProtection starts by identifying who is threatened, by whom, where and when. Community engagement, presence in vulnerable locations, risk-informed patrols and assigned responses are complementary contributions. Protection work begins before casualties occur.\n\nPatrol numbers alone cannot establish success. Ask whether people at risk reached safety, whether threats moved elsewhere and whether FPU activity increased retaliation risks for informants. These questions support changes to tasking when repeated activity no longer produces protection.\n\n### 2.2. Support or undertake formed police operations\nThe second function concerns operations requiring a formed response or specialized capability beyond relevant IPO or Specialized Police Team capacity. Public order management is important without defining the entire FPU role. Dialogue, de-escalation, distinction between violent individuals and peaceful participants, and civilian harm mitigation remain central.\n\nHost-State police can be partners and can also present protection risks. Report indications of violations and seek review through mission mechanisms. Cooperation does not remove individual or command responsibility.\n\n### 2.3. Protect UN personnel and property\nThe third function protects UN personnel and property through assigned guarding, escorts or other security responses. Tasks must match capability, equipment, sustainment and command arrangements. Excessive static commitments can remove mobility needed for civilian protection; commanders must assess and elevate that trade-off.\n\n### 2.4. Questions before accepting a task\nEstablish the mandated objective, the issuing authority, powers and limits, the unit's ability to act safely, and coordination, reporting and termination arrangements. Seek clarification and propose feasible alternatives through command when these elements are missing. Urgency does not replace authority."
+      },
+      "sourceIds": [
+        "POLICY",
+        "CSC003"
+      ]
+    },
+    {
+      "id": "FPU-01-03",
+      "title": {
+        "vi": "3. Cơ cấu đơn vị và tính gắn kết",
+        "en": "3. Unit structure and cohesion"
+      },
+      "body": {
+        "vi": "### 3.1. Ba bộ phận cùng tạo năng lực\nCơ cấu FPU gồm bộ phận chỉ huy và tác nghiệp, bộ phận bảo đảm hậu cần và bộ phận thực thi. Chỉ huy và tác nghiệp tổ chức quyết định, mệnh lệnh, thông tin và điều hành. Hậu cần duy trì phương tiện, dịch vụ, y tế và khả năng tự bảo đảm theo cam kết. Bộ phận thực thi trực tiếp thực hiện nhiệm vụ trong các phân đội chiến thuật. Không bộ phận nào hoạt động tách rời hai bộ phận còn lại.\n\nMột kế hoạch tuần tra không có xe đủ điều kiện, thông tin liên lạc và hỗ trợ y tế chưa phải kế hoạch có thể thực hiện. Ngược lại, phương tiện đầy đủ cũng không bù được việc thiếu người có năng lực chỉ huy hoặc không hiểu mục tiêu. Đó là lý do kiểm tra sẵn sàng phải xem cả con người, trang bị và tổ chức.\n\n### 3.2. Quy mô chuẩn và yêu cầu riêng\nChính sách FPU 2024.14 xác định cơ cấu chuẩn hướng tới quân số tối thiểu 160 người, có ít nhất bốn trung đội tác nghiệp, mỗi trung đội khoảng 32 người. Cơ cấu và năng lực cụ thể được xác định theo SUR của đơn vị. Không lấy một sơ đồ mẫu để khẳng định mọi FPU có biên chế giống nhau, đặc biệt với đơn vị chuyên biệt hoặc năng lực tăng cường.\n\nTrong FPU cấp đại đội, nhân sự tác nghiệp phải chiếm tối thiểu 85%, nhân sự bảo đảm không vượt 15%. Với đơn vị chủ yếu làm quản lý trật tự công cộng, năng lực chuyên biệt bổ sung không được tính thay cho năng lực tác nghiệp POM tối thiểu theo chính sách. Khi lập bảng quân số, phải phân biệt tổng số có mặt với số có thể thực hiện đúng vai trò.\n\n### 3.3. Phân đội và triển khai tách\nTiểu đội là đơn vị triển khai nhỏ nhất, có tối thiểu mười nhân sự tác nghiệp và không được chia nhỏ thêm. Việc sử dụng ở cấp nhỏ nhất chỉ nên trong thời gian giới hạn, có đánh giá nguy cơ, chỉ huy và bảo đảm phù hợp. Nguyên tắc chung là giữ tính thống nhất FPU; triển khai trung đội ra địa bàn xa cần được cho phép, đánh giá tác động và bố trí năng lực duy trì theo SUR, MOU cùng hướng dẫn phái bộ.\n\n### 3.4. Con người trong cơ cấu\nVai trò cần gắn với năng lực thực tế: Ngôn ngữ, điều hành, lái xe, sử dụng trang bị và xử trí thông tin. Phụ nữ cần có cơ hội tham gia đầy đủ các vị trí, kể cả chỉ huy và tác nghiệp; không mặc định chỉ giao công việc tiếp xúc phụ nữ hoặc hành chính. Khi có người vắng, phải xác định ai thay và năng lực nào bị giảm. Đổi tên trên bảng phân công không tự khôi phục năng lực đã thiếu.",
+        "en": "### 3.1. Three mutually supporting components\nAn FPU comprises command and operations, logistical support and executive components. Command and operations organize decisions, orders, information and direction. Logistics sustains equipment, services, medical support and agreed self-sustainment. Executive personnel carry out tasks within tactical sub-units. None functions effectively in isolation.\n\nA patrol plan without serviceable transport, communications and medical support is not executable. Equipment cannot compensate for absent command competence or unclear objectives. Readiness therefore concerns people, equipment and organization together.\n\n### 3.2. Standard structure and specific requirements\nPolicy 2024.14 describes a standard structure with a desired minimum strength of 160, at least four operational platoons of approximately 32 officers each. Actual composition and capabilities are specified in the unit SUR. A sample chart does not establish identical staffing for every FPU, particularly specialized units.\n\nFor a company-size FPU, operational personnel must constitute at least 85%, with support personnel not exceeding 15%. Additional specialist capacities in primarily POM units do not substitute for the policy's minimum POM operational capacity. Distinguish total personnel present from those available and qualified for a particular role.\n\n### 3.3. Sub-units and separated deployment\nSections are the smallest deployable units, comprising at least ten operational members, and cannot be broken down further. Employment at that level requires limited duration and appropriate risk, command and support arrangements. The general rule preserves FPU cohesion. Remote platoon deployment requires authorization, impact assessment and sustainment under the SUR, MOU and mission arrangements.\n\n### 3.4. People within the structure\nAssign roles according to language, command, driving, equipment and information-handling competence. Women must have meaningful access to all functions, including command and operations. Do not confine them to administration or engagement with women. When a member is unavailable, identify a qualified replacement and the actual capability loss. Changing a roster entry does not itself restore readiness."
+      },
+      "sourceIds": [
+        "POLICY",
+        "CSC003"
+      ]
+    },
+    {
+      "id": "FPU-01-04",
+      "title": {
+        "vi": "4. Tuyến chỉ huy và các cấp kiểm soát",
+        "en": "4. Command relationships and levels of control"
+      },
+      "body": {
+        "vi": "### 4.1. Từ thẩm quyền UN đến lệnh tác nghiệp\nQuốc gia đóng góp chuyển giao thẩm quyền tác nghiệp cho UN theo cơ chế triển khai. Thẩm quyền này thuộc Tổng Thư ký dưới thẩm quyền Hội đồng Bảo an, được thực hiện qua Trưởng phái bộ và Trưởng thành phần cảnh sát. Trong thành phần cảnh sát, HoPC giữ quyền chỉ huy FPU và có thể ủy quyền theo cơ cấu được xác lập.\n\nQuốc gia đóng góp tiếp tục có trách nhiệm quốc gia đối với nhân sự và các nghĩa vụ liên quan; điều đó không tạo một tuyến giao lệnh tác nghiệp song song. FPU không nhận hoặc truyền chỉ thị tác nghiệp hay lệnh chiến thuật từ cơ quan quốc gia hoặc chỉ huy quân sự, trừ cơ chế chỉ huy thống nhất đặc biệt được UNHQ cho phép. Khi có yêu cầu ngoài tuyến, cần báo cáo và làm rõ thẩm quyền trước khi coi đó là lệnh thực hiện.\n\n### 4.2. Phân biệt OPCON, TACOM và TACON\n**OPCON** là kiểm soát tác nghiệp trong phạm vi được giao. HoPC có thể ủy quyền OPCON cho chỉ huy FPU. **TACOM** là chỉ huy chiến thuật đối với đơn vị; chỉ huy FPU giữ vai trò này theo cơ chế áp dụng. **TACON** là kiểm soát chiến thuật đối với một hoạt động hay hành động cụ thể, do chỉ huy FPU hoặc chỉ huy phân đội liên quan thực hiện.\n\nBa thuật ngữ không phải ba tên gọi thay thế nhau. Cần biết ai quyết định sử dụng đơn vị, ai chịu trách nhiệm chỉ huy chiến thuật và ai điều khiển hoạt động cụ thể. Việc một đơn vị phối hợp hoặc bố trí gần lực lượng khác không tự chuyển giao các quyền này.\n\n### 4.3. Nhiều FPU cùng tham gia\nKhi nhiều FPU hoặc phân đội từ nhiều FPU cùng hoạt động, từng đơn vị vẫn báo cáo qua tuyến của mình. Deputy-Chief Ops (FPU) hoặc người được giao chịu trách nhiệm chỉ huy chiến thuật chung theo cơ chế chính sách. Trước khi bắt đầu, cần thống nhất người điều phối, mục tiêu chung, nhiệm vụ từng đơn vị, liên lạc, báo cáo và cách xử lý khi tình hình vượt phương án.\n\n### 4.4. Mệnh lệnh rõ và có trách nhiệm\nMột lệnh cần đủ để cấp dưới hiểu mục đích, việc phải làm, giới hạn và trách nhiệm. Nhận lệnh phải có xác nhận hiểu, không chỉ nhắc lại thời gian. Nếu thiếu thẩm quyền, mâu thuẫn hoặc có dấu hiệu trái pháp luật, cán bộ phải nêu vấn đề qua cơ chế chỉ huy, bảo vệ tính hợp pháp và thực hiện nghĩa vụ báo cáo; không coi mệnh lệnh là căn cứ miễn trách nhiệm cá nhân.",
+        "en": "### 4.1. From UN authority to operational orders\nContributing States transfer operational authority to the UN under deployment arrangements. It is vested in the Secretary-General under Security Council authority and exercised through the Head of Mission and Head of Police Component. The HoPC commands FPUs and may delegate within the established structure.\n\nNational responsibilities for personnel do not create a parallel operational tasking chain. FPUs must not receive or transmit operational directives or tactical orders from national authorities or military commands, except under specific unified arrangements authorized by UNHQ. Report and clarify requests received outside the authorized chain.\n\n### 4.2. Distinguish OPCON, TACOM and TACON\n**OPCON** concerns operational control within delegated authority; the HoPC may delegate it to an FPU commander. **TACOM** concerns tactical command of the unit. **TACON** concerns control of a particular operation or action, exercised by the FPU commander or relevant subordinate commander.\n\nThese are distinct relationships. Establish who employs the unit, who holds tactical command and who controls the specific activity. Cooperation or physical proximity to another component does not itself transfer authority.\n\n### 4.3. Operations involving several FPUs\nUnits retain their reporting chains when several FPUs or their sub-units operate together. The Deputy-Chief Ops (FPU), or the designated delegate, assumes common tactical-command responsibility under policy arrangements. Agree coordination, shared objectives, separate assignments, communications, reporting and responses to changed conditions before deployment.\n\n### 4.4. Clear and accountable orders\nSubordinates must understand the purpose, tasks, limits and responsibilities. Acknowledgement should confirm understanding rather than merely repeat timing. Missing authority, contradictory instructions or apparent illegality require action through command and reporting mechanisms. An order does not remove individual responsibility for lawful conduct."
+      },
+      "sourceIds": [
+        "POLICY",
+        "CSC003",
+        "CSC007"
+      ]
+    },
+    {
+      "id": "FPU-01-05",
+      "title": {
+        "vi": "5. Phối hợp và chuyển mục tiêu thành kế hoạch",
+        "en": "5. Coordination and translating objectives into plans"
+      },
+      "body": {
+        "vi": "### 5.1. Biết đối tác và điểm nối công việc\nFPU cần phối hợp với IPO, đơn vị FPU khác, quân sự, an ninh, bảo vệ dân thường, nhân quyền, y tế và bảo đảm theo nhiệm vụ. Mỗi bên có chức năng và tuyến trách nhiệm riêng. Phối hợp tốt làm rõ ai cung cấp thông tin, ai quyết định, ai thực hiện và ai theo dõi. Cuộc họp nhiều người nhưng không xác định trách nhiệm và thời điểm báo lại chưa tạo ra cơ chế phối hợp có hiệu quả.\n\nTiếp xúc với cộng đồng giúp hiểu thời gian, địa điểm và nhóm dễ bị hại. Thông tin nhận được cần được đánh giá và chuyển đến đúng đầu mối, đồng thời bảo vệ danh tính, an toàn và kỳ vọng của người chia sẻ. Không hứa mức bảo vệ mà đơn vị không có khả năng cung cấp; giải thích rõ cách tiếp nhận và giới hạn hỗ trợ.\n\n### 5.2. Năm phần SMEAC\nLệnh tác nghiệp cảnh sát có thể tổ chức theo năm phần SMEAC:\n1. **Tình hình:** Thông tin liên quan, nguy cơ, lực lượng và điều kiện ảnh hưởng nhiệm vụ.\n2. **Nhiệm vụ:** Ai làm gì, ở đâu, khi nào và nhằm mục đích gì.\n3. **Thực hiện:** Ý định, phân công, phối hợp, giới hạn và điều kiện điều chỉnh.\n4. **Hành chính và hậu cần:** Quân số, phương tiện, tiếp tế, y tế và bảo đảm duy trì.\n5. **Chỉ huy và kiểm soát:** Trách nhiệm, kế nhiệm, liên lạc và báo cáo.\n\nĐây là khung giúp tổ chức thông tin, không phải giấy phép thực hiện một nhiệm vụ chưa có thẩm quyền. Phần thực hiện cần cho cấp dưới hiểu hiệu quả bảo vệ mong muốn, thay vì chỉ liệt kê vị trí hoặc thao tác.\n\n### 5.3. Kiểm tra khả năng thực hiện\nChỉ huy đối chiếu mục tiêu với lực lượng có thể triển khai, thời gian tới nơi, khả năng duy trì, liên lạc và hỗ trợ y tế. Cần xét cả những nhiệm vụ khác đang sử dụng cùng nguồn lực. Một xe được ghi trong hai kế hoạch cùng giờ không phải hai xe. Một kíp vừa kết thúc nhiệm vụ dài có thể cần phục hồi trước khi được sử dụng tiếp.\n\n### 5.4. Phối hợp khi tình hình thay đổi\nKhi xuất hiện nguy cơ mới, đơn vị phải báo thông tin đủ để chỉ huy quyết định: Điều gì thay đổi, ảnh hưởng gì, đã làm gì trong thẩm quyền và cần hỗ trợ gì. Giữ kênh báo cáo thông suốt, xác nhận người nhận và cập nhật quyết định. Tự điều chỉnh nhiệm vụ vượt phạm vi được giao có thể làm hở vị trí bảo vệ khác và phá vỡ kế hoạch chung.",
+        "en": "### 5.1. Partners and working interfaces\nAn FPU may coordinate with IPOs, other FPUs, military, security, protection, human rights, medical and support actors. Each retains distinct functions and accountability. Effective coordination identifies information providers, decision-makers, implementers and follow-up responsibilities. Attendance at a meeting does not itself establish a working arrangement.\n\nCommunity contact informs understanding of vulnerable people, locations and timing. Evaluate information, refer it appropriately and protect contributors' identities and expectations. Explain assistance limits and avoid promises beyond available capability.\n\n### 5.2. The five SMEAC elements\nA police operational order can follow SMEAC:\n1. **Situation:** Relevant information, threats, forces and operating conditions.\n2. **Mission:** Who does what, where, when and for what purpose.\n3. **Execution:** Intent, assignments, coordination, limits and adjustment conditions.\n4. **Administration and logistics:** Personnel, transport, supplies, medical support and sustainment.\n5. **Command and control:** Responsibilities, succession, communications and reporting.\n\nThe framework organizes information without authorizing an otherwise unauthorized task. Execution should explain the intended protective effect, rather than only positions or actions.\n\n### 5.3. Test feasibility\nCompare objectives with deployable personnel, arrival time, sustainment, communications and medical support. Account for competing commitments. A vehicle assigned to two simultaneous plans is still one vehicle. A team returning from prolonged duty may require recovery before further employment.\n\n### 5.4. Coordinate changing conditions\nReport what changed, its implications, action already taken within authority and support required. Maintain reporting channels, confirm receipt and communicate revised decisions. Uncoordinated changes beyond assigned authority can expose another protection location and undermine the wider plan."
+      },
+      "sourceIds": [
+        "POLICY",
+        "CSC009"
+      ]
+    },
+    {
+      "id": "FPU-01-06",
+      "title": {
+        "vi": "6. Báo cáo, trách nhiệm và bàn giao",
+        "en": "6. Reporting, accountability and handover"
+      },
+      "body": {
+        "vi": "### 6.1. Báo cáo phục vụ quyết định\nBáo cáo tác nghiệp phải giúp người nhận hiểu tình hình và quyết định, gồm thời gian, địa điểm, sự kiện, nguồn biết, hành động, kết quả và nhu cầu tiếp theo. Phân biệt điều trực tiếp quan sát với thông tin được cung cấp và nhận định của đơn vị. Nếu thông tin ban đầu chưa đầy đủ, hãy nêu rõ và cập nhật; không chờ hoàn chỉnh mọi chi tiết mới báo một nguy cơ khẩn cấp.\n\nBáo cáo thương vong, sử dụng vũ lực, thiệt hại dân sự hoặc sự cố nghiêm trọng phải theo cơ chế áp dụng. Mọi hại có thể phát sinh từ hoạt động của đơn vị cần được ghi nhận để xem xét, khắc phục và học tập. Việc báo cáo không được trì hoãn chỉ vì nội dung có thể bất lợi cho đơn vị.\n\n### 6.2. Trách nhiệm chỉ huy và cá nhân\nChỉ huy chịu trách nhiệm về quyết định sử dụng năng lực, lệnh rõ ràng, giám sát và hành động khi biết thiếu sót. Cán bộ chịu trách nhiệm về hành vi của mình, tuân thủ giới hạn và báo thông tin đúng. Không thể thay thế hai trách nhiệm này bằng một bản tổng kết thành tích chung.\n\nKhi có dấu hiệu sai phạm, cần bảo vệ người bị hại, bảo toàn thông tin và thực hiện nghĩa vụ báo cáo qua cơ chế phù hợp. Không thống nhất lời kể để làm báo cáo “đẹp”; không tự kết luận điều tra thay cơ quan có trách nhiệm. Hồ sơ phải cho phép truy lại ai quyết định, dựa trên thông tin nào và điều gì đã xảy ra.\n\n### 6.3. Rút kinh nghiệm có đầu ra\nRút kinh nghiệm nên trả lời: Mục tiêu ban đầu là gì; thực tế diễn ra thế nào; điều gì giải thích chênh lệch; cần duy trì hoặc sửa gì. Kết luận phải chuyển thành việc cụ thể, người phụ trách và mốc kiểm tra. Nếu vướng mắc là liên lạc không tương thích, chỉ nhắc “tăng cường phối hợp” sẽ không khắc phục được; phải xác định thiết bị, quy ước hoặc luyện tập cần thay đổi.\n\n### 6.4. Bàn giao giữ liên tục năng lực\nBàn giao phải bao gồm nhiệm vụ đang tiếp diễn, nguy cơ chưa xử lý, lực lượng và trang bị thực có, hồ sơ, đầu mối cùng những hạn chế đang tồn tại. Người nhận cần xác nhận hiểu và kiểm tra thực tế phần việc quan trọng. Số lượng đủ trên biên bản nhưng xe không hoạt động hoặc thiếu người sử dụng vẫn là thiếu năng lực. Đó cũng là cầu nối sang FPU-02 về COE và FPU-03 về duy trì sẵn sàng.",
+        "en": "### 6.1. Reporting for decisions\nOperational reports establish time, location, events, information sources, actions, results and further needs. Separate direct observation, received information and assessment. Identify gaps and update them; do not delay urgent warning while waiting for every detail.\n\nFollow applicable channels for casualties, force, civilian harm and serious incidents. Record harm arising from unit activity for review, remedy and learning. Potentially adverse information about the unit is not a reason to withhold a report.\n\n### 6.2. Command and individual responsibility\nCommanders are responsible for employment decisions, clear orders, supervision and addressing known shortcomings. Officers remain responsible for their conduct, limits and accurate reporting. A general performance summary cannot replace either responsibility.\n\nWhere misconduct is suspected, protect affected people, preserve information and report appropriately. Do not coordinate accounts to improve appearances or substitute personal conclusions for an authorized investigation. Records should establish who decided, on what information and what actually occurred.\n\n### 6.3. Learning that produces action\nReview the intended objective, actual events, reasons for differences and required changes. Assign actions, owners and review dates. If incompatible communications caused failure, “improve coordination” is insufficient: Identify the equipment, procedures or rehearsal that must change.\n\n### 6.4. Handover sustaining capability\nTransfer continuing tasks, unresolved threats, actual personnel and equipment status, records, contacts and limitations. The receiving team must understand and check critical matters. A complete inventory does not establish readiness when equipment is inoperable or qualified operators are absent. This connects organizational responsibility with COE management in FPU-02 and sustained readiness in FPU-03."
+      },
+      "sourceIds": [
+        "POLICY",
+        "CSC009"
+      ]
+    }
+  ],
+  "source_ids": [
+    "POLICY",
+    "CSC003",
+    "CSC007",
+    "CSC009"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "HoPC",
+      "definition": {
+        "vi": "Trưởng thành phần cảnh sát.",
+        "en": "Head of Police Component."
+      }
+    },
+    {
+      "term": "PCC",
+      "definition": {
+        "vi": "Quốc gia đóng góp cảnh sát.",
+        "en": "Police-contributing country."
+      }
+    },
+    {
+      "term": "SUR / MOU",
+      "definition": {
+        "vi": "Yêu cầu đơn vị / Bản ghi nhớ đóng góp với UN.",
+        "en": "Statement of Unit Requirements / Memorandum of Understanding."
+      }
+    },
+    {
+      "term": "OPCON / TACOM / TACON",
+      "definition": {
+        "vi": "Kiểm soát tác nghiệp / chỉ huy chiến thuật / kiểm soát chiến thuật.",
+        "en": "Operational control / tactical command / tactical control."
+      }
+    },
+    {
+      "term": "SMEAC",
+      "definition": {
+        "vi": "Tình hình; nhiệm vụ; thực hiện; hành chính, hậu cần; chỉ huy, kiểm soát.",
+        "en": "Situation; mission; execution; administration and logistics; command and control."
+      }
+    }
+  ],
+  "diagram": null,
+  "contentVersion": "batch-03-expanded-v1-2026-10-28",
+  "sourceIntro": {
+    "vi": "Nguồn nền theo từng mục và tài liệu đối chiếu. Lời giảng, bản Anh và câu hỏi biên soạn riêng cho Handbook; hình gốc có ghi tài liệu, trang PDF và giải thích.",
+    "en": "Primary materials mapped to sections and supplementary checks. Teaching, English text and questions are authored for the Handbook; original figures identify source, PDF page and commentary."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Bản biên soạn đợt 3, ngày 28/10/2026, để người dùng duyệt. Không phải ấn phẩm hoặc bản dịch chính thức UN. Mã bài là cách tổ chức của Handbook, khác số bài của UN.",
+      "Giữ giao diện 4 tab của các bài mẫu. Hình giữ tiếng Anh gốc và có giải thích Việt–Anh. Nguồn theo mục nêu nền kiến thức, không coi mọi câu là trích nguyên văn.",
+      "Bài học chung không thay mandate, DUF, SUR, MOU hoặc SOP áp dụng tại phái bộ; không tự trao quyền hoặc chứng nhận năng lực thực hành.",
+      "Đã đọc trực tiếp chính sách FPU Ref. 2024.14, hiệu lực 01/12/2024; bộ CSC 2026 dùng để cập nhật chỉ huy, chuẩn bị và PAER. Không dùng biên chế 140 người hoặc các mốc trong tài liệu 2015 để thay quy định 2024.14."
+    ],
+    "en": [
+      "Batch 3 authored on 28 October 2026 for user review. Not an official UN publication or translation. Handbook numbering differs from UN lesson numbering.",
+      "The four-tab sample interface is retained. Figures preserve original English with bilingual commentary. Section mapping identifies the knowledge base rather than verbatim sourcing for every sentence.",
+      "General study does not replace applicable mandates, DUF, SUR, MOU or mission SOPs and confers neither authority nor practical certification.",
+      "FPU Policy Ref. 2024.14, effective 1 December 2024, was read directly, together with CSC 2026 materials. Older 140-person structures or 2015 timings are not substituted for the 2024.14 policy."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bài học giải thích giá trị của FPU như một đơn vị thống nhất, ba chức năng cốt lõi, cơ cấu, tuyến chỉ huy, lập kế hoạch và trách nhiệm báo cáo.",
+      "en": "Study FPU cohesion, three core functions, structure, command, planning and reporting responsibilities."
+    },
+    "subtitle": {
+      "vi": "Hiểu nhiệm vụ · Rõ chỉ huy · Phối hợp có trách nhiệm",
+      "en": "Understand tasks · Clarify command · Coordinate responsibly"
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích giá trị đáp ứng theo đơn vị và quan hệ FPU, IPO, năng lực chuyên biệt.",
+        "Phân biệt ba chức năng cốt lõi và giới hạn thẩm quyền.",
+        "Đọc cơ cấu theo chính sách và SUR, giữ tính gắn kết khi triển khai.",
+        "Phân biệt thẩm quyền UN, OPCON, TACOM, TACON và cơ chế nhiều FPU.",
+        "Giải thích SMEAC, báo cáo, rút kinh nghiệm và bàn giao."
+      ],
+      "en": [
+        "Explain formed-unit capability and its relationship with IPOs and specialist capacity.",
+        "Distinguish three core functions and authority limits.",
+        "Interpret structure through policy and the SUR while preserving cohesion.",
+        "Distinguish UN authority, OPCON, TACOM, TACON and multi-FPU arrangements.",
+        "Explain SMEAC, reporting, learning and handover."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc 6 mục trong tab Nội dung bài học; bấm hình để xem lớn và đọc lời giảng kèm. Làm 12 câu kiểm tra, đọc giải thích và trở lại mục liên quan. VI/EN giữ lựa chọn trong phiên; tải lại trang bắt đầu lại.",
+      "en": "Read all sections and the figure commentary; click figures to enlarge. Complete 12 questions, review explanations and revisit relevant sections. VI/EN retains selections during the session; reloading starts again."
+    }
+  },
+  "figures": [
+    {
+      "chapter": 2,
+      "image": "assets/lesson-figures/batch-03/CSC003-p47.png",
+      "alt": {
+        "vi": "Hình 1. Ví dụ tổ chức FPU",
+        "en": "Figure 1. An illustrative FPU structure"
+      },
+      "caption": {
+        "vi": "Hình 1. Ví dụ tổ chức FPU",
+        "en": "Figure 1. An illustrative FPU structure"
+      },
+      "explanation": {
+        "vi": "Quan sát quan hệ giữa chỉ huy, tác nghiệp, bảo đảm và bốn trung đội. Sơ đồ giúp thấy các chức năng hỗ trợ nhau; cơ cấu thực phải đối chiếu SUR và chính sách, không dùng hình để khẳng định mọi FPU giống nhau.",
+        "en": "Notice command, operations, support and four platoons. The chart illustrates mutually supporting functions; actual structure follows the SUR and policy rather than an assumption that every FPU is identical."
+      },
+      "sourceLabel": "UN FPU Command Staff Course 2026 · Lesson 3",
+      "pdfPage": 47
+    }
+  ],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft",
+  "figureZoom": true
+}

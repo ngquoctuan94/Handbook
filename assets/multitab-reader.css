@@ -1,0 +1,86 @@
+
+    #multitab-lesson{--p-paper:light-dark(#ffffff,#172c3c);--p-bg:light-dark(#f4f7fa,#10212e);--p-ink:light-dark(#18364c,#e5eff7);--p-muted:light-dark(#596f80,#b1c6d5);--p-line:light-dark(#dce6ed,#385165);--p-blue:light-dark(#155f95,#99cfff);--p-soft:light-dark(#eaf3fa,#233e52);font:14px/1.75 Tahoma,Arial,sans-serif;color:var(--p-ink);background:var(--p-bg);border:1px solid var(--p-line);border-radius:8px;overflow:hidden;color-scheme:light dark}
+    #multitab-lesson *{box-sizing:border-box}
+    #multitab-lesson .masthead{background:var(--p-paper);border-bottom:1px solid var(--p-line);padding:14px 24px;display:flex;flex-wrap:wrap;gap:8px 22px;align-items:center}
+    #multitab-lesson .brand{font-weight:700;letter-spacing:.04em;color:var(--p-blue)}
+    #multitab-lesson .brand span{font-size:11px;font-weight:400;color:var(--p-muted)}
+    #multitab-lesson .crumb{font-size:12px;color:var(--p-muted);padding:16px 24px 0}
+    #multitab-lesson .heading{padding:12px 24px 20px}
+    #multitab-lesson .meta{display:flex;align-items:center;gap:10px;flex-wrap:wrap;font-size:12px;color:var(--p-muted)}
+    #multitab-lesson .tag{background:var(--p-soft);color:var(--p-blue);padding:3px 9px;border-radius:4px}
+    #multitab-lesson h1{font:700 28px/1.3 Tahoma,Arial,sans-serif;margin:12px 0 8px;color:var(--p-ink)}
+    #multitab-lesson h2{font:700 20px/1.45 Tahoma,Arial,sans-serif;margin:0 0 14px;color:var(--p-ink)}
+    #multitab-lesson h3{font:700 16px/1.5 Tahoma,Arial,sans-serif;margin:22px 0 10px}
+    #multitab-lesson p{margin:0 0 13px}
+    #multitab-lesson .subhead{color:var(--p-muted);margin:0}
+    #multitab-lesson .tabs{display:flex;flex-wrap:wrap;gap:0;background:var(--p-paper);padding:0 16px;border-block:1px solid var(--p-line)}
+    #multitab-lesson button{font:inherit;color:inherit;cursor:inherit}
+    #multitab-lesson button:focus-visible,#multitab-lesson a:focus-visible,#multitab-lesson summary:focus-visible{outline:3px solid var(--p-blue);outline-offset:2px}
+    #multitab-lesson .tab{flex:1 1 140px;border:0;border-bottom:3px solid transparent;padding:14px 10px;background:transparent;font-weight:700;font-size:13px}
+    #multitab-lesson .tab[aria-selected="true"]{color:var(--p-blue);border-bottom-color:var(--p-blue);background:var(--p-soft)}
+    #multitab-lesson .panel{padding:24px;background:var(--p-paper)}
+    #multitab-lesson [hidden]{display:none!important}
+    #multitab-lesson .reader-layout{display:grid;grid-template-columns:205px minmax(0,1fr);gap:26px}
+    #multitab-lesson .chapters{border-right:1px solid var(--p-line);padding-right:14px}
+    #multitab-lesson .chapters p{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--p-muted)}
+    #multitab-lesson .chapter{width:100%;border:0;border-radius:4px;text-align:left;background:transparent;padding:10px 12px;margin-bottom:4px;font-size:12px}
+    #multitab-lesson .chapter[aria-current="true"]{background:var(--p-soft);color:var(--p-blue);font-weight:700}
+    #multitab-lesson .reading{min-width:0;overflow-wrap:anywhere}
+    #multitab-lesson .note{background:var(--p-soft);border-left:3px solid var(--p-blue);padding:13px 16px;margin:16px 0}
+    #multitab-lesson table{border-collapse:collapse;width:100%;margin:16px 0;font-size:13px;table-layout:fixed}
+    #multitab-lesson th,#multitab-lesson td{padding:10px;border:1px solid var(--p-line);text-align:left;vertical-align:top;overflow-wrap:anywhere}
+    #multitab-lesson th{background:var(--p-soft)}
+    #multitab-lesson ul,#multitab-lesson ol{padding-left:23px;margin:12px 0 18px}
+    #multitab-lesson li{margin:6px 0}
+    #multitab-lesson a{color:var(--p-blue);overflow-wrap:anywhere}
+    #multitab-lesson details{padding:12px 0;border-bottom:1px solid var(--p-line)}
+    #multitab-lesson summary{font-weight:700}
+    #multitab-lesson details>div{padding-top:12px}
+    #multitab-lesson .actions{display:flex;flex-wrap:wrap;gap:8px;justify-content:space-between;border-top:1px solid var(--p-line);padding-top:18px;margin-top:22px}
+    #multitab-lesson .action{background:var(--p-paper);border:1px solid var(--p-line);padding:9px 14px;border-radius:4px;font-size:13px}
+    #multitab-lesson .action.primary{background:var(--p-blue);color:var(--p-paper);border-color:var(--p-blue)}
+    #multitab-lesson .question{min-width:0;margin:20px 0;padding:18px 0 0;border:0;border-top:1px solid var(--p-line)}
+    #multitab-lesson .option{display:flex;gap:9px;align-items:flex-start;margin:8px 0;padding:10px 12px;border:1px solid var(--p-line);border-radius:4px}
+    #multitab-lesson input{margin-top:5px;accent-color:var(--p-blue)}
+    #multitab-lesson .feedback{padding:12px 14px;margin-top:12px;background:var(--p-soft)}
+    #multitab-lesson .footer{padding:12px 24px;border-top:1px solid var(--p-line);font-size:11px;color:var(--p-muted)}
+    @media(max-width:620px){#multitab-lesson .reader-layout{grid-template-columns:1fr;gap:16px}#multitab-lesson .chapters{border:0;padding:0}#multitab-lesson .chapter{width:auto;max-width:100%;display:inline-block;margin:3px 4px 3px 0;border:1px solid var(--p-line)}#multitab-lesson .panel{padding:18px}#multitab-lesson h1{font-size:24px}#multitab-lesson .heading{padding-inline:18px}#multitab-lesson .tab{flex-basis:50%;font-size:12px}#multitab-lesson .crumb{padding-inline:18px}}
+
+    #multitab-lesson .language-switch{display:flex;gap:3px;margin-left:auto;border:1px solid var(--p-line);padding:3px;border-radius:5px}
+    #multitab-lesson .language-button{border:0;background:var(--p-paper);color:var(--p-muted);padding:6px 11px;border-radius:3px;font:700 12px/1.5 Tahoma,Arial,sans-serif;min-height:36px}
+    #multitab-lesson .language-button[aria-pressed="true"]{background:var(--p-blue);color:var(--p-paper)}
+    #multitab-lesson .reading p,#multitab-lesson .reading li,#multitab-lesson #vip-panel-overview p,#multitab-lesson #vip-panel-overview li,#multitab-lesson #vip-source-notes p,#multitab-lesson #vip-source-notes li{text-align:justify;text-justify:inter-word;hyphens:auto}
+    #multitab-lesson p{margin-bottom:16px}
+    #multitab-lesson h2{padding-bottom:12px;border-bottom:1px solid var(--p-line)}
+    #multitab-lesson h3{color:var(--p-blue);margin-top:26px}
+    #multitab-lesson li::marker{color:var(--p-blue);font-weight:700}
+    #multitab-lesson li{padding-left:4px;margin:9px 0}
+    #multitab-lesson th,#multitab-lesson td{line-height:1.7;text-align:left}
+    #multitab-lesson .action:disabled{opacity:.45}
+    @media(max-width:480px){#multitab-lesson table,#multitab-lesson tbody,#multitab-lesson tr,#multitab-lesson td{display:block;width:100%}#multitab-lesson thead{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)}#multitab-lesson tr{margin:14px 0;border:1px solid var(--p-line)}#multitab-lesson td{border:0;border-bottom:1px solid var(--p-line)}#multitab-lesson td:last-child{border-bottom:0}#multitab-lesson td::before{content:attr(data-label);display:block;color:var(--p-blue);font-weight:700;margin-bottom:5px}}
+
+    #multitab-lesson .lesson-figure{margin:20px 0 24px;background:var(--p-paper)}
+    #multitab-lesson .lesson-figure img{display:block;width:100%;max-width:480px;height:auto;margin:0 auto;border:1px solid var(--p-line)}
+    #multitab-lesson figcaption{font-size:12px;line-height:1.7;color:var(--p-muted);margin-top:10px;text-align:left}
+  
+#multitab-lesson{max-width:1120px;margin:0 auto}#multitab-lesson button,#multitab-lesson summary{cursor:pointer}#multitab-lesson .masthead>a{font-size:12px}#multitab-lesson .concept-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:8px;margin:12px 0}#multitab-lesson .concept{padding:14px 12px;background:var(--p-soft);border:1px solid var(--p-line);border-radius:4px;display:flex;gap:8px;align-items:center;line-height:1.6;font-size:13px}#multitab-lesson .concept-index{color:var(--p-blue);font-size:11px;font-weight:bold}#multitab-lesson .diagram-note{font-size:12px;color:var(--p-muted);text-align:left}#multitab-lesson .teaching-diagram{margin:24px 0;padding:14px;border:1px solid var(--p-line);border-radius:5px}#multitab-lesson .source-id{font-size:11px;color:var(--p-muted)}#multitab-lesson .reading .lesson-figure img{max-width:480px}#multitab-lesson .reading .wide-figure img{max-width:800px}#multitab-lesson .reading figure{margin-inline:0}#multitab-lesson .reading img{max-width:100%;height:auto}#multitab-lesson .flow{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}#multitab-lesson .flow>div{background:var(--p-soft);padding:14px;border:1px solid var(--p-line)}#multitab-lesson .flow span{display:block}#multitab-lesson .caption{font-size:12px;color:var(--p-muted)}#multitab-lesson .reading aside{background:var(--p-soft);border-left:3px solid var(--p-blue);padding:14px;margin:20px 0}#multitab-lesson code{font-size:13px}#multitab-lesson .question legend{font-weight:bold}#multitab-lesson .question input:focus-visible{outline:3px solid var(--p-blue);outline-offset:3px}
+@media(max-width:620px){#multitab-lesson{border-radius:0;border-inline:0}#multitab-lesson .flow{grid-template-columns:1fr}#multitab-lesson .concept-grid{grid-template-columns:1fr 1fr}}@media(max-width:360px){#multitab-lesson .concept-grid{grid-template-columns:1fr}}
+
+#multitab-lesson{max-width:none;margin:0;color-scheme:light}
+body.dark #multitab-lesson{color-scheme:dark}
+#multitab-lesson .tabs{position:sticky;top:76px;z-index:5}
+#multitab-lesson .lesson-figure figcaption{max-width:800px;margin:10px auto 0;text-align:center}
+#multitab-lesson .teaching-diagram>figcaption{text-align:center}
+#multitab-lesson .reading{min-width:0}
+#multitab-lesson .diagram-explanation{border-top:1px solid var(--p-line);margin-top:16px;padding-top:16px}
+#multitab-lesson .diagram-explanation p:last-child{margin-bottom:0}
+#multitab-lesson button:disabled{cursor:default}
+#multitab-lesson .figure-open{display:block;width:100%;max-width:800px;margin:0 auto;padding:0;border:0;background:transparent;cursor:zoom-in}
+#multitab-lesson .figure-dialog{width:min(1100px,calc(100vw - 28px));max-width:none;max-height:calc(100dvh - 28px);overflow:auto;padding:20px;border:1px solid var(--p-line);border-radius:8px;background:var(--p-paper);color:var(--p-ink)}
+#multitab-lesson .figure-dialog::backdrop{background:#061727b3}
+#multitab-lesson .figure-dialog-heading{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-bottom:16px}
+#multitab-lesson .figure-dialog-heading p{font-size:13px;font-weight:700;margin:0}
+#multitab-lesson .figure-dialog-heading button{flex-shrink:0}
+#multitab-lesson .figure-dialog>img{display:block;width:auto;max-width:100%;max-height:75dvh;height:auto;object-fit:contain;margin:0 auto}
+@media(max-width:620px){#multitab-lesson .figure-dialog{padding:14px}#multitab-lesson .figure-dialog-heading{align-items:flex-start;gap:10px}}
+@media(max-width:1030px){#multitab-lesson .tabs{top:68px}}

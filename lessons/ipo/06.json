@@ -1,0 +1,546 @@
+{
+  "schemaVersion": 2,
+  "id": "IPO-06",
+  "area": "ipo",
+  "groupKey": "IPO-M3",
+  "group": {
+    "vi": "Phát triển năng lực",
+    "en": "Capacity development"
+  },
+  "title": {
+    "vi": "Phát triển năng lực, cải cách và đánh giá kết quả",
+    "en": "Capacity development, reform and results"
+  },
+  "summary": {
+    "vi": "Bài học IPO-06 tập trung vào chủ đề: Phát triển năng lực, cải cách và đánh giá kết quả. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+    "en": "Lesson IPO-06 covers the following topic: Capacity development, reform and results. It connects concepts with professional responsibilities."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "U38",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-014%20UNPOL%20STM%20Lesson%207%20Capacity-building%20and%20Development.pdf",
+  "order": 302,
+  "sections": [
+    {
+      "id": "IPO-06-01",
+      "title": {
+        "vi": "1. Từ đánh giá đến kế hoạch",
+        "en": "1. Turn assessment into a plan"
+      },
+      "body": {
+        "vi": "Chuyển nhu cầu thành kết quả dự kiến, hoạt động, trách nhiệm, nguồn lực và mốc thời gian. Không viết hoạt động trước rồi tìm mục tiêu để hợp thức hóa. Phân biệt thay đổi ở người, quy trình và thể chế.",
+        "en": "Translate needs into intended outcomes, activities, responsibilities, resources and milestones. Do not invent objectives after selecting activities. Distinguish individual, procedural and institutional changes."
+      },
+      "sourceIds": [
+        "U38",
+        "U39"
+      ]
+    },
+    {
+      "id": "IPO-06-02",
+      "title": {
+        "vi": "2. Chuỗi kết quả",
+        "en": "2. Understand the results chain"
+      },
+      "body": {
+        "vi": "Đầu vào tạo hoạt động; hoạt động tạo sản phẩm/đầu ra; kết quả phản ánh thay đổi trong thực hiện; tác động là thay đổi rộng hơn. Ví dụ 30 người học là đầu ra, không tự chứng minh chất lượng tiếp nhận vụ việc tăng. Phải theo dõi khả năng áp dụng sau học.\n\n### 2.1. Đọc chuỗi kết quả\n\nNguồn lực đầu vào có thể là thời gian cán bộ, kinh phí và công cụ. Hoạt động là việc sử dụng chúng để hỗ trợ. Đầu ra là sản phẩm trực tiếp; kết quả là thay đổi trong cách làm hoặc chất lượng dịch vụ. Tác động rộng hơn thường chịu nhiều yếu tố ngoài dự án. Vì vậy, báo cáo cần phân biệt đóng góp của hỗ trợ với khẳng định hỗ trợ là nguyên nhân duy nhất.",
+        "en": "Inputs enable activities, activities produce outputs, outcomes concern changed performance, and impact concerns broader change. Thirty trainees are an output, not proof that incident intake improved. Follow the application of learning at work.\n\n### 2.1. Read the results chain\n\nInputs may include personnel time, funds and tools. Activities use them to provide support. Outputs are direct products; outcomes concern changed practice or service quality. Broader impact usually depends on several influences outside the project. Distinguish a plausible contribution from a claim that the assistance alone caused the change. This helps choose evidence suited to each level and prevents a large activity count being presented as an institutional transformation."
+      },
+      "sourceIds": [
+        "U38",
+        "U39"
+      ]
+    },
+    {
+      "id": "IPO-06-03",
+      "title": {
+        "vi": "3. Cải cách và phát triển tổ chức",
+        "en": "3. Develop the institution"
+      },
+      "body": {
+        "vi": "Xem pháp luật, chức năng, nhân sự, lãnh đạo, ngân sách, giám sát và quan hệ với tư pháp. Không áp một mô hình nước ngoài chỉ vì hiện đại. Tham vấn nhóm bị ảnh hưởng và duy trì yêu cầu nhân quyền, bình đẳng và trách nhiệm giải trình.",
+        "en": "Examine law, functions, personnel, leadership, budgets, oversight and justice-sector relationships. A foreign model is not automatically suitable because it appears modern. Consult affected groups and maintain human rights, equality and accountability standards."
+      },
+      "sourceIds": [
+        "U38",
+        "U39"
+      ]
+    },
+    {
+      "id": "IPO-06-04",
+      "title": {
+        "vi": "4. Theo dõi và đánh giá",
+        "en": "4. Monitor and evaluate"
+      },
+      "body": {
+        "vi": "Chọn chỉ số có ý nghĩa, mốc ban đầu, nguồn thu thập, tần suất và người phụ trách. So sánh phải xét điều kiện thay đổi. Một chỉ số dễ đếm không nhất thiết phản ánh kết quả; cần cả dữ liệu và phản hồi.\n\n### 4.1. Một chỉ số có thể sử dụng\n\nVới mỗi chỉ số, xác định điều cần đo, cách tính hoặc mô tả, nguồn, mốc ban đầu, tần suất và người phụ trách. Chọn dữ liệu thu được mà không gây gánh nặng không cần thiết hoặc lộ danh tính. Bổ sung phản hồi để hiểu vì sao số liệu thay đổi. Khi cách ghi thay đổi, chú thích và xem lại khả năng so sánh; không ghép hai chuỗi khác phương pháp thành bằng chứng tiến bộ.",
+        "en": "Select meaningful indicators, a baseline, data sources, collection frequency and responsibility. Account for changed conditions when comparing. An easy count may not represent an outcome; combine relevant data and feedback.\n\n### 4.1. Make an indicator usable\n\nSpecify what is measured, how it is calculated or described, the source, baseline, frequency and owner. Choose information that can be collected without needless burden or exposure of personal identities. Include feedback to explain changes. If recording methods change, document that and reassess comparability. Two numbers produced by different methods cannot simply become a trend. Review whether the indicator still measures the intended outcome rather than encouraging activity that improves a score without improving service."
+      },
+      "sourceIds": [
+        "U38",
+        "U39"
+      ]
+    },
+    {
+      "id": "IPO-06-05",
+      "title": {
+        "vi": "5. Bền vững và bàn giao",
+        "en": "5. Prepare sustainability and handover"
+      },
+      "body": {
+        "vi": "Xác định ai quản lý sau hỗ trợ, ngân sách bảo trì, đào tạo người thay thế và lưu tài liệu. Đánh giá khả năng tổ chức tự vận hành, không chỉ làm báo cáo dự án đúng hạn. Chỉ kết thúc khi điều kiện bàn giao được đánh giá và hạn chế được ghi rõ.\n\n### 5.1. Bàn giao như một quá trình\n\nChuẩn bị bàn giao từ lúc thiết kế hỗ trợ. Xác định đơn vị tiếp quản, người vận hành, nơi lưu hướng dẫn, kinh phí và cách cập nhật. Cho đối tác thực hiện với mức hỗ trợ giảm dần để thấy khả năng tự duy trì. Ghi việc còn thiếu, người xử lý và cách theo dõi sau chuyển giao. Có biên bản chưa đủ nếu trách nhiệm thực tế chưa rõ hoặc hệ thống chỉ chạy khi cán bộ quốc tế có mặt.",
+        "en": "Identify future ownership, maintenance funds, replacement training and documentation. Assess independent operation rather than project reporting alone. Evaluate handover conditions and record limitations before closure.\n\n### 5.1. Treat handover as a process\n\nPlan handover from the start: Identify the receiving unit, operators, documentation, budget and update arrangements. Let national partners perform with gradually reduced support to demonstrate continuity. Record open issues, owners and follow-up after transfer. A signed document does not establish sustainability if practical responsibilities remain unclear or the system works only while an international adviser is present. Handover should preserve institutional knowledge through staff changes as well as transfer physical products."
+      },
+      "sourceIds": [
+        "U38",
+        "U39"
+      ]
+    },
+    {
+      "id": "IPO-06-06",
+      "title": {
+        "vi": "6. Nối chỉ số với bằng chứng",
+        "en": "6. Connect indicators to evidence"
+      },
+      "body": {
+        "vi": "Hoạt động: Hướng dẫn quy trình mới. Đầu ra: Tài liệu được phê duyệt và người được đào tạo. Kết quả: Hồ sơ đáp ứng yêu cầu và bàn giao rõ hơn trong mẫu theo dõi. Nguồn: Hồ sơ, quan sát, phản hồi và dữ liệu quy trình. Cần mốc ban đầu và cách lấy mẫu tương đương, không so hai số có cách ghi khác nhau.",
+        "en": "A new procedure may produce approved guidance and trained staff as outputs. Better files and clearer handovers are potential outcomes. Check through records, observation, feedback and process data against a baseline and comparable sampling. Do not compare figures recorded differently."
+      },
+      "sourceIds": [
+        "U38",
+        "U39"
+      ]
+    },
+    {
+      "id": "IPO-06-07",
+      "title": {
+        "vi": "7. Rủi ro và khả năng duy trì",
+        "en": "7. Manage continuity risks"
+      },
+      "body": {
+        "vi": "Luân chuyển nhân sự, thay lãnh đạo hoặc thiếu ngân sách có thể làm gián đoạn. Kế hoạch cần người thay, cơ chế lưu tài liệu và duy trì đào tạo nội bộ. Không bảo đảm tác động dài hạn nếu điều kiện nền chưa có; ghi giả định và cách theo dõi để điều chỉnh.",
+        "en": "Personnel rotation, leadership change and insufficient budgets may interrupt progress. Plan replacements, document retention and internal training. Do not guarantee long-term impact where enabling conditions are absent. Record assumptions and monitor them to support adjustment."
+      },
+      "sourceIds": [
+        "U38",
+        "U39"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "U38",
+      "title": "Lesson 7 Capacity-building and Development",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-014%20UNPOL%20STM%20Lesson%207%20Capacity-building%20and%20Development.pdf",
+      "year": "2021",
+      "publisher": "United Nations UNPOL STM",
+      "format": "pdf",
+      "pages": 26,
+      "pdf_name": "U38.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "U39",
+      "title": "Lesson 8 UNPOL Monitoring, Mentoring and Advising",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-016%20UNPOL%20STM%20Lesson%208%20UNPOL%20Monitoring,%20Mentoring%20and%20Advising.pdf",
+      "year": "2021",
+      "publisher": "United Nations UNPOL STM",
+      "format": "pdf",
+      "pages": 74,
+      "pdf_name": "U39.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Số người học là đầu ra, chưa tự là tác động.",
+        "en": "Trainee numbers are outputs, not automatically impact."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Tác động là thay đổi rộng hơn có bằng chứng.",
+        "en": "Impact concerns broader evidenced change."
+      }
+    },
+    {
+      "question": {
+        "vi": "Nên chọn hoạt động trước rồi tìm mục tiêu.",
+        "en": "Activities should be chosen before inventing an objective."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Kế hoạch bắt đầu từ nhu cầu và kết quả.",
+        "en": "Planning starts with needs and outcomes."
+      }
+    },
+    {
+      "question": {
+        "vi": "Chỉ số cần mốc ban đầu và nguồn dữ liệu.",
+        "en": "Indicators need a baseline and data source."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "So sánh phải cùng cách ghi phù hợp.",
+        "en": "Use appropriately comparable records."
+      }
+    },
+    {
+      "question": {
+        "vi": "Mô hình nước ngoài hiện đại luôn phù hợp sở tại.",
+        "en": "A modern foreign model is always locally suitable."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Phải xét pháp luật, nguồn lực và bối cảnh.",
+        "en": "Consider law, resources and context."
+      }
+    },
+    {
+      "question": {
+        "vi": "Bàn giao cần người quản lý và kinh phí duy trì.",
+        "en": "Handover needs ownership and maintenance resources."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Tính bền vững phải được chuẩn bị.",
+        "en": "Prepare sustainability."
+      }
+    },
+    {
+      "question": {
+        "vi": "Luân phiên nhân sự không ảnh hưởng kết quả phát triển năng lực.",
+        "en": "Staff rotation cannot affect capacity-development results."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Cần người thay, tài liệu và chuyển giao.",
+        "en": "Plan replacements, records and knowledge transfer."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Sản phẩm trực tiếp của hoạt động?",
+        "en": "Which concept matches: A direct product of activities?"
+      },
+      "options": [
+        {
+          "vi": "Input",
+          "en": "Input"
+        },
+        {
+          "vi": "Outcome",
+          "en": "Outcome"
+        },
+        {
+          "vi": "Output",
+          "en": "Output"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Output: Sản phẩm trực tiếp của hoạt động.",
+        "en": "Output: A direct product of activities."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Thay đổi về thực hiện sau các đầu ra?",
+        "en": "Which concept matches: A change in performance following outputs?"
+      },
+      "options": [
+        {
+          "vi": "Output",
+          "en": "Output"
+        },
+        {
+          "vi": "Input",
+          "en": "Input"
+        },
+        {
+          "vi": "Outcome",
+          "en": "Outcome"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Outcome: Thay đổi về thực hiện sau các đầu ra.",
+        "en": "Outcome: A change in performance following outputs."
+      }
+    }
+  ],
+  "updated": "2026-10-26",
+  "moduleId": "IPO-M3",
+  "moduleOrder": 3,
+  "lessonOrder": 2,
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "IPO-06-01",
+      "title": {
+        "vi": "1. Từ đánh giá đến kế hoạch",
+        "en": "1. Turn assessment into a plan"
+      },
+      "body": {
+        "vi": "Chuyển nhu cầu thành kết quả dự kiến, hoạt động, trách nhiệm, nguồn lực và mốc thời gian. Không viết hoạt động trước rồi tìm mục tiêu để hợp thức hóa. Phân biệt thay đổi ở người, quy trình và thể chế.",
+        "en": "Translate needs into intended outcomes, activities, responsibilities, resources and milestones. Do not invent objectives after selecting activities. Distinguish individual, procedural and institutional changes."
+      },
+      "sourceIds": [
+        "U38",
+        "U39"
+      ]
+    },
+    {
+      "id": "IPO-06-02",
+      "title": {
+        "vi": "2. Chuỗi kết quả",
+        "en": "2. Understand the results chain"
+      },
+      "body": {
+        "vi": "Đầu vào tạo hoạt động; hoạt động tạo sản phẩm/đầu ra; kết quả phản ánh thay đổi trong thực hiện; tác động là thay đổi rộng hơn. Ví dụ 30 người học là đầu ra, không tự chứng minh chất lượng tiếp nhận vụ việc tăng. Phải theo dõi khả năng áp dụng sau học.\n\n### 2.1. Đọc chuỗi kết quả\n\nNguồn lực đầu vào có thể là thời gian cán bộ, kinh phí và công cụ. Hoạt động là việc sử dụng chúng để hỗ trợ. Đầu ra là sản phẩm trực tiếp; kết quả là thay đổi trong cách làm hoặc chất lượng dịch vụ. Tác động rộng hơn thường chịu nhiều yếu tố ngoài dự án. Vì vậy, báo cáo cần phân biệt đóng góp của hỗ trợ với khẳng định hỗ trợ là nguyên nhân duy nhất.",
+        "en": "Inputs enable activities, activities produce outputs, outcomes concern changed performance, and impact concerns broader change. Thirty trainees are an output, not proof that incident intake improved. Follow the application of learning at work.\n\n### 2.1. Read the results chain\n\nInputs may include personnel time, funds and tools. Activities use them to provide support. Outputs are direct products; outcomes concern changed practice or service quality. Broader impact usually depends on several influences outside the project. Distinguish a plausible contribution from a claim that the assistance alone caused the change. This helps choose evidence suited to each level and prevents a large activity count being presented as an institutional transformation."
+      },
+      "sourceIds": [
+        "U38",
+        "U39"
+      ]
+    },
+    {
+      "id": "IPO-06-03",
+      "title": {
+        "vi": "3. Cải cách và phát triển tổ chức",
+        "en": "3. Develop the institution"
+      },
+      "body": {
+        "vi": "Xem pháp luật, chức năng, nhân sự, lãnh đạo, ngân sách, giám sát và quan hệ với tư pháp. Không áp một mô hình nước ngoài chỉ vì hiện đại. Tham vấn nhóm bị ảnh hưởng và duy trì yêu cầu nhân quyền, bình đẳng và trách nhiệm giải trình.",
+        "en": "Examine law, functions, personnel, leadership, budgets, oversight and justice-sector relationships. A foreign model is not automatically suitable because it appears modern. Consult affected groups and maintain human rights, equality and accountability standards."
+      },
+      "sourceIds": [
+        "U38",
+        "U39"
+      ]
+    },
+    {
+      "id": "IPO-06-04",
+      "title": {
+        "vi": "4. Theo dõi và đánh giá",
+        "en": "4. Monitor and evaluate"
+      },
+      "body": {
+        "vi": "Chọn chỉ số có ý nghĩa, mốc ban đầu, nguồn thu thập, tần suất và người phụ trách. So sánh phải xét điều kiện thay đổi. Một chỉ số dễ đếm không nhất thiết phản ánh kết quả; cần cả dữ liệu và phản hồi.\n\n### 4.1. Một chỉ số có thể sử dụng\n\nVới mỗi chỉ số, xác định điều cần đo, cách tính hoặc mô tả, nguồn, mốc ban đầu, tần suất và người phụ trách. Chọn dữ liệu thu được mà không gây gánh nặng không cần thiết hoặc lộ danh tính. Bổ sung phản hồi để hiểu vì sao số liệu thay đổi. Khi cách ghi thay đổi, chú thích và xem lại khả năng so sánh; không ghép hai chuỗi khác phương pháp thành bằng chứng tiến bộ.",
+        "en": "Select meaningful indicators, a baseline, data sources, collection frequency and responsibility. Account for changed conditions when comparing. An easy count may not represent an outcome; combine relevant data and feedback.\n\n### 4.1. Make an indicator usable\n\nSpecify what is measured, how it is calculated or described, the source, baseline, frequency and owner. Choose information that can be collected without needless burden or exposure of personal identities. Include feedback to explain changes. If recording methods change, document that and reassess comparability. Two numbers produced by different methods cannot simply become a trend. Review whether the indicator still measures the intended outcome rather than encouraging activity that improves a score without improving service."
+      },
+      "sourceIds": [
+        "U38",
+        "U39"
+      ]
+    },
+    {
+      "id": "IPO-06-05",
+      "title": {
+        "vi": "5. Bền vững và bàn giao",
+        "en": "5. Prepare sustainability and handover"
+      },
+      "body": {
+        "vi": "Xác định ai quản lý sau hỗ trợ, ngân sách bảo trì, đào tạo người thay thế và lưu tài liệu. Đánh giá khả năng tổ chức tự vận hành, không chỉ làm báo cáo dự án đúng hạn. Chỉ kết thúc khi điều kiện bàn giao được đánh giá và hạn chế được ghi rõ.\n\n### 5.1. Bàn giao như một quá trình\n\nChuẩn bị bàn giao từ lúc thiết kế hỗ trợ. Xác định đơn vị tiếp quản, người vận hành, nơi lưu hướng dẫn, kinh phí và cách cập nhật. Cho đối tác thực hiện với mức hỗ trợ giảm dần để thấy khả năng tự duy trì. Ghi việc còn thiếu, người xử lý và cách theo dõi sau chuyển giao. Có biên bản chưa đủ nếu trách nhiệm thực tế chưa rõ hoặc hệ thống chỉ chạy khi cán bộ quốc tế có mặt.",
+        "en": "Identify future ownership, maintenance funds, replacement training and documentation. Assess independent operation rather than project reporting alone. Evaluate handover conditions and record limitations before closure.\n\n### 5.1. Treat handover as a process\n\nPlan handover from the start: Identify the receiving unit, operators, documentation, budget and update arrangements. Let national partners perform with gradually reduced support to demonstrate continuity. Record open issues, owners and follow-up after transfer. A signed document does not establish sustainability if practical responsibilities remain unclear or the system works only while an international adviser is present. Handover should preserve institutional knowledge through staff changes as well as transfer physical products."
+      },
+      "sourceIds": [
+        "U38",
+        "U39"
+      ]
+    },
+    {
+      "id": "IPO-06-06",
+      "title": {
+        "vi": "6. Nối chỉ số với bằng chứng",
+        "en": "6. Connect indicators to evidence"
+      },
+      "body": {
+        "vi": "Hoạt động: Hướng dẫn quy trình mới. Đầu ra: Tài liệu được phê duyệt và người được đào tạo. Kết quả: Hồ sơ đáp ứng yêu cầu và bàn giao rõ hơn trong mẫu theo dõi. Nguồn: Hồ sơ, quan sát, phản hồi và dữ liệu quy trình. Cần mốc ban đầu và cách lấy mẫu tương đương, không so hai số có cách ghi khác nhau.",
+        "en": "A new procedure may produce approved guidance and trained staff as outputs. Better files and clearer handovers are potential outcomes. Check through records, observation, feedback and process data against a baseline and comparable sampling. Do not compare figures recorded differently."
+      },
+      "sourceIds": [
+        "U38",
+        "U39"
+      ]
+    },
+    {
+      "id": "IPO-06-07",
+      "title": {
+        "vi": "7. Rủi ro và khả năng duy trì",
+        "en": "7. Manage continuity risks"
+      },
+      "body": {
+        "vi": "Luân chuyển nhân sự, thay lãnh đạo hoặc thiếu ngân sách có thể làm gián đoạn. Kế hoạch cần người thay, cơ chế lưu tài liệu và duy trì đào tạo nội bộ. Không bảo đảm tác động dài hạn nếu điều kiện nền chưa có; ghi giả định và cách theo dõi để điều chỉnh.",
+        "en": "Personnel rotation, leadership change and insufficient budgets may interrupt progress. Plan replacements, document retention and internal training. Do not guarantee long-term impact where enabling conditions are absent. Record assumptions and monitor them to support adjustment."
+      },
+      "sourceIds": [
+        "U38",
+        "U39"
+      ]
+    }
+  ],
+  "source_ids": [
+    "U38",
+    "U39"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "Output",
+      "definition": {
+        "vi": "Sản phẩm trực tiếp của hoạt động",
+        "en": "A direct product of activities"
+      }
+    },
+    {
+      "term": "Outcome",
+      "definition": {
+        "vi": "Thay đổi về thực hiện sau các đầu ra",
+        "en": "A change in performance following outputs"
+      }
+    }
+  ],
+  "diagram": {
+    "type": "seq",
+    "items": [
+      {
+        "vi": "Input",
+        "en": "Input"
+      },
+      {
+        "vi": "Activity",
+        "en": "Activity"
+      },
+      {
+        "vi": "Output",
+        "en": "Output"
+      },
+      {
+        "vi": "Outcome",
+        "en": "Outcome"
+      }
+    ],
+    "chapter": 1
+  },
+  "contentVersion": "4tab-2026-10-26",
+  "sourceIntro": {
+    "vi": "Các tài liệu dưới đây là nền tảng kiến thức của bài. Mở nguồn để đọc nội dung gốc; phần giải thích, sơ đồ học tập và câu hỏi được biên soạn cho Handbook.",
+    "en": "The materials below provide the lesson’s knowledge base. Open them for the original teaching material; explanations, instructional diagrams and questions are developed for the Handbook."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Hai bản Việt–Anh phục vụ học tập, không phải bản dịch chính thức của UN. Danh mục và thứ tự 48 bài là cách tổ chức học liệu của Handbook, không phải số bài chính thức của UN.",
+      "Bảng đối chiếu xác định tài liệu nền theo mục; không khẳng định mọi câu diễn giải là trích nguyên văn. Hình gốc ghi rõ tài liệu và trang PDF; sơ đồ học tập được ghi là biên soạn."
+    ],
+    "en": [
+      "The Vietnamese and English texts are for learning and are not official UN translations. The 48-lesson catalogue and numbering are the Handbook’s organization, not the official UN lesson count.",
+      "The mapping identifies source materials by section and does not present every explanation as a verbatim quotation. Original illustrations identify the material and PDF page; instructional diagrams are labelled as developed for the lesson."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bài học IPO-06 tập trung vào chủ đề: Phát triển năng lực, cải cách và đánh giá kết quả. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+      "en": "Lesson IPO-06 covers the following topic: Capacity development, reform and results. It connects concepts with professional responsibilities."
+    },
+    "subtitle": {
+      "vi": "Học kiến thức, hiểu trách nhiệm và kiểm tra nhận thức.",
+      "en": "Learn the concepts, understand responsibilities and check your knowledge."
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích: Từ đánh giá đến kế hoạch; Chuỗi kết quả.",
+        "Giải thích: Cải cách và phát triển tổ chức; Theo dõi và đánh giá.",
+        "Giải thích: Bền vững và bàn giao; Nối chỉ số với bằng chứng; Rủi ro và khả năng duy trì.",
+        "Nhận diện cách hiểu sai và chọn nhận định có căn cứ trong kiểm tra nhận thức."
+      ],
+      "en": [
+        "Explain: Turn assessment into a plan; Understand the results chain.",
+        "Explain: Develop the institution; Monitor and evaluate.",
+        "Explain: Prepare sustainability and handover; Connect indicators to evidence; Manage continuity risks.",
+        "Recognize misconceptions and select evidence-based statements in the knowledge check."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc các mục theo thứ tự trong tab nội dung, quan sát sơ đồ và hình, sau đó hoàn thành kiểm tra nhận thức. Chọn VI/EN để đổi ngôn ngữ; đáp án được giữ khi đổi ngôn ngữ trong phiên mở trang. Tải lại trang sẽ bắt đầu lại.",
+      "en": "Read the sections in order, study diagrams and illustrations, then complete the knowledge check. Use VI/EN to switch languages; answers are retained across language changes during the session. Reloading starts a new session."
+    }
+  },
+  "figures": [],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft"
+}

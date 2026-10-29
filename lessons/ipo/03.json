@@ -1,0 +1,546 @@
+{
+  "schemaVersion": 2,
+  "id": "IPO-03",
+  "area": "ipo",
+  "groupKey": "IPO-M2",
+  "group": {
+    "vi": "Giám sát, hướng dẫn và cố vấn",
+    "en": "Monitoring, mentoring and advising"
+  },
+  "title": {
+    "vi": "Giám sát hoạt động cảnh sát, phản hồi và báo cáo",
+    "en": "Police monitoring, feedback and reporting"
+  },
+  "summary": {
+    "vi": "Bài học IPO-03 tập trung vào chủ đề: Giám sát hoạt động cảnh sát, phản hồi và báo cáo. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+    "en": "Lesson IPO-03 covers the following topic: Police monitoring, feedback and reporting. It connects concepts with professional responsibilities."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "U39",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-016%20UNPOL%20STM%20Lesson%208%20UNPOL%20Monitoring,%20Mentoring%20and%20Advising.pdf",
+  "order": 201,
+  "sections": [
+    {
+      "id": "IPO-03-01",
+      "title": {
+        "vi": "1. Giám sát theo tiêu chí",
+        "en": "1. Monitor against agreed criteria"
+      },
+      "body": {
+        "vi": "Xác định chức năng cần xem, tiêu chí, nguồn bằng chứng và phạm vi nhiệm vụ của IPO. Không chuyển sở thích cá nhân thành chuẩn. Quan sát cùng điều kiện và ghi hạn chế để kết quả có thể đối chiếu.\n\n### 1.1. Ba phạm vi cần quan sát\n\nGiám sát có thể xem cá nhân thực hiện công việc, quy trình của tổ chức và môi trường ảnh hưởng hoạt động. Ở cá nhân, xem kỹ năng, ứng xử; ở tổ chức, xem hướng dẫn, kiểm tra và quản lý hồ sơ; ở môi trường, xem nguồn lực, quan hệ với tư pháp và điều kiện làm việc. Lựa chọn phạm vi theo nhiệm vụ để tránh quy lỗi cá nhân cho một vấn đề hệ thống.",
+        "en": "Define the function, criteria, evidence and limits of the IPO role. Personal preference is not a standard. Observe under comparable conditions and record limitations so findings can be assessed fairly.\n\n### 1.1. Observe three connected areas\n\nMonitoring may examine individual work, organizational processes and the operating environment. At individual level, consider skills and conduct; at organizational level, procedures, supervision and records; in the environment, resources, justice relationships and working conditions. Select the scope according to the assigned role. This prevents an institution-wide constraint being misreported as one officer’s failure and helps identify the level at which corrective action is actually possible."
+      },
+      "sourceIds": [
+        "U39",
+        "U34"
+      ]
+    },
+    {
+      "id": "IPO-03-02",
+      "title": {
+        "vi": "2. Thu thập bằng chứng",
+        "en": "2. Gather balanced evidence"
+      },
+      "body": {
+        "vi": "Phân biệt quan sát trực tiếp, hồ sơ, lời giải thích và nhận định. Dùng nhiều nguồn khi có thể, ghi thời điểm và mức xác nhận. Không lấy một vụ việc làm kết luận toàn cơ quan hoặc bỏ qua điểm tốt vì chỉ tìm sai.\n\n### 2.1. Lập sổ bằng chứng\n\nVới mỗi nhận xét, ghi ngày, nơi, tiêu chí, điều quan sát, nguồn bổ sung và giới hạn. Mẫu hồ sơ cần nêu cách chọn, số đã xem và khoảng thời gian. Giữ riêng dữ kiện với giải thích của đối tác và nhận định của IPO. Khi thông tin mâu thuẫn, lưu cả hai và tìm cách đối chiếu; không bỏ phần không thuận với kết luận ban đầu. Hồ sơ phải được bảo quản theo quyền truy cập phù hợp.",
+        "en": "Distinguish direct observation, records, explanations and assessment. Use multiple sources where possible and note time and verification. One event cannot establish the performance of an entire institution. Record strengths as well as shortcomings.\n\n### 2.1. Keep an evidence log\n\nFor each finding, record date, location, criterion, observation, supporting source and limitation. For file samples, explain selection, number reviewed and period covered. Separate facts, partner explanations and the IPO’s assessment. Retain conflicting information and identify how it can be checked instead of omitting evidence that challenges the initial view. Protect the record through suitable access controls so a useful monitoring process does not create unnecessary privacy or retaliation risks."
+      },
+      "sourceIds": [
+        "U39",
+        "U34"
+      ]
+    },
+    {
+      "id": "IPO-03-03",
+      "title": {
+        "vi": "3. Phản hồi có thể hành động",
+        "en": "3. Give actionable feedback"
+      },
+      "body": {
+        "vi": "Nêu hành vi cụ thể, ảnh hưởng, tiêu chuẩn và cơ hội đối tác giải thích. Thống nhất việc cải thiện, người phụ trách và thời điểm theo dõi. Không phê bình công khai gây mất uy tín hoặc khen chung chung không chỉ ra điều cần duy trì.\n\n### 3.1. Phản hồi để cải thiện\n\nTrao đổi trong không gian phù hợp, bắt đầu bằng tiêu chuẩn và hành vi cụ thể. Hỏi nguyên nhân, kiểm xem có điều kiện nào IPO chưa biết rồi thống nhất bước sửa. Khuyến nghị cần vừa rõ vừa thực hiện được: Ai làm, làm phần nào, cần hỗ trợ gì và xem lại lúc nào. Ghi cả điều làm tốt để duy trì. Khi vấn đề khẩn cấp hoặc nghiêm trọng, cơ chế báo cáo chính thức vẫn phải được thực hiện.",
+        "en": "Describe specific conduct, effects and the relevant standard, then allow the partner to explain. Agree on improvement, responsibility and review timing. Avoid public humiliation and vague praise that does not identify what should continue.\n\n### 3.1. Use feedback to improve practice\n\nChoose an appropriate setting and begin with the standard and specific behaviour. Ask for explanations and conditions the IPO may have missed, then agree on improvement. Recommendations should identify who acts, what changes, required support and review timing. Record good practice to preserve as well as deficiencies. A constructive relationship does not replace formal reporting when a concern is serious or urgent; supportive feedback and accountability can be required together."
+      },
+      "sourceIds": [
+        "U39",
+        "U34"
+      ]
+    },
+    {
+      "id": "IPO-03-04",
+      "title": {
+        "vi": "4. Viết báo cáo",
+        "en": "4. Write a usable report"
+      },
+      "body": {
+        "vi": "Cấu trúc: Mục đích/phạm vi; phương pháp; dữ kiện; phân tích; kết luận có giới hạn; khuyến nghị. Khuyến nghị cần gắn nguyên nhân và khả năng thực hiện. “Cần đào tạo thêm” chỉ có giá trị khi biết thiếu kỹ năng gì và bằng chứng nào.",
+        "en": "Use purpose and scope, method, facts, analysis, qualified conclusions and recommendations. Connect recommendations to causes and feasibility. More training is meaningful only when a specific skill gap and supporting evidence have been identified."
+      },
+      "sourceIds": [
+        "U39",
+        "U34"
+      ]
+    },
+    {
+      "id": "IPO-03-05",
+      "title": {
+        "vi": "5. Vấn đề nghiêm trọng",
+        "en": "5. Escalate serious concerns appropriately"
+      },
+      "body": {
+        "vi": "Quan sát nguy cơ vi phạm nhân quyền cần chuyển đúng cơ chế và bảo vệ người bị ảnh hưởng; không chờ báo cáo định kỳ nếu khẩn cấp. Vai trò giám sát không tự cho phép IPO ra lệnh hoặc điều tra mọi vấn đề ngoài nhiệm vụ.",
+        "en": "Serious human rights risks require timely referral through the proper mechanism and attention to affected people’s protection. Do not wait for a routine report during an urgent threat. Monitoring does not automatically grant authority to command or investigate outside the assigned role."
+      },
+      "sourceIds": [
+        "U39",
+        "U34"
+      ]
+    },
+    {
+      "id": "IPO-03-06",
+      "title": {
+        "vi": "6. Giới hạn kết luận theo mẫu kiểm tra",
+        "en": "6. Keep findings within the sample"
+      },
+      "body": {
+        "vi": "Dữ kiện: 6/10 hồ sơ được xem thiếu thời điểm bàn giao. Giới hạn: Mẫu tại một đơn vị trong một tuần. Phân tích: Chưa rõ do biểu mẫu, hướng dẫn hay thực hiện. Khuyến nghị: Xác minh quy trình và bổ sung cơ chế kiểm tra phù hợp; không suy “60% toàn lực lượng không đủ năng lực”. Mẫu nhỏ cần giới hạn kết luận.",
+        "en": "If six of ten sampled files lack a handover time, state the sample, location and period. Do not convert that finding into a claim about the whole force. Check whether the cause involves forms, guidance or practice before recommending a remedy. Small samples require bounded conclusions."
+      },
+      "sourceIds": [
+        "U39",
+        "U34"
+      ]
+    },
+    {
+      "id": "IPO-03-07",
+      "title": {
+        "vi": "7. Theo dõi sau phản hồi",
+        "en": "7. Follow up after feedback"
+      },
+      "body": {
+        "vi": "Thống nhất việc sửa, thời điểm và cách xem lại. Không đóng nội dung chỉ vì đã gửi thư. Nếu đối tác không chấp nhận, ghi điểm bất đồng và cơ sở, tìm hướng xử lý qua vai trò được giao. Monitoring không phải giám sát bí mật hoặc quyền chỉ huy không được giao.",
+        "en": "Agree on action, timing and review evidence. Sending a letter is not closure. Record disagreement and its basis, and resolve it through the assigned role. Monitoring is neither covert surveillance nor an unassigned command power."
+      },
+      "sourceIds": [
+        "U39",
+        "U34"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "U39",
+      "title": "Lesson 8 UNPOL Monitoring, Mentoring and Advising",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-016%20UNPOL%20STM%20Lesson%208%20UNPOL%20Monitoring,%20Mentoring%20and%20Advising.pdf",
+      "year": "2021",
+      "publisher": "United Nations UNPOL STM",
+      "format": "pdf",
+      "pages": 74,
+      "pdf_name": "U39.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "U34",
+      "title": "Lesson 3 Introduction to UNPOL Administration",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-006%20UNPOL%20STM%20Lesson%203%20Introduction%20to%20UNPOL%20Administration.pdf",
+      "year": "2021",
+      "publisher": "United Nations UNPOL STM",
+      "format": "pdf",
+      "pages": 34,
+      "pdf_name": "U34.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Sở thích cá nhân của IPO là tiêu chuẩn giám sát.",
+        "en": "An IPO’s preference is a monitoring standard."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Tiêu chí phải có cơ sở và phạm vi.",
+        "en": "Criteria need a basis and defined scope."
+      }
+    },
+    {
+      "question": {
+        "vi": "Giám sát cần ghi cả giới hạn mẫu.",
+        "en": "Monitoring should record sample limitations."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Mẫu nhỏ không đại diện tự động toàn lực lượng.",
+        "en": "A small sample is not automatically representative."
+      }
+    },
+    {
+      "question": {
+        "vi": "Một sai sót đủ kết luận toàn cơ quan không có năng lực.",
+        "en": "One error proves the entire institution lacks competence."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Kết luận phải phù hợp bằng chứng.",
+        "en": "Conclusions must fit the evidence."
+      }
+    },
+    {
+      "question": {
+        "vi": "Phản hồi nên nêu hành vi cụ thể và việc cải thiện.",
+        "en": "Feedback should identify specific conduct and improvement."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Thống nhất trách nhiệm và thời điểm theo dõi.",
+        "en": "Agree on responsibility and follow-up."
+      }
+    },
+    {
+      "question": {
+        "vi": "Nguy cơ nhân quyền khẩn cấp có thể chờ báo cáo tháng.",
+        "en": "An urgent human rights risk can wait for a monthly report."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Phải báo kịp thời đúng cơ chế.",
+        "en": "Report promptly through the proper mechanism."
+      }
+    },
+    {
+      "question": {
+        "vi": "Gửi phản hồi chưa chứng minh đã sửa.",
+        "en": "Sending feedback does not prove correction."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Cần bằng chứng và kiểm tra lại.",
+        "en": "Evidence and reassessment are needed."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Theo dõi có hệ thống dựa trên tiêu chí?",
+        "en": "Which concept matches: Systematic monitoring against criteria?"
+      },
+      "options": [
+        {
+          "vi": "Command",
+          "en": "Command"
+        },
+        {
+          "vi": "Monitoring",
+          "en": "Monitoring"
+        },
+        {
+          "vi": "Giới hạn mẫu / Sample limitation",
+          "en": "Sample limitation"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Monitoring: Theo dõi có hệ thống dựa trên tiêu chí.",
+        "en": "Monitoring: Systematic monitoring against criteria."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Ranh giới của kết luận do phạm vi dữ liệu đã xem?",
+        "en": "Which concept matches: The boundary of conclusions imposed by reviewed data?"
+      },
+      "options": [
+        {
+          "vi": "Monitoring",
+          "en": "Monitoring"
+        },
+        {
+          "vi": "Giới hạn mẫu / Sample limitation",
+          "en": "Sample limitation"
+        },
+        {
+          "vi": "Command",
+          "en": "Command"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Giới hạn mẫu / Sample limitation: Ranh giới của kết luận do phạm vi dữ liệu đã xem.",
+        "en": "Sample limitation: The boundary of conclusions imposed by reviewed data."
+      }
+    }
+  ],
+  "updated": "2026-10-26",
+  "moduleId": "IPO-M2",
+  "moduleOrder": 2,
+  "lessonOrder": 1,
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "IPO-03-01",
+      "title": {
+        "vi": "1. Giám sát theo tiêu chí",
+        "en": "1. Monitor against agreed criteria"
+      },
+      "body": {
+        "vi": "Xác định chức năng cần xem, tiêu chí, nguồn bằng chứng và phạm vi nhiệm vụ của IPO. Không chuyển sở thích cá nhân thành chuẩn. Quan sát cùng điều kiện và ghi hạn chế để kết quả có thể đối chiếu.\n\n### 1.1. Ba phạm vi cần quan sát\n\nGiám sát có thể xem cá nhân thực hiện công việc, quy trình của tổ chức và môi trường ảnh hưởng hoạt động. Ở cá nhân, xem kỹ năng, ứng xử; ở tổ chức, xem hướng dẫn, kiểm tra và quản lý hồ sơ; ở môi trường, xem nguồn lực, quan hệ với tư pháp và điều kiện làm việc. Lựa chọn phạm vi theo nhiệm vụ để tránh quy lỗi cá nhân cho một vấn đề hệ thống.",
+        "en": "Define the function, criteria, evidence and limits of the IPO role. Personal preference is not a standard. Observe under comparable conditions and record limitations so findings can be assessed fairly.\n\n### 1.1. Observe three connected areas\n\nMonitoring may examine individual work, organizational processes and the operating environment. At individual level, consider skills and conduct; at organizational level, procedures, supervision and records; in the environment, resources, justice relationships and working conditions. Select the scope according to the assigned role. This prevents an institution-wide constraint being misreported as one officer’s failure and helps identify the level at which corrective action is actually possible."
+      },
+      "sourceIds": [
+        "U39",
+        "U34"
+      ]
+    },
+    {
+      "id": "IPO-03-02",
+      "title": {
+        "vi": "2. Thu thập bằng chứng",
+        "en": "2. Gather balanced evidence"
+      },
+      "body": {
+        "vi": "Phân biệt quan sát trực tiếp, hồ sơ, lời giải thích và nhận định. Dùng nhiều nguồn khi có thể, ghi thời điểm và mức xác nhận. Không lấy một vụ việc làm kết luận toàn cơ quan hoặc bỏ qua điểm tốt vì chỉ tìm sai.\n\n### 2.1. Lập sổ bằng chứng\n\nVới mỗi nhận xét, ghi ngày, nơi, tiêu chí, điều quan sát, nguồn bổ sung và giới hạn. Mẫu hồ sơ cần nêu cách chọn, số đã xem và khoảng thời gian. Giữ riêng dữ kiện với giải thích của đối tác và nhận định của IPO. Khi thông tin mâu thuẫn, lưu cả hai và tìm cách đối chiếu; không bỏ phần không thuận với kết luận ban đầu. Hồ sơ phải được bảo quản theo quyền truy cập phù hợp.",
+        "en": "Distinguish direct observation, records, explanations and assessment. Use multiple sources where possible and note time and verification. One event cannot establish the performance of an entire institution. Record strengths as well as shortcomings.\n\n### 2.1. Keep an evidence log\n\nFor each finding, record date, location, criterion, observation, supporting source and limitation. For file samples, explain selection, number reviewed and period covered. Separate facts, partner explanations and the IPO’s assessment. Retain conflicting information and identify how it can be checked instead of omitting evidence that challenges the initial view. Protect the record through suitable access controls so a useful monitoring process does not create unnecessary privacy or retaliation risks."
+      },
+      "sourceIds": [
+        "U39",
+        "U34"
+      ]
+    },
+    {
+      "id": "IPO-03-03",
+      "title": {
+        "vi": "3. Phản hồi có thể hành động",
+        "en": "3. Give actionable feedback"
+      },
+      "body": {
+        "vi": "Nêu hành vi cụ thể, ảnh hưởng, tiêu chuẩn và cơ hội đối tác giải thích. Thống nhất việc cải thiện, người phụ trách và thời điểm theo dõi. Không phê bình công khai gây mất uy tín hoặc khen chung chung không chỉ ra điều cần duy trì.\n\n### 3.1. Phản hồi để cải thiện\n\nTrao đổi trong không gian phù hợp, bắt đầu bằng tiêu chuẩn và hành vi cụ thể. Hỏi nguyên nhân, kiểm xem có điều kiện nào IPO chưa biết rồi thống nhất bước sửa. Khuyến nghị cần vừa rõ vừa thực hiện được: Ai làm, làm phần nào, cần hỗ trợ gì và xem lại lúc nào. Ghi cả điều làm tốt để duy trì. Khi vấn đề khẩn cấp hoặc nghiêm trọng, cơ chế báo cáo chính thức vẫn phải được thực hiện.",
+        "en": "Describe specific conduct, effects and the relevant standard, then allow the partner to explain. Agree on improvement, responsibility and review timing. Avoid public humiliation and vague praise that does not identify what should continue.\n\n### 3.1. Use feedback to improve practice\n\nChoose an appropriate setting and begin with the standard and specific behaviour. Ask for explanations and conditions the IPO may have missed, then agree on improvement. Recommendations should identify who acts, what changes, required support and review timing. Record good practice to preserve as well as deficiencies. A constructive relationship does not replace formal reporting when a concern is serious or urgent; supportive feedback and accountability can be required together."
+      },
+      "sourceIds": [
+        "U39",
+        "U34"
+      ]
+    },
+    {
+      "id": "IPO-03-04",
+      "title": {
+        "vi": "4. Viết báo cáo",
+        "en": "4. Write a usable report"
+      },
+      "body": {
+        "vi": "Cấu trúc: Mục đích/phạm vi; phương pháp; dữ kiện; phân tích; kết luận có giới hạn; khuyến nghị. Khuyến nghị cần gắn nguyên nhân và khả năng thực hiện. “Cần đào tạo thêm” chỉ có giá trị khi biết thiếu kỹ năng gì và bằng chứng nào.",
+        "en": "Use purpose and scope, method, facts, analysis, qualified conclusions and recommendations. Connect recommendations to causes and feasibility. More training is meaningful only when a specific skill gap and supporting evidence have been identified."
+      },
+      "sourceIds": [
+        "U39",
+        "U34"
+      ]
+    },
+    {
+      "id": "IPO-03-05",
+      "title": {
+        "vi": "5. Vấn đề nghiêm trọng",
+        "en": "5. Escalate serious concerns appropriately"
+      },
+      "body": {
+        "vi": "Quan sát nguy cơ vi phạm nhân quyền cần chuyển đúng cơ chế và bảo vệ người bị ảnh hưởng; không chờ báo cáo định kỳ nếu khẩn cấp. Vai trò giám sát không tự cho phép IPO ra lệnh hoặc điều tra mọi vấn đề ngoài nhiệm vụ.",
+        "en": "Serious human rights risks require timely referral through the proper mechanism and attention to affected people’s protection. Do not wait for a routine report during an urgent threat. Monitoring does not automatically grant authority to command or investigate outside the assigned role."
+      },
+      "sourceIds": [
+        "U39",
+        "U34"
+      ]
+    },
+    {
+      "id": "IPO-03-06",
+      "title": {
+        "vi": "6. Giới hạn kết luận theo mẫu kiểm tra",
+        "en": "6. Keep findings within the sample"
+      },
+      "body": {
+        "vi": "Dữ kiện: 6/10 hồ sơ được xem thiếu thời điểm bàn giao. Giới hạn: Mẫu tại một đơn vị trong một tuần. Phân tích: Chưa rõ do biểu mẫu, hướng dẫn hay thực hiện. Khuyến nghị: Xác minh quy trình và bổ sung cơ chế kiểm tra phù hợp; không suy “60% toàn lực lượng không đủ năng lực”. Mẫu nhỏ cần giới hạn kết luận.",
+        "en": "If six of ten sampled files lack a handover time, state the sample, location and period. Do not convert that finding into a claim about the whole force. Check whether the cause involves forms, guidance or practice before recommending a remedy. Small samples require bounded conclusions."
+      },
+      "sourceIds": [
+        "U39",
+        "U34"
+      ]
+    },
+    {
+      "id": "IPO-03-07",
+      "title": {
+        "vi": "7. Theo dõi sau phản hồi",
+        "en": "7. Follow up after feedback"
+      },
+      "body": {
+        "vi": "Thống nhất việc sửa, thời điểm và cách xem lại. Không đóng nội dung chỉ vì đã gửi thư. Nếu đối tác không chấp nhận, ghi điểm bất đồng và cơ sở, tìm hướng xử lý qua vai trò được giao. Monitoring không phải giám sát bí mật hoặc quyền chỉ huy không được giao.",
+        "en": "Agree on action, timing and review evidence. Sending a letter is not closure. Record disagreement and its basis, and resolve it through the assigned role. Monitoring is neither covert surveillance nor an unassigned command power."
+      },
+      "sourceIds": [
+        "U39",
+        "U34"
+      ]
+    }
+  ],
+  "source_ids": [
+    "U39",
+    "U34"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "Monitoring",
+      "definition": {
+        "vi": "Theo dõi có hệ thống dựa trên tiêu chí",
+        "en": "Systematic monitoring against criteria"
+      }
+    },
+    {
+      "term": "Giới hạn mẫu / Sample limitation",
+      "definition": {
+        "vi": "Ranh giới của kết luận do phạm vi dữ liệu đã xem",
+        "en": "The boundary of conclusions imposed by reviewed data"
+      }
+    }
+  ],
+  "diagram": {
+    "type": "seq",
+    "items": [
+      {
+        "vi": "Tiêu chí",
+        "en": "Criteria"
+      },
+      {
+        "vi": "Bằng chứng",
+        "en": "Evidence"
+      },
+      {
+        "vi": "Phản hồi",
+        "en": "Feedback"
+      },
+      {
+        "vi": "Kiểm tra lại",
+        "en": "Follow-up"
+      }
+    ],
+    "chapter": 1
+  },
+  "contentVersion": "4tab-2026-10-26",
+  "sourceIntro": {
+    "vi": "Các tài liệu dưới đây là nền tảng kiến thức của bài. Mở nguồn để đọc nội dung gốc; phần giải thích, sơ đồ học tập và câu hỏi được biên soạn cho Handbook.",
+    "en": "The materials below provide the lesson’s knowledge base. Open them for the original teaching material; explanations, instructional diagrams and questions are developed for the Handbook."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Hai bản Việt–Anh phục vụ học tập, không phải bản dịch chính thức của UN. Danh mục và thứ tự 48 bài là cách tổ chức học liệu của Handbook, không phải số bài chính thức của UN.",
+      "Bảng đối chiếu xác định tài liệu nền theo mục; không khẳng định mọi câu diễn giải là trích nguyên văn. Hình gốc ghi rõ tài liệu và trang PDF; sơ đồ học tập được ghi là biên soạn."
+    ],
+    "en": [
+      "The Vietnamese and English texts are for learning and are not official UN translations. The 48-lesson catalogue and numbering are the Handbook’s organization, not the official UN lesson count.",
+      "The mapping identifies source materials by section and does not present every explanation as a verbatim quotation. Original illustrations identify the material and PDF page; instructional diagrams are labelled as developed for the lesson."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bài học IPO-03 tập trung vào chủ đề: Giám sát hoạt động cảnh sát, phản hồi và báo cáo. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+      "en": "Lesson IPO-03 covers the following topic: Police monitoring, feedback and reporting. It connects concepts with professional responsibilities."
+    },
+    "subtitle": {
+      "vi": "Học kiến thức, hiểu trách nhiệm và kiểm tra nhận thức.",
+      "en": "Learn the concepts, understand responsibilities and check your knowledge."
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích: Giám sát theo tiêu chí; Thu thập bằng chứng.",
+        "Giải thích: Phản hồi có thể hành động; Viết báo cáo.",
+        "Giải thích: Vấn đề nghiêm trọng; Giới hạn kết luận theo mẫu kiểm tra; Theo dõi sau phản hồi.",
+        "Nhận diện cách hiểu sai và chọn nhận định có căn cứ trong kiểm tra nhận thức."
+      ],
+      "en": [
+        "Explain: Monitor against agreed criteria; Gather balanced evidence.",
+        "Explain: Give actionable feedback; Write a usable report.",
+        "Explain: Escalate serious concerns appropriately; Keep findings within the sample; Follow up after feedback.",
+        "Recognize misconceptions and select evidence-based statements in the knowledge check."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc các mục theo thứ tự trong tab nội dung, quan sát sơ đồ và hình, sau đó hoàn thành kiểm tra nhận thức. Chọn VI/EN để đổi ngôn ngữ; đáp án được giữ khi đổi ngôn ngữ trong phiên mở trang. Tải lại trang sẽ bắt đầu lại.",
+      "en": "Read the sections in order, study diagrams and illustrations, then complete the knowledge check. Use VI/EN to switch languages; answers are retained across language changes during the session. Reloading starts a new session."
+    }
+  },
+  "figures": [],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft"
+}

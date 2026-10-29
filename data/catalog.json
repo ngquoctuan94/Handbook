@@ -1,0 +1,1350 @@
+{
+  "schemaVersion": 1,
+  "version": "5.1",
+  "updated": "2026-10-29",
+  "lessons": [
+    {
+      "id": "CORE-01",
+      "area": "core",
+      "groupKey": "CORE-M1",
+      "group": {
+        "vi": "UN và hoạt động gìn giữ hòa bình",
+        "en": "UN and peacekeeping"
+      },
+      "title": {
+        "vi": "UN, hòa bình–an ninh và các nguyên tắc gìn giữ hòa bình",
+        "en": "The UN, peace and security, and peacekeeping principles"
+      },
+      "status": "draft",
+      "minutes": 15,
+      "sourceKey": "C1",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-404%20Lesson%201.1%20UN%20Peacekeeping%20-%20Strategic%20Level.zip",
+      "officialIndex": false,
+      "file": "lessons/core/01.json",
+      "moduleId": "CORE-M1",
+      "moduleOrder": 1,
+      "lessonOrder": 1,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "reader": "core01-four-tabs"
+    },
+    {
+      "id": "CORE-02",
+      "area": "core",
+      "groupKey": "CORE-M1",
+      "group": {
+        "vi": "UN và hoạt động gìn giữ hòa bình",
+        "en": "UN and peacekeeping"
+      },
+      "title": {
+        "vi": "Khuôn khổ pháp lý, mandate và nhiệm vụ phái bộ",
+        "en": "Legal framework, mandates and mission tasks"
+      },
+      "status": "draft",
+      "minutes": 10,
+      "sourceKey": "C4",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-407%20Lesson%201.4%20Legal%20Framework%20for%20UN%20Peacekeeping.zip",
+      "officialIndex": false,
+      "file": "lessons/core/02.json",
+      "moduleId": "CORE-M1",
+      "moduleOrder": 1,
+      "lessonOrder": 2,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "CORE-02-diagram-explained-2026-10-27",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "CORE-03",
+      "area": "core",
+      "groupKey": "CORE-M1",
+      "group": {
+        "vi": "UN và hoạt động gìn giữ hòa bình",
+        "en": "UN and peacekeeping"
+      },
+      "title": {
+        "vi": "Tổ chức, vận hành và phối hợp trong phái bộ",
+        "en": "Mission organization, operations and coordination"
+      },
+      "status": "draft",
+      "minutes": 13,
+      "sourceKey": "C6",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-409%20Lesson%201.6%20How%20Peacekeeping%20Operations%20Work.zip",
+      "officialIndex": false,
+      "file": "lessons/core/03.json",
+      "moduleId": "CORE-M1",
+      "moduleOrder": 1,
+      "lessonOrder": 3,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "batch-01-expanded-v1-2026-10-27",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "CORE-05",
+      "area": "core",
+      "groupKey": "CORE-M2",
+      "group": {
+        "vi": "Mandate, bảo vệ và các ưu tiên",
+        "en": "Mandates, protection and priorities"
+      },
+      "title": {
+        "vi": "Xây dựng hòa bình và phát triển năng lực cảnh sát nước sở tại",
+        "en": "Peacebuilding and host-State police capacity development"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "C10",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-414%20Lesson%202.2%20Part%201%20Implementing%20Peacebuilding%20Activities.zip",
+      "officialIndex": false,
+      "file": "lessons/core/05.json",
+      "moduleId": "CORE-M2",
+      "moduleOrder": 2,
+      "lessonOrder": 1,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "batch-01-expanded-v1-2026-10-27",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "CORE-06",
+      "area": "core",
+      "groupKey": "CORE-M2",
+      "group": {
+        "vi": "Mandate, bảo vệ và các ưu tiên",
+        "en": "Mandates, protection and priorities"
+      },
+      "title": {
+        "vi": "Nhân quyền và thẩm định nhân quyền trong hoạt động cảnh sát",
+        "en": "Human rights and human rights due diligence in policing"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "C12",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-416%20Lesson%202.3%20Human%20Rights.zip",
+      "officialIndex": false,
+      "file": "lessons/core/06.json",
+      "moduleId": "CORE-M2",
+      "moduleOrder": 2,
+      "lessonOrder": 2,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "batch-01-expanded-v1-2026-10-27",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "CORE-09",
+      "area": "core",
+      "groupKey": "CORE-M2",
+      "group": {
+        "vi": "Mandate, bảo vệ và các ưu tiên",
+        "en": "Mandates, protection and priorities"
+      },
+      "title": {
+        "vi": "Bảo vệ dân thường toàn diện",
+        "en": "Comprehensive protection of civilians"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "C13",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-417%20Lesson%202.4%20Protection%20of%20Civilians.zip",
+      "officialIndex": false,
+      "file": "lessons/core/09.json",
+      "moduleId": "CORE-M2",
+      "moduleOrder": 2,
+      "lessonOrder": 3,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "batch-02-expanded-v1-2026-10-28",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "CORE-10",
+      "area": "core",
+      "groupKey": "CORE-M2",
+      "group": {
+        "vi": "Mandate, bảo vệ và các ưu tiên",
+        "en": "Mandates, protection and priorities"
+      },
+      "title": {
+        "vi": "Bảo vệ trẻ em và tư pháp phù hợp với trẻ em",
+        "en": "Child protection and child-sensitive justice"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "C15",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-419%20Lesson%202.6%20Child%20Protection.zip",
+      "officialIndex": false,
+      "file": "lessons/core/10.json",
+      "moduleId": "CORE-M2",
+      "moduleOrder": 2,
+      "lessonOrder": 4,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "batch-02-expanded-v1-2026-10-28",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "CORE-11",
+      "area": "core",
+      "groupKey": "CORE-M2",
+      "group": {
+        "vi": "Mandate, bảo vệ và các ưu tiên",
+        "en": "Mandates, protection and priorities"
+      },
+      "title": {
+        "vi": "Phụ nữ, hòa bình và an ninh",
+        "en": "Women, peace and security"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "C16",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-420%20Lesson%202.7%20Women,%20Peace,%20and%20Security.zip",
+      "officialIndex": false,
+      "file": "lessons/core/11.json",
+      "moduleId": "CORE-M2",
+      "moduleOrder": 2,
+      "lessonOrder": 5,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "batch-07-expanded-v1-2026-10-29",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "CORE-12",
+      "area": "core",
+      "groupKey": "CORE-M2",
+      "group": {
+        "vi": "Mandate, bảo vệ và các ưu tiên",
+        "en": "Mandates, protection and priorities"
+      },
+      "title": {
+        "vi": "Phòng ngừa và ứng phó CRSV",
+        "en": "Preventing and responding to conflict-related sexual violence"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "C14",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-418%20Lesson%202.5%20Protection%20from%20CRSV.zip",
+      "officialIndex": false,
+      "file": "lessons/core/12.json",
+      "moduleId": "CORE-M2",
+      "moduleOrder": 2,
+      "lessonOrder": 6,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "batch-07-expanded-v1-2026-10-29",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "CORE-14",
+      "area": "core",
+      "groupKey": "CORE-M2",
+      "group": {
+        "vi": "Mandate, bảo vệ và các ưu tiên",
+        "en": "Mandates, protection and priorities"
+      },
+      "title": {
+        "vi": "Truyền thông chiến lược và tính toàn vẹn thông tin",
+        "en": "Strategic communications and information integrity"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "C18",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-422%20Lesson%202.9%20Strategic%20Communication%20and%20Information%20Integrity.zip",
+      "officialIndex": false,
+      "file": "lessons/core/14.json",
+      "moduleId": "CORE-M2",
+      "moduleOrder": 2,
+      "lessonOrder": 7,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "batch-07-expanded-v1-2026-10-29",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "CORE-15",
+      "area": "core",
+      "groupKey": "CORE-M2",
+      "group": {
+        "vi": "Mandate, bảo vệ và các ưu tiên",
+        "en": "Mandates, protection and priorities"
+      },
+      "title": {
+        "vi": "Khí hậu, môi trường và tài nguyên",
+        "en": "Climate, environment and resources"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "C17",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-421%20Lesson%202.8%20Climate,%20Peace,%20and%20Security.zip",
+      "officialIndex": false,
+      "file": "lessons/core/15.json",
+      "moduleId": "CORE-M2",
+      "moduleOrder": 2,
+      "lessonOrder": 8,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "4tab-2026-10-26",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "CORE-13",
+      "area": "core",
+      "groupKey": "CORE-M3",
+      "group": {
+        "vi": "Trách nhiệm, an toàn và sức khỏe",
+        "en": "Responsibilities, safety and health"
+      },
+      "title": {
+        "vi": "Giá trị, hành vi, ứng xử, kỷ luật và phòng chống SEA",
+        "en": "UN values, behaviours, conduct, discipline and prevention of SEA"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "C20",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-425%20Lesson%203.1%20Part%201%20UN%20Values%20and%20Behaviors.zip",
+      "officialIndex": false,
+      "file": "lessons/core/13.json",
+      "moduleId": "CORE-M3",
+      "moduleOrder": 3,
+      "lessonOrder": 1,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "batch-07-expanded-v1-2026-10-29",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "CORE-16",
+      "area": "core",
+      "groupKey": "CORE-M3",
+      "group": {
+        "vi": "Trách nhiệm, an toàn và sức khỏe",
+        "en": "Responsibilities, safety and health"
+      },
+      "title": {
+        "vi": "An toàn–an ninh cá nhân và giao thông",
+        "en": "Personal safety, security and road safety"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "C25",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-430%20Lesson%203.5%20Safety%20and%20Security%20of%20UN%20Personnel.zip",
+      "officialIndex": false,
+      "file": "lessons/core/16.json",
+      "moduleId": "CORE-M3",
+      "moduleOrder": 3,
+      "lessonOrder": 2,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "4tab-2026-10-26",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "CORE-17",
+      "area": "core",
+      "groupKey": "CORE-M3",
+      "group": {
+        "vi": "Trách nhiệm, an toàn và sức khỏe",
+        "en": "Responsibilities, safety and health"
+      },
+      "title": {
+        "vi": "Sức khỏe, HIV/AIDS và quản lý căng thẳng",
+        "en": "Health, HIV awareness and stress management"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "C28",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-433%20Lesson%203.8%20Health.zip",
+      "officialIndex": false,
+      "file": "lessons/core/17.json",
+      "moduleId": "CORE-M3",
+      "moduleOrder": 3,
+      "lessonOrder": 3,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "4tab-2026-10-26",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "CORE-18",
+      "area": "core",
+      "groupKey": "CORE-M3",
+      "group": {
+        "vi": "Trách nhiệm, an toàn và sức khỏe",
+        "en": "Responsibilities, safety and health"
+      },
+      "title": {
+        "vi": "Sơ cấp cứu khẩn cấp",
+        "en": "Emergency first aid"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "C31",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-436%20Lesson%203.11%20Emergency%20First%20Aid.zip",
+      "officialIndex": false,
+      "file": "lessons/core/18.json",
+      "moduleId": "CORE-M3",
+      "moduleOrder": 3,
+      "lessonOrder": 4,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "4tab-2026-10-26",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "CORE-04",
+      "area": "core",
+      "groupKey": "CORE-M4",
+      "group": {
+        "vi": "Nền tảng nghiệp vụ cảnh sát UN",
+        "en": "UN policing foundations"
+      },
+      "title": {
+        "vi": "UNPOL: Tổ chức, nhiệm vụ, chỉ huy và hành chính",
+        "en": "UNPOL organization, command and administration"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "U32",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-002%20UNPOL%20STM%20Lesson%201%20Overview%20of%20UN%20Police.pdf",
+      "officialIndex": false,
+      "file": "lessons/core/04.json",
+      "moduleId": "CORE-M4",
+      "moduleOrder": 4,
+      "lessonOrder": 1,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "batch-01-expanded-v1-2026-10-27",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "CORE-07",
+      "area": "core",
+      "groupKey": "CORE-M4",
+      "group": {
+        "vi": "Nền tảng nghiệp vụ cảnh sát UN",
+        "en": "UN policing foundations"
+      },
+      "title": {
+        "vi": "Cảnh sát hướng đến cộng đồng và hoạt động dựa trên phân tích thông tin",
+        "en": "Community-oriented and intelligence-led policing"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "U36",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-010%20UNPOL%20STM%20Lesson%205%20Community-Oriented%20Policing.pdf",
+      "officialIndex": false,
+      "file": "lessons/core/07.json",
+      "moduleId": "CORE-M4",
+      "moduleOrder": 4,
+      "lessonOrder": 2,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "batch-02-expanded-v1-2026-10-28",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "CORE-08",
+      "area": "core",
+      "groupKey": "CORE-M4",
+      "group": {
+        "vi": "Nền tảng nghiệp vụ cảnh sát UN",
+        "en": "UN policing foundations"
+      },
+      "title": {
+        "vi": "Sử dụng vũ lực, súng và bắt giữ, tạm giữ",
+        "en": "Use of force, firearms, arrest and detention"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "U41",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-020%20UNPOL%20STM%20Lesson%2010%20Use%20of%20Force%20and%20Firearms%20by%20UN%20Police.pdf",
+      "officialIndex": false,
+      "file": "lessons/core/08.json",
+      "moduleId": "CORE-M4",
+      "moduleOrder": 4,
+      "lessonOrder": 3,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "batch-02-expanded-v1-2026-10-28",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "FPU-08",
+      "area": "fpu",
+      "groupKey": "FPU-M3",
+      "group": {
+        "vi": "Huấn luyện súng",
+        "en": "Firearms training"
+      },
+      "title": {
+        "vi": "Huấn luyện súng: Cơ bản, trung cấp và nâng cao",
+        "en": "Firearms training: Basic, intermediate and advanced"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "GUN1",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-022%20Firearms%20Basic.pdf",
+      "officialIndex": false,
+      "file": "lessons/fpu/08.json",
+      "moduleId": "FPU-M3",
+      "moduleOrder": 1,
+      "lessonOrder": 1,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "batch-04-expanded-v1-2026-10-28",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "FPU-05",
+      "area": "fpu",
+      "groupKey": "FPU-M4",
+      "group": {
+        "vi": "Chiến thuật cảnh sát",
+        "en": "Police tactics"
+      },
+      "title": {
+        "vi": "Sơ cấp cứu trong thực hiện nhiệm vụ",
+        "en": "First aid during FPU operations"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "FIRST",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-033%20Operational%20First%20Aid.pdf",
+      "officialIndex": false,
+      "file": "lessons/fpu/05.json",
+      "moduleId": "FPU-M4",
+      "moduleOrder": 2,
+      "lessonOrder": 1,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "batch-03-expanded-v1-2026-10-28",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "FPU-09",
+      "area": "fpu",
+      "groupKey": "FPU-M4",
+      "group": {
+        "vi": "Chiến thuật cảnh sát",
+        "en": "Police tactics"
+      },
+      "title": {
+        "vi": "Tiếp cận, khám xét và kiểm soát đối tượng",
+        "en": "Contact, search, restraint and custody responsibilities"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "SEARCH",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-027%20Approaching%20%26%20Searching%20Suspects.pdf",
+      "officialIndex": false,
+      "file": "lessons/fpu/09.json",
+      "moduleId": "FPU-M4",
+      "moduleOrder": 2,
+      "lessonOrder": 2,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "batch-04-expanded-v1-2026-10-28",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "FPU-10",
+      "area": "fpu",
+      "groupKey": "FPU-M4",
+      "group": {
+        "vi": "Chiến thuật cảnh sát",
+        "en": "Police tactics"
+      },
+      "title": {
+        "vi": "Phối hợp tổ công tác và di chuyển chiến thuật",
+        "en": "Team coordination and controlled movement"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "MOVE",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-032%20Tactical%20Progression.pdf",
+      "officialIndex": false,
+      "file": "lessons/fpu/10.json",
+      "moduleId": "FPU-M4",
+      "moduleOrder": 2,
+      "lessonOrder": 3,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "batch-04-expanded-v1-2026-10-28",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "FPU-12",
+      "area": "fpu",
+      "groupKey": "FPU-M4",
+      "group": {
+        "vi": "Chiến thuật cảnh sát",
+        "en": "Police tactics"
+      },
+      "title": {
+        "vi": "Tuần tra: Chuẩn bị, thực hiện, xử lý tình huống và báo cáo",
+        "en": "Patrolling: Preparation, conduct and reporting"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "PATROL",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-030%20Patrols.pdf",
+      "officialIndex": false,
+      "file": "lessons/fpu/12.json",
+      "moduleId": "FPU-M4",
+      "moduleOrder": 2,
+      "lessonOrder": 4,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "batch-05-expanded-v1-2026-10-29",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "FPU-13",
+      "area": "fpu",
+      "groupKey": "FPU-M4",
+      "group": {
+        "vi": "Chiến thuật cảnh sát",
+        "en": "Police tactics"
+      },
+      "title": {
+        "vi": "Chốt kiểm soát: Tổ chức, kiểm tra và xử lý tình huống",
+        "en": "Checkpoints: Functions, checks and continuity"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "CHECK",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-025%20Checkpoints.pdf",
+      "officialIndex": false,
+      "file": "lessons/fpu/13.json",
+      "moduleId": "FPU-M4",
+      "moduleOrder": 2,
+      "lessonOrder": 5,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "batch-05-expanded-v1-2026-10-29",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "FPU-14",
+      "area": "fpu",
+      "groupKey": "FPU-M4",
+      "group": {
+        "vi": "Chiến thuật cảnh sát",
+        "en": "Police tactics"
+      },
+      "title": {
+        "vi": "Hộ tống đoàn xe",
+        "en": "Convoy escort"
+      },
+      "status": "draft",
+      "minutes": 6,
+      "sourceKey": "CONVOY",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-026%20Convoy%20escort.pdf",
+      "officialIndex": false,
+      "file": "lessons/fpu/14.json",
+      "moduleId": "FPU-M4",
+      "moduleOrder": 2,
+      "lessonOrder": 6,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "batch-05-expanded-v1-2026-10-29",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "FPU-06",
+      "area": "fpu",
+      "groupKey": "FPU-M5",
+      "group": {
+        "vi": "Quản lý trật tự công cộng",
+        "en": "Public order management"
+      },
+      "title": {
+        "vi": "Phòng cháy và xử lý sự cố cháy",
+        "en": "Fire prevention and initial fire response"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "FIRE",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-051%20Extinguishing%20Fire.pdf",
+      "officialIndex": false,
+      "file": "lessons/fpu/06.json",
+      "moduleId": "FPU-M5",
+      "moduleOrder": 3,
+      "lessonOrder": 1,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "batch-04-expanded-v1-2026-10-28",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "FPU-11",
+      "area": "fpu",
+      "groupKey": "FPU-M5",
+      "group": {
+        "vi": "Quản lý trật tự công cộng",
+        "en": "Public order management"
+      },
+      "title": {
+        "vi": "Ứng phó sự cố nguy hiểm và bảo vệ lực lượng",
+        "en": "Dangerous incidents and force protection"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "ATTACK",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-036%20Attack%20with%20Firearms%20and%20Explosives.pdf",
+      "officialIndex": false,
+      "file": "lessons/fpu/11.json",
+      "moduleId": "FPU-M5",
+      "moduleOrder": 3,
+      "lessonOrder": 2,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "batch-05-expanded-v1-2026-10-29",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "FPU-16",
+      "area": "fpu",
+      "groupKey": "FPU-M5",
+      "group": {
+        "vi": "Quản lý trật tự công cộng",
+        "en": "Public order management"
+      },
+      "title": {
+        "vi": "Bảo vệ VIP: tổ chức, đội hình, di chuyển và xử lý tình huống",
+        "en": "VIP Protection: Organization, Formations, Movement and Incident Management"
+      },
+      "status": "draft",
+      "minutes": 25,
+      "sourceKey": "VIP-2015",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-048%20Basic%20tactics%20on%20VIP%20protection.pdf",
+      "officialIndex": false,
+      "file": "lessons/fpu/16.json",
+      "moduleId": "FPU-M5",
+      "moduleOrder": 3,
+      "lessonOrder": 3,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "0.1-review",
+      "reader": "fpu16-four-tabs"
+    },
+    {
+      "id": "FPU-17",
+      "area": "fpu",
+      "groupKey": "FPU-M5",
+      "group": {
+        "vi": "Quản lý trật tự công cộng",
+        "en": "Public order management"
+      },
+      "title": {
+        "vi": "Đám đông, đánh giá tình hình và lập kế hoạch POM",
+        "en": "Crowd assessment and public order planning"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "CROWD",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-039%20Crowd%20Dynamics%20in%20Public%20Order%20Operations.pdf",
+      "officialIndex": false,
+      "file": "lessons/fpu/17.json",
+      "moduleId": "FPU-M5",
+      "moduleOrder": 3,
+      "lessonOrder": 4,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "4tab-2026-10-26",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "FPU-18",
+      "area": "fpu",
+      "groupKey": "FPU-M5",
+      "group": {
+        "vi": "Quản lý trật tự công cộng",
+        "en": "Public order management"
+      },
+      "title": {
+        "vi": "Tổ chức lực lượng, trang bị và phương tiện POM",
+        "en": "Public order personnel, equipment and vehicles"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "EQUIP",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-041%20Equipment%20familiarisation.pdf",
+      "officialIndex": false,
+      "file": "lessons/fpu/18.json",
+      "moduleId": "FPU-M5",
+      "moduleOrder": 3,
+      "lessonOrder": 5,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "4tab-2026-10-26",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "FPU-19",
+      "area": "fpu",
+      "groupKey": "FPU-M5",
+      "group": {
+        "vi": "Quản lý trật tự công cộng",
+        "en": "Public order management"
+      },
+      "title": {
+        "vi": "Đội hình và phối hợp di chuyển trong POM",
+        "en": "Public order formations and coordinated movement"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "FOOT",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-042%20FPU%20Foot%20Tactics.pdf",
+      "officialIndex": false,
+      "file": "lessons/fpu/19.json",
+      "moduleId": "FPU-M5",
+      "moduleOrder": 3,
+      "lessonOrder": 6,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "4tab-2026-10-26",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "FPU-20",
+      "area": "fpu",
+      "groupKey": "FPU-M5",
+      "group": {
+        "vi": "Quản lý trật tự công cộng",
+        "en": "Public order management"
+      },
+      "title": {
+        "vi": "Các tình huống POM đặc thù",
+        "en": "Public order in specific settings"
+      },
+      "status": "draft",
+      "minutes": 6,
+      "sourceKey": "SIT",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-047%20Sit%20in.pdf",
+      "officialIndex": false,
+      "file": "lessons/fpu/20.json",
+      "moduleId": "FPU-M5",
+      "moduleOrder": 3,
+      "lessonOrder": 7,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "4tab-2026-10-26",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "FPU-01",
+      "area": "fpu",
+      "groupKey": "FPU-M6",
+      "group": {
+        "vi": "Chỉ huy và tham mưu",
+        "en": "Command staff training"
+      },
+      "title": {
+        "vi": "Tổ chức, nhiệm vụ, chỉ huy và phối hợp FPU",
+        "en": "FPU organization, tasks, command and coordination"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "INTRO",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-052%20Introduction%20to%20FPUs.pdf",
+      "officialIndex": false,
+      "file": "lessons/fpu/01.json",
+      "moduleId": "FPU-M6",
+      "moduleOrder": 4,
+      "lessonOrder": 1,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "batch-03-expanded-v1-2026-10-28",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "FPU-02",
+      "area": "fpu",
+      "groupKey": "FPU-M6",
+      "group": {
+        "vi": "Chỉ huy và tham mưu",
+        "en": "Command staff training"
+      },
+      "title": {
+        "vi": "Quản lý trang thiết bị COE",
+        "en": "Contingent-owned equipment management"
+      },
+      "status": "draft",
+      "minutes": 6,
+      "sourceKey": "COE",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-055%20Contingent%20Owned%20Equipment.pdf",
+      "officialIndex": false,
+      "file": "lessons/fpu/02.json",
+      "moduleId": "FPU-M6",
+      "moduleOrder": 4,
+      "lessonOrder": 2,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "batch-03-expanded-v1-2026-10-28",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "FPU-03",
+      "area": "fpu",
+      "groupKey": "FPU-M6",
+      "group": {
+        "vi": "Chỉ huy và tham mưu",
+        "en": "Command staff training"
+      },
+      "title": {
+        "vi": "Huấn luyện, bảo dưỡng và duy trì khả năng sẵn sàng",
+        "en": "Training, maintenance and sustained readiness"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "TRAIN",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-054%20FPU%20Training%20%26%20maintenance.pdf",
+      "officialIndex": false,
+      "file": "lessons/fpu/03.json",
+      "moduleId": "FPU-M6",
+      "moduleOrder": 4,
+      "lessonOrder": 3,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "batch-03-expanded-v1-2026-10-28",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "FPU-04",
+      "area": "fpu",
+      "groupKey": "FPU-M6",
+      "group": {
+        "vi": "Chỉ huy và tham mưu",
+        "en": "Command staff training"
+      },
+      "title": {
+        "vi": "Quản lý căng thẳng",
+        "en": "Managing stress in unit operations"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "STRESS",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-059%20Stress%20Awareness.pdf",
+      "officialIndex": false,
+      "file": "lessons/fpu/04.json",
+      "moduleId": "FPU-M6",
+      "moduleOrder": 4,
+      "lessonOrder": 4,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "batch-03-expanded-v1-2026-10-28",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "FPU-07",
+      "area": "fpu",
+      "groupKey": "FPU-M6",
+      "group": {
+        "vi": "Chỉ huy và tham mưu",
+        "en": "Command staff training"
+      },
+      "title": {
+        "vi": "Ra quyết định, lập kế hoạch và ban hành mệnh lệnh",
+        "en": "Decision-making, planning and orders"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "PLAN",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-056%20Decision%20making%20process.pdf",
+      "officialIndex": false,
+      "file": "lessons/fpu/07.json",
+      "moduleId": "FPU-M6",
+      "moduleOrder": 4,
+      "lessonOrder": 5,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "batch-04-expanded-v1-2026-10-28",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "FPU-15",
+      "area": "fpu",
+      "groupKey": "FPU-M6",
+      "group": {
+        "vi": "Chỉ huy và tham mưu",
+        "en": "Command staff training"
+      },
+      "title": {
+        "vi": "Bảo vệ cơ sở Liên hợp quốc",
+        "en": "Security of UN facilities"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "FACILITY",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-058%20Security%20of%20UN%20Facilities.pdf",
+      "officialIndex": false,
+      "file": "lessons/fpu/15.json",
+      "moduleId": "FPU-M6",
+      "moduleOrder": 4,
+      "lessonOrder": 6,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "batch-05-expanded-v1-2026-10-29",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "IPO-01",
+      "area": "ipo",
+      "groupKey": "IPO-M1",
+      "group": {
+        "vi": "Cảnh sát cộng đồng",
+        "en": "Community-oriented policing"
+      },
+      "title": {
+        "vi": "Tiếp xúc cộng đồng và xây dựng niềm tin",
+        "en": "Community engagement and trust-building"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "U36",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-010%20UNPOL%20STM%20Lesson%205%20Community-Oriented%20Policing.pdf",
+      "officialIndex": false,
+      "file": "lessons/ipo/01.json",
+      "moduleId": "IPO-M1",
+      "moduleOrder": 1,
+      "lessonOrder": 1,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "4tab-2026-10-26",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "IPO-02",
+      "area": "ipo",
+      "groupKey": "IPO-M1",
+      "group": {
+        "vi": "Cảnh sát cộng đồng",
+        "en": "Community-oriented policing"
+      },
+      "title": {
+        "vi": "Đánh giá an toàn và giải quyết vấn đề cộng đồng",
+        "en": "Community safety assessment and problem-solving"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "U36",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-010%20UNPOL%20STM%20Lesson%205%20Community-Oriented%20Policing.pdf",
+      "officialIndex": false,
+      "file": "lessons/ipo/02.json",
+      "moduleId": "IPO-M1",
+      "moduleOrder": 1,
+      "lessonOrder": 2,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "4tab-2026-10-26",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "IPO-03",
+      "area": "ipo",
+      "groupKey": "IPO-M2",
+      "group": {
+        "vi": "Giám sát, hướng dẫn và cố vấn",
+        "en": "Monitoring, mentoring and advising"
+      },
+      "title": {
+        "vi": "Giám sát hoạt động cảnh sát, phản hồi và báo cáo",
+        "en": "Police monitoring, feedback and reporting"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "U39",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-016%20UNPOL%20STM%20Lesson%208%20UNPOL%20Monitoring,%20Mentoring%20and%20Advising.pdf",
+      "officialIndex": false,
+      "file": "lessons/ipo/03.json",
+      "moduleId": "IPO-M2",
+      "moduleOrder": 2,
+      "lessonOrder": 1,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "4tab-2026-10-26",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "IPO-04",
+      "area": "ipo",
+      "groupKey": "IPO-M2",
+      "group": {
+        "vi": "Giám sát, hướng dẫn và cố vấn",
+        "en": "Monitoring, mentoring and advising"
+      },
+      "title": {
+        "vi": "Kỹ năng hướng dẫn, kèm cặp và cố vấn",
+        "en": "Mentoring, coaching and professional advice"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "U39",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-016%20UNPOL%20STM%20Lesson%208%20UNPOL%20Monitoring,%20Mentoring%20and%20Advising.pdf",
+      "officialIndex": false,
+      "file": "lessons/ipo/04.json",
+      "moduleId": "IPO-M2",
+      "moduleOrder": 2,
+      "lessonOrder": 2,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "4tab-2026-10-26",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "IPO-05",
+      "area": "ipo",
+      "groupKey": "IPO-M3",
+      "group": {
+        "vi": "Phát triển năng lực",
+        "en": "Capacity development"
+      },
+      "title": {
+        "vi": "Đánh giá năng lực cảnh sát và nhu cầu huấn luyện",
+        "en": "Police capability assessment and training needs"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "U38",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-014%20UNPOL%20STM%20Lesson%207%20Capacity-building%20and%20Development.pdf",
+      "officialIndex": false,
+      "file": "lessons/ipo/05.json",
+      "moduleId": "IPO-M3",
+      "moduleOrder": 3,
+      "lessonOrder": 1,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "4tab-2026-10-26",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "IPO-06",
+      "area": "ipo",
+      "groupKey": "IPO-M3",
+      "group": {
+        "vi": "Phát triển năng lực",
+        "en": "Capacity development"
+      },
+      "title": {
+        "vi": "Phát triển năng lực, cải cách và đánh giá kết quả",
+        "en": "Capacity development, reform and results"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "U38",
+      "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-014%20UNPOL%20STM%20Lesson%207%20Capacity-building%20and%20Development.pdf",
+      "officialIndex": false,
+      "file": "lessons/ipo/06.json",
+      "moduleId": "IPO-M3",
+      "moduleOrder": 3,
+      "lessonOrder": 2,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "4tab-2026-10-26",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "IPO-07",
+      "area": "ipo",
+      "groupKey": "IPO-M4",
+      "group": {
+        "vi": "Chuẩn bị đánh giá tuyển chọn",
+        "en": "Selection assessment preparation"
+      },
+      "title": {
+        "vi": "Chuẩn bị đánh giá: Quy trình, EASP và phỏng vấn",
+        "en": "Assessment preparation, EASP and interviews"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "AMS2024",
+      "sourceUrl": "https://unmiss.unmissions.org/sites/default/files/2026-02/SOP%20on%20Assessment%20for%20Mission%20Service%20of%20Individual%20Police%20Officers%20%282024%29.pdf",
+      "officialIndex": false,
+      "file": "lessons/ipo/07.json",
+      "moduleId": "IPO-M4",
+      "moduleOrder": 4,
+      "lessonOrder": 1,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "4tab-2026-10-26",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "IPO-08",
+      "area": "ipo",
+      "groupKey": "IPO-M4",
+      "group": {
+        "vi": "Chuẩn bị đánh giá tuyển chọn",
+        "en": "Selection assessment preparation"
+      },
+      "title": {
+        "vi": "Đánh giá ngôn ngữ và báo cáo sự cố",
+        "en": "Language assessment and incident reporting"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "AMS2024",
+      "sourceUrl": "https://unmiss.unmissions.org/sites/default/files/2026-02/SOP%20on%20Assessment%20for%20Mission%20Service%20of%20Individual%20Police%20Officers%20%282024%29.pdf",
+      "officialIndex": false,
+      "file": "lessons/ipo/08.json",
+      "moduleId": "IPO-M4",
+      "moduleOrder": 4,
+      "lessonOrder": 2,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "4tab-2026-10-26",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "IPO-09",
+      "area": "ipo",
+      "groupKey": "IPO-M4",
+      "group": {
+        "vi": "Chuẩn bị đánh giá tuyển chọn",
+        "en": "Selection assessment preparation"
+      },
+      "title": {
+        "vi": "Chuẩn bị đánh giá kỹ năng lái xe",
+        "en": "Preparing for a driving assessment"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "AMS2024",
+      "sourceUrl": "https://unmiss.unmissions.org/sites/default/files/2026-02/SOP%20on%20Assessment%20for%20Mission%20Service%20of%20Individual%20Police%20Officers%20%282024%29.pdf",
+      "officialIndex": false,
+      "file": "lessons/ipo/09.json",
+      "moduleId": "IPO-M4",
+      "moduleOrder": 4,
+      "lessonOrder": 3,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "4tab-2026-10-26",
+      "reader": "handbook-four-tabs"
+    },
+    {
+      "id": "IPO-10",
+      "area": "ipo",
+      "groupKey": "IPO-M4",
+      "group": {
+        "vi": "Chuẩn bị đánh giá tuyển chọn",
+        "en": "Selection assessment preparation"
+      },
+      "title": {
+        "vi": "Chuẩn bị đánh giá sử dụng súng",
+        "en": "Preparing for a firearms assessment"
+      },
+      "status": "draft",
+      "minutes": 5,
+      "sourceKey": "AMS2024",
+      "sourceUrl": "https://unmiss.unmissions.org/sites/default/files/2026-02/SOP%20on%20Assessment%20for%20Mission%20Service%20of%20Individual%20Police%20Officers%20%282024%29.pdf",
+      "officialIndex": false,
+      "file": "lessons/ipo/10.json",
+      "moduleId": "IPO-M4",
+      "moduleOrder": 4,
+      "lessonOrder": 4,
+      "availableLanguages": [
+        "vi",
+        "en"
+      ],
+      "contentVersion": "4tab-2026-10-26",
+      "reader": "handbook-four-tabs"
+    }
+  ]
+}

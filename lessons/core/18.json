@@ -1,0 +1,541 @@
+{
+  "schemaVersion": 2,
+  "id": "CORE-18",
+  "area": "core",
+  "groupKey": "CORE-M3",
+  "group": {
+    "vi": "Trách nhiệm, an toàn và sức khỏe",
+    "en": "Responsibilities, safety and health"
+  },
+  "title": {
+    "vi": "Sơ cấp cứu khẩn cấp",
+    "en": "Emergency first aid"
+  },
+  "summary": {
+    "vi": "Bài học CORE-18 tập trung vào chủ đề: Sơ cấp cứu khẩn cấp. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+    "en": "Lesson CORE-18 covers the following topic: Emergency first aid. It connects concepts with professional responsibilities."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "C31",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-436%20Lesson%203.11%20Emergency%20First%20Aid.zip",
+  "order": 304,
+  "sections": [
+    {
+      "id": "CORE-18-01",
+      "title": {
+        "vi": "1. Vai trò của người sơ cứu",
+        "en": "1. The first aider’s role"
+      },
+      "body": {
+        "vi": "Sơ cứu là chăm sóc ban đầu. Người sơ cứu cần nhận biết tình trạng khẩn cấp, gửi cảnh báo hiệu quả, hỗ trợ trong năng lực đã được huấn luyện và chuyển giao cho nhân viên y tế. Trước khi tiếp cận, kiểm tra nguy hiểm và sử dụng phương tiện bảo vệ sẵn có. Nội dung nhận biết, hồi sức cơ bản trong bài này dành cho người lớn; trẻ em cần hướng dẫn và huấn luyện riêng.",
+        "en": "First aid is initial care. Recognize the emergency, send an effective alert, help within your training and hand over to medical professionals. Check scene danger, use available protective equipment and activate assistance. This lesson addresses adult recognition and basic response; children require appropriate separate training."
+      },
+      "sourceIds": [
+        "C31",
+        "AHA",
+        "BLEED"
+      ]
+    },
+    {
+      "id": "CORE-18-02",
+      "title": {
+        "vi": "2. Tiếp cận và gọi hỗ trợ",
+        "en": "2. Approach and call for help"
+      },
+      "body": {
+        "vi": "Trước khi tiếp cận, nhận diện nguy cơ giao thông, điện, cháy hoặc bạo lực còn tiếp diễn. Gọi đúng đầu mối cấp cứu và báo vị trí có thể tìm được, số người cần hỗ trợ, nguy cơ hiện trường và đường tiếp cận. Nếu có nhiều người, phân công người gọi và người đón đội y tế. Báo rõ cổng, tòa nhà hoặc mốc vị trí cụ thể, lối vào và vật cản để đội hỗ trợ không mất thời gian tìm kiếm.\n\n### 2.1. Cảnh báo có thể hành động\n\nThông tin giúp đội hỗ trợ biết đến đâu, cần gì, còn nguy hiểm nào. Xác nhận hiểu vị trí, phân người đón khi an toàn và giữ cập nhật. Báo số người theo điều biết, không đoán chẩn đoán. Khi hiện trường đổi, cập nhật phần ảnh hưởng tiếp cận. Gọi hỗ trợ là một phần trách nhiệm; tiếp tục hỗ trợ trong huấn luyện và điều kiện cho phép.",
+        "en": "Check for traffic, electricity, fire and continuing violence before approaching. Contact the designated medical service and provide a findable location, number of casualties, scene hazards and access route. Assign someone to call and someone to guide the team when others are available. A location report should identify the exact gate or building and any access obstruction.\n\n### 2.1. Give an actionable alert\n\nTell responders where to go, what is needed and what danger remains. Confirm the location, arrange safe guidance and maintain updates. State the known casualty count without inventing a diagnosis. Update access-related changes promptly. Calling is one part of assistance; continue within training and scene conditions. Clear role allocation avoids everyone assuming another person made the call or remains responsible for guiding the team."
+      },
+      "sourceIds": [
+        "C31",
+        "AHA",
+        "BLEED"
+      ]
+    },
+    {
+      "id": "CORE-18-03",
+      "title": {
+        "vi": "3. Nhận biết ngừng tim và CPR ở người lớn",
+        "en": "3. Recognize adult cardiac arrest"
+      },
+      "body": {
+        "vi": "Người không đáp ứng, không thở bình thường hoặc chỉ thở ngáp cần được nhận diện nhanh, kích hoạt cấp cứu, lấy AED và bắt đầu CPR. Thực hiện ép ngực 100–120 lần/phút, sâu ít nhất 5 cm nhưng tránh quá 6 cm, cho ngực trở lại hoàn toàn và hạn chế gián đoạn. Người đã được huấn luyện có thể thực hiện 30 lần ép với 2 lần thổi; nếu không thể thổi, tiếp tục ép ngực theo hướng dẫn cấp cứu. Dùng AED sớm và làm theo lời nhắc; không chạm người bệnh khi máy phân tích hoặc sốc.\n\nCác kỹ năng phải được luyện trên mô hình. Bài này không áp dụng nguyên xi thông số người lớn cho trẻ em hoặc trẻ sơ sinh.",
+        "en": "An unresponsive adult who is not breathing normally or is only gasping needs urgent recognition, emergency activation, an AED and CPR. Compress at 100–120/min to at least 5 cm while avoiding more than 6 cm, allowing full recoil and limiting pauses. Trained rescuers may use 30 compressions and 2 breaths; if breaths cannot be provided, continue compressions under emergency guidance. Follow AED prompts and keep everyone clear during analysis and shock. Practise on a manikin; adult parameters must not be copied to children."
+      },
+      "sourceIds": [
+        "C31",
+        "AHA",
+        "BLEED"
+      ]
+    },
+    {
+      "id": "CORE-18-04",
+      "title": {
+        "vi": "4. Chảy máu đe dọa tính mạng",
+        "en": "4. Life-threatening bleeding"
+      },
+      "body": {
+        "vi": "Ép trực tiếp lên vị trí chảy máu ngoài nghiêm trọng và gọi trợ giúp y tế. Garô hoặc chèn vết thương cần phù hợp vị trí tổn thương, trang bị và năng lực đã được huấn luyện; không áp dụng cho mọi vết thương. Phân công rõ người tiếp tục kiểm soát chảy máu và người gọi hỗ trợ. Chăm sóc cứu sống cần thực hiện ngay, không trì hoãn để chụp ảnh hoặc hoàn thành biểu mẫu.",
+        "en": "Apply direct pressure to severe external bleeding and activate medical help. Tourniquets or wound packing require appropriate injury location, equipment and training; they are not measures for every wound. Assign continued bleeding control and the call for assistance. Immediate lifesaving care takes priority over photographs and forms."
+      },
+      "sourceIds": [
+        "C31",
+        "AHA",
+        "BLEED"
+      ]
+    },
+    {
+      "id": "CORE-18-05",
+      "title": {
+        "vi": "5. Theo dõi và bàn giao",
+        "en": "5. Monitor and hand over"
+      },
+      "body": {
+        "vi": "Khi bàn giao, báo ngắn gọn: Nhận thấy gì lúc đầu; sự việc xảy ra khi nào; đã hỗ trợ gì; tình trạng thay đổi ra sao; còn nguy cơ nào. Thông tin chính xác giúp người tiếp nhận tiếp tục chăm sóc.\n\nPhân biệt không nhìn thấy dấu hiệu với đã loại trừ tổn thương. Người còn tỉnh sau va chạm vẫn có thể cần đánh giá y tế nếu có triệu chứng hoặc cơ chế chấn thương đáng lo; không khẳng định chắc chắn an toàn chỉ vì chưa thấy máu.",
+        "en": "Report initial findings, event timing, care given, changes and continuing hazards. Distinguish an absent visible sign from a ruled-out injury. A conscious person after a collision may still need assessment because of symptoms or the injury mechanism. Do not guarantee safety merely because no blood is visible."
+      },
+      "sourceIds": [
+        "C31",
+        "AHA",
+        "BLEED"
+      ]
+    },
+    {
+      "id": "CORE-18-06",
+      "title": {
+        "vi": "6. Sơ cứu trong tổ chức làm việc",
+        "en": "6. Organize readiness for first aid"
+      },
+      "body": {
+        "vi": "Biết người có năng lực, vị trí vật tư/AED, cách gọi và nơi tiếp nhận. Hết hạn hoặc thiếu vật tư phải được báo và bổ sung, không chỉ kiểm số túi. Trong tai nạn, bảo vệ hiện trường và gọi hỗ trợ, không di chuyển người bị thương tùy tiện hoặc trì hoãn chăm sóc để hoàn thành hồ sơ. Khi có bỏng, khó thở, chấn thương hoặc triệu chứng không rõ cần đánh giá y tế phù hợp; không kết luận an toàn từ vẻ ngoài.\n\n### 6.1. Người, vật tư và luyện tập\n\nKiểm tra nội dung, tình trạng, hạn dùng, nơi đặt và người biết sử dụng, không chỉ số túi. Luyện gọi, mô tả vị trí và bàn giao. Theo dõi bổ sung, thay đổi nhân sự có năng lực và khoảng thiếu trước nhiệm vụ. Hiểu bài giúp nắm nguyên tắc; CPR, AED và kiểm soát chảy máu cần thực hành, đánh giá phù hợp để nối chăm sóc ban đầu với y tế chuyên môn.",
+        "en": "Know trained personnel, kit and AED locations, alert methods and receiving facilities. Replace missing or expired supplies. Do not move casualties unnecessarily or delay care for documentation. Burns, breathing difficulty, trauma or unexplained symptoms require suitable medical assessment. Practical competence must be trained and assessed, not inferred from reading.\n\n### 6.1. Connect people, supplies and practice\n\nCheck contents, condition, expiry, location and competent users, not only bag counts. Practise alerting, locations and handover. Track replenishment, qualified staff changes and gaps before tasks. Reading develops understanding, while CPR, AED and bleeding-control competence need appropriate practice and assessment. Readiness should demonstrate both available initial assistance and its connection with professional medical care, including what remains unavailable or unconfirmed."
+      },
+      "sourceIds": [
+        "C31",
+        "AHA",
+        "BLEED"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "C31",
+      "title": "3.11 Emergency First Aid",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-436%20Lesson%203.11%20Emergency%20First%20Aid.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 7,
+      "pdf_name": "2025 - Lesson 3.11 Emergency First Aid - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "AHA",
+      "title": "Part 7: Adult Basic Life Support",
+      "publisher": "American Heart Association",
+      "year": "2025",
+      "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support",
+      "format": "web",
+      "pages": null,
+      "reading": "Recognition; chest compressions; compression-to-ventilation ratio; AED",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "BLEED",
+      "title": "2024 AHA and American Red Cross Guidelines for First Aid — Top Things to Know",
+      "publisher": "AHA / American Red Cross",
+      "year": "2024",
+      "url": "https://professional.heart.org/en/science-news/2024-aha-and-american-red-cross-guidelines-for-first-aid/top-things-to-know",
+      "format": "web",
+      "pages": null,
+      "reading": "Mục 1–2",
+      "checked": "2026-10-24"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Phải kiểm tra nguy hiểm trước tiếp cận người bị nạn.",
+        "en": "Check scene danger before approaching a casualty."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Không tạo thêm nạn nhân trong quá trình hỗ trợ.",
+        "en": "Avoid creating another casualty during assistance."
+      }
+    },
+    {
+      "question": {
+        "vi": "Thở ngáp ở người không đáp ứng là thở bình thường.",
+        "en": "Gasping in an unresponsive adult is normal breathing."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Đó là dấu hiệu cần nhận biết cấp cứu ngừng tim.",
+        "en": "This requires urgent cardiac-arrest recognition."
+      }
+    },
+    {
+      "question": {
+        "vi": "Ép ngực người lớn theo bài ở nhịp 100–120 lần/phút.",
+        "en": "Adult compressions in this lesson use 100–120/min."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Kết hợp độ sâu phù hợp, hồi ngực và ít gián đoạn.",
+        "en": "Combine appropriate depth, recoil and minimal interruption."
+      }
+    },
+    {
+      "question": {
+        "vi": "Có thể chạm người bệnh lúc AED phân tích hoặc sốc.",
+        "en": "A person may be touched during AED analysis or shock."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Phải tránh tiếp xúc và theo lời nhắc máy.",
+        "en": "Keep clear and follow device prompts."
+      }
+    },
+    {
+      "question": {
+        "vi": "Garô là biện pháp dùng cho mọi vết thương.",
+        "en": "A tourniquet is appropriate for every wound."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Cần đúng vị trí, tình trạng và huấn luyện.",
+        "en": "Use depends on injury, location and training."
+      }
+    },
+    {
+      "question": {
+        "vi": "Bàn giao cần nói việc đã hỗ trợ và thay đổi tình trạng.",
+        "en": "Handover should include care and changes in condition."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Thông tin đó giúp tiếp tục chăm sóc.",
+        "en": "This supports continued care."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Máy khử rung tim tự động ngoài cơ thể?",
+        "en": "Which concept matches: Automated external defibrillator?"
+      },
+      "options": [
+        {
+          "vi": "CPR",
+          "en": "CPR"
+        },
+        {
+          "vi": "DUF",
+          "en": "DUF"
+        },
+        {
+          "vi": "AED",
+          "en": "AED"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "AED: Máy khử rung tim tự động ngoài cơ thể.",
+        "en": "AED: Automated external defibrillator."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Hồi sức tim phổi?",
+        "en": "Which concept matches: Cardiopulmonary resuscitation?"
+      },
+      "options": [
+        {
+          "vi": "CPR",
+          "en": "CPR"
+        },
+        {
+          "vi": "AED",
+          "en": "AED"
+        },
+        {
+          "vi": "DUF",
+          "en": "DUF"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "CPR: Hồi sức tim phổi.",
+        "en": "CPR: Cardiopulmonary resuscitation."
+      }
+    }
+  ],
+  "updated": "2026-10-26",
+  "moduleId": "CORE-M3",
+  "moduleOrder": 3,
+  "lessonOrder": 4,
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "CORE-18-01",
+      "title": {
+        "vi": "1. Vai trò của người sơ cứu",
+        "en": "1. The first aider’s role"
+      },
+      "body": {
+        "vi": "Sơ cứu là chăm sóc ban đầu. Người sơ cứu cần nhận biết tình trạng khẩn cấp, gửi cảnh báo hiệu quả, hỗ trợ trong năng lực đã được huấn luyện và chuyển giao cho nhân viên y tế. Trước khi tiếp cận, kiểm tra nguy hiểm và sử dụng phương tiện bảo vệ sẵn có. Nội dung nhận biết, hồi sức cơ bản trong bài này dành cho người lớn; trẻ em cần hướng dẫn và huấn luyện riêng.",
+        "en": "First aid is initial care. Recognize the emergency, send an effective alert, help within your training and hand over to medical professionals. Check scene danger, use available protective equipment and activate assistance. This lesson addresses adult recognition and basic response; children require appropriate separate training."
+      },
+      "sourceIds": [
+        "C31",
+        "AHA",
+        "BLEED"
+      ]
+    },
+    {
+      "id": "CORE-18-02",
+      "title": {
+        "vi": "2. Tiếp cận và gọi hỗ trợ",
+        "en": "2. Approach and call for help"
+      },
+      "body": {
+        "vi": "Trước khi tiếp cận, nhận diện nguy cơ giao thông, điện, cháy hoặc bạo lực còn tiếp diễn. Gọi đúng đầu mối cấp cứu và báo vị trí có thể tìm được, số người cần hỗ trợ, nguy cơ hiện trường và đường tiếp cận. Nếu có nhiều người, phân công người gọi và người đón đội y tế. Báo rõ cổng, tòa nhà hoặc mốc vị trí cụ thể, lối vào và vật cản để đội hỗ trợ không mất thời gian tìm kiếm.\n\n### 2.1. Cảnh báo có thể hành động\n\nThông tin giúp đội hỗ trợ biết đến đâu, cần gì, còn nguy hiểm nào. Xác nhận hiểu vị trí, phân người đón khi an toàn và giữ cập nhật. Báo số người theo điều biết, không đoán chẩn đoán. Khi hiện trường đổi, cập nhật phần ảnh hưởng tiếp cận. Gọi hỗ trợ là một phần trách nhiệm; tiếp tục hỗ trợ trong huấn luyện và điều kiện cho phép.",
+        "en": "Check for traffic, electricity, fire and continuing violence before approaching. Contact the designated medical service and provide a findable location, number of casualties, scene hazards and access route. Assign someone to call and someone to guide the team when others are available. A location report should identify the exact gate or building and any access obstruction.\n\n### 2.1. Give an actionable alert\n\nTell responders where to go, what is needed and what danger remains. Confirm the location, arrange safe guidance and maintain updates. State the known casualty count without inventing a diagnosis. Update access-related changes promptly. Calling is one part of assistance; continue within training and scene conditions. Clear role allocation avoids everyone assuming another person made the call or remains responsible for guiding the team."
+      },
+      "sourceIds": [
+        "C31",
+        "AHA",
+        "BLEED"
+      ]
+    },
+    {
+      "id": "CORE-18-03",
+      "title": {
+        "vi": "3. Nhận biết ngừng tim và CPR ở người lớn",
+        "en": "3. Recognize adult cardiac arrest"
+      },
+      "body": {
+        "vi": "Người không đáp ứng, không thở bình thường hoặc chỉ thở ngáp cần được nhận diện nhanh, kích hoạt cấp cứu, lấy AED và bắt đầu CPR. Thực hiện ép ngực 100–120 lần/phút, sâu ít nhất 5 cm nhưng tránh quá 6 cm, cho ngực trở lại hoàn toàn và hạn chế gián đoạn. Người đã được huấn luyện có thể thực hiện 30 lần ép với 2 lần thổi; nếu không thể thổi, tiếp tục ép ngực theo hướng dẫn cấp cứu. Dùng AED sớm và làm theo lời nhắc; không chạm người bệnh khi máy phân tích hoặc sốc.\n\nCác kỹ năng phải được luyện trên mô hình. Bài này không áp dụng nguyên xi thông số người lớn cho trẻ em hoặc trẻ sơ sinh.",
+        "en": "An unresponsive adult who is not breathing normally or is only gasping needs urgent recognition, emergency activation, an AED and CPR. Compress at 100–120/min to at least 5 cm while avoiding more than 6 cm, allowing full recoil and limiting pauses. Trained rescuers may use 30 compressions and 2 breaths; if breaths cannot be provided, continue compressions under emergency guidance. Follow AED prompts and keep everyone clear during analysis and shock. Practise on a manikin; adult parameters must not be copied to children."
+      },
+      "sourceIds": [
+        "C31",
+        "AHA",
+        "BLEED"
+      ]
+    },
+    {
+      "id": "CORE-18-04",
+      "title": {
+        "vi": "4. Chảy máu đe dọa tính mạng",
+        "en": "4. Life-threatening bleeding"
+      },
+      "body": {
+        "vi": "Ép trực tiếp lên vị trí chảy máu ngoài nghiêm trọng và gọi trợ giúp y tế. Garô hoặc chèn vết thương cần phù hợp vị trí tổn thương, trang bị và năng lực đã được huấn luyện; không áp dụng cho mọi vết thương. Phân công rõ người tiếp tục kiểm soát chảy máu và người gọi hỗ trợ. Chăm sóc cứu sống cần thực hiện ngay, không trì hoãn để chụp ảnh hoặc hoàn thành biểu mẫu.",
+        "en": "Apply direct pressure to severe external bleeding and activate medical help. Tourniquets or wound packing require appropriate injury location, equipment and training; they are not measures for every wound. Assign continued bleeding control and the call for assistance. Immediate lifesaving care takes priority over photographs and forms."
+      },
+      "sourceIds": [
+        "C31",
+        "AHA",
+        "BLEED"
+      ]
+    },
+    {
+      "id": "CORE-18-05",
+      "title": {
+        "vi": "5. Theo dõi và bàn giao",
+        "en": "5. Monitor and hand over"
+      },
+      "body": {
+        "vi": "Khi bàn giao, báo ngắn gọn: Nhận thấy gì lúc đầu; sự việc xảy ra khi nào; đã hỗ trợ gì; tình trạng thay đổi ra sao; còn nguy cơ nào. Thông tin chính xác giúp người tiếp nhận tiếp tục chăm sóc.\n\nPhân biệt không nhìn thấy dấu hiệu với đã loại trừ tổn thương. Người còn tỉnh sau va chạm vẫn có thể cần đánh giá y tế nếu có triệu chứng hoặc cơ chế chấn thương đáng lo; không khẳng định chắc chắn an toàn chỉ vì chưa thấy máu.",
+        "en": "Report initial findings, event timing, care given, changes and continuing hazards. Distinguish an absent visible sign from a ruled-out injury. A conscious person after a collision may still need assessment because of symptoms or the injury mechanism. Do not guarantee safety merely because no blood is visible."
+      },
+      "sourceIds": [
+        "C31",
+        "AHA",
+        "BLEED"
+      ]
+    },
+    {
+      "id": "CORE-18-06",
+      "title": {
+        "vi": "6. Sơ cứu trong tổ chức làm việc",
+        "en": "6. Organize readiness for first aid"
+      },
+      "body": {
+        "vi": "Biết người có năng lực, vị trí vật tư/AED, cách gọi và nơi tiếp nhận. Hết hạn hoặc thiếu vật tư phải được báo và bổ sung, không chỉ kiểm số túi. Trong tai nạn, bảo vệ hiện trường và gọi hỗ trợ, không di chuyển người bị thương tùy tiện hoặc trì hoãn chăm sóc để hoàn thành hồ sơ. Khi có bỏng, khó thở, chấn thương hoặc triệu chứng không rõ cần đánh giá y tế phù hợp; không kết luận an toàn từ vẻ ngoài.\n\n### 6.1. Người, vật tư và luyện tập\n\nKiểm tra nội dung, tình trạng, hạn dùng, nơi đặt và người biết sử dụng, không chỉ số túi. Luyện gọi, mô tả vị trí và bàn giao. Theo dõi bổ sung, thay đổi nhân sự có năng lực và khoảng thiếu trước nhiệm vụ. Hiểu bài giúp nắm nguyên tắc; CPR, AED và kiểm soát chảy máu cần thực hành, đánh giá phù hợp để nối chăm sóc ban đầu với y tế chuyên môn.",
+        "en": "Know trained personnel, kit and AED locations, alert methods and receiving facilities. Replace missing or expired supplies. Do not move casualties unnecessarily or delay care for documentation. Burns, breathing difficulty, trauma or unexplained symptoms require suitable medical assessment. Practical competence must be trained and assessed, not inferred from reading.\n\n### 6.1. Connect people, supplies and practice\n\nCheck contents, condition, expiry, location and competent users, not only bag counts. Practise alerting, locations and handover. Track replenishment, qualified staff changes and gaps before tasks. Reading develops understanding, while CPR, AED and bleeding-control competence need appropriate practice and assessment. Readiness should demonstrate both available initial assistance and its connection with professional medical care, including what remains unavailable or unconfirmed."
+      },
+      "sourceIds": [
+        "C31",
+        "AHA",
+        "BLEED"
+      ]
+    }
+  ],
+  "source_ids": [
+    "C31",
+    "AHA",
+    "BLEED"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "AED",
+      "definition": {
+        "vi": "Máy khử rung tim tự động ngoài cơ thể",
+        "en": "Automated external defibrillator"
+      }
+    },
+    {
+      "term": "CPR",
+      "definition": {
+        "vi": "Hồi sức tim phổi",
+        "en": "Cardiopulmonary resuscitation"
+      }
+    }
+  ],
+  "diagram": {
+    "type": "seq",
+    "items": [
+      {
+        "vi": "An toàn hiện trường",
+        "en": "Scene safety"
+      },
+      {
+        "vi": "Gọi hỗ trợ",
+        "en": "Activate help"
+      },
+      {
+        "vi": "Hỗ trợ đúng năng lực",
+        "en": "Care within training"
+      },
+      {
+        "vi": "Theo dõi, bàn giao",
+        "en": "Monitor and hand over"
+      }
+    ],
+    "chapter": 1
+  },
+  "contentVersion": "4tab-2026-10-26",
+  "sourceIntro": {
+    "vi": "Các tài liệu dưới đây là nền tảng kiến thức của bài. Mở nguồn để đọc nội dung gốc; phần giải thích, sơ đồ học tập và câu hỏi được biên soạn cho Handbook.",
+    "en": "The materials below provide the lesson’s knowledge base. Open them for the original teaching material; explanations, instructional diagrams and questions are developed for the Handbook."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Hai bản Việt–Anh phục vụ học tập, không phải bản dịch chính thức của UN. Danh mục và thứ tự 48 bài là cách tổ chức học liệu của Handbook, không phải số bài chính thức của UN.",
+      "Bảng đối chiếu xác định tài liệu nền theo mục; không khẳng định mọi câu diễn giải là trích nguyên văn. Hình gốc ghi rõ tài liệu và trang PDF; sơ đồ học tập được ghi là biên soạn.",
+      "Các phần sức khỏe, sơ cứu tập trung nhận biết, hỗ trợ ban đầu và chuyển chuyên môn. Thông số CPR người lớn được đối chiếu AHA 2025; thực hành và quyết định y tế cần huấn luyện, chuyên môn tương ứng."
+    ],
+    "en": [
+      "The Vietnamese and English texts are for learning and are not official UN translations. The 48-lesson catalogue and numbering are the Handbook’s organization, not the official UN lesson count.",
+      "The mapping identifies source materials by section and does not present every explanation as a verbatim quotation. Original illustrations identify the material and PDF page; instructional diagrams are labelled as developed for the lesson.",
+      "Health and first-aid sections focus on recognition, initial assistance and professional referral. Adult CPR parameters are checked against AHA 2025; practical and clinical decisions require corresponding training and expertise."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bài học CORE-18 tập trung vào chủ đề: Sơ cấp cứu khẩn cấp. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+      "en": "Lesson CORE-18 covers the following topic: Emergency first aid. It connects concepts with professional responsibilities."
+    },
+    "subtitle": {
+      "vi": "Học kiến thức, hiểu trách nhiệm và kiểm tra nhận thức.",
+      "en": "Learn the concepts, understand responsibilities and check your knowledge."
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích: Vai trò của người sơ cứu; Tiếp cận và gọi hỗ trợ.",
+        "Giải thích: Nhận biết ngừng tim và CPR ở người lớn; Chảy máu đe dọa tính mạng.",
+        "Giải thích: Theo dõi và bàn giao; Sơ cứu trong tổ chức làm việc.",
+        "Nhận diện cách hiểu sai và chọn nhận định có căn cứ trong kiểm tra nhận thức."
+      ],
+      "en": [
+        "Explain: The first aider’s role; Approach and call for help.",
+        "Explain: Recognize adult cardiac arrest; Life-threatening bleeding.",
+        "Explain: Monitor and hand over; Organize readiness for first aid.",
+        "Recognize misconceptions and select evidence-based statements in the knowledge check."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc các mục theo thứ tự trong tab nội dung, quan sát sơ đồ và hình, sau đó hoàn thành kiểm tra nhận thức. Chọn VI/EN để đổi ngôn ngữ; đáp án được giữ khi đổi ngôn ngữ trong phiên mở trang. Tải lại trang sẽ bắt đầu lại.",
+      "en": "Read the sections in order, study diagrams and illustrations, then complete the knowledge check. Use VI/EN to switch languages; answers are retained across language changes during the session. Reloading starts a new session."
+    }
+  },
+  "figures": [],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft"
+}

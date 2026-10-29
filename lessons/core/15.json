@@ -1,0 +1,546 @@
+{
+  "schemaVersion": 2,
+  "id": "CORE-15",
+  "area": "core",
+  "groupKey": "CORE-M2",
+  "group": {
+    "vi": "Mandate, bảo vệ và các ưu tiên",
+    "en": "Mandates, protection and priorities"
+  },
+  "title": {
+    "vi": "Khí hậu, môi trường và tài nguyên",
+    "en": "Climate, environment and resources"
+  },
+  "summary": {
+    "vi": "Bài học CORE-15 tập trung vào chủ đề: Khí hậu, môi trường và tài nguyên. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+    "en": "Lesson CORE-15 covers the following topic: Climate, environment and resources. It connects concepts with professional responsibilities."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "C17",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-421%20Lesson%202.8%20Climate,%20Peace,%20and%20Security.zip",
+  "order": 208,
+  "sections": [
+    {
+      "id": "CORE-15-01",
+      "title": {
+        "vi": "1. Phân biệt hai chiều tác động",
+        "en": "1. Two directions of impact"
+      },
+      "body": {
+        "vi": "Biến đổi khí hậu có thể tương tác với sinh kế, di chuyển, cạnh tranh tài nguyên và quản trị; không phải nguyên nhân duy nhất hoặc tự động của xung đột. Hoạt động phái bộ cũng có tác động môi trường qua nước, năng lượng, chất thải và đất. Bài học cần xét cả bối cảnh an ninh lẫn trách nhiệm giảm tác động của chính mình.",
+        "en": "Climate change can interact with livelihoods, displacement, resource competition and governance. It is not an automatic or single cause of conflict. Missions also affect the environment through water, energy, waste and land use. Consider both contextual security risks and the mission’s own footprint."
+      },
+      "sourceIds": [
+        "C17",
+        "C24"
+      ]
+    },
+    {
+      "id": "CORE-15-02",
+      "title": {
+        "vi": "2. Phân tích rủi ro địa bàn",
+        "en": "2. Assess local risks"
+      },
+      "body": {
+        "vi": "Xem mùa mưa/khô, nguồn nước, lối tiếp cận và thay đổi sinh kế có ảnh hưởng thế nào tới nhóm dân cư. Phân biệt biến động thời tiết ngắn hạn với xu hướng dài hạn. Không quy hành vi của cộng đồng cho khí hậu khi chưa xem các yếu tố chính trị, kinh tế và quản trị.\n\nBa yếu tố cần nối với nhau là tác nhân khí hậu, mức phơi nhiễm và tính dễ bị tổn thương hoặc khả năng ứng phó. Cùng một trận lũ có thể tác động khác nhau tùy nơi ở, sinh kế, dịch vụ và năng lực cộng đồng.",
+        "en": "Examine how wet and dry seasons, water availability, access routes and livelihood changes affect different communities. Distinguish short-term weather from longer-term trends. Analyse political, economic and governance factors before attributing conduct to climate.\n\nConnect climate stressors, exposure, and vulnerability or coping capacity. The same flood can have different effects depending on housing, livelihoods, services and community capacity."
+      },
+      "sourceIds": [
+        "C17",
+        "C24"
+      ]
+    },
+    {
+      "id": "CORE-15-03",
+      "title": {
+        "vi": "3. Quản lý trong cơ sở UN",
+        "en": "3. Environmental management in UN facilities"
+      },
+      "body": {
+        "vi": "Giảm lãng phí nước/điện, kiểm soát nhiên liệu, xử lý nước thải và phân loại chất thải theo quy định. Chất thải y tế, pin và hóa chất cần luồng xử lý phù hợp; không đổ hoặc đốt tùy tiện. Vệ sinh doanh trại là vấn đề sức khỏe cộng đồng và uy tín, không chỉ mỹ quan.\n\n### 3.1. Quản lý theo dòng vật chất\n\nTheo dõi nước, nhiên liệu, điện, vật tư từ tiếp nhận đến sử dụng và chất thải. Phát hiện rò rỉ, thất thoát, tiêu hao bất thường sớm để giảm rủi ro. Phân loại tại nơi phát sinh theo hệ thống, không trộn chất nguy hại với sinh hoạt. Người vận hành, thu gom và nhà thầu cần hiểu trách nhiệm nối tiếp để chuyển tay không làm mất kiểm soát. Quản lý môi trường là công việc liên tục.",
+        "en": "Avoid water and energy waste, control fuel, manage wastewater and segregate waste under applicable arrangements. Medical waste, batteries and chemicals need suitable handling streams. Do not dump or burn waste informally. Camp sanitation affects public health and credibility as well as appearance.\n\n### 3.1. Manage material flows\n\nFollow water, fuel, electricity and supplies from receipt through use to waste. Detect leaks, losses and abnormal consumption early. Segregate at generation under the applicable system and keep hazardous streams separate. Operators, collectors and contractors need connected responsibilities so handover does not break control. Environmental management is a continuing function rather than preparation for inspections. Recorded consumption and incident trends can reveal a problem that a visually clean compound conceals."
+      },
+      "sourceIds": [
+        "C17",
+        "C24"
+      ]
+    },
+    {
+      "id": "CORE-15-04",
+      "title": {
+        "vi": "4. Nguồn lực và quan hệ cộng đồng",
+        "en": "4. Resources and community relations"
+      },
+      "body": {
+        "vi": "Sử dụng nguồn nước hoặc dịch vụ địa phương có thể ảnh hưởng khả năng tiếp cận của dân cư. Đánh giá nhu cầu và phối hợp trước khi tăng khai thác. Không coi nguồn lực sẵn có là tự do sử dụng vì phục vụ UN.",
+        "en": "Mission use of local water or services can affect civilian access. Assess needs and coordinate before increasing consumption. Availability does not mean a resource can be taken without authorization or consideration of local users."
+      },
+      "sourceIds": [
+        "C17",
+        "C24"
+      ]
+    },
+    {
+      "id": "CORE-15-05",
+      "title": {
+        "vi": "5. Theo dõi và khắc phục",
+        "en": "5. Record, report and follow up"
+      },
+      "body": {
+        "vi": "Ghi sự cố, cô lập theo năng lực, báo đầu mối chuyên môn và theo dõi xử lý. Không chỉ dọn phần nhìn thấy rồi coi kết thúc. Cần dữ kiện về vị trí, chất liên quan, quy mô và người có thể bị ảnh hưởng; tránh tự xử lý hóa chất ngoài chuyên môn.\n\n### 5.1. Ghi sự cố để xử lý được\n\nMô tả nơi, giờ, chất nếu biết, dấu hiệu, phạm vi và người có thể bị ảnh hưởng. Báo chuyên môn, chỉ cô lập hoặc hỗ trợ trong năng lực. Theo dõi khắc phục và điều kiện dùng lại; tách quan sát với suy đoán hóa chất, nguyên nhân. Xem cả tác động ngoài hàng rào. Đóng phiếu sửa chữa chưa đủ khi ô nhiễm hoặc ảnh hưởng cộng đồng còn cần xác minh.",
+        "en": "Record incidents, limit exposure within competence, notify specialists and follow remediation. Cleaning the visible surface does not necessarily resolve contamination. Identify the location, material, scale and potentially affected people; avoid handling chemicals beyond training.\n\n### 5.1. Make an incident report actionable\n\nDescribe place, time, known material, observations, extent and potentially affected people. Notify specialists and limit exposure within competence. Follow remediation and return-to-use conditions. Separate observation from guesses about chemicals or causes. Consider effects beyond the perimeter. A closed repair entry is not enough while contamination or community effects still need verification. Assign follow-up so responsibility remains clear after the immediate clean-up."
+      },
+      "sourceIds": [
+        "C17",
+        "C24"
+      ]
+    },
+    {
+      "id": "CORE-15-06",
+      "title": {
+        "vi": "6. Bốn R trong thực hành",
+        "en": "6. The four Rs"
+      },
+      "body": {
+        "vi": "Reduce giảm nhu cầu và lãng phí; reuse tái dùng khi phù hợp; recycle tái chế qua luồng hợp lệ; recover thu hồi giá trị theo hệ thống xử lý. Không tái sử dụng đồ hoặc vật liệu có nguy cơ y tế/hóa chất chỉ vì mục tiêu tiết kiệm. Quản lý môi trường cần rõ trách nhiệm và năng lực nhà thầu, không chỉ chuyển chất thải ra ngoài doanh trại.",
+        "en": "Reduce demand and waste; reuse when safe; recycle through legitimate channels; and recover value through an appropriate treatment system. Savings do not justify reusing contaminated items. Establish contractor responsibilities and capacity rather than considering waste managed as soon as it leaves the camp."
+      },
+      "sourceIds": [
+        "C17",
+        "C24"
+      ]
+    },
+    {
+      "id": "CORE-15-07",
+      "title": {
+        "vi": "7. Đánh giá tác động ngoài hàng rào",
+        "en": "7. Look beyond the perimeter"
+      },
+      "body": {
+        "vi": "Chọn vị trí, xả thải, khai thác nước và sử dụng đường có thể ảnh hưởng cộng đồng. Cần cơ chế tiếp nhận phản ánh và xác minh; không coi không có đơn khiếu nại là không có tác động. Với dữ liệu khí hậu và an ninh, tránh kết luận nhân quả đơn tuyến; dùng thông tin để chuẩn bị và phối hợp thay vì gắn nhãn cộng đồng có nguy cơ gây xung đột.",
+        "en": "Site selection, discharge, water extraction and road use may affect communities. Provide a complaints and verification process; silence does not prove no impact. Use climate and security information to prepare and coordinate, avoiding simplistic causal labels about communities."
+      },
+      "sourceIds": [
+        "C17",
+        "C24"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "C17",
+      "title": "2.8 Climate, Peace and Security",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-421%20Lesson%202.8%20Climate,%20Peace,%20and%20Security.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 32,
+      "pdf_name": "2025 - Lesson 2.8 Climate Peace and Security - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "C24",
+      "title": "3.4 Environment and Natural Resources",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-429%20Lesson%203.4%20Environment%20and%20Natural%20Resources.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 30,
+      "pdf_name": "2025 - Lesson 3.4 Environment and Natural Resources - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Khí hậu là nguyên nhân duy nhất của mọi xung đột tài nguyên.",
+        "en": "Climate is the sole cause of all resource conflicts."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Cần xét yếu tố chính trị, kinh tế và quản trị.",
+        "en": "Consider political, economic and governance factors."
+      }
+    },
+    {
+      "question": {
+        "vi": "Phái bộ có trách nhiệm giảm dấu chân môi trường của mình.",
+        "en": "A mission should reduce its own environmental footprint."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Nước, năng lượng, chất thải đều liên quan.",
+        "en": "Water, energy and waste are relevant."
+      }
+    },
+    {
+      "question": {
+        "vi": "Chất thải đã ra khỏi doanh trại là coi như quản lý xong.",
+        "en": "Waste leaving the camp means management is complete."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Phải biết luồng xử lý và trách nhiệm nhà thầu.",
+        "en": "Verify treatment streams and contractor responsibility."
+      }
+    },
+    {
+      "question": {
+        "vi": "Tái sử dụng chỉ phù hợp khi an toàn.",
+        "en": "Reuse is appropriate only when safe."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Tiết kiệm không biện minh tái dùng vật nhiễm bẩn nguy hiểm.",
+        "en": "Savings do not justify unsafe contaminated reuse."
+      }
+    },
+    {
+      "question": {
+        "vi": "Không có khiếu nại chứng minh không có tác động.",
+        "en": "No complaints prove there is no impact."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Có thể có rào cản phản ánh hoặc thiếu thông tin.",
+        "en": "Reporting barriers or information gaps may exist."
+      }
+    },
+    {
+      "question": {
+        "vi": "Tăng khai thác nước cần xem ảnh hưởng người dân.",
+        "en": "Increased water use requires considering community effects."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Nguồn sẵn có không mặc nhiên được tự do sử dụng.",
+        "en": "Availability does not mean unrestricted use."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Giảm nhu cầu và lãng phí?",
+        "en": "Which concept matches: Reducing demand and waste?"
+      },
+      "options": [
+        {
+          "vi": "Reuse",
+          "en": "Reuse"
+        },
+        {
+          "vi": "Recycle",
+          "en": "Recycle"
+        },
+        {
+          "vi": "Reduce",
+          "en": "Reduce"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Reduce: Giảm nhu cầu và lãng phí.",
+        "en": "Reduce: Reducing demand and waste."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Tái chế qua luồng xử lý phù hợp?",
+        "en": "Which concept matches: Recycling through appropriate treatment streams?"
+      },
+      "options": [
+        {
+          "vi": "Recycle",
+          "en": "Recycle"
+        },
+        {
+          "vi": "Reuse",
+          "en": "Reuse"
+        },
+        {
+          "vi": "Reduce",
+          "en": "Reduce"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Recycle: Tái chế qua luồng xử lý phù hợp.",
+        "en": "Recycle: Recycling through appropriate treatment streams."
+      }
+    }
+  ],
+  "updated": "2026-10-26",
+  "moduleId": "CORE-M2",
+  "moduleOrder": 2,
+  "lessonOrder": 8,
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "CORE-15-01",
+      "title": {
+        "vi": "1. Phân biệt hai chiều tác động",
+        "en": "1. Two directions of impact"
+      },
+      "body": {
+        "vi": "Biến đổi khí hậu có thể tương tác với sinh kế, di chuyển, cạnh tranh tài nguyên và quản trị; không phải nguyên nhân duy nhất hoặc tự động của xung đột. Hoạt động phái bộ cũng có tác động môi trường qua nước, năng lượng, chất thải và đất. Bài học cần xét cả bối cảnh an ninh lẫn trách nhiệm giảm tác động của chính mình.",
+        "en": "Climate change can interact with livelihoods, displacement, resource competition and governance. It is not an automatic or single cause of conflict. Missions also affect the environment through water, energy, waste and land use. Consider both contextual security risks and the mission’s own footprint."
+      },
+      "sourceIds": [
+        "C17",
+        "C24"
+      ]
+    },
+    {
+      "id": "CORE-15-02",
+      "title": {
+        "vi": "2. Phân tích rủi ro địa bàn",
+        "en": "2. Assess local risks"
+      },
+      "body": {
+        "vi": "Xem mùa mưa/khô, nguồn nước, lối tiếp cận và thay đổi sinh kế có ảnh hưởng thế nào tới nhóm dân cư. Phân biệt biến động thời tiết ngắn hạn với xu hướng dài hạn. Không quy hành vi của cộng đồng cho khí hậu khi chưa xem các yếu tố chính trị, kinh tế và quản trị.\n\nBa yếu tố cần nối với nhau là tác nhân khí hậu, mức phơi nhiễm và tính dễ bị tổn thương hoặc khả năng ứng phó. Cùng một trận lũ có thể tác động khác nhau tùy nơi ở, sinh kế, dịch vụ và năng lực cộng đồng.",
+        "en": "Examine how wet and dry seasons, water availability, access routes and livelihood changes affect different communities. Distinguish short-term weather from longer-term trends. Analyse political, economic and governance factors before attributing conduct to climate.\n\nConnect climate stressors, exposure, and vulnerability or coping capacity. The same flood can have different effects depending on housing, livelihoods, services and community capacity."
+      },
+      "sourceIds": [
+        "C17",
+        "C24"
+      ]
+    },
+    {
+      "id": "CORE-15-03",
+      "title": {
+        "vi": "3. Quản lý trong cơ sở UN",
+        "en": "3. Environmental management in UN facilities"
+      },
+      "body": {
+        "vi": "Giảm lãng phí nước/điện, kiểm soát nhiên liệu, xử lý nước thải và phân loại chất thải theo quy định. Chất thải y tế, pin và hóa chất cần luồng xử lý phù hợp; không đổ hoặc đốt tùy tiện. Vệ sinh doanh trại là vấn đề sức khỏe cộng đồng và uy tín, không chỉ mỹ quan.\n\n### 3.1. Quản lý theo dòng vật chất\n\nTheo dõi nước, nhiên liệu, điện, vật tư từ tiếp nhận đến sử dụng và chất thải. Phát hiện rò rỉ, thất thoát, tiêu hao bất thường sớm để giảm rủi ro. Phân loại tại nơi phát sinh theo hệ thống, không trộn chất nguy hại với sinh hoạt. Người vận hành, thu gom và nhà thầu cần hiểu trách nhiệm nối tiếp để chuyển tay không làm mất kiểm soát. Quản lý môi trường là công việc liên tục.",
+        "en": "Avoid water and energy waste, control fuel, manage wastewater and segregate waste under applicable arrangements. Medical waste, batteries and chemicals need suitable handling streams. Do not dump or burn waste informally. Camp sanitation affects public health and credibility as well as appearance.\n\n### 3.1. Manage material flows\n\nFollow water, fuel, electricity and supplies from receipt through use to waste. Detect leaks, losses and abnormal consumption early. Segregate at generation under the applicable system and keep hazardous streams separate. Operators, collectors and contractors need connected responsibilities so handover does not break control. Environmental management is a continuing function rather than preparation for inspections. Recorded consumption and incident trends can reveal a problem that a visually clean compound conceals."
+      },
+      "sourceIds": [
+        "C17",
+        "C24"
+      ]
+    },
+    {
+      "id": "CORE-15-04",
+      "title": {
+        "vi": "4. Nguồn lực và quan hệ cộng đồng",
+        "en": "4. Resources and community relations"
+      },
+      "body": {
+        "vi": "Sử dụng nguồn nước hoặc dịch vụ địa phương có thể ảnh hưởng khả năng tiếp cận của dân cư. Đánh giá nhu cầu và phối hợp trước khi tăng khai thác. Không coi nguồn lực sẵn có là tự do sử dụng vì phục vụ UN.",
+        "en": "Mission use of local water or services can affect civilian access. Assess needs and coordinate before increasing consumption. Availability does not mean a resource can be taken without authorization or consideration of local users."
+      },
+      "sourceIds": [
+        "C17",
+        "C24"
+      ]
+    },
+    {
+      "id": "CORE-15-05",
+      "title": {
+        "vi": "5. Theo dõi và khắc phục",
+        "en": "5. Record, report and follow up"
+      },
+      "body": {
+        "vi": "Ghi sự cố, cô lập theo năng lực, báo đầu mối chuyên môn và theo dõi xử lý. Không chỉ dọn phần nhìn thấy rồi coi kết thúc. Cần dữ kiện về vị trí, chất liên quan, quy mô và người có thể bị ảnh hưởng; tránh tự xử lý hóa chất ngoài chuyên môn.\n\n### 5.1. Ghi sự cố để xử lý được\n\nMô tả nơi, giờ, chất nếu biết, dấu hiệu, phạm vi và người có thể bị ảnh hưởng. Báo chuyên môn, chỉ cô lập hoặc hỗ trợ trong năng lực. Theo dõi khắc phục và điều kiện dùng lại; tách quan sát với suy đoán hóa chất, nguyên nhân. Xem cả tác động ngoài hàng rào. Đóng phiếu sửa chữa chưa đủ khi ô nhiễm hoặc ảnh hưởng cộng đồng còn cần xác minh.",
+        "en": "Record incidents, limit exposure within competence, notify specialists and follow remediation. Cleaning the visible surface does not necessarily resolve contamination. Identify the location, material, scale and potentially affected people; avoid handling chemicals beyond training.\n\n### 5.1. Make an incident report actionable\n\nDescribe place, time, known material, observations, extent and potentially affected people. Notify specialists and limit exposure within competence. Follow remediation and return-to-use conditions. Separate observation from guesses about chemicals or causes. Consider effects beyond the perimeter. A closed repair entry is not enough while contamination or community effects still need verification. Assign follow-up so responsibility remains clear after the immediate clean-up."
+      },
+      "sourceIds": [
+        "C17",
+        "C24"
+      ]
+    },
+    {
+      "id": "CORE-15-06",
+      "title": {
+        "vi": "6. Bốn R trong thực hành",
+        "en": "6. The four Rs"
+      },
+      "body": {
+        "vi": "Reduce giảm nhu cầu và lãng phí; reuse tái dùng khi phù hợp; recycle tái chế qua luồng hợp lệ; recover thu hồi giá trị theo hệ thống xử lý. Không tái sử dụng đồ hoặc vật liệu có nguy cơ y tế/hóa chất chỉ vì mục tiêu tiết kiệm. Quản lý môi trường cần rõ trách nhiệm và năng lực nhà thầu, không chỉ chuyển chất thải ra ngoài doanh trại.",
+        "en": "Reduce demand and waste; reuse when safe; recycle through legitimate channels; and recover value through an appropriate treatment system. Savings do not justify reusing contaminated items. Establish contractor responsibilities and capacity rather than considering waste managed as soon as it leaves the camp."
+      },
+      "sourceIds": [
+        "C17",
+        "C24"
+      ]
+    },
+    {
+      "id": "CORE-15-07",
+      "title": {
+        "vi": "7. Đánh giá tác động ngoài hàng rào",
+        "en": "7. Look beyond the perimeter"
+      },
+      "body": {
+        "vi": "Chọn vị trí, xả thải, khai thác nước và sử dụng đường có thể ảnh hưởng cộng đồng. Cần cơ chế tiếp nhận phản ánh và xác minh; không coi không có đơn khiếu nại là không có tác động. Với dữ liệu khí hậu và an ninh, tránh kết luận nhân quả đơn tuyến; dùng thông tin để chuẩn bị và phối hợp thay vì gắn nhãn cộng đồng có nguy cơ gây xung đột.",
+        "en": "Site selection, discharge, water extraction and road use may affect communities. Provide a complaints and verification process; silence does not prove no impact. Use climate and security information to prepare and coordinate, avoiding simplistic causal labels about communities."
+      },
+      "sourceIds": [
+        "C17",
+        "C24"
+      ]
+    }
+  ],
+  "source_ids": [
+    "C17",
+    "C24"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "Reduce",
+      "definition": {
+        "vi": "Giảm nhu cầu và lãng phí",
+        "en": "Reducing demand and waste"
+      }
+    },
+    {
+      "term": "Recycle",
+      "definition": {
+        "vi": "Tái chế qua luồng xử lý phù hợp",
+        "en": "Recycling through appropriate treatment streams"
+      }
+    }
+  ],
+  "diagram": {
+    "type": "parallel",
+    "items": [
+      {
+        "vi": "Reduce",
+        "en": "Reduce"
+      },
+      {
+        "vi": "Reuse",
+        "en": "Reuse"
+      },
+      {
+        "vi": "Recycle",
+        "en": "Recycle"
+      },
+      {
+        "vi": "Recover",
+        "en": "Recover"
+      }
+    ],
+    "chapter": 1
+  },
+  "contentVersion": "4tab-2026-10-26",
+  "sourceIntro": {
+    "vi": "Các tài liệu dưới đây là nền tảng kiến thức của bài. Mở nguồn để đọc nội dung gốc; phần giải thích, sơ đồ học tập và câu hỏi được biên soạn cho Handbook.",
+    "en": "The materials below provide the lesson’s knowledge base. Open them for the original teaching material; explanations, instructional diagrams and questions are developed for the Handbook."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Hai bản Việt–Anh phục vụ học tập, không phải bản dịch chính thức của UN. Danh mục và thứ tự 48 bài là cách tổ chức học liệu của Handbook, không phải số bài chính thức của UN.",
+      "Bảng đối chiếu xác định tài liệu nền theo mục; không khẳng định mọi câu diễn giải là trích nguyên văn. Hình gốc ghi rõ tài liệu và trang PDF; sơ đồ học tập được ghi là biên soạn."
+    ],
+    "en": [
+      "The Vietnamese and English texts are for learning and are not official UN translations. The 48-lesson catalogue and numbering are the Handbook’s organization, not the official UN lesson count.",
+      "The mapping identifies source materials by section and does not present every explanation as a verbatim quotation. Original illustrations identify the material and PDF page; instructional diagrams are labelled as developed for the lesson."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bài học CORE-15 tập trung vào chủ đề: Khí hậu, môi trường và tài nguyên. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+      "en": "Lesson CORE-15 covers the following topic: Climate, environment and resources. It connects concepts with professional responsibilities."
+    },
+    "subtitle": {
+      "vi": "Học kiến thức, hiểu trách nhiệm và kiểm tra nhận thức.",
+      "en": "Learn the concepts, understand responsibilities and check your knowledge."
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích: Phân biệt hai chiều tác động; Phân tích rủi ro địa bàn.",
+        "Giải thích: Quản lý trong cơ sở UN; Nguồn lực và quan hệ cộng đồng.",
+        "Giải thích: Theo dõi và khắc phục; Bốn R trong thực hành; Đánh giá tác động ngoài hàng rào.",
+        "Nhận diện cách hiểu sai và chọn nhận định có căn cứ trong kiểm tra nhận thức."
+      ],
+      "en": [
+        "Explain: Two directions of impact; Assess local risks.",
+        "Explain: Environmental management in UN facilities; Resources and community relations.",
+        "Explain: Record, report and follow up; The four Rs; Look beyond the perimeter.",
+        "Recognize misconceptions and select evidence-based statements in the knowledge check."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc các mục theo thứ tự trong tab nội dung, quan sát sơ đồ và hình, sau đó hoàn thành kiểm tra nhận thức. Chọn VI/EN để đổi ngôn ngữ; đáp án được giữ khi đổi ngôn ngữ trong phiên mở trang. Tải lại trang sẽ bắt đầu lại.",
+      "en": "Read the sections in order, study diagrams and illustrations, then complete the knowledge check. Use VI/EN to switch languages; answers are retained across language changes during the session. Reloading starts a new session."
+    }
+  },
+  "figures": [],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft"
+}

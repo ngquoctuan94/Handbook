@@ -1,0 +1,671 @@
+{
+  "schemaVersion": 2,
+  "id": "FPU-19",
+  "area": "fpu",
+  "groupKey": "FPU-M5",
+  "group": {
+    "vi": "Quản lý trật tự công cộng",
+    "en": "Public order management"
+  },
+  "title": {
+    "vi": "Đội hình và phối hợp di chuyển trong POM",
+    "en": "Public order formations and coordinated movement"
+  },
+  "summary": {
+    "vi": "Bài học FPU-19 tập trung vào chủ đề: Đội hình và phối hợp di chuyển trong POM. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+    "en": "Lesson FPU-19 covers the following topic: Public order formations and coordinated movement. It connects concepts with professional responsibilities."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "FOOT",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-042%20FPU%20Foot%20Tactics.pdf",
+  "order": 306,
+  "sections": [
+    {
+      "id": "FPU-19-01",
+      "title": {
+        "vi": "1. Đội hình phục vụ mục tiêu",
+        "en": "1. Formations serve an objective"
+      },
+      "body": {
+        "vi": "Lựa chọn đội hình theo nhiệm vụ, địa hình, lực lượng và tình hình. Đội hình đều đẹp nhưng cản lối cần thiết hoặc không đáp ứng mục tiêu vẫn phải đánh giá lại. Cần hiểu chức năng, giới hạn; khẩu lệnh, thao tác khiên, chuyển đội hình và phối hợp phương tiện được luyện có giám sát.",
+        "en": "Select formations according to task, terrain, available personnel and the situation. A neat formation that blocks necessary access or fails the task needs reassessment. Learn its function and limits; commands, shield work, transitions and vehicle movement need supervised practice."
+      },
+      "sourceIds": [
+        "FOOT",
+        "VEHTAC",
+        "BARRIER",
+        "ORG"
+      ]
+    },
+    {
+      "id": "FPU-19-02",
+      "title": {
+        "vi": "2. Ba chức năng cordon",
+        "en": "2. Three cordon functions"
+      },
+      "body": {
+        "vi": "Filter cordon cho đi qua có kiểm soát theo tiêu chí; blocking cordon hạn chế tiếp cận một khu vực có căn cứ; directional cordon hướng dẫn dòng người tới lối hoặc nơi tiếp nhận phù hợp.\n\nPhải nói rõ ai được qua, theo hướng nào, trên cơ sở gì và ai tiếp nhận. Chỉ gọi chung cordon sẽ làm mờ mục tiêu; yêu cầu cho cư dân tiếp cận khác với yêu cầu chặn hoàn toàn.\n\n### 2.1. Tên đội hình nối với tiêu chí\n\nFilter cần tiêu chí cho qua, nơi kiểm và người tiếp nhận. Blocking cần căn cứ hạn chế, phạm vi, nhu cầu tiếp cận thiết yếu. Directional cần hướng đến có thể tiếp nhận dòng người an toàn. Đổi chức năng phải được phổ biến, giữ liên lạc và nhận biết phần việc. Chỉ đổi hình đứng mà không làm rõ mục đích có thể tạo kết quả khác ý định.",
+        "en": "A filter cordon permits passage according to established criteria. A blocking cordon restricts access to an area on an authorized basis. A directional cordon guides a flow towards a suitable receiving route or location. Specify who may pass, where, why and who receives the flow. The generic word cordon alone leaves the intended function unclear.\n\n### 2.1. Connect formation names with criteria\n\nFiltering needs passage criteria, checking and reception. Blocking needs lawful grounds, boundaries and essential-access considerations. Directional control needs a destination able to receive people safely. Communicate functional changes while maintaining contact and role awareness. Changing a physical shape without explaining its purpose can produce a result different from command intent."
+      },
+      "sourceIds": [
+        "FOOT",
+        "VEHTAC",
+        "BARRIER",
+        "ORG"
+      ]
+    },
+    {
+      "id": "FPU-19-03",
+      "title": {
+        "vi": "3. Đọc sơ đồ theo chức năng",
+        "en": "3. Read diagrams through purpose"
+      },
+      "body": {
+        "vi": "Khi đọc sơ đồ, nhận diện giới hạn, chức năng, bộ phận liên quan và thông tin còn thiếu để lựa chọn. Mỗi thành viên cần hiểu phần việc, nhận lệnh rõ và giữ tác phong chuyên nghiệp. Vẽ lại đúng hình chưa đủ nếu không giải thích được mục đích, điều kiện và giới hạn.",
+        "en": "Identify boundaries, functions, related elements and the information needed to select a formation. Members must understand their role and receive clear instructions. Redrawing a shape does not establish that the learner can explain its purpose or constraints."
+      },
+      "sourceIds": [
+        "FOOT",
+        "VEHTAC",
+        "BARRIER",
+        "ORG"
+      ]
+    },
+    {
+      "id": "FPU-19-04",
+      "title": {
+        "vi": "4. Phối hợp người và phương tiện",
+        "en": "4. Coordinate people and vehicles"
+      },
+      "body": {
+        "vi": "Dùng phương tiện phải xét địa hình, chuẩn bị, người lái đủ điều kiện, liên lạc và an toàn người đi bộ. Xe không chỉ là một hình bổ sung vào sơ đồ. Khi lối xe xung đột dòng người hoặc nơi tiếp nhận không đủ, phải đánh giá lại điều kiện. Việc sử dụng cần đúng thẩm quyền và mục đích được xác định.",
+        "en": "Vehicle use depends on terrain, preparation, qualified drivers, communications and pedestrian safety. A vehicle is not just a symbol added to a formation. Reassess when its route conflicts with pedestrians or the receiving space is inadequate. Use requires proper authority and assessment."
+      },
+      "sourceIds": [
+        "FOOT",
+        "VEHTAC",
+        "BARRIER",
+        "ORG"
+      ]
+    },
+    {
+      "id": "FPU-19-05",
+      "title": {
+        "vi": "5. Rào chắn và vật cản chưa rõ",
+        "en": "5. Barriers and unknown obstructions"
+      },
+      "body": {
+        "vi": "Phân biệt rào chắn đơn vị tổ chức để quản lý dòng người với vật cản chưa rõ nguồn. Quan sát, thu thông tin trước khi quyết định; nguy cơ cháy hoặc nghi nổ cần chuyên môn. Không kéo bỏ ngay chỉ vì chắn đường, không thử vật nghi nổ và không lấy việc người khác đã đi qua làm bằng chứng an toàn.",
+        "en": "Distinguish unit-installed flow-control barriers from unknown obstacles. Observe and obtain information before action; hidden fire or explosive hazards may require specialists. Do not pull away an unknown object simply because it blocks a route, and do not regard another person passing it as proof of safety."
+      },
+      "sourceIds": [
+        "FOOT",
+        "VEHTAC",
+        "BARRIER",
+        "ORG"
+      ]
+    },
+    {
+      "id": "FPU-19-06",
+      "title": {
+        "vi": "6. Tiêu chí đánh giá",
+        "en": "6. Explain a suitable choice"
+      },
+      "body": {
+        "vi": "Một phần giải trình đạt yêu cầu phải nêu mục tiêu, loại cordon/chức năng phù hợp, dữ kiện làm căn cứ, ảnh hưởng tới người không liên quan và điều kiện thay đổi. Các số người, cự ly và tốc độ trong hình nguồn chỉ thuộc ví dụ; không biến chúng thành chuẩn bắt buộc cho mọi địa điểm.",
+        "en": "A sound explanation states the objective, appropriate function, supporting facts, effects on uninvolved people and change conditions. Personnel numbers, distances or speeds from a training illustration are not universal requirements."
+      },
+      "sourceIds": [
+        "FOOT",
+        "VEHTAC",
+        "BARRIER",
+        "ORG"
+      ]
+    },
+    {
+      "id": "FPU-19-07",
+      "title": {
+        "vi": "7. Tổ chức mô-đun và chức năng",
+        "en": "7. Modularity and continuity"
+      },
+      "body": {
+        "vi": "Đơn vị có thể tổ chức theo bộ phận để thực hiện những chức năng khác nhau; thay đổi bố trí phải giữ chỉ huy, liên lạc và nhận biết phần việc. Cordon không chỉ là một hàng người. Filter, blocking và directional có mục tiêu khác; việc cho ai đi qua, hướng nào và ai tiếp nhận phải được làm rõ theo căn cứ nhiệm vụ.\n\n### 7.1. Giữ chức năng khi điều chỉnh\n\nKhi điều chỉnh bộ phận, kiểm người chỉ huy, người liên lạc, khả năng quan sát và phần việc hỗ trợ. Mỗi vị trí cần hiểu thay đổi bắt đầu lúc nào và ai xác nhận. Giữ thông tin về người không liên quan, lối cần sử dụng và điều kiện hoàn trả không gian. Đánh giá không chỉ độ đều mà cả tính phù hợp mục tiêu và tác động đối với dân thường.",
+        "en": "Elements may perform different functions while retaining command, communications and shared awareness. Reorganization must not lose responsibility. Clarify criteria for passage, direction and receiving arrangements; a cordon is more than a line of personnel.\n\n### 7.1. Preserve functions during adjustment\n\nCheck leadership, communications, observation and support whenever elements change. Personnel need to know when changes take effect and who confirms them. Maintain awareness of uninvolved people, required access and conditions for restoring space. Assess functional suitability and civilian effects, not visual alignment alone. Supervised practice should verify shared understanding and continuity as well as recognition of formation names."
+      },
+      "sourceIds": [
+        "FOOT",
+        "VEHTAC",
+        "BARRIER",
+        "ORG"
+      ]
+    },
+    {
+      "id": "FPU-19-08",
+      "title": {
+        "vi": "8. Phối hợp phương tiện và vật cản",
+        "en": "8. Vehicles, barriers and competence"
+      },
+      "body": {
+        "vi": "Phương tiện cần phù hợp địa hình, người lái, tầm nhìn và môi trường có người đi bộ. Một vật cản có thể liên quan nguy cơ cháy hoặc nghi nổ; không coi có xe chuyên dụng là đủ quyền và đủ khả năng xử lý. Lựa chọn, chuyển đội hình và cơ động với phương tiện là phần thực hành có giám sát; nguồn ảnh không thay được đánh giá năng lực.",
+        "en": "Assess terrain, driver skill, visibility and the pedestrian environment. A specialist vehicle does not itself grant authority or competence to deal with an obstacle. Formation transitions and coordinated movement require supervised assessment rather than reliance on a source image."
+      },
+      "sourceIds": [
+        "FOOT",
+        "VEHTAC",
+        "BARRIER",
+        "ORG"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "FOOT",
+      "title": "Foot Tactics",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-042%20FPU%20Foot%20Tactics.pdf",
+      "format": "pdf",
+      "pages": 54,
+      "reading": "7–9; 24–29",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "VEHTAC",
+      "title": "Vehicle Tactics",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-050%20Vehicles%20tactics.pdf",
+      "format": "pdf",
+      "pages": 21,
+      "reading": "7–11",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "BARRIER",
+      "title": "Barricades",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-037%20Barricades.pdf",
+      "format": "pdf",
+      "pages": 21,
+      "reading": "8–10",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "ORG",
+      "title": "Organization of an FPU",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-046%20Organization%20of%20an%20FPU.pdf",
+      "year": "2015",
+      "publisher": "United Nations FPU STM",
+      "format": "pdf",
+      "pages": 21,
+      "reading": "Định nghĩa, tổ chức và chức năng; đối chiếu chính sách 2024.14"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Filter cordon phục vụ cho qua có kiểm soát.",
+        "en": "A filter cordon enables controlled passage."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Tiêu chí qua phải được xác định.",
+        "en": "Passage criteria must be defined."
+      }
+    },
+    {
+      "question": {
+        "vi": "Blocking và directional cordon có cùng mục đích.",
+        "en": "Blocking and directional cordons have identical purposes."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Một loại hạn chế tiếp cận, một loại hướng dòng người.",
+        "en": "One restricts access; the other guides flow."
+      }
+    },
+    {
+      "question": {
+        "vi": "Đội hình cần phù hợp mục tiêu và môi trường.",
+        "en": "Formations must fit objectives and the environment."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Hình đều đẹp chưa chứng minh phù hợp.",
+        "en": "A neat shape does not establish suitability."
+      }
+    },
+    {
+      "question": {
+        "vi": "Có xe chuyên dụng là đủ để tự xử lý vật cản nghi nổ.",
+        "en": "A specialist vehicle alone permits handling a suspected explosive obstacle."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Cần chuyên môn, thẩm quyền và đánh giá.",
+        "en": "Expertise, authority and assessment are needed."
+      }
+    },
+    {
+      "question": {
+        "vi": "Thay bố trí phải giữ chỉ huy, liên lạc và phân công.",
+        "en": "Reorganization must maintain command, communications and assignments."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Không để thay hình thức làm mất chức năng.",
+        "en": "Do not lose functions when changing arrangements."
+      }
+    },
+    {
+      "question": {
+        "vi": "Vẽ lại đúng sơ đồ chứng minh đủ năng lực triển khai.",
+        "en": "Correctly redrawing a diagram proves deployment competence."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Còn cần hiểu mục đích và thực hành đánh giá.",
+        "en": "Purpose and assessed practice are also needed."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Cho đi qua có kiểm soát theo tiêu chí?",
+        "en": "Which concept matches: Enabling controlled passage according to criteria?"
+      },
+      "options": [
+        {
+          "vi": "Blocking cordon",
+          "en": "Blocking cordon"
+        },
+        {
+          "vi": "Directional cordon",
+          "en": "Directional cordon"
+        },
+        {
+          "vi": "Filter cordon",
+          "en": "Filter cordon"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Filter cordon: Cho đi qua có kiểm soát theo tiêu chí.",
+        "en": "Filter cordon: Enabling controlled passage according to criteria."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Hướng dẫn dòng người tới lối tiếp nhận phù hợp?",
+        "en": "Which concept matches: Guiding people towards a suitable receiving route?"
+      },
+      "options": [
+        {
+          "vi": "Directional cordon",
+          "en": "Directional cordon"
+        },
+        {
+          "vi": "Filter cordon",
+          "en": "Filter cordon"
+        },
+        {
+          "vi": "Blocking cordon",
+          "en": "Blocking cordon"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Directional cordon: Hướng dẫn dòng người tới lối tiếp nhận phù hợp.",
+        "en": "Directional cordon: Guiding people towards a suitable receiving route."
+      }
+    }
+  ],
+  "updated": "2026-10-26",
+  "moduleId": "FPU-M5",
+  "moduleOrder": 3,
+  "lessonOrder": 6,
+  "sourceModule": {
+    "programme": "STM-FPU",
+    "number": 5,
+    "title": "Public order management"
+  },
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "FPU-19-01",
+      "title": {
+        "vi": "1. Đội hình phục vụ mục tiêu",
+        "en": "1. Formations serve an objective"
+      },
+      "body": {
+        "vi": "Lựa chọn đội hình theo nhiệm vụ, địa hình, lực lượng và tình hình. Đội hình đều đẹp nhưng cản lối cần thiết hoặc không đáp ứng mục tiêu vẫn phải đánh giá lại. Cần hiểu chức năng, giới hạn; khẩu lệnh, thao tác khiên, chuyển đội hình và phối hợp phương tiện được luyện có giám sát.",
+        "en": "Select formations according to task, terrain, available personnel and the situation. A neat formation that blocks necessary access or fails the task needs reassessment. Learn its function and limits; commands, shield work, transitions and vehicle movement need supervised practice."
+      },
+      "sourceIds": [
+        "FOOT",
+        "VEHTAC",
+        "BARRIER",
+        "ORG"
+      ]
+    },
+    {
+      "id": "FPU-19-02",
+      "title": {
+        "vi": "2. Ba chức năng cordon",
+        "en": "2. Three cordon functions"
+      },
+      "body": {
+        "vi": "Filter cordon cho đi qua có kiểm soát theo tiêu chí; blocking cordon hạn chế tiếp cận một khu vực có căn cứ; directional cordon hướng dẫn dòng người tới lối hoặc nơi tiếp nhận phù hợp.\n\nPhải nói rõ ai được qua, theo hướng nào, trên cơ sở gì và ai tiếp nhận. Chỉ gọi chung cordon sẽ làm mờ mục tiêu; yêu cầu cho cư dân tiếp cận khác với yêu cầu chặn hoàn toàn.\n\n### 2.1. Tên đội hình nối với tiêu chí\n\nFilter cần tiêu chí cho qua, nơi kiểm và người tiếp nhận. Blocking cần căn cứ hạn chế, phạm vi, nhu cầu tiếp cận thiết yếu. Directional cần hướng đến có thể tiếp nhận dòng người an toàn. Đổi chức năng phải được phổ biến, giữ liên lạc và nhận biết phần việc. Chỉ đổi hình đứng mà không làm rõ mục đích có thể tạo kết quả khác ý định.",
+        "en": "A filter cordon permits passage according to established criteria. A blocking cordon restricts access to an area on an authorized basis. A directional cordon guides a flow towards a suitable receiving route or location. Specify who may pass, where, why and who receives the flow. The generic word cordon alone leaves the intended function unclear.\n\n### 2.1. Connect formation names with criteria\n\nFiltering needs passage criteria, checking and reception. Blocking needs lawful grounds, boundaries and essential-access considerations. Directional control needs a destination able to receive people safely. Communicate functional changes while maintaining contact and role awareness. Changing a physical shape without explaining its purpose can produce a result different from command intent."
+      },
+      "sourceIds": [
+        "FOOT",
+        "VEHTAC",
+        "BARRIER",
+        "ORG"
+      ]
+    },
+    {
+      "id": "FPU-19-03",
+      "title": {
+        "vi": "3. Đọc sơ đồ theo chức năng",
+        "en": "3. Read diagrams through purpose"
+      },
+      "body": {
+        "vi": "Khi đọc sơ đồ, nhận diện giới hạn, chức năng, bộ phận liên quan và thông tin còn thiếu để lựa chọn. Mỗi thành viên cần hiểu phần việc, nhận lệnh rõ và giữ tác phong chuyên nghiệp. Vẽ lại đúng hình chưa đủ nếu không giải thích được mục đích, điều kiện và giới hạn.",
+        "en": "Identify boundaries, functions, related elements and the information needed to select a formation. Members must understand their role and receive clear instructions. Redrawing a shape does not establish that the learner can explain its purpose or constraints."
+      },
+      "sourceIds": [
+        "FOOT",
+        "VEHTAC",
+        "BARRIER",
+        "ORG"
+      ]
+    },
+    {
+      "id": "FPU-19-04",
+      "title": {
+        "vi": "4. Phối hợp người và phương tiện",
+        "en": "4. Coordinate people and vehicles"
+      },
+      "body": {
+        "vi": "Dùng phương tiện phải xét địa hình, chuẩn bị, người lái đủ điều kiện, liên lạc và an toàn người đi bộ. Xe không chỉ là một hình bổ sung vào sơ đồ. Khi lối xe xung đột dòng người hoặc nơi tiếp nhận không đủ, phải đánh giá lại điều kiện. Việc sử dụng cần đúng thẩm quyền và mục đích được xác định.",
+        "en": "Vehicle use depends on terrain, preparation, qualified drivers, communications and pedestrian safety. A vehicle is not just a symbol added to a formation. Reassess when its route conflicts with pedestrians or the receiving space is inadequate. Use requires proper authority and assessment."
+      },
+      "sourceIds": [
+        "FOOT",
+        "VEHTAC",
+        "BARRIER",
+        "ORG"
+      ]
+    },
+    {
+      "id": "FPU-19-05",
+      "title": {
+        "vi": "5. Rào chắn và vật cản chưa rõ",
+        "en": "5. Barriers and unknown obstructions"
+      },
+      "body": {
+        "vi": "Phân biệt rào chắn đơn vị tổ chức để quản lý dòng người với vật cản chưa rõ nguồn. Quan sát, thu thông tin trước khi quyết định; nguy cơ cháy hoặc nghi nổ cần chuyên môn. Không kéo bỏ ngay chỉ vì chắn đường, không thử vật nghi nổ và không lấy việc người khác đã đi qua làm bằng chứng an toàn.",
+        "en": "Distinguish unit-installed flow-control barriers from unknown obstacles. Observe and obtain information before action; hidden fire or explosive hazards may require specialists. Do not pull away an unknown object simply because it blocks a route, and do not regard another person passing it as proof of safety."
+      },
+      "sourceIds": [
+        "FOOT",
+        "VEHTAC",
+        "BARRIER",
+        "ORG"
+      ]
+    },
+    {
+      "id": "FPU-19-06",
+      "title": {
+        "vi": "6. Tiêu chí đánh giá",
+        "en": "6. Explain a suitable choice"
+      },
+      "body": {
+        "vi": "Một phần giải trình đạt yêu cầu phải nêu mục tiêu, loại cordon/chức năng phù hợp, dữ kiện làm căn cứ, ảnh hưởng tới người không liên quan và điều kiện thay đổi. Các số người, cự ly và tốc độ trong hình nguồn chỉ thuộc ví dụ; không biến chúng thành chuẩn bắt buộc cho mọi địa điểm.",
+        "en": "A sound explanation states the objective, appropriate function, supporting facts, effects on uninvolved people and change conditions. Personnel numbers, distances or speeds from a training illustration are not universal requirements."
+      },
+      "sourceIds": [
+        "FOOT",
+        "VEHTAC",
+        "BARRIER",
+        "ORG"
+      ]
+    },
+    {
+      "id": "FPU-19-07",
+      "title": {
+        "vi": "7. Tổ chức mô-đun và chức năng",
+        "en": "7. Modularity and continuity"
+      },
+      "body": {
+        "vi": "Đơn vị có thể tổ chức theo bộ phận để thực hiện những chức năng khác nhau; thay đổi bố trí phải giữ chỉ huy, liên lạc và nhận biết phần việc. Cordon không chỉ là một hàng người. Filter, blocking và directional có mục tiêu khác; việc cho ai đi qua, hướng nào và ai tiếp nhận phải được làm rõ theo căn cứ nhiệm vụ.\n\n### 7.1. Giữ chức năng khi điều chỉnh\n\nKhi điều chỉnh bộ phận, kiểm người chỉ huy, người liên lạc, khả năng quan sát và phần việc hỗ trợ. Mỗi vị trí cần hiểu thay đổi bắt đầu lúc nào và ai xác nhận. Giữ thông tin về người không liên quan, lối cần sử dụng và điều kiện hoàn trả không gian. Đánh giá không chỉ độ đều mà cả tính phù hợp mục tiêu và tác động đối với dân thường.",
+        "en": "Elements may perform different functions while retaining command, communications and shared awareness. Reorganization must not lose responsibility. Clarify criteria for passage, direction and receiving arrangements; a cordon is more than a line of personnel.\n\n### 7.1. Preserve functions during adjustment\n\nCheck leadership, communications, observation and support whenever elements change. Personnel need to know when changes take effect and who confirms them. Maintain awareness of uninvolved people, required access and conditions for restoring space. Assess functional suitability and civilian effects, not visual alignment alone. Supervised practice should verify shared understanding and continuity as well as recognition of formation names."
+      },
+      "sourceIds": [
+        "FOOT",
+        "VEHTAC",
+        "BARRIER",
+        "ORG"
+      ]
+    },
+    {
+      "id": "FPU-19-08",
+      "title": {
+        "vi": "8. Phối hợp phương tiện và vật cản",
+        "en": "8. Vehicles, barriers and competence"
+      },
+      "body": {
+        "vi": "Phương tiện cần phù hợp địa hình, người lái, tầm nhìn và môi trường có người đi bộ. Một vật cản có thể liên quan nguy cơ cháy hoặc nghi nổ; không coi có xe chuyên dụng là đủ quyền và đủ khả năng xử lý. Lựa chọn, chuyển đội hình và cơ động với phương tiện là phần thực hành có giám sát; nguồn ảnh không thay được đánh giá năng lực.",
+        "en": "Assess terrain, driver skill, visibility and the pedestrian environment. A specialist vehicle does not itself grant authority or competence to deal with an obstacle. Formation transitions and coordinated movement require supervised assessment rather than reliance on a source image."
+      },
+      "sourceIds": [
+        "FOOT",
+        "VEHTAC",
+        "BARRIER",
+        "ORG"
+      ]
+    }
+  ],
+  "source_ids": [
+    "FOOT",
+    "VEHTAC",
+    "BARRIER",
+    "ORG"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "Filter cordon",
+      "definition": {
+        "vi": "Cho đi qua có kiểm soát theo tiêu chí",
+        "en": "Enabling controlled passage according to criteria"
+      }
+    },
+    {
+      "term": "Directional cordon",
+      "definition": {
+        "vi": "Hướng dẫn dòng người tới lối tiếp nhận phù hợp",
+        "en": "Guiding people towards a suitable receiving route"
+      }
+    }
+  ],
+  "diagram": {
+    "type": "parallel",
+    "items": [
+      {
+        "vi": "Filter: Cho qua",
+        "en": "Filter: Permit passage"
+      },
+      {
+        "vi": "Blocking: Hạn chế",
+        "en": "Blocking: Restrict access"
+      },
+      {
+        "vi": "Directional: Hướng dòng",
+        "en": "Directional: Guide flow"
+      }
+    ],
+    "chapter": 1
+  },
+  "contentVersion": "4tab-2026-10-26",
+  "sourceIntro": {
+    "vi": "Các tài liệu dưới đây là nền tảng kiến thức của bài. Mở nguồn để đọc nội dung gốc; phần giải thích, sơ đồ học tập và câu hỏi được biên soạn cho Handbook.",
+    "en": "The materials below provide the lesson’s knowledge base. Open them for the original teaching material; explanations, instructional diagrams and questions are developed for the Handbook."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Hai bản Việt–Anh phục vụ học tập, không phải bản dịch chính thức của UN. Danh mục và thứ tự 48 bài là cách tổ chức học liệu của Handbook, không phải số bài chính thức của UN.",
+      "Bảng đối chiếu xác định tài liệu nền theo mục; không khẳng định mọi câu diễn giải là trích nguyên văn. Hình gốc ghi rõ tài liệu và trang PDF; sơ đồ học tập được ghi là biên soạn.",
+      "STM–FPU 2015 được sử dụng cho nền tảng huấn luyện. Các vai trò và cơ chế tổ chức liên quan được đọc cùng Policy 2024.14. Không dùng số tiền COE, lịch đánh giá, quân số, cự ly hoặc tốc độ mẫu năm 2015 như quy định hiện hành. Các SOP, SUR, MOU và chỉ thị phái bộ áp dụng cần được xác nhận khi triển khai."
+    ],
+    "en": [
+      "The Vietnamese and English texts are for learning and are not official UN translations. The 48-lesson catalogue and numbering are the Handbook’s organization, not the official UN lesson count.",
+      "The mapping identifies source materials by section and does not present every explanation as a verbatim quotation. Original illustrations identify the material and PDF page; instructional diagrams are labelled as developed for the lesson.",
+      "STM–FPU 2015 supplies training foundations. Relevant roles and organizational arrangements are read with Policy 2024.14. Reimbursement rates, assessment schedules, staffing, distances and speeds from old examples are not treated as current universal rules. Applicable mission SOPs, SUR, MOU and directives require confirmation for deployment."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bài học FPU-19 tập trung vào chủ đề: Đội hình và phối hợp di chuyển trong POM. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+      "en": "Lesson FPU-19 covers the following topic: Public order formations and coordinated movement. It connects concepts with professional responsibilities."
+    },
+    "subtitle": {
+      "vi": "Học kiến thức, hiểu trách nhiệm và kiểm tra nhận thức.",
+      "en": "Learn the concepts, understand responsibilities and check your knowledge."
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích: Đội hình phục vụ mục tiêu; Ba chức năng cordon.",
+        "Giải thích: Đọc sơ đồ theo chức năng; Phối hợp người và phương tiện.",
+        "Giải thích: Rào chắn và vật cản chưa rõ; Tiêu chí đánh giá; Tổ chức mô-đun và chức năng; Phối hợp phương tiện và vật cản.",
+        "Nhận diện cách hiểu sai và chọn nhận định có căn cứ trong kiểm tra nhận thức."
+      ],
+      "en": [
+        "Explain: Formations serve an objective; Three cordon functions.",
+        "Explain: Read diagrams through purpose; Coordinate people and vehicles.",
+        "Explain: Barriers and unknown obstructions; Explain a suitable choice; Modularity and continuity; Vehicles, barriers and competence.",
+        "Recognize misconceptions and select evidence-based statements in the knowledge check."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc các mục theo thứ tự trong tab nội dung, quan sát sơ đồ và hình, sau đó hoàn thành kiểm tra nhận thức. Chọn VI/EN để đổi ngôn ngữ; đáp án được giữ khi đổi ngôn ngữ trong phiên mở trang. Tải lại trang sẽ bắt đầu lại.",
+      "en": "Read the sections in order, study diagrams and illustrations, then complete the knowledge check. Use VI/EN to switch languages; answers are retained across language changes during the session. Reloading starts a new session."
+    }
+  },
+  "figures": [
+    {
+      "chapter": 1,
+      "image": "assets/lesson-figures/FPU-19-29.jpeg",
+      "caption": {
+        "vi": "Filter cordon: Cho qua có kiểm soát",
+        "en": "Filter cordon: Controlled passage"
+      },
+      "alt": {
+        "vi": "Filter cordon: Cho qua có kiểm soát",
+        "en": "Filter cordon: Controlled passage"
+      },
+      "explanation": {
+        "vi": "Các nhãn phân biệt quan sát, kiểm soát và dự bị. Ý chính là vẫn cho qua theo tiêu chí, đồng thời duy trì chức năng. Không đọc số hình người trong minh họa thành biên chế bắt buộc.",
+        "en": "Labels distinguish observation, control and reserve. The purpose is passage according to criteria while maintaining functions. Illustrated personnel numbers are not mandatory staffing."
+      },
+      "sourceLabel": "turn10view11",
+      "pdfPage": 29,
+      "original": true
+    },
+    {
+      "chapter": 1,
+      "image": "assets/lesson-figures/FPU-19-30.png",
+      "caption": {
+        "vi": "Blocking cordon: Hạn chế tiếp cận",
+        "en": "Blocking cordon: Restricted access"
+      },
+      "alt": {
+        "vi": "Blocking cordon: Hạn chế tiếp cận",
+        "en": "Blocking cordon: Restricted access"
+      },
+      "explanation": {
+        "vi": "So với hình filter, mục đích ở đây là hạn chế tiếp cận khu vực. Khi lựa chọn, phải làm rõ căn cứ, ai bị ảnh hưởng, nhu cầu đi qua và điều kiện thay đổi. Tên đội hình phải nối với mục tiêu hợp pháp.",
+        "en": "Compared with the filter example, the purpose is restricting access. Establish authority, affected people, access needs and change conditions. The formation’s name must connect to a lawful objective."
+      },
+      "sourceLabel": "turn10view11",
+      "pdfPage": 30,
+      "original": true
+    }
+  ],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft"
+}

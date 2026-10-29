@@ -1,0 +1,601 @@
+{
+  "schemaVersion": 2,
+  "id": "CORE-17",
+  "area": "core",
+  "groupKey": "CORE-M3",
+  "group": {
+    "vi": "Trách nhiệm, an toàn và sức khỏe",
+    "en": "Responsibilities, safety and health"
+  },
+  "title": {
+    "vi": "Sức khỏe, HIV/AIDS và quản lý căng thẳng",
+    "en": "Health, HIV awareness and stress management"
+  },
+  "summary": {
+    "vi": "Bài học CORE-17 tập trung vào chủ đề: Sức khỏe, HIV/AIDS và quản lý căng thẳng. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+    "en": "Lesson CORE-17 covers the following topic: Health, HIV awareness and stress management. It connects concepts with professional responsibilities."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "C28",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-433%20Lesson%203.8%20Health.zip",
+  "order": 303,
+  "sections": [
+    {
+      "id": "CORE-17-01",
+      "title": {
+        "vi": "1. Chuẩn bị sức khỏe",
+        "en": "1. Prepare for healthy deployment"
+      },
+      "body": {
+        "vi": "Đánh giá y tế trước triển khai, tiêm chủng và dự phòng theo tư vấn chuyên môn, khai báo thuốc và bệnh cần theo dõi qua kênh bảo mật. Không tự sao chép thuốc của đồng đội. Biết nơi cấp cứu, điều kiện chuyển tuyến và cách gọi hỗ trợ.",
+        "en": "Complete medical assessment, vaccination and prevention according to professional advice. Discuss prescribed medicines and ongoing conditions through confidential channels rather than copying another person’s medication. Know emergency access, referral arrangements and how to request help."
+      },
+      "sourceIds": [
+        "C28",
+        "C29",
+        "C30",
+        "WHO"
+      ]
+    },
+    {
+      "id": "CORE-17-02",
+      "title": {
+        "vi": "2. Phòng bệnh hàng ngày",
+        "en": "2. Everyday disease prevention"
+      },
+      "body": {
+        "vi": "Nước và thực phẩm an toàn, vệ sinh tay, phòng bệnh qua côn trùng và bảo đảm nghỉ ngơi là việc liên tục. Sốt hoặc triệu chứng bất thường tại vùng có nguy cơ cần được đánh giá y tế, không tự chờ vì cho là cảm thông thường. Không áp dụng một chế độ thuốc hoặc lượng nước cố định cho mọi người.",
+        "en": "Safe water and food, hand hygiene, vector protection and adequate rest need continuing attention. Fever or unusual symptoms in a risk area require medical assessment; do not assume an ordinary cold. Medication and fluid requirements are individualized."
+      },
+      "sourceIds": [
+        "C28",
+        "C29",
+        "C30",
+        "WHO"
+      ]
+    },
+    {
+      "id": "CORE-17-03",
+      "title": {
+        "vi": "3. HIV và chống kỳ thị",
+        "en": "3. HIV knowledge and non-discrimination"
+      },
+      "body": {
+        "vi": "HIV không lây qua giao tiếp thông thường như bắt tay, dùng chung không gian hoặc ăn cùng. Phòng ngừa cần kiến thức đúng, hành vi tình dục an toàn và phòng phơi nhiễm nghề nghiệp. Khi có nguy cơ phơi nhiễm phải tìm hỗ trợ y tế ngay vì dự phòng có tính thời gian; không tự điều trị hoặc trì hoãn để tránh báo cáo. Tình trạng HIV là thông tin sức khỏe cần bảo vệ.\n\n### 3.1. Hiểu HIV và AIDS\n\nHIV là virus gây suy giảm miễn dịch ở người; AIDS là hội chứng suy giảm miễn dịch mắc phải. Không suy tình trạng từ vẻ ngoài. Xét nghiệm, điều trị, tư vấn cần chuyên môn và bảo mật. Khi có máu, dịch cơ thể, áp dụng bảo vệ và báo phơi nhiễm theo hướng dẫn, không dựa suy đoán ai có HIV. Kiến thức đúng phục vụ cả phòng ngừa lẫn đối xử công bằng.",
+        "en": "HIV does not spread through ordinary contact such as handshakes, shared space or eating together. Prevention includes accurate knowledge, safer sexual behaviour and occupational exposure precautions. Seek medical advice immediately after possible exposure because preventive care is time-sensitive. Protect HIV status as confidential health information.\n\n### 3.1. Understand HIV and AIDS\n\nHIV is human immunodeficiency virus; AIDS is acquired immunodeficiency syndrome. Appearance cannot establish status. Testing, treatment and counselling need confidential professional services. Use appropriate protection around blood and body fluids regardless of assumptions about status. Report possible exposure through the medical process rather than assuming a familiar or healthy-looking person presents no concern. Accurate education supports prevention and fair treatment together."
+      },
+      "sourceIds": [
+        "C28",
+        "C29",
+        "C30",
+        "WHO"
+      ]
+    },
+    {
+      "id": "CORE-17-04",
+      "title": {
+        "vi": "4. Căng thẳng và hỗ trợ",
+        "en": "4. Recognize distress and support colleagues"
+      },
+      "body": {
+        "vi": "Nhận diện thay đổi về giấc ngủ, tập trung, cảm xúc, hành vi và khả năng công tác; không tự chẩn đoán từ một dấu hiệu. Hỗ trợ bằng lắng nghe, nhu cầu thiết thực và kết nối chuyên môn, không ép kể lại sự kiện. Khi có nguy cơ tự làm hại hoặc không thể giữ an toàn, tìm trợ giúp khẩn cấp và không để người đó bị bỏ lại trong tình huống nguy hiểm.\n\n### 4.1. Duy trì khả năng công tác\n\nCăng thẳng là phản ứng trước yêu cầu, thay đổi; mức phù hợp có thể giúp tập trung, còn quá tải kéo dài có thể ảnh hưởng sức khỏe và công việc. Giữ ngủ, dinh dưỡng, vận động phù hợp, quan hệ hỗ trợ. Nhận thay đổi ở mình, trao đổi và tìm giúp sớm. Quản lý cần sửa điều kiện gây quá tải; hỗ trợ cá nhân và tổ chức phải đi cùng nhau.",
+        "en": "Notice changes in sleep, concentration, emotion, behaviour and functioning without diagnosing from one sign. Listen, address practical needs and connect professional support; do not force a detailed retelling. If someone cannot remain safe or may harm themselves, obtain urgent assistance and do not leave them unsupported in danger.\n\n### 4.1. Sustain functioning\n\nStress responds to demands and change. Some supports focus; continuing overload may affect health and performance. Maintain suitable sleep, nutrition, activity and supportive relationships. Notice changes, discuss difficulties and seek help early. Managers address excessive demands as well as encourage assistance. Personal coping and organizational conditions work together; neither one routine nor a revised roster alone guarantees that every concern is resolved."
+      },
+      "sourceIds": [
+        "C28",
+        "C29",
+        "C30",
+        "WHO"
+      ]
+    },
+    {
+      "id": "CORE-17-05",
+      "title": {
+        "vi": "5. Trách nhiệm quản lý",
+        "en": "5. Management responsibilities"
+      },
+      "body": {
+        "vi": "Lịch công tác, điều kiện sinh hoạt, cơ hội nghỉ và văn hóa báo vấn đề đều ảnh hưởng sức khỏe. Không quy mọi khó khăn cho ý chí cá nhân. Dữ liệu y tế không đưa vào nhóm công việc rộng; quyết định hạn chế công tác phải theo đánh giá có thẩm quyền.",
+        "en": "Duty schedules, living conditions, rest and a culture of reporting health concerns affect wellbeing. Difficulties are not simply failures of willpower. Do not circulate medical information in broad work groups. Duty restrictions require authorized assessment."
+      },
+      "sourceIds": [
+        "C28",
+        "C29",
+        "C30",
+        "WHO"
+      ]
+    },
+    {
+      "id": "CORE-17-06",
+      "title": {
+        "vi": "6. Sức khỏe cá nhân và sức khỏe tập thể",
+        "en": "6. Individual and collective health"
+      },
+      "body": {
+        "vi": "Một bệnh truyền nhiễm hoặc vấn đề vệ sinh có thể ảnh hưởng cả đơn vị và cộng đồng. Báo triệu chứng qua đầu mối y tế, tuân thủ hướng dẫn và giữ riêng tư; không để lo kỳ thị dẫn tới giấu tình trạng. Không tự áp hạn chế hoặc công khai chẩn đoán cho đồng đội khi chưa có thẩm quyền.",
+        "en": "Infectious illness and sanitation problems can affect a unit and surrounding communities. Report symptoms to medical services, follow advice and maintain privacy. Fear of stigma must not discourage care. Do not independently disclose diagnoses or impose health restrictions without authority."
+      },
+      "sourceIds": [
+        "C28",
+        "C29",
+        "C30",
+        "WHO"
+      ]
+    },
+    {
+      "id": "CORE-17-07",
+      "title": {
+        "vi": "7. Kế hoạch chăm sóc liên tục",
+        "en": "7. Continuity of care"
+      },
+      "body": {
+        "vi": "Trước và trong triển khai cần khả năng tiếp cận thuốc được kê, theo dõi bệnh và hỗ trợ tâm lý. Thuốc dự phòng, xét nghiệm và thời điểm xử trí phải do chuyên môn hướng dẫn. Khi tiếp xúc máu/dịch cơ thể hoặc nghi phơi nhiễm, tìm y tế ngay; không chờ triệu chứng. Hiểu biết đúng về HIV phải đi cùng chống kỳ thị và bảo mật, không chỉ học đường lây.",
+        "en": "Maintain access to prescribed medicines, follow-up and psychological support before and during deployment. Professionals should guide preventive medication, testing and treatment timing. After possible blood or body-fluid exposure, seek care promptly rather than waiting for symptoms. Accurate HIV education must include confidentiality and protection against stigma."
+      },
+      "sourceIds": [
+        "C28",
+        "C29",
+        "C30",
+        "WHO"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "C28",
+      "title": "3.8 Health",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-433%20Lesson%203.8%20Health.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 27,
+      "pdf_name": "2025 - Lesson 3.8 Health - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "C29",
+      "title": "3.9 Understanding Stress",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-434%20Lesson%203.9%20Understanding%20Stress.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 31,
+      "pdf_name": "2025 - Lesson 3.9 Understanding Stress - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "C30",
+      "title": "3.10 HIV/AIDS",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-435%20Lesson%203.10%20HIV%20and%20AIDS.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 19,
+      "pdf_name": "2025 - Lesson 3.10 HIV and AIDS - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "WHO",
+      "title": "Psychological first aid: Guide for field workers",
+      "publisher": "World Health Organization",
+      "year": "2011",
+      "url": "https://www.who.int/publications/i/item/9789241548205",
+      "format": "web",
+      "pages": null,
+      "reading": "Khái niệm và cách hỗ trợ ban đầu",
+      "checked": "2026-10-24"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "HIV lây qua bắt tay và ăn cùng.",
+        "en": "HIV spreads through handshakes and shared meals."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "HIV không lây qua giao tiếp thông thường.",
+        "en": "HIV does not spread through ordinary social contact."
+      }
+    },
+    {
+      "question": {
+        "vi": "Nguy cơ phơi nhiễm cần được tư vấn y tế ngay.",
+        "en": "Possible exposure requires prompt medical advice."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Chăm sóc dự phòng có tính thời gian.",
+        "en": "Preventive care is time-sensitive."
+      }
+    },
+    {
+      "question": {
+        "vi": "Có thể dùng thuốc dự phòng của đồng đội cho nhanh.",
+        "en": "It is appropriate to copy a colleague’s preventive medicine."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Thuốc cần tư vấn cá nhân của chuyên môn.",
+        "en": "Medication requires individualized professional guidance."
+      }
+    },
+    {
+      "question": {
+        "vi": "Ngủ, lịch công tác và điều kiện sống ảnh hưởng sức khỏe.",
+        "en": "Sleep, duty schedules and living conditions affect health."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Quản lý có trách nhiệm với điều kiện làm việc.",
+        "en": "Management is responsible for working conditions."
+      }
+    },
+    {
+      "question": {
+        "vi": "Một dấu hiệu căng thẳng đủ để chẩn đoán rối loạn.",
+        "en": "One stress sign is enough to diagnose a disorder."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Cần đánh giá chuyên môn phù hợp.",
+        "en": "Appropriate professional assessment is needed."
+      }
+    },
+    {
+      "question": {
+        "vi": "Thông tin sức khỏe cần bảo mật.",
+        "en": "Health information requires confidentiality."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Không phát tán trong nhóm công việc rộng.",
+        "en": "Do not circulate it in broad work groups."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Bảo vệ thông tin y tế cá nhân?",
+        "en": "Which concept matches: Protecting personal medical information?"
+      },
+      "options": [
+        {
+          "vi": "Chăm sóc liên tục / Continuity of care",
+          "en": "Continuity of care"
+        },
+        {
+          "vi": "Bảo mật sức khỏe / Health confidentiality",
+          "en": "Health confidentiality"
+        },
+        {
+          "vi": "Tự chẩn đoán / Self-diagnosis",
+          "en": "Self-diagnosis"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Bảo mật sức khỏe / Health confidentiality: Bảo vệ thông tin y tế cá nhân.",
+        "en": "Health confidentiality: Protecting personal medical information."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Duy trì tiếp cận thuốc, theo dõi và hỗ trợ cần thiết?",
+        "en": "Which concept matches: Maintaining access to medicines, follow-up and support?"
+      },
+      "options": [
+        {
+          "vi": "Bảo mật sức khỏe / Health confidentiality",
+          "en": "Health confidentiality"
+        },
+        {
+          "vi": "Chăm sóc liên tục / Continuity of care",
+          "en": "Continuity of care"
+        },
+        {
+          "vi": "Tự chẩn đoán / Self-diagnosis",
+          "en": "Self-diagnosis"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Chăm sóc liên tục / Continuity of care: Duy trì tiếp cận thuốc, theo dõi và hỗ trợ cần thiết.",
+        "en": "Continuity of care: Maintaining access to medicines, follow-up and support."
+      }
+    }
+  ],
+  "updated": "2026-10-26",
+  "moduleId": "CORE-M3",
+  "moduleOrder": 3,
+  "lessonOrder": 3,
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "CORE-17-01",
+      "title": {
+        "vi": "1. Chuẩn bị sức khỏe",
+        "en": "1. Prepare for healthy deployment"
+      },
+      "body": {
+        "vi": "Đánh giá y tế trước triển khai, tiêm chủng và dự phòng theo tư vấn chuyên môn, khai báo thuốc và bệnh cần theo dõi qua kênh bảo mật. Không tự sao chép thuốc của đồng đội. Biết nơi cấp cứu, điều kiện chuyển tuyến và cách gọi hỗ trợ.",
+        "en": "Complete medical assessment, vaccination and prevention according to professional advice. Discuss prescribed medicines and ongoing conditions through confidential channels rather than copying another person’s medication. Know emergency access, referral arrangements and how to request help."
+      },
+      "sourceIds": [
+        "C28",
+        "C29",
+        "C30",
+        "WHO"
+      ]
+    },
+    {
+      "id": "CORE-17-02",
+      "title": {
+        "vi": "2. Phòng bệnh hàng ngày",
+        "en": "2. Everyday disease prevention"
+      },
+      "body": {
+        "vi": "Nước và thực phẩm an toàn, vệ sinh tay, phòng bệnh qua côn trùng và bảo đảm nghỉ ngơi là việc liên tục. Sốt hoặc triệu chứng bất thường tại vùng có nguy cơ cần được đánh giá y tế, không tự chờ vì cho là cảm thông thường. Không áp dụng một chế độ thuốc hoặc lượng nước cố định cho mọi người.",
+        "en": "Safe water and food, hand hygiene, vector protection and adequate rest need continuing attention. Fever or unusual symptoms in a risk area require medical assessment; do not assume an ordinary cold. Medication and fluid requirements are individualized."
+      },
+      "sourceIds": [
+        "C28",
+        "C29",
+        "C30",
+        "WHO"
+      ]
+    },
+    {
+      "id": "CORE-17-03",
+      "title": {
+        "vi": "3. HIV và chống kỳ thị",
+        "en": "3. HIV knowledge and non-discrimination"
+      },
+      "body": {
+        "vi": "HIV không lây qua giao tiếp thông thường như bắt tay, dùng chung không gian hoặc ăn cùng. Phòng ngừa cần kiến thức đúng, hành vi tình dục an toàn và phòng phơi nhiễm nghề nghiệp. Khi có nguy cơ phơi nhiễm phải tìm hỗ trợ y tế ngay vì dự phòng có tính thời gian; không tự điều trị hoặc trì hoãn để tránh báo cáo. Tình trạng HIV là thông tin sức khỏe cần bảo vệ.\n\n### 3.1. Hiểu HIV và AIDS\n\nHIV là virus gây suy giảm miễn dịch ở người; AIDS là hội chứng suy giảm miễn dịch mắc phải. Không suy tình trạng từ vẻ ngoài. Xét nghiệm, điều trị, tư vấn cần chuyên môn và bảo mật. Khi có máu, dịch cơ thể, áp dụng bảo vệ và báo phơi nhiễm theo hướng dẫn, không dựa suy đoán ai có HIV. Kiến thức đúng phục vụ cả phòng ngừa lẫn đối xử công bằng.",
+        "en": "HIV does not spread through ordinary contact such as handshakes, shared space or eating together. Prevention includes accurate knowledge, safer sexual behaviour and occupational exposure precautions. Seek medical advice immediately after possible exposure because preventive care is time-sensitive. Protect HIV status as confidential health information.\n\n### 3.1. Understand HIV and AIDS\n\nHIV is human immunodeficiency virus; AIDS is acquired immunodeficiency syndrome. Appearance cannot establish status. Testing, treatment and counselling need confidential professional services. Use appropriate protection around blood and body fluids regardless of assumptions about status. Report possible exposure through the medical process rather than assuming a familiar or healthy-looking person presents no concern. Accurate education supports prevention and fair treatment together."
+      },
+      "sourceIds": [
+        "C28",
+        "C29",
+        "C30",
+        "WHO"
+      ]
+    },
+    {
+      "id": "CORE-17-04",
+      "title": {
+        "vi": "4. Căng thẳng và hỗ trợ",
+        "en": "4. Recognize distress and support colleagues"
+      },
+      "body": {
+        "vi": "Nhận diện thay đổi về giấc ngủ, tập trung, cảm xúc, hành vi và khả năng công tác; không tự chẩn đoán từ một dấu hiệu. Hỗ trợ bằng lắng nghe, nhu cầu thiết thực và kết nối chuyên môn, không ép kể lại sự kiện. Khi có nguy cơ tự làm hại hoặc không thể giữ an toàn, tìm trợ giúp khẩn cấp và không để người đó bị bỏ lại trong tình huống nguy hiểm.\n\n### 4.1. Duy trì khả năng công tác\n\nCăng thẳng là phản ứng trước yêu cầu, thay đổi; mức phù hợp có thể giúp tập trung, còn quá tải kéo dài có thể ảnh hưởng sức khỏe và công việc. Giữ ngủ, dinh dưỡng, vận động phù hợp, quan hệ hỗ trợ. Nhận thay đổi ở mình, trao đổi và tìm giúp sớm. Quản lý cần sửa điều kiện gây quá tải; hỗ trợ cá nhân và tổ chức phải đi cùng nhau.",
+        "en": "Notice changes in sleep, concentration, emotion, behaviour and functioning without diagnosing from one sign. Listen, address practical needs and connect professional support; do not force a detailed retelling. If someone cannot remain safe or may harm themselves, obtain urgent assistance and do not leave them unsupported in danger.\n\n### 4.1. Sustain functioning\n\nStress responds to demands and change. Some supports focus; continuing overload may affect health and performance. Maintain suitable sleep, nutrition, activity and supportive relationships. Notice changes, discuss difficulties and seek help early. Managers address excessive demands as well as encourage assistance. Personal coping and organizational conditions work together; neither one routine nor a revised roster alone guarantees that every concern is resolved."
+      },
+      "sourceIds": [
+        "C28",
+        "C29",
+        "C30",
+        "WHO"
+      ]
+    },
+    {
+      "id": "CORE-17-05",
+      "title": {
+        "vi": "5. Trách nhiệm quản lý",
+        "en": "5. Management responsibilities"
+      },
+      "body": {
+        "vi": "Lịch công tác, điều kiện sinh hoạt, cơ hội nghỉ và văn hóa báo vấn đề đều ảnh hưởng sức khỏe. Không quy mọi khó khăn cho ý chí cá nhân. Dữ liệu y tế không đưa vào nhóm công việc rộng; quyết định hạn chế công tác phải theo đánh giá có thẩm quyền.",
+        "en": "Duty schedules, living conditions, rest and a culture of reporting health concerns affect wellbeing. Difficulties are not simply failures of willpower. Do not circulate medical information in broad work groups. Duty restrictions require authorized assessment."
+      },
+      "sourceIds": [
+        "C28",
+        "C29",
+        "C30",
+        "WHO"
+      ]
+    },
+    {
+      "id": "CORE-17-06",
+      "title": {
+        "vi": "6. Sức khỏe cá nhân và sức khỏe tập thể",
+        "en": "6. Individual and collective health"
+      },
+      "body": {
+        "vi": "Một bệnh truyền nhiễm hoặc vấn đề vệ sinh có thể ảnh hưởng cả đơn vị và cộng đồng. Báo triệu chứng qua đầu mối y tế, tuân thủ hướng dẫn và giữ riêng tư; không để lo kỳ thị dẫn tới giấu tình trạng. Không tự áp hạn chế hoặc công khai chẩn đoán cho đồng đội khi chưa có thẩm quyền.",
+        "en": "Infectious illness and sanitation problems can affect a unit and surrounding communities. Report symptoms to medical services, follow advice and maintain privacy. Fear of stigma must not discourage care. Do not independently disclose diagnoses or impose health restrictions without authority."
+      },
+      "sourceIds": [
+        "C28",
+        "C29",
+        "C30",
+        "WHO"
+      ]
+    },
+    {
+      "id": "CORE-17-07",
+      "title": {
+        "vi": "7. Kế hoạch chăm sóc liên tục",
+        "en": "7. Continuity of care"
+      },
+      "body": {
+        "vi": "Trước và trong triển khai cần khả năng tiếp cận thuốc được kê, theo dõi bệnh và hỗ trợ tâm lý. Thuốc dự phòng, xét nghiệm và thời điểm xử trí phải do chuyên môn hướng dẫn. Khi tiếp xúc máu/dịch cơ thể hoặc nghi phơi nhiễm, tìm y tế ngay; không chờ triệu chứng. Hiểu biết đúng về HIV phải đi cùng chống kỳ thị và bảo mật, không chỉ học đường lây.",
+        "en": "Maintain access to prescribed medicines, follow-up and psychological support before and during deployment. Professionals should guide preventive medication, testing and treatment timing. After possible blood or body-fluid exposure, seek care promptly rather than waiting for symptoms. Accurate HIV education must include confidentiality and protection against stigma."
+      },
+      "sourceIds": [
+        "C28",
+        "C29",
+        "C30",
+        "WHO"
+      ]
+    }
+  ],
+  "source_ids": [
+    "C28",
+    "C29",
+    "C30",
+    "WHO"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "Bảo mật sức khỏe / Health confidentiality",
+      "definition": {
+        "vi": "Bảo vệ thông tin y tế cá nhân",
+        "en": "Protecting personal medical information"
+      }
+    },
+    {
+      "term": "Chăm sóc liên tục / Continuity of care",
+      "definition": {
+        "vi": "Duy trì tiếp cận thuốc, theo dõi và hỗ trợ cần thiết",
+        "en": "Maintaining access to medicines, follow-up and support"
+      }
+    }
+  ],
+  "diagram": {
+    "type": "seq",
+    "items": [
+      {
+        "vi": "Chuẩn bị",
+        "en": "Prepare"
+      },
+      {
+        "vi": "Phòng ngừa",
+        "en": "Prevent"
+      },
+      {
+        "vi": "Nhận biết sớm",
+        "en": "Recognize early"
+      },
+      {
+        "vi": "Chăm sóc liên tục",
+        "en": "Maintain care"
+      }
+    ],
+    "chapter": 1
+  },
+  "contentVersion": "4tab-2026-10-26",
+  "sourceIntro": {
+    "vi": "Các tài liệu dưới đây là nền tảng kiến thức của bài. Mở nguồn để đọc nội dung gốc; phần giải thích, sơ đồ học tập và câu hỏi được biên soạn cho Handbook.",
+    "en": "The materials below provide the lesson’s knowledge base. Open them for the original teaching material; explanations, instructional diagrams and questions are developed for the Handbook."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Hai bản Việt–Anh phục vụ học tập, không phải bản dịch chính thức của UN. Danh mục và thứ tự 48 bài là cách tổ chức học liệu của Handbook, không phải số bài chính thức của UN.",
+      "Bảng đối chiếu xác định tài liệu nền theo mục; không khẳng định mọi câu diễn giải là trích nguyên văn. Hình gốc ghi rõ tài liệu và trang PDF; sơ đồ học tập được ghi là biên soạn.",
+      "Các phần sức khỏe, sơ cứu tập trung nhận biết, hỗ trợ ban đầu và chuyển chuyên môn. Thông số CPR người lớn được đối chiếu AHA 2025; thực hành và quyết định y tế cần huấn luyện, chuyên môn tương ứng."
+    ],
+    "en": [
+      "The Vietnamese and English texts are for learning and are not official UN translations. The 48-lesson catalogue and numbering are the Handbook’s organization, not the official UN lesson count.",
+      "The mapping identifies source materials by section and does not present every explanation as a verbatim quotation. Original illustrations identify the material and PDF page; instructional diagrams are labelled as developed for the lesson.",
+      "Health and first-aid sections focus on recognition, initial assistance and professional referral. Adult CPR parameters are checked against AHA 2025; practical and clinical decisions require corresponding training and expertise."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bài học CORE-17 tập trung vào chủ đề: Sức khỏe, HIV/AIDS và quản lý căng thẳng. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+      "en": "Lesson CORE-17 covers the following topic: Health, HIV awareness and stress management. It connects concepts with professional responsibilities."
+    },
+    "subtitle": {
+      "vi": "Học kiến thức, hiểu trách nhiệm và kiểm tra nhận thức.",
+      "en": "Learn the concepts, understand responsibilities and check your knowledge."
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích: Chuẩn bị sức khỏe; Phòng bệnh hàng ngày.",
+        "Giải thích: HIV và chống kỳ thị; Căng thẳng và hỗ trợ.",
+        "Giải thích: Trách nhiệm quản lý; Sức khỏe cá nhân và sức khỏe tập thể; Kế hoạch chăm sóc liên tục.",
+        "Nhận diện cách hiểu sai và chọn nhận định có căn cứ trong kiểm tra nhận thức."
+      ],
+      "en": [
+        "Explain: Prepare for healthy deployment; Everyday disease prevention.",
+        "Explain: HIV knowledge and non-discrimination; Recognize distress and support colleagues.",
+        "Explain: Management responsibilities; Individual and collective health; Continuity of care.",
+        "Recognize misconceptions and select evidence-based statements in the knowledge check."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc các mục theo thứ tự trong tab nội dung, quan sát sơ đồ và hình, sau đó hoàn thành kiểm tra nhận thức. Chọn VI/EN để đổi ngôn ngữ; đáp án được giữ khi đổi ngôn ngữ trong phiên mở trang. Tải lại trang sẽ bắt đầu lại.",
+      "en": "Read the sections in order, study diagrams and illustrations, then complete the knowledge check. Use VI/EN to switch languages; answers are retained across language changes during the session. Reloading starts a new session."
+    }
+  },
+  "figures": [],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft"
+}

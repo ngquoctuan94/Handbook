@@ -1,0 +1,1065 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "0.1-review",
+  "id": "FPU-16",
+  "area": "fpu",
+  "groupKey": "FPU-M5",
+  "group": {
+    "vi": "Quản lý trật tự công cộng",
+    "en": "Public order management"
+  },
+  "order": 303,
+  "title": {
+    "vi": "Bảo vệ VIP: tổ chức, đội hình, di chuyển và xử lý tình huống",
+    "en": "VIP Protection: Organization, Formations, Movement and Incident Management"
+  },
+  "summary": {
+    "vi": "Bài mẫu có tám phần: mục tiêu, khái niệm, kiến thức, vận dụng, tình huống, sai sót, tự kiểm tra và nguồn. Bao gồm bảo vệ trực tiếp, cơ động và tĩnh; dùng để duyệt nội dung."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "minutes": 25,
+  "sourceKey": "VIP-2015",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-048%20Basic%20tactics%20on%20VIP%20protection.pdf",
+  "updated": "2026-10-26",
+  "sections": [
+    {
+      "id": "foundations",
+      "title": {
+        "vi": "2. Khái niệm, thuật ngữ và nguyên tắc nền tảng"
+      },
+      "body": {
+        "vi": "2.1. Hiểu đúng nhiệm vụ bảo vệ VIP\n\nBảo vệ VIP là tổ chức con người, phương tiện và các biện pháp phù hợp để giữ an toàn cho người được bảo vệ trong toàn bộ chương trình. Công việc này bắt đầu từ chuẩn bị, tiếp tục trong quá trình đón tiếp, di chuyển, hoạt động tại địa điểm và kết thúc khi đã bàn giao hoặc hoàn thành nhiệm vụ.\n\nHãy ghi nhớ: Đội hình chỉ là một thành phần của phương án. Muốn bảo vệ hiệu quả, chúng ta còn cần phân công rõ, thông tin thông suốt, phương tiện sẵn sàng và phối hợp chặt chẽ giữa các bộ phận.\n\n| Thuật ngữ | Ý nghĩa |\n| --- | --- |\n| Protectee / Principal | Người được bảo vệ; ký hiệu P trong các hình của bài |\n| PPO — Personal Protection Officer | Cán bộ được giao bảo vệ trực tiếp; hình có thể dùng BG — Bodyguard |\n| PET — Personal Escort Team | Tổ hộ tống cá nhân, phối hợp với PPO và đảm nhiệm các phần việc được phân công |\n| Protection Support Team | Lực lượng hỗ trợ phương án bảo vệ; có thể bao gồm các thành phần FPU được giao nhiệm vụ |\n| Direct protection | Bảo vệ trực tiếp, đặc biệt khi đi bộ và chuyển tiếp giữa người, phương tiện, địa điểm |\n| Mobile protection | Bảo vệ trong quá trình di chuyển bằng phương tiện |\n| Static protection | Bảo vệ tại địa điểm hoặc khu vực tổ chức hoạt động |\n| Safe haven | Địa điểm được xác định và đánh giá phù hợp để bảo đảm an toàn khi cần |\n\n2.2. Ba hình thức bảo vệ nối tiếp nhau\n\nTrong một chuyến công tác, VIP có thể rời phòng làm việc, đi bộ tới xe, di chuyển bằng xe, xuống xe và tham gia sự kiện. Mỗi đoạn có đặc điểm riêng, nhưng không được để xuất hiện khoảng trống trách nhiệm giữa các đoạn.\n\n1. Bảo vệ trực tiếp: Tập trung vào người được bảo vệ và sự phối hợp của tổ bảo vệ gần.\n2. Bảo vệ cơ động: Tập trung vào hành trình, phương tiện, lái xe và thông tin giữa các thành phần.\n3. Bảo vệ tĩnh: Tập trung vào địa điểm, kiểm soát tiếp cận và duy trì tình trạng an toàn của khu vực.\n\n2.3. Những nguyên tắc phải giữ xuyên suốt\n\n- Phân công dựa trên nhiệm vụ và đánh giá rủi ro cụ thể.\n- Mỗi người biết rõ chức trách, chỉ huy trực tiếp và cách báo cáo.\n- Phối hợp giữa các lực lượng không tự động làm thay đổi quyền chỉ huy.\n- PPO giữ được sự tập trung đối với người được bảo vệ.\n- Biện pháp bảo vệ phải tính đến an toàn và phẩm giá của VIP, lực lượng bảo vệ và công chúng.\n- Mọi hoạt động sử dụng vũ lực phải đúng thẩm quyền và khuôn khổ áp dụng.\n- Thông tin bảo vệ chỉ được chia sẻ cho người có trách nhiệm và theo kênh được phép.\n\nTrước khi triển khai, hãy yêu cầu từng bộ phận trình bày lại nhiệm vụ. Nếu hai bộ phận cùng cho rằng bên kia chịu trách nhiệm tại một điểm chuyển tiếp, phương án vẫn chưa rõ.",
+        "en": "2.1. Understanding the protection task\n\nVIP protection brings together personnel, vehicles and appropriate measures to keep the protectee safe throughout a programme. It begins with preparation, continues through reception, travel and venue activities, and ends with an authorized handover or completion of the task.\n\nRemember: A formation is only one part of a protection plan. Effective protection also requires clear responsibilities, working communications, ready vehicles and coordinated support.\n\n| Term | Meaning |\n| --- | --- |\n| Protectee / Principal | The person receiving protection; shown as P in this lesson's figures |\n| PPO — Personal Protection Officer | Officer assigned direct protection responsibility; figures may use BG — Bodyguard |\n| PET — Personal Escort Team | Officers who coordinate with the PPO and carry out their assigned escort duties |\n| Protection Support Team | Personnel supporting the protection plan, including FPU elements where assigned |\n| Direct protection | Protection in close proximity, particularly on foot and during transitions between people, vehicles and venues |\n| Mobile protection | Protection during travel by vehicle |\n| Static protection | Protection at a venue or within the area of an activity |\n| Safe haven | A location identified and assessed as suitable for maintaining safety when required |\n\n2.2. Connecting the three forms of protection\n\nDuring a visit, the protectee may leave an office, walk to a vehicle, travel, disembark and attend an event. Each stage has different conditions, but responsibility must remain continuous between them.\n\n1. Direct protection: Focuses on the protectee and coordination within the close protection team.\n2. Mobile protection: Focuses on the journey, vehicles, drivers and links between participating elements.\n3. Static protection: Focuses on the venue, access control and maintaining the security of the area.\n\n2.3. Principles throughout the task\n\n- Assign responsibilities according to the task and a specific risk assessment.\n- Ensure that everyone knows their role, immediate commander and reporting arrangements.\n- Cooperation between forces does not automatically transfer command.\n- Keep the PPO focused on the protectee.\n- Consider the safety and dignity of the protectee, protection personnel and the public.\n- Any use of force must remain within the applicable authority and framework.\n- Share protective information only with responsible personnel through authorized channels.\n\nBefore deployment, ask each element to explain its responsibilities. If two elements both assume that the other is responsible for a transition, the plan is not yet clear."
+      },
+      "sourceRefs": [
+        {
+          "id": "VIP-2015",
+          "pdfPages": [
+            2,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            24,
+            32,
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "id": "knowledge",
+      "title": {
+        "vi": "3. Nội dung kiến thức trọng tâm"
+      },
+      "body": {
+        "vi": "3.1. Chuẩn bị từ nhiệm vụ đến phương án\n\nTrước hết, xác định người cần bảo vệ, mục đích chuyến công tác, chương trình, địa điểm và những điều kiện có thể ảnh hưởng tới nhiệm vụ. Sau đó đánh giá rủi ro, lựa chọn biện pháp và phân công nguồn lực.\n\nBa sản phẩm cần phân biệt:\n1. Đánh giá rủi ro an ninh — SRA: Xác định nguy cơ, mức ảnh hưởng và những hạn chế cần xử lý.\n2. Concept of Security: Xác định cách tổ chức bảo đảm tổng thể và trách nhiệm giữa các thành phần.\n3. Operational Plan: Cụ thể hóa nhiệm vụ, thời gian, chỉ huy, phối hợp, liên lạc và phương án dự phòng.\n\nThông tin đầu vào phải bao gồm chương trình, mức độ tiếp xúc công chúng, tình hình địa bàn, điều kiện giao thông, thời tiết, con người, phương tiện, thông tin và y tế. Với điều chưa rõ, ghi người có trách nhiệm xác minh và thời điểm phải hoàn thành. Một kế hoạch có nhiều ô còn bỏ trống chưa thể được coi là đã sẵn sàng.\n\n3.2. Tổ chức lực lượng và phân biệt quân số\n\nTrong phần này, hãy quan sát vai trò trước khi đếm số người. Người được bảo vệ không phải một thành viên của lực lượng bảo vệ.\n\n- PPO/BG: Đảm nhiệm trách nhiệm bảo vệ trực tiếp đối với VIP. Không giao thêm quá nhiều việc điều phối làm phân tán nhiệm vụ này.\n- PET: Các thành viên hộ tống đảm nhiệm phần việc cụ thể và phối hợp liên tục với PPO.\n- Lái xe: Chịu trách nhiệm về phương tiện, việc điều khiển xe và phối hợp di chuyển theo phân công.\n- Lực lượng FPU hỗ trợ: Thực hiện nhiệm vụ bảo đảm xung quanh, tại địa điểm hoặc trên hành trình theo phương án.\n- Chỉ huy/điều phối: Thống nhất công việc giữa các bộ phận và xử lý thay đổi trong phạm vi thẩm quyền.\n\nVới hình Box hoặc Diamond bên dưới, có bốn thành viên PET và một BG/PPO, tức năm cán bộ bảo vệ trong đội hình đi bộ. Nếu phương án còn có hai lái xe riêng thì tổng số người thực hiện các chức năng đó là bảy, chưa tính lực lượng hỗ trợ. Đây là cách đếm cho cấu hình minh họa, không phải biên chế áp dụng cho mọi nhiệm vụ.\n\n3.3. Nhận diện và sử dụng các đội hình đi bộ\n\nKhi đọc hình, ký hiệu P chỉ người được bảo vệ, BG chỉ người bảo vệ trực tiếp. Mũi tên thể hiện hướng di chuyển của từng sơ đồ. Các chữ viết tắt khác thể hiện vị trí hoặc chức năng theo chú thích tiếng Anh trong hình.\n\n**a. Đội hình Box — hình hộp**\n\nQuan sát bốn vị trí ở các góc của hình hộp. BG ở gần P, còn các thành viên PET tạo thêm lớp bảo vệ. Hãy liên hệ mỗi vị trí với phần việc được giao và cách giữ liên lạc với những người còn lại.\n\n[[figure:box]]\n\nĐiểm cần nhớ: Hình có năm cán bộ bảo vệ; P là người được bảo vệ và không tính vào năm người này. Khi lựa chọn Box, cần xét không gian di chuyển, nguy cơ và khả năng phối hợp của tổ.\n\n**b. Đội hình Diamond — hình thoi**\n\nTrong hình thoi, các vị trí PET được tổ chức theo các đỉnh quanh P và BG. So với Box, hình thức biểu hiện trước công chúng khác nhau. Vì vậy, lựa chọn đội hình còn phải xét tác động tới dòng người và mức độ hiện diện mong muốn.\n\n[[figure:diamond]]\n\nĐiểm cần nhớ: Thay đổi hình dạng đội hình không làm thay đổi trách nhiệm bảo vệ trực tiếp của BG/PPO.\n\n**c. Đội hình V — chữ V**\n\nHãy quan sát các thành viên được bố trí theo hai cạnh và phần sau của chữ V trong hình. Cấu hình này cần được hiểu cùng điều kiện di chuyển và sự tiếp xúc với đám đông. Tên đội hình không tự quyết định được cách xử lý một đám đông cụ thể.\n\n[[figure:v]]\n\nĐiểm cần nhớ: Cán bộ phải hiểu chức năng của vị trí được giao, thay vì chỉ đứng đúng một hình vẽ.\n\n**d. Các cấu hình Low-profile — ít phô trương**\n\nBa hình sau lần lượt thể hiện hai, ba và bốn cán bộ bảo vệ. Hãy đếm tổng số cán bộ thể hiện trong từng hình; BG đã nằm trong tổng đó. P vẫn là người được bảo vệ.\n\n[[figure:low2]]\n\nỞ cấu hình hai người, BG và cán bộ số 1 tạo thành hai cán bộ bảo vệ. Không cộng thêm một PPO thứ ba chỉ vì chúng ta đã quen với cách đếm trong Box.\n\n[[figure:low3]]\n\nỞ cấu hình ba người, BG phối hợp với cán bộ số 1 và số 2. Quân số thay đổi đòi hỏi phân công phù hợp, không đơn thuần bỏ bớt người từ một đội hình lớn.\n\n[[figure:low4]]\n\nỞ cấu hình bốn người, BG phối hợp với ba thành viên còn lại. Ít phô trương là cách thể hiện mức độ hiện diện; không đồng nghĩa với nguy cơ thấp hoặc có thể giảm yêu cầu chuẩn bị.\n\n3.4. Phối hợp FPU hỗ trợ đoàn đi bộ\n\nTrong các hình tiếp theo, phân biệt nhóm bảo vệ tiếp cận ở trung tâm với cán bộ FPU hỗ trợ xung quanh. Hai thành phần cùng hướng tới an toàn của VIP nhưng có phần việc khác nhau.\n\n**a. FPU hỗ trợ đội hình Box**\n\n[[figure:support19]]\n\nQuan sát hai phương án trong hình. Điểm cần học là mối liên hệ giữa vùng làm việc của tổ bảo vệ gần và phần việc của lực lượng hỗ trợ. Mỗi người phải biết vị trí trách nhiệm, đầu mối báo cáo và cách phối hợp khi chương trình thay đổi.\n\n**b. FPU hỗ trợ đội hình Diamond**\n\n[[figure:support20]]\n\nKhi tổ bảo vệ gần sử dụng hình thoi, lực lượng hỗ trợ vẫn phải duy trì nhiệm vụ được giao. Không tự di chuyển theo cảm tính hoặc để toàn bộ người hỗ trợ cùng tập trung vào một điểm.\n\n**c. FPU hỗ trợ đội hình V**\n\n[[figure:support21]]\n\nHai phương án minh họa có bố trí lực lượng hỗ trợ khác nhau. Các con số dưới hình mô tả quân số hỗ trợ của phương án; không được cộng hoặc thay thế máy móc cho quân số của tổ bảo vệ tiếp cận ở giữa.\n\n**d. Hỗ trợ khi công chúng đứng hai bên**\n\n[[figure:support22]]\n\nHãy theo dõi hướng di chuyển của đoàn và sự phân bố cán bộ hỗ trợ hai bên. Điều quan trọng là duy trì phối hợp, kiểm soát phần việc và giữ cách ứng xử phù hợp với công chúng. Một nhóm đông người chưa đồng nghĩa có hành vi bạo lực.\n\nCác sơ đồ giúp hình dung cấu trúc phối hợp. Khoảng cách, động tác và chuyển đổi đội hình phải được giảng viên hướng dẫn, làm mẫu và sửa sai trong điều kiện huấn luyện phù hợp.\n\n3.5. Liên lạc trong bảo vệ trực tiếp\n\nLiên lạc phải được duy trì từ lúc bắt đầu đến khi kết thúc nhiệm vụ, đặc biệt tại các điểm chuyển tiếp như rời công trình, đi bộ, lên xuống xe và tiếp nhận tại địa điểm.\n\nTrước khi thực hiện, thống nhất:\n1. Ai thông báo và ai tiếp nhận từng loại thông tin.\n2. Nội dung nào phải xác nhận đã nhận và đã hiểu.\n3. Cách mô tả vị trí và hướng tham chiếu.\n4. Kênh chính, kênh dự phòng và cách báo gián đoạn.\n\nThông báo đầu tiên phải đủ rõ để các thành viên cùng nhận biết sự việc. Tránh những câu như “Có vấn đề ở kia” mà không xác định được vị trí hoặc bản chất sự việc. Nếu sử dụng quy ước hướng theo mặt đồng hồ, phải thống nhất hướng tham chiếu trước khi làm nhiệm vụ.\n\n3.6. Bảo vệ cơ động và nhiệm vụ của các xe\n\nTrong bảo vệ cơ động, hãy xác định chức năng từng xe trước khi lập danh sách phương tiện. Hai xe có cùng kiểu dáng vẫn có thể đảm nhiệm hai nhiệm vụ khác nhau.\n\n| Thành phần | Chức năng chính cần phân biệt |\n| --- | --- |\n| Point Car | Cung cấp thông tin về điều kiện phía trước và khả năng tiếp tục hành trình |\n| Lead Car | Góp phần điều phối nhịp di chuyển và sự thống nhất của đoàn |\n| Protectee Vehicle — PV | Chở người được bảo vệ; có PPO đi cùng theo cấu hình nhiệm vụ |\n| PET Car | Chở tổ hộ tống và thực hiện phần việc hỗ trợ đã được giao |\n| Pilot Vehicle | Hỗ trợ kiến thức địa bàn, tuyến đường và phối hợp khi cần |\n| Rear Vehicle | Thực hiện nhiệm vụ bảo đảm phía sau khi phương án có sử dụng |\n| CAT Vehicle | Thành phần chuyên biệt được xem xét theo mức nguy cơ và quyết định có thẩm quyền |\n| Sweep Car | Hỗ trợ xử lý sự cố và phối hợp bên ngoài theo phương án |\n\nKhông phải nhiệm vụ nào cũng cần đủ tất cả các thành phần trên. Khi bổ sung một xe, phải trả lời được xe đó thực hiện việc gì, liên lạc với ai và được bảo đảm như thế nào. Chọn quy mô đoàn theo yêu cầu nhiệm vụ và đánh giá rủi ro; tránh thêm phương tiện không có chức năng rõ ràng.\n\n3.7. Lái xe và chuẩn bị phương tiện\n\nNgười lái phải có trình độ phù hợp với công việc được giao và chịu trách nhiệm về quyết định điều khiển xe. Ưu tiên là hoàn thành hành trình an toàn cho VIP, người đi đường và lực lượng bảo vệ.\n\nDanh sách kiểm tra cần làm rõ:\n- Tình trạng kỹ thuật và khả năng sử dụng của xe.\n- Nhiên liệu, thiết bị liên lạc và phụ kiện cần thiết.\n- Phân công lái xe và mức độ nắm nhiệm vụ.\n- Điều kiện tiếp nhận, lên xuống phương tiện và hỗ trợ người trên xe.\n- Hạn chế đang tồn tại, người khắc phục và thời điểm xác nhận lại.\n\nXe khác vượt, phương tiện hỏng hoặc tình hình thay đổi đều có thể tác động tới sự thống nhất của đoàn. Cách xử lý phải nằm trong phương án và năng lực đã được huấn luyện. Động tác lái chuyên biệt chỉ thực hiện trong điều kiện được phép, với người đã được đào tạo phù hợp.\n\n3.8. Liên lạc cơ động và y tế\n\nCần chuẩn bị ba tuyến liên lạc: Nội bộ đoàn xe; đoàn xe với điểm đến; đoàn xe với trung tâm điều hành. Khi bàn giao sang địa bàn khác, xác nhận đầu mối mới đã tiếp nhận trước khi chấm dứt đầu mối cũ.\n\nĐừng đánh giá khả năng liên lạc chỉ bằng số máy có trong kho. Phải kiểm tra kết nối thực tế, nguồn điện, pin, phụ kiện và cách xử lý khi gián đoạn. Máy kỹ thuật số hoặc mật danh không tự bảo đảm an toàn thông tin; cần dùng hệ thống và quy trình được phê duyệt.\n\nVề y tế, phải biết người phụ trách, khả năng hỗ trợ ban đầu, cơ sở tiếp nhận phù hợp và cách yêu cầu trợ giúp. Một số điện thoại trong kế hoạch chỉ hữu ích khi đầu mối đó có thể liên hệ và thực sự đáp ứng yêu cầu nhiệm vụ.\n\n3.9. Bảo vệ tại địa điểm\n\nChuẩn bị địa điểm bắt đầu từ thu thập thông tin, liên hệ phối hợp và khảo sát. Cần nắm công năng, hoạt động đang diễn ra, luồng người, điều kiện tiếp cận và những thay đổi có thể ảnh hưởng tới an toàn.\n\nKhi khảo sát, phối hợp với người hiểu rõ cơ sở. Bản vẽ giúp định hướng nhưng không thể hiện đầy đủ mọi thay đổi như công trình đang sửa, lối đi bị chặn hoặc hệ thống chiếu sáng chưa hoạt động.\n\nTrong cuộc họp phối hợp, xác nhận:\n1. Các bên tham gia và trách nhiệm từng bên.\n2. Điều kiện tổ chức, tiếp nhận và hỗ trợ đoàn.\n3. Đầu mối chỉ huy, an ninh, thông tin và y tế.\n4. Người có quyền quyết định thay đổi hoặc dừng hoạt động.\n5. Cách truyền đạt quyết định tới các bộ phận liên quan.\n\n3.10. Tổ chức bảo vệ theo chiều sâu\n\nBảo vệ theo chiều sâu tạo các lớp có chức năng hỗ trợ nhau. Mục đích là tăng khả năng nhận biết tình hình, quản lý tiếp cận và duy trì thời gian phản ứng.\n\n| Lớp chức năng | Trọng tâm |\n| --- | --- |\n| Ngoài | Nhận biết tình hình tiếp cận và phối hợp với lực lượng liên quan |\n| Trung gian | Làm rõ ranh giới khu vực kiểm soát, chỉ dẫn và quyền tiếp cận |\n| Trong | Duy trì tình trạng an toàn của khu vực và phối hợp với tổ bảo vệ trực tiếp |\n\nMỗi lớp phải có người chịu trách nhiệm và cách báo cáo. Không hiểu các lớp bảo vệ là ba hàng người với khoảng cách cố định. Cách tổ chức phụ thuộc nhiệm vụ, môi trường và nguy cơ.\n\nSau khi kiểm tra một khu vực, cần tiếp tục duy trì kiểm soát. Người, thiết bị hoặc hoạt động mới phát sinh có thể làm thay đổi điều kiện đã được xác nhận. Các công việc kiểm tra chuyên môn chỉ giao cho người đủ năng lực và có thẩm quyền.\n\n3.11. Xử lý sự việc và báo cáo\n\nKhi có sự việc, duy trì rõ người chịu trách nhiệm đối với VIP và người điều phối hỗ trợ. Mỗi thành viên thực hiện chức năng được giao, tránh cùng bỏ nhiệm vụ của mình để tập trung vào một hoạt động khác.\n\nBáo cáo ban đầu cần giúp chỉ huy trả lời bốn câu hỏi:\n1. Sự việc xảy ra ở đâu?\n2. Có những người hoặc đối tượng nào liên quan?\n3. Tổ đã thực hiện phản ứng gì?\n4. Cần hỗ trợ những gì?\n\nĐây là bốn nội dung trọng tâm của khung LIAR được sử dụng trong bài. Phân biệt dữ kiện quan sát được với thông tin chưa xác minh; cập nhật khi có diễn biến mới.\n\n3.12. Kết thúc và tổng kết nhiệm vụ\n\nChỉ kết thúc theo phân công và có xác nhận phù hợp. Kiểm tra quân số, phương tiện, trang bị; hoàn tất bàn giao; ghi nhận thay đổi và sự việc; thực hiện báo cáo và tổng kết.\n\nTổng kết cần nêu được mục tiêu, kết quả, hạn chế, nguyên nhân và việc khắc phục. Câu “Đã hoàn thành an toàn” chưa giải thích được quá trình phối hợp hoặc những điểm cần cải thiện. Bảo vệ dữ liệu cá nhân và thông tin nhiệm vụ trong toàn bộ hồ sơ.",
+        "en": "3.1. Preparing the task and plan\n\nBegin by identifying the protectee, purpose of the visit, programme, venues and conditions that may affect the task. Assess the risks, select appropriate measures and assign resources.\n\nDistinguish three planning products:\n1. Security Risk Assessment — SRA: Identifies threats, their effects and limitations requiring attention.\n2. Concept of Security: Establishes the overall arrangements and responsibilities of the participating elements.\n3. Operational Plan: Specifies tasks, timings, command, coordination, communications and contingencies.\n\nPlanning information must cover the programme, public contact, local conditions, traffic, weather, personnel, vehicles, communications and medical support. For each unresolved point, identify who will verify it and by when. A plan with important gaps cannot yet be treated as ready.\n\n3.2. Organizing personnel and counting the team\n\nIn this section, consider responsibilities before counting personnel. The protectee is not a member of the protection force.\n\n- PPO/BG: Has direct protection responsibility for the VIP. Avoid additional coordination duties that would distract from this task.\n- PET: Escort officers perform defined duties and remain coordinated with the PPO.\n- Drivers: Are responsible for their vehicles, driving decisions and assigned movement coordination.\n- FPU support personnel: Perform assigned tasks around the team, at venues or along the journey.\n- Command / coordination: Integrates responsibilities and manages changes within the authorized scope.\n\nThe Box and Diamond illustrations below show four PET officers and one BG/PPO: Five protection officers on foot. If two separate drivers are also assigned, those functions involve seven personnel before further support is counted. This is the count for the illustrated configuration, not a compulsory establishment for every task.\n\n3.3. Recognizing foot formations\n\nIn the figures, P identifies the protectee and BG identifies the bodyguard. Each arrow shows that diagram's direction of movement. Other abbreviations identify positions or functions using the English labels in the figure.\n\n**a. Box formation**\n\nObserve the four positions at the corners of the box. The BG stays near P while the PET provides an additional protection layer. Relate each position to its assigned responsibilities and communication with the other officers.\n\n[[figure:box]]\n\nRemember: There are five protection officers. P is the protectee and is not included in those five. Selection of the Box must consider space, threat and the team's ability to coordinate.\n\n**b. Diamond formation**\n\nPET officers occupy the diamond's points around P and the BG. Its public presentation differs from the Box. Formation selection must therefore also consider the movement of people and the intended level of visibility.\n\n[[figure:diamond]]\n\nRemember: Changing the shape does not change the BG/PPO's direct responsibility for the protectee.\n\n**c. V formation**\n\nObserve the officers along the sides and rear of the V in the figure. Understand the arrangement together with movement conditions and contact with a crowd. A formation's name does not itself determine how to manage a particular crowd.\n\n[[figure:v]]\n\nRemember: Officers must understand the function of their assigned position, rather than merely reproduce a shape.\n\n**d. Low-profile configurations**\n\nThe following figures show two, three and four protection officers. Count all officers shown in each configuration; the BG is already included. P remains the protectee.\n\n[[figure:low2]]\n\nIn the two-officer configuration, the BG and officer 1 are the two protection officers. Do not add a third PPO because you are used to the counting arrangement in the Box.\n\n[[figure:low3]]\n\nIn the three-officer configuration, the BG works with officers 1 and 2. A different team size requires suitable responsibilities; it is not simply a larger formation with people removed.\n\n[[figure:low4]]\n\nIn the four-officer configuration, the BG works with three other officers. Low profile describes visibility. It does not imply low risk or reduced preparation requirements.\n\n3.4. FPU support to a delegation on foot\n\nDistinguish the close protection team in the centre from the FPU officers supporting it. Both contribute to the VIP's safety but have different tasks.\n\n**a. FPU support to the Box**\n\n[[figure:support19]]\n\nObserve the two arrangements. Focus on the relationship between the close protection team's working area and the supporting force's duties. Each person must know their responsibility, reporting contact and coordination arrangements when the programme changes.\n\n**b. FPU support to the Diamond**\n\n[[figure:support20]]\n\nWhen the close protection team uses the Diamond, supporting personnel must still maintain their assigned duties. Do not move independently without coordination or allow all support personnel to concentrate at one point.\n\n**c. FPU support to the V**\n\n[[figure:support21]]\n\nThe two options illustrate different support arrangements. Personnel figures below the illustrations describe the supporting element. Do not mechanically substitute them for the close protection personnel in the centre.\n\n**d. Support when the public is on both sides**\n\n[[figure:support22]]\n\nFollow the delegation's direction of movement and the distribution of supporting officers on both sides. Maintain coordination, assigned duties and appropriate conduct towards the public. A large gathering does not by itself indicate violent behaviour.\n\nThe diagrams explain the structure of cooperation. Spacing, individual movements and formation transitions require instructor demonstration, supervised practice and correction in suitable training conditions.\n\n3.5. Direct protection communications\n\nMaintain communications throughout the task, particularly at transitions such as leaving a building, walking, embarking, disembarking and reception at a venue.\n\nAgree beforehand:\n1. Who sends and receives each type of information.\n2. Which messages require acknowledgement and confirmation of understanding.\n3. How to describe locations and reference directions.\n4. Primary links, backups and disruption reporting.\n\nAn initial message must enable officers to recognize the same incident. Avoid statements such as “There is a problem over there” without a clear location or description. If a clock-face direction convention is used, agree its reference direction before the task.\n\n3.6. Mobile protection and vehicle functions\n\nIn mobile protection, determine each vehicle's function before listing vehicles. Two vehicles of the same model may have different responsibilities.\n\n| Component | Main function to distinguish |\n| --- | --- |\n| Point Car | Reports conditions ahead and whether the journey can continue |\n| Lead Car | Helps coordinate the convoy's pace and cohesion |\n| Protectee Vehicle — PV | Carries the protectee, with the PPO according to the assigned configuration |\n| PET Car | Carries escort officers and performs assigned support duties |\n| Pilot Vehicle | Provides local route knowledge and coordination where required |\n| Rear Vehicle | Performs rear support duties when included in the plan |\n| CAT Vehicle | A specialist element considered according to the threat and an authorized decision |\n| Sweep Car | Provides incident support and external coordination under the plan |\n\nNot every task needs every component. Before adding a vehicle, identify its task, communication contacts and support requirements. Select convoy size according to the task and risk assessment. Avoid vehicles with no clear function.\n\n3.7. Drivers and vehicle preparation\n\nDrivers need competence appropriate to the assigned role and remain accountable for driving decisions. The priority is a safe journey for the protectee, road users and protection personnel.\n\nThe checklist must establish:\n- Mechanical condition and availability.\n- Fuel, communications equipment and required accessories.\n- Driver assignments and understanding of the task.\n- Reception, embarking, disembarking and support to occupants.\n- Existing limitations, corrective responsibility and confirmation time.\n\nOvertaking traffic, vehicle breakdowns or changing conditions can affect convoy cohesion. Responses must follow the plan and trained capabilities. Specialist driving manoeuvres require authorized conditions and appropriately trained drivers.\n\n3.8. Mobile communications and medical support\n\nPrepare three communication links: Within the convoy; between the convoy and destination; and between the convoy and operations centre. During transfer to another area, confirm that the new contact has accepted responsibility before ending the previous link.\n\nDo not assess communications only by the number of radios available. Test actual connections, power, batteries, accessories and disruption arrangements. Digital radios or call signs alone do not guarantee information security; use approved systems and procedures.\n\nFor medical support, identify the responsible provider, initial-care capability, appropriate receiving facility and how to request assistance. A telephone number in the plan is useful only if the contact can be reached and can meet the task's needs.\n\n3.9. Protection at a venue\n\nVenue preparation begins with information gathering, liaison and reconnaissance. Understand the premises' use, current activities, movement of people, access conditions and changes that may affect safety.\n\nWork with someone who knows the premises. Drawings support orientation but cannot show every change, such as ongoing repairs, a blocked passage or lighting that is not functioning.\n\nAt the coordination meeting, confirm:\n1. The participating organizations and their responsibilities.\n2. Conditions for the event, reception and support to the delegation.\n3. Command, security, communications and medical contacts.\n4. Who may authorize changes or discontinue activities.\n5. How decisions reach all affected elements.\n\n3.10. Organizing protection in depth\n\nProtection in depth creates mutually supporting functional layers. It improves awareness, access management and time to respond.\n\n| Functional layer | Focus |\n| --- | --- |\n| Outer | Awareness of approaching activity and coordination with relevant partners |\n| Intermediate | Boundaries of controlled space, guidance and access authorization |\n| Inner | Maintaining the security of the area and coordinating with direct protection officers |\n\nEvery layer needs responsible personnel and reporting arrangements. Do not interpret the layers as three lines of officers at fixed distances. Organization depends on the task, environment and threat.\n\nAfter an area has been checked, maintain control. New people, equipment or activities may change the conditions previously confirmed. Specialist checks must be assigned only to competent, authorized personnel.\n\n3.11. Incidents and reporting\n\nDuring an incident, keep direct responsibility for the VIP and support coordination clear. Each officer performs their assigned function; avoid having everyone abandon their task to concentrate on another activity.\n\nThe initial report should help command answer four questions:\n1. Where is the incident?\n2. Which people or parties are involved?\n3. What action has the team taken?\n4. What assistance is required?\n\nThese are the four core information requirements of the LIAR reporting framework used in this lesson. Distinguish observations from unverified information and provide updates as events develop.\n\n3.12. Completion and debriefing\n\nEnd the task according to the assignment and appropriate confirmation. Account for personnel, vehicles and equipment; complete handover; record changes and incidents; and complete reporting and debriefing.\n\nDebriefing should identify objectives, results, limitations, causes and corrective actions. “Completed safely” alone does not explain coordination or lessons to improve. Protect personal data and operational information throughout the records."
+      },
+      "sourceRefs": [
+        {
+          "id": "VIP-2015",
+          "pdfPages": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "id": "application",
+      "title": {
+        "vi": "4. Vận dụng vào nhiệm vụ"
+      },
+      "body": {
+        "vi": "4.1. Trước nhiệm vụ\n\n- Làm rõ nhiệm vụ FPU được giao và phần việc thuộc tổ bảo vệ tiếp cận.\n- Xác nhận chỉ huy, đầu mối phối hợp và người có quyền thay đổi phương án.\n- Ghi các dữ kiện đã xác nhận và các điều kiện còn thiếu về chương trình, địa điểm, phương tiện, liên lạc và y tế.\n- Kiểm tra con người, phương tiện và thiết bị theo chức năng thực tế. Ghi hạn chế cùng ảnh hưởng, người khắc phục và thời điểm xác nhận lại.\n- Phổ biến nhiệm vụ; yêu cầu người nhận trình bày lại phần việc, đầu mối và cách báo tình huống.\n\n4.2. Khi di chuyển hoặc bàn giao\n\nKhông chỉ kiểm tra “đã tới giờ chưa”; cần xác nhận bộ phận tiếp nhận đã sẵn sàng, thông tin thay đổi đã được truyền tới người liên quan và các hạn chế đang được xử lý. Mỗi điểm chuyển giữa đi bộ, lên xuống xe, hành trình và hoạt động tại địa điểm phải có sự phối hợp của các bên chịu trách nhiệm.\n\n4.3. Khi có thay đổi\n\nTiếp nhận thông tin → xác minh nội dung và mức khẩn cấp → báo theo tuyến → đánh giá ảnh hưởng → nhận quyết định theo thẩm quyền → cập nhật các bên → xác nhận đã hiểu thay đổi. Trong tình huống khẩn cấp, thực hiện theo quy trình được giao và đã huấn luyện.\n\n4.4. Bảng kiểm phân công\n\n| Phần việc | Người phụ trách | Đầu mối phối hợp | Bằng chứng sẵn sàng | Hạn chế/cần xác minh |\n| --- | --- | --- | --- | --- |\n| Hỗ trợ địa điểm | Theo phân công | Ban tổ chức/đầu mối an ninh | Đã kiểm tra và xác nhận tiếp nhận | Điều kiện chưa xác nhận |\n| Phương tiện | Theo phân công | Chỉ huy đoàn/điểm đến | Xe và lái xe được kiểm tra | Xe dự phòng hoặc hạn chế kỹ thuật |\n| Thông tin | Theo phân công | Các nhóm và trung tâm | Đã thử kết nối theo phương án | Phần liên lạc chưa thông suốt |\n| Y tế | Theo phân công | Đầu mối chuyên môn | Đã xác nhận năng lực và liên hệ | Thời gian hoặc khả năng tiếp nhận |\n\n4.5. Hồ sơ phục vụ nhiệm vụ\n\nDuy trì bảng phân công, danh sách điều kiện sẵn sàng, phiếu ghi thay đổi, báo cáo sự việc ngắn và nhận xét sau nhiệm vụ. Các hồ sơ cần làm rõ điều đã biết, điều còn thiếu, người chịu trách nhiệm và việc tiếp theo. Tài liệu học tập sử dụng thông tin giả định, không chứa lịch trình hoặc dữ liệu của một nhiệm vụ bảo vệ thật.",
+        "en": "4.1. Before the task\n\n- Clarify the FPU's assigned responsibility and the duties of the close protection team.\n- Confirm command, coordination contacts and authority to change the plan.\n- Record confirmed information and outstanding conditions concerning the programme, venue, vehicles, communications and medical support.\n- Check personnel, vehicles and equipment against their actual functions. Record limitations, their effects, the person responsible for correction and the time for confirmation.\n- Brief personnel and ask recipients to explain their tasks, contacts and reporting arrangements in their own words.\n\n4.2. During movement or handover\n\nDo not check only whether the scheduled time has arrived. Confirm that the receiving element is ready, changes have reached those affected and limitations are being addressed. Every transition between foot movement, embarking or disembarking, vehicle travel and venue activities requires coordination between the responsible parties.\n\n4.3. Managing a change\n\nReceive the information → Verify its content and urgency → Report through the chain → Assess effects → Obtain an authorized decision → Update the parties → Confirm understanding. In an emergency, apply the procedures assigned and practised for the task.\n\n4.4. Responsibility matrix\n\n| Task | Responsible person | Coordination contact | Evidence of readiness | Limitations / verification needed |\n| --- | --- | --- | --- | --- |\n| Venue support | Complete according to assignment | Organizers / security contact | Checks and reception confirmed | Outstanding conditions |\n| Vehicles | Complete according to assignment | Convoy command / destination | Vehicles and drivers checked | Backup or technical limitations |\n| Communications | Complete according to assignment | Teams and operations centre | Connections tested under the plan | Incomplete communication links |\n| Medical support | Complete according to assignment | Medical contact | Capability and contact confirmed | Access time or reception capability |\n\n4.5. Records supporting the task\n\nMaintain a responsibility matrix, readiness checklist, change record, short incident report and post-task review. These products should identify what is known, what remains unconfirmed, who is responsible and what action follows. Use fictitious details in learning material rather than information from an actual protection operation."
+      },
+      "sourceRefs": [
+        {
+          "id": "VIP-2015",
+          "pdfPages": [
+            7,
+            9,
+            10,
+            13,
+            20,
+            22,
+            24,
+            32,
+            33,
+            40,
+            41,
+            42,
+            43
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mistakes",
+      "title": {
+        "vi": "6. Sai sót thường gặp và điểm cần lưu ý"
+      },
+      "body": {
+        "vi": "| Sai sót | Vì sao có vấn đề | Cách kiểm tra/khắc phục |\n| --- | --- | --- |\n| Chọn đội hình trước khi hiểu nhiệm vụ | Biện pháp có thể không phù hợp không gian và nguy cơ | Nêu căn cứ, mục tiêu và giới hạn trước lựa chọn |\n| Đếm bốn PET thành tổng bốn người | Bỏ PPO, lái xe và thành phần hỗ trợ | Tách chức năng, đối chiếu chú thích từng hình |\n| Giao PPO đồng thời điều phối tất cả | Có thể làm phân tán trách nhiệm bảo vệ trực tiếp | Kiểm tra cơ cấu chỉ huy và phân công |\n| Dịch Point/Lead/Pilot thành một loại xe | Mất khác biệt trách nhiệm và tuyến thông tin | Dùng bảng thuật ngữ và nhiệm vụ từng xe |\n| Thêm xe không có chức năng rõ | Tăng yêu cầu điều phối và bảo đảm | Giải thích nhiệm vụ của từng xe trước khi bổ sung |\n| Coi lịch đã chốt là bằng chứng địa điểm sẵn sàng | Điều kiện thực tế có thể đã đổi | Có xác nhận của bộ phận tiếp nhận và xử lý hạn chế |\n| Có máy bộ đàm là coi đã liên lạc được | Có thể thiếu nguồn, phụ kiện hoặc không kết nối được | Thử thực tế các đầu mối theo phương án |\n| Coi vùng đã kiểm tra luôn an toàn | Người, vật và điều kiện có thể thay đổi sau kiểm tra | Duy trì kiểm soát và rà soát khi thay đổi |\n| Báo cáo chỉ ghi “an toàn, đúng kế hoạch” | Không cho thấy hạn chế, thay đổi và quyết định | Ghi dữ kiện, tác động, xử lý, kết quả và việc tiếp theo |\n| Áp dụng cứng một quân số hoặc số xe cho mọi nhiệm vụ | Nhầm ví dụ/khuyến nghị với yêu cầu bắt buộc | Đánh giá nhiệm vụ, rủi ro và nguồn lực trước khi lựa chọn |\n\nKhông bỏ qua: an toàn giao thông; người có nhu cầu hỗ trợ tại địa điểm; tính tương xứng trong ứng xử; bảo vệ dữ liệu; phối hợp y tế; điều kiện kết thúc nhiệm vụ. Đám đông đông người không tự đồng nghĩa có hành vi bạo lực.",
+        "en": "| Common error | Why it matters | Check / correction |\n| --- | --- | --- |\n| Selecting a formation before understanding the task | The measure may not suit the space or risk | Explain the basis, purpose and limits first |\n| Counting four PET officers as four personnel in total | The PPO, drivers and supporting personnel are omitted | Separate roles and check each figure's caption |\n| Making the PPO coordinate every element | Direct protection duties may be disrupted | Review the command structure and allocation of responsibilities |\n| Treating Point, Lead and Pilot vehicles as identical | Responsibilities and information flows become unclear | Use the terminology table and assigned vehicle functions |\n| Adding vehicles without defined functions | Coordination and support requirements increase | Explain each vehicle's task before adding it |\n| Treating a fixed schedule as proof that a venue is ready | Actual conditions may have changed | Obtain confirmation from the receiving element and resolve limitations |\n| Assuming available radios mean working communications | Power, accessories or connections may be missing | Test actual contact under the plan |\n| Assuming a checked area stays secure indefinitely | People, items and conditions may change | Maintain control and review changes |\n| Reporting only “Safe and according to plan” | Limitations, changes and decisions remain invisible | Record facts, effects, actions, results and follow-up |\n| Applying one personnel or vehicle configuration to every task | Examples or recommendations are mistaken for requirements | Assess the task, risks and resources before selecting the configuration |\n\nPoints to retain: Road safety; people needing assistance at the venue; proportionate conduct; data protection; medical coordination; and task termination arrangements. A large crowd is not, by itself, evidence of violent behaviour."
+      },
+      "sourceRefs": [
+        {
+          "id": "VIP-2015",
+          "pdfPages": [
+            7,
+            13,
+            14,
+            15,
+            16,
+            17,
+            24,
+            26,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            40,
+            43,
+            44,
+            46,
+            47
+          ]
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": {
+        "vi": "7. Tổng kết và tự kiểm tra"
+      },
+      "body": {
+        "vi": "1. Kết nối bảo vệ trực tiếp, cơ động và tĩnh trong một phương án thống nhất.\n2. Phân biệt PPO, PET, lái xe và lực lượng hỗ trợ trước khi đếm quân số.\n3. Lựa chọn đội hình theo nguy cơ, không gian, lực lượng và mức độ hiện diện phù hợp.\n4. Giao chức năng rõ ràng cho từng xe; giữ yêu cầu an toàn giao thông và năng lực lái xe.\n5. Xác nhận thông tin, y tế và tiếp nhận bằng khả năng thực tế.\n6. Thông báo, đánh giá và xử lý thay đổi theo thẩm quyền.\n7. Kết thúc bằng xác nhận, bàn giao, báo cáo và tổng kết.\n\nSau khi học, hãy tự kiểm tra: Tôi đã giải thích được vì sao cần mỗi thành phần chưa? Tôi có phân biệt được người được bảo vệ với cán bộ bảo vệ không? Tôi có biết những thông tin nào phải xác nhận trước khi báo sẵn sàng không?\n\nHoàn thành 12 câu kiểm tra nhận thức. Mục tiêu tự học là trả lời đúng ít nhất 10 câu và hiểu được phần giải thích. Với câu trả lời sai, quay lại mục tương ứng để ôn tập. Kết quả này phản ánh kiến thức; kỹ năng thực hành được đánh giá riêng.",
+        "en": "1. Connect direct, mobile and static protection within one integrated plan.\n2. Distinguish the PPO, PET, drivers and supporting personnel before counting the team.\n3. Select formations according to threat, space, personnel and appropriate visibility.\n4. Assign each vehicle a clear function; retain road-safety and driver-competence requirements.\n5. Confirm communications, medical support and reception through actual capability.\n6. Report, assess and manage changes within the assigned authority.\n7. Complete the task through confirmation, handover, reporting and debriefing.\n\nAfter studying, ask yourself: Can I explain why each component is needed? Can I distinguish the protectee from protection personnel? Do I know what must be confirmed before reporting readiness?\n\nComplete the 12-question Knowledge Check. The self-study target is at least 10 correct answers and an understanding of the explanations. For incorrect answers, return to the relevant section. This result reflects knowledge; practical skills require separate assessment."
+      },
+      "sourceRefs": [
+        {
+          "id": "VIP-2015",
+          "pdfPages": [
+            2,
+            7,
+            13,
+            14,
+            15,
+            16,
+            17,
+            24,
+            32,
+            33,
+            43,
+            49
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sources",
+      "title": {
+        "vi": "8. Tài liệu nguồn và hướng dẫn đọc"
+      },
+      "body": {
+        "vi": "Nguồn chính: UN Peacekeeping PDT Standards for Formed Police Units, 1st edition 2015 — Basic Tactics on VIP Protection, tệp PDF 49 trang. Bài được đối chiếu nội dung trích xuất từ bản PDF lưu trong dự án. Tiêu đề metadata kỹ thuật của tệp không khớp; tên tài liệu trong bài lấy từ trang bìa và nội dung, không lấy từ thuộc tính Title của PDF.\n\nSố trang trong bài đọc là số trang tệp PDF, tính từ 1, không phải số in ở chân trang. Ví dụ trang PDF 14 có số chân trang 13. Số slide là số được ghi trong tài liệu.\n\nPhạm vi đọc:\n- PDF 2–4: mục tiêu, thời lượng và yêu cầu huấn luyện.\n- PDF 7–11: khung lập kế hoạch, nguy cơ, phân công và các hình thức bảo vệ.\n- PDF 12–22: bảo vệ trực tiếp, quân số, đội hình, FPU hỗ trợ, thông tin và báo cáo.\n- PDF 23–38: bảo vệ cơ động, lái xe, các loại xe, liên lạc và nhóm tình huống thực hành.\n- PDF 39–48: bảo vệ tĩnh, phối hợp, khảo sát, các lớp bảo vệ và kiểm tra địa điểm.\n- PDF 49: tổng kết và nội dung thực hành.\n\nNguồn 2015 có nhắc các hướng dẫn UN, DUF và SOP. Bản này không tuyên bố đã truy cập hoặc kiểm chứng toàn bộ các tài liệu được nguồn dẫn lại. Giảng viên cần bổ sung văn bản áp dụng tại phái bộ khi sử dụng trong huấn luyện chính thức.\n\nPhân biệt nguồn và biên soạn: thuật ngữ, phân loại, chức năng và ví dụ quân số được diễn giải từ nguồn; Mẫu bảng, câu hỏi, đáp án và thang điểm do Handbook biên soạn. Không ghi các phần biên soạn đó là mẫu hoặc tiêu chuẩn chính thức của UN.\n\nBảng đối chiếu giúp người duyệt kiểm tra độ bao phủ. Các nội dung được đánh dấu cần thực hành vẫn phải được học trực tiếp với giảng viên; có tên mục không có nghĩa đã tái hiện mọi slide. Hình nguồn được liên kết để đọc trực tiếp. Bản tiếng Anh do Handbook biên dịch phục vụ học tập, không phải bản dịch chính thức của UN.",
+        "en": "Primary source: Basic Tactics on VIP Protection — UN Peacekeeping PDT Standards for Formed Police Units, 1st edition 2015, a 49-page PDF. The text was checked against the PDF extract retained in the project. Its technical metadata title is inconsistent; the lesson uses the title on the cover and in the content rather than the PDF Title property.\n\nPage numbers refer to the PDF file, starting at 1, not the printed footer. For example, PDF page 14 has footer page 13. Slide numbers are those shown in the document.\n\nReading areas:\n- PDF 2–4: Aims, duration and training requirements.\n- PDF 7–11: Planning, risk, responsibilities and forms of protection.\n- PDF 12–22: Direct protection, personnel, formations, FPU support, communications and reporting.\n- PDF 23–38: Mobile protection, driving, vehicle types, communications and practical sequences.\n- PDF 39–48: Static protection, liaison, reconnaissance, protective layers and venue checks.\n- PDF 49: Summary and practical training.\n\nThe 2015 source refers to other UN guidance, DUF and SOPs. This preview does not claim that every document cited by the source has been accessed or verified. Instructors must add currently applicable mission instructions when using the material for formal training.\n\nSource versus authorship: Terminology, categories, functions and personnel examples are paraphrased from the source. The responsibility matrix, readiness prompts, questions, answers and suggested scoring were developed by Handbook. They are not presented as official UN templates or certification standards.\n\nThe coverage table supports content review. Where a topic requires practice, describing its purpose is not equivalent to reproducing each movement sequence. The source diagrams remain linked for direct consultation. The English version is a Handbook translation for learning and is not an official UN translation."
+      },
+      "sourceRefs": [
+        {
+          "id": "VIP-2015",
+          "pdfPages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "FPU16-Q01",
+      "question": {
+        "vi": "Ba hình thức bảo vệ được phân biệt trong bài là gì?",
+        "en": "Which three forms of protection are distinguished in this lesson?"
+      },
+      "options": [
+        {
+          "vi": "Trực tiếp, cơ động và tĩnh",
+          "en": "Direct, mobile and static"
+        },
+        {
+          "vi": "Trước, trái và phải",
+          "en": "Front, left and right"
+        },
+        {
+          "vi": "Công khai, bí mật và điều tra",
+          "en": "Overt, covert and investigative"
+        },
+        {
+          "vi": "Cá nhân, tổ và đội",
+          "en": "Individual, team and unit"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Đây là ba hình thức theo hoạt động bảo vệ; một chương trình có thể sử dụng cả ba.",
+        "en": "These are the three activity-based forms; one programme may involve all three."
+      },
+      "origin": "handbook_authored"
+    },
+    {
+      "id": "FPU16-Q02",
+      "question": {
+        "vi": "Ví dụ có 4 PET, 1 PPO và 2 lái xe riêng. Tổng trước khi tính lực lượng hỗ trợ là bao nhiêu?",
+        "en": "A configuration has four PET officers, one PPO and two separate drivers. What is the total before additional support?"
+      },
+      "options": [
+        {
+          "vi": "4",
+          "en": "Four"
+        },
+        {
+          "vi": "5",
+          "en": "Five"
+        },
+        {
+          "vi": "7",
+          "en": "Seven"
+        },
+        {
+          "vi": "Luôn là 9",
+          "en": "Always nine"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "4 + 1 + 2 = 7 người trong chính ví dụ; không phải biên chế bắt buộc.",
+        "en": "4 + 1 + 2 = 7 in this example. It is not a compulsory establishment."
+      },
+      "origin": "handbook_authored"
+    },
+    {
+      "id": "FPU16-Q03",
+      "question": {
+        "vi": "Vì sao không nên đồng thời giao PPO điều phối mọi bộ phận?",
+        "en": "Why should the PPO not also coordinate every element?"
+      },
+      "options": [
+        {
+          "vi": "Vì PPO không cần biết kế hoạch",
+          "en": "The PPO does not need the plan"
+        },
+        {
+          "vi": "Vì việc đó có thể làm phân tán trách nhiệm bảo vệ trực tiếp",
+          "en": "It may distract the PPO from direct protection duties"
+        },
+        {
+          "vi": "Vì PET luôn cao cấp hơn PPO",
+          "en": "PET officers always outrank the PPO"
+        },
+        {
+          "vi": "Vì chỉ lái xe được quyền chỉ huy",
+          "en": "Only drivers may command"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Điểm cần nhớ: PPO không nên bị phân tán bởi trách nhiệm ra lệnh và điều phối toàn bộ nhóm.",
+        "en": "Avoid distracting the PPO with responsibility for directing and coordinating the entire team."
+      },
+      "origin": "handbook_authored"
+    },
+    {
+      "id": "FPU16-Q04",
+      "question": {
+        "vi": "Căn cứ nào phù hợp khi lựa chọn đội hình đi bộ?",
+        "en": "What provides an appropriate basis for selecting a foot formation?"
+      },
+      "options": [
+        {
+          "vi": "Hình nào dễ nhớ nhất",
+          "en": "The easiest shape to remember"
+        },
+        {
+          "vi": "Mọi nhiệm vụ dùng cùng một hình",
+          "en": "Using the same shape for every task"
+        },
+        {
+          "vi": "Chỉ dựa vào số người hiện có",
+          "en": "Only the personnel available"
+        },
+        {
+          "vi": "Nguy cơ, lực lượng, môi trường và mức độ biểu hiện",
+          "en": "Risk, personnel, environment and desired profile"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "vi": "Đội hình phải phù hợp điều kiện nhiệm vụ, không phải một công thức duy nhất.",
+        "en": "Formation selection depends on task conditions, not a single universal formula."
+      },
+      "origin": "handbook_authored"
+    },
+    {
+      "id": "FPU16-Q05",
+      "question": {
+        "vi": "Khi đọc hình Low-profile hai người, cách tính nào đúng?",
+        "en": "How should a two-officer low-profile diagram be read?"
+      },
+      "options": [
+        {
+          "vi": "Tự cộng thêm một PPO",
+          "en": "Automatically add a separate PPO"
+        },
+        {
+          "vi": "Đọc đúng chú thích xem hai người đó đảm nhiệm chức năng gì",
+          "en": "Check the caption and the roles of the two officers"
+        },
+        {
+          "vi": "Luôn cộng thêm bốn PET",
+          "en": "Always add four PET officers"
+        },
+        {
+          "vi": "Coi hai người đủ cho mọi nguy cơ",
+          "en": "Assume two officers cover any threat"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Không chuyển cách đếm của Box sang một hình khác khi chú thích không quy định như vậy.",
+        "en": "Do not transfer the counting method of another formation when the caption does not support it."
+      },
+      "origin": "handbook_authored"
+    },
+    {
+      "id": "FPU16-Q06",
+      "question": {
+        "vi": "Quy mô đoàn xe bảo vệ cần được xác định như thế nào?",
+        "en": "How should a protection convoy’s size be determined?"
+      },
+      "options": [
+        {
+          "vi": "Theo nhiệm vụ, đánh giá rủi ro và chức năng cần có",
+          "en": "According to the task, risk assessment and required functions"
+        },
+        {
+          "vi": "Bắt buộc mọi đoàn có bốn xe",
+          "en": "Every convoy must have four vehicles"
+        },
+        {
+          "vi": "Mọi xe muốn tham gia đều được bổ sung",
+          "en": "Any vehicle may join"
+        },
+        {
+          "vi": "Áp dụng nguyên vẹn cho mọi đoàn hậu cần",
+          "en": "They apply unchanged to every logistics convoy"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Mỗi xe phải có chức năng rõ ràng. Lựa chọn quy mô theo yêu cầu nhiệm vụ và khả năng phối hợp, không áp dụng cứng một số lượng cho mọi đoàn.",
+        "en": "Every vehicle needs a clear function. Match the configuration to the task and coordination capacity rather than impose one vehicle count on every convoy."
+      },
+      "origin": "handbook_authored"
+    },
+    {
+      "id": "FPU16-Q07",
+      "question": {
+        "vi": "Phát biểu đúng về lái xe bảo vệ là gì?",
+        "en": "Which statement about protection drivers is correct?"
+      },
+      "options": [
+        {
+          "vi": "Có VIP thì được bỏ qua an toàn đường bộ",
+          "en": "A VIP's presence removes road-safety obligations"
+        },
+        {
+          "vi": "Chỉ cần có giấy phép là làm được mọi thao tác bảo vệ",
+          "en": "A licence qualifies a driver for every protection manoeuvre"
+        },
+        {
+          "vi": "Phải được huấn luyện phù hợp và chịu trách nhiệm về quyết định điều khiển xe",
+          "en": "Drivers need suitable training and remain accountable for driving decisions"
+        },
+        {
+          "vi": "Đến nhanh luôn quan trọng nhất",
+          "en": "Arriving quickly is always the priority"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Cần có năng lực phù hợp và ưu tiên hoàn thành hành trình an toàn.",
+        "en": "The task requires appropriate competence and prioritizes completing the journey safely."
+      },
+      "origin": "handbook_authored"
+    },
+    {
+      "id": "FPU16-Q08",
+      "question": {
+        "vi": "Đâu là bằng chứng tốt hơn về khả năng liên lạc?",
+        "en": "Which is stronger evidence of communication readiness?"
+      },
+      "options": [
+        {
+          "vi": "Kho có đủ máy",
+          "en": "Enough radios are in storage"
+        },
+        {
+          "vi": "Đã ghi một số điện thoại",
+          "en": "A telephone number is listed"
+        },
+        {
+          "vi": "Thiết bị có màn hình kỹ thuật số",
+          "en": "Equipment has a digital display"
+        },
+        {
+          "vi": "Các đầu mối đã thử kết nối theo phương án và nhận rõ cách xử lý khi gián đoạn",
+          "en": "Contacts have tested the planned links and understand arrangements for disruption"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "vi": "Số lượng thiết bị không tự chứng minh liên lạc hoạt động.",
+        "en": "Equipment numbers alone do not prove that communications work."
+      },
+      "origin": "handbook_authored"
+    },
+    {
+      "id": "FPU16-Q09",
+      "question": {
+        "vi": "Địa điểm đã kiểm tra nhưng có thêm nhà thầu đưa thiết bị vào. Cần làm gì?",
+        "en": "A checked venue later receives contractors and equipment. What is appropriate?"
+      },
+      "options": [
+        {
+          "vi": "Mặc định không có thay đổi",
+          "en": "Assume nothing has changed"
+        },
+        {
+          "vi": "Ghi nhận thay đổi, báo đầu mối có trách nhiệm xác minh và quyết định theo tuyến",
+          "en": "Record the change and report it for verification and an authorized decision"
+        },
+        {
+          "vi": "Kết luận ngay nhà thầu là đối tượng nguy hiểm",
+          "en": "Immediately label the contractors a threat"
+        },
+        {
+          "vi": "Tự cấp quyền khám xét cho bất kỳ thành viên nào",
+          "en": "Give any officer independent search authority"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Không suy đoán nguy hiểm; cần xác minh điều kiện thay đổi và giữ đúng thẩm quyền.",
+        "en": "Do not infer a threat. Verify changed conditions and keep within the assigned authority."
+      },
+      "origin": "handbook_authored"
+    },
+    {
+      "id": "FPU16-Q10",
+      "question": {
+        "vi": "Một báo cáo theo khung LIAR cần thể hiện những nội dung nào?",
+        "en": "What information should a LIAR report contain?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ cần tên VIP",
+          "en": "Only the VIP's name"
+        },
+        {
+          "vi": "Chỉ số người tham gia",
+          "en": "Only the personnel count"
+        },
+        {
+          "vi": "Vị trí, đối tượng liên quan, phản ứng và nhu cầu trợ giúp",
+          "en": "Location, persons involved, action taken and assistance needed"
+        },
+        {
+          "vi": "Chỉ nói tình hình phức tạp",
+          "en": "Only a statement that the situation is complex"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Bốn nội dung giúp chỉ huy hiểu tình hình và nhu cầu, đồng thời phải tách thông tin chưa xác minh.",
+        "en": "These four elements help command understand the situation and needs; unverified information must be distinguished."
+      },
+      "origin": "handbook_authored"
+    },
+    {
+      "id": "FPU16-Q11",
+      "question": {
+        "vi": "Có đề nghị ghé thêm địa điểm ngoài chương trình, cách xử lý phù hợp là gì?",
+        "en": "An additional destination is requested outside the programme. What is appropriate?"
+      },
+      "options": [
+        {
+          "vi": "Xác minh, báo theo tuyến, đánh giá ảnh hưởng và cập nhật sau quyết định",
+          "en": "Verify, report, assess effects and update after an authorized decision"
+        },
+        {
+          "vi": "Luôn chấp thuận vì là yêu cầu ban tổ chức",
+          "en": "Always agree because the organizer requested it"
+        },
+        {
+          "vi": "Luôn từ chối không cần lý do",
+          "en": "Always refuse without explanation"
+        },
+        {
+          "vi": "Chỉ báo lái xe, không cần các bộ phận khác",
+          "en": "Tell only the driver"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Đó là thay đổi điều kiện nhiệm vụ, có thể ảnh hưởng đến tiếp nhận, phương tiện, y tế và bảo đảm.",
+        "en": "This changes the task conditions and may affect reception, vehicles, medical support and other arrangements."
+      },
+      "origin": "handbook_authored"
+    },
+    {
+      "id": "FPU16-Q12",
+      "question": {
+        "vi": "Đọc xong bài và làm đúng quiz chứng minh điều gì?",
+        "en": "What does completing the lesson and quiz establish?"
+      },
+      "options": [
+        {
+          "vi": "Đã đủ chứng nhận bảo vệ VIP",
+          "en": "Full VIP-protection certification"
+        },
+        {
+          "vi": "Đã đạt mọi bài lái xe",
+          "en": "Completion of every driving assessment"
+        },
+        {
+          "vi": "Được tự triển khai bảo vệ tiếp cận",
+          "en": "Authority to undertake close protection independently"
+        },
+        {
+          "vi": "Đã có kết quả kiểm tra kiến thức; năng lực thực hành vẫn cần đánh giá riêng",
+          "en": "A knowledge-check result; practical competence still needs separate assessment"
+        }
+      ],
+      "correct": 3,
+      "explanation": {
+        "vi": "Kiến thức và kỹ năng phải được đánh giá phù hợp; đọc tài liệu không thay thực hành có giám sát.",
+        "en": "Reading and quiz results do not replace supervised practical assessment."
+      },
+      "origin": "handbook_authored"
+    }
+  ],
+  "references": [
+    {
+      "id": "VIP-2015",
+      "label": "Basic Tactics on VIP Protection — UN Peacekeeping PDT Standards for FPUs, 1st edition 2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-048%20Basic%20tactics%20on%20VIP%20protection.pdf",
+      "pdfPages": 49,
+      "edition": "2015",
+      "note": "Số trang tính theo tệp PDF từ 1; tên theo trang bìa. Đối chiếu văn bản từ bản PDF lưu tại dự án; không khẳng định còn hiệu lực toàn bộ thủ tục tại phái bộ.",
+      "verification": {
+        "text": "reviewed_from_local_pdf_extraction",
+        "figures": "linked_for_review_not_reproduced",
+        "currentMissionProcedures": "not_verified"
+      }
+    }
+  ],
+  "sourceCoverage": [
+    {
+      "topic": "Bối cảnh, mục tiêu và huấn luyện",
+      "sourceId": "VIP-2015",
+      "pdfPages": [
+        2,
+        3,
+        4
+      ],
+      "slides": "1–4",
+      "sectionIds": [
+        "introduction",
+        "foundations"
+      ],
+      "coverageStatus": "summarized",
+      "topicEn": "Context, objectives and training"
+    },
+    {
+      "topic": "Khung kế hoạch và các hình thức",
+      "sourceId": "VIP-2015",
+      "pdfPages": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "slides": "5–9",
+      "sectionIds": [
+        "foundations",
+        "knowledge"
+      ],
+      "coverageStatus": "explained",
+      "topicEn": "Planning framework and forms of protection"
+    },
+    {
+      "topic": "Trực tiếp, quân số và đội hình",
+      "sourceId": "VIP-2015",
+      "pdfPages": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "slides": "10–18",
+      "sectionIds": [
+        "knowledge"
+      ],
+      "coverageStatus": "described_figures_linked",
+      "topicEn": "Direct protection, personnel and formations"
+    },
+    {
+      "topic": "FPU hỗ trợ đi bộ",
+      "sourceId": "VIP-2015",
+      "pdfPages": [
+        18,
+        19
+      ],
+      "slides": "19–22",
+      "sectionIds": [
+        "knowledge"
+      ],
+      "coverageStatus": "described_requires_practice",
+      "topicEn": "FPU support to foot formations"
+    },
+    {
+      "topic": "Thông tin, chức năng khi có sự cố và báo cáo",
+      "sourceId": "VIP-2015",
+      "pdfPages": [
+        20,
+        21,
+        22
+      ],
+      "slides": "23–31",
+      "sectionIds": [
+        "knowledge",
+        "application"
+      ],
+      "coverageStatus": "explained_requires_practice",
+      "topicEn": "Communications, incident functions and reporting"
+    },
+    {
+      "topic": "Cơ động, phương tiện và lái xe",
+      "sourceId": "VIP-2015",
+      "pdfPages": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "slides": "32–41",
+      "sectionIds": [
+        "knowledge"
+      ],
+      "coverageStatus": "explained",
+      "topicEn": "Mobile protection, vehicles and driving"
+    },
+    {
+      "topic": "Liên lạc cơ động",
+      "sourceId": "VIP-2015",
+      "pdfPages": [
+        32,
+        33
+      ],
+      "slides": "42",
+      "sectionIds": [
+        "knowledge"
+      ],
+      "coverageStatus": "explained",
+      "topicEn": "Mobile communications"
+    },
+    {
+      "topic": "Các chuỗi vận động xe",
+      "sourceId": "VIP-2015",
+      "pdfPages": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "slides": "43–125",
+      "sectionIds": [
+        "knowledge"
+      ],
+      "coverageStatus": "described_requires_practice",
+      "topicEn": "Vehicle movement sequences"
+    },
+    {
+      "topic": "Bảo vệ tĩnh và chuẩn bị địa điểm",
+      "sourceId": "VIP-2015",
+      "pdfPages": [
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "slides": "126–128",
+      "sectionIds": [
+        "knowledge",
+        "application"
+      ],
+      "coverageStatus": "explained",
+      "topicEn": "Static protection and venue preparations"
+    },
+    {
+      "topic": "Chiều sâu và kiểm tra địa điểm",
+      "sourceId": "VIP-2015",
+      "pdfPages": [
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "slides": "129–135",
+      "sectionIds": [
+        "knowledge",
+        "mistakes"
+      ],
+      "coverageStatus": "explained_requires_practice",
+      "topicEn": "Defence in depth and venue checks"
+    },
+    {
+      "topic": "Tổng kết và thực hành",
+      "sourceId": "VIP-2015",
+      "pdfPages": [
+        49
+      ],
+      "slides": "136–137",
+      "sectionIds": [
+        "review"
+      ],
+      "coverageStatus": "summarized",
+      "topicEn": "Summary and practical competence"
+    }
+  ],
+  "figureReferences": [
+    {
+      "id": "box",
+      "caption": "Box và phân biệt PPO/PET",
+      "sourceId": "VIP-2015",
+      "pdfPage": 14,
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-048%20Basic%20tactics%20on%20VIP%20protection.pdf#page=14",
+      "purpose": "Đọc trực tiếp hình nguồn; không suy diễn hình bằng mô tả chữ.",
+      "captionEn": "Box and the PPO/PET distinction"
+    },
+    {
+      "id": "diamond-v",
+      "caption": "Diamond và V",
+      "sourceId": "VIP-2015",
+      "pdfPage": 15,
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-048%20Basic%20tactics%20on%20VIP%20protection.pdf#page=15",
+      "purpose": "Đọc trực tiếp hình nguồn; không suy diễn hình bằng mô tả chữ.",
+      "captionEn": "Diamond and V formations"
+    },
+    {
+      "id": "low-profile-2-3",
+      "caption": "Low-profile hai và ba người",
+      "sourceId": "VIP-2015",
+      "pdfPage": 16,
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-048%20Basic%20tactics%20on%20VIP%20protection.pdf#page=16",
+      "purpose": "Đọc trực tiếp hình nguồn; không suy diễn hình bằng mô tả chữ.",
+      "captionEn": "Two- and three-officer low-profile formations"
+    },
+    {
+      "id": "low-profile-4",
+      "caption": "Low-profile bốn người",
+      "sourceId": "VIP-2015",
+      "pdfPage": 17,
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-048%20Basic%20tactics%20on%20VIP%20protection.pdf#page=17",
+      "purpose": "Đọc trực tiếp hình nguồn; không suy diễn hình bằng mô tả chữ.",
+      "captionEn": "Four-officer low-profile formation"
+    },
+    {
+      "id": "fpu-support",
+      "caption": "Ví dụ FPU hỗ trợ đoàn đi bộ",
+      "sourceId": "VIP-2015",
+      "pdfPage": 19,
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-048%20Basic%20tactics%20on%20VIP%20protection.pdf#page=19",
+      "purpose": "Đọc trực tiếp hình nguồn; không suy diễn hình bằng mô tả chữ.",
+      "captionEn": "FPU support to a delegation on foot"
+    },
+    {
+      "id": "vehicle-roles",
+      "caption": "Các loại xe trong bảo vệ cơ động",
+      "sourceId": "VIP-2015",
+      "pdfPage": 27,
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-048%20Basic%20tactics%20on%20VIP%20protection.pdf#page=27",
+      "purpose": "Đọc trực tiếp hình nguồn; không suy diễn hình bằng mô tả chữ.",
+      "captionEn": "Vehicle types in mobile protection"
+    },
+    {
+      "id": "static-perimeters",
+      "caption": "Ví dụ các lớp bảo vệ tại địa điểm",
+      "sourceId": "VIP-2015",
+      "pdfPage": 47,
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-048%20Basic%20tactics%20on%20VIP%20protection.pdf#page=47",
+      "purpose": "Đọc trực tiếp hình nguồn; không suy diễn hình bằng mô tả chữ.",
+      "captionEn": "Layers of static protection"
+    }
+  ],
+  "illustrations": {
+    "box": {
+      "src": "lessons/fpu/FPU-16/images/box.jpg",
+      "caption": {
+        "vi": "Đội hình Box: P là VIP; BG và bốn PET là năm cán bộ bảo vệ.",
+        "en": "Box formation: P is the protectee; BG and four PET officers are the five protection officers."
+      },
+      "alt": {
+        "vi": "Đội hình Box: P là VIP; BG và bốn PET là năm cán bộ bảo vệ.",
+        "en": "Box formation: P is the protectee; BG and four PET officers are the five protection officers."
+      },
+      "sourceId": "VIP-2015",
+      "pdfPage": 14,
+      "slide": 12
+    },
+    "diamond": {
+      "src": "lessons/fpu/FPU-16/images/diamond.jpg",
+      "caption": {
+        "vi": "Đội hình Diamond: Nhận diện lớp bảo vệ trực tiếp và các vị trí PET.",
+        "en": "Diamond formation: Identify direct protection and the PET positions."
+      },
+      "alt": {
+        "vi": "Đội hình Diamond: Nhận diện lớp bảo vệ trực tiếp và các vị trí PET.",
+        "en": "Diamond formation: Identify direct protection and the PET positions."
+      },
+      "sourceId": "VIP-2015",
+      "pdfPage": 15,
+      "slide": 13
+    },
+    "v": {
+      "src": "lessons/fpu/FPU-16/images/v.jpg",
+      "caption": {
+        "vi": "Đội hình V: Quan sát vị trí P, BG và các thành viên PET.",
+        "en": "V formation: Observe P, BG and the PET officers."
+      },
+      "alt": {
+        "vi": "Đội hình V: Quan sát vị trí P, BG và các thành viên PET.",
+        "en": "V formation: Observe P, BG and the PET officers."
+      },
+      "sourceId": "VIP-2015",
+      "pdfPage": 15,
+      "slide": 14
+    },
+    "low2": {
+      "src": "lessons/fpu/FPU-16/images/low2.jpg",
+      "caption": {
+        "vi": "Low-profile hai người: BG và cán bộ số 1.",
+        "en": "Two-officer low-profile configuration: BG and officer 1."
+      },
+      "alt": {
+        "vi": "Low-profile hai người: BG và cán bộ số 1.",
+        "en": "Two-officer low-profile configuration: BG and officer 1."
+      },
+      "sourceId": "VIP-2015",
+      "pdfPage": 16,
+      "slide": 15
+    },
+    "low3": {
+      "src": "lessons/fpu/FPU-16/images/low3.jpg",
+      "caption": {
+        "vi": "Low-profile ba người: BG và hai cán bộ còn lại.",
+        "en": "Three-officer low-profile configuration: BG and two other officers."
+      },
+      "alt": {
+        "vi": "Low-profile ba người: BG và hai cán bộ còn lại.",
+        "en": "Three-officer low-profile configuration: BG and two other officers."
+      },
+      "sourceId": "VIP-2015",
+      "pdfPage": 16,
+      "slide": 16
+    },
+    "low4": {
+      "src": "lessons/fpu/FPU-16/images/low4.jpg",
+      "caption": {
+        "vi": "Low-profile bốn người: BG và ba cán bộ còn lại.",
+        "en": "Four-officer low-profile configuration: BG and three other officers."
+      },
+      "alt": {
+        "vi": "Low-profile bốn người: BG và ba cán bộ còn lại.",
+        "en": "Four-officer low-profile configuration: BG and three other officers."
+      },
+      "sourceId": "VIP-2015",
+      "pdfPage": 17,
+      "slide": 17
+    },
+    "support19": {
+      "src": "lessons/fpu/FPU-16/images/support19.jpg",
+      "caption": {
+        "vi": "FPU hỗ trợ Box: Hai phương án phối hợp với tổ bảo vệ tiếp cận.",
+        "en": "FPU support to the Box: Two arrangements coordinated with the close protection team."
+      },
+      "alt": {
+        "vi": "FPU hỗ trợ Box: Hai phương án phối hợp với tổ bảo vệ tiếp cận.",
+        "en": "FPU support to the Box: Two arrangements coordinated with the close protection team."
+      },
+      "sourceId": "VIP-2015",
+      "pdfPage": 18,
+      "slide": 19
+    },
+    "support20": {
+      "src": "lessons/fpu/FPU-16/images/support20.jpg",
+      "caption": {
+        "vi": "FPU hỗ trợ Diamond: Phân biệt lực lượng hỗ trợ với tổ ở trung tâm.",
+        "en": "FPU support to the Diamond: Distinguish support personnel from the team in the centre."
+      },
+      "alt": {
+        "vi": "FPU hỗ trợ Diamond: Phân biệt lực lượng hỗ trợ với tổ ở trung tâm.",
+        "en": "FPU support to the Diamond: Distinguish support personnel from the team in the centre."
+      },
+      "sourceId": "VIP-2015",
+      "pdfPage": 18,
+      "slide": 20
+    },
+    "support21": {
+      "src": "lessons/fpu/FPU-16/images/support21.jpg",
+      "caption": {
+        "vi": "FPU hỗ trợ V: Các phương án có quân số và bố trí hỗ trợ khác nhau.",
+        "en": "FPU support to the V: Options with different support personnel and arrangements."
+      },
+      "alt": {
+        "vi": "FPU hỗ trợ V: Các phương án có quân số và bố trí hỗ trợ khác nhau.",
+        "en": "FPU support to the V: Options with different support personnel and arrangements."
+      },
+      "sourceId": "VIP-2015",
+      "pdfPage": 19,
+      "slide": 21
+    },
+    "support22": {
+      "src": "lessons/fpu/FPU-16/images/support22.jpg",
+      "caption": {
+        "vi": "FPU hỗ trợ khi công chúng đứng hai bên đường di chuyển.",
+        "en": "FPU support when the public is on both sides of the movement route."
+      },
+      "alt": {
+        "vi": "FPU hỗ trợ khi công chúng đứng hai bên đường di chuyển.",
+        "en": "FPU support when the public is on both sides of the movement route."
+      },
+      "sourceId": "VIP-2015",
+      "pdfPage": 19,
+      "slide": 22
+    }
+  },
+  "moduleId": "FPU-M5",
+  "moduleOrder": 3,
+  "lessonOrder": 3,
+  "reader": "fpu16-four-tabs"
+}

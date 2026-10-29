@@ -1,0 +1,755 @@
+{
+  "schemaVersion": 2,
+  "id": "CORE-05",
+  "area": "core",
+  "groupKey": "CORE-M2",
+  "group": {
+    "vi": "Mandate, bảo vệ và các ưu tiên",
+    "en": "Mandates, protection and priorities"
+  },
+  "title": {
+    "vi": "Xây dựng hòa bình và phát triển năng lực cảnh sát nước sở tại",
+    "en": "Peacebuilding and host-State police capacity development"
+  },
+  "summary": {
+    "vi": "Phát triển năng lực cần làm thay đổi cách cơ quan cảnh sát phục vụ người dân, không chỉ tạo thêm lớp học hoặc trang bị. Bài học kết nối xây dựng hòa bình, đánh giá hệ thống, quyền sở hữu quốc gia, MMA, kế hoạch hỗ trợ và đánh giá kết quả.",
+    "en": "Capacity development should improve how police institutions serve people, rather than merely add courses or equipment. Connect peacebuilding, system assessment, national ownership, MMA, support planning and evaluation."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "C10",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-414%20Lesson%202.2%20Part%201%20Implementing%20Peacebuilding%20Activities.zip",
+  "order": 201,
+  "sections": [
+    {
+      "id": "CORE-05-01",
+      "title": {
+        "vi": "1. Xây dựng hòa bình và vai trò của cảnh sát",
+        "en": "1. Peacebuilding and the police contribution"
+      },
+      "body": {
+        "vi": "### 1.1. An ninh trước mắt và hòa bình bền vững\nDừng bạo lực là điều kiện quan trọng, nhưng chưa đủ tạo hòa bình lâu dài. Khi người dân không tiếp cận được công lý, cơ quan an ninh thiếu trách nhiệm hoặc tranh chấp không được giải quyết, nguy cơ xung đột vẫn tồn tại. Xây dựng hòa bình hướng tới những điều kiện giúp xã hội quản lý bất đồng và duy trì an toàn mà không quay lại bạo lực.\n\nPhái bộ có thể đóng vai trò thúc đẩy, kết nối và hỗ trợ theo mandate, nhưng không làm thay toàn bộ tiến trình quốc gia. Công việc cần được tiếp nối bởi cơ quan sở tại, cộng đồng, UN Country Team và đối tác khác. Thành công không chỉ là phái bộ làm được nhiều việc trong thời gian hiện diện, mà còn là năng lực và quan hệ có thể tiếp tục sau chuyển tiếp.\n\n### 1.2. Những lĩnh vực cần phân biệt\n**Hành động bom mìn** giúp giảm nguy cơ vật nổ và tạo điều kiện an toàn cho cuộc sống, hoạt động và phát triển. **DDR** hỗ trợ giải giáp, giải ngũ và tái hòa nhập theo bối cảnh. **Cải cách và quản trị ngành an ninh (SSR&G)** hướng tới cơ quan an ninh chuyên nghiệp, có trách nhiệm và chịu giám sát phù hợp. **Pháp quyền** đòi hỏi cả cảnh sát, tư pháp và hệ thống giam giữ thực hiện chức năng đúng pháp luật.\n\nNhững lĩnh vực này có liên hệ nhưng không phải cùng một chương trình. Đào tạo cảnh sát không tự giải quyết sinh kế của người rời nhóm vũ trang; bắt giữ có căn cứ cũng chưa bảo đảm công lý nếu khâu tiếp theo không hoạt động. Cán bộ cần nhận diện đối tác chuyên môn và giới hạn phần việc của mình, không tự nhận quyền hoặc công việc ngoài năng lực.\n\n### 1.3. Cảnh sát tạo niềm tin bằng cách phục vụ\nMột dịch vụ cảnh sát dễ tiếp cận, không phân biệt đối xử và xử lý công việc có trách nhiệm giúp người dân tìm đến cơ chế hợp pháp để giải quyết vấn đề. Ngược lại, lạm quyền, tham nhũng hoặc bỏ mặc yêu cầu có thể làm sâu bất bình. Vì vậy, hỗ trợ năng lực phải quan tâm cả hiệu quả công việc lẫn cách công việc được thực hiện.\n\n**Điểm cần nhớ:** Phát triển cảnh sát không chỉ nhằm tăng số người hoặc trang bị. Mục tiêu là cơ quan có thể cung cấp dịch vụ hợp pháp, đáp ứng cộng đồng và duy trì kết quả trong hệ thống quốc gia.",
+        "en": "### 1.1. Immediate security and lasting peace\nStopping violence is essential but does not alone establish sustainable peace. Where people cannot access justice, security institutions lack accountability or disputes remain unresolved, conflict risks persist. Peacebuilding strengthens conditions that enable a society to manage disagreement and maintain safety without returning to violence.\n\nA mission may catalyse, connect and support efforts within its mandate; it cannot substitute for the entire national process. National institutions, communities, the UN Country Team and other partners must carry work forward. Success concerns not only mission activity during deployment but also capability and relationships that survive transition.\n\n### 1.2. Distinguish related fields\n**Mine action** reduces explosive hazards and supports safe life, operations and development. **DDR** addresses disarmament, demobilization and reintegration according to the context. **Security sector reform and governance (SSR&G)** support professional, accountable institutions under appropriate oversight. **Rule of law** requires lawful functioning across police, justice and corrections.\n\nThese fields connect but are not one programme. Police training does not by itself provide livelihoods for former armed-group members. Lawful arrest alone cannot ensure justice if subsequent institutions do not function. Identify specialist partners and the limits of your contribution rather than assuming powers or duties beyond competence.\n\n### 1.3. Police build trust through service\nAccessible, non-discriminatory and accountable policing encourages people to use lawful mechanisms. Abuse, corruption and neglect can deepen grievances. Capacity support must therefore address both effectiveness and how work is performed.\n\n**Remember:** Police development is not simply increasing personnel or equipment. It seeks institutions able to provide lawful, responsive services and sustain results within the national system."
+      },
+      "sourceIds": [
+        "C10",
+        "C11"
+      ]
+    },
+    {
+      "id": "CORE-05-02",
+      "title": {
+        "vi": "2. Đánh giá năng lực theo ba cấp độ",
+        "en": "2. Assess capacity at three levels"
+      },
+      "body": {
+        "vi": "### 2.1. Tìm nguyên nhân trước khi chọn giải pháp\nMột vấn đề công việc có thể bắt nguồn từ thiếu kỹ năng, tổ chức yếu, quy định không rõ hoặc nguồn lực không phù hợp. Nếu chưa phân tích mà chọn ngay mở lớp, ta có thể giải quyết biểu hiện thay vì nguyên nhân. Đánh giá cần xác định chức năng phải thực hiện, hiện trạng, khoảng cách và các yếu tố tạo ra khoảng cách đó.\n\nCó thể bắt đầu bằng quan sát công việc, trao đổi với cán bộ và người sử dụng dịch vụ, đọc hồ sơ, quy định và số liệu. Phải phân biệt điều được mô tả trong SOP với điều thực sự diễn ra. Một quy trình tốt trên giấy chưa chứng minh được áp dụng; một nhận xét cá nhân cũng chưa đại diện toàn bộ cơ quan.\n\n### 2.2. Ba cấp độ bổ sung nhau\n**Cấp cá nhân** gồm kiến thức, kỹ năng, hành vi, động lực, năng lực lãnh đạo và khả năng học hỏi. **Cấp tổ chức** gồm cơ cấu, phân công, quy trình, chỉ huy, hệ thống hồ sơ, nguồn lực và cơ chế giám sát. **Môi trường tạo điều kiện** gồm pháp luật, quản trị, quan hệ với cơ quan khác và những yếu tố chính trị, xã hội ảnh hưởng đến hoạt động.\n\nVí dụ để hiểu mối liên hệ: Cán bộ được học viết báo cáo nhưng không có mẫu thống nhất, không được người phụ trách phản hồi hoặc không có cơ chế lưu và chuyển hồ sơ thì năng lực chưa chuyển thành kết quả. Giải pháp cần xét cả kỹ năng cá nhân, quy trình tổ chức và điều kiện phối hợp. Không nên kết luận “cán bộ yếu” khi vấn đề có nhiều tầng nguyên nhân.\n\n### 2.3. Năm lĩnh vực và các chiều cạnh xuyên suốt\nKhi xem hệ thống, cần chú ý tính chuyên nghiệp và liêm chính; hệ thống hành chính; khuôn khổ pháp luật và chính sách; cơ chế trách nhiệm giải trình; sự tham gia của các bên liên quan. Đây là những góc nhìn giúp không bỏ sót yếu tố ngoài huấn luyện nghiệp vụ.\n\nNhân quyền, giới, bảo vệ dân thường, phòng ngừa xung đột và tính bền vững môi trường cần được tích hợp vào phân tích thực hành cảnh sát. Không nên dành một đoạn cuối để nhắc các chủ đề này rồi coi là đã lồng ghép. Chẳng hạn, cải thiện nơi tiếp nhận trình báo phải xem người dân nào đang gặp rào cản, tính riêng tư và an toàn, thay vì chỉ mua thêm bàn ghế. **Điểm cần nhớ:** Chọn giải pháp sau khi hiểu hệ thống và người chịu tác động.",
+        "en": "### 2.1. Diagnose before selecting a solution\nPoor performance may reflect skills gaps, organizational weaknesses, unclear rules or inadequate resources. Choosing training before analysis may treat a symptom rather than its cause. Establish required functions, actual performance, gaps and the factors producing them.\n\nObserve work, consult officers and service users, and review records, rules and data. Distinguish the written procedure from actual practice. A good SOP does not demonstrate implementation, and one person’s opinion does not represent an entire institution.\n\n### 2.2. Three complementary levels\nThe **individual level** concerns knowledge, skills, conduct, motivation, leadership and learning. The **organizational level** concerns structures, tasking, procedures, command, records, resources and oversight. The **enabling environment** includes law, governance, relationships with other institutions and relevant political and social conditions.\n\nAn officer trained in report writing may still lack an agreed format, supervisory feedback or a system to store and transfer records. Training has then not translated into performance. Consider personal skills, institutional processes and coordination conditions rather than labelling officers incompetent when causes lie at several levels.\n\n### 2.3. Five areas and cross-cutting dimensions\nExamine professionalism and integrity, administrative systems, legal and policy frameworks, accountability mechanisms, and stakeholder engagement. These perspectives prevent analysis from focusing solely on technical training.\n\nIntegrate human rights, gender, civilian protection, conflict prevention and environmental sustainability into police-practice analysis. A paragraph at the end is not mainstreaming. Improving a reporting desk, for example, requires examining access barriers, privacy and safety, rather than merely buying furniture. **Remember:** Understand the system and affected people before selecting solutions."
+      },
+      "sourceIds": [
+        "U38"
+      ]
+    },
+    {
+      "id": "CORE-05-03",
+      "title": {
+        "vi": "3. Quyền sở hữu quốc gia và sự tham gia có ý nghĩa",
+        "en": "3. National ownership and meaningful participation"
+      },
+      "body": {
+        "vi": "### 3.1. Hỗ trợ để đối tác làm chủ\nQuyền sở hữu quốc gia có nghĩa cơ quan và các chủ thể quốc gia tham gia định hướng, quyết định và chịu trách nhiệm đối với tiến trình phát triển của mình. UN cung cấp hỗ trợ trong phạm vi nhiệm vụ, không áp đặt một bản sao hệ thống cảnh sát của quốc gia khác. Một giải pháp tốt về kỹ thuật nhưng không phù hợp pháp luật, ngân sách hoặc quan hệ tổ chức có thể không được duy trì.\n\nĐối tác cần tham gia từ đánh giá nhu cầu, xác định mục tiêu đến triển khai và đánh giá. Được mời dự một cuộc họp hoặc ký kế hoạch do UN viết sẵn chưa đủ chứng minh làm chủ. Cần kiểm tra họ hiểu, có khả năng thực hiện, có người chịu trách nhiệm và thực sự tham gia lựa chọn hay chưa.\n\n### 3.2. Không đồng nhất lãnh đạo với toàn bộ nhu cầu\nQuan điểm của lãnh đạo cơ quan rất quan trọng nhưng không phải nguồn duy nhất. Cán bộ tuyến cơ sở và người dân có thể cho thấy khoảng trống mà hồ sơ cấp trên chưa phản ánh. Phụ nữ, người khuyết tật, nhóm thiểu số và người sống xa trung tâm có thể gặp rào cản riêng khi sử dụng dịch vụ cảnh sát.\n\nTham vấn cần phù hợp ngôn ngữ, điều kiện tiếp cận, tính an toàn và quyền riêng tư. Không thu thập thông tin chỉ vì có thể thu thập, hoặc hứa giải quyết mọi nhu cầu để khuyến khích tham gia. Cần phản hồi rõ nội dung nào thuộc phạm vi hỗ trợ, nội dung nào phải chuyển cơ quan khác và điều gì chưa thể cam kết.\n\n### 3.3. Làm chủ đi cùng chuẩn mực\nTôn trọng quyền sở hữu không có nghĩa chấp nhận phân biệt đối xử, che giấu vi phạm hoặc bỏ qua nhân quyền. Khi đề xuất của đối tác có vấn đề, cán bộ cần trao đổi trên cơ sở pháp luật, chuẩn mực và mục tiêu đã thống nhất; báo qua tuyến có thẩm quyền khi cần. Hỗ trợ lực lượng ngoài UN còn phải tuân thủ HRDDP theo phạm vi áp dụng.\n\nBền vững cần được đặt ra ngay khi thiết kế: Ai thực hiện sau khi UN rút, ai duy trì kinh phí và trang bị, ai tiếp tục huấn luyện người mới, ai kiểm tra chất lượng? **Điểm cần nhớ:** Làm thay có thể tạo đầu ra nhanh nhưng khiến đối tác phụ thuộc. Hỗ trợ đúng giúp đối tác thực hiện và chịu trách nhiệm ngày càng tốt hơn.",
+        "en": "### 3.1. Enable partners to lead\nNational ownership means national institutions and actors help set direction, decide and assume responsibility for their development. UN support must not impose a copy of another country’s police system. A technically sound solution may fail if it does not fit national law, budgets or institutional relationships.\n\nPartners should participate in needs assessment, objectives, implementation and evaluation. Attending a meeting or signing a UN-written plan does not alone demonstrate ownership. Check understanding, practical capacity, responsibility and genuine influence over choices.\n\n### 3.2. Leadership does not represent every need\nInstitutional leaders provide essential perspectives, but not the only ones. Front-line officers and service users may reveal gaps missed by senior records. Women, persons with disabilities, minorities and remote communities may face particular barriers.\n\nConsultation must consider language, accessibility, safety and privacy. Collect only relevant information and avoid promising to resolve every need to secure participation. Explain what support can cover, what requires referral and what remains uncommitted.\n\n### 3.3. Ownership operates alongside standards\nRespecting ownership does not require accepting discrimination, concealed violations or disregard for rights. Discuss problematic proposals using applicable law, standards and agreed objectives, and refer matters through competent channels when required. Support to non-UN security forces must also comply with applicable HRDDP requirements.\n\nPlan sustainability from the start: Who continues the work, funds upkeep, trains replacements and checks quality after UN withdrawal? **Remember:** Substituting for partners may deliver quick outputs but create dependence. Effective support improves partners’ own performance and accountability."
+      },
+      "sourceIds": [
+        "U38",
+        "U39"
+      ]
+    },
+    {
+      "id": "CORE-05-04",
+      "title": {
+        "vi": "4. Monitoring, mentoring và advising",
+        "en": "4. Monitoring, mentoring and advising"
+      },
+      "body": {
+        "vi": "### 4.1. Ba phương pháp có mục đích khác nhau\n**Monitoring** là theo dõi công việc một cách có hệ thống theo tiêu chí, quan sát và thông tin để nhận diện tiến bộ, khoảng trống và nhu cầu điều chỉnh. Không chỉ đứng xem hoặc đếm số hoạt động. Muốn theo dõi có ích phải biết đang đánh giá điều gì và dùng thông tin như thế nào.\n\n**Mentoring** là quan hệ hỗ trợ phát triển thông qua trao đổi, phản hồi và hướng dẫn gắn với công việc. Người hướng dẫn giúp đối tác suy nghĩ, thực hành và tự cải thiện, thay vì thường xuyên làm thay. **Advising** là cùng đối tác phân tích vấn đề, lựa chọn và đề xuất giải pháp chuyên môn để cải thiện hiệu quả. Cố vấn không mặc nhiên có quyền chỉ huy đối tác.\n\nBa phương pháp có thể bổ sung nhau. Quan sát cho thấy một khó khăn; trao đổi hướng dẫn giúp cán bộ cải thiện cách làm; tư vấn ở cấp tổ chức có thể giải quyết quy trình đang cản trở. Phải chọn phương pháp theo vấn đề và phạm vi nhiệm vụ, không dùng một nhãn cho mọi hoạt động tiếp xúc.\n\n### 4.2. Xây dựng quan hệ làm việc đáng tin cậy\nTin cậy đến từ hiểu bối cảnh, giữ lời hứa có thể thực hiện, tôn trọng người trao đổi và phản hồi có căn cứ. Trước khi khuyên, hãy hỏi đối tác nhìn vấn đề thế nào, đã thử biện pháp gì và gặp hạn chế ở đâu. Người có ít trang bị vẫn có kiến thức địa bàn và cách thích ứng đáng học hỏi.\n\nPhản hồi nên mô tả hành vi quan sát được, tác động và cách cải thiện. Tránh nhận xét chung về phẩm chất hoặc hạ thấp trước đồng nghiệp. Với vấn đề nghiêm trọng như bạo lực hoặc vi phạm, quan hệ cố vấn không cho phép giữ kín để bảo vệ sự tin cậy; phải báo và xử lý theo quy định.\n\n### 4.3. Giữ ranh giới vai trò\nUNPOL cần biết mình được theo dõi việc gì, ai là đối tác, ai quyết định và ai nhận báo cáo. Không tự ký thay, quyết định thay hoặc dùng quyền tiếp cận để làm công việc ngoài phân công. Nếu đối tác phản kháng, cần tìm nguyên nhân như mục tiêu chưa rõ, lo ngại, nguồn lực hoặc cách trao đổi; không vội kết luận thiếu thiện chí.\n\n**Điểm cần nhớ:** Mục tiêu của MMA là năng lực và hiệu quả của đối tác. Một buổi gặp thân thiện hoặc một lời khuyên dài chưa chứng minh công việc đã thay đổi.",
+        "en": "### 4.1. Three methods with different purposes\n**Monitoring** systematically follows performance against criteria using observation and information to identify progress, gaps and adjustments. It is more than watching or counting activities; define what is being assessed and how findings will be used.\n\n**Mentoring** supports development through work-related dialogue, feedback and guidance. Mentors help counterparts think, practise and improve rather than routinely taking over. **Advising** involves working with partners to analyse problems, consider options and develop professional solutions. An adviser does not automatically command the counterpart.\n\nThese methods complement each other. Observation identifies a difficulty, mentoring supports individual improvement, and organizational advice may remove a procedural barrier. Select methods according to the problem and assignment, rather than labelling every contact identically.\n\n### 4.2. Build a trustworthy working relationship\nTrust grows through contextual understanding, realistic commitments, respect and evidence-based feedback. Before advising, ask how partners understand the issue, what they have tried and what constrains them. Poorly equipped counterparts still possess valuable local knowledge and adaptive experience.\n\nFeedback should identify observed behaviour, effects and improvements rather than attack personal qualities or embarrass people. Serious violence or violations cannot be concealed to preserve a mentoring relationship; report and respond through applicable arrangements.\n\n### 4.3. Maintain role boundaries\nKnow the monitoring scope, counterparts, decision-makers and reporting recipients. Do not sign or decide on another’s behalf or use access for work outside tasking. When a counterpart resists, examine unclear objectives, concerns, resources and communication before assuming bad faith.\n\n**Remember:** MMA aims to improve partners’ capacity and performance. A friendly meeting or lengthy advice does not demonstrate changed practice."
+      },
+      "sourceIds": [
+        "U39"
+      ]
+    },
+    {
+      "id": "CORE-05-05",
+      "title": {
+        "vi": "5. Từ đánh giá nhu cầu đến kế hoạch hỗ trợ",
+        "en": "5. From needs assessment to a support plan"
+      },
+      "body": {
+        "vi": "### 5.1. Thống nhất kết quả cần đạt\nSau đánh giá, UN và đối tác cần thống nhất mục tiêu cụ thể, ưu tiên và phạm vi có thể thực hiện. Mục tiêu nên mô tả năng lực hoặc dịch vụ cần cải thiện, không chỉ nêu tổ chức một hoạt động. “Mở lớp về hồ sơ” nói việc sẽ làm; “cán bộ lập và chuyển hồ sơ đúng các yêu cầu được thống nhất” nói thay đổi mong muốn.\n\nCần xác định hiện trạng làm mốc so sánh, bằng chứng để đánh giá và giới hạn của dữ liệu. Không đặt mục tiêu bằng những con số đẹp khi chưa biết quy mô vấn đề, khả năng nguồn lực hoặc trách nhiệm của đối tác. Nếu mục tiêu quá rộng, chia thành bước có thể kiểm tra và điều chỉnh.\n\n### 5.2. Kế hoạch có người làm, nguồn lực và theo dõi\nMột kế hoạch hỗ trợ cần nêu hoạt động, người chịu trách nhiệm, vai trò đối tác, thời gian, nguồn lực, nguy cơ và cách kiểm tra. Nhu cầu phiên dịch, tài liệu, cơ sở, trang bị và hỗ trợ người tham gia phải được tính thực tế. Kế hoạch quá phụ thuộc một chuyên gia UN dễ gián đoạn khi cán bộ luân chuyển.\n\nCác hoạt động cần liên kết: Huấn luyện kiến thức, thực hành, phản hồi tại công việc, sửa quy trình và theo dõi. Không nên coi phát tài liệu hoặc cấp thiết bị là điểm kết thúc. Nếu đối tác không có điều kiện sử dụng, cần điều chỉnh giải pháp thay vì chỉ ghi đã bàn giao đủ.\n\n### 5.3. Quản lý nguy cơ khi cung cấp hỗ trợ\nTrước hỗ trợ, phải xem đối tượng nhận, mục đích sử dụng, khả năng bị dùng sai và biện pháp kiểm soát phù hợp. Các hình thức hỗ trợ cho lực lượng an ninh ngoài UN có thể thuộc HRDDP, bao gồm cả một số hoạt động kỹ thuật, đào tạo và hậu cần. Không cho rằng “chỉ hỗ trợ chuyên môn” là luôn ngoài phạm vi.\n\nNếu nhận được thông tin làm thay đổi nguy cơ, phải báo để xem lại kế hoạch và quyết định hỗ trợ. Điều chỉnh có thể liên quan nội dung, đối tượng, điều kiện hoặc cách theo dõi theo thẩm quyền. **Điểm cần nhớ:** Lập kế hoạch là kết nối mục tiêu với việc thực hiện và bằng chứng, không chỉ sắp lịch hoạt động.",
+        "en": "### 5.1. Agree on the intended result\nAssessment should lead to agreed objectives, priorities and a feasible scope. Describe the capability or service to improve, not merely an event. A class on records describes an activity; officers preparing and transferring records to agreed requirements describes an intended change.\n\nEstablish a baseline, evidence and data limitations. Do not invent attractive numerical targets before understanding needs, resources and partner responsibilities. Divide broad goals into verifiable, adjustable steps.\n\n### 5.2. Assign responsibility, resources and monitoring\nA support plan identifies activities, responsible persons, partner contributions, timing, resources, risks and checks. Interpretation, materials, facilities, equipment and participant needs require realistic provision. Dependence on one UN expert creates rotation risks.\n\nLink instruction, practice, workplace feedback, procedural improvement and follow-up. Distribution of materials or equipment should not end the process. If partners cannot use what is delivered, adjust support instead of reporting handover alone.\n\n### 5.3. Manage support-related risks\nBefore support, identify recipients, purpose, possible misuse and suitable safeguards. Support to non-UN security forces may fall under HRDDP, including some technical, training and logistical activities. Professional assistance is not automatically outside its scope.\n\nReport new information affecting risk so that plans and support decisions can be reviewed. Authorized adjustment may concern content, recipients, conditions or monitoring. **Remember:** Planning connects objectives, implementation and evidence, rather than merely scheduling activities."
+      },
+      "sourceIds": [
+        "U38",
+        "U39"
+      ]
+    },
+    {
+      "id": "CORE-05-06",
+      "title": {
+        "vi": "6. Pháp quyền, quản trị và tiến trình chính trị",
+        "en": "6. Rule of law, governance and political processes"
+      },
+      "body": {
+        "vi": "### 6.1. Không nhìn cảnh sát như một hệ thống đứng riêng\nCông việc cảnh sát liên quan cơ quan công tố, tòa án và hệ thống giam giữ. Nếu chỉ nâng năng lực bắt giữ mà không quan tâm thủ tục, chuyển hồ sơ, xét xử và điều kiện giam giữ, hỗ trợ có thể tạo thêm ách tắc hoặc nguy cơ xâm phạm quyền. Phát triển cảnh sát cần phối hợp các chức năng pháp quyền theo nhiệm vụ của từng bên.\n\nBộ phận nhân quyền có thể hỗ trợ hiểu bối cảnh, tiêu chuẩn và những nguy cơ liên quan cơ quan nhận hỗ trợ. Cán bộ tư pháp và giam giữ có chuyên môn riêng. UNPOL đóng góp chuyên môn cảnh sát; phối hợp không làm cán bộ tự trở thành thẩm phán, công tố viên hoặc chuyên gia mọi lĩnh vực.\n\n### 6.2. Hỗ trợ quyền lực nhà nước có trách nhiệm\nKhôi phục hoặc mở rộng sự hiện diện nhà nước cần gắn với dịch vụ, tính hợp pháp, khả năng tiếp cận và trách nhiệm đối với dân. Có thêm trụ sở hoặc nhân sự chưa chứng minh quản trị tốt hơn. Người dân cần được tiếp nhận, đối xử đúng và có cơ chế phản hồi, khiếu nại phù hợp.\n\nCần xem tác động khác nhau giữa các nhóm và nguy cơ hỗ trợ làm tăng bất bình hoặc củng cố hành vi lạm quyền. Lắng nghe cộng đồng giúp phát hiện những vấn đề không thể thấy chỉ từ số hoạt động hành chính. Quyền sở hữu quốc gia và trách nhiệm với người dân cần được xem cùng nhau.\n\n### 6.3. Bầu cử và xây dựng niềm tin\nHỗ trợ bầu cử của UN có cơ sở nhiệm vụ, đánh giá nhu cầu và cơ chế chuyên trách. Phần việc cảnh sát có thể liên quan an ninh theo phân công, không tự đồng nghĩa quan sát, chứng nhận kết quả hoặc ủng hộ một bên. Tiêu chuẩn thực hiện phải nhất quán, bảo vệ quyền và tránh biểu hiện thiên vị.\n\nCác hoạt động xây dựng niềm tin, bao gồm dự án tác động nhanh khi được phép, cần đáp ứng nhu cầu thực tế và phối hợp đối tác. Không dùng dự án nhỏ thay chiến lược phát triển hoặc hứa lợi ích để đổi lấy sự ủng hộ UN. **Điểm cần nhớ:** Năng lực kỹ thuật cần đặt trong tiến trình chính trị và quản trị rộng hơn; hỗ trợ tốt phải tính đến tác động đối với niềm tin và quyền con người.",
+        "en": "### 6.1. Police do not operate in isolation\nPolicing connects with prosecution, courts and corrections. Improving arrest capability without considering procedures, file transfer, adjudication and detention conditions may create bottlenecks or rights risks. Coordinate development across rule-of-law functions while respecting each actor’s role.\n\nHuman rights personnel contribute contextual knowledge, standards and risk information. Justice and corrections specialists have distinct expertise. UNPOL contributes policing expertise; coordination does not make every officer a judge, prosecutor or universal specialist.\n\n### 6.2. Support accountable State authority\nRestoring or extending State presence should improve services, legitimacy, access and accountability. More offices or personnel do not alone establish better governance. People need responsive reception, proper treatment and suitable feedback and complaint mechanisms.\n\nAssess different effects on groups and the risk that support reinforces grievances or abuse. Community perspectives reveal issues missed by administrative counts. National ownership and accountability to people belong together.\n\n### 6.3. Elections and confidence-building\nUN electoral assistance requires an appropriate basis, needs assessment and specialist arrangements. Assigned police work may concern electoral security; it does not automatically include observation, certification of results or support for a party. Apply consistent standards, protect rights and avoid perceived favoritism.\n\nConfidence-building activities, including authorized quick impact projects, should respond to real needs and coordinate with partners. Small projects do not replace development strategy or justify offering benefits in exchange for support for the UN. **Remember:** Technical capability operates within political and governance processes; assess effects on trust and rights."
+      },
+      "sourceIds": [
+        "C10",
+        "C11"
+      ]
+    },
+    {
+      "id": "CORE-05-07",
+      "title": {
+        "vi": "7. Đo kết quả, điều chỉnh và bàn giao",
+        "en": "7. Evaluate results, adjust and transition"
+      },
+      "body": {
+        "vi": "### 7.1. Đếm hoạt động chưa đủ\nSố lớp, người tham gia, giờ hướng dẫn và thiết bị bàn giao giúp theo dõi đầu ra. Muốn biết năng lực thay đổi, cần thêm bằng chứng về cách thực hiện công việc: Chất lượng hồ sơ, việc tuân thủ quy trình, khả năng tự giải quyết vấn đề hoặc trải nghiệm của người dân, tùy mục tiêu và dữ liệu phù hợp.\n\nKhông coi bài kiểm tra sau lớp học là bằng chứng duy nhất của hiệu quả tại nơi làm việc. Cũng không kết luận kết quả hoàn toàn do UN tạo ra nếu thay đổi có thể liên quan lãnh đạo mới, nguồn lực hoặc chương trình khác. Báo cáo cần nêu giới hạn và những yếu tố ảnh hưởng để người đọc đánh giá đúng.\n\n### 7.2. Theo dõi để học và điều chỉnh\nĐối chiếu bằng chứng với hiện trạng và mục tiêu đã thống nhất. Nếu chưa đạt, tìm nguyên nhân: Giải pháp chưa phù hợp, thiếu điều kiện áp dụng, mục tiêu quá rộng hay cách đo chưa đúng? Điều chỉnh cùng đối tác, ghi rõ thay đổi và trách nhiệm. Không chỉ thêm lớp học để tăng số hoạt động khi nguyên nhân nằm ở quy trình hoặc quản lý.\n\nThông tin theo dõi còn giúp liên kết hỗ trợ giữa các bộ phận, tránh lặp lại đánh giá và chuyển tiếp công việc. Hồ sơ cần có kết quả, khó khăn, nội dung đã cam kết và việc còn phải làm, không chỉ danh sách cuộc họp. Bảo vệ dữ liệu cá nhân và thông tin nhạy cảm trong lưu trữ, chia sẻ.\n\n### 7.3. Chuẩn bị kết thúc từ khi bắt đầu\nChuyển tiếp cần người tiếp nhận, năng lực, kinh phí duy trì, tài liệu, cơ chế giám sát và phương án đối với việc chưa hoàn thành. Bàn giao phải phản ánh mức độ tự thực hiện thực tế của đối tác, không chỉ hoàn thành chữ ký. Nếu còn thiếu, nêu rõ phần thiếu và nhu cầu tiếp nối qua cơ chế được thống nhất.\n\nCán bộ luân chuyển cần bàn giao bài học, quan hệ công việc, mục tiêu và bằng chứng, tránh để người đến bắt đầu lại toàn bộ. **Kết thúc bài:** Hỗ trợ hiệu quả là một quá trình từ hiểu vấn đề, thống nhất mục tiêu, tổ chức thực hiện đến đánh giá, điều chỉnh và chuyển tiếp. Trọng tâm xuyên suốt là khả năng đối tác phục vụ người dân một cách bền vững và có trách nhiệm.",
+        "en": "### 7.1. Activity counts are insufficient\nCourses, attendance, mentoring hours and equipment delivered describe outputs. Evidence of capability change concerns work performance: Record quality, procedural compliance, independent problem-solving or service-user experience, according to objectives and suitable data.\n\nA post-course test is not the sole proof of workplace effectiveness. Nor should change be attributed entirely to UN support when leadership, resources or other programmes may contribute. State limitations and influencing factors so readers can judge evidence appropriately.\n\n### 7.2. Monitor to learn and adjust\nCompare findings with the baseline and agreed objectives. If results fall short, examine unsuitable solutions, missing conditions, overly broad goals or weak measurement. Adjust with partners and record new responsibilities. More courses will not fix every procedural or management problem.\n\nMonitoring also connects support across sections and enables continuity. Record results, difficulties, commitments and outstanding work rather than meetings alone. Protect personal and sensitive information during storage and sharing.\n\n### 7.3. Plan transition from the start\nTransition needs an identified recipient, capability, continuing finance, documents, oversight and arrangements for unfinished work. Handover should reflect partners’ actual ability to perform, not signatures alone. Describe remaining gaps and agreed follow-on support honestly.\n\nRotating personnel should transfer lessons, relationships, objectives and evidence so successors do not restart everything. **Retain:** Effective support proceeds from understanding problems and agreeing objectives through delivery, evaluation, adjustment and transition. Its continuing focus is partners’ sustainable and accountable service to people."
+      },
+      "sourceIds": [
+        "U38",
+        "U39"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "C10",
+      "title": "2.2 Implementing Peacebuilding Activities, Part 1",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-414%20Lesson%202.2%20Part%201%20Implementing%20Peacebuilding%20Activities.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 29,
+      "pdf_name": "2025 - Lesson 2.2 Part 1 Implementing Peacebuilding Activities - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "C11",
+      "title": "2.2 Implementing Peacebuilding Activities, Part 2",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-415%20Lesson%202.2%20Part%202%20Implementing%20Peacebuilding%20Activities.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 31,
+      "pdf_name": "2025 - Lesson 2.2 Part 2 Implementing Peacebuilding Activities - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "U38",
+      "title": "Lesson 7 Capacity-building and Development",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-014%20UNPOL%20STM%20Lesson%207%20Capacity-building%20and%20Development.pdf",
+      "year": "2021",
+      "publisher": "United Nations UNPOL STM",
+      "format": "pdf",
+      "pages": 26,
+      "pdf_name": "U38.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "U39",
+      "title": "Lesson 8 UNPOL Monitoring, Mentoring and Advising",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-016%20UNPOL%20STM%20Lesson%208%20UNPOL%20Monitoring,%20Mentoring%20and%20Advising.pdf",
+      "year": "2021",
+      "publisher": "United Nations UNPOL STM",
+      "format": "pdf",
+      "pages": 74,
+      "pdf_name": "U39.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Mục tiêu dài hạn của hỗ trợ phát triển cảnh sát là gì?",
+        "en": "What is the long-term aim of police development support?"
+      },
+      "options": [
+        {
+          "vi": "Tăng số lớp bất kể kết quả.",
+          "en": "Increase course counts regardless of results."
+        },
+        {
+          "vi": "UN làm thay toàn bộ càng lâu càng tốt.",
+          "en": "The UN substitutes for partners indefinitely."
+        },
+        {
+          "vi": "Cơ quan sở tại phục vụ hợp pháp, đáp ứng và bền vững.",
+          "en": "Sustainable, lawful and responsive host-State policing."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Năng lực cần được duy trì trong hệ thống quốc gia và có trách nhiệm với cộng đồng. Xem mục 1.",
+        "en": "Capability must endure within national systems and remain accountable to communities. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Vì sao phát triển cảnh sát cần nhìn cả tư pháp và giam giữ?",
+        "en": "Why consider justice and corrections in police development?"
+      },
+      "options": [
+        {
+          "vi": "Vì bắt giữ nhiều tự bảo đảm công lý.",
+          "en": "Because more arrests automatically ensure justice."
+        },
+        {
+          "vi": "Các khâu liên quan cùng quyết định hiệu quả pháp quyền và bảo vệ quyền.",
+          "en": "Connected institutions affect rule-of-law effectiveness and rights protection."
+        },
+        {
+          "vi": "Để mọi IPO tự làm công tố viên.",
+          "en": "So every IPO can act as a prosecutor."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Cải thiện riêng một khâu có thể tạo ách tắc nếu chuyển hồ sơ, xét xử hoặc giam giữ không đáp ứng. Xem mục 1.",
+        "en": "Improving one function can create bottlenecks when file transfer, courts or detention do not function adequately. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Nên chọn giải pháp khi nào?",
+        "en": "When should a solution be selected?"
+      },
+      "options": [
+        {
+          "vi": "Khi có thiết bị muốn cấp, bất kể nhu cầu.",
+          "en": "Whenever equipment is available, regardless of need."
+        },
+        {
+          "vi": "Trước đánh giá để kịp mở lớp.",
+          "en": "Before assessment to schedule training quickly."
+        },
+        {
+          "vi": "Sau khi phân tích chức năng, hiện trạng, khoảng cách và nguyên nhân.",
+          "en": "After analysing functions, current performance, gaps and causes."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Phân tích giúp tránh chữa biểu hiện bằng giải pháp không tác động nguyên nhân. Xem mục 2.",
+        "en": "Diagnosis avoids treating symptoms with solutions unrelated to causes. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Ba cấp độ đánh giá năng lực là gì?",
+        "en": "What are the three levels of capacity analysis?"
+      },
+      "options": [
+        {
+          "vi": "Cá nhân, tổ chức và môi trường tạo điều kiện.",
+          "en": "Individual, organizational and enabling environment."
+        },
+        {
+          "vi": "Chỉ vũ khí, phương tiện và quân số.",
+          "en": "Only weapons, vehicles and personnel numbers."
+        },
+        {
+          "vi": "Chỉ kiến thức, điểm thi và chứng chỉ.",
+          "en": "Only knowledge, test marks and certificates."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Kỹ năng, hệ thống nội bộ và điều kiện pháp lý–quản trị cùng ảnh hưởng hiệu quả. Xem mục 2.",
+        "en": "Skills, internal systems and legal-governance conditions jointly affect performance. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Điều gì thể hiện quyền sở hữu quốc gia rõ hơn?",
+        "en": "What better demonstrates national ownership?"
+      },
+      "options": [
+        {
+          "vi": "Đối tác tham gia lựa chọn mục tiêu, triển khai và đánh giá.",
+          "en": "Partners help choose objectives, deliver work and evaluate it."
+        },
+        {
+          "vi": "Chỉ dự buổi khai giảng.",
+          "en": "Only attend the opening session."
+        },
+        {
+          "vi": "Chỉ ký kế hoạch UN đã quyết định hết.",
+          "en": "Only sign a plan fully decided by the UN."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Tham gia có ý nghĩa cần ảnh hưởng thật đến lựa chọn và trách nhiệm, không chỉ có mặt. Xem mục 3.",
+        "en": "Meaningful participation requires actual influence and responsibility, not attendance alone. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Tôn trọng quyền sở hữu có nghĩa chấp nhận mọi yêu cầu của đối tác không?",
+        "en": "Does respecting ownership mean accepting every partner request?"
+      },
+      "options": [
+        {
+          "vi": "Không; vẫn giữ chuẩn mực, nhân quyền và phạm vi hỗ trợ.",
+          "en": "No; standards, rights and support limits still apply."
+        },
+        {
+          "vi": "Có, kể cả yêu cầu phân biệt đối xử.",
+          "en": "Yes, including discriminatory requests."
+        },
+        {
+          "vi": "Có, vì UN không cần đánh giá nguy cơ.",
+          "en": "Yes, the UN need not assess risks."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Hợp tác cần cùng tìm giải pháp phù hợp; quyền làm chủ không tạo ngoại lệ cho vi phạm. Xem mục 3.",
+        "en": "Cooperation seeks suitable solutions; ownership does not create an exemption for violations. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Monitoring hữu ích cần điều gì?",
+        "en": "What makes monitoring useful?"
+      },
+      "options": [
+        {
+          "vi": "Tiêu chí, thông tin có hệ thống và cách sử dụng kết quả.",
+          "en": "Criteria, systematic information and use of findings."
+        },
+        {
+          "vi": "Chỉ ghi số cuộc gặp.",
+          "en": "Only counting meetings."
+        },
+        {
+          "vi": "Chỉ có mặt bên cạnh đối tác.",
+          "en": "Merely being present beside counterparts."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Theo dõi phải cho thấy tiến bộ, khoảng trống và điều chỉnh; không chỉ chứng minh đã tiếp xúc. Xem mục 4.",
+        "en": "Monitoring should reveal progress, gaps and adjustments, rather than merely document contact. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Ranh giới nào đúng với mentoring và advising?",
+        "en": "Which boundary applies to mentoring and advising?"
+      },
+      "options": [
+        {
+          "vi": "Luôn làm thay để tăng tốc độ.",
+          "en": "Always take over to increase speed."
+        },
+        {
+          "vi": "Giữ kín mọi vi phạm để bảo vệ quan hệ.",
+          "en": "Conceal all violations to preserve the relationship."
+        },
+        {
+          "vi": "Hỗ trợ đối tác phát triển và quyết định theo vai trò; không mặc nhiên chỉ huy họ.",
+          "en": "Support counterpart development and decisions within roles, without automatic command authority."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Tin cậy không xóa trách nhiệm báo cáo và giới hạn; mục tiêu là đối tác tiến bộ. Xem mục 4.",
+        "en": "Trust does not remove reporting duties or limits; the aim is counterpart improvement. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Mục tiêu nào mô tả kết quả thay vì hoạt động?",
+        "en": "Which objective describes a result rather than an activity?"
+      },
+      "options": [
+        {
+          "vi": "Tổ chức ba buổi họp.",
+          "en": "Hold three meetings."
+        },
+        {
+          "vi": "Phát đủ tài liệu.",
+          "en": "Distribute all materials."
+        },
+        {
+          "vi": "Cán bộ chuyển hồ sơ theo yêu cầu chất lượng đã thống nhất.",
+          "en": "Officers transfer records meeting agreed quality requirements."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Hoạt động góp phần đạt mục tiêu; kết quả cần mô tả thay đổi năng lực hoặc dịch vụ. Xem mục 5.",
+        "en": "Activities contribute to objectives; results describe changed capability or service. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Hỗ trợ kỹ thuật cho lực lượng ngoài UN cần lưu ý gì?",
+        "en": "What matters in technical support to non-UN forces?"
+      },
+      "options": [
+        {
+          "vi": "Luôn được miễn vì không trực tiếp hành động.",
+          "en": "It is always exempt because the UN does not act directly."
+        },
+        {
+          "vi": "Có thể thuộc HRDDP; cần xác định phạm vi và nguy cơ.",
+          "en": "It may fall under HRDDP; identify coverage and risk."
+        },
+        {
+          "vi": "Chỉ đánh giá nếu đối tác tự yêu cầu.",
+          "en": "Assess only if recipients request it."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Loại hỗ trợ, người nhận và mục đích sử dụng quan trọng hơn nhãn gọi hoạt động. Xem mục 5.",
+        "en": "Recipients, assistance and use matter more than the label attached to an activity. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Nhiệm vụ an ninh bầu cử có tự trao quyền chứng nhận kết quả không?",
+        "en": "Does electoral security tasking automatically authorize certification of results?"
+      },
+      "options": [
+        {
+          "vi": "Có, vì mọi hỗ trợ bầu cử giống nhau.",
+          "en": "Yes, every type of electoral assistance is identical."
+        },
+        {
+          "vi": "Không; phải giữ đúng chức năng và cơ chế chuyên trách.",
+          "en": "No; remain within the assigned role and specialist arrangements."
+        },
+        {
+          "vi": "Có, nếu đơn vị bảo vệ đủ điểm bầu cử.",
+          "en": "Yes, if the unit protects enough polling sites."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Hỗ trợ an ninh, quan sát và chứng nhận là các vai trò khác nhau; không tự suy diễn quyền. Xem mục 6.",
+        "en": "Security support, observation and certification are different roles; authority cannot be inferred automatically. See section 6."
+      },
+      "chapter": 5
+    },
+    {
+      "question": {
+        "vi": "Đánh giá hiệu quả sau huấn luyện nên làm gì?",
+        "en": "How should training effectiveness be assessed?"
+      },
+      "options": [
+        {
+          "vi": "Quy mọi chuyển biến tích cực cho lớp học.",
+          "en": "Attribute every positive change to the course."
+        },
+        {
+          "vi": "Kết hợp kết quả học với bằng chứng áp dụng tại công việc và điều kiện ảnh hưởng.",
+          "en": "Combine learning results with evidence of workplace application and influencing conditions."
+        },
+        {
+          "vi": "Chỉ xem số chứng chỉ cấp.",
+          "en": "Only count certificates."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Đầu ra lớp học chưa đủ chứng minh năng lực bền vững; cần kiểm tra thực hành và giới hạn dữ liệu. Xem mục 7.",
+        "en": "Course outputs do not prove sustainable capability; examine practice and data limitations. See section 7."
+      },
+      "chapter": 6
+    }
+  ],
+  "updated": "2026-10-27",
+  "moduleId": "CORE-M2",
+  "moduleOrder": 2,
+  "lessonOrder": 1,
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "CORE-05-01",
+      "title": {
+        "vi": "1. Xây dựng hòa bình và vai trò của cảnh sát",
+        "en": "1. Peacebuilding and the police contribution"
+      },
+      "body": {
+        "vi": "### 1.1. An ninh trước mắt và hòa bình bền vững\nDừng bạo lực là điều kiện quan trọng, nhưng chưa đủ tạo hòa bình lâu dài. Khi người dân không tiếp cận được công lý, cơ quan an ninh thiếu trách nhiệm hoặc tranh chấp không được giải quyết, nguy cơ xung đột vẫn tồn tại. Xây dựng hòa bình hướng tới những điều kiện giúp xã hội quản lý bất đồng và duy trì an toàn mà không quay lại bạo lực.\n\nPhái bộ có thể đóng vai trò thúc đẩy, kết nối và hỗ trợ theo mandate, nhưng không làm thay toàn bộ tiến trình quốc gia. Công việc cần được tiếp nối bởi cơ quan sở tại, cộng đồng, UN Country Team và đối tác khác. Thành công không chỉ là phái bộ làm được nhiều việc trong thời gian hiện diện, mà còn là năng lực và quan hệ có thể tiếp tục sau chuyển tiếp.\n\n### 1.2. Những lĩnh vực cần phân biệt\n**Hành động bom mìn** giúp giảm nguy cơ vật nổ và tạo điều kiện an toàn cho cuộc sống, hoạt động và phát triển. **DDR** hỗ trợ giải giáp, giải ngũ và tái hòa nhập theo bối cảnh. **Cải cách và quản trị ngành an ninh (SSR&G)** hướng tới cơ quan an ninh chuyên nghiệp, có trách nhiệm và chịu giám sát phù hợp. **Pháp quyền** đòi hỏi cả cảnh sát, tư pháp và hệ thống giam giữ thực hiện chức năng đúng pháp luật.\n\nNhững lĩnh vực này có liên hệ nhưng không phải cùng một chương trình. Đào tạo cảnh sát không tự giải quyết sinh kế của người rời nhóm vũ trang; bắt giữ có căn cứ cũng chưa bảo đảm công lý nếu khâu tiếp theo không hoạt động. Cán bộ cần nhận diện đối tác chuyên môn và giới hạn phần việc của mình, không tự nhận quyền hoặc công việc ngoài năng lực.\n\n### 1.3. Cảnh sát tạo niềm tin bằng cách phục vụ\nMột dịch vụ cảnh sát dễ tiếp cận, không phân biệt đối xử và xử lý công việc có trách nhiệm giúp người dân tìm đến cơ chế hợp pháp để giải quyết vấn đề. Ngược lại, lạm quyền, tham nhũng hoặc bỏ mặc yêu cầu có thể làm sâu bất bình. Vì vậy, hỗ trợ năng lực phải quan tâm cả hiệu quả công việc lẫn cách công việc được thực hiện.\n\n**Điểm cần nhớ:** Phát triển cảnh sát không chỉ nhằm tăng số người hoặc trang bị. Mục tiêu là cơ quan có thể cung cấp dịch vụ hợp pháp, đáp ứng cộng đồng và duy trì kết quả trong hệ thống quốc gia.",
+        "en": "### 1.1. Immediate security and lasting peace\nStopping violence is essential but does not alone establish sustainable peace. Where people cannot access justice, security institutions lack accountability or disputes remain unresolved, conflict risks persist. Peacebuilding strengthens conditions that enable a society to manage disagreement and maintain safety without returning to violence.\n\nA mission may catalyse, connect and support efforts within its mandate; it cannot substitute for the entire national process. National institutions, communities, the UN Country Team and other partners must carry work forward. Success concerns not only mission activity during deployment but also capability and relationships that survive transition.\n\n### 1.2. Distinguish related fields\n**Mine action** reduces explosive hazards and supports safe life, operations and development. **DDR** addresses disarmament, demobilization and reintegration according to the context. **Security sector reform and governance (SSR&G)** support professional, accountable institutions under appropriate oversight. **Rule of law** requires lawful functioning across police, justice and corrections.\n\nThese fields connect but are not one programme. Police training does not by itself provide livelihoods for former armed-group members. Lawful arrest alone cannot ensure justice if subsequent institutions do not function. Identify specialist partners and the limits of your contribution rather than assuming powers or duties beyond competence.\n\n### 1.3. Police build trust through service\nAccessible, non-discriminatory and accountable policing encourages people to use lawful mechanisms. Abuse, corruption and neglect can deepen grievances. Capacity support must therefore address both effectiveness and how work is performed.\n\n**Remember:** Police development is not simply increasing personnel or equipment. It seeks institutions able to provide lawful, responsive services and sustain results within the national system."
+      },
+      "sourceIds": [
+        "C10",
+        "C11"
+      ]
+    },
+    {
+      "id": "CORE-05-02",
+      "title": {
+        "vi": "2. Đánh giá năng lực theo ba cấp độ",
+        "en": "2. Assess capacity at three levels"
+      },
+      "body": {
+        "vi": "### 2.1. Tìm nguyên nhân trước khi chọn giải pháp\nMột vấn đề công việc có thể bắt nguồn từ thiếu kỹ năng, tổ chức yếu, quy định không rõ hoặc nguồn lực không phù hợp. Nếu chưa phân tích mà chọn ngay mở lớp, ta có thể giải quyết biểu hiện thay vì nguyên nhân. Đánh giá cần xác định chức năng phải thực hiện, hiện trạng, khoảng cách và các yếu tố tạo ra khoảng cách đó.\n\nCó thể bắt đầu bằng quan sát công việc, trao đổi với cán bộ và người sử dụng dịch vụ, đọc hồ sơ, quy định và số liệu. Phải phân biệt điều được mô tả trong SOP với điều thực sự diễn ra. Một quy trình tốt trên giấy chưa chứng minh được áp dụng; một nhận xét cá nhân cũng chưa đại diện toàn bộ cơ quan.\n\n### 2.2. Ba cấp độ bổ sung nhau\n**Cấp cá nhân** gồm kiến thức, kỹ năng, hành vi, động lực, năng lực lãnh đạo và khả năng học hỏi. **Cấp tổ chức** gồm cơ cấu, phân công, quy trình, chỉ huy, hệ thống hồ sơ, nguồn lực và cơ chế giám sát. **Môi trường tạo điều kiện** gồm pháp luật, quản trị, quan hệ với cơ quan khác và những yếu tố chính trị, xã hội ảnh hưởng đến hoạt động.\n\nVí dụ để hiểu mối liên hệ: Cán bộ được học viết báo cáo nhưng không có mẫu thống nhất, không được người phụ trách phản hồi hoặc không có cơ chế lưu và chuyển hồ sơ thì năng lực chưa chuyển thành kết quả. Giải pháp cần xét cả kỹ năng cá nhân, quy trình tổ chức và điều kiện phối hợp. Không nên kết luận “cán bộ yếu” khi vấn đề có nhiều tầng nguyên nhân.\n\n### 2.3. Năm lĩnh vực và các chiều cạnh xuyên suốt\nKhi xem hệ thống, cần chú ý tính chuyên nghiệp và liêm chính; hệ thống hành chính; khuôn khổ pháp luật và chính sách; cơ chế trách nhiệm giải trình; sự tham gia của các bên liên quan. Đây là những góc nhìn giúp không bỏ sót yếu tố ngoài huấn luyện nghiệp vụ.\n\nNhân quyền, giới, bảo vệ dân thường, phòng ngừa xung đột và tính bền vững môi trường cần được tích hợp vào phân tích thực hành cảnh sát. Không nên dành một đoạn cuối để nhắc các chủ đề này rồi coi là đã lồng ghép. Chẳng hạn, cải thiện nơi tiếp nhận trình báo phải xem người dân nào đang gặp rào cản, tính riêng tư và an toàn, thay vì chỉ mua thêm bàn ghế. **Điểm cần nhớ:** Chọn giải pháp sau khi hiểu hệ thống và người chịu tác động.",
+        "en": "### 2.1. Diagnose before selecting a solution\nPoor performance may reflect skills gaps, organizational weaknesses, unclear rules or inadequate resources. Choosing training before analysis may treat a symptom rather than its cause. Establish required functions, actual performance, gaps and the factors producing them.\n\nObserve work, consult officers and service users, and review records, rules and data. Distinguish the written procedure from actual practice. A good SOP does not demonstrate implementation, and one person’s opinion does not represent an entire institution.\n\n### 2.2. Three complementary levels\nThe **individual level** concerns knowledge, skills, conduct, motivation, leadership and learning. The **organizational level** concerns structures, tasking, procedures, command, records, resources and oversight. The **enabling environment** includes law, governance, relationships with other institutions and relevant political and social conditions.\n\nAn officer trained in report writing may still lack an agreed format, supervisory feedback or a system to store and transfer records. Training has then not translated into performance. Consider personal skills, institutional processes and coordination conditions rather than labelling officers incompetent when causes lie at several levels.\n\n### 2.3. Five areas and cross-cutting dimensions\nExamine professionalism and integrity, administrative systems, legal and policy frameworks, accountability mechanisms, and stakeholder engagement. These perspectives prevent analysis from focusing solely on technical training.\n\nIntegrate human rights, gender, civilian protection, conflict prevention and environmental sustainability into police-practice analysis. A paragraph at the end is not mainstreaming. Improving a reporting desk, for example, requires examining access barriers, privacy and safety, rather than merely buying furniture. **Remember:** Understand the system and affected people before selecting solutions."
+      },
+      "sourceIds": [
+        "U38"
+      ]
+    },
+    {
+      "id": "CORE-05-03",
+      "title": {
+        "vi": "3. Quyền sở hữu quốc gia và sự tham gia có ý nghĩa",
+        "en": "3. National ownership and meaningful participation"
+      },
+      "body": {
+        "vi": "### 3.1. Hỗ trợ để đối tác làm chủ\nQuyền sở hữu quốc gia có nghĩa cơ quan và các chủ thể quốc gia tham gia định hướng, quyết định và chịu trách nhiệm đối với tiến trình phát triển của mình. UN cung cấp hỗ trợ trong phạm vi nhiệm vụ, không áp đặt một bản sao hệ thống cảnh sát của quốc gia khác. Một giải pháp tốt về kỹ thuật nhưng không phù hợp pháp luật, ngân sách hoặc quan hệ tổ chức có thể không được duy trì.\n\nĐối tác cần tham gia từ đánh giá nhu cầu, xác định mục tiêu đến triển khai và đánh giá. Được mời dự một cuộc họp hoặc ký kế hoạch do UN viết sẵn chưa đủ chứng minh làm chủ. Cần kiểm tra họ hiểu, có khả năng thực hiện, có người chịu trách nhiệm và thực sự tham gia lựa chọn hay chưa.\n\n### 3.2. Không đồng nhất lãnh đạo với toàn bộ nhu cầu\nQuan điểm của lãnh đạo cơ quan rất quan trọng nhưng không phải nguồn duy nhất. Cán bộ tuyến cơ sở và người dân có thể cho thấy khoảng trống mà hồ sơ cấp trên chưa phản ánh. Phụ nữ, người khuyết tật, nhóm thiểu số và người sống xa trung tâm có thể gặp rào cản riêng khi sử dụng dịch vụ cảnh sát.\n\nTham vấn cần phù hợp ngôn ngữ, điều kiện tiếp cận, tính an toàn và quyền riêng tư. Không thu thập thông tin chỉ vì có thể thu thập, hoặc hứa giải quyết mọi nhu cầu để khuyến khích tham gia. Cần phản hồi rõ nội dung nào thuộc phạm vi hỗ trợ, nội dung nào phải chuyển cơ quan khác và điều gì chưa thể cam kết.\n\n### 3.3. Làm chủ đi cùng chuẩn mực\nTôn trọng quyền sở hữu không có nghĩa chấp nhận phân biệt đối xử, che giấu vi phạm hoặc bỏ qua nhân quyền. Khi đề xuất của đối tác có vấn đề, cán bộ cần trao đổi trên cơ sở pháp luật, chuẩn mực và mục tiêu đã thống nhất; báo qua tuyến có thẩm quyền khi cần. Hỗ trợ lực lượng ngoài UN còn phải tuân thủ HRDDP theo phạm vi áp dụng.\n\nBền vững cần được đặt ra ngay khi thiết kế: Ai thực hiện sau khi UN rút, ai duy trì kinh phí và trang bị, ai tiếp tục huấn luyện người mới, ai kiểm tra chất lượng? **Điểm cần nhớ:** Làm thay có thể tạo đầu ra nhanh nhưng khiến đối tác phụ thuộc. Hỗ trợ đúng giúp đối tác thực hiện và chịu trách nhiệm ngày càng tốt hơn.",
+        "en": "### 3.1. Enable partners to lead\nNational ownership means national institutions and actors help set direction, decide and assume responsibility for their development. UN support must not impose a copy of another country’s police system. A technically sound solution may fail if it does not fit national law, budgets or institutional relationships.\n\nPartners should participate in needs assessment, objectives, implementation and evaluation. Attending a meeting or signing a UN-written plan does not alone demonstrate ownership. Check understanding, practical capacity, responsibility and genuine influence over choices.\n\n### 3.2. Leadership does not represent every need\nInstitutional leaders provide essential perspectives, but not the only ones. Front-line officers and service users may reveal gaps missed by senior records. Women, persons with disabilities, minorities and remote communities may face particular barriers.\n\nConsultation must consider language, accessibility, safety and privacy. Collect only relevant information and avoid promising to resolve every need to secure participation. Explain what support can cover, what requires referral and what remains uncommitted.\n\n### 3.3. Ownership operates alongside standards\nRespecting ownership does not require accepting discrimination, concealed violations or disregard for rights. Discuss problematic proposals using applicable law, standards and agreed objectives, and refer matters through competent channels when required. Support to non-UN security forces must also comply with applicable HRDDP requirements.\n\nPlan sustainability from the start: Who continues the work, funds upkeep, trains replacements and checks quality after UN withdrawal? **Remember:** Substituting for partners may deliver quick outputs but create dependence. Effective support improves partners’ own performance and accountability."
+      },
+      "sourceIds": [
+        "U38",
+        "U39"
+      ]
+    },
+    {
+      "id": "CORE-05-04",
+      "title": {
+        "vi": "4. Monitoring, mentoring và advising",
+        "en": "4. Monitoring, mentoring and advising"
+      },
+      "body": {
+        "vi": "### 4.1. Ba phương pháp có mục đích khác nhau\n**Monitoring** là theo dõi công việc một cách có hệ thống theo tiêu chí, quan sát và thông tin để nhận diện tiến bộ, khoảng trống và nhu cầu điều chỉnh. Không chỉ đứng xem hoặc đếm số hoạt động. Muốn theo dõi có ích phải biết đang đánh giá điều gì và dùng thông tin như thế nào.\n\n**Mentoring** là quan hệ hỗ trợ phát triển thông qua trao đổi, phản hồi và hướng dẫn gắn với công việc. Người hướng dẫn giúp đối tác suy nghĩ, thực hành và tự cải thiện, thay vì thường xuyên làm thay. **Advising** là cùng đối tác phân tích vấn đề, lựa chọn và đề xuất giải pháp chuyên môn để cải thiện hiệu quả. Cố vấn không mặc nhiên có quyền chỉ huy đối tác.\n\nBa phương pháp có thể bổ sung nhau. Quan sát cho thấy một khó khăn; trao đổi hướng dẫn giúp cán bộ cải thiện cách làm; tư vấn ở cấp tổ chức có thể giải quyết quy trình đang cản trở. Phải chọn phương pháp theo vấn đề và phạm vi nhiệm vụ, không dùng một nhãn cho mọi hoạt động tiếp xúc.\n\n### 4.2. Xây dựng quan hệ làm việc đáng tin cậy\nTin cậy đến từ hiểu bối cảnh, giữ lời hứa có thể thực hiện, tôn trọng người trao đổi và phản hồi có căn cứ. Trước khi khuyên, hãy hỏi đối tác nhìn vấn đề thế nào, đã thử biện pháp gì và gặp hạn chế ở đâu. Người có ít trang bị vẫn có kiến thức địa bàn và cách thích ứng đáng học hỏi.\n\nPhản hồi nên mô tả hành vi quan sát được, tác động và cách cải thiện. Tránh nhận xét chung về phẩm chất hoặc hạ thấp trước đồng nghiệp. Với vấn đề nghiêm trọng như bạo lực hoặc vi phạm, quan hệ cố vấn không cho phép giữ kín để bảo vệ sự tin cậy; phải báo và xử lý theo quy định.\n\n### 4.3. Giữ ranh giới vai trò\nUNPOL cần biết mình được theo dõi việc gì, ai là đối tác, ai quyết định và ai nhận báo cáo. Không tự ký thay, quyết định thay hoặc dùng quyền tiếp cận để làm công việc ngoài phân công. Nếu đối tác phản kháng, cần tìm nguyên nhân như mục tiêu chưa rõ, lo ngại, nguồn lực hoặc cách trao đổi; không vội kết luận thiếu thiện chí.\n\n**Điểm cần nhớ:** Mục tiêu của MMA là năng lực và hiệu quả của đối tác. Một buổi gặp thân thiện hoặc một lời khuyên dài chưa chứng minh công việc đã thay đổi.",
+        "en": "### 4.1. Three methods with different purposes\n**Monitoring** systematically follows performance against criteria using observation and information to identify progress, gaps and adjustments. It is more than watching or counting activities; define what is being assessed and how findings will be used.\n\n**Mentoring** supports development through work-related dialogue, feedback and guidance. Mentors help counterparts think, practise and improve rather than routinely taking over. **Advising** involves working with partners to analyse problems, consider options and develop professional solutions. An adviser does not automatically command the counterpart.\n\nThese methods complement each other. Observation identifies a difficulty, mentoring supports individual improvement, and organizational advice may remove a procedural barrier. Select methods according to the problem and assignment, rather than labelling every contact identically.\n\n### 4.2. Build a trustworthy working relationship\nTrust grows through contextual understanding, realistic commitments, respect and evidence-based feedback. Before advising, ask how partners understand the issue, what they have tried and what constrains them. Poorly equipped counterparts still possess valuable local knowledge and adaptive experience.\n\nFeedback should identify observed behaviour, effects and improvements rather than attack personal qualities or embarrass people. Serious violence or violations cannot be concealed to preserve a mentoring relationship; report and respond through applicable arrangements.\n\n### 4.3. Maintain role boundaries\nKnow the monitoring scope, counterparts, decision-makers and reporting recipients. Do not sign or decide on another’s behalf or use access for work outside tasking. When a counterpart resists, examine unclear objectives, concerns, resources and communication before assuming bad faith.\n\n**Remember:** MMA aims to improve partners’ capacity and performance. A friendly meeting or lengthy advice does not demonstrate changed practice."
+      },
+      "sourceIds": [
+        "U39"
+      ]
+    },
+    {
+      "id": "CORE-05-05",
+      "title": {
+        "vi": "5. Từ đánh giá nhu cầu đến kế hoạch hỗ trợ",
+        "en": "5. From needs assessment to a support plan"
+      },
+      "body": {
+        "vi": "### 5.1. Thống nhất kết quả cần đạt\nSau đánh giá, UN và đối tác cần thống nhất mục tiêu cụ thể, ưu tiên và phạm vi có thể thực hiện. Mục tiêu nên mô tả năng lực hoặc dịch vụ cần cải thiện, không chỉ nêu tổ chức một hoạt động. “Mở lớp về hồ sơ” nói việc sẽ làm; “cán bộ lập và chuyển hồ sơ đúng các yêu cầu được thống nhất” nói thay đổi mong muốn.\n\nCần xác định hiện trạng làm mốc so sánh, bằng chứng để đánh giá và giới hạn của dữ liệu. Không đặt mục tiêu bằng những con số đẹp khi chưa biết quy mô vấn đề, khả năng nguồn lực hoặc trách nhiệm của đối tác. Nếu mục tiêu quá rộng, chia thành bước có thể kiểm tra và điều chỉnh.\n\n### 5.2. Kế hoạch có người làm, nguồn lực và theo dõi\nMột kế hoạch hỗ trợ cần nêu hoạt động, người chịu trách nhiệm, vai trò đối tác, thời gian, nguồn lực, nguy cơ và cách kiểm tra. Nhu cầu phiên dịch, tài liệu, cơ sở, trang bị và hỗ trợ người tham gia phải được tính thực tế. Kế hoạch quá phụ thuộc một chuyên gia UN dễ gián đoạn khi cán bộ luân chuyển.\n\nCác hoạt động cần liên kết: Huấn luyện kiến thức, thực hành, phản hồi tại công việc, sửa quy trình và theo dõi. Không nên coi phát tài liệu hoặc cấp thiết bị là điểm kết thúc. Nếu đối tác không có điều kiện sử dụng, cần điều chỉnh giải pháp thay vì chỉ ghi đã bàn giao đủ.\n\n### 5.3. Quản lý nguy cơ khi cung cấp hỗ trợ\nTrước hỗ trợ, phải xem đối tượng nhận, mục đích sử dụng, khả năng bị dùng sai và biện pháp kiểm soát phù hợp. Các hình thức hỗ trợ cho lực lượng an ninh ngoài UN có thể thuộc HRDDP, bao gồm cả một số hoạt động kỹ thuật, đào tạo và hậu cần. Không cho rằng “chỉ hỗ trợ chuyên môn” là luôn ngoài phạm vi.\n\nNếu nhận được thông tin làm thay đổi nguy cơ, phải báo để xem lại kế hoạch và quyết định hỗ trợ. Điều chỉnh có thể liên quan nội dung, đối tượng, điều kiện hoặc cách theo dõi theo thẩm quyền. **Điểm cần nhớ:** Lập kế hoạch là kết nối mục tiêu với việc thực hiện và bằng chứng, không chỉ sắp lịch hoạt động.",
+        "en": "### 5.1. Agree on the intended result\nAssessment should lead to agreed objectives, priorities and a feasible scope. Describe the capability or service to improve, not merely an event. A class on records describes an activity; officers preparing and transferring records to agreed requirements describes an intended change.\n\nEstablish a baseline, evidence and data limitations. Do not invent attractive numerical targets before understanding needs, resources and partner responsibilities. Divide broad goals into verifiable, adjustable steps.\n\n### 5.2. Assign responsibility, resources and monitoring\nA support plan identifies activities, responsible persons, partner contributions, timing, resources, risks and checks. Interpretation, materials, facilities, equipment and participant needs require realistic provision. Dependence on one UN expert creates rotation risks.\n\nLink instruction, practice, workplace feedback, procedural improvement and follow-up. Distribution of materials or equipment should not end the process. If partners cannot use what is delivered, adjust support instead of reporting handover alone.\n\n### 5.3. Manage support-related risks\nBefore support, identify recipients, purpose, possible misuse and suitable safeguards. Support to non-UN security forces may fall under HRDDP, including some technical, training and logistical activities. Professional assistance is not automatically outside its scope.\n\nReport new information affecting risk so that plans and support decisions can be reviewed. Authorized adjustment may concern content, recipients, conditions or monitoring. **Remember:** Planning connects objectives, implementation and evidence, rather than merely scheduling activities."
+      },
+      "sourceIds": [
+        "U38",
+        "U39"
+      ]
+    },
+    {
+      "id": "CORE-05-06",
+      "title": {
+        "vi": "6. Pháp quyền, quản trị và tiến trình chính trị",
+        "en": "6. Rule of law, governance and political processes"
+      },
+      "body": {
+        "vi": "### 6.1. Không nhìn cảnh sát như một hệ thống đứng riêng\nCông việc cảnh sát liên quan cơ quan công tố, tòa án và hệ thống giam giữ. Nếu chỉ nâng năng lực bắt giữ mà không quan tâm thủ tục, chuyển hồ sơ, xét xử và điều kiện giam giữ, hỗ trợ có thể tạo thêm ách tắc hoặc nguy cơ xâm phạm quyền. Phát triển cảnh sát cần phối hợp các chức năng pháp quyền theo nhiệm vụ của từng bên.\n\nBộ phận nhân quyền có thể hỗ trợ hiểu bối cảnh, tiêu chuẩn và những nguy cơ liên quan cơ quan nhận hỗ trợ. Cán bộ tư pháp và giam giữ có chuyên môn riêng. UNPOL đóng góp chuyên môn cảnh sát; phối hợp không làm cán bộ tự trở thành thẩm phán, công tố viên hoặc chuyên gia mọi lĩnh vực.\n\n### 6.2. Hỗ trợ quyền lực nhà nước có trách nhiệm\nKhôi phục hoặc mở rộng sự hiện diện nhà nước cần gắn với dịch vụ, tính hợp pháp, khả năng tiếp cận và trách nhiệm đối với dân. Có thêm trụ sở hoặc nhân sự chưa chứng minh quản trị tốt hơn. Người dân cần được tiếp nhận, đối xử đúng và có cơ chế phản hồi, khiếu nại phù hợp.\n\nCần xem tác động khác nhau giữa các nhóm và nguy cơ hỗ trợ làm tăng bất bình hoặc củng cố hành vi lạm quyền. Lắng nghe cộng đồng giúp phát hiện những vấn đề không thể thấy chỉ từ số hoạt động hành chính. Quyền sở hữu quốc gia và trách nhiệm với người dân cần được xem cùng nhau.\n\n### 6.3. Bầu cử và xây dựng niềm tin\nHỗ trợ bầu cử của UN có cơ sở nhiệm vụ, đánh giá nhu cầu và cơ chế chuyên trách. Phần việc cảnh sát có thể liên quan an ninh theo phân công, không tự đồng nghĩa quan sát, chứng nhận kết quả hoặc ủng hộ một bên. Tiêu chuẩn thực hiện phải nhất quán, bảo vệ quyền và tránh biểu hiện thiên vị.\n\nCác hoạt động xây dựng niềm tin, bao gồm dự án tác động nhanh khi được phép, cần đáp ứng nhu cầu thực tế và phối hợp đối tác. Không dùng dự án nhỏ thay chiến lược phát triển hoặc hứa lợi ích để đổi lấy sự ủng hộ UN. **Điểm cần nhớ:** Năng lực kỹ thuật cần đặt trong tiến trình chính trị và quản trị rộng hơn; hỗ trợ tốt phải tính đến tác động đối với niềm tin và quyền con người.",
+        "en": "### 6.1. Police do not operate in isolation\nPolicing connects with prosecution, courts and corrections. Improving arrest capability without considering procedures, file transfer, adjudication and detention conditions may create bottlenecks or rights risks. Coordinate development across rule-of-law functions while respecting each actor’s role.\n\nHuman rights personnel contribute contextual knowledge, standards and risk information. Justice and corrections specialists have distinct expertise. UNPOL contributes policing expertise; coordination does not make every officer a judge, prosecutor or universal specialist.\n\n### 6.2. Support accountable State authority\nRestoring or extending State presence should improve services, legitimacy, access and accountability. More offices or personnel do not alone establish better governance. People need responsive reception, proper treatment and suitable feedback and complaint mechanisms.\n\nAssess different effects on groups and the risk that support reinforces grievances or abuse. Community perspectives reveal issues missed by administrative counts. National ownership and accountability to people belong together.\n\n### 6.3. Elections and confidence-building\nUN electoral assistance requires an appropriate basis, needs assessment and specialist arrangements. Assigned police work may concern electoral security; it does not automatically include observation, certification of results or support for a party. Apply consistent standards, protect rights and avoid perceived favoritism.\n\nConfidence-building activities, including authorized quick impact projects, should respond to real needs and coordinate with partners. Small projects do not replace development strategy or justify offering benefits in exchange for support for the UN. **Remember:** Technical capability operates within political and governance processes; assess effects on trust and rights."
+      },
+      "sourceIds": [
+        "C10",
+        "C11"
+      ]
+    },
+    {
+      "id": "CORE-05-07",
+      "title": {
+        "vi": "7. Đo kết quả, điều chỉnh và bàn giao",
+        "en": "7. Evaluate results, adjust and transition"
+      },
+      "body": {
+        "vi": "### 7.1. Đếm hoạt động chưa đủ\nSố lớp, người tham gia, giờ hướng dẫn và thiết bị bàn giao giúp theo dõi đầu ra. Muốn biết năng lực thay đổi, cần thêm bằng chứng về cách thực hiện công việc: Chất lượng hồ sơ, việc tuân thủ quy trình, khả năng tự giải quyết vấn đề hoặc trải nghiệm của người dân, tùy mục tiêu và dữ liệu phù hợp.\n\nKhông coi bài kiểm tra sau lớp học là bằng chứng duy nhất của hiệu quả tại nơi làm việc. Cũng không kết luận kết quả hoàn toàn do UN tạo ra nếu thay đổi có thể liên quan lãnh đạo mới, nguồn lực hoặc chương trình khác. Báo cáo cần nêu giới hạn và những yếu tố ảnh hưởng để người đọc đánh giá đúng.\n\n### 7.2. Theo dõi để học và điều chỉnh\nĐối chiếu bằng chứng với hiện trạng và mục tiêu đã thống nhất. Nếu chưa đạt, tìm nguyên nhân: Giải pháp chưa phù hợp, thiếu điều kiện áp dụng, mục tiêu quá rộng hay cách đo chưa đúng? Điều chỉnh cùng đối tác, ghi rõ thay đổi và trách nhiệm. Không chỉ thêm lớp học để tăng số hoạt động khi nguyên nhân nằm ở quy trình hoặc quản lý.\n\nThông tin theo dõi còn giúp liên kết hỗ trợ giữa các bộ phận, tránh lặp lại đánh giá và chuyển tiếp công việc. Hồ sơ cần có kết quả, khó khăn, nội dung đã cam kết và việc còn phải làm, không chỉ danh sách cuộc họp. Bảo vệ dữ liệu cá nhân và thông tin nhạy cảm trong lưu trữ, chia sẻ.\n\n### 7.3. Chuẩn bị kết thúc từ khi bắt đầu\nChuyển tiếp cần người tiếp nhận, năng lực, kinh phí duy trì, tài liệu, cơ chế giám sát và phương án đối với việc chưa hoàn thành. Bàn giao phải phản ánh mức độ tự thực hiện thực tế của đối tác, không chỉ hoàn thành chữ ký. Nếu còn thiếu, nêu rõ phần thiếu và nhu cầu tiếp nối qua cơ chế được thống nhất.\n\nCán bộ luân chuyển cần bàn giao bài học, quan hệ công việc, mục tiêu và bằng chứng, tránh để người đến bắt đầu lại toàn bộ. **Kết thúc bài:** Hỗ trợ hiệu quả là một quá trình từ hiểu vấn đề, thống nhất mục tiêu, tổ chức thực hiện đến đánh giá, điều chỉnh và chuyển tiếp. Trọng tâm xuyên suốt là khả năng đối tác phục vụ người dân một cách bền vững và có trách nhiệm.",
+        "en": "### 7.1. Activity counts are insufficient\nCourses, attendance, mentoring hours and equipment delivered describe outputs. Evidence of capability change concerns work performance: Record quality, procedural compliance, independent problem-solving or service-user experience, according to objectives and suitable data.\n\nA post-course test is not the sole proof of workplace effectiveness. Nor should change be attributed entirely to UN support when leadership, resources or other programmes may contribute. State limitations and influencing factors so readers can judge evidence appropriately.\n\n### 7.2. Monitor to learn and adjust\nCompare findings with the baseline and agreed objectives. If results fall short, examine unsuitable solutions, missing conditions, overly broad goals or weak measurement. Adjust with partners and record new responsibilities. More courses will not fix every procedural or management problem.\n\nMonitoring also connects support across sections and enables continuity. Record results, difficulties, commitments and outstanding work rather than meetings alone. Protect personal and sensitive information during storage and sharing.\n\n### 7.3. Plan transition from the start\nTransition needs an identified recipient, capability, continuing finance, documents, oversight and arrangements for unfinished work. Handover should reflect partners’ actual ability to perform, not signatures alone. Describe remaining gaps and agreed follow-on support honestly.\n\nRotating personnel should transfer lessons, relationships, objectives and evidence so successors do not restart everything. **Retain:** Effective support proceeds from understanding problems and agreeing objectives through delivery, evaluation, adjustment and transition. Its continuing focus is partners’ sustainable and accountable service to people."
+      },
+      "sourceIds": [
+        "U38",
+        "U39"
+      ]
+    }
+  ],
+  "source_ids": [
+    "C10",
+    "C11",
+    "U38",
+    "U39"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "Peacebuilding",
+      "definition": {
+        "vi": "Xây dựng điều kiện cho hòa bình bền vững và ngăn tái diễn xung đột.",
+        "en": "Strengthening conditions for sustainable peace and prevention of renewed conflict."
+      }
+    },
+    {
+      "term": "CBD",
+      "definition": {
+        "vi": "Phát triển năng lực để thực hiện chức năng và duy trì kết quả.",
+        "en": "Capacity-building and development for performance and sustained results."
+      }
+    },
+    {
+      "term": "National ownership",
+      "definition": {
+        "vi": "Chủ thể quốc gia tham gia định hướng, quyết định và chịu trách nhiệm.",
+        "en": "National actors shape direction, decisions and responsibility."
+      }
+    },
+    {
+      "term": "Monitoring / Mentoring / Advising",
+      "definition": {
+        "vi": "Theo dõi có hệ thống / hỗ trợ phát triển gắn công việc / tư vấn giải quyết vấn đề.",
+        "en": "Systematic performance monitoring / developmental guidance / advice on problems and solutions."
+      }
+    },
+    {
+      "term": "Baseline / Output / Outcome",
+      "definition": {
+        "vi": "Hiện trạng so sánh / đầu ra hoạt động / thay đổi gắn mục tiêu.",
+        "en": "Starting reference / activity output / change linked to an objective."
+      }
+    },
+    {
+      "term": "SSR&G / DDR",
+      "definition": {
+        "vi": "Cải cách và quản trị ngành an ninh / giải giáp, giải ngũ, tái hòa nhập.",
+        "en": "Security sector reform and governance / disarmament, demobilization and reintegration."
+      }
+    }
+  ],
+  "diagram": null,
+  "contentVersion": "batch-01-expanded-v1-2026-10-27",
+  "sourceIntro": {
+    "vi": "Nguồn dưới đây là tài liệu nền để đối chiếu bài học. Nội dung giải thích Việt–Anh và câu hỏi được biên soạn cho Handbook; hình gốc ghi rõ tài liệu và trang PDF.",
+    "en": "The following materials support the lesson. Bilingual explanations and questions are authored for the Handbook; original figures identify the source and PDF page."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Bản biên soạn đợt 1 ngày 27/10/2026. Tài liệu nền gồm CPTM 2025 và/hoặc UNPOL STM 2021 theo danh mục của từng bài. Hai ngôn ngữ phục vụ học tập, không phải bản dịch chính thức của UN.",
+      "Bài học dạy kiến thức chung, không xác định cơ cấu, mandate, quyền hạn hay thủ tục hành chính hiện hành của một phái bộ cụ thể. Khi làm nhiệm vụ, sử dụng văn bản và hướng dẫn có thẩm quyền áp dụng cho vị trí.",
+      "Bảng đối chiếu chỉ ra nguồn theo mục; không coi mọi câu là trích nguyên văn. Ví dụ công việc là phần giải thích biên soạn. Hình giữ nội dung tiếng Anh gốc, kèm chú giải đầy đủ Việt–Anh trong bài.",
+      "Nguồn được dùng theo nội dung giảng và mục tiêu bài; số trang hình là trang PDF, có thể khác số slide."
+    ],
+    "en": [
+      "Batch 1 authored on 27 October 2026 using CPTM 2025 and/or UNPOL STM 2021 as listed for each lesson. The bilingual text is learning material, not an official UN translation.",
+      "This lesson teaches general knowledge rather than establishing a particular mission’s current structure, mandate, powers or administrative procedures. Use authorized instruments applicable to your post.",
+      "The mapping identifies sources by section, not a verbatim source for every sentence. Work examples are authored explanations. Figures retain their original English text with bilingual explanations in the lesson.",
+      "Sources are used for their teaching content and objectives. Figure page numbers refer to PDF pages and may differ from slide numbers."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Phát triển năng lực cần làm thay đổi cách cơ quan cảnh sát phục vụ người dân, không chỉ tạo thêm lớp học hoặc trang bị. Bài học kết nối xây dựng hòa bình, đánh giá hệ thống, quyền sở hữu quốc gia, MMA, kế hoạch hỗ trợ và đánh giá kết quả.",
+      "en": "Capacity development should improve how police institutions serve people, rather than merely add courses or equipment. Connect peacebuilding, system assessment, national ownership, MMA, support planning and evaluation."
+    },
+    "subtitle": {
+      "vi": "Hiểu hệ thống · Hỗ trợ đối tác làm chủ · Đo thay đổi thực tế",
+      "en": "Understand systems · Enable partner ownership · Assess actual change"
+    },
+    "objectives": {
+      "vi": [
+        "Phân biệt các lĩnh vực xây dựng hòa bình và đóng góp cảnh sát trong hệ thống pháp quyền.",
+        "Đánh giá vấn đề ở cấp cá nhân, tổ chức và môi trường tạo điều kiện.",
+        "Giải thích quyền sở hữu quốc gia cùng sự tham gia có ý nghĩa và chuẩn mực nhân quyền.",
+        "Phân biệt monitoring, mentoring, advising và giữ ranh giới vai trò.",
+        "Kết nối mục tiêu, hoạt động, bằng chứng, đánh giá và chuyển tiếp bền vững."
+      ],
+      "en": [
+        "Distinguish peacebuilding fields and the policing contribution to rule of law.",
+        "Assess issues at individual, organizational and enabling-environment levels.",
+        "Explain national ownership, meaningful participation and human rights standards.",
+        "Distinguish monitoring, mentoring and advising while maintaining role boundaries.",
+        "Connect objectives, activities, evidence, evaluation and sustainable transition."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc 7 mục trong tab Nội dung bài học; xem hình và lời giải thích ở mục liên quan. Làm 12 câu kiểm tra, đọc phản hồi và quay lại mục được chỉ ra. Nút VI/EN đổi ngôn ngữ và giữ đáp án trong phiên mở trang; tải lại trang sẽ bắt đầu lại. Mỗi hình có thể bấm để xem lớn.",
+      "en": "Read the lesson sections and study each figure with its explanation. Complete 12 questions, review feedback and revisit the indicated section. VI/EN retains answers during the current session; reloading starts again. Click a figure to enlarge it."
+    }
+  },
+  "figures": [
+    {
+      "chapter": 1,
+      "image": "assets/lesson-figures/batch-01/U38-p7.png",
+      "alt": {
+        "vi": "Hình 1. Ba cấp độ trong phát triển năng lực",
+        "en": "Figure 1. Three levels in capacity development"
+      },
+      "caption": {
+        "vi": "Hình 1. Ba cấp độ trong phát triển năng lực",
+        "en": "Figure 1. Three levels in capacity development"
+      },
+      "explanation": {
+        "vi": "Nhìn ba cấp ở bên phải: Môi trường tạo điều kiện, tổ chức và cá nhân. Chu trình bên trái nhắc việc phân tích, thực hiện, đánh giá và chuyển tiếp có liên hệ. Nếu chỉ cải thiện kỹ năng mà giữ nguyên quy trình gây cản trở, kết quả khó bền vững.",
+        "en": "The right side shows enabling environment, organization and individual. The cycle connects analysis, implementation, evaluation and transition. Skills improvements alone may not endure if obstructive processes remain."
+      },
+      "sourceLabel": "UNPOL STM 2021 · Lesson 7",
+      "pdfPage": 7
+    },
+    {
+      "chapter": 1,
+      "image": "assets/lesson-figures/batch-01/U38-p9.png",
+      "alt": {
+        "vi": "Hình 2. Năm lĩnh vực để phân tích phát triển năng lực",
+        "en": "Figure 2. Five areas for capacity analysis"
+      },
+      "caption": {
+        "vi": "Hình 2. Năm lĩnh vực để phân tích phát triển năng lực",
+        "en": "Figure 2. Five areas for capacity analysis"
+      },
+      "explanation": {
+        "vi": "Năm lĩnh vực giúp mở rộng đánh giá ngoài số lớp và trang bị: Chuyên nghiệp, liêm chính; hành chính; pháp luật, chính sách; trách nhiệm; sự tham gia. Dùng chúng để tìm câu hỏi cần làm rõ, không chỉ để đánh dấu đủ danh mục.",
+        "en": "The areas broaden analysis beyond courses and equipment: Professionalism and integrity, administration, law and policy, accountability and engagement. Use them to identify questions, not merely tick boxes."
+      },
+      "sourceLabel": "UNPOL STM 2021 · Lesson 7",
+      "pdfPage": 9
+    }
+  ],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft",
+  "figureZoom": true
+}

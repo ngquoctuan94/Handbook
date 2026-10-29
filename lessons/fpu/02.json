@@ -1,0 +1,735 @@
+{
+  "schemaVersion": 2,
+  "id": "FPU-02",
+  "area": "fpu",
+  "groupKey": "FPU-M6",
+  "group": {
+    "vi": "Chỉ huy và tham mưu",
+    "en": "Command staff training"
+  },
+  "title": {
+    "vi": "Quản lý trang thiết bị COE",
+    "en": "Contingent-owned equipment management"
+  },
+  "summary": {
+    "vi": "Quản lý COE nhằm duy trì năng lực đã cam kết và hồ sơ đáng tin cậy. Bài học kết nối MOU, phân loại, bảo dưỡng, kiểm tra, hoàn trả và quyết định khi có thiếu sót.",
+    "en": "COE management sustains promised capability and reliable evidence. Connect MOU commitments, categories, maintenance, inspections, reimbursement and deficiency decisions."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 6,
+  "sourceKey": "COE",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-055%20Contingent%20Owned%20Equipment.pdf",
+  "order": 402,
+  "sections": [
+    {
+      "id": "FPU-02-01",
+      "title": {
+        "vi": "1. COE gắn với nhiệm vụ và cam kết đơn vị",
+        "en": "1. COE, mission tasks and unit commitments"
+      },
+      "body": {
+        "vi": "### 1.1. Trang bị phải tạo ra năng lực\nCOE là trang thiết bị thuộc quốc gia đóng góp, được đưa vào phái bộ theo thỏa thuận để thực hiện nhiệm vụ. Quản lý COE không chỉ là giữ tài sản khỏi mất. Mục tiêu là duy trì đúng năng lực đã cam kết, chứng minh tình trạng thực tế và bảo đảm sử dụng có trách nhiệm. Xe có trong danh sách nhưng không thể vận hành không tạo ra năng lực cơ động; hệ thống nước có thiết bị nhưng không cung cấp nước đạt yêu cầu chưa tạo ra dịch vụ tự bảo đảm.\n\nCOE cần được nhìn cùng nhân sự, vật tư và dịch vụ. Một thiết bị chỉ hữu ích khi có người đủ điều kiện sử dụng, bảo dưỡng, nhiên liệu hoặc nguồn điện và khả năng khắc phục hỏng hóc. Nếu kiểm kê chỉ ghi số lượng, đơn vị có thể bỏ sót khoảng trống ảnh hưởng trực tiếp nhiệm vụ và an toàn.\n\n### 1.2. Từ SUR đến MOU\nSUR mô tả nhiệm vụ, cách sử dụng và yêu cầu năng lực của đơn vị. MOU là thỏa thuận giữa UN và quốc gia đóng góp, xác định trách nhiệm, nhân sự, trang bị chủ yếu và dịch vụ tự bảo đảm. Các phụ lục A, B, C lần lượt thể hiện nhân sự, trang bị chủ yếu và tự bảo đảm; phải đọc cùng các điều khoản và phụ lục liên quan, không tách một dòng danh mục khỏi bối cảnh cam kết.\n\nChỉ huy cần biết đơn vị đã cam kết cung cấp gì, UN chịu phần nào và việc duy trì thuộc ai. Hướng dẫn của đơn vị nên chuyển cam kết đó thành phân công dễ thực hiện: Ai giữ hồ sơ, ai kiểm tra, ai báo hỏng, ai phối hợp sửa và ai xác nhận có thể sử dụng trở lại.\n\n### 1.3. Phân biệt COE và UNOE\nUNOE là trang bị thuộc UN, được cấp theo cơ chế tương ứng. Cùng sử dụng trong đơn vị không có nghĩa hai loại có cùng hồ sơ, chế độ bảo dưỡng hoặc cơ sở hoàn trả. Bộ đàm UN cấp để liên lạc giữa các thành phần phái bộ không tự thay thế nghĩa vụ cung cấp thông tin liên lạc tự bảo đảm của đơn vị.\n\n### 1.4. Đọc đúng văn bản áp dụng\nKhi xử lý một khoản hoàn trả hoặc thay đổi trang bị, phải xác định MOU, phụ lục, hướng dẫn và ngày hiệu lực áp dụng. Không dùng mức tiền trong bài giảng cũ làm cơ sở yêu cầu thanh toán. Bài học này tập trung vào nguyên tắc quản lý, bằng chứng và trách nhiệm; các quyết định tài chính cần được đối chiếu bởi đầu mối COE theo văn bản đang áp dụng cho đơn vị.",
+        "en": "### 1.1. Equipment must deliver capability\nCOE is contributing-country equipment deployed under agreement for mission tasks. Management protects more than asset ownership: It sustains promised capability, demonstrates actual condition and ensures responsible use. A listed but inoperable vehicle provides no mobility; installed water equipment provides no self-sustainment service unless it delivers the required water.\n\nConsider equipment together with personnel, consumables and services. Qualified operators, maintenance, power or fuel and repair arrangements are essential. Counting items alone can conceal gaps affecting safety and mission delivery.\n\n### 1.2. From SUR to MOU\nThe SUR describes tasks, employment and capability requirements. The MOU between the UN and contributing State establishes responsibilities for personnel, major equipment and self-sustainment. Annexes A, B and C identify those respective components and must be read with the wider agreement.\n\nCommanders must know what the unit has promised, what the UN provides and who maintains each capability. Translate commitments into assignments for records, inspections, defect reporting, repair coordination and return-to-service confirmation.\n\n### 1.3. Distinguish COE from UNOE\nUN-owned equipment follows its own issue, accountability and maintenance arrangements. Shared use does not create identical reimbursement treatment. UN-issued radios for communications between mission components do not automatically satisfy the unit's agreed communications self-sustainment requirements.\n\n### 1.4. Identify the applicable provisions\nFor a reimbursement issue or equipment change, establish the governing MOU, annexes, instructions and effective dates. Historical teaching rates are not a payment basis. This lesson develops management, evidence and accountability principles; financial decisions require confirmation with the COE focal point against provisions applicable to the unit."
+      },
+      "sourceIds": [
+        "CSC020",
+        "POLICY"
+      ]
+    },
+    {
+      "id": "FPU-02-02",
+      "title": {
+        "vi": "2. Trang bị chủ yếu, tự bảo đảm và hình thức cung cấp",
+        "en": "2. Major equipment, self-sustainment and lease arrangements"
+      },
+      "body": {
+        "vi": "### 2.1. Phân biệt vật có mặt và dịch vụ được cung cấp\nTrang bị chủ yếu gồm những hạng mục gắn trực tiếp nhiệm vụ, được UN và quốc gia đóng góp thống nhất trong MOU. Tự bảo đảm là khả năng cung cấp những dịch vụ và điều kiện đã cam kết, chẳng hạn phục vụ ăn uống, giặt là, vệ sinh hoặc dịch vụ liên quan khác theo phụ lục. Phân loại phải theo thỏa thuận, không dựa vào cảm giác thiết bị đắt hay rẻ.\n\nMột nhà bếp có đủ nồi và bếp nhưng bảo quản thực phẩm không an toàn vẫn có thể không đáp ứng dịch vụ. Cũng vậy, có máy phát chưa chứng minh hệ thống điện đủ an toàn và duy trì được. Khi kiểm tra tự bảo đảm, cần nhìn hiệu quả cung cấp cho toàn bộ quân số thuộc phạm vi cam kết, chất lượng, tính liên tục và điều kiện vệ sinh, an toàn.\n\n### 2.2. Wet lease\nTheo wet lease, quốc gia đóng góp cung cấp trang bị chủ yếu và chịu trách nhiệm bảo dưỡng, hỗ trợ cùng vật tư, phụ tùng liên quan theo thỏa thuận. Đơn vị vì vậy phải có năng lực kỹ thuật, người, công cụ và chuỗi tiếp tế để giữ trang bị hoạt động. Không thể chỉ đưa phương tiện vào phái bộ rồi mặc định UN sẽ sửa mọi hỏng hóc.\n\nBáo hỏng cần nêu mã tài sản, tình trạng, thời điểm ngừng hoạt động, ảnh hưởng nhiệm vụ và nhu cầu hỗ trợ. Nếu phụ tùng phải gửi từ trong nước, cần theo dõi thời gian dự kiến và phương án giảm tác động trong lúc chờ. Việc đã đặt mua phụ tùng chưa có nghĩa thiết bị đã phục hồi.\n\n### 2.3. Dry lease\nTheo dry lease, quốc gia cung cấp trang bị, còn UN hoặc bên thứ ba đảm nhiệm bảo dưỡng theo thỏa thuận. Đơn vị vẫn phải kiểm tra trước sử dụng, giữ tài sản đúng cách, báo lỗi kịp thời và phối hợp sửa chữa. Chuyển trách nhiệm kỹ thuật không có nghĩa người sử dụng được bỏ qua dấu hiệu nguy hiểm.\n\n### 2.4. Những điều cần xác minh\nĐối với từng hạng mục quan trọng, hãy xác định: Nó thuộc danh mục nào; tiêu chuẩn đầu ra là gì; ai vận hành; ai bảo dưỡng; vật tư lấy từ đâu; tình trạng được chứng minh bằng hồ sơ nào; khi thiếu thì báo ai. Wet và dry lease phân chia trách nhiệm và cơ sở hoàn trả, không phải đánh giá chất lượng thiết bị. Cả hai đều cần bằng chứng đáng tin cậy và cơ chế duy trì phù hợp.",
+        "en": "### 2.1. Presence of items and delivery of services\nMajor equipment comprises mission-related items agreed in the MOU. Self-sustainment concerns agreed services and conditions, such as catering, laundry or sanitation where specified. Classification follows the agreement rather than perceived purchase value.\n\nA kitchen may contain equipment yet fail food-safety requirements. A generator's presence does not establish safe, reliable power. Assess service coverage, quality, continuity, hygiene and safety for the personnel covered by the commitment.\n\n### 2.2. Wet lease\nUnder wet lease, the contributor provides major equipment and agreed maintenance, support, spare parts and consumables. The unit therefore needs technicians, tools and a supply chain. Deployment of an asset does not make all repairs a UN responsibility.\n\nDefect reports should identify the asset, condition, downtime, task impact and support required. Track parts ordered nationally and mitigation while awaiting delivery. An order for a spare part is not restoration of serviceability.\n\n### 2.3. Dry lease\nUnder dry lease, the contributor supplies equipment while the UN or a third party assumes agreed maintenance responsibility. The unit must still conduct operator checks, protect the asset, report defects and coordinate repairs. Technical support by another actor does not justify ignoring a safety warning.\n\n### 2.4. Verify each critical item\nEstablish its category, output standard, operator, maintenance responsibility, consumable supply, condition evidence and deficiency-reporting route. Wet and dry lease define responsibilities and reimbursement arrangements; they are not equipment-quality ratings. Both require reliable evidence and effective sustainment."
+      },
+      "sourceIds": [
+        "CSC020"
+      ]
+    },
+    {
+      "id": "FPU-02-03",
+      "title": {
+        "vi": "3. Hồ sơ và quản lý vòng đời trang bị",
+        "en": "3. Records and equipment life-cycle management"
+      },
+      "body": {
+        "vi": "### 3.1. Nhận bàn giao có kiểm tra\nKhi nhận trang bị, đối chiếu thực vật với danh mục, số nhận dạng, cấu hình, phụ kiện, tài liệu và tình trạng. Kiểm tra chức năng phải do người có năng lực thực hiện trong điều kiện an toàn. Ghi nhận thiếu, hỏng và giới hạn ngay khi phát hiện, xác định bên xử lý. Ký nhận số lượng không thay cho xác nhận tình trạng sử dụng.\n\nHồ sơ cần liên kết được tài sản với người hoặc bộ phận quản lý, vị trí, tình trạng và lịch sử bảo dưỡng. Với trang bị dùng chung, quy trình xuất–nhận cần cho biết ai sử dụng, thời điểm và lỗi phát hiện sau nhiệm vụ. Ghi chép đều đặn giảm tranh luận về hỏng hóc đã có trước hay mới phát sinh.\n\n### 3.2. Bảo dưỡng phòng ngừa và sửa chữa\nBảo dưỡng phòng ngừa thực hiện theo hướng dẫn nhà sản xuất, yêu cầu kỹ thuật và điều kiện hoạt động. Lịch có thể dựa trên thời gian, quãng đường hoặc giờ máy; phải theo đúng loại trang bị. Môi trường bụi, nhiệt hoặc sử dụng cường độ cao cần được người có chuyên môn đánh giá, thay vì tự kéo dài chu kỳ cho thuận tiện.\n\nKhi có lỗi ảnh hưởng an toàn, cần đánh dấu và kiểm soát để tránh sử dụng nhầm. Người quản lý phải biết thiết bị đang chờ chẩn đoán, chờ phụ tùng, sửa chữa hay đã được xác nhận trở lại hoạt động. Chỉ xóa dòng lỗi khi có bằng chứng khắc phục và kiểm tra phù hợp; việc hết thời hạn dự kiến sửa không chứng minh thiết bị đã tốt.\n\n### 3.3. Vật tư, phụ tùng và hao mòn\nTheo dõi vật tư tiêu hao để biết mức sử dụng, thời gian cung ứng và điểm cần bổ sung. Phụ tùng phải đúng loại, bảo quản phù hợp và có thể truy xuất. Không dùng vật tư không rõ nguồn hoặc tự thay đổi kết cấu để đưa thiết bị trở lại báo cáo “sẵn sàng”. Một giải pháp tạm thời cần được đánh giá, cho phép đúng thẩm quyền và nêu rõ giới hạn.\n\n### 3.4. Mất, hỏng và kết thúc sử dụng\nSự cố cần được báo theo cơ chế áp dụng, bảo toàn hồ sơ và lập chứng cứ về hoàn cảnh, tình trạng cùng hành động đã làm. Không tự hủy, chuyển nhượng, cho mượn hoặc tháo lấy bộ phận của tài sản khi chưa được phép. Khi luân phiên hoặc rút đơn vị, đối chiếu hồ sơ với tài sản, kiểm tra tồn đọng và trách nhiệm tiếp tục xử lý. Bàn giao tốt bảo vệ cả khả năng thực hiện nhiệm vụ lẫn tính minh bạch của đơn vị.",
+        "en": "### 3.1. Checked acceptance\nMatch assets against inventories, identifiers, configuration, accessories, documentation and condition. Qualified personnel should conduct safe functional checks. Record shortages, defects, limitations and responsibility for corrective action. A signature acknowledging quantity does not certify serviceability.\n\nRecords must connect each asset to its custodian, location, condition and maintenance history. Shared-equipment issue and return arrangements should identify users, timing and post-task defects. Consistent records help distinguish existing damage from newly occurring faults.\n\n### 3.2. Preventive and corrective maintenance\nFollow manufacturer instructions, technical requirements and operating conditions. Intervals may depend on time, distance or operating hours and must suit the equipment. Dust, heat and intensive use require technical assessment rather than convenient extensions.\n\nIdentify and control unsafe equipment against accidental use. Distinguish diagnosis, parts waiting, repair and verified return to service. Close a defect only after appropriate corrective evidence and checks. Reaching an estimated repair date is not proof of restoration.\n\n### 3.3. Consumables, spares and wear\nTrack consumption, supply lead times and replenishment needs. Use appropriate, traceable and correctly stored spares. Unknown materials or unauthorized alterations must not be used to report an asset as ready. Temporary measures require competent assessment, authorization and explicit limits.\n\n### 3.4. Loss, damage and end of use\nReport incidents, preserve records and document circumstances and action taken. Do not dispose of, transfer, lend or cannibalize assets without authorization. Rotation and withdrawal require reconciliation of equipment, records, outstanding defects and continuing responsibilities. Sound handover supports both capability and transparency."
+      },
+      "sourceIds": [
+        "CSC020",
+        "TRAIN"
+      ]
+    },
+    {
+      "id": "FPU-02-04",
+      "title": {
+        "vi": "4. Kiểm tra, xác minh và vai trò của đơn vị",
+        "en": "4. Inspection, verification and the unit's role"
+      },
+      "body": {
+        "vi": "### 4.1. Kiểm tra không chỉ để có biên bản\nKiểm tra xác định mức thực hiện cam kết và cung cấp căn cứ cho quản lý, khắc phục thiếu sót, hoàn trả. Đơn vị có trách nhiệm phối hợp, cung cấp hồ sơ đúng và trình bày tình trạng thực. Làm sạch phương tiện là cần thiết nhưng không thay thế việc sửa lỗi, đủ phụ kiện và duy trì dịch vụ.\n\nKiểm tra khi đến phái bộ thiết lập tình trạng ban đầu. Kiểm tra định kỳ theo cơ chế COE xác minh tình trạng tiếp diễn; kiểm tra sẵn sàng xem trang bị và dịch vụ có tiếp tục đáp ứng yêu cầu không. Kiểm tra hồi hương hoặc kết thúc triển khai hỗ trợ xác nhận tình trạng cuối kỳ. Lịch và yêu cầu cụ thể phải được đơn vị nắm với đầu mối COE; không chờ ngày đoàn tới mới bắt đầu kiểm tra nội bộ.\n\n### 4.2. Chuẩn bị bằng chứng có liên kết\nBộ hồ sơ phục vụ kiểm tra nên cho phép đi từ dòng MOU tới tài sản hoặc dịch vụ thực tế, người quản lý và bằng chứng tình trạng. Ví dụ, với một xe cần đối chiếu nhận dạng, tình trạng kỹ thuật, nhật ký bảo dưỡng và khả năng vận hành. Với dịch vụ ăn uống cần xem khả năng thực hiện, điều kiện lưu trữ và vệ sinh, thay vì chỉ đưa danh sách thiết bị bếp.\n\nKhi một hạng mục không thể kiểm tra ngay, phải giải thích lý do thật và bố trí xác minh phù hợp. Không mượn trang bị ngắn hạn hoặc luân chuyển cùng một thiết bị giữa các vị trí để tạo ấn tượng đủ số lượng.\n\n### 4.3. Đọc và phản hồi kết quả\nNgười được giao cần đọc biên bản, đối chiếu nhận định với thực tế và ghi rõ điểm còn khác biệt cùng bằng chứng. Ký xác nhận theo quy trình không nên trở thành hành vi ký khi chưa hiểu. Nếu có bất đồng, dùng cơ chế giải quyết ở cấp phái bộ và tuyến tiếp theo theo thỏa thuận; giữ cách trao đổi dựa trên hồ sơ, tránh gây sức ép với người kiểm tra.\n\n### 4.4. Theo dõi sau kiểm tra\nMỗi thiếu sót cần được chuyển thành hành động: Nội dung, ảnh hưởng nhiệm vụ, người xử lý, nguồn lực, mốc hoàn thành và cách xác nhận. Một lỗi được nêu lại nhiều kỳ cho thấy chu trình khắc phục chưa hoạt động. Không coi gửi văn bản lên cấp trên là đã giải quyết; cần theo dõi đến khi năng lực được phục hồi hoặc hạn chế được quản lý và báo rõ.",
+        "en": "### 4.1. Inspection serves capability\nInspections establish compliance, inform corrective action and support reimbursement. Units must cooperate, provide accurate records and demonstrate actual condition. Clean equipment cannot substitute for repairs, required accessories or functioning services.\n\nArrival inspection establishes the baseline. Periodic verification checks continuing compliance; operational-readiness inspection considers whether equipment and services still meet requirements. Repatriation or final inspection supports end-of-deployment verification. Confirm schedules and requirements with COE staff instead of waiting for the inspection team before checking internally.\n\n### 4.2. Connected evidence\nRecords should link an MOU requirement to the actual asset or service, its custodian and evidence of condition. For a vehicle, connect identification, technical status, maintenance and operational function. For catering, demonstrate delivery, storage and hygiene rather than only a kitchen inventory.\n\nExplain genuine reasons when an item cannot immediately be checked and arrange proper verification. Temporary borrowing or moving one asset between inspection locations must not create false evidence of compliance.\n\n### 4.3. Review findings\nRead reports, compare findings with actual conditions and document differences with evidence. Follow signature procedures with understanding. Address disagreements through mission-level and subsequent agreed mechanisms, using records rather than pressure on inspectors.\n\n### 4.4. Follow corrective action\nAssign each deficiency an action, task impact, owner, resources, deadline and verification method. Repeated findings indicate an ineffective correction cycle. Forwarding a letter does not resolve a gap: Track restoration or explicitly report and manage the remaining limitation."
+      },
+      "sourceIds": [
+        "CSC020"
+      ]
+    },
+    {
+      "id": "FPU-02-05",
+      "title": {
+        "vi": "5. Hoàn trả, thay đổi và tính trung thực của dữ liệu",
+        "en": "5. Reimbursement, changes and data integrity"
+      },
+      "body": {
+        "vi": "### 5.1. Từ cam kết tới xác minh\nHoàn trả được thực hiện theo cơ chế, tiêu chuẩn và mức được phê chuẩn, kết hợp thỏa thuận với bằng chứng thực hiện. Có trong MOU là cơ sở cam kết, không tự chứng minh mọi điều kiện thanh toán đã đáp ứng. Cũng không thể suy rằng đơn vị tự mua thêm tài sản thì UN đương nhiên phải hoàn trả.\n\nCác khoản hoàn trả đối với FPU thường được thực hiện với quốc gia đóng góp, không phải trả trực tiếp từng cá nhân như tiền nhận từ đơn vị. Cán bộ cần phân biệt hoàn trả quốc gia, chế độ cá nhân theo cơ chế riêng và chi phí thực tế đơn vị đang chịu. Nhầm lẫn các khoản này có thể tạo kỳ vọng sai và làm hồ sơ không nhất quán.\n\n### 5.2. Tình trạng và sử dụng phải ghi đúng\nDữ liệu cần phản ánh thiết bị thực sự hoạt động được hay không, thời điểm mất khả năng và mức sử dụng khi có yêu cầu theo dõi. Không sửa ngày để che thời gian hỏng; không khai hoạt động giả để đạt chỉ tiêu. Dữ liệu sai không chỉ ảnh hưởng tài chính mà còn khiến chỉ huy sử dụng một năng lực không có thật.\n\nKhung COE được điều chỉnh qua quyết định có thẩm quyền. Khi có thay đổi, phải kiểm tra nội dung nào đã được phê chuẩn, hạng mục nào chịu tác động, ngày áp dụng và sửa đổi MOU hoặc hướng dẫn liên quan. Không biến một đề xuất trong cuộc họp hoặc một thông báo khái quát thành công thức áp dụng cho mọi trang bị ngay lập tức.\n\n### 5.3. Thay đổi nhu cầu và trang bị\nNếu nhiệm vụ thay đổi làm cơ cấu trang bị không còn phù hợp, đơn vị báo cáo nhu cầu và ảnh hưởng, đề xuất qua tuyến chỉ huy và đầu mối COE. Thay đổi cam kết cần cơ chế chính thức giữa các bên. Đổi thiết bị, tăng số lượng hoặc bổ sung năng lực mà chưa thống nhất có thể tạo thiếu hụt về vận hành, bảo dưỡng và cơ sở hoàn trả.\n\n### 5.4. Xử lý bất đồng bằng chứng cứ\nKhi có chênh lệch, hãy xác định chính xác dòng yêu cầu, giai đoạn thời gian, bằng chứng tình trạng và điểm diễn giải khác nhau. Bảo lưu hồ sơ gốc, ghi ý kiến đúng thủ tục và theo dõi cơ chế giải quyết. Một hồ sơ rõ về sự cố và khắc phục có giá trị hơn lời khẳng định “trang bị vẫn tốt”. Chỉ huy cần bảo vệ sự trung thực của dữ liệu ngay cả khi kết quả trước mắt không thuận lợi.",
+        "en": "### 5.1. From commitments to verification\nReimbursement follows authorized standards, rates, agreements and evidence of performance. Listing in an MOU establishes a commitment without proving every payment condition. Additional nationally purchased assets do not automatically become reimbursable.\n\nFPU-related reimbursements generally go to the contributing State. Distinguish them from individual entitlements and actual unit expenditure. Confusion between these categories creates false expectations and inconsistent records.\n\n### 5.2. Record condition and use accurately\nData must show real serviceability, downtime and usage where required. Do not alter dates to conceal defects or fabricate activity to meet targets. False data affects financial accountability and can cause commanders to deploy nonexistent capability.\n\nThe COE framework changes through authorized decisions. Establish what was approved, affected categories, effective dates and relevant MOU amendments or technical instructions. A meeting proposal or general announcement is not an immediately applicable formula for every equipment category.\n\n### 5.3. Changes to needs and equipment\nWhere evolving tasks require different equipment, report the need and implications through command and COE channels. Changes to commitments require formal arrangements between the parties. Unauthorized substitution or expansion can create operational, maintenance and reimbursement gaps.\n\n### 5.4. Evidence-based disagreement\nIdentify the precise requirement, period, condition evidence and interpretation in dispute. Preserve original records, submit observations properly and follow agreed resolution mechanisms. Documented faults and corrective work are more useful than unsupported claims of serviceability. Commanders must protect data integrity even when immediate findings are unfavourable."
+      },
+      "sourceIds": [
+        "CSC020",
+        "COE2026",
+        "RES80271"
+      ]
+    },
+    {
+      "id": "FPU-02-06",
+      "title": {
+        "vi": "6. Từ thiếu sót COE đến quyết định sẵn sàng",
+        "en": "6. From COE gaps to readiness decisions"
+      },
+      "body": {
+        "vi": "### 6.1. Diễn giải thiếu sót bằng ảnh hưởng nhiệm vụ\nBáo cáo “hỏng hai xe” mới mô tả số lượng. Chỉ huy cần biết loại xe, nhiệm vụ bị ảnh hưởng, số người có thể vận chuyển an toàn, khả năng thay thế và thời gian dự kiến. Cùng một số xe hỏng có thể tạo ảnh hưởng rất khác nhau tùy nhiệm vụ và năng lực còn lại. Vì vậy cần liên kết từng thiếu sót với năng lực đơn vị đã cam kết và nhiệm vụ đang nhận.\n\nCó thể tổ chức theo dõi nội bộ bằng các trạng thái dễ hiểu: Sử dụng được; sử dụng có giới hạn được cho phép; ngừng sử dụng; chờ xác minh. Đây là công cụ quản lý do đơn vị tổ chức, không tự thay thang đánh giá chính thức COE. Mọi giới hạn phải đủ rõ để người giao nhiệm vụ hiểu khả năng thực hiện và nguy cơ còn lại.\n\n### 6.2. Quyết định và biện pháp tạm thời\nĐơn vị cần đánh giá có thể thực hiện nhiệm vụ với nguồn lực còn lại không, cần điều chỉnh gì và cần cấp nào quyết định. Không dùng phương tiện thiếu an toàn để giữ báo cáo quân số hoặc tỷ lệ triển khai đẹp. Nếu có giải pháp thay thế được phép, phải tính cả người vận hành, bảo dưỡng và ảnh hưởng đến nhiệm vụ khác.\n\nThông tin thiếu sót phải đến nơi có thể xử lý: Chỉ huy tác nghiệp cần biết hạn chế năng lực; đầu mối hậu cần cần biết nhu cầu kỹ thuật; đầu mối COE cần hồ sơ xác minh. Cùng một sự cố có thể cần nhiều tuyến báo cáo với mục đích khác nhau. Chỉ gửi cho một bên chưa chắc đã hoàn thành trách nhiệm.\n\n### 6.3. Bàn giao và học từ lỗi lặp\nBàn giao giữa ca, giữa bộ phận hoặc khi luân phiên phải chỉ rõ tài sản, tình trạng, hồ sơ, việc còn chờ và bên chịu trách nhiệm. Kiểm tra thực tế các hạng mục quan trọng thay vì sao chép danh sách cũ. Khi lỗi lặp, cần xem nguyên nhân: Thiếu huấn luyện người dùng, bảo dưỡng không phù hợp, vật tư chậm hay kế hoạch khai thác vượt khả năng.\n\n### 6.4. Chuẩn quản lý cần đạt\nMột hệ thống COE tốt cho phép trả lời nhanh và có chứng cứ: Đơn vị phải có gì; thực tế có gì; cái gì hoạt động được; ai đang sử dụng và bảo dưỡng; thiếu sót ảnh hưởng nhiệm vụ nào; việc khắc phục đến đâu. Khi sáu câu hỏi này được trả lời thống nhất giữa người dùng, hậu cần và chỉ huy, COE trở thành nền tảng duy trì năng lực thay vì hồ sơ chỉ mở trước kỳ kiểm tra.",
+        "en": "### 6.1. Explain operational consequences\n“Two vehicles defective” states a quantity. Command needs vehicle types, affected tasks, safe transport capacity, alternatives and restoration estimates. Identical defect numbers can have very different consequences depending on commitments and remaining capability.\n\nAn internal status system may distinguish serviceable, authorized limited use, withdrawn from use and awaiting verification. This is a unit management aid rather than an official COE rating scale. Describe limitations clearly enough for tasking authorities to understand what remains feasible.\n\n### 6.2. Decisions and temporary measures\nAssess whether remaining resources can fulfil the task, what adjustment is required and who must decide. Do not employ unsafe equipment to preserve favourable deployment figures. Authorized alternatives require qualified operators, maintenance and consideration of competing tasks.\n\nOperational command needs capability limitations; logistics needs technical requirements; COE staff need verification evidence. One incident may require several reporting routes for different purposes. Informing one actor may not fulfil every responsibility.\n\n### 6.3. Handover and recurring defects\nShift, departmental and rotation handovers must identify assets, condition, records, outstanding work and responsible actors. Check critical items rather than copying previous lists. Recurring defects require examination of operator training, maintenance, supply delays or excessive demand.\n\n### 6.4. The management standard\nA sound system can establish, with evidence, what was promised, what exists, what works, who operates and maintains it, which tasks are affected and how correction is progressing. Shared answers across users, logistics and command make COE a foundation of sustained capability rather than an inspection-only file."
+      },
+      "sourceIds": [
+        "CSC020",
+        "CSC004"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "CSC020",
+      "title": "FPU Command Staff Course 2026 · Lesson 20: COE and Inspection Regime",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-020%20Lesson%2020%20COE%20and%20Inspection%20Regime%20(LP).pdf",
+      "year": "2026",
+      "publisher": "United Nations Police / DPO",
+      "format": "pdf"
+    },
+    {
+      "id": "POLICY",
+      "title": "Policy 2024.14: Formed Police Units in United Nations Peace Operations",
+      "publisher": "United Nations DPO",
+      "year": "2024",
+      "url": "https://resourcehub01.blob.core.windows.net/$web/Policy%20and%20Guidance/corepeacekeepingguidance/Thematic%20Operational%20Activities/Police%20and%20Law%20Enforcement/2024.14%20Formed%20Police%20Units%20in%20United%20Nations%20Peace%20Operations.pdf",
+      "format": "pdf",
+      "pages": 34,
+      "reading": "Nguồn chính sách nền; hiệu lực 01/12/2024",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "TRAIN",
+      "title": "FPU Training & Maintenance",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-054%20FPU%20Training%20%26%20maintenance.pdf",
+      "format": "pdf",
+      "pages": 13,
+      "reading": "6–13",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "COE2026",
+      "title": "Uniformed Capability Requirements Paper — September 2026",
+      "url": "https://pcrs.un.org/ru/media/276",
+      "year": "2026",
+      "publisher": "United Nations DOS / PCRS",
+      "format": "web",
+      "checked": "2026-10-28"
+    },
+    {
+      "id": "RES80271",
+      "title": "General Assembly resolution A/RES/80/271 — COE reimbursement review",
+      "url": "https://docs.un.org/A/RES/80/271",
+      "year": "2026",
+      "publisher": "United Nations General Assembly",
+      "format": "web",
+      "checked": "2026-10-28"
+    },
+    {
+      "id": "CSC004",
+      "title": "FPU Command Staff Course 2026 · Lesson 4: Preparing for Deployment: AOC/FPAT",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-004%20Lesson%204%20Preparing%20for%20Deployment%20AOC%20FPAT%20(LP).pdf",
+      "year": "2026",
+      "publisher": "United Nations Police / DPO",
+      "format": "pdf"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Một xe có trong danh sách nhưng không vận hành được thể hiện điều gì?",
+        "en": "What does a listed but inoperable vehicle demonstrate?"
+      },
+      "options": [
+        {
+          "vi": "Có tài sản nhưng năng lực cơ động tương ứng đang bị thiếu.",
+          "en": "An asset exists, but the associated mobility capability is unavailable."
+        },
+        {
+          "vi": "Tự động đủ mọi điều kiện hoàn trả.",
+          "en": "Automatic fulfilment of all reimbursement conditions."
+        },
+        {
+          "vi": "Đủ năng lực vì kiểm kê đủ số lượng.",
+          "en": "Full capability because inventory quantity is complete."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Quản lý COE phải xem tình trạng và đầu ra; sự hiện diện không tự chứng minh năng lực hoặc điều kiện thanh toán. Xem mục 1.",
+        "en": "COE management examines condition and outputs; presence alone proves neither capability nor payment eligibility. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "UN cấp bộ đàm liên lạc giữa các thành phần có tự thay cam kết tự bảo đảm không?",
+        "en": "Do UN-issued inter-component radios automatically replace self-sustainment commitments?"
+      },
+      "options": [
+        {
+          "vi": "Có, miễn bộ đàm có thể phát sóng.",
+          "en": "Yes, provided a radio transmits."
+        },
+        {
+          "vi": "Không; phải phân biệt UNOE và nghĩa vụ trong MOU.",
+          "en": "No; distinguish UNOE from MOU obligations."
+        },
+        {
+          "vi": "Có, mọi trang bị trong đơn vị đều tính như COE.",
+          "en": "Yes, all equipment used by the unit counts as COE."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Nguồn trang bị, mục đích cấp và cam kết liên quan phải được xác định riêng. Xem mục 1.",
+        "en": "Ownership, issue purpose and relevant obligations must be identified separately. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Wet lease đặt trách nhiệm duy trì trang bị chủ yếu vào đâu?",
+        "en": "Under wet lease, who bears agreed major-equipment sustainment responsibility?"
+      },
+      "options": [
+        {
+          "vi": "Quốc gia đóng góp, gồm bảo dưỡng và hỗ trợ liên quan theo thỏa thuận.",
+          "en": "The contributor, including maintenance and related support under the agreement."
+        },
+        {
+          "vi": "Không bên nào sau kiểm tra khi đến.",
+          "en": "Neither party after arrival inspection."
+        },
+        {
+          "vi": "Luôn là UN, bất kể MOU.",
+          "en": "Always the UN, regardless of the MOU."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Đơn vị phải có người, công cụ, phụ tùng và cơ chế duy trì tương ứng; không mặc định UN sửa mọi lỗi. Xem mục 2.",
+        "en": "The unit needs technicians, tools, spares and sustainment arrangements rather than assuming UN repair responsibility. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Dry lease có làm người sử dụng hết trách nhiệm khi thấy lỗi không?",
+        "en": "Does dry lease remove the operator’s responsibility when a defect appears?"
+      },
+      "options": [
+        {
+          "vi": "Không; vẫn phải kiểm tra, bảo vệ, báo lỗi và phối hợp sửa.",
+          "en": "No; checks, care, defect reporting and repair coordination remain necessary."
+        },
+        {
+          "vi": "Có; tiếp tục dùng đến khi bên bảo dưỡng tự phát hiện.",
+          "en": "Yes; continue until the maintenance provider discovers it."
+        },
+        {
+          "vi": "Có; chỉ cần giữ sạch vỏ ngoài.",
+          "en": "Yes; external cleanliness is the only duty."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Phân chia trách nhiệm bảo dưỡng không loại bỏ nghĩa vụ sử dụng an toàn và báo tình trạng. Xem mục 2.",
+        "en": "Maintenance allocation does not remove safe-use and condition-reporting duties. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Điều gì đủ để đóng một lỗi kỹ thuật?",
+        "en": "What supports closure of a technical defect?"
+      },
+      "options": [
+        {
+          "vi": "Bằng chứng khắc phục và kiểm tra phù hợp xác nhận sử dụng trở lại.",
+          "en": "Evidence of correction and suitable return-to-service checks."
+        },
+        {
+          "vi": "Đã đặt mua phụ tùng.",
+          "en": "A spare part has been ordered."
+        },
+        {
+          "vi": "Đã đến ngày dự kiến hoàn thành.",
+          "en": "The estimated completion date has arrived."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Hoạt động chuẩn bị sửa và mốc thời gian không tự chứng minh chức năng đã phục hồi. Xem mục 3.",
+        "en": "Repair preparation and dates do not establish restored function. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Khi luân phiên nhận tài sản, việc nào cần thiết?",
+        "en": "What is necessary when accepting assets during rotation?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ xem thiết bị có mới về hình thức không.",
+          "en": "Check appearance only."
+        },
+        {
+          "vi": "Sao chép danh sách cũ rồi ký.",
+          "en": "Copy the previous inventory and sign."
+        },
+        {
+          "vi": "Đối chiếu nhận dạng, số lượng, tình trạng, hồ sơ và việc còn tồn.",
+          "en": "Reconcile identification, quantity, condition, records and outstanding work."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Bàn giao phải thể hiện năng lực thực và trách nhiệm tiếp tục xử lý, không chỉ số lượng. Xem mục 3.",
+        "en": "Handover must establish actual capability and continuing responsibilities, not quantity alone. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Chuẩn bị kiểm tra COE nên tập trung vào đâu?",
+        "en": "What should COE inspection preparation emphasize?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ làm sạch phương tiện.",
+          "en": "Clean vehicles only."
+        },
+        {
+          "vi": "Mượn tạm thiết bị để đủ số tại thời điểm kiểm tra.",
+          "en": "Temporarily borrow equipment to meet inspection quantities."
+        },
+        {
+          "vi": "Liên kết yêu cầu MOU với tài sản, dịch vụ và bằng chứng thực hiện.",
+          "en": "Link MOU requirements with actual assets, services and evidence."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Xác minh cần tình trạng thật; chuẩn bị hình thức hoặc tạo số lượng giả không chứng minh cam kết đã được thực hiện. Xem mục 4.",
+        "en": "Verification requires actual condition, not appearance or fabricated availability. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Một thiếu sót lặp qua nhiều kỳ cho thấy điều gì cần xem lại?",
+        "en": "What needs review when the same deficiency recurs across inspections?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ cách viết tên lỗi để trông khác lần trước.",
+          "en": "Only the wording so the finding looks different."
+        },
+        {
+          "vi": "Chu trình khắc phục, trách nhiệm và cách kiểm chứng hiệu quả.",
+          "en": "Corrective action, ownership and effectiveness verification."
+        },
+        {
+          "vi": "Không cần làm gì nếu đã gửi công văn.",
+          "en": "Nothing if a letter was sent."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Thông báo một việc chưa đồng nghĩa giải quyết việc đó; cần theo dõi năng lực phục hồi. Xem mục 4.",
+        "en": "Communicating a problem does not resolve it; track restored capability. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Một đề xuất thay đổi hoàn trả cần được áp dụng thế nào?",
+        "en": "How should a proposed reimbursement change be handled?"
+      },
+      "options": [
+        {
+          "vi": "Áp dụng ngay cho mọi loại trang bị.",
+          "en": "Apply immediately to every category."
+        },
+        {
+          "vi": "Chỉ dựa mức tiền trong slide cũ.",
+          "en": "Use rates from an old slide only."
+        },
+        {
+          "vi": "Kiểm tra phê chuẩn, hạng mục, hiệu lực và hướng dẫn áp dụng trước khi tính.",
+          "en": "Check approval, affected categories, effective dates and implementation instructions."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Đề xuất, quyết định phê chuẩn và thời điểm áp dụng không phải cùng một mốc. Xem mục 5.",
+        "en": "Proposal, approval and implementation dates are distinct. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Ai thường nhận khoản hoàn trả liên quan FPU từ UN?",
+        "en": "Who generally receives FPU-related UN reimbursement?"
+      },
+      "options": [
+        {
+          "vi": "Từng cán bộ luôn nhận trực tiếp khoản COE.",
+          "en": "Every officer always receives COE reimbursement directly."
+        },
+        {
+          "vi": "Quốc gia đóng góp theo cơ chế và thỏa thuận.",
+          "en": "The contributing State under the applicable arrangements."
+        },
+        {
+          "vi": "Người giữ tài sản tự phân chia theo số xe.",
+          "en": "The custodian distributes it according to vehicle numbers."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Cần phân biệt hoàn trả quốc gia với chế độ cá nhân và chi phí đơn vị. Xem mục 5.",
+        "en": "Distinguish State reimbursement from individual entitlements and unit expenditure. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Báo cáo thiếu xe nên bổ sung thông tin gì hữu ích nhất?",
+        "en": "What most usefully supplements a vehicle-shortage report?"
+      },
+      "options": [
+        {
+          "vi": "Cam kết vẫn hoàn thành mọi nhiệm vụ dù chưa đánh giá.",
+          "en": "A promise to fulfil every task without assessment."
+        },
+        {
+          "vi": "Loại xe, nhiệm vụ bị ảnh hưởng, phương án và thời gian dự kiến.",
+          "en": "Vehicle type, affected tasks, alternatives and estimated restoration."
+        },
+        {
+          "vi": "Chỉ tổng số xe mà không nêu chức năng.",
+          "en": "Total numbers without functions."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Chỉ huy cần hiểu hệ quả và quyết định cần thiết, không chỉ số lượng. Xem mục 6.",
+        "en": "Command needs consequences and decisions required, not numbers alone. See section 6."
+      },
+      "chapter": 5
+    },
+    {
+      "question": {
+        "vi": "Giải pháp thay thế trang bị cần tính điều gì?",
+        "en": "What must an equipment substitute account for?"
+      },
+      "options": [
+        {
+          "vi": "Không cần báo nếu tạo được báo cáo sẵn sàng.",
+          "en": "No reporting if it permits a ready-status report."
+        },
+        {
+          "vi": "Chỉ cần vừa kích thước chỗ để.",
+          "en": "Only whether it fits the storage space."
+        },
+        {
+          "vi": "Thẩm quyền, an toàn, người vận hành, duy trì và ảnh hưởng nhiệm vụ khác.",
+          "en": "Authorization, safety, operators, sustainment and competing tasks."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Thay thế chỉ có giá trị khi tạo năng lực thực, an toàn và được cho phép. Xem mục 6.",
+        "en": "A substitute is useful only when it provides actual, safe and authorized capability. See section 6."
+      },
+      "chapter": 5
+    }
+  ],
+  "updated": "2026-10-28",
+  "moduleId": "FPU-M6",
+  "moduleOrder": 4,
+  "lessonOrder": 2,
+  "sourceModule": {
+    "programme": "STM-FPU",
+    "number": 6,
+    "title": "Command staff training"
+  },
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "FPU-02-01",
+      "title": {
+        "vi": "1. COE gắn với nhiệm vụ và cam kết đơn vị",
+        "en": "1. COE, mission tasks and unit commitments"
+      },
+      "body": {
+        "vi": "### 1.1. Trang bị phải tạo ra năng lực\nCOE là trang thiết bị thuộc quốc gia đóng góp, được đưa vào phái bộ theo thỏa thuận để thực hiện nhiệm vụ. Quản lý COE không chỉ là giữ tài sản khỏi mất. Mục tiêu là duy trì đúng năng lực đã cam kết, chứng minh tình trạng thực tế và bảo đảm sử dụng có trách nhiệm. Xe có trong danh sách nhưng không thể vận hành không tạo ra năng lực cơ động; hệ thống nước có thiết bị nhưng không cung cấp nước đạt yêu cầu chưa tạo ra dịch vụ tự bảo đảm.\n\nCOE cần được nhìn cùng nhân sự, vật tư và dịch vụ. Một thiết bị chỉ hữu ích khi có người đủ điều kiện sử dụng, bảo dưỡng, nhiên liệu hoặc nguồn điện và khả năng khắc phục hỏng hóc. Nếu kiểm kê chỉ ghi số lượng, đơn vị có thể bỏ sót khoảng trống ảnh hưởng trực tiếp nhiệm vụ và an toàn.\n\n### 1.2. Từ SUR đến MOU\nSUR mô tả nhiệm vụ, cách sử dụng và yêu cầu năng lực của đơn vị. MOU là thỏa thuận giữa UN và quốc gia đóng góp, xác định trách nhiệm, nhân sự, trang bị chủ yếu và dịch vụ tự bảo đảm. Các phụ lục A, B, C lần lượt thể hiện nhân sự, trang bị chủ yếu và tự bảo đảm; phải đọc cùng các điều khoản và phụ lục liên quan, không tách một dòng danh mục khỏi bối cảnh cam kết.\n\nChỉ huy cần biết đơn vị đã cam kết cung cấp gì, UN chịu phần nào và việc duy trì thuộc ai. Hướng dẫn của đơn vị nên chuyển cam kết đó thành phân công dễ thực hiện: Ai giữ hồ sơ, ai kiểm tra, ai báo hỏng, ai phối hợp sửa và ai xác nhận có thể sử dụng trở lại.\n\n### 1.3. Phân biệt COE và UNOE\nUNOE là trang bị thuộc UN, được cấp theo cơ chế tương ứng. Cùng sử dụng trong đơn vị không có nghĩa hai loại có cùng hồ sơ, chế độ bảo dưỡng hoặc cơ sở hoàn trả. Bộ đàm UN cấp để liên lạc giữa các thành phần phái bộ không tự thay thế nghĩa vụ cung cấp thông tin liên lạc tự bảo đảm của đơn vị.\n\n### 1.4. Đọc đúng văn bản áp dụng\nKhi xử lý một khoản hoàn trả hoặc thay đổi trang bị, phải xác định MOU, phụ lục, hướng dẫn và ngày hiệu lực áp dụng. Không dùng mức tiền trong bài giảng cũ làm cơ sở yêu cầu thanh toán. Bài học này tập trung vào nguyên tắc quản lý, bằng chứng và trách nhiệm; các quyết định tài chính cần được đối chiếu bởi đầu mối COE theo văn bản đang áp dụng cho đơn vị.",
+        "en": "### 1.1. Equipment must deliver capability\nCOE is contributing-country equipment deployed under agreement for mission tasks. Management protects more than asset ownership: It sustains promised capability, demonstrates actual condition and ensures responsible use. A listed but inoperable vehicle provides no mobility; installed water equipment provides no self-sustainment service unless it delivers the required water.\n\nConsider equipment together with personnel, consumables and services. Qualified operators, maintenance, power or fuel and repair arrangements are essential. Counting items alone can conceal gaps affecting safety and mission delivery.\n\n### 1.2. From SUR to MOU\nThe SUR describes tasks, employment and capability requirements. The MOU between the UN and contributing State establishes responsibilities for personnel, major equipment and self-sustainment. Annexes A, B and C identify those respective components and must be read with the wider agreement.\n\nCommanders must know what the unit has promised, what the UN provides and who maintains each capability. Translate commitments into assignments for records, inspections, defect reporting, repair coordination and return-to-service confirmation.\n\n### 1.3. Distinguish COE from UNOE\nUN-owned equipment follows its own issue, accountability and maintenance arrangements. Shared use does not create identical reimbursement treatment. UN-issued radios for communications between mission components do not automatically satisfy the unit's agreed communications self-sustainment requirements.\n\n### 1.4. Identify the applicable provisions\nFor a reimbursement issue or equipment change, establish the governing MOU, annexes, instructions and effective dates. Historical teaching rates are not a payment basis. This lesson develops management, evidence and accountability principles; financial decisions require confirmation with the COE focal point against provisions applicable to the unit."
+      },
+      "sourceIds": [
+        "CSC020",
+        "POLICY"
+      ]
+    },
+    {
+      "id": "FPU-02-02",
+      "title": {
+        "vi": "2. Trang bị chủ yếu, tự bảo đảm và hình thức cung cấp",
+        "en": "2. Major equipment, self-sustainment and lease arrangements"
+      },
+      "body": {
+        "vi": "### 2.1. Phân biệt vật có mặt và dịch vụ được cung cấp\nTrang bị chủ yếu gồm những hạng mục gắn trực tiếp nhiệm vụ, được UN và quốc gia đóng góp thống nhất trong MOU. Tự bảo đảm là khả năng cung cấp những dịch vụ và điều kiện đã cam kết, chẳng hạn phục vụ ăn uống, giặt là, vệ sinh hoặc dịch vụ liên quan khác theo phụ lục. Phân loại phải theo thỏa thuận, không dựa vào cảm giác thiết bị đắt hay rẻ.\n\nMột nhà bếp có đủ nồi và bếp nhưng bảo quản thực phẩm không an toàn vẫn có thể không đáp ứng dịch vụ. Cũng vậy, có máy phát chưa chứng minh hệ thống điện đủ an toàn và duy trì được. Khi kiểm tra tự bảo đảm, cần nhìn hiệu quả cung cấp cho toàn bộ quân số thuộc phạm vi cam kết, chất lượng, tính liên tục và điều kiện vệ sinh, an toàn.\n\n### 2.2. Wet lease\nTheo wet lease, quốc gia đóng góp cung cấp trang bị chủ yếu và chịu trách nhiệm bảo dưỡng, hỗ trợ cùng vật tư, phụ tùng liên quan theo thỏa thuận. Đơn vị vì vậy phải có năng lực kỹ thuật, người, công cụ và chuỗi tiếp tế để giữ trang bị hoạt động. Không thể chỉ đưa phương tiện vào phái bộ rồi mặc định UN sẽ sửa mọi hỏng hóc.\n\nBáo hỏng cần nêu mã tài sản, tình trạng, thời điểm ngừng hoạt động, ảnh hưởng nhiệm vụ và nhu cầu hỗ trợ. Nếu phụ tùng phải gửi từ trong nước, cần theo dõi thời gian dự kiến và phương án giảm tác động trong lúc chờ. Việc đã đặt mua phụ tùng chưa có nghĩa thiết bị đã phục hồi.\n\n### 2.3. Dry lease\nTheo dry lease, quốc gia cung cấp trang bị, còn UN hoặc bên thứ ba đảm nhiệm bảo dưỡng theo thỏa thuận. Đơn vị vẫn phải kiểm tra trước sử dụng, giữ tài sản đúng cách, báo lỗi kịp thời và phối hợp sửa chữa. Chuyển trách nhiệm kỹ thuật không có nghĩa người sử dụng được bỏ qua dấu hiệu nguy hiểm.\n\n### 2.4. Những điều cần xác minh\nĐối với từng hạng mục quan trọng, hãy xác định: Nó thuộc danh mục nào; tiêu chuẩn đầu ra là gì; ai vận hành; ai bảo dưỡng; vật tư lấy từ đâu; tình trạng được chứng minh bằng hồ sơ nào; khi thiếu thì báo ai. Wet và dry lease phân chia trách nhiệm và cơ sở hoàn trả, không phải đánh giá chất lượng thiết bị. Cả hai đều cần bằng chứng đáng tin cậy và cơ chế duy trì phù hợp.",
+        "en": "### 2.1. Presence of items and delivery of services\nMajor equipment comprises mission-related items agreed in the MOU. Self-sustainment concerns agreed services and conditions, such as catering, laundry or sanitation where specified. Classification follows the agreement rather than perceived purchase value.\n\nA kitchen may contain equipment yet fail food-safety requirements. A generator's presence does not establish safe, reliable power. Assess service coverage, quality, continuity, hygiene and safety for the personnel covered by the commitment.\n\n### 2.2. Wet lease\nUnder wet lease, the contributor provides major equipment and agreed maintenance, support, spare parts and consumables. The unit therefore needs technicians, tools and a supply chain. Deployment of an asset does not make all repairs a UN responsibility.\n\nDefect reports should identify the asset, condition, downtime, task impact and support required. Track parts ordered nationally and mitigation while awaiting delivery. An order for a spare part is not restoration of serviceability.\n\n### 2.3. Dry lease\nUnder dry lease, the contributor supplies equipment while the UN or a third party assumes agreed maintenance responsibility. The unit must still conduct operator checks, protect the asset, report defects and coordinate repairs. Technical support by another actor does not justify ignoring a safety warning.\n\n### 2.4. Verify each critical item\nEstablish its category, output standard, operator, maintenance responsibility, consumable supply, condition evidence and deficiency-reporting route. Wet and dry lease define responsibilities and reimbursement arrangements; they are not equipment-quality ratings. Both require reliable evidence and effective sustainment."
+      },
+      "sourceIds": [
+        "CSC020"
+      ]
+    },
+    {
+      "id": "FPU-02-03",
+      "title": {
+        "vi": "3. Hồ sơ và quản lý vòng đời trang bị",
+        "en": "3. Records and equipment life-cycle management"
+      },
+      "body": {
+        "vi": "### 3.1. Nhận bàn giao có kiểm tra\nKhi nhận trang bị, đối chiếu thực vật với danh mục, số nhận dạng, cấu hình, phụ kiện, tài liệu và tình trạng. Kiểm tra chức năng phải do người có năng lực thực hiện trong điều kiện an toàn. Ghi nhận thiếu, hỏng và giới hạn ngay khi phát hiện, xác định bên xử lý. Ký nhận số lượng không thay cho xác nhận tình trạng sử dụng.\n\nHồ sơ cần liên kết được tài sản với người hoặc bộ phận quản lý, vị trí, tình trạng và lịch sử bảo dưỡng. Với trang bị dùng chung, quy trình xuất–nhận cần cho biết ai sử dụng, thời điểm và lỗi phát hiện sau nhiệm vụ. Ghi chép đều đặn giảm tranh luận về hỏng hóc đã có trước hay mới phát sinh.\n\n### 3.2. Bảo dưỡng phòng ngừa và sửa chữa\nBảo dưỡng phòng ngừa thực hiện theo hướng dẫn nhà sản xuất, yêu cầu kỹ thuật và điều kiện hoạt động. Lịch có thể dựa trên thời gian, quãng đường hoặc giờ máy; phải theo đúng loại trang bị. Môi trường bụi, nhiệt hoặc sử dụng cường độ cao cần được người có chuyên môn đánh giá, thay vì tự kéo dài chu kỳ cho thuận tiện.\n\nKhi có lỗi ảnh hưởng an toàn, cần đánh dấu và kiểm soát để tránh sử dụng nhầm. Người quản lý phải biết thiết bị đang chờ chẩn đoán, chờ phụ tùng, sửa chữa hay đã được xác nhận trở lại hoạt động. Chỉ xóa dòng lỗi khi có bằng chứng khắc phục và kiểm tra phù hợp; việc hết thời hạn dự kiến sửa không chứng minh thiết bị đã tốt.\n\n### 3.3. Vật tư, phụ tùng và hao mòn\nTheo dõi vật tư tiêu hao để biết mức sử dụng, thời gian cung ứng và điểm cần bổ sung. Phụ tùng phải đúng loại, bảo quản phù hợp và có thể truy xuất. Không dùng vật tư không rõ nguồn hoặc tự thay đổi kết cấu để đưa thiết bị trở lại báo cáo “sẵn sàng”. Một giải pháp tạm thời cần được đánh giá, cho phép đúng thẩm quyền và nêu rõ giới hạn.\n\n### 3.4. Mất, hỏng và kết thúc sử dụng\nSự cố cần được báo theo cơ chế áp dụng, bảo toàn hồ sơ và lập chứng cứ về hoàn cảnh, tình trạng cùng hành động đã làm. Không tự hủy, chuyển nhượng, cho mượn hoặc tháo lấy bộ phận của tài sản khi chưa được phép. Khi luân phiên hoặc rút đơn vị, đối chiếu hồ sơ với tài sản, kiểm tra tồn đọng và trách nhiệm tiếp tục xử lý. Bàn giao tốt bảo vệ cả khả năng thực hiện nhiệm vụ lẫn tính minh bạch của đơn vị.",
+        "en": "### 3.1. Checked acceptance\nMatch assets against inventories, identifiers, configuration, accessories, documentation and condition. Qualified personnel should conduct safe functional checks. Record shortages, defects, limitations and responsibility for corrective action. A signature acknowledging quantity does not certify serviceability.\n\nRecords must connect each asset to its custodian, location, condition and maintenance history. Shared-equipment issue and return arrangements should identify users, timing and post-task defects. Consistent records help distinguish existing damage from newly occurring faults.\n\n### 3.2. Preventive and corrective maintenance\nFollow manufacturer instructions, technical requirements and operating conditions. Intervals may depend on time, distance or operating hours and must suit the equipment. Dust, heat and intensive use require technical assessment rather than convenient extensions.\n\nIdentify and control unsafe equipment against accidental use. Distinguish diagnosis, parts waiting, repair and verified return to service. Close a defect only after appropriate corrective evidence and checks. Reaching an estimated repair date is not proof of restoration.\n\n### 3.3. Consumables, spares and wear\nTrack consumption, supply lead times and replenishment needs. Use appropriate, traceable and correctly stored spares. Unknown materials or unauthorized alterations must not be used to report an asset as ready. Temporary measures require competent assessment, authorization and explicit limits.\n\n### 3.4. Loss, damage and end of use\nReport incidents, preserve records and document circumstances and action taken. Do not dispose of, transfer, lend or cannibalize assets without authorization. Rotation and withdrawal require reconciliation of equipment, records, outstanding defects and continuing responsibilities. Sound handover supports both capability and transparency."
+      },
+      "sourceIds": [
+        "CSC020",
+        "TRAIN"
+      ]
+    },
+    {
+      "id": "FPU-02-04",
+      "title": {
+        "vi": "4. Kiểm tra, xác minh và vai trò của đơn vị",
+        "en": "4. Inspection, verification and the unit's role"
+      },
+      "body": {
+        "vi": "### 4.1. Kiểm tra không chỉ để có biên bản\nKiểm tra xác định mức thực hiện cam kết và cung cấp căn cứ cho quản lý, khắc phục thiếu sót, hoàn trả. Đơn vị có trách nhiệm phối hợp, cung cấp hồ sơ đúng và trình bày tình trạng thực. Làm sạch phương tiện là cần thiết nhưng không thay thế việc sửa lỗi, đủ phụ kiện và duy trì dịch vụ.\n\nKiểm tra khi đến phái bộ thiết lập tình trạng ban đầu. Kiểm tra định kỳ theo cơ chế COE xác minh tình trạng tiếp diễn; kiểm tra sẵn sàng xem trang bị và dịch vụ có tiếp tục đáp ứng yêu cầu không. Kiểm tra hồi hương hoặc kết thúc triển khai hỗ trợ xác nhận tình trạng cuối kỳ. Lịch và yêu cầu cụ thể phải được đơn vị nắm với đầu mối COE; không chờ ngày đoàn tới mới bắt đầu kiểm tra nội bộ.\n\n### 4.2. Chuẩn bị bằng chứng có liên kết\nBộ hồ sơ phục vụ kiểm tra nên cho phép đi từ dòng MOU tới tài sản hoặc dịch vụ thực tế, người quản lý và bằng chứng tình trạng. Ví dụ, với một xe cần đối chiếu nhận dạng, tình trạng kỹ thuật, nhật ký bảo dưỡng và khả năng vận hành. Với dịch vụ ăn uống cần xem khả năng thực hiện, điều kiện lưu trữ và vệ sinh, thay vì chỉ đưa danh sách thiết bị bếp.\n\nKhi một hạng mục không thể kiểm tra ngay, phải giải thích lý do thật và bố trí xác minh phù hợp. Không mượn trang bị ngắn hạn hoặc luân chuyển cùng một thiết bị giữa các vị trí để tạo ấn tượng đủ số lượng.\n\n### 4.3. Đọc và phản hồi kết quả\nNgười được giao cần đọc biên bản, đối chiếu nhận định với thực tế và ghi rõ điểm còn khác biệt cùng bằng chứng. Ký xác nhận theo quy trình không nên trở thành hành vi ký khi chưa hiểu. Nếu có bất đồng, dùng cơ chế giải quyết ở cấp phái bộ và tuyến tiếp theo theo thỏa thuận; giữ cách trao đổi dựa trên hồ sơ, tránh gây sức ép với người kiểm tra.\n\n### 4.4. Theo dõi sau kiểm tra\nMỗi thiếu sót cần được chuyển thành hành động: Nội dung, ảnh hưởng nhiệm vụ, người xử lý, nguồn lực, mốc hoàn thành và cách xác nhận. Một lỗi được nêu lại nhiều kỳ cho thấy chu trình khắc phục chưa hoạt động. Không coi gửi văn bản lên cấp trên là đã giải quyết; cần theo dõi đến khi năng lực được phục hồi hoặc hạn chế được quản lý và báo rõ.",
+        "en": "### 4.1. Inspection serves capability\nInspections establish compliance, inform corrective action and support reimbursement. Units must cooperate, provide accurate records and demonstrate actual condition. Clean equipment cannot substitute for repairs, required accessories or functioning services.\n\nArrival inspection establishes the baseline. Periodic verification checks continuing compliance; operational-readiness inspection considers whether equipment and services still meet requirements. Repatriation or final inspection supports end-of-deployment verification. Confirm schedules and requirements with COE staff instead of waiting for the inspection team before checking internally.\n\n### 4.2. Connected evidence\nRecords should link an MOU requirement to the actual asset or service, its custodian and evidence of condition. For a vehicle, connect identification, technical status, maintenance and operational function. For catering, demonstrate delivery, storage and hygiene rather than only a kitchen inventory.\n\nExplain genuine reasons when an item cannot immediately be checked and arrange proper verification. Temporary borrowing or moving one asset between inspection locations must not create false evidence of compliance.\n\n### 4.3. Review findings\nRead reports, compare findings with actual conditions and document differences with evidence. Follow signature procedures with understanding. Address disagreements through mission-level and subsequent agreed mechanisms, using records rather than pressure on inspectors.\n\n### 4.4. Follow corrective action\nAssign each deficiency an action, task impact, owner, resources, deadline and verification method. Repeated findings indicate an ineffective correction cycle. Forwarding a letter does not resolve a gap: Track restoration or explicitly report and manage the remaining limitation."
+      },
+      "sourceIds": [
+        "CSC020"
+      ]
+    },
+    {
+      "id": "FPU-02-05",
+      "title": {
+        "vi": "5. Hoàn trả, thay đổi và tính trung thực của dữ liệu",
+        "en": "5. Reimbursement, changes and data integrity"
+      },
+      "body": {
+        "vi": "### 5.1. Từ cam kết tới xác minh\nHoàn trả được thực hiện theo cơ chế, tiêu chuẩn và mức được phê chuẩn, kết hợp thỏa thuận với bằng chứng thực hiện. Có trong MOU là cơ sở cam kết, không tự chứng minh mọi điều kiện thanh toán đã đáp ứng. Cũng không thể suy rằng đơn vị tự mua thêm tài sản thì UN đương nhiên phải hoàn trả.\n\nCác khoản hoàn trả đối với FPU thường được thực hiện với quốc gia đóng góp, không phải trả trực tiếp từng cá nhân như tiền nhận từ đơn vị. Cán bộ cần phân biệt hoàn trả quốc gia, chế độ cá nhân theo cơ chế riêng và chi phí thực tế đơn vị đang chịu. Nhầm lẫn các khoản này có thể tạo kỳ vọng sai và làm hồ sơ không nhất quán.\n\n### 5.2. Tình trạng và sử dụng phải ghi đúng\nDữ liệu cần phản ánh thiết bị thực sự hoạt động được hay không, thời điểm mất khả năng và mức sử dụng khi có yêu cầu theo dõi. Không sửa ngày để che thời gian hỏng; không khai hoạt động giả để đạt chỉ tiêu. Dữ liệu sai không chỉ ảnh hưởng tài chính mà còn khiến chỉ huy sử dụng một năng lực không có thật.\n\nKhung COE được điều chỉnh qua quyết định có thẩm quyền. Khi có thay đổi, phải kiểm tra nội dung nào đã được phê chuẩn, hạng mục nào chịu tác động, ngày áp dụng và sửa đổi MOU hoặc hướng dẫn liên quan. Không biến một đề xuất trong cuộc họp hoặc một thông báo khái quát thành công thức áp dụng cho mọi trang bị ngay lập tức.\n\n### 5.3. Thay đổi nhu cầu và trang bị\nNếu nhiệm vụ thay đổi làm cơ cấu trang bị không còn phù hợp, đơn vị báo cáo nhu cầu và ảnh hưởng, đề xuất qua tuyến chỉ huy và đầu mối COE. Thay đổi cam kết cần cơ chế chính thức giữa các bên. Đổi thiết bị, tăng số lượng hoặc bổ sung năng lực mà chưa thống nhất có thể tạo thiếu hụt về vận hành, bảo dưỡng và cơ sở hoàn trả.\n\n### 5.4. Xử lý bất đồng bằng chứng cứ\nKhi có chênh lệch, hãy xác định chính xác dòng yêu cầu, giai đoạn thời gian, bằng chứng tình trạng và điểm diễn giải khác nhau. Bảo lưu hồ sơ gốc, ghi ý kiến đúng thủ tục và theo dõi cơ chế giải quyết. Một hồ sơ rõ về sự cố và khắc phục có giá trị hơn lời khẳng định “trang bị vẫn tốt”. Chỉ huy cần bảo vệ sự trung thực của dữ liệu ngay cả khi kết quả trước mắt không thuận lợi.",
+        "en": "### 5.1. From commitments to verification\nReimbursement follows authorized standards, rates, agreements and evidence of performance. Listing in an MOU establishes a commitment without proving every payment condition. Additional nationally purchased assets do not automatically become reimbursable.\n\nFPU-related reimbursements generally go to the contributing State. Distinguish them from individual entitlements and actual unit expenditure. Confusion between these categories creates false expectations and inconsistent records.\n\n### 5.2. Record condition and use accurately\nData must show real serviceability, downtime and usage where required. Do not alter dates to conceal defects or fabricate activity to meet targets. False data affects financial accountability and can cause commanders to deploy nonexistent capability.\n\nThe COE framework changes through authorized decisions. Establish what was approved, affected categories, effective dates and relevant MOU amendments or technical instructions. A meeting proposal or general announcement is not an immediately applicable formula for every equipment category.\n\n### 5.3. Changes to needs and equipment\nWhere evolving tasks require different equipment, report the need and implications through command and COE channels. Changes to commitments require formal arrangements between the parties. Unauthorized substitution or expansion can create operational, maintenance and reimbursement gaps.\n\n### 5.4. Evidence-based disagreement\nIdentify the precise requirement, period, condition evidence and interpretation in dispute. Preserve original records, submit observations properly and follow agreed resolution mechanisms. Documented faults and corrective work are more useful than unsupported claims of serviceability. Commanders must protect data integrity even when immediate findings are unfavourable."
+      },
+      "sourceIds": [
+        "CSC020",
+        "COE2026",
+        "RES80271"
+      ]
+    },
+    {
+      "id": "FPU-02-06",
+      "title": {
+        "vi": "6. Từ thiếu sót COE đến quyết định sẵn sàng",
+        "en": "6. From COE gaps to readiness decisions"
+      },
+      "body": {
+        "vi": "### 6.1. Diễn giải thiếu sót bằng ảnh hưởng nhiệm vụ\nBáo cáo “hỏng hai xe” mới mô tả số lượng. Chỉ huy cần biết loại xe, nhiệm vụ bị ảnh hưởng, số người có thể vận chuyển an toàn, khả năng thay thế và thời gian dự kiến. Cùng một số xe hỏng có thể tạo ảnh hưởng rất khác nhau tùy nhiệm vụ và năng lực còn lại. Vì vậy cần liên kết từng thiếu sót với năng lực đơn vị đã cam kết và nhiệm vụ đang nhận.\n\nCó thể tổ chức theo dõi nội bộ bằng các trạng thái dễ hiểu: Sử dụng được; sử dụng có giới hạn được cho phép; ngừng sử dụng; chờ xác minh. Đây là công cụ quản lý do đơn vị tổ chức, không tự thay thang đánh giá chính thức COE. Mọi giới hạn phải đủ rõ để người giao nhiệm vụ hiểu khả năng thực hiện và nguy cơ còn lại.\n\n### 6.2. Quyết định và biện pháp tạm thời\nĐơn vị cần đánh giá có thể thực hiện nhiệm vụ với nguồn lực còn lại không, cần điều chỉnh gì và cần cấp nào quyết định. Không dùng phương tiện thiếu an toàn để giữ báo cáo quân số hoặc tỷ lệ triển khai đẹp. Nếu có giải pháp thay thế được phép, phải tính cả người vận hành, bảo dưỡng và ảnh hưởng đến nhiệm vụ khác.\n\nThông tin thiếu sót phải đến nơi có thể xử lý: Chỉ huy tác nghiệp cần biết hạn chế năng lực; đầu mối hậu cần cần biết nhu cầu kỹ thuật; đầu mối COE cần hồ sơ xác minh. Cùng một sự cố có thể cần nhiều tuyến báo cáo với mục đích khác nhau. Chỉ gửi cho một bên chưa chắc đã hoàn thành trách nhiệm.\n\n### 6.3. Bàn giao và học từ lỗi lặp\nBàn giao giữa ca, giữa bộ phận hoặc khi luân phiên phải chỉ rõ tài sản, tình trạng, hồ sơ, việc còn chờ và bên chịu trách nhiệm. Kiểm tra thực tế các hạng mục quan trọng thay vì sao chép danh sách cũ. Khi lỗi lặp, cần xem nguyên nhân: Thiếu huấn luyện người dùng, bảo dưỡng không phù hợp, vật tư chậm hay kế hoạch khai thác vượt khả năng.\n\n### 6.4. Chuẩn quản lý cần đạt\nMột hệ thống COE tốt cho phép trả lời nhanh và có chứng cứ: Đơn vị phải có gì; thực tế có gì; cái gì hoạt động được; ai đang sử dụng và bảo dưỡng; thiếu sót ảnh hưởng nhiệm vụ nào; việc khắc phục đến đâu. Khi sáu câu hỏi này được trả lời thống nhất giữa người dùng, hậu cần và chỉ huy, COE trở thành nền tảng duy trì năng lực thay vì hồ sơ chỉ mở trước kỳ kiểm tra.",
+        "en": "### 6.1. Explain operational consequences\n“Two vehicles defective” states a quantity. Command needs vehicle types, affected tasks, safe transport capacity, alternatives and restoration estimates. Identical defect numbers can have very different consequences depending on commitments and remaining capability.\n\nAn internal status system may distinguish serviceable, authorized limited use, withdrawn from use and awaiting verification. This is a unit management aid rather than an official COE rating scale. Describe limitations clearly enough for tasking authorities to understand what remains feasible.\n\n### 6.2. Decisions and temporary measures\nAssess whether remaining resources can fulfil the task, what adjustment is required and who must decide. Do not employ unsafe equipment to preserve favourable deployment figures. Authorized alternatives require qualified operators, maintenance and consideration of competing tasks.\n\nOperational command needs capability limitations; logistics needs technical requirements; COE staff need verification evidence. One incident may require several reporting routes for different purposes. Informing one actor may not fulfil every responsibility.\n\n### 6.3. Handover and recurring defects\nShift, departmental and rotation handovers must identify assets, condition, records, outstanding work and responsible actors. Check critical items rather than copying previous lists. Recurring defects require examination of operator training, maintenance, supply delays or excessive demand.\n\n### 6.4. The management standard\nA sound system can establish, with evidence, what was promised, what exists, what works, who operates and maintains it, which tasks are affected and how correction is progressing. Shared answers across users, logistics and command make COE a foundation of sustained capability rather than an inspection-only file."
+      },
+      "sourceIds": [
+        "CSC020",
+        "CSC004"
+      ]
+    }
+  ],
+  "source_ids": [
+    "CSC020",
+    "POLICY",
+    "TRAIN",
+    "COE2026",
+    "RES80271",
+    "CSC004"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "COE / UNOE",
+      "definition": {
+        "vi": "Trang bị thuộc quốc gia đóng góp / trang bị thuộc UN.",
+        "en": "Contingent-owned equipment / UN-owned equipment."
+      }
+    },
+    {
+      "term": "Major equipment",
+      "definition": {
+        "vi": "Trang bị chủ yếu gắn nhiệm vụ và được thống nhất trong MOU.",
+        "en": "Mission-related major equipment agreed in the MOU."
+      }
+    },
+    {
+      "term": "Self-sustainment",
+      "definition": {
+        "vi": "Khả năng cung cấp dịch vụ, điều kiện tự bảo đảm theo cam kết.",
+        "en": "Provision of agreed self-sustainment services and conditions."
+      }
+    },
+    {
+      "term": "Wet lease / Dry lease",
+      "definition": {
+        "vi": "Quốc gia cung cấp và duy trì / quốc gia cung cấp, UN hoặc bên thứ ba duy trì theo thỏa thuận.",
+        "en": "Contributor supplies and maintains / contributor supplies while UN or a third party maintains as agreed."
+      }
+    },
+    {
+      "term": "Verification report",
+      "definition": {
+        "vi": "Báo cáo xác minh cam kết và tình trạng thực tế.",
+        "en": "Report verifying commitments and actual condition."
+      }
+    }
+  ],
+  "diagram": null,
+  "contentVersion": "batch-03-expanded-v1-2026-10-28",
+  "sourceIntro": {
+    "vi": "Nguồn nền theo từng mục và tài liệu đối chiếu. Lời giảng, bản Anh và câu hỏi biên soạn riêng cho Handbook; hình gốc có ghi tài liệu, trang PDF và giải thích.",
+    "en": "Primary materials mapped to sections and supplementary checks. Teaching, English text and questions are authored for the Handbook; original figures identify source, PDF page and commentary."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Bản biên soạn đợt 3, ngày 28/10/2026, để người dùng duyệt. Không phải ấn phẩm hoặc bản dịch chính thức UN. Mã bài là cách tổ chức của Handbook, khác số bài của UN.",
+      "Giữ giao diện 4 tab của các bài mẫu. Hình giữ tiếng Anh gốc và có giải thích Việt–Anh. Nguồn theo mục nêu nền kiến thức, không coi mọi câu là trích nguyên văn.",
+      "Bài học chung không thay mandate, DUF, SUR, MOU hoặc SOP áp dụng tại phái bộ; không tự trao quyền hoặc chứng nhận năng lực thực hành.",
+      "Nguồn giảng chính là CSC Lesson 20 (2026). Đối chiếu thông tin UN tháng 9/2026 và A/RES/80/271 cho thấy đã có quyết định về khung COE năm 2026; bài không gọi các thay đổi ấy là toàn bộ còn chờ phê chuẩn. Chưa đọc toàn bộ bản COE Manual sửa đổi và mọi hướng dẫn triển khai; không nêu công thức hoàn trả theo mức sử dụng hoặc mức tiền để người học áp dụng trực tiếp. Hình là khung giảng, phải đọc cùng MOU, quyết định và hiệu lực từng hạng mục."
+    ],
+    "en": [
+      "Batch 3 authored on 28 October 2026 for user review. Not an official UN publication or translation. Handbook numbering differs from UN lesson numbering.",
+      "The four-tab sample interface is retained. Figures preserve original English with bilingual commentary. Section mapping identifies the knowledge base rather than verbatim sourcing for every sentence.",
+      "General study does not replace applicable mandates, DUF, SUR, MOU or mission SOPs and confers neither authority nor practical certification.",
+      "CSC Lesson 20 (2026) is the main teaching source. UN September 2026 information and A/RES/80/271 confirm decisions on the 2026 framework; these are not described as wholly awaiting approval. The complete revised manual and every implementation instruction were not reviewed. No operational-use reimbursement formula or payment rate is offered for direct application. Read the conceptual figures with the MOU, decisions and category-specific effective dates."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Quản lý COE nhằm duy trì năng lực đã cam kết và hồ sơ đáng tin cậy. Bài học kết nối MOU, phân loại, bảo dưỡng, kiểm tra, hoàn trả và quyết định khi có thiếu sót.",
+      "en": "COE management sustains promised capability and reliable evidence. Connect MOU commitments, categories, maintenance, inspections, reimbursement and deficiency decisions."
+    },
+    "subtitle": {
+      "vi": "Đúng cam kết · Đúng tình trạng · Có bằng chứng",
+      "en": "Meet commitments · Establish condition · Maintain evidence"
+    },
+    "objectives": {
+      "vi": [
+        "Kết nối SUR, MOU, phụ lục và năng lực thực tế; phân biệt COE và UNOE.",
+        "Phân biệt trang bị chủ yếu, tự bảo đảm, wet lease và dry lease.",
+        "Tổ chức hồ sơ, bảo dưỡng, kiểm soát lỗi và bàn giao theo vòng đời.",
+        "Giải thích vai trò kiểm tra, xác minh và theo dõi khắc phục.",
+        "Đọc điều kiện hoàn trả, hiệu lực thay đổi và ảnh hưởng tới sẵn sàng."
+      ],
+      "en": [
+        "Connect SUR, MOU and annexes to actual capability; distinguish COE and UNOE.",
+        "Distinguish major equipment, self-sustainment, wet lease and dry lease.",
+        "Explain life-cycle records, maintenance, defect control and handover.",
+        "Explain inspections, verification and corrective follow-up.",
+        "Explain reimbursement conditions, effective changes and readiness implications."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc 6 mục trong tab Nội dung bài học; bấm hình để xem lớn và đọc lời giảng kèm. Làm 12 câu kiểm tra, đọc giải thích và trở lại mục liên quan. VI/EN giữ lựa chọn trong phiên; tải lại trang bắt đầu lại.",
+      "en": "Read all sections and the figure commentary; click figures to enlarge. Complete 12 questions, review explanations and revisit relevant sections. VI/EN retains selections during the session; reloading starts again."
+    }
+  },
+  "figures": [
+    {
+      "chapter": 0,
+      "image": "assets/lesson-figures/batch-03/CSC020-p13.png",
+      "alt": {
+        "vi": "Hình 1. Từ MOU đến xác minh và hoàn trả",
+        "en": "Figure 1. MOU, verification and reimbursement"
+      },
+      "caption": {
+        "vi": "Hình 1. Từ MOU đến xác minh và hoàn trả",
+        "en": "Figure 1. MOU, verification and reimbursement"
+      },
+      "explanation": {
+        "vi": "Ba phụ lục xác định người, trang bị và tự bảo đảm. Mũi tên đi qua kiểm tra, báo cáo xác minh trước phần tính hoàn trả: Cam kết phải được kết nối với thực tế. Hình là khung nguyên tắc, không phải công thức thanh toán hiện hành cho mọi hạng mục.",
+        "en": "The annexes identify personnel, equipment and self-sustainment. Verification links commitments with actual delivery before reimbursement calculation. This is a conceptual map, not a universal current payment formula."
+      },
+      "sourceLabel": "UN FPU Command Staff Course 2026 · Lesson 20",
+      "pdfPage": 13
+    },
+    {
+      "chapter": 1,
+      "image": "assets/lesson-figures/batch-03/CSC020-p19.png",
+      "alt": {
+        "vi": "Hình 2. Quan hệ dry lease, bảo dưỡng và wet lease",
+        "en": "Figure 2. Dry lease, maintenance and wet lease"
+      },
+      "caption": {
+        "vi": "Hình 2. Quan hệ dry lease, bảo dưỡng và wet lease",
+        "en": "Figure 2. Dry lease, maintenance and wet lease"
+      },
+      "explanation": {
+        "vi": "Đọc hình để phân biệt phần trang bị với phụ tùng, bảo dưỡng và trang bị phụ trợ. Không lấy sơ đồ làm số tiền hoặc tỷ lệ cụ thể; hiệu lực, hệ số và điều kiện phải đọc theo văn bản áp dụng. Cả hai hình thức đều cần theo dõi tình trạng thật.",
+        "en": "Distinguish equipment provision from spares, maintenance and associated minor equipment. The graphic supplies no universal amount or percentage; applicable provisions govern dates, factors and conditions. Both arrangements require truthful condition records."
+      },
+      "sourceLabel": "UN FPU Command Staff Course 2026 · Lesson 20",
+      "pdfPage": 19
+    }
+  ],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft",
+  "figureZoom": true
+}

@@ -1,0 +1,562 @@
+{
+  "schemaVersion": 2,
+  "id": "IPO-07",
+  "area": "ipo",
+  "groupKey": "IPO-M4",
+  "group": {
+    "vi": "Chuẩn bị đánh giá tuyển chọn",
+    "en": "Selection assessment preparation"
+  },
+  "title": {
+    "vi": "Chuẩn bị đánh giá: Quy trình, EASP và phỏng vấn",
+    "en": "Assessment preparation, EASP and interviews"
+  },
+  "summary": {
+    "vi": "Bài học IPO-07 tập trung vào chủ đề: Chuẩn bị đánh giá: Quy trình, EASP và phỏng vấn. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+    "en": "Lesson IPO-07 covers the following topic: Assessment preparation, EASP and interviews. It connects concepts with professional responsibilities."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "AMS2024",
+  "sourceUrl": "https://unmiss.unmissions.org/sites/default/files/2026-02/SOP%20on%20Assessment%20for%20Mission%20Service%20of%20Individual%20Police%20Officers%20%282024%29.pdf",
+  "order": 401,
+  "sections": [
+    {
+      "id": "IPO-07-01",
+      "title": {
+        "vi": "1. Đánh giá và bố trí công tác",
+        "en": "1. Assessment and deployment are different"
+      },
+      "body": {
+        "vi": "Đạt đánh giá không tự đồng nghĩa được triển khai ngay hoặc phù hợp mọi vị trí. Xác nhận điều kiện, thời hạn, nội dung và yêu cầu qua thông báo, SOP, hướng dẫn áp dụng cho đợt dự kiến. Luyện tập phải bám yêu cầu được thông báo, không suy từ một đợt trước.",
+        "en": "Passing an assessment does not guarantee immediate deployment or suitability for every post. Confirm eligibility, validity periods, components and requirements through the official instructions for the intended assessment and deployment. Preparation must follow the applicable notice rather than assumptions from a past course."
+      },
+      "sourceIds": [
+        "U32",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-07-02",
+      "title": {
+        "vi": "2. Hồ sơ nhất quán",
+        "en": "2. Maintain a consistent EASP"
+      },
+      "body": {
+        "vi": "EASP cần ghi chuyên môn, kinh nghiệm, mốc thời gian và năng lực đúng sự thật. Có bằng chứng hỗ trợ thành tích, tránh phóng đại vai trò tập thể thành cá nhân. Mọi nội dung khai có thể được yêu cầu giải thích; không học thuộc một lý lịch do người khác viết.\n\n### 2.1. Chuẩn bị hồ sơ có thể giải thích\n\nVới mỗi kinh nghiệm quan trọng, ghi mốc thời gian, chức năng cá nhân, phạm vi quyết định và kết quả có căn cứ. Kiểm tra bản tiếng Anh dùng đúng động từ: Hỗ trợ, phối hợp, quản lý hay chỉ huy phản ánh mức trách nhiệm khác nhau. Tránh dùng một thuật ngữ lớn cho phần việc nhỏ hơn. Hồ sơ nhất quán giúp trả lời sâu mà không phải nhớ câu chữ được học thuộc.",
+        "en": "Describe qualifications, experience, dates and skills truthfully. Support achievements with evidence and distinguish personal contributions from team performance. Be ready to explain every entry in your own words. Do not memorize a biography that misrepresents your experience.\n\n### 2.1. Build an application you can explain\n\nFor important experience, record dates, personal function, decision scope and supported results. Check English verbs carefully: Supported, coordinated, managed and commanded describe different responsibilities. Avoid using a larger title for a narrower contribution. A consistent record supports detailed answers without memorized wording. Keep certificates and other required evidence organized for authorized submission, while protecting personal and operational information that does not belong in a broadly shared interview-preparation file."
+      },
+      "sourceIds": [
+        "U32",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-07-03",
+      "title": {
+        "vi": "3. Chuẩn bị ví dụ năng lực",
+        "en": "3. Prepare competency examples"
+      },
+      "body": {
+        "vi": "Dùng khung tình huống–nhiệm vụ–hành động–kết quả, thêm điều học được. Nêu rõ mình đã làm gì, tại sao, kết quả được đo thế nào và điều chưa đạt. Không bịa vụ án hoặc tiết lộ thông tin nghiệp vụ nhạy cảm để làm câu trả lời nổi bật.\n\n### 3.1. Chọn ví dụ đúng năng lực\n\nChọn sự việc thật cho thấy hành vi cần đánh giá như phối hợp, phân tích, lập kế hoạch, xử lý sai sót hoặc phục vụ người dân. Dành phần lớn câu trả lời cho hành động của mình và lý do. Kết quả cần nêu bằng bằng chứng sẵn có; bài học cho thấy đã điều chỉnh cách làm ra sao. Một ví dụ quy mô nhỏ nhưng rõ vai trò thường hữu ích hơn câu chuyện lớn không xác định được đóng góp cá nhân.",
+        "en": "Use situation, task, action and result, followed by learning. State your own role, reasons for action, evidence of results and limitations. Do not invent cases or reveal sensitive operational information merely to make an answer impressive.\n\n### 3.1. Choose an example for the competency\n\nSelect a genuine event demonstrating collaboration, analysis, planning, correction of an error or service to people. Spend most of the answer on your action and reasoning. Explain results through available evidence and what you changed afterwards. A modest event with a clear individual contribution can be stronger than a large story without identifiable responsibility. Prepare to explain difficulties, alternatives and limitations rather than only a successful ending."
+      },
+      "sourceIds": [
+        "U32",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-07-04",
+      "title": {
+        "vi": "4. Phỏng vấn",
+        "en": "4. Answer the interview question"
+      },
+      "body": {
+        "vi": "Nghe đúng câu hỏi, trả lời trực tiếp, dùng ví dụ có liên quan và chấp nhận hỏi lại khi chưa rõ. Tránh thuật ngữ không giải thích được. Tình huống giả định phải được phân biệt với kinh nghiệm thật. Khi bị hỏi sâu, giữ cùng dòng sự kiện và nhận giới hạn trách nhiệm.\n\n### 4.1. Trả lời theo trọng tâm\n\nXác định câu hỏi đang yêu cầu kiến thức, kinh nghiệm hay cách xử lý giả định. Mở bằng câu trả lời trực tiếp rồi đưa ví dụ liên quan. Dùng câu rõ, thuật ngữ mình hiểu và báo khi cần người hỏi nhắc lại. Nếu chưa có kinh nghiệm đúng lĩnh vực, nói giới hạn và kiến thức chuyển giao phù hợp; không đổi câu hỏi thành câu đã học thuộc. Câu trả lời tốt giữ được tính trung thực cả khi người hỏi yêu cầu chi tiết.",
+        "en": "Listen carefully, answer directly and use a relevant example. Ask for clarification when necessary. Avoid unexplained terminology. Separate hypothetical responses from actual experience. Follow-up questions should receive a consistent account with honest limits on your responsibility.\n\n### 4.1. Answer the actual question\n\nIdentify whether the question asks for knowledge, experience or a hypothetical response. Lead with a direct answer, then a relevant explanation or example. Use clear sentences and terms you understand; ask for repetition where necessary. If direct experience is missing, acknowledge the limit and explain relevant transferable knowledge. Do not turn the question into a rehearsed answer to something else. A credible response remains consistent when the interviewer asks for details or challenges an assumption."
+      },
+      "sourceIds": [
+        "U32",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-07-05",
+      "title": {
+        "vi": "5. Kiến thức nền và kỹ năng máy tính",
+        "en": "5. Knowledge and digital work skills"
+      },
+      "body": {
+        "vi": "Chuẩn bị UN Core và vị trí dự kiến, thực hành soạn văn bản, quản lý tệp và công cụ công việc theo yêu cầu chính thức. Một hồ sơ chuyên môn tốt vẫn cần khả năng giao tiếp và thực hiện công việc; không chỉ ôn câu hỏi thuộc lòng.",
+        "en": "Prepare UN foundations and the intended professional role. Practise document creation, file management and relevant work tools according to official requirements. A strong record still needs effective communication and the ability to perform tasks; memorized interview answers alone are insufficient."
+      },
+      "sourceIds": [
+        "U32",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-07-06",
+      "title": {
+        "vi": "6. Kết nối ví dụ với hồ sơ",
+        "en": "6. Connect examples to the application"
+      },
+      "body": {
+        "vi": "Ứng viên phụ trách thông tin có thể dùng một sự cố liên lạc thật: Bối cảnh, nhiệm vụ riêng, cách xác định vấn đề, phối hợp, kết quả và bài học. Phải tách điều mình quyết định với điều cấp chỉ huy phê duyệt. Nếu không có số liệu đo kết quả, nói giới hạn thay vì tạo con số.",
+        "en": "An officer responsible for communications can explain a genuine service disruption: Context, personal task, diagnosis, coordination, result and learning. Separate your decisions from command approvals. If no reliable outcome figure exists, explain that limitation rather than inventing a number."
+      },
+      "sourceIds": [
+        "U32",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-07-07",
+      "title": {
+        "vi": "7. Kiểm tra trước nộp",
+        "en": "7. Check before submission"
+      },
+      "body": {
+        "vi": "Đối chiếu ngày tháng, chức danh, trình độ, kỹ năng, điều kiện sức khỏe và giấy tờ theo yêu cầu chính thức. Không để bản tiếng Anh mở rộng phạm vi hơn bản gốc. Chuẩn bị khả năng giải thích mọi mục; không học thuộc một câu trả lời chung cho mọi năng lực hoặc mọi vị trí.",
+        "en": "Cross-check dates, posts, qualifications, skills, health-related requirements and documents against official instructions. The English application must not expand the scope of the original facts. Be able to explain each entry rather than using one generic answer for every competency or post."
+      },
+      "sourceIds": [
+        "U32",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "U32",
+      "title": "Lesson 1 Overview of UN Police",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-002%20UNPOL%20STM%20Lesson%201%20Overview%20of%20UN%20Police.pdf",
+      "year": "2021",
+      "publisher": "United Nations UNPOL STM",
+      "format": "pdf",
+      "pages": 25,
+      "pdf_name": "U32.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "AMS-GUIDE",
+      "title": "UN Police — Information for individual police officers",
+      "url": "https://police.un.org/en/information-for-individual-police-officers",
+      "year": "2026"
+    },
+    {
+      "id": "EASP",
+      "title": "Electronic Application for Seconded Police",
+      "url": "https://police.un.org/sites/default/files/easp_english_0.pdf"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Đạt đánh giá bảo đảm được triển khai ngay.",
+        "en": "Passing assessment guarantees immediate deployment."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Bố trí còn phụ thuộc điều kiện và vị trí.",
+        "en": "Placement also depends on requirements and posts."
+      }
+    },
+    {
+      "question": {
+        "vi": "EASP cần thống nhất ngày tháng và phạm vi kinh nghiệm.",
+        "en": "The EASP needs consistent dates and experience claims."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Mọi mục phải giải thích được.",
+        "en": "Be able to explain every entry."
+      }
+    },
+    {
+      "question": {
+        "vi": "Có thể kể thành tích tập thể như quyết định cá nhân.",
+        "en": "Team achievements may be described as personal decisions."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Phải tách vai trò cá nhân và tập thể.",
+        "en": "Separate personal and team contributions."
+      }
+    },
+    {
+      "question": {
+        "vi": "Ví dụ năng lực nên có hành động, kết quả và bài học.",
+        "en": "Competency examples should include action, results and learning."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Nêu cả giới hạn bằng chứng.",
+        "en": "State evidence limitations as well."
+      }
+    },
+    {
+      "question": {
+        "vi": "Nên bịa số liệu để câu trả lời thuyết phục.",
+        "en": "Inventing figures makes an acceptable stronger answer."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Trung thực quan trọng hơn con số không có căn cứ.",
+        "en": "Honesty matters more than unsupported figures."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khi chưa rõ câu hỏi, có thể xin làm rõ.",
+        "en": "It is appropriate to ask for clarification."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Trả lời đúng vấn đề cần bắt đầu từ hiểu câu hỏi.",
+        "en": "Understanding the question precedes a relevant answer."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Hồ sơ ứng tuyển cảnh sát biệt phái dạng điện tử?",
+        "en": "Which concept matches: Electronic Application for Seconded Police?"
+      },
+      "options": [
+        {
+          "vi": "EASP",
+          "en": "EASP"
+        },
+        {
+          "vi": "OPORD",
+          "en": "OPORD"
+        },
+        {
+          "vi": "STAR",
+          "en": "STAR"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "EASP: Hồ sơ ứng tuyển cảnh sát biệt phái dạng điện tử.",
+        "en": "EASP: Electronic Application for Seconded Police."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Khung tình huống, nhiệm vụ, hành động, kết quả?",
+        "en": "Which concept matches: Situation, Task, Action, Result?"
+      },
+      "options": [
+        {
+          "vi": "OPORD",
+          "en": "OPORD"
+        },
+        {
+          "vi": "STAR",
+          "en": "STAR"
+        },
+        {
+          "vi": "EASP",
+          "en": "EASP"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "STAR: Khung tình huống, nhiệm vụ, hành động, kết quả.",
+        "en": "STAR: Situation, Task, Action, Result."
+      }
+    }
+  ],
+  "updated": "2026-10-26",
+  "moduleId": "IPO-M4",
+  "moduleOrder": 4,
+  "lessonOrder": 1,
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "IPO-07-01",
+      "title": {
+        "vi": "1. Đánh giá và bố trí công tác",
+        "en": "1. Assessment and deployment are different"
+      },
+      "body": {
+        "vi": "Đạt đánh giá không tự đồng nghĩa được triển khai ngay hoặc phù hợp mọi vị trí. Xác nhận điều kiện, thời hạn, nội dung và yêu cầu qua thông báo, SOP, hướng dẫn áp dụng cho đợt dự kiến. Luyện tập phải bám yêu cầu được thông báo, không suy từ một đợt trước.",
+        "en": "Passing an assessment does not guarantee immediate deployment or suitability for every post. Confirm eligibility, validity periods, components and requirements through the official instructions for the intended assessment and deployment. Preparation must follow the applicable notice rather than assumptions from a past course."
+      },
+      "sourceIds": [
+        "U32",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-07-02",
+      "title": {
+        "vi": "2. Hồ sơ nhất quán",
+        "en": "2. Maintain a consistent EASP"
+      },
+      "body": {
+        "vi": "EASP cần ghi chuyên môn, kinh nghiệm, mốc thời gian và năng lực đúng sự thật. Có bằng chứng hỗ trợ thành tích, tránh phóng đại vai trò tập thể thành cá nhân. Mọi nội dung khai có thể được yêu cầu giải thích; không học thuộc một lý lịch do người khác viết.\n\n### 2.1. Chuẩn bị hồ sơ có thể giải thích\n\nVới mỗi kinh nghiệm quan trọng, ghi mốc thời gian, chức năng cá nhân, phạm vi quyết định và kết quả có căn cứ. Kiểm tra bản tiếng Anh dùng đúng động từ: Hỗ trợ, phối hợp, quản lý hay chỉ huy phản ánh mức trách nhiệm khác nhau. Tránh dùng một thuật ngữ lớn cho phần việc nhỏ hơn. Hồ sơ nhất quán giúp trả lời sâu mà không phải nhớ câu chữ được học thuộc.",
+        "en": "Describe qualifications, experience, dates and skills truthfully. Support achievements with evidence and distinguish personal contributions from team performance. Be ready to explain every entry in your own words. Do not memorize a biography that misrepresents your experience.\n\n### 2.1. Build an application you can explain\n\nFor important experience, record dates, personal function, decision scope and supported results. Check English verbs carefully: Supported, coordinated, managed and commanded describe different responsibilities. Avoid using a larger title for a narrower contribution. A consistent record supports detailed answers without memorized wording. Keep certificates and other required evidence organized for authorized submission, while protecting personal and operational information that does not belong in a broadly shared interview-preparation file."
+      },
+      "sourceIds": [
+        "U32",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-07-03",
+      "title": {
+        "vi": "3. Chuẩn bị ví dụ năng lực",
+        "en": "3. Prepare competency examples"
+      },
+      "body": {
+        "vi": "Dùng khung tình huống–nhiệm vụ–hành động–kết quả, thêm điều học được. Nêu rõ mình đã làm gì, tại sao, kết quả được đo thế nào và điều chưa đạt. Không bịa vụ án hoặc tiết lộ thông tin nghiệp vụ nhạy cảm để làm câu trả lời nổi bật.\n\n### 3.1. Chọn ví dụ đúng năng lực\n\nChọn sự việc thật cho thấy hành vi cần đánh giá như phối hợp, phân tích, lập kế hoạch, xử lý sai sót hoặc phục vụ người dân. Dành phần lớn câu trả lời cho hành động của mình và lý do. Kết quả cần nêu bằng bằng chứng sẵn có; bài học cho thấy đã điều chỉnh cách làm ra sao. Một ví dụ quy mô nhỏ nhưng rõ vai trò thường hữu ích hơn câu chuyện lớn không xác định được đóng góp cá nhân.",
+        "en": "Use situation, task, action and result, followed by learning. State your own role, reasons for action, evidence of results and limitations. Do not invent cases or reveal sensitive operational information merely to make an answer impressive.\n\n### 3.1. Choose an example for the competency\n\nSelect a genuine event demonstrating collaboration, analysis, planning, correction of an error or service to people. Spend most of the answer on your action and reasoning. Explain results through available evidence and what you changed afterwards. A modest event with a clear individual contribution can be stronger than a large story without identifiable responsibility. Prepare to explain difficulties, alternatives and limitations rather than only a successful ending."
+      },
+      "sourceIds": [
+        "U32",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-07-04",
+      "title": {
+        "vi": "4. Phỏng vấn",
+        "en": "4. Answer the interview question"
+      },
+      "body": {
+        "vi": "Nghe đúng câu hỏi, trả lời trực tiếp, dùng ví dụ có liên quan và chấp nhận hỏi lại khi chưa rõ. Tránh thuật ngữ không giải thích được. Tình huống giả định phải được phân biệt với kinh nghiệm thật. Khi bị hỏi sâu, giữ cùng dòng sự kiện và nhận giới hạn trách nhiệm.\n\n### 4.1. Trả lời theo trọng tâm\n\nXác định câu hỏi đang yêu cầu kiến thức, kinh nghiệm hay cách xử lý giả định. Mở bằng câu trả lời trực tiếp rồi đưa ví dụ liên quan. Dùng câu rõ, thuật ngữ mình hiểu và báo khi cần người hỏi nhắc lại. Nếu chưa có kinh nghiệm đúng lĩnh vực, nói giới hạn và kiến thức chuyển giao phù hợp; không đổi câu hỏi thành câu đã học thuộc. Câu trả lời tốt giữ được tính trung thực cả khi người hỏi yêu cầu chi tiết.",
+        "en": "Listen carefully, answer directly and use a relevant example. Ask for clarification when necessary. Avoid unexplained terminology. Separate hypothetical responses from actual experience. Follow-up questions should receive a consistent account with honest limits on your responsibility.\n\n### 4.1. Answer the actual question\n\nIdentify whether the question asks for knowledge, experience or a hypothetical response. Lead with a direct answer, then a relevant explanation or example. Use clear sentences and terms you understand; ask for repetition where necessary. If direct experience is missing, acknowledge the limit and explain relevant transferable knowledge. Do not turn the question into a rehearsed answer to something else. A credible response remains consistent when the interviewer asks for details or challenges an assumption."
+      },
+      "sourceIds": [
+        "U32",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-07-05",
+      "title": {
+        "vi": "5. Kiến thức nền và kỹ năng máy tính",
+        "en": "5. Knowledge and digital work skills"
+      },
+      "body": {
+        "vi": "Chuẩn bị UN Core và vị trí dự kiến, thực hành soạn văn bản, quản lý tệp và công cụ công việc theo yêu cầu chính thức. Một hồ sơ chuyên môn tốt vẫn cần khả năng giao tiếp và thực hiện công việc; không chỉ ôn câu hỏi thuộc lòng.",
+        "en": "Prepare UN foundations and the intended professional role. Practise document creation, file management and relevant work tools according to official requirements. A strong record still needs effective communication and the ability to perform tasks; memorized interview answers alone are insufficient."
+      },
+      "sourceIds": [
+        "U32",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-07-06",
+      "title": {
+        "vi": "6. Kết nối ví dụ với hồ sơ",
+        "en": "6. Connect examples to the application"
+      },
+      "body": {
+        "vi": "Ứng viên phụ trách thông tin có thể dùng một sự cố liên lạc thật: Bối cảnh, nhiệm vụ riêng, cách xác định vấn đề, phối hợp, kết quả và bài học. Phải tách điều mình quyết định với điều cấp chỉ huy phê duyệt. Nếu không có số liệu đo kết quả, nói giới hạn thay vì tạo con số.",
+        "en": "An officer responsible for communications can explain a genuine service disruption: Context, personal task, diagnosis, coordination, result and learning. Separate your decisions from command approvals. If no reliable outcome figure exists, explain that limitation rather than inventing a number."
+      },
+      "sourceIds": [
+        "U32",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-07-07",
+      "title": {
+        "vi": "7. Kiểm tra trước nộp",
+        "en": "7. Check before submission"
+      },
+      "body": {
+        "vi": "Đối chiếu ngày tháng, chức danh, trình độ, kỹ năng, điều kiện sức khỏe và giấy tờ theo yêu cầu chính thức. Không để bản tiếng Anh mở rộng phạm vi hơn bản gốc. Chuẩn bị khả năng giải thích mọi mục; không học thuộc một câu trả lời chung cho mọi năng lực hoặc mọi vị trí.",
+        "en": "Cross-check dates, posts, qualifications, skills, health-related requirements and documents against official instructions. The English application must not expand the scope of the original facts. Be able to explain each entry rather than using one generic answer for every competency or post."
+      },
+      "sourceIds": [
+        "U32",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    }
+  ],
+  "source_ids": [
+    "U32",
+    "AMS-GUIDE",
+    "EASP"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "EASP",
+      "definition": {
+        "vi": "Hồ sơ ứng tuyển cảnh sát biệt phái dạng điện tử",
+        "en": "Electronic Application for Seconded Police"
+      }
+    },
+    {
+      "term": "STAR",
+      "definition": {
+        "vi": "Khung tình huống, nhiệm vụ, hành động, kết quả",
+        "en": "Situation, Task, Action, Result"
+      }
+    }
+  ],
+  "diagram": {
+    "type": "seq",
+    "items": [
+      {
+        "vi": "Hồ sơ đúng",
+        "en": "Accurate application"
+      },
+      {
+        "vi": "Ví dụ thật",
+        "en": "Genuine examples"
+      },
+      {
+        "vi": "Trả lời đúng câu hỏi",
+        "en": "Relevant answers"
+      },
+      {
+        "vi": "Rà soát",
+        "en": "Review"
+      }
+    ],
+    "chapter": 1
+  },
+  "contentVersion": "4tab-2026-10-26",
+  "sourceIntro": {
+    "vi": "Các tài liệu dưới đây là nền tảng kiến thức của bài. Mở nguồn để đọc nội dung gốc; phần giải thích, sơ đồ học tập và câu hỏi được biên soạn cho Handbook.",
+    "en": "The materials below provide the lesson’s knowledge base. Open them for the original teaching material; explanations, instructional diagrams and questions are developed for the Handbook."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Hai bản Việt–Anh phục vụ học tập, không phải bản dịch chính thức của UN. Danh mục và thứ tự 48 bài là cách tổ chức học liệu của Handbook, không phải số bài chính thức của UN.",
+      "Bảng đối chiếu xác định tài liệu nền theo mục; không khẳng định mọi câu diễn giải là trích nguyên văn. Hình gốc ghi rõ tài liệu và trang PDF; sơ đồ học tập được ghi là biên soạn.",
+      "Không trích tiêu chí chi tiết từ SOP AMS 2024 khi chưa xác minh được toàn văn. Bài cung cấp phương pháp chuẩn bị; thời lượng, điểm đạt, cự ly, số đạn, lần thử và hiệu lực phải theo thông báo chính thức của đợt đánh giá. Ví dụ câu và số liệu trong phần báo cáo chỉ dùng luyện ngôn ngữ."
+    ],
+    "en": [
+      "The Vietnamese and English texts are for learning and are not official UN translations. The 48-lesson catalogue and numbering are the Handbook’s organization, not the official UN lesson count.",
+      "The mapping identifies source materials by section and does not present every explanation as a verbatim quotation. Original illustrations identify the material and PDF page; instructional diagrams are labelled as developed for the lesson.",
+      "Detailed AMS 2024 criteria are not quoted without verified full text. These lessons teach preparation methods; timing, pass scores, distances, ammunition, attempts and validity must follow official instructions for the assessment. Sentence and numerical examples in reporting are language practice only."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bài học IPO-07 tập trung vào chủ đề: Chuẩn bị đánh giá: Quy trình, EASP và phỏng vấn. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+      "en": "Lesson IPO-07 covers the following topic: Assessment preparation, EASP and interviews. It connects concepts with professional responsibilities."
+    },
+    "subtitle": {
+      "vi": "Học kiến thức, hiểu trách nhiệm và kiểm tra nhận thức.",
+      "en": "Learn the concepts, understand responsibilities and check your knowledge."
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích: Đánh giá và bố trí công tác; Hồ sơ nhất quán.",
+        "Giải thích: Chuẩn bị ví dụ năng lực; Phỏng vấn.",
+        "Giải thích: Kiến thức nền và kỹ năng máy tính; Kết nối ví dụ với hồ sơ; Kiểm tra trước nộp.",
+        "Nhận diện cách hiểu sai và chọn nhận định có căn cứ trong kiểm tra nhận thức."
+      ],
+      "en": [
+        "Explain: Assessment and deployment are different; Maintain a consistent EASP.",
+        "Explain: Prepare competency examples; Answer the interview question.",
+        "Explain: Knowledge and digital work skills; Connect examples to the application; Check before submission.",
+        "Recognize misconceptions and select evidence-based statements in the knowledge check."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc các mục theo thứ tự trong tab nội dung, quan sát sơ đồ và hình, sau đó hoàn thành kiểm tra nhận thức. Chọn VI/EN để đổi ngôn ngữ; đáp án được giữ khi đổi ngôn ngữ trong phiên mở trang. Tải lại trang sẽ bắt đầu lại.",
+      "en": "Read the sections in order, study diagrams and illustrations, then complete the knowledge check. Use VI/EN to switch languages; answers are retained across language changes during the session. Reloading starts a new session."
+    }
+  },
+  "figures": [],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft"
+}

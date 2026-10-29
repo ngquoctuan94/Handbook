@@ -1,0 +1,765 @@
+{
+  "schemaVersion": 2,
+  "id": "FPU-13",
+  "area": "fpu",
+  "groupKey": "FPU-M4",
+  "group": {
+    "vi": "Chiến thuật cảnh sát",
+    "en": "Police tactics"
+  },
+  "title": {
+    "vi": "Chốt kiểm soát: Tổ chức, kiểm tra và xử lý tình huống",
+    "en": "Checkpoints: Functions, checks and continuity"
+  },
+  "summary": {
+    "vi": "Chốt kiểm soát kết nối thẩm quyền, giao thông, kiểm tra và bảo vệ con người. Bài học giúp tổ chức chức năng, xử lý ngoại lệ và bàn giao mà không để số lượng kiểm tra lấn át mục đích hợp pháp.",
+    "en": "Connect checkpoint authority, traffic, checks and human safeguards. Organize functions, exceptions and continuity while keeping lawful purpose central."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "CHECK",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-025%20Checkpoints.pdf",
+  "order": 205,
+  "sections": [
+    {
+      "id": "FPU-13-01",
+      "title": {
+        "vi": "1. Chốt kiểm soát: Mục đích và thẩm quyền",
+        "en": "1. Checkpoints: Purpose and authority"
+      },
+      "body": {
+        "vi": "### 1.1. Một biện pháp có tác động tới người dân\nChốt kiểm soát tổ chức việc tiếp cận hoặc lưu thông nhằm một mục đích được phép, như bảo vệ cơ sở, kiểm tra an ninh hoặc hỗ trợ nhiệm vụ cảnh sát theo mandate. Biện pháp có thể làm chậm việc đi lại, tác động sinh kế, tiếp cận y tế và niềm tin. Vì vậy, không chỉ hỏi chốt có kiểm tra được nhiều người không mà phải xem vì sao cần và hại nào cần giảm.\n\nĐứng trong đồng phục UN hoặc có trang bị không tự tạo quyền dừng, khám, thu tài sản hay giữ người. Cần xác định căn cứ từng hành vi và phạm vi thực hiện của FPU. Quyền kiểm soát vào một cơ sở không tự trở thành quyền kiểm tra mọi người trên một tuyến công cộng.\n\n### 1.2. Nêu rõ nhiệm vụ\nTrước tổ chức, cần mục tiêu, địa bàn, thời gian, thẩm quyền, người chỉ huy, các bên phối hợp và cách kết thúc. Chốt cố định hoặc cơ động là hình thức theo yêu cầu, không phải lý do bỏ chuẩn mực. Hoạt động tạm thời vẫn cần giới hạn và hồ sơ; hoạt động lâu dài phải được rà tính cần thiết, không tồn tại chỉ vì đã dựng lên.\n\nMột lệnh chỉ nêu địa điểm mà không rõ mục đích dễ dẫn tới việc kiểm tra theo thói quen hoặc mở rộng tùy tiện. Thành viên cần hiểu kết quả cần đạt và những việc không được tự quyết.\n\n### 1.3. Không phân biệt và không định tội\nTiêu chí kiểm tra phải dựa căn cứ, thông tin và phương án được phép, không theo sắc tộc, giới, tôn giáo hoặc vẻ ngoài. Lựa chọn theo thông tin phải được kiểm tra về thiên kiến và độ tin cậy. Không gọi một người là tội phạm chỉ vì giấy tờ chưa rõ hoặc họ khó chịu khi chờ.\n\nDừng để kiểm tra không tự đồng nghĩa bị bắt. Nếu mức kiểm soát chuyển thành tước tự do thực tế, cán bộ phải nhận ra trách nhiệm và thực hiện bảo đảm tương ứng, không dùng tên gọi “chờ làm rõ” để bỏ giới hạn.\n\n### 1.4. Hiệu quả đi cùng tính chính đáng\nChốt thực hiện đúng mục tiêu, an toàn và có giải trình mới tạo hiệu quả bền vững. Số người hoặc xe đã qua không chứng minh phát hiện nguy cơ, giảm hại hay được cộng đồng tin. Cần tính cả thời gian chờ, khiếu nại, nhu cầu đặc thù và khả năng tiếp tục duy trì nhiệm vụ.",
+        "en": "### 1.1. A measure affecting civilian life\nA checkpoint controls access or movement for an authorized purpose, such as facility protection, security screening or mandated policing support. It can affect travel, livelihoods, medical access and trust. Assess necessity and harm reduction, not only numbers checked.\n\nUN uniform and equipment do not confer unrestricted stopping, search, seizure or custody powers. Establish authority for each action. Facility access control does not automatically authorize checks across a public route.\n\n### 1.2. Define the assignment\nSpecify purpose, area, duration, authority, command, partners and termination. Fixed and mobile forms retain the same safeguards. Temporary operations need limits and records; continuing checkpoints require necessity review.\n\nA location without a clear purpose invites habitual checks or unauthorized expansion. Members need intended outcomes and decision boundaries.\n\n### 1.3. Non-discrimination and presumption\nUse authorized, evidence-based criteria rather than ethnicity, gender, religion or appearance. Examine intelligence-based selection for reliability and bias. Uncertain documents or irritation do not establish guilt.\n\nA check is not automatically an arrest. Recognize effective deprivation of liberty and its safeguards rather than conceal it through “waiting for clarification” terminology.\n\n### 1.4. Effectiveness and legitimacy\nSustainable effectiveness requires lawful purpose, safety and accountability. Throughput alone does not establish reduced risk. Consider waiting, complaints, special needs and continued operational capacity."
+      },
+      "sourceIds": [
+        "CHECK",
+        "POLICY",
+        "DET2020"
+      ]
+    },
+    {
+      "id": "FPU-13-02",
+      "title": {
+        "vi": "2. Chuẩn bị tổ chức và lưu thông an toàn",
+        "en": "2. Preparing organization and safe flow"
+      },
+      "body": {
+        "vi": "### 2.1. Hiểu môi trường trước triển khai\nĐánh giá giao thông, ánh sáng, thời tiết, dòng người, nơi dân tập trung và hoạt động thiết yếu. Tính người đi bộ, trẻ, người khuyết tật, xe cấp cứu và người không hiểu ngôn ngữ. Không mặc định mọi người đều nhìn, nghe và phản ứng giống nhau với biển hoặc tín hiệu.\n\nBố trí cụ thể phải theo phương án được đánh giá và phê chuẩn, phù hợp địa bàn cùng năng lực. Một sơ đồ học tập không thay khảo sát thực tế hoặc chuyên môn an toàn giao thông. Không lấy khoảng cách hoặc số lượng trong tài liệu cũ làm thông số bắt buộc ở mọi nơi.\n\n### 2.2. Tổ chức theo chức năng\nCần làm rõ chức năng thông báo và hướng dẫn, quyết định kiểm tra, thực hiện, giám sát an toàn, liên lạc và xử lý yêu cầu vượt phạm vi. Đây là cách tổ chức trách nhiệm, không có nghĩa một người luôn chỉ làm một việc hoặc mọi chốt phải cùng quân số. Nếu kiêm nhiệm, phải đánh giá còn đủ giám sát không.\n\nNgười chỉ huy cần giữ bức tranh về lượng người chờ, năng lực xử lý, sự cố, quân số và việc cần quyết định. Không để bộ phận kiểm tra tự mở rộng tiêu chí hoặc bên hướng dẫn cho đi khác với quyết định đã được thống nhất.\n\n### 2.3. Chuẩn bị phương tiện và thông tin\nKiểm tra biển, chiếu sáng, liên lạc, ghi chép, hỗ trợ ngôn ngữ, bảo hộ và y tế theo nhiệm vụ. Thiết bị cần hoạt động thật, người dùng hiểu và có cách xử lý khi hỏng. Danh sách liên hệ phải xác minh, có phương án ngoài giờ và đầu mối tiếp nhận vấn đề pháp lý hoặc bảo vệ.\n\nChỉ thị cần thống nhất với lực lượng phối hợp và người quản lý tuyến hoặc cơ sở theo cơ chế. Không tự tạo quyền cản đường, đổi luồng hoặc đặt hạn chế ngoài phạm vi được cho phép.\n\n### 2.4. Kiểm tra hiểu trước mở hoạt động\nPhổ biến mục tiêu, tiêu chí, giới hạn, quy trình báo và việc cần gọi cấp trên. Yêu cầu giải thích các điểm quan trọng để phát hiện khác cách hiểu. Thực hành trực tiếp cách hướng dẫn người và phương tiện trong điều kiện được kiểm soát; không đợi giao thông thật để thử tín hiệu mới. Khi thiếu điều kiện an toàn, báo ảnh hưởng và xin quyết định phù hợp.",
+        "en": "### 2.1. Understand the setting\nAssess traffic, lighting, weather, pedestrian flow, gatherings and essential services. Include children, disability, ambulances and language differences. People do not perceive or respond identically to instructions.\n\nPhysical arrangements require local assessment and authorization, not imitation of a training diagram. Historical distances and staffing figures are not universal specifications.\n\n### 2.2. Organize functions\nClarify warning and guidance, selection decisions, checks, safety monitoring, communications and escalation. Functions establish responsibility without prescribing identical staffing everywhere. Assess supervision when roles overlap.\n\nCommand needs queue, capacity, incident, staffing and decision information. Prevent unauthorized changes to selection or release arrangements by individual elements.\n\n### 2.3. Equipment and contacts\nVerify signs, lighting, communications, records, language support, protection and medical arrangements. Equipment needs function, competent users and failure procedures. Validate contacts, out-of-hours support and legal or protection referral.\n\nCoordinate with partners and responsible route or facility authorities. Do not create unapproved movement restrictions.\n\n### 2.4. Check understanding\nBrief objectives, criteria, limits, reporting and escalation. Ask members to explain important decisions. Practise guidance in controlled conditions rather than test unfamiliar signals in live traffic. Report missing safety conditions and their consequences."
+      },
+      "sourceIds": [
+        "CHECK",
+        "CSC006",
+        "CSC010"
+      ]
+    },
+    {
+      "id": "FPU-13-03",
+      "title": {
+        "vi": "3. Giao tiếp và kiểm tra có giới hạn",
+        "en": "3. Communication and proportionate checks"
+      },
+      "body": {
+        "vi": "### 3.1. Để người được kiểm tra hiểu\nGiới thiệu vai trò khi phù hợp, giải thích ngắn lý do, điều cần làm và bước tiếp theo. Dùng lời rõ, nhất quán, có thời gian hiểu; tránh nhiều người cùng ra yêu cầu khác nhau. Không dùng xúc phạm hoặc đe dọa để tăng tốc xử lý.\n\nNgười chậm làm theo có thể không nghe, không hiểu, bị thương hoặc lo sợ. Cần làm rõ thay vì tự suy chống đối. Với người khiếm thính, người khuyết tật hoặc nhu cầu khác, sử dụng hỗ trợ phù hợp trong khả năng và kết nối đầu mối, không biến bất tiện thành lý do tăng xâm phạm.\n\n### 3.2. Nhận dạng và giấy tờ\nKiểm tra theo mục đích và quy trình được phép, đối chiếu thông tin có liên quan. Giấy tờ thiếu, khó đọc hoặc nghi bất thường cần được xác minh đúng đầu mối. Không tự kết luận giả mạo từ một dấu hiệu chưa hiểu; không tịch thu hoặc giữ bản gốc chỉ vì tiện cho việc ghi chép.\n\nChỉ thu và lưu dữ liệu cần, qua phương tiện được phép. Không chụp toàn bộ giấy tờ vào điện thoại cá nhân hoặc chia lên nhóm rộng. Người dân có quyền được đối xử có phẩm giá ngay cả khi việc xác minh chưa hoàn tất.\n\n### 3.3. Khám người, đồ và xe\nMỗi biện pháp khám cần căn cứ, phạm vi, người đã huấn luyện và điều kiện phù hợp. Giải thích mục đích, bảo vệ riêng tư, ghi vật lấy đi và kết quả. Một lần dừng xe không tự cho phép kiểm tra mọi nội dung số hoặc đưa người vào mọi dạng khám xâm phạm.\n\nVới người do UN kiểm soát, tuân thủ SOP về giới, tuổi và các bảo đảm. Trẻ chỉ được khám trong điều kiện riêng, bởi người cùng giới có huấn luyện bảo vệ trẻ, có người thứ hai; không bao giờ khám lột trần hoặc khoang cơ thể. Không suy ngoại lệ an ninh dành cho người lớn sang trẻ.\n\n### 3.4. Khi cần chuyển cấp xử lý\nNếu xuất hiện nghi vấn vượt trình độ, vấn đề thẩm quyền hoặc nhu cầu bảo vệ, báo và chuyển đúng người. Không tự kéo dài để “tìm cho ra” khi căn cứ không còn; cũng không tự cho qua việc nguy hiểm vì ngại chậm. Giữ ghi nhận rõ về điều biết, biện pháp và quyết định. Kỹ thuật khám cụ thể cần học thực hành riêng, không tự tập từ văn bản.",
+        "en": "### 3.1. Enable understanding\nExplain the role, reason, required action and next step clearly, allowing comprehension and avoiding conflicting instructions. Insults and threats are not efficiency tools.\n\nDelayed compliance may reflect hearing, language, injury or fear. Clarify before assuming resistance. Provide suitable accommodation and specialist help rather than increasing intrusion because assistance is inconvenient.\n\n### 3.2. Identity and documents\nCheck relevant information under authorized procedures. Refer missing, unclear or questionable documents for proper verification. Unfamiliar features do not prove forgery, and convenient recording does not justify confiscation.\n\nCollect only necessary data through authorized systems. Avoid personal-phone copies and broad distribution. Unresolved identity does not remove dignity.\n\n### 3.3. Personal, property and vehicle searches\nEach search needs grounds, scope, competence and suitable conditions. Explain purpose, protect privacy and record removed items. A vehicle stop does not permit unlimited digital access or intrusive personal search.\n\nFollow UN custody safeguards where applicable. Child searches require specific grounds, same-sex child-protection-trained personnel and a second person. Children must never undergo strip or body-cavity searches. Adult exceptions do not remove child requirements.\n\n### 3.4. Refer appropriately\nEscalate uncertainty beyond competence, authority questions and protection needs. Do not prolong checks without grounds or ignore danger to avoid delays. Record knowledge, measures and decisions. Physical search skills require separate practical training."
+      },
+      "sourceIds": [
+        "SEARCH",
+        "VEHICLE",
+        "DET2020"
+      ]
+    },
+    {
+      "id": "FPU-13-04",
+      "title": {
+        "vi": "4. Quản lý chờ đợi, tiếp cận và yêu cầu đặc biệt",
+        "en": "4. Queues, access and specific needs"
+      },
+      "body": {
+        "vi": "### 4.1. Hàng chờ là một phần của nguy cơ\nThời gian chờ có thể làm tăng mệt, nóng, xung đột, cản giao thông và nguy cơ cho người dễ bị hại. Người chỉ huy cần theo dõi lượng chờ, nguyên nhân chậm, khả năng xử lý và tác động ngoài chốt. Không chỉ tối ưu số lượt kiểm tra mà bỏ qua người dân bị kẹt lâu.\n\nNếu năng lực không theo kịp, xem điều chỉnh được phép, nguồn hỗ trợ hoặc xin quyết định. Không bỏ kiểm tra cần thiết một cách tùy tiện để giảm hàng; không tăng hạn chế chỉ để giữ hình thức chốt hoạt động trật tự. Quyết định phải cân đối mục tiêu và hại.\n\n### 4.2. Trường hợp y tế và nhu cầu khẩn\nCó cơ chế nhận biết, báo và xử lý xe cấp cứu, người bệnh hoặc tình trạng cần chăm sóc. Không để người chịu đau hoặc giảm đáp ứng chờ như một việc hành chính thường lệ. Gọi y tế sớm, hỗ trợ trong năng lực và phối hợp xử lý an ninh theo quy trình, tránh lựa chọn giả giữa hoàn toàn bỏ bảo đảm và trì hoãn cứu giúp.\n\nTrẻ đi một mình, người có nguy cơ bị bạo lực hoặc người không thể tự trình bày cần đầu mối bảo vệ phù hợp. Không khai thác lời kể công khai giữa hàng chờ. Bảo vệ riêng tư và nhận diện nguy cơ khi chuyển thông tin.\n\n### 4.3. Khiếu nại và yêu cầu giải thích\nNgười dân có thể hỏi căn cứ, thời gian hoặc cách phản ánh. Cán bộ cần giải thích trong phạm vi được phép, cung cấp kênh phù hợp và ghi nhận vấn đề. Phàn nàn không tự đồng nghĩa đe dọa; quay phim hoặc hỏi tên phải được xử lý theo pháp luật và hướng dẫn, không tự trừng phạt.\n\nNếu có hành vi cụ thể gây nguy cơ, đánh giá theo hành vi và đáp ứng trong giới hạn. Tách người cần hỗ trợ khỏi việc kết luận lỗi; kiểm soát cảm xúc của cán bộ để không biến tranh luận thành sự cố vũ lực.\n\n### 4.4. Kiểm tra tác động\nTheo dõi thời gian, nhóm gặp trở ngại, nhu cầu khẩn và phản hồi để phát hiện tiêu chí hoặc quy trình gây bất lợi không cần thiết. Không coi không có đơn khiếu nại là mọi người hài lòng; họ có thể không biết kênh hoặc sợ phản ánh. Đánh giá chủ động giúp chốt đáp ứng mục tiêu mà không làm tăng hại có thể phòng ngừa.",
+        "en": "### 4.1. Queues create risks\nWaiting can increase fatigue, heat exposure, conflict, traffic obstruction and vulnerability. Monitor demand, delays, processing capacity and effects beyond the checkpoint. Throughput is not the sole objective.\n\nUse authorized adjustments, support or command decisions when capacity is insufficient. Do not arbitrarily discard necessary checks or intensify restrictions merely for orderly appearance. Balance purpose and harm.\n\n### 4.2. Medical and urgent needs\nEstablish recognition and response arrangements for ambulances and people needing care. Pain or reduced responsiveness is not routine paperwork. Activate medical assistance and coordinate necessary security safeguards without treating care and security as mutually exclusive.\n\nUnaccompanied children and people facing violence require appropriate protection referral. Avoid public questioning about sensitive experiences and protect information during transfer.\n\n### 4.3. Questions and complaints\nExplain permitted information, provide complaint routes and record concerns. Complaints are not automatically threats. Recording or identity questions must be handled under applicable law and instructions, not retaliation.\n\nAssess actual threatening conduct separately and respond within limits. Avoid converting disagreement into a force incident.\n\n### 4.4. Assess impact\nTrack waiting, affected groups, urgent needs and feedback. An absence of complaints does not prove satisfaction; people may lack access or fear reporting. Proactive review reduces unnecessary adverse effects."
+      },
+      "sourceIds": [
+        "CHECK",
+        "POLICY"
+      ]
+    },
+    {
+      "id": "FPU-13-05",
+      "title": {
+        "vi": "5. Sự cố và sử dụng vũ lực",
+        "en": "5. Incidents and use of force"
+      },
+      "body": {
+        "vi": "### 5.1. Phản ứng theo sự kiện thực\nKhông làm theo tín hiệu có thể do nhiều nguyên nhân; cần đánh giá thông tin, giao tiếp và nguy cơ cụ thể. Không biến mọi trường hợp xe hoặc người không dừng thành ngưỡng sử dụng súng. Căn cứ vũ lực phải riêng, cần thiết và tương xứng; cố ý gây chết người chỉ khi hoàn toàn không thể tránh để bảo vệ sinh mạng.\n\nMọi cảnh báo, biện pháp và thay đổi phải theo DUF cùng hướng dẫn áp dụng. Đã có biển hoặc đã cảnh báo không tự cho phép mọi mức cưỡng chế. Khi đe dọa thay đổi, phải rà lại và giảm hoặc dừng khi căn cứ không còn.\n\n### 5.2. Vật nghi nguy hiểm\nKhông mở, di chuyển hoặc thử một vật nghi nổ để hoàn thành kiểm tra; không lại gần lấy ảnh hoặc đặt dấu. Cảnh báo từ nơi an toàn, báo vị trí đã biết và gọi đầu mối có năng lực. Điều chỉnh tiếp cận theo phương án địa bàn và hướng dẫn; không dùng một khoảng cách truyền miệng làm quy tắc đủ cho mọi vật.\n\nNgười có chuyên môn cần được tiếp nhận bằng thông tin rõ về quan sát, thời gian và việc đã làm. Không để người không có nhiệm vụ tập trung quanh sự cố hoặc dùng hiện trường làm nơi quay video.\n\n### 5.3. Nếu có người bị kiểm soát\nNhận diện thời điểm kiểm soát thực tế và bảo đảm chăm sóc, ghi chép, người giám sát cùng tuyến báo. Còng không để phạt, không duy trì quá cần thiết, phải theo dõi đáp ứng và hô hấp. Không trì hoãn hỗ trợ y tế để chờ người hợp tác hoặc để hoàn tất thủ tục.\n\nBàn giao người hoặc vật phải đúng căn cứ, đầu mối và đánh giá nguy cơ. Không đưa cho bất kỳ lực lượng sở tại nào chỉ vì họ tới chốt hoặc có cấp bậc. Sự hiện diện không thay cơ chế thẩm quyền.\n\n### 5.4. Duy trì an toàn phần còn lại\nKhi có sự cố, tổ chức chỉ huy, liên lạc, chăm sóc và lưu thông theo phương án, báo nhu cầu tăng cường. Không để mọi thành viên cùng tập trung vào một việc và bỏ các chức năng cần giữ. Nếu phải tạm ngừng hoạt động, thông báo, hướng dẫn và phối hợp để tránh tạo thêm nguy cơ cho người chờ. Kỹ thuật đáp ứng cần thực hành dưới giảng viên, không tự suy từ bài đọc.",
+        "en": "### 5.1. Respond to actual conditions\nFailure to comply can have several explanations. Assess information, communication and concrete danger. A person or vehicle failing to stop does not automatically meet firearm thresholds. Force requires separate lawful grounds, necessity and proportionality; intentional lethal force is restricted to strictly unavoidable life protection.\n\nSigns and warnings do not authorize every coercive measure. Reassess and reduce or end force as grounds change.\n\n### 5.2. Suspicious objects\nDo not open, move or test suspected explosives, or approach for photographs or marking. Warn from safety, report known location and obtain specialist direction. Do not apply an informal universal distance.\n\nBrief competent responders accurately and prevent unnecessary gathering or recording at the scene.\n\n### 5.3. Effective custody\nRecognize the start of control and maintain care, records, observation and reporting. Restraints must not punish or last beyond necessity; monitor responsiveness and breathing. Care must not depend on cooperation or paperwork completion.\n\nTransfers require authority, appropriate recipients and risk assessment. Arrival or rank of a host-State actor does not independently authorize handover.\n\n### 5.4. Preserve other functions\nMaintain command, communications, care and safe flow while obtaining support. Avoid every member abandoning essential roles for one incident. If operations pause, communicate and coordinate to prevent additional harm. Response techniques require supervised practice."
+      },
+      "sourceIds": [
+        "UNMAS",
+        "POLICY",
+        "DET2020"
+      ]
+    },
+    {
+      "id": "FPU-13-06",
+      "title": {
+        "vi": "6. Hồ sơ, bàn giao và rà soát hoạt động",
+        "en": "6. Records, handover and operational review"
+      },
+      "body": {
+        "vi": "### 6.1. Ghi điều có ích và cần thiết\nHồ sơ theo nhiệm vụ cần thời gian, quyết định, kiểm tra hoặc sự cố có liên quan, vật lấy đi, người chịu trách nhiệm và chuyển tiếp. Chỉ thu dữ liệu có mục đích và theo cơ chế. Không cần ghi mọi thông tin riêng tư để tạo một sổ dày; cũng không bỏ dữ liệu quan trọng để giảm trách nhiệm.\n\nBáo khẩn sự kiện nghiêm trọng, vũ lực, thương tích hoặc nguy cơ; báo định kỳ tổng hợp hoạt động và vấn đề. Phân biệt dữ kiện, thông tin được cung cấp và nhận định. Không dùng câu chung “đã xử lý đúng quy định” thay mô tả quyết định và căn cứ khi có sự cố.\n\n### 6.2. Bàn giao ca thực chất\nNgười nhận cần mục tiêu và phiên bản lệnh, tình hình, tiêu chí, người hoặc tài sản đang được giữ, việc chờ xác minh, lỗi trang bị và yêu cầu hỗ trợ. Đối chiếu thực tế, không chỉ ký sổ. Các trường hợp đang được chăm sóc hoặc chịu biện pháp phải có người tiếp tục trách nhiệm rõ.\n\nKhông đổi ca đồng loạt làm mất giám sát hoặc gián đoạn thông tin quan trọng. Cách tổ chức cụ thể theo phương án đơn vị, nhưng nguyên tắc là trách nhiệm không biến mất giữa hai chữ ký.\n\n### 6.3. Kết thúc hoặc thay đổi chốt\nViệc kết thúc cần quyết định đúng thẩm quyền, thông báo các bên, xử lý công việc còn tồn và trả lại điều kiện lưu thông theo cơ chế. Không tự để lại vật cản, hồ sơ hoặc thiết bị; không hủy tài liệu để “dọn sạch”. Người dân và lực lượng phối hợp cần được hướng dẫn phù hợp khi giới hạn tiếp cận thay đổi.\n\n### 6.4. Đánh giá để cải thiện\nXem mục tiêu, phát hiện, thời gian chờ, khiếu nại, nhu cầu y tế, tác động tới nhóm khác nhau và năng lực duy trì. Kiểm tra tiêu chí có thiên kiến hoặc tạo hại không cần thiết không. Chuyển vấn đề thành việc sửa, người làm và cách xác minh.\n\nNăng lực cần đạt là tổ chức hoạt động có căn cứ, giao tiếp rõ, kiểm tra đúng phạm vi, bảo vệ phẩm giá và giữ trách nhiệm khi sự kiện thay đổi. Các kỹ thuật bố trí, điều khiển phương tiện, khám và đáp ứng phải được huấn luyện riêng theo cơ sở cùng hướng dẫn được phép.",
+        "en": "### 6.1. Necessary, useful records\nRecord relevant times, decisions, checks, incidents, removed property, responsibility and transfers. Collect for a purpose under authorized arrangements. Neither excessive private data nor omitted accountability information improves quality.\n\nUrgent reports address serious incidents, force, injuries and threats; periodic reports summarize activity and issues. Distinguish facts, received information and assessment rather than substituting “handled correctly” for evidence.\n\n### 6.2. Substantive shift handover\nTransfer current orders, conditions, criteria, people or property held, pending verification, equipment defects and support requests. Check reality as well as signatures. Continuing care and control need identified successors.\n\nOrganize relief without loss of supervision or critical information. Responsibility must continue between signatures.\n\n### 6.3. Closure or change\nObtain authorized decisions, notify partners, resolve outstanding work and restore flow through the appropriate mechanism. Remove equipment responsibly without abandoning obstacles or destroying records. Explain changed access conditions appropriately.\n\n### 6.4. Improve through assessment\nReview objectives, findings, waiting, complaints, care needs, differing impacts and sustainment. Examine bias and unnecessary harm, assign corrections and verify.\n\nUnderstanding means lawful organization, clear communication, limited checks, dignity and continuing responsibility. Physical layout, vehicle control, search and response skills require separate authorized practical training."
+      },
+      "sourceIds": [
+        "CHECK",
+        "CSC021"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "CHECK",
+      "title": "Checkpoints",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-025%20Checkpoints.pdf",
+      "format": "pdf",
+      "pages": 26,
+      "reading": "7–13",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "POLICY",
+      "title": "Policy 2024.14: Formed Police Units in United Nations Peace Operations",
+      "publisher": "United Nations DPO",
+      "year": "2024",
+      "url": "https://resourcehub01.blob.core.windows.net/$web/Policy%20and%20Guidance/corepeacekeepingguidance/Thematic%20Operational%20Activities/Police%20and%20Law%20Enforcement/2024.14%20Formed%20Police%20Units%20in%20United%20Nations%20Peace%20Operations.pdf",
+      "format": "pdf",
+      "pages": 34,
+      "reading": "Nguồn chính sách nền; hiệu lực 01/12/2024",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "DET2020",
+      "title": "SOP 2020.13: Handling of Detention, including Annex B on children",
+      "url": "https://resourcehub01.blob.core.windows.net/$web/Policy%20and%20Guidance/corepeacekeepingguidance/Security/Safety%20and%20Security%20Management/2020.13%20Handling%20of%20Detention%20in%20United%20Nations%20Peacekeeping%20Operations%20and%20Special%20Political%20Missions%20(SOP).pdf",
+      "year": "2020 / effective 2021",
+      "publisher": "United Nations DPO / DPPA / DSS",
+      "format": "pdf",
+      "pages": 47
+    },
+    {
+      "id": "CSC006",
+      "title": "Familiarization with the Mission Environment",
+      "publisher": "United Nations Police, FPU Command Staff Course",
+      "year": "2026",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-006%20Lesson%206%20Familiarization%20with%20Mission%20Area%20(LP).pdf",
+      "format": "pdf",
+      "checked": "2026-10-29"
+    },
+    {
+      "id": "CSC010",
+      "title": "FPU Command Staff Course 2026 · Lesson 10: FPU Tactical Planning",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-010%20Lesson%2010%20FPU%20Tactical%20Planning%20(LP).pdf",
+      "year": "2026",
+      "publisher": "United Nations Police / DPO",
+      "format": "pdf"
+    },
+    {
+      "id": "SEARCH",
+      "title": "Approaching & Searching Suspects",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-027%20Approaching%20%26%20Searching%20Suspects.pdf",
+      "format": "pdf",
+      "pages": 44,
+      "reading": "8–16",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "VEHICLE",
+      "title": "Vehicle Control",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-031%20Vehicles%20control.pdf",
+      "format": "pdf",
+      "pages": 42,
+      "reading": "7–9",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "UNMAS",
+      "title": "Landmines, Explosive Remnants of War and IED Safety Handbook",
+      "publisher": "United Nations Mine Action Service",
+      "url": "https://www.unmas.org/sites/default/files/handbook_english.pdf",
+      "format": "pdf",
+      "checked": "2026-10-29"
+    },
+    {
+      "id": "CSC021",
+      "title": "Mission Reporting",
+      "publisher": "United Nations Police, FPU Command Staff Course",
+      "year": "2026",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-021%20Lesson%2021%20Mission%20Reporting%20(LP).pdf",
+      "format": "pdf",
+      "checked": "2026-10-29"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Được giao dựng chốt có tự tạo quyền khám xét và giữ mọi người không?",
+        "en": "Does checkpoint tasking automatically authorize all searches and detention?"
+      },
+      "options": [
+        {
+          "vi": "Có, miễn là chốt mang biểu tượng UN.",
+          "en": "Yes, if it displays UN markings."
+        },
+        {
+          "vi": "Có, mọi người qua chốt đều có thể bị giữ.",
+          "en": "Yes, anyone passing may be detained."
+        },
+        {
+          "vi": "Không; từng biện pháp cần căn cứ thẩm quyền áp dụng.",
+          "en": "No; each measure needs applicable authority."
+        }
+      ],
+      "correct": 2,
+      "chapter": 0,
+      "explanation": {
+        "vi": "Nhiệm vụ kiểm soát không thay căn cứ pháp lý và giới hạn từng hành động. Xem mục 1.",
+        "en": "Control duties do not replace legal grounds and limits. See section 1."
+      }
+    },
+    {
+      "question": {
+        "vi": "Đánh giá chất lượng chốt nên dựa vào gì?",
+        "en": "What should determine checkpoint quality?"
+      },
+      "options": [
+        {
+          "vi": "Mục tiêu hợp pháp, an toàn, đối xử và tác động thực tế.",
+          "en": "Lawful objectives, safety, treatment and actual impact."
+        },
+        {
+          "vi": "Chỉ số người bị từ chối đi qua.",
+          "en": "Only the number refused passage."
+        },
+        {
+          "vi": "Chỉ số xe bị dừng càng nhiều càng tốt.",
+          "en": "The greatest possible number of stopped vehicles."
+        }
+      ],
+      "correct": 0,
+      "chapter": 0,
+      "explanation": {
+        "vi": "Lưu lượng xử lý không đủ phản ánh hiệu quả và tính hợp pháp. Xem mục 1.",
+        "en": "Processing counts alone do not establish effectiveness or lawfulness. See section 1."
+      }
+    },
+    {
+      "question": {
+        "vi": "Chọn nơi đặt chốt cần tính điều gì ngoài quan sát?",
+        "en": "What matters beyond visibility when assessing a checkpoint location?"
+      },
+      "options": [
+        {
+          "vi": "Giao thông, người đi bộ, tiếp cận khẩn và tác động tới dân cư.",
+          "en": "Traffic, pedestrians, emergency access and community impact."
+        },
+        {
+          "vi": "Chỉ gần nơi nghỉ của ca trực.",
+          "en": "Only proximity to staff accommodation."
+        },
+        {
+          "vi": "Chỉ thuận tiện chụp ảnh.",
+          "en": "Only photographic convenience."
+        }
+      ],
+      "correct": 0,
+      "chapter": 1,
+      "explanation": {
+        "vi": "Một lựa chọn có thể gây nguy cơ mới nếu bỏ qua người sử dụng đường. Xem mục 2.",
+        "en": "Ignoring road users can create new risks. See section 2."
+      }
+    },
+    {
+      "question": {
+        "vi": "Có nên lấy một sơ đồ và quân số mẫu áp cho mọi chốt?",
+        "en": "Should one sample layout and staffing number govern every checkpoint?"
+      },
+      "options": [
+        {
+          "vi": "Có, để không cần đánh giá lại.",
+          "en": "Yes, to avoid reassessment."
+        },
+        {
+          "vi": "Có, nếu đã từng dùng ở nơi khác.",
+          "en": "Yes, if used elsewhere."
+        },
+        {
+          "vi": "Không; theo nhiệm vụ, đánh giá nguy cơ và phương án được duyệt.",
+          "en": "No; use the task, risk assessment and approved plan."
+        }
+      ],
+      "correct": 2,
+      "chapter": 1,
+      "explanation": {
+        "vi": "Mẫu học tập không thay điều kiện và chức năng cần đáp ứng tại địa bàn. Xem mục 2.",
+        "en": "Training examples do not replace local conditions and functional requirements. See section 2."
+      }
+    },
+    {
+      "question": {
+        "vi": "Giấy tờ chưa xác minh được có chứng minh là giả không?",
+        "en": "Does unresolved document verification prove forgery?"
+      },
+      "options": [
+        {
+          "vi": "Có, luôn đủ căn cứ giam giữ.",
+          "en": "Yes; it always establishes detention grounds."
+        },
+        {
+          "vi": "Không; cần xác minh qua kênh chính thức và xử lý trong thẩm quyền.",
+          "en": "No; verify through official channels and act within authority."
+        },
+        {
+          "vi": "Có, phải công khai ngay ảnh người mang.",
+          "en": "Yes; immediately publish the holder’s image."
+        }
+      ],
+      "correct": 1,
+      "chapter": 2,
+      "explanation": {
+        "vi": "Chưa xác minh và kết luận vi phạm là hai trạng thái khác nhau. Xem mục 3.",
+        "en": "Unverified information and established wrongdoing are different. See section 3."
+      }
+    },
+    {
+      "question": {
+        "vi": "Cách xử lý dữ liệu giấy tờ phù hợp là gì?",
+        "en": "What is appropriate for identity-document data?"
+      },
+      "options": [
+        {
+          "vi": "Chụp bằng điện thoại riêng để dễ tra sau.",
+          "en": "Use a personal phone for later reference."
+        },
+        {
+          "vi": "Chia sẻ vào mọi nhóm trực tuyến.",
+          "en": "Share it in every online group."
+        },
+        {
+          "vi": "Chỉ thu cần thiết, dùng kênh và thiết bị được phép.",
+          "en": "Collect necessary data using authorized channels and devices."
+        }
+      ],
+      "correct": 2,
+      "chapter": 2,
+      "explanation": {
+        "vi": "Thu thập và chia sẻ phải theo mục đích cùng bảo vệ dữ liệu. Xem mục 3.",
+        "en": "Collection and disclosure require purpose and data safeguards. See section 3."
+      }
+    },
+    {
+      "question": {
+        "vi": "Hàng chờ kéo dài trong nắng, cần phản ứng gì?",
+        "en": "A queue grows in intense heat. What is appropriate?"
+      },
+      "options": [
+        {
+          "vi": "Báo tác động, hỗ trợ nhu cầu cấp thiết và xin điều chỉnh được phép.",
+          "en": "Report impact, address urgent needs and seek authorized adjustment."
+        },
+        {
+          "vi": "Mặc định chờ lâu làm tăng an ninh.",
+          "en": "Assume longer waits improve security."
+        },
+        {
+          "vi": "Ngừng giải thích để mọi người tự xoay xở.",
+          "en": "Stop explaining and leave people to cope."
+        }
+      ],
+      "correct": 0,
+      "chapter": 3,
+      "explanation": {
+        "vi": "Chờ đợi có thể tạo nguy cơ sức khỏe và trật tự cần quản lý. Xem mục 4.",
+        "en": "Waiting can create health and public-order risks requiring management. See section 4."
+      }
+    },
+    {
+      "question": {
+        "vi": "Người dân khiếu nại về cách kiểm tra. Nên làm gì?",
+        "en": "A person complains about a check. What is appropriate?"
+      },
+      "options": [
+        {
+          "vi": "Công khai thông tin riêng để răn đe.",
+          "en": "Expose personal information as a warning."
+        },
+        {
+          "vi": "Giải thích và hướng dẫn cơ chế phản ánh, không coi khiếu nại là đe dọa.",
+          "en": "Explain and provide complaint channels without treating complaint as a threat."
+        },
+        {
+          "vi": "Tăng hạn chế vì họ dám phản đối.",
+          "en": "Increase restrictions because they objected."
+        }
+      ],
+      "correct": 1,
+      "chapter": 3,
+      "explanation": {
+        "vi": "Tiếp nhận phản ánh là phần của trách nhiệm, không phải căn cứ trả đũa. Xem mục 4.",
+        "en": "Complaint handling supports accountability, not retaliation. See section 4."
+      }
+    },
+    {
+      "question": {
+        "vi": "Xe không chấp hành tín hiệu dừng có tự đủ điều kiện dùng súng không?",
+        "en": "Does failure to stop automatically justify firearms?"
+      },
+      "options": [
+        {
+          "vi": "Không; phải đánh giá theo DUF và tiêu chuẩn bảo vệ sinh mạng áp dụng.",
+          "en": "No; apply DUF and applicable life-protection standards."
+        },
+        {
+          "vi": "Có, vì mọi xe qua chốt phải tuân lệnh.",
+          "en": "Yes, because all vehicles must comply."
+        },
+        {
+          "vi": "Có, nếu ca trực đang mệt.",
+          "en": "Yes, if guards are tired."
+        }
+      ],
+      "correct": 0,
+      "chapter": 4,
+      "explanation": {
+        "vi": "Không chấp hành không tự đáp ứng các điều kiện nghiêm ngặt về súng. Xem mục 5.",
+        "en": "Non-compliance alone does not meet strict firearms conditions. See section 5."
+      }
+    },
+    {
+      "question": {
+        "vi": "Một người đang bị kiểm soát tại chốt cần bàn giao. Điều gì quan trọng?",
+        "en": "A controlled person requires handover. What matters?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ có chữ ký, không cần xác minh người nhận.",
+          "en": "A signature without receiver verification."
+        },
+        {
+          "vi": "Cơ sở thẩm quyền, tình trạng sức khỏe, người nhận và hồ sơ cần thiết.",
+          "en": "Authority, health status, authorized receiver and necessary records."
+        },
+        {
+          "vi": "Chỉ đưa người sang bất kỳ đơn vị gần nhất.",
+          "en": "Transfer to any nearby unit."
+        }
+      ],
+      "correct": 1,
+      "chapter": 4,
+      "explanation": {
+        "vi": "Bàn giao phải bảo đảm tính hợp pháp và trách nhiệm chăm sóc tiếp tục. Xem mục 5.",
+        "en": "Handover must preserve lawfulness and continuing care. See section 5."
+      }
+    },
+    {
+      "question": {
+        "vi": "Ca mới cần biết gì khi hệ thống kiểm tra bị lỗi?",
+        "en": "What must the incoming shift know about a failed checking system?"
+      },
+      "options": [
+        {
+          "vi": "Không cần biết nếu lỗi chưa gây sự cố.",
+          "en": "Nothing unless an incident already occurred."
+        },
+        {
+          "vi": "Chỉ việc ca trước đã hết giờ.",
+          "en": "Only that the previous shift ended."
+        },
+        {
+          "vi": "Chức năng mất, biện pháp tạm và người chịu trách nhiệm xử lý.",
+          "en": "Lost function, interim measures and correction owner."
+        }
+      ],
+      "correct": 2,
+      "chapter": 5,
+      "explanation": {
+        "vi": "Bàn giao phải chuyển tình trạng thực để ca mới không dựa vào khả năng đã mất. Xem mục 6.",
+        "en": "Handover must transfer actual conditions, not assumed capability. See section 6."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khi kết thúc chốt cần làm gì?",
+        "en": "What is needed when closing a checkpoint?"
+      },
+      "options": [
+        {
+          "vi": "Rời đi ngay mà không thông báo.",
+          "en": "Leave immediately without notice."
+        },
+        {
+          "vi": "Theo lệnh, kiểm tra người việc còn lại, bàn giao và khôi phục lưu thông an toàn.",
+          "en": "Follow authorization, resolve or hand over outstanding matters and restore safe flow."
+        },
+        {
+          "vi": "Để mọi vật cản nguyên vô thời hạn.",
+          "en": "Leave all barriers indefinitely."
+        }
+      ],
+      "correct": 1,
+      "chapter": 5,
+      "explanation": {
+        "vi": "Kết thúc nhiệm vụ vẫn cần trách nhiệm với người, vật và giao thông. Xem mục 6.",
+        "en": "Closure retains responsibilities for people, property and traffic. See section 6."
+      }
+    }
+  ],
+  "updated": "2026-10-29",
+  "moduleId": "FPU-M4",
+  "moduleOrder": 2,
+  "lessonOrder": 5,
+  "sourceModule": {
+    "programme": "STM-FPU",
+    "number": 4,
+    "title": "Police tactics"
+  },
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "FPU-13-01",
+      "title": {
+        "vi": "1. Chốt kiểm soát: Mục đích và thẩm quyền",
+        "en": "1. Checkpoints: Purpose and authority"
+      },
+      "body": {
+        "vi": "### 1.1. Một biện pháp có tác động tới người dân\nChốt kiểm soát tổ chức việc tiếp cận hoặc lưu thông nhằm một mục đích được phép, như bảo vệ cơ sở, kiểm tra an ninh hoặc hỗ trợ nhiệm vụ cảnh sát theo mandate. Biện pháp có thể làm chậm việc đi lại, tác động sinh kế, tiếp cận y tế và niềm tin. Vì vậy, không chỉ hỏi chốt có kiểm tra được nhiều người không mà phải xem vì sao cần và hại nào cần giảm.\n\nĐứng trong đồng phục UN hoặc có trang bị không tự tạo quyền dừng, khám, thu tài sản hay giữ người. Cần xác định căn cứ từng hành vi và phạm vi thực hiện của FPU. Quyền kiểm soát vào một cơ sở không tự trở thành quyền kiểm tra mọi người trên một tuyến công cộng.\n\n### 1.2. Nêu rõ nhiệm vụ\nTrước tổ chức, cần mục tiêu, địa bàn, thời gian, thẩm quyền, người chỉ huy, các bên phối hợp và cách kết thúc. Chốt cố định hoặc cơ động là hình thức theo yêu cầu, không phải lý do bỏ chuẩn mực. Hoạt động tạm thời vẫn cần giới hạn và hồ sơ; hoạt động lâu dài phải được rà tính cần thiết, không tồn tại chỉ vì đã dựng lên.\n\nMột lệnh chỉ nêu địa điểm mà không rõ mục đích dễ dẫn tới việc kiểm tra theo thói quen hoặc mở rộng tùy tiện. Thành viên cần hiểu kết quả cần đạt và những việc không được tự quyết.\n\n### 1.3. Không phân biệt và không định tội\nTiêu chí kiểm tra phải dựa căn cứ, thông tin và phương án được phép, không theo sắc tộc, giới, tôn giáo hoặc vẻ ngoài. Lựa chọn theo thông tin phải được kiểm tra về thiên kiến và độ tin cậy. Không gọi một người là tội phạm chỉ vì giấy tờ chưa rõ hoặc họ khó chịu khi chờ.\n\nDừng để kiểm tra không tự đồng nghĩa bị bắt. Nếu mức kiểm soát chuyển thành tước tự do thực tế, cán bộ phải nhận ra trách nhiệm và thực hiện bảo đảm tương ứng, không dùng tên gọi “chờ làm rõ” để bỏ giới hạn.\n\n### 1.4. Hiệu quả đi cùng tính chính đáng\nChốt thực hiện đúng mục tiêu, an toàn và có giải trình mới tạo hiệu quả bền vững. Số người hoặc xe đã qua không chứng minh phát hiện nguy cơ, giảm hại hay được cộng đồng tin. Cần tính cả thời gian chờ, khiếu nại, nhu cầu đặc thù và khả năng tiếp tục duy trì nhiệm vụ.",
+        "en": "### 1.1. A measure affecting civilian life\nA checkpoint controls access or movement for an authorized purpose, such as facility protection, security screening or mandated policing support. It can affect travel, livelihoods, medical access and trust. Assess necessity and harm reduction, not only numbers checked.\n\nUN uniform and equipment do not confer unrestricted stopping, search, seizure or custody powers. Establish authority for each action. Facility access control does not automatically authorize checks across a public route.\n\n### 1.2. Define the assignment\nSpecify purpose, area, duration, authority, command, partners and termination. Fixed and mobile forms retain the same safeguards. Temporary operations need limits and records; continuing checkpoints require necessity review.\n\nA location without a clear purpose invites habitual checks or unauthorized expansion. Members need intended outcomes and decision boundaries.\n\n### 1.3. Non-discrimination and presumption\nUse authorized, evidence-based criteria rather than ethnicity, gender, religion or appearance. Examine intelligence-based selection for reliability and bias. Uncertain documents or irritation do not establish guilt.\n\nA check is not automatically an arrest. Recognize effective deprivation of liberty and its safeguards rather than conceal it through “waiting for clarification” terminology.\n\n### 1.4. Effectiveness and legitimacy\nSustainable effectiveness requires lawful purpose, safety and accountability. Throughput alone does not establish reduced risk. Consider waiting, complaints, special needs and continued operational capacity."
+      },
+      "sourceIds": [
+        "CHECK",
+        "POLICY",
+        "DET2020"
+      ]
+    },
+    {
+      "id": "FPU-13-02",
+      "title": {
+        "vi": "2. Chuẩn bị tổ chức và lưu thông an toàn",
+        "en": "2. Preparing organization and safe flow"
+      },
+      "body": {
+        "vi": "### 2.1. Hiểu môi trường trước triển khai\nĐánh giá giao thông, ánh sáng, thời tiết, dòng người, nơi dân tập trung và hoạt động thiết yếu. Tính người đi bộ, trẻ, người khuyết tật, xe cấp cứu và người không hiểu ngôn ngữ. Không mặc định mọi người đều nhìn, nghe và phản ứng giống nhau với biển hoặc tín hiệu.\n\nBố trí cụ thể phải theo phương án được đánh giá và phê chuẩn, phù hợp địa bàn cùng năng lực. Một sơ đồ học tập không thay khảo sát thực tế hoặc chuyên môn an toàn giao thông. Không lấy khoảng cách hoặc số lượng trong tài liệu cũ làm thông số bắt buộc ở mọi nơi.\n\n### 2.2. Tổ chức theo chức năng\nCần làm rõ chức năng thông báo và hướng dẫn, quyết định kiểm tra, thực hiện, giám sát an toàn, liên lạc và xử lý yêu cầu vượt phạm vi. Đây là cách tổ chức trách nhiệm, không có nghĩa một người luôn chỉ làm một việc hoặc mọi chốt phải cùng quân số. Nếu kiêm nhiệm, phải đánh giá còn đủ giám sát không.\n\nNgười chỉ huy cần giữ bức tranh về lượng người chờ, năng lực xử lý, sự cố, quân số và việc cần quyết định. Không để bộ phận kiểm tra tự mở rộng tiêu chí hoặc bên hướng dẫn cho đi khác với quyết định đã được thống nhất.\n\n### 2.3. Chuẩn bị phương tiện và thông tin\nKiểm tra biển, chiếu sáng, liên lạc, ghi chép, hỗ trợ ngôn ngữ, bảo hộ và y tế theo nhiệm vụ. Thiết bị cần hoạt động thật, người dùng hiểu và có cách xử lý khi hỏng. Danh sách liên hệ phải xác minh, có phương án ngoài giờ và đầu mối tiếp nhận vấn đề pháp lý hoặc bảo vệ.\n\nChỉ thị cần thống nhất với lực lượng phối hợp và người quản lý tuyến hoặc cơ sở theo cơ chế. Không tự tạo quyền cản đường, đổi luồng hoặc đặt hạn chế ngoài phạm vi được cho phép.\n\n### 2.4. Kiểm tra hiểu trước mở hoạt động\nPhổ biến mục tiêu, tiêu chí, giới hạn, quy trình báo và việc cần gọi cấp trên. Yêu cầu giải thích các điểm quan trọng để phát hiện khác cách hiểu. Thực hành trực tiếp cách hướng dẫn người và phương tiện trong điều kiện được kiểm soát; không đợi giao thông thật để thử tín hiệu mới. Khi thiếu điều kiện an toàn, báo ảnh hưởng và xin quyết định phù hợp.",
+        "en": "### 2.1. Understand the setting\nAssess traffic, lighting, weather, pedestrian flow, gatherings and essential services. Include children, disability, ambulances and language differences. People do not perceive or respond identically to instructions.\n\nPhysical arrangements require local assessment and authorization, not imitation of a training diagram. Historical distances and staffing figures are not universal specifications.\n\n### 2.2. Organize functions\nClarify warning and guidance, selection decisions, checks, safety monitoring, communications and escalation. Functions establish responsibility without prescribing identical staffing everywhere. Assess supervision when roles overlap.\n\nCommand needs queue, capacity, incident, staffing and decision information. Prevent unauthorized changes to selection or release arrangements by individual elements.\n\n### 2.3. Equipment and contacts\nVerify signs, lighting, communications, records, language support, protection and medical arrangements. Equipment needs function, competent users and failure procedures. Validate contacts, out-of-hours support and legal or protection referral.\n\nCoordinate with partners and responsible route or facility authorities. Do not create unapproved movement restrictions.\n\n### 2.4. Check understanding\nBrief objectives, criteria, limits, reporting and escalation. Ask members to explain important decisions. Practise guidance in controlled conditions rather than test unfamiliar signals in live traffic. Report missing safety conditions and their consequences."
+      },
+      "sourceIds": [
+        "CHECK",
+        "CSC006",
+        "CSC010"
+      ]
+    },
+    {
+      "id": "FPU-13-03",
+      "title": {
+        "vi": "3. Giao tiếp và kiểm tra có giới hạn",
+        "en": "3. Communication and proportionate checks"
+      },
+      "body": {
+        "vi": "### 3.1. Để người được kiểm tra hiểu\nGiới thiệu vai trò khi phù hợp, giải thích ngắn lý do, điều cần làm và bước tiếp theo. Dùng lời rõ, nhất quán, có thời gian hiểu; tránh nhiều người cùng ra yêu cầu khác nhau. Không dùng xúc phạm hoặc đe dọa để tăng tốc xử lý.\n\nNgười chậm làm theo có thể không nghe, không hiểu, bị thương hoặc lo sợ. Cần làm rõ thay vì tự suy chống đối. Với người khiếm thính, người khuyết tật hoặc nhu cầu khác, sử dụng hỗ trợ phù hợp trong khả năng và kết nối đầu mối, không biến bất tiện thành lý do tăng xâm phạm.\n\n### 3.2. Nhận dạng và giấy tờ\nKiểm tra theo mục đích và quy trình được phép, đối chiếu thông tin có liên quan. Giấy tờ thiếu, khó đọc hoặc nghi bất thường cần được xác minh đúng đầu mối. Không tự kết luận giả mạo từ một dấu hiệu chưa hiểu; không tịch thu hoặc giữ bản gốc chỉ vì tiện cho việc ghi chép.\n\nChỉ thu và lưu dữ liệu cần, qua phương tiện được phép. Không chụp toàn bộ giấy tờ vào điện thoại cá nhân hoặc chia lên nhóm rộng. Người dân có quyền được đối xử có phẩm giá ngay cả khi việc xác minh chưa hoàn tất.\n\n### 3.3. Khám người, đồ và xe\nMỗi biện pháp khám cần căn cứ, phạm vi, người đã huấn luyện và điều kiện phù hợp. Giải thích mục đích, bảo vệ riêng tư, ghi vật lấy đi và kết quả. Một lần dừng xe không tự cho phép kiểm tra mọi nội dung số hoặc đưa người vào mọi dạng khám xâm phạm.\n\nVới người do UN kiểm soát, tuân thủ SOP về giới, tuổi và các bảo đảm. Trẻ chỉ được khám trong điều kiện riêng, bởi người cùng giới có huấn luyện bảo vệ trẻ, có người thứ hai; không bao giờ khám lột trần hoặc khoang cơ thể. Không suy ngoại lệ an ninh dành cho người lớn sang trẻ.\n\n### 3.4. Khi cần chuyển cấp xử lý\nNếu xuất hiện nghi vấn vượt trình độ, vấn đề thẩm quyền hoặc nhu cầu bảo vệ, báo và chuyển đúng người. Không tự kéo dài để “tìm cho ra” khi căn cứ không còn; cũng không tự cho qua việc nguy hiểm vì ngại chậm. Giữ ghi nhận rõ về điều biết, biện pháp và quyết định. Kỹ thuật khám cụ thể cần học thực hành riêng, không tự tập từ văn bản.",
+        "en": "### 3.1. Enable understanding\nExplain the role, reason, required action and next step clearly, allowing comprehension and avoiding conflicting instructions. Insults and threats are not efficiency tools.\n\nDelayed compliance may reflect hearing, language, injury or fear. Clarify before assuming resistance. Provide suitable accommodation and specialist help rather than increasing intrusion because assistance is inconvenient.\n\n### 3.2. Identity and documents\nCheck relevant information under authorized procedures. Refer missing, unclear or questionable documents for proper verification. Unfamiliar features do not prove forgery, and convenient recording does not justify confiscation.\n\nCollect only necessary data through authorized systems. Avoid personal-phone copies and broad distribution. Unresolved identity does not remove dignity.\n\n### 3.3. Personal, property and vehicle searches\nEach search needs grounds, scope, competence and suitable conditions. Explain purpose, protect privacy and record removed items. A vehicle stop does not permit unlimited digital access or intrusive personal search.\n\nFollow UN custody safeguards where applicable. Child searches require specific grounds, same-sex child-protection-trained personnel and a second person. Children must never undergo strip or body-cavity searches. Adult exceptions do not remove child requirements.\n\n### 3.4. Refer appropriately\nEscalate uncertainty beyond competence, authority questions and protection needs. Do not prolong checks without grounds or ignore danger to avoid delays. Record knowledge, measures and decisions. Physical search skills require separate practical training."
+      },
+      "sourceIds": [
+        "SEARCH",
+        "VEHICLE",
+        "DET2020"
+      ]
+    },
+    {
+      "id": "FPU-13-04",
+      "title": {
+        "vi": "4. Quản lý chờ đợi, tiếp cận và yêu cầu đặc biệt",
+        "en": "4. Queues, access and specific needs"
+      },
+      "body": {
+        "vi": "### 4.1. Hàng chờ là một phần của nguy cơ\nThời gian chờ có thể làm tăng mệt, nóng, xung đột, cản giao thông và nguy cơ cho người dễ bị hại. Người chỉ huy cần theo dõi lượng chờ, nguyên nhân chậm, khả năng xử lý và tác động ngoài chốt. Không chỉ tối ưu số lượt kiểm tra mà bỏ qua người dân bị kẹt lâu.\n\nNếu năng lực không theo kịp, xem điều chỉnh được phép, nguồn hỗ trợ hoặc xin quyết định. Không bỏ kiểm tra cần thiết một cách tùy tiện để giảm hàng; không tăng hạn chế chỉ để giữ hình thức chốt hoạt động trật tự. Quyết định phải cân đối mục tiêu và hại.\n\n### 4.2. Trường hợp y tế và nhu cầu khẩn\nCó cơ chế nhận biết, báo và xử lý xe cấp cứu, người bệnh hoặc tình trạng cần chăm sóc. Không để người chịu đau hoặc giảm đáp ứng chờ như một việc hành chính thường lệ. Gọi y tế sớm, hỗ trợ trong năng lực và phối hợp xử lý an ninh theo quy trình, tránh lựa chọn giả giữa hoàn toàn bỏ bảo đảm và trì hoãn cứu giúp.\n\nTrẻ đi một mình, người có nguy cơ bị bạo lực hoặc người không thể tự trình bày cần đầu mối bảo vệ phù hợp. Không khai thác lời kể công khai giữa hàng chờ. Bảo vệ riêng tư và nhận diện nguy cơ khi chuyển thông tin.\n\n### 4.3. Khiếu nại và yêu cầu giải thích\nNgười dân có thể hỏi căn cứ, thời gian hoặc cách phản ánh. Cán bộ cần giải thích trong phạm vi được phép, cung cấp kênh phù hợp và ghi nhận vấn đề. Phàn nàn không tự đồng nghĩa đe dọa; quay phim hoặc hỏi tên phải được xử lý theo pháp luật và hướng dẫn, không tự trừng phạt.\n\nNếu có hành vi cụ thể gây nguy cơ, đánh giá theo hành vi và đáp ứng trong giới hạn. Tách người cần hỗ trợ khỏi việc kết luận lỗi; kiểm soát cảm xúc của cán bộ để không biến tranh luận thành sự cố vũ lực.\n\n### 4.4. Kiểm tra tác động\nTheo dõi thời gian, nhóm gặp trở ngại, nhu cầu khẩn và phản hồi để phát hiện tiêu chí hoặc quy trình gây bất lợi không cần thiết. Không coi không có đơn khiếu nại là mọi người hài lòng; họ có thể không biết kênh hoặc sợ phản ánh. Đánh giá chủ động giúp chốt đáp ứng mục tiêu mà không làm tăng hại có thể phòng ngừa.",
+        "en": "### 4.1. Queues create risks\nWaiting can increase fatigue, heat exposure, conflict, traffic obstruction and vulnerability. Monitor demand, delays, processing capacity and effects beyond the checkpoint. Throughput is not the sole objective.\n\nUse authorized adjustments, support or command decisions when capacity is insufficient. Do not arbitrarily discard necessary checks or intensify restrictions merely for orderly appearance. Balance purpose and harm.\n\n### 4.2. Medical and urgent needs\nEstablish recognition and response arrangements for ambulances and people needing care. Pain or reduced responsiveness is not routine paperwork. Activate medical assistance and coordinate necessary security safeguards without treating care and security as mutually exclusive.\n\nUnaccompanied children and people facing violence require appropriate protection referral. Avoid public questioning about sensitive experiences and protect information during transfer.\n\n### 4.3. Questions and complaints\nExplain permitted information, provide complaint routes and record concerns. Complaints are not automatically threats. Recording or identity questions must be handled under applicable law and instructions, not retaliation.\n\nAssess actual threatening conduct separately and respond within limits. Avoid converting disagreement into a force incident.\n\n### 4.4. Assess impact\nTrack waiting, affected groups, urgent needs and feedback. An absence of complaints does not prove satisfaction; people may lack access or fear reporting. Proactive review reduces unnecessary adverse effects."
+      },
+      "sourceIds": [
+        "CHECK",
+        "POLICY"
+      ]
+    },
+    {
+      "id": "FPU-13-05",
+      "title": {
+        "vi": "5. Sự cố và sử dụng vũ lực",
+        "en": "5. Incidents and use of force"
+      },
+      "body": {
+        "vi": "### 5.1. Phản ứng theo sự kiện thực\nKhông làm theo tín hiệu có thể do nhiều nguyên nhân; cần đánh giá thông tin, giao tiếp và nguy cơ cụ thể. Không biến mọi trường hợp xe hoặc người không dừng thành ngưỡng sử dụng súng. Căn cứ vũ lực phải riêng, cần thiết và tương xứng; cố ý gây chết người chỉ khi hoàn toàn không thể tránh để bảo vệ sinh mạng.\n\nMọi cảnh báo, biện pháp và thay đổi phải theo DUF cùng hướng dẫn áp dụng. Đã có biển hoặc đã cảnh báo không tự cho phép mọi mức cưỡng chế. Khi đe dọa thay đổi, phải rà lại và giảm hoặc dừng khi căn cứ không còn.\n\n### 5.2. Vật nghi nguy hiểm\nKhông mở, di chuyển hoặc thử một vật nghi nổ để hoàn thành kiểm tra; không lại gần lấy ảnh hoặc đặt dấu. Cảnh báo từ nơi an toàn, báo vị trí đã biết và gọi đầu mối có năng lực. Điều chỉnh tiếp cận theo phương án địa bàn và hướng dẫn; không dùng một khoảng cách truyền miệng làm quy tắc đủ cho mọi vật.\n\nNgười có chuyên môn cần được tiếp nhận bằng thông tin rõ về quan sát, thời gian và việc đã làm. Không để người không có nhiệm vụ tập trung quanh sự cố hoặc dùng hiện trường làm nơi quay video.\n\n### 5.3. Nếu có người bị kiểm soát\nNhận diện thời điểm kiểm soát thực tế và bảo đảm chăm sóc, ghi chép, người giám sát cùng tuyến báo. Còng không để phạt, không duy trì quá cần thiết, phải theo dõi đáp ứng và hô hấp. Không trì hoãn hỗ trợ y tế để chờ người hợp tác hoặc để hoàn tất thủ tục.\n\nBàn giao người hoặc vật phải đúng căn cứ, đầu mối và đánh giá nguy cơ. Không đưa cho bất kỳ lực lượng sở tại nào chỉ vì họ tới chốt hoặc có cấp bậc. Sự hiện diện không thay cơ chế thẩm quyền.\n\n### 5.4. Duy trì an toàn phần còn lại\nKhi có sự cố, tổ chức chỉ huy, liên lạc, chăm sóc và lưu thông theo phương án, báo nhu cầu tăng cường. Không để mọi thành viên cùng tập trung vào một việc và bỏ các chức năng cần giữ. Nếu phải tạm ngừng hoạt động, thông báo, hướng dẫn và phối hợp để tránh tạo thêm nguy cơ cho người chờ. Kỹ thuật đáp ứng cần thực hành dưới giảng viên, không tự suy từ bài đọc.",
+        "en": "### 5.1. Respond to actual conditions\nFailure to comply can have several explanations. Assess information, communication and concrete danger. A person or vehicle failing to stop does not automatically meet firearm thresholds. Force requires separate lawful grounds, necessity and proportionality; intentional lethal force is restricted to strictly unavoidable life protection.\n\nSigns and warnings do not authorize every coercive measure. Reassess and reduce or end force as grounds change.\n\n### 5.2. Suspicious objects\nDo not open, move or test suspected explosives, or approach for photographs or marking. Warn from safety, report known location and obtain specialist direction. Do not apply an informal universal distance.\n\nBrief competent responders accurately and prevent unnecessary gathering or recording at the scene.\n\n### 5.3. Effective custody\nRecognize the start of control and maintain care, records, observation and reporting. Restraints must not punish or last beyond necessity; monitor responsiveness and breathing. Care must not depend on cooperation or paperwork completion.\n\nTransfers require authority, appropriate recipients and risk assessment. Arrival or rank of a host-State actor does not independently authorize handover.\n\n### 5.4. Preserve other functions\nMaintain command, communications, care and safe flow while obtaining support. Avoid every member abandoning essential roles for one incident. If operations pause, communicate and coordinate to prevent additional harm. Response techniques require supervised practice."
+      },
+      "sourceIds": [
+        "UNMAS",
+        "POLICY",
+        "DET2020"
+      ]
+    },
+    {
+      "id": "FPU-13-06",
+      "title": {
+        "vi": "6. Hồ sơ, bàn giao và rà soát hoạt động",
+        "en": "6. Records, handover and operational review"
+      },
+      "body": {
+        "vi": "### 6.1. Ghi điều có ích và cần thiết\nHồ sơ theo nhiệm vụ cần thời gian, quyết định, kiểm tra hoặc sự cố có liên quan, vật lấy đi, người chịu trách nhiệm và chuyển tiếp. Chỉ thu dữ liệu có mục đích và theo cơ chế. Không cần ghi mọi thông tin riêng tư để tạo một sổ dày; cũng không bỏ dữ liệu quan trọng để giảm trách nhiệm.\n\nBáo khẩn sự kiện nghiêm trọng, vũ lực, thương tích hoặc nguy cơ; báo định kỳ tổng hợp hoạt động và vấn đề. Phân biệt dữ kiện, thông tin được cung cấp và nhận định. Không dùng câu chung “đã xử lý đúng quy định” thay mô tả quyết định và căn cứ khi có sự cố.\n\n### 6.2. Bàn giao ca thực chất\nNgười nhận cần mục tiêu và phiên bản lệnh, tình hình, tiêu chí, người hoặc tài sản đang được giữ, việc chờ xác minh, lỗi trang bị và yêu cầu hỗ trợ. Đối chiếu thực tế, không chỉ ký sổ. Các trường hợp đang được chăm sóc hoặc chịu biện pháp phải có người tiếp tục trách nhiệm rõ.\n\nKhông đổi ca đồng loạt làm mất giám sát hoặc gián đoạn thông tin quan trọng. Cách tổ chức cụ thể theo phương án đơn vị, nhưng nguyên tắc là trách nhiệm không biến mất giữa hai chữ ký.\n\n### 6.3. Kết thúc hoặc thay đổi chốt\nViệc kết thúc cần quyết định đúng thẩm quyền, thông báo các bên, xử lý công việc còn tồn và trả lại điều kiện lưu thông theo cơ chế. Không tự để lại vật cản, hồ sơ hoặc thiết bị; không hủy tài liệu để “dọn sạch”. Người dân và lực lượng phối hợp cần được hướng dẫn phù hợp khi giới hạn tiếp cận thay đổi.\n\n### 6.4. Đánh giá để cải thiện\nXem mục tiêu, phát hiện, thời gian chờ, khiếu nại, nhu cầu y tế, tác động tới nhóm khác nhau và năng lực duy trì. Kiểm tra tiêu chí có thiên kiến hoặc tạo hại không cần thiết không. Chuyển vấn đề thành việc sửa, người làm và cách xác minh.\n\nNăng lực cần đạt là tổ chức hoạt động có căn cứ, giao tiếp rõ, kiểm tra đúng phạm vi, bảo vệ phẩm giá và giữ trách nhiệm khi sự kiện thay đổi. Các kỹ thuật bố trí, điều khiển phương tiện, khám và đáp ứng phải được huấn luyện riêng theo cơ sở cùng hướng dẫn được phép.",
+        "en": "### 6.1. Necessary, useful records\nRecord relevant times, decisions, checks, incidents, removed property, responsibility and transfers. Collect for a purpose under authorized arrangements. Neither excessive private data nor omitted accountability information improves quality.\n\nUrgent reports address serious incidents, force, injuries and threats; periodic reports summarize activity and issues. Distinguish facts, received information and assessment rather than substituting “handled correctly” for evidence.\n\n### 6.2. Substantive shift handover\nTransfer current orders, conditions, criteria, people or property held, pending verification, equipment defects and support requests. Check reality as well as signatures. Continuing care and control need identified successors.\n\nOrganize relief without loss of supervision or critical information. Responsibility must continue between signatures.\n\n### 6.3. Closure or change\nObtain authorized decisions, notify partners, resolve outstanding work and restore flow through the appropriate mechanism. Remove equipment responsibly without abandoning obstacles or destroying records. Explain changed access conditions appropriately.\n\n### 6.4. Improve through assessment\nReview objectives, findings, waiting, complaints, care needs, differing impacts and sustainment. Examine bias and unnecessary harm, assign corrections and verify.\n\nUnderstanding means lawful organization, clear communication, limited checks, dignity and continuing responsibility. Physical layout, vehicle control, search and response skills require separate authorized practical training."
+      },
+      "sourceIds": [
+        "CHECK",
+        "CSC021"
+      ]
+    }
+  ],
+  "source_ids": [
+    "CHECK",
+    "POLICY",
+    "DET2020",
+    "CSC006",
+    "CSC010",
+    "SEARCH",
+    "VEHICLE",
+    "UNMAS",
+    "CSC021"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "Checkpoint",
+      "definition": {
+        "vi": "Điểm kiểm soát theo mục đích, thẩm quyền và phương án.",
+        "en": "Control point under an authorized purpose and plan."
+      }
+    },
+    {
+      "term": "Verification",
+      "definition": {
+        "vi": "Xác minh qua cơ chế được phép.",
+        "en": "Checking through authorized arrangements."
+      }
+    },
+    {
+      "term": "Non-discrimination",
+      "definition": {
+        "vi": "Đối xử không dựa vào định kiến về nhóm người.",
+        "en": "Treatment free from prejudiced group assumptions."
+      }
+    },
+    {
+      "term": "Custody",
+      "definition": {
+        "vi": "Tình trạng kiểm soát thực tế gắn nghĩa vụ bảo vệ.",
+        "en": "Effective control carrying protective responsibilities."
+      }
+    },
+    {
+      "term": "Continuity",
+      "definition": {
+        "vi": "Duy trì thông tin, nhiệm vụ và trách nhiệm qua đổi ca.",
+        "en": "Maintaining information, tasks and responsibility across shifts."
+      }
+    }
+  ],
+  "diagram": null,
+  "contentVersion": "batch-05-expanded-v1-2026-10-29",
+  "sourceIntro": {
+    "vi": "Tài liệu nền, đối chiếu theo mục và ghi chú phiên bản. Lời giảng, bản Anh, câu hỏi và lời giải thích hình được biên soạn cho Handbook. Mã bài là cách tổ chức của Handbook.",
+    "en": "Foundational materials, section mapping and edition notes. Teaching, English text, questions and figure commentary are authored for the Handbook. Lesson numbering belongs to the Handbook."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Bản biên soạn đợt 5 ngày 29/10/2026, chờ người dùng duyệt; không phải ấn phẩm hoặc bản dịch chính thức UN. Nguồn theo mục chỉ nền kiến thức, không phải tuyên bố mọi câu là trích nguyên văn.",
+      "Nội dung không thay mandate, DUF, SOP và phương án hiện hành tại phái bộ; không tự trao quyền hoặc chứng nhận năng lực thực hành. Không kế thừa hướng dẫn chiến thuật, cự ly, tốc độ hoặc cơ chế quản trị cũ thành quy định chung.",
+      "Nguồn STM 2015 được đối chiếu với Policy on Formed Police Units 2024.14 và các bài CSC UNPOL 2026 phù hợp. Chỉ thị, trách nhiệm và quy trình áp dụng cần được xác nhận tại địa bàn. Hình giữ nguyên chữ gốc; lời giảng Việt–Anh xác định cách đọc trong bài.",
+      "UNMAS được đối chiếu qua nội dung web chính thức; gói không chứa bản PDF UNMAS. Nội dung chỉ dùng nguyên tắc tránh tiếp cận và can thiệp vật nghi nổ, không quy định cự ly an toàn hay thao tác dò, gỡ. Phải theo huấn luyện và hướng dẫn chuyên trách tại địa bàn.",
+      "Hình Checkpoints 2015 có diễn đạt khái quát về kiểm soát và thuật ngữ quân sự. Bài không dùng đó làm căn cứ tự trao quyền hoặc suy đoán có tội; bảo đảm giam giữ được đối chiếu với SOP 2020.13 thay tài liệu tạm thời 2010 được nhắc trong giáo án cũ."
+    ],
+    "en": [
+      "Batch 5 authored on 29 October 2026 for user review; not an official UN publication or translation. Section mapping identifies foundations, not verbatim support for every sentence.",
+      "Content does not replace applicable mandate, DUF, SOPs or plans and grants neither powers nor practical certification. Historical tactics, distances, speeds and governance are not adopted as universal requirements.",
+      "STM 2015 foundations are cross-checked with FPU Policy 2024.14 and relevant UNPOL CSC 2026 lessons. Applicable directions, responsibilities and procedures require local confirmation. Figures preserve original wording with bilingual teaching commentary.",
+      "UNMAS was consulted through official web content; its PDF is not included. Teaching uses non-approach and non-interference principles without prescribing safety distances or probing/disposal techniques. Follow local training and specialist direction.",
+      "The 2015 checkpoint slide uses broad control and military terminology. It supplies no independent authority or presumption of guilt. Custody safeguards are cross-checked with SOP 2020.13 rather than the 2010 interim text cited in the older lesson plan."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Chốt kiểm soát kết nối thẩm quyền, giao thông, kiểm tra và bảo vệ con người. Bài học giúp tổ chức chức năng, xử lý ngoại lệ và bàn giao mà không để số lượng kiểm tra lấn át mục đích hợp pháp.",
+      "en": "Connect checkpoint authority, traffic, checks and human safeguards. Organize functions, exceptions and continuity while keeping lawful purpose central."
+    },
+    "subtitle": {
+      "vi": "Đúng thẩm quyền · Kiểm tra nhất quán · Duy trì an toàn",
+      "en": "Lawful authority · Consistent checks · Continued safety"
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích: Chốt kiểm soát: Mục đích và thẩm quyền.",
+        "Giải thích: Chuẩn bị tổ chức và lưu thông an toàn.",
+        "Giải thích: Giao tiếp và kiểm tra có giới hạn.",
+        "Giải thích: Quản lý chờ đợi, tiếp cận và yêu cầu đặc biệt.",
+        "Giải thích: Sự cố và sử dụng vũ lực.",
+        "Giải thích: Hồ sơ, bàn giao và rà soát hoạt động."
+      ],
+      "en": [
+        "Explain: Checkpoints: Purpose and authority.",
+        "Explain: Preparing organization and safe flow.",
+        "Explain: Communication and proportionate checks.",
+        "Explain: Queues, access and specific needs.",
+        "Explain: Incidents and use of force.",
+        "Explain: Records, handover and operational review."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc sáu mục trong tab Nội dung bài học và lời giảng kèm hình; bấm hình để xem lớn. Làm 12 câu kiểm tra nhận thức, đọc giải thích và trở lại mục liên quan. VI/EN giữ lựa chọn trong phiên; tải lại trang bắt đầu lại.",
+      "en": "Read six content sections and figure commentary; click figures to enlarge. Complete 12 knowledge questions, review explanations and revisit relevant sections. VI/EN retains selections in the session; reloading starts again."
+    }
+  },
+  "figures": [
+    {
+      "chapter": 0,
+      "image": "assets/lesson-figures/batch-05/CHECK-p7.png",
+      "caption": {
+        "vi": "Hình 1. Mục đích kiểm soát người và phương tiện",
+        "en": "Figure 1. Purpose of controlling movement"
+      },
+      "alt": {
+        "vi": "Hình 1. Mục đích kiểm soát người và phương tiện",
+        "en": "Figure 1. Purpose of controlling movement"
+      },
+      "explanation": {
+        "vi": "Hình đặt vấn đề kiểm soát sự di chuyển. Trong thực hiện nhiệm vụ, phải chuyển mục đích đó thành yêu cầu hợp pháp cụ thể: Kiểm tra gì, dựa vào quyền nào và để bảo vệ ai. Hình không tự tạo quyền khám xét hoặc giữ người; không dùng khái niệm không mong muốn để phân biệt đối xử.",
+        "en": "Translate movement control into a specific lawful task: What is checked, under which authority and for whose protection? The slide grants no search or detention powers; unwanted movement must not become a basis for discrimination."
+      },
+      "sourceLabel": "United Nations, FPU STM · Checkpoints · 2015",
+      "pdfPage": 7
+    }
+  ],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft",
+  "figureZoom": true
+}

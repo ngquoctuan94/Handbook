@@ -1,0 +1,546 @@
+{
+  "schemaVersion": 2,
+  "id": "IPO-02",
+  "area": "ipo",
+  "groupKey": "IPO-M1",
+  "group": {
+    "vi": "Cảnh sát cộng đồng",
+    "en": "Community-oriented policing"
+  },
+  "title": {
+    "vi": "Đánh giá an toàn và giải quyết vấn đề cộng đồng",
+    "en": "Community safety assessment and problem-solving"
+  },
+  "summary": {
+    "vi": "Bài học IPO-02 tập trung vào chủ đề: Đánh giá an toàn và giải quyết vấn đề cộng đồng. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+    "en": "Lesson IPO-02 covers the following topic: Community safety assessment and problem-solving. It connects concepts with professional responsibilities."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "U36",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-010%20UNPOL%20STM%20Lesson%205%20Community-Oriented%20Policing.pdf",
+  "order": 102,
+  "sections": [
+    {
+      "id": "IPO-02-01",
+      "title": {
+        "vi": "1. Xác định đúng vấn đề",
+        "en": "1. Define the problem precisely"
+      },
+      "body": {
+        "vi": "Diễn đạt vấn đề bằng hành vi, địa điểm, thời gian và nhóm bị ảnh hưởng, không dùng nhãn “khu vực phức tạp”. Phân biệt vụ việc riêng với vấn đề lặp lại. Ghi cả điều người dân lo ngại và dữ liệu vụ việc; hai nguồn không tự thay nhau.\n\n### 1.1. Tạo một mô tả có thể kiểm tra\n\nMô tả tốt giới hạn rõ nơi, thời gian, dạng sự việc, người bị ảnh hưởng và bằng chứng. Tách mức lo sợ với số vụ được ghi nhận; cả hai đều có giá trị nhưng trả lời câu hỏi khác nhau. Xác định thông tin cần bổ sung để biết vấn đề lặp lại hay mới xuất hiện. Cách diễn đạt chính xác giúp các bên thống nhất việc cần giải quyết trước khi tranh luận biện pháp.",
+        "en": "Describe behaviour, location, timing and affected people rather than labelling an area difficult. Distinguish a single event from a recurring problem. Record both community concerns and incident data; neither replaces the other.\n\n### 1.1. Create a testable problem statement\n\nSpecify location, period, incident type, affected people and evidence. Separate fear of harm from recorded incident frequency: Both matter, but answer different questions. Identify additional information needed to establish whether the issue is recurring or emerging. A precise statement helps partners agree on the problem before debating measures. Avoid making the proposed solution part of the definition, because that prevents consideration of other suitable responses."
+      },
+      "sourceIds": [
+        "U36",
+        "U37"
+      ]
+    },
+    {
+      "id": "IPO-02-02",
+      "title": {
+        "vi": "2. Phân tích nguyên nhân",
+        "en": "2. Analyse possible causes"
+      },
+      "body": {
+        "vi": "Dùng quan sát, báo cáo, trao đổi cộng đồng và hồ sơ đối tác để so sánh. Kiểm tra dữ liệu thiếu, cách ghi và nguồn trùng. Không suy tương quan là nguyên nhân. Tăng số vụ tiếp nhận có thể phản ánh tiếp cận tốt hơn, không chỉ tình hình xấu đi.",
+        "en": "Compare observations, reports, community accounts and partner records. Check missing data, recording differences and repeated sources. Correlation does not establish causation. Increased reports may reflect improved access rather than worsening conditions alone."
+      },
+      "sourceIds": [
+        "U36",
+        "U37"
+      ]
+    },
+    {
+      "id": "IPO-02-03",
+      "title": {
+        "vi": "3. SARA và lựa chọn đáp ứng",
+        "en": "3. Use SARA"
+      },
+      "body": {
+        "vi": "Scanning xác định vấn đề; Analysis tìm nguyên nhân; Response chọn và thực hiện đáp ứng; Assessment xem kết quả. SARA là công cụ tổ chức tư duy, không bảo đảm mọi giải pháp thành công. Biện pháp có thể kết hợp cảnh sát, chính quyền và dịch vụ cộng đồng, với trách nhiệm rõ.\n\n### 3.1. Phân tích để lựa chọn đáp ứng\n\nXem điều kiện tạo cơ hội xảy ra vụ việc, hoạt động thường ngày của người bị ảnh hưởng, khả năng tiếp cận dịch vụ và cách các cơ quan đang xử lý. Chọn biện pháp gắn nguyên nhân đã có bằng chứng; ghi rõ bên chủ trì, bên hỗ trợ và nguồn lực. Có thể cần một gói biện pháp thay vì chỉ thêm tuần tra. Mỗi bên thực hiện theo thẩm quyền, không chuyển toàn bộ trách nhiệm cộng đồng sang cảnh sát.",
+        "en": "Scanning identifies a problem, Analysis examines causes, Response selects and implements action, and Assessment checks results. SARA organizes thinking; it does not guarantee success. Responses may combine police, public authorities and community services with clear responsibility.\n\n### 3.1. Use analysis to select a response\n\nExamine conditions that enable incidents, affected people’s routine activities, service access and current agency practices. Choose measures connected to evidenced causes, with an owner, supporting partners and resources. A package may be more suitable than additional patrols alone. Each actor works within its authority. Community safety is a shared concern, but a partnership does not allow the IPO to assign tasks to independent organizations as though they were subordinates."
+      },
+      "sourceIds": [
+        "U36",
+        "U37"
+      ]
+    },
+    {
+      "id": "IPO-02-04",
+      "title": {
+        "vi": "4. Lập mục tiêu đo được",
+        "en": "4. Set measurable objectives"
+      },
+      "body": {
+        "vi": "Mục tiêu nêu thay đổi cần có, đối tượng, phạm vi và thời gian, tránh chỉ ghi “tăng cường”. Chọn chỉ số phù hợp, nguồn dữ liệu và mốc ban đầu. Phải xem tác động chuyển vấn đề sang nơi khác hoặc làm nhóm yếu thế khó tiếp cận.\n\n### 4.1. Theo dõi kết quả có thể giải thích\n\nChọn mốc trước can thiệp và cách thu thập nhất quán. Ghi cả mức thực hiện hoạt động và thay đổi của vấn đề. Nếu dữ liệu tốt hơn sau khi mở kênh tiếp nhận, cần tính ảnh hưởng đó khi so sánh. Tìm phản hồi của người ít báo và xem vấn đề có chuyển thời gian hoặc địa điểm. Khi chưa đủ bằng chứng, báo kết luận có điều kiện và nêu kế hoạch kiểm tra tiếp.",
+        "en": "State the desired change, affected group, scope and timing rather than only promising to intensify work. Choose relevant indicators, sources and a baseline. Check whether the problem is displaced elsewhere or whether vulnerable groups face new access barriers.\n\n### 4.1. Assess results that can be explained\n\nEstablish a pre-response baseline and consistent collection methods. Track implementation separately from changes in the problem. Better reporting access can change the numbers even without a change in underlying incidents. Seek views from less-frequent reporters and check shifts in place or time. When evidence is incomplete, qualify the conclusion and state the next verification step rather than treating an uncertain result as success or failure."
+      },
+      "sourceIds": [
+        "U36",
+        "U37"
+      ]
+    },
+    {
+      "id": "IPO-02-05",
+      "title": {
+        "vi": "5. Thực hiện và điều chỉnh",
+        "en": "5. Implement and adapt"
+      },
+      "body": {
+        "vi": "Thống nhất đối tác, nguồn lực và cơ chế báo thay đổi. Không giao việc cho tổ chức ngoài UN như cấp dưới khi không có quan hệ đó. Theo dõi hoạt động có diễn ra và mục tiêu có thay đổi; một hoạt động làm đúng vẫn có thể chưa tạo kết quả mong đợi.",
+        "en": "Agree on partners, resources and change reporting. External organizations are not subordinates merely because they coordinate with UNPOL. Track both completed activities and desired change: Correct implementation can still fail to produce the intended outcome."
+      },
+      "sourceIds": [
+        "U36",
+        "U37"
+      ]
+    },
+    {
+      "id": "IPO-02-06",
+      "title": {
+        "vi": "6. Kết nối các bước SARA",
+        "en": "6. Connect the SARA stages"
+      },
+      "body": {
+        "vi": "Scanning: Phản ánh mất đồ ở một khung giờ. Analysis: Đối chiếu loại vụ, vị trí, điều kiện và dữ liệu tiếp nhận. Response: Chọn gói hỗ trợ cùng các bên có trách nhiệm, có mục tiêu và giới hạn. Assessment: So sánh theo cùng cách ghi, xem tác động sang địa điểm khác và phản hồi. Nếu kết quả chưa đạt, xem giả thuyết nguyên nhân trước khi chỉ tăng hoạt động.",
+        "en": "Identify a recurring concern in a defined time and place; compare types of incidents, conditions and reporting access; agree on a response package within responsibility; and assess using comparable records and feedback. Check displacement. If results disappoint, revisit causal assumptions rather than automatically increasing activity."
+      },
+      "sourceIds": [
+        "U36",
+        "U37"
+      ]
+    },
+    {
+      "id": "IPO-02-07",
+      "title": {
+        "vi": "7. Hồ sơ quyết định",
+        "en": "7. Keep a decision record"
+      },
+      "body": {
+        "vi": "Lưu những lựa chọn đã cân nhắc, lý do chọn, nguồn lực và điều kiện đánh giá lại. Một bảng có nhiều hoạt động nhưng không có chỉ số hoặc người chịu trách nhiệm chưa phải kế hoạch khả thi. Sản phẩm phải cho người khác hiểu được quyết định mà không cần nghe lại toàn bộ cuộc họp.",
+        "en": "Record considered options, reasons, resources and reassessment conditions. A list of activities without indicators or responsible people is not an executable plan. The record should enable another person to understand the decision without reconstructing the entire meeting."
+      },
+      "sourceIds": [
+        "U36",
+        "U37"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "U36",
+      "title": "Lesson 5 Community-Oriented Policing",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-010%20UNPOL%20STM%20Lesson%205%20Community-Oriented%20Policing.pdf",
+      "year": "2021",
+      "publisher": "United Nations UNPOL STM",
+      "format": "pdf",
+      "pages": 55,
+      "pdf_name": "U36.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "U37",
+      "title": "Lesson 6 Intelligence-led Policing",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-012%20UNPOL%20STM%20Lesson%206%20Intelligence-led%20Policing.pdf",
+      "year": "2021",
+      "publisher": "United Nations UNPOL STM",
+      "format": "pdf",
+      "pages": 32,
+      "pdf_name": "U37.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Nhãn khu vực phức tạp đủ để thiết kế giải pháp.",
+        "en": "Calling an area difficult is enough to design a response."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Cần hành vi, thời gian, địa điểm và nhóm ảnh hưởng.",
+        "en": "Define conduct, timing, location and affected groups."
+      }
+    },
+    {
+      "question": {
+        "vi": "SARA gồm xác định, phân tích, đáp ứng và đánh giá.",
+        "en": "SARA includes scanning, analysis, response and assessment."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Các bước liên kết để giải quyết vấn đề.",
+        "en": "The stages connect problem-solving work."
+      }
+    },
+    {
+      "question": {
+        "vi": "Tương quan đủ để chứng minh nguyên nhân.",
+        "en": "Correlation is sufficient proof of causation."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Phải kiểm giải thích khác và dữ liệu.",
+        "en": "Test alternative explanations and data."
+      }
+    },
+    {
+      "question": {
+        "vi": "Mục tiêu cần thay đổi mong muốn và thời hạn.",
+        "en": "Objectives need a desired change and timeframe."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Chỉ ghi tăng cường chưa đo được.",
+        "en": "Merely saying intensify is not measurable."
+      }
+    },
+    {
+      "question": {
+        "vi": "Hoạt động làm đúng luôn tạo kết quả mong muốn.",
+        "en": "Correct implementation always produces the desired outcome."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Cần kiểm giả thuyết và hiệu quả thực tế.",
+        "en": "Test assumptions and actual effects."
+      }
+    },
+    {
+      "question": {
+        "vi": "Đánh giá cần xem vấn đề có chuyển sang nơi khác.",
+        "en": "Assessment should check displacement elsewhere."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Giảm một điểm không đủ nếu nguy cơ chuyển chỗ.",
+        "en": "Improvement at one site is insufficient if risk moves."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Xác định vấn đề trong chu trình SARA?",
+        "en": "Which concept matches: Identifying the problem in SARA?"
+      },
+      "options": [
+        {
+          "vi": "Scanning",
+          "en": "Scanning"
+        },
+        {
+          "vi": "Response",
+          "en": "Response"
+        },
+        {
+          "vi": "Assessment",
+          "en": "Assessment"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Scanning: Xác định vấn đề trong chu trình SARA.",
+        "en": "Scanning: Identifying the problem in SARA."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Xem kết quả của đáp ứng trong SARA?",
+        "en": "Which concept matches: Assessing response results in SARA?"
+      },
+      "options": [
+        {
+          "vi": "Response",
+          "en": "Response"
+        },
+        {
+          "vi": "Scanning",
+          "en": "Scanning"
+        },
+        {
+          "vi": "Assessment",
+          "en": "Assessment"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Assessment: Xem kết quả của đáp ứng trong SARA.",
+        "en": "Assessment: Assessing response results in SARA."
+      }
+    }
+  ],
+  "updated": "2026-10-26",
+  "moduleId": "IPO-M1",
+  "moduleOrder": 1,
+  "lessonOrder": 2,
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "IPO-02-01",
+      "title": {
+        "vi": "1. Xác định đúng vấn đề",
+        "en": "1. Define the problem precisely"
+      },
+      "body": {
+        "vi": "Diễn đạt vấn đề bằng hành vi, địa điểm, thời gian và nhóm bị ảnh hưởng, không dùng nhãn “khu vực phức tạp”. Phân biệt vụ việc riêng với vấn đề lặp lại. Ghi cả điều người dân lo ngại và dữ liệu vụ việc; hai nguồn không tự thay nhau.\n\n### 1.1. Tạo một mô tả có thể kiểm tra\n\nMô tả tốt giới hạn rõ nơi, thời gian, dạng sự việc, người bị ảnh hưởng và bằng chứng. Tách mức lo sợ với số vụ được ghi nhận; cả hai đều có giá trị nhưng trả lời câu hỏi khác nhau. Xác định thông tin cần bổ sung để biết vấn đề lặp lại hay mới xuất hiện. Cách diễn đạt chính xác giúp các bên thống nhất việc cần giải quyết trước khi tranh luận biện pháp.",
+        "en": "Describe behaviour, location, timing and affected people rather than labelling an area difficult. Distinguish a single event from a recurring problem. Record both community concerns and incident data; neither replaces the other.\n\n### 1.1. Create a testable problem statement\n\nSpecify location, period, incident type, affected people and evidence. Separate fear of harm from recorded incident frequency: Both matter, but answer different questions. Identify additional information needed to establish whether the issue is recurring or emerging. A precise statement helps partners agree on the problem before debating measures. Avoid making the proposed solution part of the definition, because that prevents consideration of other suitable responses."
+      },
+      "sourceIds": [
+        "U36",
+        "U37"
+      ]
+    },
+    {
+      "id": "IPO-02-02",
+      "title": {
+        "vi": "2. Phân tích nguyên nhân",
+        "en": "2. Analyse possible causes"
+      },
+      "body": {
+        "vi": "Dùng quan sát, báo cáo, trao đổi cộng đồng và hồ sơ đối tác để so sánh. Kiểm tra dữ liệu thiếu, cách ghi và nguồn trùng. Không suy tương quan là nguyên nhân. Tăng số vụ tiếp nhận có thể phản ánh tiếp cận tốt hơn, không chỉ tình hình xấu đi.",
+        "en": "Compare observations, reports, community accounts and partner records. Check missing data, recording differences and repeated sources. Correlation does not establish causation. Increased reports may reflect improved access rather than worsening conditions alone."
+      },
+      "sourceIds": [
+        "U36",
+        "U37"
+      ]
+    },
+    {
+      "id": "IPO-02-03",
+      "title": {
+        "vi": "3. SARA và lựa chọn đáp ứng",
+        "en": "3. Use SARA"
+      },
+      "body": {
+        "vi": "Scanning xác định vấn đề; Analysis tìm nguyên nhân; Response chọn và thực hiện đáp ứng; Assessment xem kết quả. SARA là công cụ tổ chức tư duy, không bảo đảm mọi giải pháp thành công. Biện pháp có thể kết hợp cảnh sát, chính quyền và dịch vụ cộng đồng, với trách nhiệm rõ.\n\n### 3.1. Phân tích để lựa chọn đáp ứng\n\nXem điều kiện tạo cơ hội xảy ra vụ việc, hoạt động thường ngày của người bị ảnh hưởng, khả năng tiếp cận dịch vụ và cách các cơ quan đang xử lý. Chọn biện pháp gắn nguyên nhân đã có bằng chứng; ghi rõ bên chủ trì, bên hỗ trợ và nguồn lực. Có thể cần một gói biện pháp thay vì chỉ thêm tuần tra. Mỗi bên thực hiện theo thẩm quyền, không chuyển toàn bộ trách nhiệm cộng đồng sang cảnh sát.",
+        "en": "Scanning identifies a problem, Analysis examines causes, Response selects and implements action, and Assessment checks results. SARA organizes thinking; it does not guarantee success. Responses may combine police, public authorities and community services with clear responsibility.\n\n### 3.1. Use analysis to select a response\n\nExamine conditions that enable incidents, affected people’s routine activities, service access and current agency practices. Choose measures connected to evidenced causes, with an owner, supporting partners and resources. A package may be more suitable than additional patrols alone. Each actor works within its authority. Community safety is a shared concern, but a partnership does not allow the IPO to assign tasks to independent organizations as though they were subordinates."
+      },
+      "sourceIds": [
+        "U36",
+        "U37"
+      ]
+    },
+    {
+      "id": "IPO-02-04",
+      "title": {
+        "vi": "4. Lập mục tiêu đo được",
+        "en": "4. Set measurable objectives"
+      },
+      "body": {
+        "vi": "Mục tiêu nêu thay đổi cần có, đối tượng, phạm vi và thời gian, tránh chỉ ghi “tăng cường”. Chọn chỉ số phù hợp, nguồn dữ liệu và mốc ban đầu. Phải xem tác động chuyển vấn đề sang nơi khác hoặc làm nhóm yếu thế khó tiếp cận.\n\n### 4.1. Theo dõi kết quả có thể giải thích\n\nChọn mốc trước can thiệp và cách thu thập nhất quán. Ghi cả mức thực hiện hoạt động và thay đổi của vấn đề. Nếu dữ liệu tốt hơn sau khi mở kênh tiếp nhận, cần tính ảnh hưởng đó khi so sánh. Tìm phản hồi của người ít báo và xem vấn đề có chuyển thời gian hoặc địa điểm. Khi chưa đủ bằng chứng, báo kết luận có điều kiện và nêu kế hoạch kiểm tra tiếp.",
+        "en": "State the desired change, affected group, scope and timing rather than only promising to intensify work. Choose relevant indicators, sources and a baseline. Check whether the problem is displaced elsewhere or whether vulnerable groups face new access barriers.\n\n### 4.1. Assess results that can be explained\n\nEstablish a pre-response baseline and consistent collection methods. Track implementation separately from changes in the problem. Better reporting access can change the numbers even without a change in underlying incidents. Seek views from less-frequent reporters and check shifts in place or time. When evidence is incomplete, qualify the conclusion and state the next verification step rather than treating an uncertain result as success or failure."
+      },
+      "sourceIds": [
+        "U36",
+        "U37"
+      ]
+    },
+    {
+      "id": "IPO-02-05",
+      "title": {
+        "vi": "5. Thực hiện và điều chỉnh",
+        "en": "5. Implement and adapt"
+      },
+      "body": {
+        "vi": "Thống nhất đối tác, nguồn lực và cơ chế báo thay đổi. Không giao việc cho tổ chức ngoài UN như cấp dưới khi không có quan hệ đó. Theo dõi hoạt động có diễn ra và mục tiêu có thay đổi; một hoạt động làm đúng vẫn có thể chưa tạo kết quả mong đợi.",
+        "en": "Agree on partners, resources and change reporting. External organizations are not subordinates merely because they coordinate with UNPOL. Track both completed activities and desired change: Correct implementation can still fail to produce the intended outcome."
+      },
+      "sourceIds": [
+        "U36",
+        "U37"
+      ]
+    },
+    {
+      "id": "IPO-02-06",
+      "title": {
+        "vi": "6. Kết nối các bước SARA",
+        "en": "6. Connect the SARA stages"
+      },
+      "body": {
+        "vi": "Scanning: Phản ánh mất đồ ở một khung giờ. Analysis: Đối chiếu loại vụ, vị trí, điều kiện và dữ liệu tiếp nhận. Response: Chọn gói hỗ trợ cùng các bên có trách nhiệm, có mục tiêu và giới hạn. Assessment: So sánh theo cùng cách ghi, xem tác động sang địa điểm khác và phản hồi. Nếu kết quả chưa đạt, xem giả thuyết nguyên nhân trước khi chỉ tăng hoạt động.",
+        "en": "Identify a recurring concern in a defined time and place; compare types of incidents, conditions and reporting access; agree on a response package within responsibility; and assess using comparable records and feedback. Check displacement. If results disappoint, revisit causal assumptions rather than automatically increasing activity."
+      },
+      "sourceIds": [
+        "U36",
+        "U37"
+      ]
+    },
+    {
+      "id": "IPO-02-07",
+      "title": {
+        "vi": "7. Hồ sơ quyết định",
+        "en": "7. Keep a decision record"
+      },
+      "body": {
+        "vi": "Lưu những lựa chọn đã cân nhắc, lý do chọn, nguồn lực và điều kiện đánh giá lại. Một bảng có nhiều hoạt động nhưng không có chỉ số hoặc người chịu trách nhiệm chưa phải kế hoạch khả thi. Sản phẩm phải cho người khác hiểu được quyết định mà không cần nghe lại toàn bộ cuộc họp.",
+        "en": "Record considered options, reasons, resources and reassessment conditions. A list of activities without indicators or responsible people is not an executable plan. The record should enable another person to understand the decision without reconstructing the entire meeting."
+      },
+      "sourceIds": [
+        "U36",
+        "U37"
+      ]
+    }
+  ],
+  "source_ids": [
+    "U36",
+    "U37"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "Scanning",
+      "definition": {
+        "vi": "Xác định vấn đề trong chu trình SARA",
+        "en": "Identifying the problem in SARA"
+      }
+    },
+    {
+      "term": "Assessment",
+      "definition": {
+        "vi": "Xem kết quả của đáp ứng trong SARA",
+        "en": "Assessing response results in SARA"
+      }
+    }
+  ],
+  "diagram": {
+    "type": "seq",
+    "items": [
+      {
+        "vi": "Scanning",
+        "en": "Scanning"
+      },
+      {
+        "vi": "Analysis",
+        "en": "Analysis"
+      },
+      {
+        "vi": "Response",
+        "en": "Response"
+      },
+      {
+        "vi": "Assessment",
+        "en": "Assessment"
+      }
+    ],
+    "chapter": 1
+  },
+  "contentVersion": "4tab-2026-10-26",
+  "sourceIntro": {
+    "vi": "Các tài liệu dưới đây là nền tảng kiến thức của bài. Mở nguồn để đọc nội dung gốc; phần giải thích, sơ đồ học tập và câu hỏi được biên soạn cho Handbook.",
+    "en": "The materials below provide the lesson’s knowledge base. Open them for the original teaching material; explanations, instructional diagrams and questions are developed for the Handbook."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Hai bản Việt–Anh phục vụ học tập, không phải bản dịch chính thức của UN. Danh mục và thứ tự 48 bài là cách tổ chức học liệu của Handbook, không phải số bài chính thức của UN.",
+      "Bảng đối chiếu xác định tài liệu nền theo mục; không khẳng định mọi câu diễn giải là trích nguyên văn. Hình gốc ghi rõ tài liệu và trang PDF; sơ đồ học tập được ghi là biên soạn."
+    ],
+    "en": [
+      "The Vietnamese and English texts are for learning and are not official UN translations. The 48-lesson catalogue and numbering are the Handbook’s organization, not the official UN lesson count.",
+      "The mapping identifies source materials by section and does not present every explanation as a verbatim quotation. Original illustrations identify the material and PDF page; instructional diagrams are labelled as developed for the lesson."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bài học IPO-02 tập trung vào chủ đề: Đánh giá an toàn và giải quyết vấn đề cộng đồng. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+      "en": "Lesson IPO-02 covers the following topic: Community safety assessment and problem-solving. It connects concepts with professional responsibilities."
+    },
+    "subtitle": {
+      "vi": "Học kiến thức, hiểu trách nhiệm và kiểm tra nhận thức.",
+      "en": "Learn the concepts, understand responsibilities and check your knowledge."
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích: Xác định đúng vấn đề; Phân tích nguyên nhân.",
+        "Giải thích: SARA và lựa chọn đáp ứng; Lập mục tiêu đo được.",
+        "Giải thích: Thực hiện và điều chỉnh; Kết nối các bước SARA; Hồ sơ quyết định.",
+        "Nhận diện cách hiểu sai và chọn nhận định có căn cứ trong kiểm tra nhận thức."
+      ],
+      "en": [
+        "Explain: Define the problem precisely; Analyse possible causes.",
+        "Explain: Use SARA; Set measurable objectives.",
+        "Explain: Implement and adapt; Connect the SARA stages; Keep a decision record.",
+        "Recognize misconceptions and select evidence-based statements in the knowledge check."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc các mục theo thứ tự trong tab nội dung, quan sát sơ đồ và hình, sau đó hoàn thành kiểm tra nhận thức. Chọn VI/EN để đổi ngôn ngữ; đáp án được giữ khi đổi ngôn ngữ trong phiên mở trang. Tải lại trang sẽ bắt đầu lại.",
+      "en": "Read the sections in order, study diagrams and illustrations, then complete the knowledge check. Use VI/EN to switch languages; answers are retained across language changes during the session. Reloading starts a new session."
+    }
+  },
+  "figures": [],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft"
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "CPTM-EXAMPLE-01",
+  "area": "core",
+  "groupKey": "CPTM · Module 1",
+  "group": {"vi": "CPTM · Học phần 1", "en": "CPTM · Module 1"},
+  "title": {"vi": "Tên bài học tiếng Việt", "en": "English Lesson Title"},
+  "summary": {"vi": "Tóm tắt bằng tiếng Việt.", "en": "Summary in English."},
+  "status": "draft",
+  "minutes": 30,
+  "sourceKey": "cptm",
+  "sourceUrl": "https://peacekeepingresourcehub.un.org/en/training/pre-deployment/cptm/intro",
+  "officialIndex": false,
+  "order": 10000,
+  "sections": [
+    {"id": "s1", "title": {"vi": "Khái niệm", "en": "Concept"}, "body": {"vi": "Viết nội dung tiếng Việt tại đây.", "en": "Write the full English version here."}}
+  ],
+  "quiz": [
+    {"question": {"vi": "Câu hỏi mẫu?", "en": "Example question?"},
+     "options": [{"vi": "Phương án A", "en": "Option A"}, {"vi": "Phương án B", "en": "Option B"}],
+     "correct": 0,
+     "explanation": {"vi": "Giải thích đáp án.", "en": "Explanation of the answer."}}
+  ],
+  "references": [{"label": "CPTM source", "url": "https://peacekeepingresourcehub.un.org/en/training/pre-deployment/cptm/intro"}],
+  "updated": "2026-10-23"
+}

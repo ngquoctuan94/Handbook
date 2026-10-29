@@ -1,0 +1,695 @@
+{
+  "schemaVersion": 2,
+  "id": "CORE-07",
+  "area": "core",
+  "groupKey": "CORE-M4",
+  "group": {
+    "vi": "Nền tảng nghiệp vụ cảnh sát UN",
+    "en": "UN policing foundations"
+  },
+  "title": {
+    "vi": "Cảnh sát hướng đến cộng đồng và hoạt động dựa trên phân tích thông tin",
+    "en": "Community-oriented and intelligence-led policing"
+  },
+  "summary": {
+    "vi": "Cảnh sát phục vụ tốt hơn khi hiểu nhu cầu cộng đồng và dùng thông tin có chất lượng để quyết định. Bài học kết nối CoP, ILP, SARA, chu trình thông tin, kiểm soát thiên kiến và đánh giá tác động.",
+    "en": "Effective service connects community needs with sound information and decisions. Study CoP, ILP, SARA, the intelligence cycle, bias safeguards and assessment of effects."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "U36",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-010%20UNPOL%20STM%20Lesson%205%20Community-Oriented%20Policing.pdf",
+  "order": 402,
+  "sections": [
+    {
+      "id": "CORE-07-01",
+      "title": {
+        "vi": "1. Hai cách tiếp cận cùng phục vụ cộng đồng",
+        "en": "1. Two approaches serving the community"
+      },
+      "body": {
+        "vi": "### 1.1. Cộng đồng là đối tác, không chỉ là nơi triển khai\nCảnh sát hướng đến cộng đồng, hay **Community-oriented Policing (CoP)**, đặt nhu cầu an toàn và quan hệ với người dân vào trung tâm công việc. Đây là cách tiếp cận tổ chức hoạt động, không chỉ một tổ tiếp xúc dân hoặc một chiến dịch tuyên truyền. Tiếp nhận trình báo, tuần tra, phản hồi và cách cư xử đều góp phần tạo hoặc làm mất niềm tin.\n\nTrong môi trường hậu xung đột, người dân có thể từng bị cơ quan an ninh gây hại, khó tiếp cận dịch vụ hoặc không tin thông tin sẽ được bảo vệ. Không thể yêu cầu họ hợp tác chỉ vì cảnh sát đã có mặt. Sự chấp nhận được xây dựng qua hành vi đúng pháp luật, khả năng lắng nghe, phản hồi và trách nhiệm giải trình. Người không cung cấp thông tin vẫn có quyền được bảo vệ và đối xử công bằng.\n\n### 1.2. Phân tích giúp quyết định có căn cứ\n**Intelligence-led Policing (ILP)** sử dụng thông tin được đánh giá và phân tích để hỗ trợ xác định ưu tiên, nguồn lực và cách phòng ngừa, xử lý vấn đề. Trong bài này, có thể hiểu là hoạt động cảnh sát dựa trên phân tích thông tin. Trọng tâm không phải thu thật nhiều dữ liệu, mà là trả lời câu hỏi công việc bằng sản phẩm phân tích có chất lượng.\n\nMột danh sách vụ việc cho biết những gì đã được ghi; phân tích tìm mối liên hệ, xu hướng, khoảng trống và ý nghĩa đối với quyết định. Kết luận phân tích vẫn có mức độ chắc chắn và phải được kiểm tra, không tự trở thành chứng cứ đủ để bắt giữ. Việc tiếp nhận, sử dụng thông tin luôn phải trong mandate, thẩm quyền và cơ chế bảo vệ dữ liệu.\n\n### 1.3. Bổ sung nhau nhưng không đánh đổi quyền\nCoP giúp hiểu vấn đề và tăng chất lượng quan hệ; ILP giúp sử dụng thông tin để lựa chọn cách đáp ứng. Phân tích có thể cho thấy địa điểm hoặc thời điểm đáng chú ý để tham vấn sâu hơn. Ngược lại, tiếp xúc cộng đồng có thể phát hiện một khoảng trống mà số liệu chưa phản ánh.\n\nKhông được biến hoạt động phục vụ thành điều kiện để người dân phải cung cấp tin, hoặc coi cả cộng đồng là đối tượng nghi ngờ. Nhu cầu an toàn không chỉ gồm những gì được báo nhiều nhất; người khó lên tiếng có thể chịu nguy cơ cao. **Điểm cần nhớ:** Niềm tin, phân tích và quyền con người cùng nâng chất lượng quyết định; không yếu tố nào thay thế các yếu tố còn lại.",
+        "en": "### 1.1. Communities are partners, not merely deployment locations\n**Community-oriented Policing (CoP)** centres safety needs and relationships with the public. It is an organizational approach, not only a liaison team or publicity campaign. Receiving complaints, patrols, feedback and everyday conduct build or undermine trust.\n\nIn post-conflict settings, people may have experienced abuse, inaccessible services or unsafe information handling. Police presence alone does not entitle officers to cooperation. Public acceptance grows through lawful treatment, listening, response and accountability. People retain protection and fair treatment even when they provide no information.\n\n### 1.2. Analysis supports informed decisions\n**Intelligence-led Policing (ILP)** uses evaluated and analysed information to inform priorities, resources, prevention and responses. Its purpose is to answer operational questions with sound analysis, not to maximize data collection.\n\nIncident lists record reported events; analysis examines relationships, trends, gaps and implications. Analytical conclusions have degrees of certainty and require testing. They do not automatically constitute sufficient evidence for arrest. Information work remains subject to the mandate, authority and data safeguards.\n\n### 1.3. Complementarity without trading away rights\nCoP improves understanding and relationships; ILP helps choose responses. Analysis may identify locations or times needing further consultation, while engagement may reveal gaps in recorded data.\n\nServices must not be conditional on providing information, and entire communities must not be treated as suspect. Frequently reported concerns are not the only safety needs; less-heard people may face greater risks. **Remember:** Trust, analysis and human rights jointly improve decisions; none replaces the others."
+      },
+      "sourceIds": [
+        "U36",
+        "U37"
+      ]
+    },
+    {
+      "id": "CORE-07-02",
+      "title": {
+        "vi": "2. Tham vấn, đáp ứng và huy động sự tham gia",
+        "en": "2. Consultation, response and participation"
+      },
+      "body": {
+        "vi": "### 2.1. Tham vấn để hiểu, không chỉ để xác nhận kế hoạch\nBốn yếu tố cốt lõi của CoP gồm tham vấn cộng đồng, đáp ứng cộng đồng, huy động sự tham gia và giải quyết vấn đề lặp lại. Chúng có liên hệ trong công việc: Lắng nghe để hiểu nhu cầu, xác định phần việc có thể làm, cùng tìm giải pháp và kiểm tra tác động. Không nên chỉ đếm số buổi gặp rồi kết luận đã thực hiện CoP.\n\nTrước tham vấn, cần biết mục đích, đối tượng, cách tiếp cận và giới hạn cam kết. Không chỉ gặp người quen hoặc lãnh đạo dễ liên hệ. Phụ nữ, thanh niên, người cao tuổi, người khuyết tật, nhóm thiểu số và người sống xa trung tâm có thể có kinh nghiệm khác nhau. Một cuộc họp đông người cũng chưa bảo đảm người tham gia có thể phát biểu an toàn.\n\n### 2.2. Đáp ứng phải rõ trách nhiệm và phản hồi\nĐáp ứng không có nghĩa đồng ý mọi yêu cầu. Cần phân biệt vấn đề thuộc nhiệm vụ cảnh sát, vấn đề cần cơ quan khác và điều chưa có đủ thông tin. Với việc được tiếp nhận, ghi rõ đầu mối, bước tiếp theo và cách thông báo kết quả trong phạm vi có thể cam kết. Nếu chưa giải quyết được, giải thích tình trạng thay vì im lặng.\n\nVí dụ, người dân phản ánh thường bị quấy rối trên đường đến nơi lấy nước. Việc tiếp xúc cần làm rõ khu vực, thời gian, nhóm bị tác động và nguy cơ khi cung cấp tin; không ép người phản ánh nêu công khai danh tính. Phần đáp ứng có thể cần phối hợp cảnh sát, cộng đồng và các bộ phận bảo vệ theo phân công, chứ không chỉ hứa tăng tuần tra.\n\n### 2.3. Huy động tham gia không phải giao quyền cưỡng chế\nCộng đồng có thể đóng góp hiểu biết, phản hồi, cảnh báo và giải pháp phòng ngừa phù hợp. Không khuyến khích tự trừng phạt, ép nhận tội, tuần tra trái thẩm quyền hoặc trao cho tình nguyện viên quyền cảnh sát. Nếu có cơ chế cộng đồng hỗ trợ an toàn, phải rõ vai trò, hướng dẫn, giám sát và giới hạn.\n\nĐặc biệt tránh để người tham gia bị xem là người cung cấp tin cho một bên xung đột. Xem tác động của nơi gặp, cách liên hệ và thông tin được công khai. **Điểm cần nhớ:** Sự tham gia có ý nghĩa là có khả năng góp ý và được phản hồi an toàn, không phải chỉ được huy động để thực hiện kế hoạch có sẵn.",
+        "en": "### 2.1. Consult to understand, not simply confirm a plan\nCoP has four essential elements: Consultation, response, mobilizing community participation and solving recurring problems. Listening, identifying feasible tasks, developing solutions and checking effects belong together. Meeting counts alone do not demonstrate community-oriented policing.\n\nDefine purpose, participants, access and commitment limits. Do not consult only familiar or accessible leaders. Women, youth, older people, persons with disabilities, minorities and remote communities may have different experiences. Attendance at a large meeting does not establish that people can speak safely.\n\n### 2.2. Response requires responsibility and feedback\nResponsiveness does not mean granting every request. Separate police responsibilities, referrals and matters requiring more information. Identify a contact, next steps and realistic feedback arrangements. Explain unresolved matters rather than remaining silent.\n\nFor reports of harassment on a route to water points, clarify place, timing, affected groups and disclosure risks without forcing public identification. Responses may require police, community and protection coordination, rather than a patrol promise alone.\n\n### 2.3. Participation does not confer coercive powers\nCommunities contribute knowledge, feedback, warnings and suitable prevention. Do not encourage vigilantism, coerced confessions, unauthorized patrols or police powers for volunteers. Community safety mechanisms need defined roles, guidance, oversight and limits.\n\nConsider whether meeting locations, contact methods or publicity could expose participants as informants for a conflict party. **Remember:** Meaningful participation includes safe influence and feedback, rather than merely mobilizing people around a preselected plan."
+      },
+      "sourceIds": [
+        "U36"
+      ]
+    },
+    {
+      "id": "CORE-07-03",
+      "title": {
+        "vi": "3. Giải quyết vấn đề bằng SARA",
+        "en": "3. Problem-solving through SARA"
+      },
+      "body": {
+        "vi": "### 3.1. Từ sự kiện riêng lẻ đến vấn đề lặp lại\nMột vụ việc cần được xử lý theo mức độ khẩn cấp và thẩm quyền. Tuy nhiên, khi nhiều vụ có điểm chung, cần tìm điều kiện làm chúng lặp lại. Chỉ phản ứng từng lần có thể làm lực lượng luôn bận mà mức độ nguy hiểm không giảm. Giải quyết vấn đề cần dựa trên thông tin và phối hợp, không thay thế nghĩa vụ xử lý khẩn cấp.\n\n**SARA** là khung gồm bốn hoạt động: Nhận diện vấn đề (Scanning), phân tích (Analysis), đáp ứng (Response), đánh giá (Assessment). Có thể quay lại bước trước khi thông tin thay đổi. Đây là công cụ hỗ trợ suy nghĩ và quản lý công việc, không phải căn cứ tự trao quyền cho biện pháp được lựa chọn.\n\n### 3.2. Nhận diện và phân tích\nỞ bước nhận diện, mô tả vấn đề cụ thể: Ai bị ảnh hưởng, điều gì lặp lại, ở đâu, khi nào và hậu quả ra sao? Tránh chọn nhãn quá rộng như “khu vực xấu” hoặc “nhóm người đáng ngờ”. Nhãn có thể chứa định kiến và không giúp biết cần cải thiện điều gì.\n\nPhân tích xem sự kiện, người bị hại, người có thể gây hại và điều kiện môi trường liên hệ thế nào. Có thể cần tìm thêm dữ kiện, kiểm tra giả thuyết và hỏi cơ quan liên quan. Không giả định nguyên nhân từ một đặc điểm dân tộc, giới hoặc tình trạng di cư. Nếu chưa biết, ghi nhận khoảng trống thay vì tự điền bằng suy đoán.\n\n### 3.3. Đáp ứng và đánh giá\nLựa chọn đáp ứng cần phù hợp nguyên nhân, nhiệm vụ, pháp luật và nguồn lực. Có thể kết hợp thay đổi dịch vụ, hoạt động phòng ngừa, trao đổi với đối tác và hành động cảnh sát được cho phép. Mỗi việc cần người chịu trách nhiệm, thời gian, điều kiện an toàn và cách theo dõi. Không sao chép một giải pháp cho mọi địa bàn chỉ vì đã thành công nơi khác.\n\nĐánh giá so sánh với hiện trạng trước đó và mục tiêu: Vấn đề có giảm không, người dân có an toàn hơn không, có chuyển sang địa điểm hoặc nhóm khác không, hoạt động có tạo hại mới không? Số vụ báo giảm cũng có thể do người dân không còn tin hoặc không tiếp cận được cảnh sát. **Điểm cần nhớ:** Phải kiểm tra cả tác động và cách đo, không chỉ báo đã thực hiện đủ hoạt động.",
+        "en": "### 3.1. From individual incidents to recurring problems\nUrgent incidents require authorized response, but repeated incidents require examining shared conditions. Responding repeatedly can keep officers busy without reducing harm. Problem-solving complements rather than replaces immediate duties.\n\n**SARA** comprises Scanning, Analysis, Response and Assessment. Revisit earlier stages as information changes. It structures thinking and work management; it does not confer legal authority for a proposed measure.\n\n### 3.2. Scan and analyse\nDefine who is affected, what recurs, where, when and with what consequences. Broad labels such as a bad area or suspicious group can conceal prejudice and provide little guidance.\n\nAnalyse connections among events, affected people, potential perpetrators and environmental conditions. Gather additional facts, test hypotheses and consult relevant actors. Do not infer causes from ethnicity, gender or migration status. Record uncertainty rather than filling gaps with assumptions.\n\n### 3.3. Respond and assess\nMatch responses to causes, mandate, law and resources. Options may combine service changes, prevention, partner engagement and authorized policing. Assign responsibility, timing, safeguards and monitoring. A previously successful measure is not automatically suitable elsewhere.\n\nCompare results with the baseline and objectives. Did harm decrease, did safety improve, was harm displaced elsewhere, or did the intervention create new risks? Fewer reports may reflect reduced trust or access rather than less crime. **Remember:** Assess effects and measurement quality, not activity completion alone."
+      },
+      "sourceIds": [
+        "U36"
+      ]
+    },
+    {
+      "id": "CORE-07-04",
+      "title": {
+        "vi": "4. Từ dữ liệu đến sản phẩm phân tích",
+        "en": "4. From data to analytical products"
+      },
+      "body": {
+        "vi": "### 4.1. Phân biệt dữ liệu, thông tin và kết luận\nDữ liệu có thể là thời gian, địa điểm hoặc chi tiết sự kiện. Thông tin đặt các chi tiết vào nội dung có thể trao đổi. Sản phẩm phân tích hình thành qua đánh giá, kết nối và lý giải thông tin để trả lời câu hỏi. Không phải mọi tệp tổng hợp hoặc bảng màu đều là phân tích; công cụ đẹp không bù cho dữ liệu sai hoặc câu hỏi không rõ.\n\nKết luận cần cho biết thông tin nào hỗ trợ, giả định nào đang dùng, còn thiếu gì và mức độ chắc chắn. Có thể nêu một xu hướng có khả năng xảy ra mà không khẳng định ai đã phạm tội. Sản phẩm phục vụ lựa chọn nguồn lực khác với kết luận chứng minh trách nhiệm hình sự; hai mục đích đòi hỏi căn cứ và thủ tục tương ứng.\n\n### 4.2. Chu trình thông tin nghiệp vụ\nChu trình UNPOL liên kết định hướng và lập kế hoạch; thu thập; đánh giá và sắp xếp; phân tích, hình thành suy luận; phổ biến; quyết định. Quyết định tạo nhiệm vụ và câu hỏi mới, vì vậy quá trình có phản hồi, không kết thúc khi gửi báo cáo.\n\n1. **Định hướng:** Xác định câu hỏi, ưu tiên và sản phẩm cần cho ai, khi nào.\n2. **Thu thập:** Lấy thông tin liên quan bằng nguồn và phương thức được phép.\n3. **Đánh giá, sắp xếp:** Kiểm tra chất lượng, xuất xứ và đặt cạnh thông tin khác.\n4. **Phân tích:** Xem quan hệ, giải thích khác nhau và ý nghĩa đối với câu hỏi.\n5. **Phổ biến:** Chuyển sản phẩm đúng người, thời điểm và mức bảo vệ.\n6. **Quyết định:** Người có thẩm quyền xem xét, hành động và phản hồi nhu cầu tiếp theo.\n\n### 4.3. Thu thập có mục đích và giới hạn\nCâu hỏi rõ giúp tránh thu dữ liệu thừa hoặc nhạy cảm không cần thiết. Cán bộ không được tự mở hoạt động giám sát, truy cập hệ thống hoặc dùng phương thức vượt nhiệm vụ chỉ vì cho rằng thông tin có thể hữu ích. Cách tiếp cận phân tích thông tin không gỡ bỏ pháp luật, quyền riêng tư hoặc nguyên tắc gìn giữ hòa bình.\n\nThông tin từ tiếp xúc cộng đồng cần được sử dụng đúng mục đích và bảo vệ người cung cấp. Không gắn danh tính vào sản phẩm phổ biến rộng nếu không cần và không được phép. **Điểm cần nhớ:** Thu đúng, hiểu đúng và chuyển đúng quan trọng hơn thu nhiều; sản phẩm chỉ có ích khi trả lời nhu cầu quyết định thật.",
+        "en": "### 4.1. Distinguish data, information and conclusions\nData may be times, places or incident details. Information organizes communicable knowledge. Analysis evaluates, connects and interprets material to answer a question. A compiled file or colourful dashboard is not necessarily analysis; presentation cannot compensate for poor data or unclear questions.\n\nConclusions should identify supporting material, assumptions, gaps and confidence. A likely trend does not establish an individual’s criminal responsibility. Resource decisions and criminal findings have different purposes and corresponding evidentiary and procedural requirements.\n\n### 4.2. The UNPOL intelligence cycle\nThe cycle links direction and planning; collection; evaluation and collation; analysis and inference development; dissemination; and decision. Decisions create new tasks and questions, making feedback essential.\n\n1. **Direction:** Identify the question, priorities, audience and deadline.\n2. **Collection:** Obtain relevant information through authorized sources and methods.\n3. **Evaluation and collation:** Assess quality, origin and context alongside other material.\n4. **Analysis:** Examine relationships, alternative explanations and implications.\n5. **Dissemination:** Deliver to appropriate recipients, on time and with safeguards.\n6. **Decision:** Authorized personnel assess, act and communicate further requirements.\n\n### 4.3. Purposeful collection within limits\nClear questions reduce unnecessary or excessive collection. Officers cannot independently initiate surveillance, access systems or use unauthorized methods merely because information might be useful. ILP does not remove law, privacy rights or peacekeeping principles.\n\nUse community information for authorized purposes and protect contributors. Do not attach identities to widely circulated products where unnecessary or unauthorized. **Remember:** Appropriate collection, interpretation and dissemination matter more than volume; products must address genuine decision needs."
+      },
+      "sourceIds": [
+        "U37"
+      ]
+    },
+    {
+      "id": "CORE-07-05",
+      "title": {
+        "vi": "5. Chất lượng thông tin, thiên kiến và quyền riêng tư",
+        "en": "5. Information quality, bias and privacy"
+      },
+      "body": {
+        "vi": "### 5.1. Đánh giá nguồn khác đánh giá nội dung\nMột nguồn từng đáng tin vẫn có thể sai về sự kiện cụ thể. Ngược lại, thông tin từ người chưa quen có thể cần xem xét nghiêm túc. Cần phân biệt mức độ biết rõ nguồn với khả năng kiểm chứng nội dung. Ghi ai quan sát trực tiếp, ai thuật lại, thời gian thông tin và những điều chưa rõ theo quy định bảo vệ nguồn.\n\nHai bản tin có thể xuất phát từ cùng một người; không tính thành xác nhận độc lập. Khi dữ kiện mâu thuẫn, xem khác biệt có do thời điểm, địa điểm, cách dùng từ hoặc lợi ích của người cung cấp không. Giữ lại mâu thuẫn cần giải quyết thay vì chọn bản thuận với kết luận mình thích.\n\n### 5.2. Nhận diện thiên kiến trong dữ liệu và suy nghĩ\nThiên kiến xác nhận khiến ta tìm điều ủng hộ giả thuyết ban đầu và bỏ thông tin ngược lại. Thiên kiến sẵn có khiến sự kiện gây chú ý được đánh giá quá mức. Dữ liệu cảnh sát cũng phản ánh nơi có lực lượng, cách ghi nhận và khả năng trình báo, không phải bức tranh tự động đầy đủ của mọi tội phạm.\n\nNếu một địa bàn được tuần tra nhiều hơn, số vụ phát hiện có thể tăng mà chưa chứng minh người dân nơi đó nguy hiểm hơn. Nếu một nhóm ít trình báo, không thể kết luận họ không bị hại. Cần kiểm tra dữ liệu, giải thích thay thế và tác động của cách thu thập trước khi đề xuất ưu tiên.\n\n### 5.3. Bảo vệ dữ liệu để bảo vệ người\nChỉ sử dụng thông tin phù hợp mục đích nhiệm vụ, phân quyền và cơ chế bảo mật. Phân biệt sản phẩm cần phổ biến để chỉ huy quyết định với hồ sơ chứa tên, địa chỉ hoặc dữ liệu nhạy cảm. Một địa điểm ghi quá chi tiết cũng có thể làm lộ người cung cấp dù đã bỏ tên.\n\nChia sẻ với đối tác phải theo quy định và đánh giá nguy cơ, bao gồm nguy cơ thông tin bị dùng để gây hại. Không đưa dữ liệu cá nhân vào nhóm trò chuyện, tài khoản riêng hoặc công cụ ngoài hệ thống được phép để xử lý cho nhanh. Khi phát hiện sai hoặc lộ thông tin, báo và sửa theo cơ chế. **Điểm cần nhớ:** Chất lượng phân tích gồm cả độ chính xác, công bằng và khả năng bảo vệ người chịu tác động.",
+        "en": "### 5.1. Assess sources and content separately\nA previously reliable source can be mistaken about a particular event. An unfamiliar source may still provide important information. Distinguish familiarity with the source from verification of the account. Record direct observation, hearsay, timing and uncertainty under source-protection rules.\n\nTwo reports may originate from one person, rather than provide independent confirmation. Conflicts may reflect timing, location, terminology or interests. Preserve unresolved discrepancies instead of selecting the version favouring a preferred conclusion.\n\n### 5.2. Recognize cognitive and data bias\nConfirmation bias favours an initial hypothesis; availability bias gives memorable events excessive weight. Police data reflect deployment, recording practices and reporting access, not automatically the full distribution of crime.\n\nMore patrols may produce more detections without proving that residents are more dangerous. Low reporting does not establish low victimization. Examine data limitations, alternative explanations and collection effects before recommending priorities.\n\n### 5.3. Protect data to protect people\nUse information only for authorized purposes with access and security safeguards. Distinguish decision products from records containing identities, addresses or sensitive details. Precise location can identify a source even after a name is removed.\n\nPartner sharing requires applicable rules and risk assessment, including potential misuse. Do not move personal data into broad chats, private accounts or unauthorized tools for convenience. Report and correct errors or disclosure incidents through established mechanisms. **Remember:** Analytical quality includes accuracy, fairness and protection of affected people."
+      },
+      "sourceIds": [
+        "U36",
+        "U37"
+      ]
+    },
+    {
+      "id": "CORE-07-06",
+      "title": {
+        "vi": "6. Tổ chức thực hiện, báo cáo và học từ kết quả",
+        "en": "6. Delivery, reporting and learning from results"
+      },
+      "body": {
+        "vi": "### 6.1. Phân tích phải đi tới quyết định có trách nhiệm\nSản phẩm cần phù hợp người sử dụng: Câu hỏi nào đang cần giải quyết, dữ kiện chính, nhận định, giới hạn và lựa chọn có thể xem xét. Không chôn thông tin khẩn trong một báo cáo dài hoặc dùng từ chuyên môn khiến người nhận không hiểu tác động. Phân biệt đề xuất của người phân tích với quyết định của cấp có thẩm quyền.\n\nKhi có dấu hiệu nguy hiểm tức thời, báo theo kênh khẩn và thực hiện phần việc được giao; không chờ chu trình thông thường hoàn tất mới cảnh báo. Sau quyết định, cần biết ai thực hiện, trong giới hạn nào, phối hợp ai và báo kết quả ra sao. Thu thập và phân tích không phải hoạt động tách rời chỉ huy, nguồn lực và trách nhiệm.\n\n### 6.2. Vai trò của IPO và FPU\nIPO có thể đóng góp qua tiếp xúc, ghi nhận, báo cáo, phân tích hoặc cố vấn theo vị trí. FPU có thể cung cấp thông tin quan sát và thực hiện nhiệm vụ được phân công trên cơ sở đánh giá tình hình. Không coi mọi thành viên là chuyên gia phân tích, hoặc biến hoạt động tiếp xúc của đơn vị thành một cơ chế thu tin không được giao.\n\nKhi hỗ trợ cảnh sát sở tại, cần giúp xây dựng cả năng lực tiếp nhận, lưu, kiểm tra, phân tích và phản hồi. Máy tính hoặc phần mềm mới chưa tạo ra hệ thống tốt nếu thiếu quy trình, người chịu trách nhiệm và bảo vệ dữ liệu. Hỗ trợ phải phù hợp cơ quan sở tại, chuẩn mực và HRDDP khi thuộc phạm vi.\n\n### 6.3. Kiểm tra tác động với cộng đồng\nTheo dõi kết quả cần hỏi vấn đề có giảm, ai được hưởng lợi, ai còn khó tiếp cận và có phát sinh hại không. Cần nghe lại người dân, không chỉ dựa trên số liệu nội bộ. Nếu ưu tiên hoặc dữ kiện thay đổi, cập nhật kế hoạch, giả định và nơi đã nhận sản phẩm trước đó.\n\nGhi lại bài học, phương pháp và giới hạn dữ liệu để người kế nhiệm tiếp tục được công việc. Không để toàn bộ quan hệ, thông tin nằm trong thiết bị hoặc tài khoản cá nhân. **Kết thúc bài:** Phục vụ cộng đồng tốt hơn đòi hỏi lắng nghe có trách nhiệm, phân tích có căn cứ và kiểm tra kết quả. Cả CoP và ILP chỉ có ý nghĩa khi giúp quyết định hợp pháp, công bằng và giảm hại thực tế.",
+        "en": "### 6.1. Analysis should inform accountable decisions\nTailor products to the user’s question, key facts, assessment, limitations and options. Do not bury urgent concerns in lengthy reports or technical language. Distinguish analytical recommendations from authorized decisions.\n\nUse urgent reporting channels and perform assigned duties when immediate danger is indicated; do not wait for a routine cycle. Decisions need identified implementers, limits, partners and feedback. Analysis connects with command, resources and accountability.\n\n### 6.2. IPO and FPU contributions\nIPOs may engage, record, report, analyse or advise according to their posts. FPUs may report observations and undertake assigned activity informed by assessments. Not everyone is a specialist analyst, and community contact does not authorize unassigned intelligence activities.\n\nSupport host-State systems for receiving, storing, checking, analysing and responding to information. New computers or software cannot replace processes, responsibility and safeguards. Assistance must fit national institutions, standards and applicable HRDDP requirements.\n\n### 6.3. Check community effects\nAsk whether problems decreased, who benefited, who remains excluded and whether new harm emerged. Consult communities rather than relying only on internal data. Update plans, assumptions and earlier recipients when facts or priorities change.\n\nRecord lessons, methods and limitations for successors instead of keeping relationships and data on private devices or accounts. **Retain:** Better service requires responsible listening, sound analysis and assessment of results. CoP and ILP matter when they support lawful, fair decisions and reduce actual harm."
+      },
+      "sourceIds": [
+        "U36",
+        "U37"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "U36",
+      "title": "Lesson 5 Community-Oriented Policing",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-010%20UNPOL%20STM%20Lesson%205%20Community-Oriented%20Policing.pdf",
+      "year": "2021",
+      "publisher": "United Nations UNPOL STM",
+      "format": "pdf",
+      "pages": 55,
+      "pdf_name": "U36.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "U37",
+      "title": "Lesson 6 Intelligence-led Policing",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-012%20UNPOL%20STM%20Lesson%206%20Intelligence-led%20Policing.pdf",
+      "year": "2021",
+      "publisher": "United Nations UNPOL STM",
+      "format": "pdf",
+      "pages": 32,
+      "pdf_name": "U37.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "CoP và ILP bổ sung nhau như thế nào?",
+        "en": "How do CoP and ILP complement each other?"
+      },
+      "options": [
+        {
+          "vi": "CoP giúp hiểu nhu cầu; ILP hỗ trợ quyết định từ thông tin đã phân tích.",
+          "en": "CoP develops understanding of needs; ILP informs decisions through analysis."
+        },
+        {
+          "vi": "ILP chỉ được làm sau khi không thể tiếp xúc cộng đồng.",
+          "en": "ILP is used only after community engagement becomes impossible."
+        },
+        {
+          "vi": "CoP chỉ tuyên truyền; ILP thay mọi tiếp xúc trực tiếp.",
+          "en": "CoP is only publicity; ILP replaces all direct engagement."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Hai cách tiếp cận cùng phục vụ quyết định và cộng đồng; không thay thế quyền hay quan hệ tin cậy. Xem mục 1.",
+        "en": "Both approaches support decisions and community service without replacing rights or trust. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Sản phẩm phân tích có tự đủ căn cứ bắt giữ không?",
+        "en": "Does an analytical product automatically justify arrest?"
+      },
+      "options": [
+        {
+          "vi": "Có, nếu sản phẩm nêu mức nguy cơ cao.",
+          "en": "Yes, if the product assigns high risk."
+        },
+        {
+          "vi": "Có, nếu người lập có kinh nghiệm.",
+          "en": "Yes, if the analyst is experienced."
+        },
+        {
+          "vi": "Không; quyết định bắt cần căn cứ và thủ tục áp dụng.",
+          "en": "No; arrest requires the applicable grounds and procedures."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Đánh giá để phân bổ nguồn lực và căn cứ pháp lý tước tự do có mục đích, điều kiện khác nhau. Xem mục 1.",
+        "en": "Resource assessment and legal deprivation of liberty have different purposes and requirements. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Dấu hiệu nào thể hiện đáp ứng cộng đồng tốt hơn?",
+        "en": "What better demonstrates community responsiveness?"
+      },
+      "options": [
+        {
+          "vi": "Có người phụ trách, bước tiếp theo và phản hồi thực tế.",
+          "en": "An identified lead, next steps and realistic feedback."
+        },
+        {
+          "vi": "Đồng ý mọi yêu cầu để duy trì thiện cảm.",
+          "en": "Accepting every request to maintain goodwill."
+        },
+        {
+          "vi": "Đã tổ chức nhiều cuộc họp nhưng không có theo dõi.",
+          "en": "Many meetings without follow-up."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Đáp ứng không có nghĩa hứa mọi việc; cần tiếp nhận, phân loại, chuyển và phản hồi có trách nhiệm. Xem mục 2.",
+        "en": "Responsiveness requires responsible intake, assessment, referral and feedback, not universal promises. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Huy động cộng đồng có tự trao quyền cưỡng chế không?",
+        "en": "Does mobilizing communities confer coercive powers?"
+      },
+      "options": [
+        {
+          "vi": "Có nếu cộng đồng cùng đồng ý.",
+          "en": "Yes, if community members agree."
+        },
+        {
+          "vi": "Không; vai trò và giới hạn vẫn phải được xác định.",
+          "en": "No; roles and limits must still be established."
+        },
+        {
+          "vi": "Có nếu hoạt động được gọi là phòng ngừa.",
+          "en": "Yes, if called prevention."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Tham gia không hợp pháp hóa tự trừng phạt, ép cung hoặc quyền cảnh sát không được trao. Xem mục 2.",
+        "en": "Participation does not legalize vigilantism, coercion or ungranted police powers. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "SARA gồm những hoạt động nào?",
+        "en": "Which activities form SARA?"
+      },
+      "options": [
+        {
+          "vi": "Triển khai, đếm hoạt động, kết thúc, lưu hồ sơ.",
+          "en": "Deploy, count activity, close, file."
+        },
+        {
+          "vi": "Nhận diện, phân tích, đáp ứng, đánh giá.",
+          "en": "Scanning, analysis, response, assessment."
+        },
+        {
+          "vi": "Thu thập, bắt giữ, kết tội, công bố.",
+          "en": "Collection, arrest, conviction, publication."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "SARA là khung giải quyết vấn đề có phản hồi; không tự tạo thẩm quyền cho biện pháp. Xem mục 3.",
+        "en": "SARA is a feedback-based problem-solving framework, not an independent grant of authority. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Số vụ trình báo giảm sau hoạt động cho phép kết luận gì?",
+        "en": "What can fewer reports after an intervention establish?"
+      },
+      "options": [
+        {
+          "vi": "Không cần tham vấn lại vì đã có số liệu.",
+          "en": "No further consultation is needed because data exist."
+        },
+        {
+          "vi": "Chắc chắn vấn đề đã giảm tương ứng.",
+          "en": "The problem certainly decreased by the same amount."
+        },
+        {
+          "vi": "Cần kiểm tra thêm an toàn, niềm tin, tiếp cận và sự chuyển dịch hại.",
+          "en": "Check safety, trust, access and displacement of harm before concluding."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Báo ít hơn có thể do ít hại hơn hoặc khó tiếp cận, mất niềm tin; phải xem cách đo. Xem mục 3.",
+        "en": "Reduced reporting may reflect less harm or worse access and trust; assess measurement. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Vì sao chu trình thông tin cần bước định hướng?",
+        "en": "Why does the intelligence cycle need direction?"
+      },
+      "options": [
+        {
+          "vi": "Để thu mọi thông tin trước rồi mới chọn mục tiêu.",
+          "en": "To gather everything before choosing an objective."
+        },
+        {
+          "vi": "Để xác định câu hỏi, người sử dụng và thời hạn sản phẩm.",
+          "en": "To define the question, audience and deadline."
+        },
+        {
+          "vi": "Để bảo đảm kết luận phải ủng hộ kế hoạch đã chọn.",
+          "en": "To ensure conclusions support an existing plan."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Định hướng giúp thu và phân tích thông tin phù hợp nhu cầu, tránh dữ liệu thừa. Xem mục 4.",
+        "en": "Direction focuses collection and analysis on genuine needs and limits excess data. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Sau khi phổ biến sản phẩm, điều gì còn cần?",
+        "en": "What remains necessary after dissemination?"
+      },
+      "options": [
+        {
+          "vi": "Quyết định, phản hồi và cập nhật nhu cầu thông tin.",
+          "en": "Decisions, feedback and updated information needs."
+        },
+        {
+          "vi": "Tự động kết thúc chu trình dù chưa có quyết định.",
+          "en": "Automatically end the cycle without a decision."
+        },
+        {
+          "vi": "Mặc nhiên triển khai mọi đề xuất của người phân tích.",
+          "en": "Automatically implement every analytical recommendation."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Người có thẩm quyền quyết định; phản hồi nối sản phẩm với hành động và câu hỏi mới. Xem mục 4.",
+        "en": "Authorized personnel decide; feedback connects products, action and new questions. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Hai báo cáo cùng xuất phát từ một người có phải xác nhận độc lập không?",
+        "en": "Are two reports originating from one person independent confirmation?"
+      },
+      "options": [
+        {
+          "vi": "Có nếu câu chữ được viết khác nhau.",
+          "en": "Yes, if wording differs."
+        },
+        {
+          "vi": "Có nếu đến qua hai nhóm liên lạc khác nhau.",
+          "en": "Yes, if received through different chat groups."
+        },
+        {
+          "vi": "Không; cần kiểm tra nguồn gốc và đường truyền.",
+          "en": "No; examine origin and reporting paths."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Số lượt truyền hoặc cách viết không thay thế tính độc lập của nguồn. Xem mục 5.",
+        "en": "Forwarding frequency and different wording do not establish source independence. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Tuần tra nhiều hơn làm số vụ phát hiện tăng cần được hiểu thế nào?",
+        "en": "How should increased detections following more patrols be interpreted?"
+      },
+      "options": [
+        {
+          "vi": "Chứng minh phương pháp thu thập không tạo thiên kiến.",
+          "en": "It proves collection introduces no bias."
+        },
+        {
+          "vi": "Cần xem tác động của triển khai và cách ghi nhận trước khi suy ra mức tội phạm.",
+          "en": "Consider deployment and recording effects before inferring crime levels."
+        },
+        {
+          "vi": "Chứng minh cư dân nơi đó nguy hiểm hơn.",
+          "en": "It proves residents there are more dangerous."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Dữ liệu phản ánh cả hiện tượng và cách quan sát; tránh biến khác biệt phát hiện thành định kiến nhóm. Xem mục 5.",
+        "en": "Data reflect both events and observation; do not turn detection differences into group prejudice. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Bỏ tên người cung cấp đã đủ bảo vệ họ chưa?",
+        "en": "Is removing a source’s name sufficient protection?"
+      },
+      "options": [
+        {
+          "vi": "Đủ để đưa hồ sơ vào tài khoản riêng.",
+          "en": "Enough to store the file in a private account."
+        },
+        {
+          "vi": "Đủ để phổ biến dữ liệu cho mọi đối tác.",
+          "en": "Enough for unrestricted partner sharing."
+        },
+        {
+          "vi": "Chưa; chi tiết vị trí hoặc hoàn cảnh vẫn có thể nhận diện họ.",
+          "en": "Not necessarily; location or contextual details may identify them."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Cần xét toàn bộ thông tin, mục đích, người nhận và kênh được phép. Xem mục 5.",
+        "en": "Assess the whole information set, purpose, recipients and authorized channels. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Điều gì cho thấy CoP và ILP được áp dụng có ích?",
+        "en": "What indicates useful application of CoP and ILP?"
+      },
+      "options": [
+        {
+          "vi": "Quyết định có căn cứ, công bằng và được kiểm tra tác động với cộng đồng.",
+          "en": "Informed, fair decisions with assessed community effects."
+        },
+        {
+          "vi": "Có phần mềm mới dù chưa có quy trình bảo vệ.",
+          "en": "New software without safeguards."
+        },
+        {
+          "vi": "Số lượng dữ liệu tăng dù không ai sử dụng.",
+          "en": "More data even if unused."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Giá trị nằm ở phục vụ và giảm hại; công nghệ, báo cáo và tiếp xúc là phương tiện. Xem mục 6.",
+        "en": "Service and harm reduction are the objectives; technology, reports and engagement are means. See section 6."
+      },
+      "chapter": 5
+    }
+  ],
+  "updated": "2026-10-28",
+  "moduleId": "CORE-M4",
+  "moduleOrder": 4,
+  "lessonOrder": 2,
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "CORE-07-01",
+      "title": {
+        "vi": "1. Hai cách tiếp cận cùng phục vụ cộng đồng",
+        "en": "1. Two approaches serving the community"
+      },
+      "body": {
+        "vi": "### 1.1. Cộng đồng là đối tác, không chỉ là nơi triển khai\nCảnh sát hướng đến cộng đồng, hay **Community-oriented Policing (CoP)**, đặt nhu cầu an toàn và quan hệ với người dân vào trung tâm công việc. Đây là cách tiếp cận tổ chức hoạt động, không chỉ một tổ tiếp xúc dân hoặc một chiến dịch tuyên truyền. Tiếp nhận trình báo, tuần tra, phản hồi và cách cư xử đều góp phần tạo hoặc làm mất niềm tin.\n\nTrong môi trường hậu xung đột, người dân có thể từng bị cơ quan an ninh gây hại, khó tiếp cận dịch vụ hoặc không tin thông tin sẽ được bảo vệ. Không thể yêu cầu họ hợp tác chỉ vì cảnh sát đã có mặt. Sự chấp nhận được xây dựng qua hành vi đúng pháp luật, khả năng lắng nghe, phản hồi và trách nhiệm giải trình. Người không cung cấp thông tin vẫn có quyền được bảo vệ và đối xử công bằng.\n\n### 1.2. Phân tích giúp quyết định có căn cứ\n**Intelligence-led Policing (ILP)** sử dụng thông tin được đánh giá và phân tích để hỗ trợ xác định ưu tiên, nguồn lực và cách phòng ngừa, xử lý vấn đề. Trong bài này, có thể hiểu là hoạt động cảnh sát dựa trên phân tích thông tin. Trọng tâm không phải thu thật nhiều dữ liệu, mà là trả lời câu hỏi công việc bằng sản phẩm phân tích có chất lượng.\n\nMột danh sách vụ việc cho biết những gì đã được ghi; phân tích tìm mối liên hệ, xu hướng, khoảng trống và ý nghĩa đối với quyết định. Kết luận phân tích vẫn có mức độ chắc chắn và phải được kiểm tra, không tự trở thành chứng cứ đủ để bắt giữ. Việc tiếp nhận, sử dụng thông tin luôn phải trong mandate, thẩm quyền và cơ chế bảo vệ dữ liệu.\n\n### 1.3. Bổ sung nhau nhưng không đánh đổi quyền\nCoP giúp hiểu vấn đề và tăng chất lượng quan hệ; ILP giúp sử dụng thông tin để lựa chọn cách đáp ứng. Phân tích có thể cho thấy địa điểm hoặc thời điểm đáng chú ý để tham vấn sâu hơn. Ngược lại, tiếp xúc cộng đồng có thể phát hiện một khoảng trống mà số liệu chưa phản ánh.\n\nKhông được biến hoạt động phục vụ thành điều kiện để người dân phải cung cấp tin, hoặc coi cả cộng đồng là đối tượng nghi ngờ. Nhu cầu an toàn không chỉ gồm những gì được báo nhiều nhất; người khó lên tiếng có thể chịu nguy cơ cao. **Điểm cần nhớ:** Niềm tin, phân tích và quyền con người cùng nâng chất lượng quyết định; không yếu tố nào thay thế các yếu tố còn lại.",
+        "en": "### 1.1. Communities are partners, not merely deployment locations\n**Community-oriented Policing (CoP)** centres safety needs and relationships with the public. It is an organizational approach, not only a liaison team or publicity campaign. Receiving complaints, patrols, feedback and everyday conduct build or undermine trust.\n\nIn post-conflict settings, people may have experienced abuse, inaccessible services or unsafe information handling. Police presence alone does not entitle officers to cooperation. Public acceptance grows through lawful treatment, listening, response and accountability. People retain protection and fair treatment even when they provide no information.\n\n### 1.2. Analysis supports informed decisions\n**Intelligence-led Policing (ILP)** uses evaluated and analysed information to inform priorities, resources, prevention and responses. Its purpose is to answer operational questions with sound analysis, not to maximize data collection.\n\nIncident lists record reported events; analysis examines relationships, trends, gaps and implications. Analytical conclusions have degrees of certainty and require testing. They do not automatically constitute sufficient evidence for arrest. Information work remains subject to the mandate, authority and data safeguards.\n\n### 1.3. Complementarity without trading away rights\nCoP improves understanding and relationships; ILP helps choose responses. Analysis may identify locations or times needing further consultation, while engagement may reveal gaps in recorded data.\n\nServices must not be conditional on providing information, and entire communities must not be treated as suspect. Frequently reported concerns are not the only safety needs; less-heard people may face greater risks. **Remember:** Trust, analysis and human rights jointly improve decisions; none replaces the others."
+      },
+      "sourceIds": [
+        "U36",
+        "U37"
+      ]
+    },
+    {
+      "id": "CORE-07-02",
+      "title": {
+        "vi": "2. Tham vấn, đáp ứng và huy động sự tham gia",
+        "en": "2. Consultation, response and participation"
+      },
+      "body": {
+        "vi": "### 2.1. Tham vấn để hiểu, không chỉ để xác nhận kế hoạch\nBốn yếu tố cốt lõi của CoP gồm tham vấn cộng đồng, đáp ứng cộng đồng, huy động sự tham gia và giải quyết vấn đề lặp lại. Chúng có liên hệ trong công việc: Lắng nghe để hiểu nhu cầu, xác định phần việc có thể làm, cùng tìm giải pháp và kiểm tra tác động. Không nên chỉ đếm số buổi gặp rồi kết luận đã thực hiện CoP.\n\nTrước tham vấn, cần biết mục đích, đối tượng, cách tiếp cận và giới hạn cam kết. Không chỉ gặp người quen hoặc lãnh đạo dễ liên hệ. Phụ nữ, thanh niên, người cao tuổi, người khuyết tật, nhóm thiểu số và người sống xa trung tâm có thể có kinh nghiệm khác nhau. Một cuộc họp đông người cũng chưa bảo đảm người tham gia có thể phát biểu an toàn.\n\n### 2.2. Đáp ứng phải rõ trách nhiệm và phản hồi\nĐáp ứng không có nghĩa đồng ý mọi yêu cầu. Cần phân biệt vấn đề thuộc nhiệm vụ cảnh sát, vấn đề cần cơ quan khác và điều chưa có đủ thông tin. Với việc được tiếp nhận, ghi rõ đầu mối, bước tiếp theo và cách thông báo kết quả trong phạm vi có thể cam kết. Nếu chưa giải quyết được, giải thích tình trạng thay vì im lặng.\n\nVí dụ, người dân phản ánh thường bị quấy rối trên đường đến nơi lấy nước. Việc tiếp xúc cần làm rõ khu vực, thời gian, nhóm bị tác động và nguy cơ khi cung cấp tin; không ép người phản ánh nêu công khai danh tính. Phần đáp ứng có thể cần phối hợp cảnh sát, cộng đồng và các bộ phận bảo vệ theo phân công, chứ không chỉ hứa tăng tuần tra.\n\n### 2.3. Huy động tham gia không phải giao quyền cưỡng chế\nCộng đồng có thể đóng góp hiểu biết, phản hồi, cảnh báo và giải pháp phòng ngừa phù hợp. Không khuyến khích tự trừng phạt, ép nhận tội, tuần tra trái thẩm quyền hoặc trao cho tình nguyện viên quyền cảnh sát. Nếu có cơ chế cộng đồng hỗ trợ an toàn, phải rõ vai trò, hướng dẫn, giám sát và giới hạn.\n\nĐặc biệt tránh để người tham gia bị xem là người cung cấp tin cho một bên xung đột. Xem tác động của nơi gặp, cách liên hệ và thông tin được công khai. **Điểm cần nhớ:** Sự tham gia có ý nghĩa là có khả năng góp ý và được phản hồi an toàn, không phải chỉ được huy động để thực hiện kế hoạch có sẵn.",
+        "en": "### 2.1. Consult to understand, not simply confirm a plan\nCoP has four essential elements: Consultation, response, mobilizing community participation and solving recurring problems. Listening, identifying feasible tasks, developing solutions and checking effects belong together. Meeting counts alone do not demonstrate community-oriented policing.\n\nDefine purpose, participants, access and commitment limits. Do not consult only familiar or accessible leaders. Women, youth, older people, persons with disabilities, minorities and remote communities may have different experiences. Attendance at a large meeting does not establish that people can speak safely.\n\n### 2.2. Response requires responsibility and feedback\nResponsiveness does not mean granting every request. Separate police responsibilities, referrals and matters requiring more information. Identify a contact, next steps and realistic feedback arrangements. Explain unresolved matters rather than remaining silent.\n\nFor reports of harassment on a route to water points, clarify place, timing, affected groups and disclosure risks without forcing public identification. Responses may require police, community and protection coordination, rather than a patrol promise alone.\n\n### 2.3. Participation does not confer coercive powers\nCommunities contribute knowledge, feedback, warnings and suitable prevention. Do not encourage vigilantism, coerced confessions, unauthorized patrols or police powers for volunteers. Community safety mechanisms need defined roles, guidance, oversight and limits.\n\nConsider whether meeting locations, contact methods or publicity could expose participants as informants for a conflict party. **Remember:** Meaningful participation includes safe influence and feedback, rather than merely mobilizing people around a preselected plan."
+      },
+      "sourceIds": [
+        "U36"
+      ]
+    },
+    {
+      "id": "CORE-07-03",
+      "title": {
+        "vi": "3. Giải quyết vấn đề bằng SARA",
+        "en": "3. Problem-solving through SARA"
+      },
+      "body": {
+        "vi": "### 3.1. Từ sự kiện riêng lẻ đến vấn đề lặp lại\nMột vụ việc cần được xử lý theo mức độ khẩn cấp và thẩm quyền. Tuy nhiên, khi nhiều vụ có điểm chung, cần tìm điều kiện làm chúng lặp lại. Chỉ phản ứng từng lần có thể làm lực lượng luôn bận mà mức độ nguy hiểm không giảm. Giải quyết vấn đề cần dựa trên thông tin và phối hợp, không thay thế nghĩa vụ xử lý khẩn cấp.\n\n**SARA** là khung gồm bốn hoạt động: Nhận diện vấn đề (Scanning), phân tích (Analysis), đáp ứng (Response), đánh giá (Assessment). Có thể quay lại bước trước khi thông tin thay đổi. Đây là công cụ hỗ trợ suy nghĩ và quản lý công việc, không phải căn cứ tự trao quyền cho biện pháp được lựa chọn.\n\n### 3.2. Nhận diện và phân tích\nỞ bước nhận diện, mô tả vấn đề cụ thể: Ai bị ảnh hưởng, điều gì lặp lại, ở đâu, khi nào và hậu quả ra sao? Tránh chọn nhãn quá rộng như “khu vực xấu” hoặc “nhóm người đáng ngờ”. Nhãn có thể chứa định kiến và không giúp biết cần cải thiện điều gì.\n\nPhân tích xem sự kiện, người bị hại, người có thể gây hại và điều kiện môi trường liên hệ thế nào. Có thể cần tìm thêm dữ kiện, kiểm tra giả thuyết và hỏi cơ quan liên quan. Không giả định nguyên nhân từ một đặc điểm dân tộc, giới hoặc tình trạng di cư. Nếu chưa biết, ghi nhận khoảng trống thay vì tự điền bằng suy đoán.\n\n### 3.3. Đáp ứng và đánh giá\nLựa chọn đáp ứng cần phù hợp nguyên nhân, nhiệm vụ, pháp luật và nguồn lực. Có thể kết hợp thay đổi dịch vụ, hoạt động phòng ngừa, trao đổi với đối tác và hành động cảnh sát được cho phép. Mỗi việc cần người chịu trách nhiệm, thời gian, điều kiện an toàn và cách theo dõi. Không sao chép một giải pháp cho mọi địa bàn chỉ vì đã thành công nơi khác.\n\nĐánh giá so sánh với hiện trạng trước đó và mục tiêu: Vấn đề có giảm không, người dân có an toàn hơn không, có chuyển sang địa điểm hoặc nhóm khác không, hoạt động có tạo hại mới không? Số vụ báo giảm cũng có thể do người dân không còn tin hoặc không tiếp cận được cảnh sát. **Điểm cần nhớ:** Phải kiểm tra cả tác động và cách đo, không chỉ báo đã thực hiện đủ hoạt động.",
+        "en": "### 3.1. From individual incidents to recurring problems\nUrgent incidents require authorized response, but repeated incidents require examining shared conditions. Responding repeatedly can keep officers busy without reducing harm. Problem-solving complements rather than replaces immediate duties.\n\n**SARA** comprises Scanning, Analysis, Response and Assessment. Revisit earlier stages as information changes. It structures thinking and work management; it does not confer legal authority for a proposed measure.\n\n### 3.2. Scan and analyse\nDefine who is affected, what recurs, where, when and with what consequences. Broad labels such as a bad area or suspicious group can conceal prejudice and provide little guidance.\n\nAnalyse connections among events, affected people, potential perpetrators and environmental conditions. Gather additional facts, test hypotheses and consult relevant actors. Do not infer causes from ethnicity, gender or migration status. Record uncertainty rather than filling gaps with assumptions.\n\n### 3.3. Respond and assess\nMatch responses to causes, mandate, law and resources. Options may combine service changes, prevention, partner engagement and authorized policing. Assign responsibility, timing, safeguards and monitoring. A previously successful measure is not automatically suitable elsewhere.\n\nCompare results with the baseline and objectives. Did harm decrease, did safety improve, was harm displaced elsewhere, or did the intervention create new risks? Fewer reports may reflect reduced trust or access rather than less crime. **Remember:** Assess effects and measurement quality, not activity completion alone."
+      },
+      "sourceIds": [
+        "U36"
+      ]
+    },
+    {
+      "id": "CORE-07-04",
+      "title": {
+        "vi": "4. Từ dữ liệu đến sản phẩm phân tích",
+        "en": "4. From data to analytical products"
+      },
+      "body": {
+        "vi": "### 4.1. Phân biệt dữ liệu, thông tin và kết luận\nDữ liệu có thể là thời gian, địa điểm hoặc chi tiết sự kiện. Thông tin đặt các chi tiết vào nội dung có thể trao đổi. Sản phẩm phân tích hình thành qua đánh giá, kết nối và lý giải thông tin để trả lời câu hỏi. Không phải mọi tệp tổng hợp hoặc bảng màu đều là phân tích; công cụ đẹp không bù cho dữ liệu sai hoặc câu hỏi không rõ.\n\nKết luận cần cho biết thông tin nào hỗ trợ, giả định nào đang dùng, còn thiếu gì và mức độ chắc chắn. Có thể nêu một xu hướng có khả năng xảy ra mà không khẳng định ai đã phạm tội. Sản phẩm phục vụ lựa chọn nguồn lực khác với kết luận chứng minh trách nhiệm hình sự; hai mục đích đòi hỏi căn cứ và thủ tục tương ứng.\n\n### 4.2. Chu trình thông tin nghiệp vụ\nChu trình UNPOL liên kết định hướng và lập kế hoạch; thu thập; đánh giá và sắp xếp; phân tích, hình thành suy luận; phổ biến; quyết định. Quyết định tạo nhiệm vụ và câu hỏi mới, vì vậy quá trình có phản hồi, không kết thúc khi gửi báo cáo.\n\n1. **Định hướng:** Xác định câu hỏi, ưu tiên và sản phẩm cần cho ai, khi nào.\n2. **Thu thập:** Lấy thông tin liên quan bằng nguồn và phương thức được phép.\n3. **Đánh giá, sắp xếp:** Kiểm tra chất lượng, xuất xứ và đặt cạnh thông tin khác.\n4. **Phân tích:** Xem quan hệ, giải thích khác nhau và ý nghĩa đối với câu hỏi.\n5. **Phổ biến:** Chuyển sản phẩm đúng người, thời điểm và mức bảo vệ.\n6. **Quyết định:** Người có thẩm quyền xem xét, hành động và phản hồi nhu cầu tiếp theo.\n\n### 4.3. Thu thập có mục đích và giới hạn\nCâu hỏi rõ giúp tránh thu dữ liệu thừa hoặc nhạy cảm không cần thiết. Cán bộ không được tự mở hoạt động giám sát, truy cập hệ thống hoặc dùng phương thức vượt nhiệm vụ chỉ vì cho rằng thông tin có thể hữu ích. Cách tiếp cận phân tích thông tin không gỡ bỏ pháp luật, quyền riêng tư hoặc nguyên tắc gìn giữ hòa bình.\n\nThông tin từ tiếp xúc cộng đồng cần được sử dụng đúng mục đích và bảo vệ người cung cấp. Không gắn danh tính vào sản phẩm phổ biến rộng nếu không cần và không được phép. **Điểm cần nhớ:** Thu đúng, hiểu đúng và chuyển đúng quan trọng hơn thu nhiều; sản phẩm chỉ có ích khi trả lời nhu cầu quyết định thật.",
+        "en": "### 4.1. Distinguish data, information and conclusions\nData may be times, places or incident details. Information organizes communicable knowledge. Analysis evaluates, connects and interprets material to answer a question. A compiled file or colourful dashboard is not necessarily analysis; presentation cannot compensate for poor data or unclear questions.\n\nConclusions should identify supporting material, assumptions, gaps and confidence. A likely trend does not establish an individual’s criminal responsibility. Resource decisions and criminal findings have different purposes and corresponding evidentiary and procedural requirements.\n\n### 4.2. The UNPOL intelligence cycle\nThe cycle links direction and planning; collection; evaluation and collation; analysis and inference development; dissemination; and decision. Decisions create new tasks and questions, making feedback essential.\n\n1. **Direction:** Identify the question, priorities, audience and deadline.\n2. **Collection:** Obtain relevant information through authorized sources and methods.\n3. **Evaluation and collation:** Assess quality, origin and context alongside other material.\n4. **Analysis:** Examine relationships, alternative explanations and implications.\n5. **Dissemination:** Deliver to appropriate recipients, on time and with safeguards.\n6. **Decision:** Authorized personnel assess, act and communicate further requirements.\n\n### 4.3. Purposeful collection within limits\nClear questions reduce unnecessary or excessive collection. Officers cannot independently initiate surveillance, access systems or use unauthorized methods merely because information might be useful. ILP does not remove law, privacy rights or peacekeeping principles.\n\nUse community information for authorized purposes and protect contributors. Do not attach identities to widely circulated products where unnecessary or unauthorized. **Remember:** Appropriate collection, interpretation and dissemination matter more than volume; products must address genuine decision needs."
+      },
+      "sourceIds": [
+        "U37"
+      ]
+    },
+    {
+      "id": "CORE-07-05",
+      "title": {
+        "vi": "5. Chất lượng thông tin, thiên kiến và quyền riêng tư",
+        "en": "5. Information quality, bias and privacy"
+      },
+      "body": {
+        "vi": "### 5.1. Đánh giá nguồn khác đánh giá nội dung\nMột nguồn từng đáng tin vẫn có thể sai về sự kiện cụ thể. Ngược lại, thông tin từ người chưa quen có thể cần xem xét nghiêm túc. Cần phân biệt mức độ biết rõ nguồn với khả năng kiểm chứng nội dung. Ghi ai quan sát trực tiếp, ai thuật lại, thời gian thông tin và những điều chưa rõ theo quy định bảo vệ nguồn.\n\nHai bản tin có thể xuất phát từ cùng một người; không tính thành xác nhận độc lập. Khi dữ kiện mâu thuẫn, xem khác biệt có do thời điểm, địa điểm, cách dùng từ hoặc lợi ích của người cung cấp không. Giữ lại mâu thuẫn cần giải quyết thay vì chọn bản thuận với kết luận mình thích.\n\n### 5.2. Nhận diện thiên kiến trong dữ liệu và suy nghĩ\nThiên kiến xác nhận khiến ta tìm điều ủng hộ giả thuyết ban đầu và bỏ thông tin ngược lại. Thiên kiến sẵn có khiến sự kiện gây chú ý được đánh giá quá mức. Dữ liệu cảnh sát cũng phản ánh nơi có lực lượng, cách ghi nhận và khả năng trình báo, không phải bức tranh tự động đầy đủ của mọi tội phạm.\n\nNếu một địa bàn được tuần tra nhiều hơn, số vụ phát hiện có thể tăng mà chưa chứng minh người dân nơi đó nguy hiểm hơn. Nếu một nhóm ít trình báo, không thể kết luận họ không bị hại. Cần kiểm tra dữ liệu, giải thích thay thế và tác động của cách thu thập trước khi đề xuất ưu tiên.\n\n### 5.3. Bảo vệ dữ liệu để bảo vệ người\nChỉ sử dụng thông tin phù hợp mục đích nhiệm vụ, phân quyền và cơ chế bảo mật. Phân biệt sản phẩm cần phổ biến để chỉ huy quyết định với hồ sơ chứa tên, địa chỉ hoặc dữ liệu nhạy cảm. Một địa điểm ghi quá chi tiết cũng có thể làm lộ người cung cấp dù đã bỏ tên.\n\nChia sẻ với đối tác phải theo quy định và đánh giá nguy cơ, bao gồm nguy cơ thông tin bị dùng để gây hại. Không đưa dữ liệu cá nhân vào nhóm trò chuyện, tài khoản riêng hoặc công cụ ngoài hệ thống được phép để xử lý cho nhanh. Khi phát hiện sai hoặc lộ thông tin, báo và sửa theo cơ chế. **Điểm cần nhớ:** Chất lượng phân tích gồm cả độ chính xác, công bằng và khả năng bảo vệ người chịu tác động.",
+        "en": "### 5.1. Assess sources and content separately\nA previously reliable source can be mistaken about a particular event. An unfamiliar source may still provide important information. Distinguish familiarity with the source from verification of the account. Record direct observation, hearsay, timing and uncertainty under source-protection rules.\n\nTwo reports may originate from one person, rather than provide independent confirmation. Conflicts may reflect timing, location, terminology or interests. Preserve unresolved discrepancies instead of selecting the version favouring a preferred conclusion.\n\n### 5.2. Recognize cognitive and data bias\nConfirmation bias favours an initial hypothesis; availability bias gives memorable events excessive weight. Police data reflect deployment, recording practices and reporting access, not automatically the full distribution of crime.\n\nMore patrols may produce more detections without proving that residents are more dangerous. Low reporting does not establish low victimization. Examine data limitations, alternative explanations and collection effects before recommending priorities.\n\n### 5.3. Protect data to protect people\nUse information only for authorized purposes with access and security safeguards. Distinguish decision products from records containing identities, addresses or sensitive details. Precise location can identify a source even after a name is removed.\n\nPartner sharing requires applicable rules and risk assessment, including potential misuse. Do not move personal data into broad chats, private accounts or unauthorized tools for convenience. Report and correct errors or disclosure incidents through established mechanisms. **Remember:** Analytical quality includes accuracy, fairness and protection of affected people."
+      },
+      "sourceIds": [
+        "U36",
+        "U37"
+      ]
+    },
+    {
+      "id": "CORE-07-06",
+      "title": {
+        "vi": "6. Tổ chức thực hiện, báo cáo và học từ kết quả",
+        "en": "6. Delivery, reporting and learning from results"
+      },
+      "body": {
+        "vi": "### 6.1. Phân tích phải đi tới quyết định có trách nhiệm\nSản phẩm cần phù hợp người sử dụng: Câu hỏi nào đang cần giải quyết, dữ kiện chính, nhận định, giới hạn và lựa chọn có thể xem xét. Không chôn thông tin khẩn trong một báo cáo dài hoặc dùng từ chuyên môn khiến người nhận không hiểu tác động. Phân biệt đề xuất của người phân tích với quyết định của cấp có thẩm quyền.\n\nKhi có dấu hiệu nguy hiểm tức thời, báo theo kênh khẩn và thực hiện phần việc được giao; không chờ chu trình thông thường hoàn tất mới cảnh báo. Sau quyết định, cần biết ai thực hiện, trong giới hạn nào, phối hợp ai và báo kết quả ra sao. Thu thập và phân tích không phải hoạt động tách rời chỉ huy, nguồn lực và trách nhiệm.\n\n### 6.2. Vai trò của IPO và FPU\nIPO có thể đóng góp qua tiếp xúc, ghi nhận, báo cáo, phân tích hoặc cố vấn theo vị trí. FPU có thể cung cấp thông tin quan sát và thực hiện nhiệm vụ được phân công trên cơ sở đánh giá tình hình. Không coi mọi thành viên là chuyên gia phân tích, hoặc biến hoạt động tiếp xúc của đơn vị thành một cơ chế thu tin không được giao.\n\nKhi hỗ trợ cảnh sát sở tại, cần giúp xây dựng cả năng lực tiếp nhận, lưu, kiểm tra, phân tích và phản hồi. Máy tính hoặc phần mềm mới chưa tạo ra hệ thống tốt nếu thiếu quy trình, người chịu trách nhiệm và bảo vệ dữ liệu. Hỗ trợ phải phù hợp cơ quan sở tại, chuẩn mực và HRDDP khi thuộc phạm vi.\n\n### 6.3. Kiểm tra tác động với cộng đồng\nTheo dõi kết quả cần hỏi vấn đề có giảm, ai được hưởng lợi, ai còn khó tiếp cận và có phát sinh hại không. Cần nghe lại người dân, không chỉ dựa trên số liệu nội bộ. Nếu ưu tiên hoặc dữ kiện thay đổi, cập nhật kế hoạch, giả định và nơi đã nhận sản phẩm trước đó.\n\nGhi lại bài học, phương pháp và giới hạn dữ liệu để người kế nhiệm tiếp tục được công việc. Không để toàn bộ quan hệ, thông tin nằm trong thiết bị hoặc tài khoản cá nhân. **Kết thúc bài:** Phục vụ cộng đồng tốt hơn đòi hỏi lắng nghe có trách nhiệm, phân tích có căn cứ và kiểm tra kết quả. Cả CoP và ILP chỉ có ý nghĩa khi giúp quyết định hợp pháp, công bằng và giảm hại thực tế.",
+        "en": "### 6.1. Analysis should inform accountable decisions\nTailor products to the user’s question, key facts, assessment, limitations and options. Do not bury urgent concerns in lengthy reports or technical language. Distinguish analytical recommendations from authorized decisions.\n\nUse urgent reporting channels and perform assigned duties when immediate danger is indicated; do not wait for a routine cycle. Decisions need identified implementers, limits, partners and feedback. Analysis connects with command, resources and accountability.\n\n### 6.2. IPO and FPU contributions\nIPOs may engage, record, report, analyse or advise according to their posts. FPUs may report observations and undertake assigned activity informed by assessments. Not everyone is a specialist analyst, and community contact does not authorize unassigned intelligence activities.\n\nSupport host-State systems for receiving, storing, checking, analysing and responding to information. New computers or software cannot replace processes, responsibility and safeguards. Assistance must fit national institutions, standards and applicable HRDDP requirements.\n\n### 6.3. Check community effects\nAsk whether problems decreased, who benefited, who remains excluded and whether new harm emerged. Consult communities rather than relying only on internal data. Update plans, assumptions and earlier recipients when facts or priorities change.\n\nRecord lessons, methods and limitations for successors instead of keeping relationships and data on private devices or accounts. **Retain:** Better service requires responsible listening, sound analysis and assessment of results. CoP and ILP matter when they support lawful, fair decisions and reduce actual harm."
+      },
+      "sourceIds": [
+        "U36",
+        "U37"
+      ]
+    }
+  ],
+  "source_ids": [
+    "U36",
+    "U37"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "CoP",
+      "definition": {
+        "vi": "Cảnh sát hướng đến cộng đồng.",
+        "en": "Community-oriented policing."
+      }
+    },
+    {
+      "term": "ILP",
+      "definition": {
+        "vi": "Hoạt động cảnh sát dựa trên thông tin được đánh giá và phân tích.",
+        "en": "Intelligence-led policing using evaluated and analysed information."
+      }
+    },
+    {
+      "term": "SARA",
+      "definition": {
+        "vi": "Nhận diện; phân tích; đáp ứng; đánh giá.",
+        "en": "Scanning; analysis; response; assessment."
+      }
+    },
+    {
+      "term": "Information / Intelligence",
+      "definition": {
+        "vi": "Thông tin chưa được phân tích / sản phẩm qua đánh giá, kết nối và phân tích theo mục đích.",
+        "en": "Information / a product developed through systematic evaluation and analysis."
+      }
+    },
+    {
+      "term": "Corroboration",
+      "definition": {
+        "vi": "Đối chiếu, kiểm chứng; khác với cùng nguồn được chuyển nhiều lần.",
+        "en": "Corroboration, distinct from repeated circulation of the same source."
+      }
+    },
+    {
+      "term": "Bias",
+      "definition": {
+        "vi": "Thiên kiến trong suy nghĩ, dữ liệu hoặc cách thu thập.",
+        "en": "Bias in reasoning, data or collection."
+      }
+    }
+  ],
+  "diagram": null,
+  "contentVersion": "batch-02-expanded-v1-2026-10-28",
+  "sourceIntro": {
+    "vi": "Tài liệu nền và đọc bổ sung để đối chiếu. Lời giảng Việt–Anh và câu hỏi được biên soạn cho Handbook; hình gốc ghi rõ tài liệu, trang PDF và có lời giải thích riêng.",
+    "en": "Primary and supplementary reading for comparison. Bilingual teaching and questions are authored for the Handbook; original figures identify materials and PDF pages and have separate explanations."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Bản biên soạn đợt 2 ngày 28/10/2026. Hai ngôn ngữ phục vụ học tập, không phải bản dịch chính thức UN. Danh mục CORE là cách tổ chức của Handbook, không phải thứ tự bài chính thức của UN.",
+      "Bài dạy kiến thức và chuẩn mực chung, không tự trao thẩm quyền hoặc thay mandate, DUF/ROE và hướng dẫn phái bộ áp dụng cho vị trí. Học trực tuyến không thay thế huấn luyện thực hành và đánh giá năng lực.",
+      "Nguồn theo mục xác định tài liệu nền, không coi mọi câu là trích nguyên văn. Ví dụ ngắn là phần giảng biên soạn. Hình giữ tiếng Anh gốc, có chú giải Việt–Anh; số trang PDF có thể khác số slide."
+    ],
+    "en": [
+      "Batch 2 authored on 28 October 2026. The bilingual text is learning material, not an official UN translation. CORE numbering belongs to the Handbook rather than official UN lesson numbering.",
+      "The lesson teaches general knowledge and standards. It does not confer powers or replace applicable mandates, DUF/ROE and mission instructions. Online study does not replace practical training and competence assessment.",
+      "Section mapping identifies the knowledge base, not a verbatim source for every sentence. Short examples are authored explanations. Figures retain original English with bilingual commentary; PDF pages may differ from slide numbers."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Cảnh sát phục vụ tốt hơn khi hiểu nhu cầu cộng đồng và dùng thông tin có chất lượng để quyết định. Bài học kết nối CoP, ILP, SARA, chu trình thông tin, kiểm soát thiên kiến và đánh giá tác động.",
+      "en": "Effective service connects community needs with sound information and decisions. Study CoP, ILP, SARA, the intelligence cycle, bias safeguards and assessment of effects."
+    },
+    "subtitle": {
+      "vi": "Lắng nghe có trách nhiệm · Phân tích có căn cứ · Kiểm tra tác động",
+      "en": "Listen responsibly · Analyse carefully · Assess effects"
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích cách CoP và ILP bổ sung nhau, cùng giới hạn quyền hạn.",
+        "Trình bày bốn yếu tố CoP và vận dụng câu hỏi SARA để hiểu vấn đề.",
+        "Phân biệt dữ liệu, thông tin, nhận định và căn cứ tước tự do.",
+        "Giải thích chu trình thông tin, chất lượng nguồn, thiên kiến và bảo vệ dữ liệu.",
+        "Liên hệ sản phẩm phân tích, trách nhiệm quyết định và tác động với cộng đồng."
+      ],
+      "en": [
+        "Explain how CoP and ILP complement each other within authority limits.",
+        "Explain four CoP elements and SARA problem-solving questions.",
+        "Distinguish data, information, assessment and grounds for deprivation of liberty.",
+        "Explain the intelligence cycle, source quality, bias and data protection.",
+        "Connect analytical products, decision responsibility and community effects."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc 6 mục trong tab Nội dung bài học; xem hình và lời giải thích ở mục liên quan. Làm 12 câu kiểm tra, đọc phản hồi và quay lại mục được chỉ ra. VI/EN giữ đáp án trong phiên mở trang; tải lại trang bắt đầu lại. Bấm hình để xem lớn.",
+      "en": "Read the lesson sections and figures with their explanations. Complete 12 questions, review feedback and revisit indicated sections. VI/EN retains answers during the session; reloading starts again. Click figures to enlarge them."
+    }
+  },
+  "figures": [
+    {
+      "chapter": 2,
+      "image": "assets/lesson-figures/batch-02/U36-p39.png",
+      "alt": {
+        "vi": "Hình 1. Khung giải quyết vấn đề SARA",
+        "en": "Figure 1. The SARA problem-solving framework"
+      },
+      "caption": {
+        "vi": "Hình 1. Khung giải quyết vấn đề SARA",
+        "en": "Figure 1. The SARA problem-solving framework"
+      },
+      "explanation": {
+        "vi": "Các mũi tên nối nhận diện, phân tích, đáp ứng và đánh giá. Hãy dùng chúng để kiểm tra công việc đã tìm nguyên nhân và đo tác động chưa; không coi đã làm xong hoạt động là đã giải quyết vấn đề. Khi thông tin thay đổi, có thể quay lại bước trước.",
+        "en": "The arrows connect scanning, analysis, response and assessment. Ask whether causes and effects have been examined rather than equating delivery with resolution. Revisit earlier work when information changes."
+      },
+      "sourceLabel": "UNPOL STM 2021 · Lesson 5",
+      "pdfPage": 39
+    },
+    {
+      "chapter": 3,
+      "image": "assets/lesson-figures/batch-02/U37-p16.png",
+      "alt": {
+        "vi": "Hình 2. Chu trình thông tin nghiệp vụ UNPOL",
+        "en": "Figure 2. The UNPOL crime intelligence cycle"
+      },
+      "caption": {
+        "vi": "Hình 2. Chu trình thông tin nghiệp vụ UNPOL",
+        "en": "Figure 2. The UNPOL crime intelligence cycle"
+      },
+      "explanation": {
+        "vi": "Quan sát quyết định nối trở lại định hướng. Thu thập cần câu hỏi; phân tích cần đánh giá thông tin; sản phẩm cần đến đúng người; quyết định cần phản hồi. Đây là chu trình của tài liệu gốc, không phải sơ đồ tự biên soạn hoặc quyền thu thập không giới hạn.",
+        "en": "Notice decisions feeding direction. Collection needs questions, analysis needs evaluation, products need recipients and decisions need feedback. This original training cycle does not authorize unrestricted collection."
+      },
+      "sourceLabel": "UNPOL STM 2021 · Lesson 6",
+      "pdfPage": 16
+    }
+  ],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft",
+  "figureZoom": true
+}

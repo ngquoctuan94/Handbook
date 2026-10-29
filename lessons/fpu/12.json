@@ -1,0 +1,754 @@
+{
+  "schemaVersion": 2,
+  "id": "FPU-12",
+  "area": "fpu",
+  "groupKey": "FPU-M4",
+  "group": {
+    "vi": "Chiến thuật cảnh sát",
+    "en": "Police tactics"
+  },
+  "title": {
+    "vi": "Tuần tra: Chuẩn bị, thực hiện, xử lý tình huống và báo cáo",
+    "en": "Patrolling: Preparation, conduct and reporting"
+  },
+  "summary": {
+    "vi": "Tuần tra bắt đầu từ câu hỏi cần giải quyết và kết thúc bằng kết quả được kiểm chứng. Bài học liên kết lập kế hoạch, chuẩn bị, tiếp xúc cộng đồng, báo cáo và điều chỉnh hoạt động.",
+    "en": "A patrol begins with a task question and ends with verified outcomes. Connect planning, preparation, community engagement, reporting and operational adjustment."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "PATROL",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-030%20Patrols.pdf",
+  "order": 204,
+  "sections": [
+    {
+      "id": "FPU-12-01",
+      "title": {
+        "vi": "1. Tuần tra phải có mục đích",
+        "en": "1. Patrols need a purpose"
+      },
+      "body": {
+        "vi": "### 1.1. Hiện diện để tạo kết quả\nTuần tra là hoạt động cảnh sát có tổ chức nhằm phục vụ một mục tiêu được giao, như bảo vệ dân thường, phòng ngừa hại, hỗ trợ tiếp cận an toàn hoặc hiểu tình hình. Không phải mọi chuyến xe ra khỏi doanh trại đều là một nhiệm vụ tuần tra có chất lượng. Cần xác định kết quả mong muốn, phạm vi, người chịu trách nhiệm và cách báo.\n\nHiện diện có thể giúp trấn an và ngăn ngừa, nhưng hiệu quả không tự phát sinh từ việc người dân thấy xe UN. Cách giao tiếp, khả năng phản hồi và hành động khi có nguy cơ ảnh hưởng niềm tin. Một tuyến được đi nhiều lần nhưng bỏ qua giờ người dân dễ bị hại có thể chưa đáp ứng nhu cầu thực.\n\n### 1.2. Phương thức theo nhiệm vụ\nTuần tra đi bộ, bằng phương tiện hoặc kết hợp có ưu điểm và giới hạn khác nhau về tiếp xúc, phạm vi, thời gian, điều kiện địa hình và bảo đảm. Năng lực đường thủy hoặc đường không cần tổ chức và chuyên môn tương ứng. Không chọn phương thức chỉ vì phương tiện đang sẵn hoặc vì cách đó dễ đếm số lượt.\n\nĐi bộ có thể tạo cơ hội trao đổi gần hơn, nhưng cần đánh giá tiếp cận, ngôn ngữ và hỗ trợ. Di chuyển bằng xe có thể tới xa hơn, nhưng không thay mọi tiếp xúc và quan sát. Người lập kế hoạch phải giải thích phương thức giúp đạt mục tiêu thế nào, với nguồn lực nào.\n\n### 1.3. Thẩm quyền không tăng theo hành trình\nTuần tra không tự cho phép dừng, khám, giữ người, vào cơ sở hoặc dùng vũ lực trong mọi hoàn cảnh. Mỗi biện pháp phát sinh cần căn cứ và giới hạn. Cán bộ phải hiểu mình đang trực tiếp thực hiện chức năng theo mandate hay hỗ trợ đối tác sở tại.\n\nCùng tuần tra không xóa trách nhiệm của từng bên. Nếu có dấu hiệu đối tác vi phạm, phải báo và sử dụng cơ chế phái bộ để đánh giá, điều chỉnh hỗ trợ; không bỏ qua vì nhiệm vụ đã được thống nhất trước.\n\n### 1.4. Chu trình liên tục\nTuần tra gồm lập kế hoạch, chuẩn bị thực tế, thực hiện và rút kinh nghiệm–báo cáo. Thông tin từ lần trước cần giúp lần sau, không chỉ đi vào lưu trữ. Chu trình này kết nối mục tiêu với quan sát và thay đổi; số lượt là một dữ liệu hoạt động, không phải toàn bộ kết quả bảo vệ.",
+        "en": "### 1.1. Presence towards a result\nA patrol is an organized police activity serving an assigned objective, such as civilian protection, harm prevention, safe access or situational understanding. Leaving camp does not itself establish a useful patrol. Define the result, scope, responsibility and reporting.\n\nVisibility can reassure and deter, but trust also depends on communication, response and action when threats emerge. Repeatedly covering a route while missing periods of greatest risk may fail the protective objective.\n\n### 1.2. Choose a suitable method\nFoot, vehicle and combined patrols offer different contact, reach, timing, terrain and support possibilities. Water or air capabilities require their own qualified arrangements. Do not select a method merely because equipment is available or activity counts are convenient.\n\nWalking can improve engagement but requires assessment of access, language and support. Vehicles extend reach without replacing all observation and contact. Explain how the method supports the objective with actual resources.\n\n### 1.3. Travel does not expand powers\nPatrolling does not automatically authorize stops, searches, custody, entry or force. Each measure requires grounds and limits. Distinguish direct mandated functions from host-State support.\n\nJoint activity retains separate responsibilities. Report partner misconduct concerns and use mission mechanisms to review support rather than ignore them because cooperation was pre-arranged.\n\n### 1.4. A continuing cycle\nConnect planning, practical preparation, conduct and debriefing/reporting. Previous information should inform subsequent tasking. Patrol counts describe activity, not the whole protection result."
+      },
+      "sourceIds": [
+        "PATROL",
+        "POLICY"
+      ]
+    },
+    {
+      "id": "FPU-12-02",
+      "title": {
+        "vi": "2. Lập kế hoạch theo nhu cầu và nguy cơ",
+        "en": "2. Planning around needs and risks"
+      },
+      "body": {
+        "vi": "### 2.1. Bắt đầu bằng câu hỏi cần trả lời\nLàm rõ ai cần được bảo vệ, vấn đề gì đang xảy ra, ở đâu, khi nào và thông tin nào còn thiếu. Không thu thập mọi thứ không có mục đích. Nếu nhiệm vụ là đánh giá tiếp cận một dịch vụ, cần hiểu nhóm nào đi được, nhóm nào gặp cản trở và trong thời gian nào; chỉ ghi tuyến thông suốt tại lúc xe đi qua có thể chưa đủ.\n\nThông tin từ cộng đồng, báo cáo trước, đầu mối địa bàn và thành phần liên quan cần được đánh giá về thời điểm, khả năng biết và độ độc lập. Nhiều lời kể trùng nguồn không trở thành nhiều xác nhận. Nêu rõ giả định và điều có thể làm quyết định thay đổi.\n\n### 2.2. Địa bàn và điều kiện thực hiện\nXem đường, thời tiết, ánh sáng, giao thông, hoạt động dân sự và nguy cơ được báo. Thông tin về hiểm họa nổ phải cập nhật qua đầu mối có trách nhiệm; không coi tuyến từng sử dụng là luôn an toàn. Cần biết giới hạn tiếp cận và cách xin hướng dẫn khi phát hiện bất thường.\n\nKhông xây kế hoạch chỉ theo bản đồ. Thời gian di chuyển, ngôn ngữ, khả năng liên lạc, người có nhu cầu hỗ trợ và năng lực tiếp nhận ảnh hưởng tính khả thi. Một điểm rất gần có thể khó tới trong mùa mưa; địa điểm xa hơn có thể cần hỗ trợ duy trì khác.\n\n### 2.3. Lệnh và phối hợp\nLệnh cần mục tiêu, phạm vi, phần việc, thời gian, giới hạn, bảo đảm và báo cáo, có thể tổ chức theo SMEAC. Phối hợp để tránh trùng hoặc bỏ khoảng trống với các lực lượng khác. Nếu làm cùng đối tác, xác định chỉ huy, điều phối, cơ chế vũ lực và chuyển trách nhiệm.\n\nKhông công khai lịch trình, nguồn tin và dữ liệu vị trí cho người không cần biết. Đồng thời, người cần phối hợp cứu hộ, y tế hoặc tiếp nhận phải có đủ thông tin theo vai trò. Bảo mật là phân phối đúng, không phải giữ mọi dữ liệu trong một cá nhân.\n\n### 2.4. Phương án khi điều kiện đổi\nXác định tình huống cần báo, điểm phải rà và ai quyết định. Tính hỏng phương tiện, người bị thương, mất liên lạc hoặc điều kiện tiếp cận khác dự kiến. Dự phòng phải có nguồn lực thật và được các bên hiểu, không chỉ một dòng “sẽ xử lý tùy tình hình”.",
+        "en": "### 2.1. Define the question\nIdentify people at risk, the problem, location, timing and information gaps. Collection needs a purpose. Assessing service access requires understanding who can travel, who faces barriers and when, rather than observing only an unobstructed road during one passage.\n\nEvaluate community accounts, previous reports and specialist information for freshness, access and independence. State assumptions and decision-changing conditions.\n\n### 2.2. Real operating conditions\nConsider roads, weather, visibility, traffic, civilian activity and reported hazards. Obtain explosive-hazard information through responsible channels; past use does not establish continuing safety. Know access limits and specialist referral arrangements.\n\nMaps alone cannot establish feasibility. Travel time, language, communications, assistance needs and receiving capacity matter. Nearby locations can become difficult under seasonal conditions.\n\n### 2.3. Orders and coordination\nUse clear objectives, scope, tasks, timing, limits, support and reporting, organized through SMEAC where suitable. Coordinate to prevent duplication and gaps. Joint patrols need explicit command, force and handover arrangements.\n\nProtect schedules, contributors and location data while giving support and receiving actors necessary information. Confidentiality means appropriate distribution, not dependence on one person's private knowledge.\n\n### 2.4. Changes and contingencies\nSpecify reporting triggers, review conditions and decision authority. Plan for breakdown, casualties, failed communications and altered access. Contingencies require actual resources and shared understanding."
+      },
+      "sourceIds": [
+        "PATROL",
+        "CSC006",
+        "CSC009",
+        "CSC010"
+      ]
+    },
+    {
+      "id": "FPU-12-03",
+      "title": {
+        "vi": "3. Chuẩn bị người, trang bị và thông tin",
+        "en": "3. Preparing people, equipment and information"
+      },
+      "body": {
+        "vi": "### 3.1. Kiểm tra đúng vai trò\nĐối chiếu người thực có, sức khỏe, mệt mỏi, chuyên môn và phần việc. Người chỉ huy cần biết ai phụ trách liên lạc, y tế, lái xe, ghi chép hoặc tiếp xúc theo kế hoạch. Bố trí phụ nữ vào các vai trò có năng lực và cơ hội thực chất, không mặc định chỉ làm phiên dịch hoặc giao tiếp với phụ nữ.\n\nCần người có thể sử dụng ngôn ngữ công tác và hỗ trợ giao tiếp địa phương khi phù hợp. Phiên dịch phải hiểu giới hạn, bảo mật và cách xử lý khi thông tin nhạy cảm; không coi họ chỉ là phương tiện chuyển từ mà không có nguy cơ riêng.\n\n### 3.2. Chức năng hơn là danh sách\nKiểm tra phương tiện, thông tin, bảo hộ, bộ sơ cứu và vật tư cần theo nhiệm vụ. Xác nhận thiết bị hoạt động, đủ nguồn điện hoặc nhiên liệu và có người dùng đúng. Không lấy giấy đã phát làm bằng chứng sẵn sàng. Mức dự trữ và phương án bổ sung cần phù hợp thời gian, điều kiện và hướng dẫn.\n\nNgười lái phải đủ điều kiện, biết nhiệm vụ và có cơ hội nêu hạn chế phương tiện. Hỏng hóc ảnh hưởng an toàn phải được xử lý hoặc báo để đổi quyết định, không giao trách nhiệm giữ đúng giờ cho người lái bằng mọi giá.\n\n### 3.3. Phổ biến và kiểm tra hiểu\nCác thành viên cần biết mục tiêu, phạm vi, phần việc, giới hạn, cách báo và kế nhiệm. Yêu cầu nhắc lại điểm quan trọng khi cần, nhất là phương án thay đổi. Người chỉ nhớ giờ xuất phát mà không biết mục tiêu chưa được chuẩn bị đủ.\n\nKiểm tra thông tin giữa lệnh, danh sách, tài liệu và đầu mối có cùng phiên bản. Thống nhất tín hiệu, cách xác nhận và ưu tiên tin khẩn. Không để quy ước của một đơn vị được hiểu là đương nhiên áp dụng cho lực lượng phối hợp.\n\n### 3.4. Xác nhận trước xuất phát\nBáo điểm bắt đầu theo cơ chế và xác nhận các điều kiện thiết yếu. Thiếu điều kiện phải được nêu với ảnh hưởng cụ thể, không chỉ báo “chưa đủ”. Người giao nhiệm vụ cần biết thiếu đó làm giảm phần việc nào và có lựa chọn gì. Bảng kiểm là công cụ tổ chức, không thay tư duy về tính khả thi của nhiệm vụ.",
+        "en": "### 3.1. Role-based readiness\nVerify actual personnel, health, fatigue, qualifications and assignments, including communications, medical care, driving, recording and engagement. Give women meaningful opportunities across qualified functions rather than stereotyped assignments.\n\nArrange working-language and local-language support as appropriate. Interpreters need confidentiality, role and sensitive-information guidance and consideration of their own exposure risks.\n\n### 3.2. Function beyond inventory\nCheck vehicles, communications, protection, first-aid equipment and task-specific supplies for operation, power or fuel and competent users. Issue records do not establish readiness. Match reserves and replenishment to conditions and instructions.\n\nQualified drivers must understand the task and report vehicle limitations. Unsafe defects require correction or changed decisions rather than pressure to maintain timing at any cost.\n\n### 3.3. Brief and check\nMembers need objectives, scope, roles, limits, reporting and succession. Check understanding of important conditions and alternatives; departure time alone is insufficient.\n\nReconcile versions across orders, lists, materials and contacts. Agree signals, acknowledgement and emergency priority across participating actors.\n\n### 3.4. Confirm departure conditions\nReport departure as required and confirm essential readiness. Explain shortages through task implications and alternatives. A checklist organizes preparation without replacing feasibility judgment."
+      },
+      "sourceIds": [
+        "PATROL",
+        "POLICY"
+      ]
+    },
+    {
+      "id": "FPU-12-04",
+      "title": {
+        "vi": "4. Thực hiện: Quan sát, tiếp xúc và bảo vệ",
+        "en": "4. Conduct: Observation, engagement and protection"
+      },
+      "body": {
+        "vi": "### 4.1. Quan sát có mục đích nhưng không đóng khung\nGhi điều liên quan mục tiêu: Tình trạng tiếp cận, hoạt động, dấu hiệu nguy cơ và nhu cầu hỗ trợ. Giữ cởi mở với thông tin mới ngoài giả định ban đầu. Nếu chỉ tìm điều đã được dự đoán, tổ có thể bỏ qua nhóm chịu hại chưa từng được ghi nhận.\n\nMô tả cụ thể hành vi và điều kiện, tránh suy tính cách hoặc ý định từ hình thức. “Ba người rời khu vực khi xe tới” khác với kết luận họ có ý đồ phạm tội. Nhận định cần được nêu là nhận định, với cơ sở và giới hạn.\n\n### 4.2. Giao tiếp tạo niềm tin\nTự giới thiệu, giải thích vai trò và hỏi theo mục đích, dùng ngôn ngữ dễ hiểu. Lắng nghe người khó lên tiếng, không chỉ người có quyền lực hoặc nói ngôn ngữ thuận tiện. Tôn trọng việc người dân không muốn trao đổi; được bảo vệ không phụ thuộc cung cấp tin.\n\nKhông hứa điều đơn vị không thể thực hiện. Giải thích cách chuyển yêu cầu và việc tiếp theo trong phạm vi có thể. Không công khai danh tính, chụp ảnh hoặc đưa người ra trước nhóm để chứng minh tổ đã thu được thông tin. Một tiếp xúc có vẻ thuận lợi có thể làm tăng nguy cơ trả đũa sau khi tuần tra rời đi.\n\n### 4.3. Khi gặp nguy cơ hoặc cần chăm sóc\nBáo sự kiện quan trọng sớm, tổ chức đáp ứng thuộc thẩm quyền và gọi hỗ trợ phù hợp. Không đợi trở về mới báo một đe dọa có thể gây hại ngay. Với người bị thương, hỗ trợ an toàn trong năng lực và kết nối y tế; với trẻ hoặc người cần bảo vệ, dùng đầu mối chuyên môn.\n\nKhi thấy vật nghi nổ, không tiếp cận, chạm hoặc tự di chuyển để mở đường. Cảnh báo, giữ an toàn và nhận hướng dẫn. Không biến mục tiêu hoàn tất tuyến thành lý do đi vào nguy cơ chưa được quản lý.\n\n### 4.4. Giữ tổ và khả năng liên lạc\nTheo dõi quân số, tình trạng người, phương tiện và liên hệ. Thay đổi phần việc hoặc tách người cần được cho phép, ghi và xác nhận. Khi phải điều chỉnh, nêu lý do, ảnh hưởng và yêu cầu quyết định; không tự đổi mục tiêu chỉ vì có việc mới hấp dẫn hơn. Các kỹ thuật thực hành di chuyển và kiểm soát cần theo huấn luyện riêng.",
+        "en": "### 4.1. Purposeful, open observation\nRecord access, activity, risks and needs relevant to the objective while remaining open to unexpected information. Searching only for predicted facts can miss previously unheard groups.\n\nDescribe behaviour and conditions rather than infer intent from appearance. Three people leaving as a vehicle arrives is an observation, not proof of criminal purpose. Label assessments and their limits.\n\n### 4.2. Engagement and trust\nIntroduce the role, explain purpose and communicate clearly. Hear less-accessible people as well as leaders and convenient-language speakers. Refusal to share information does not remove protection rights.\n\nDo not promise unavailable help. Explain feasible referral and follow-up. Avoid exposing contributors through photographs or public interviews. Apparent cooperation can create retaliation risks after departure.\n\n### 4.3. Protection and care\nReport urgent threats promptly, take authorized protective action and obtain support. Do not defer urgent warning until return. Provide safe trained first aid and refer child or other specialist protection needs.\n\nDo not approach or move suspected explosive items to clear a route. Warn, remain safe and seek competent guidance. Completing a route cannot justify unmanaged danger.\n\n### 4.4. Team continuity\nTrack people, condition, transport and contact. Separation or changed assignments need authorization and confirmation. Explain reasons, implications and decisions needed when adjusting. Do not substitute a different objective merely because another activity appears interesting. Movement and control techniques require practical instruction."
+      },
+      "sourceIds": [
+        "PATROL",
+        "UNMAS",
+        "POLICY"
+      ]
+    },
+    {
+      "id": "FPU-12-05",
+      "title": {
+        "vi": "5. Báo cáo và chuyển thông tin thành đáp ứng",
+        "en": "5. Reporting and connecting information to action"
+      },
+      "body": {
+        "vi": "### 5.1. Tin khẩn khác bản báo cáo định kỳ\nCảnh báo về nguy cơ tức thời, sự cố nghiêm trọng hoặc nhu cầu cứu giúp phải theo cơ chế báo nhanh. Báo cáo sau tuần tra tổ chức đầy đủ hơn mục tiêu, hành trình trong phạm vi cần ghi, hoạt động, quan sát, tiếp xúc, kết quả và việc còn chờ. Bản đầy đủ không thay thông báo khẩn đã phải gửi.\n\nThời gian, địa điểm, người liên quan và nguồn biết cần rõ. Nếu mốc chỉ ước lượng, nêu mức chắc chắn thay vì thêm con số giả. Thông tin chưa xác minh vẫn có thể cần báo, nhưng phải gắn trạng thái và nhu cầu kiểm tra.\n\n### 5.2. Tách ba lớp thông tin\n**Quan sát:** Điều tổ trực tiếp thấy, nghe hoặc ghi nhận. **Thông tin được báo:** Điều người khác cung cấp, kèm đánh giá nguồn phù hợp bảo mật. **Nhận định:** Ý nghĩa rút ra và cơ sở. Ba lớp giúp người nhận sử dụng đúng, không biến lời kể thành sự thật đã chứng minh.\n\nTránh ngôn ngữ định tội, quy cả nhóm hoặc kết luận y khoa ngoài chuyên môn. Không ghép nhiều sự kiện khác thời gian thành một bức tranh hiện tại mà không nói rõ. Dữ liệu cũ có thể hữu ích để so sánh nhưng cần nhãn thời gian.\n\n### 5.3. Chuyển đúng người và theo dõi\nThông tin có thể cần tuyến tác nghiệp, nhân quyền, bảo vệ trẻ, y tế hoặc đầu mối khác. Chuyển theo cơ chế và phạm vi cần biết, xác nhận tiếp nhận khi quan trọng. Không gửi mọi dữ liệu nhận dạng lên một nhóm rộng để mong ai đó xử lý.\n\nMỗi yêu cầu còn chờ nên có đầu mối, trạng thái và bước tiếp theo. Đã chuyển chưa có nghĩa người dân đã được hỗ trợ. Khi có phản hồi phù hợp, kết nối lại để giữ kỳ vọng thực tế, không hứa kết quả trước khi có cơ sở.\n\n### 5.4. Bảo vệ hồ sơ và nguồn\nGhi, lưu và chuyển qua hệ thống được phép. Không tự đăng hành trình, ảnh, tên người dân hoặc thông tin nhạy cảm. Khi thiết bị mất hoặc dữ liệu bị lộ, báo theo cơ chế; không xóa dấu vết hoặc tự xử lý ngoài thẩm quyền để tránh ảnh hưởng thành tích. Chất lượng báo cáo gồm cả độ tin cậy và an toàn của thông tin.",
+        "en": "### 5.1. Urgent and routine reporting differ\nImmediate threats, serious incidents and rescue needs require rapid reporting. The later patrol report organizes objectives, relevant movement, activities, observations, contacts, results and outstanding action. It does not replace urgent notification.\n\nClarify times, locations, involved people and knowledge sources. Label estimates and unverified material rather than invent precision. Uncertainty can coexist with a need for warning.\n\n### 5.2. Separate information layers\n**Observation** records direct knowledge. **Received information** identifies what others provided with appropriate source protection. **Assessment** explains interpretation and grounds. Distinguishing them supports sound decisions.\n\nAvoid guilt assumptions, group generalizations and medical conclusions beyond competence. Do not merge different periods without explaining their timing.\n\n### 5.3. Route and follow up\nDifferent issues may require operations, rights, child protection, medical or other channels. Share on a need-to-know basis and confirm critical receipt. Broad distribution of identifying details is not effective referral.\n\nAssign a contact, status and next step for outstanding requests. Forwarding is not completed assistance. Provide appropriate feedback without promising unsupported outcomes.\n\n### 5.4. Protect records and contributors\nUse authorized recording, storage and transfer systems. Do not publish routes, images or identities independently. Report device loss or disclosure rather than concealing it. Reliable reporting includes information safety."
+      },
+      "sourceIds": [
+        "CSC021",
+        "PATROL"
+      ]
+    },
+    {
+      "id": "FPU-12-06",
+      "title": {
+        "vi": "6. Rút kinh nghiệm và đánh giá kết quả",
+        "en": "6. Debriefing and evaluating results"
+      },
+      "body": {
+        "vi": "### 6.1. Đối chiếu với mục tiêu ban đầu\nHỏi mục tiêu đã được đáp ứng tới đâu, bằng chứng là gì và điều gì chưa biết. Đã đi đủ tuyến hoặc đủ giờ chỉ phản ánh hoạt động. Cần xem nguy cơ, khả năng tiếp cận, phản hồi cộng đồng và việc được giải quyết hoặc còn chờ.\n\nKhông có sự cố trong một lượt không tự chứng minh đã loại bỏ đe dọa. Sự cố cũng có thể dịch sang giờ khác hoặc nơi khác. Đánh giá cần nhiều nguồn và theo thời gian, tránh chọn riêng thông tin thuận lợi để kết luận thành công.\n\n### 6.2. Rà cách thực hiện\nXem hiểu lệnh, ngôn ngữ, liên lạc, điều hành, sự phù hợp phương tiện, y tế và bảo mật. Nghe cả thành viên ít nói và người có vai trò khác. Một quy trình có thể vận hành tốt với người chỉ huy nhưng gây khó cho lái xe hoặc phiên dịch; góc nhìn đó cần được ghi nhận.\n\nNếu có thương tích, vũ lực hoặc dấu hiệu vi phạm, thực hiện báo và thủ tục có thẩm quyền; rút kinh nghiệm không thay điều tra. Phân biệt trách nhiệm với đổ lỗi, đồng thời không dùng mục tiêu học tập để che sai phạm.\n\n### 6.3. Phục hồi trước lần tiếp theo\nKiểm tra quân số, sức khỏe, trang bị, dữ liệu và vật tư sau tuần tra. Sửa lỗi, bổ sung và xác nhận tình trạng. Người vừa làm nhiệm vụ dài có thể cần nghỉ trước khi nhận nhiệm vụ tiếp, đặc biệt lái xe hoặc vai trò đòi hỏi tập trung cao.\n\nBàn giao cần việc chưa xong, đầu mối, nguy cơ và giới hạn. Tổ sau không nên phải đoán vì sao tuyến đã đổi hoặc liệu yêu cầu hỗ trợ đã được tiếp nhận.\n\n### 6.4. Điều chỉnh có chủ đích\nChuyển bài học thành thay đổi mục tiêu, thời gian, phương thức, phối hợp hoặc huấn luyện theo thẩm quyền. Có người phụ trách và cách kiểm chứng. Nếu vấn đề là không tiếp cận được nhóm cần nghe, tăng số lượt cùng phương thức có thể không giải quyết; cần thay cách tiếp xúc hoặc nguồn hỗ trợ. Tuần tra tốt tạo vòng nối từ nhu cầu, hành động, thông tin tới quyết định cải thiện, thay vì chỉ lặp hành trình.",
+        "en": "### 6.1. Return to the original objective\nAssess achievement, evidence and uncertainty. Route completion and hours describe activity; examine risk, access, community feedback and resolved or pending needs.\n\nOne incident-free patrol does not prove removal of threats, which may shift in time or location. Assess across sources and periods without selecting only favourable information.\n\n### 6.2. Review performance\nConsider orders, language, communications, leadership, transport, medical support and confidentiality. Hear less-vocal members and different roles, including drivers and interpreters.\n\nForce, injury and suspected violations require proper reporting and authorized procedures. Debriefing does not replace investigation or justify concealing misconduct.\n\n### 6.3. Restore readiness\nCheck people, health, equipment, data and supplies, then correct and verify. Prolonged duty may require recovery before further driving or demanding assignments.\n\nTransfer outstanding work, contacts, threats and limitations. The next patrol should not have to guess why a route changed or whether assistance was accepted.\n\n### 6.4. Deliberate improvement\nAssign authorized changes to objectives, timing, methods, coordination or training, with verification. More patrols using the same approach may not reach an excluded group. Effective patrols connect needs, action, information and improved decisions rather than merely repeat journeys."
+      },
+      "sourceIds": [
+        "PATROL",
+        "CSC021"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "PATROL",
+      "title": "Patrols",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-030%20Patrols.pdf",
+      "format": "pdf",
+      "pages": 26,
+      "reading": "7–9; phần chuẩn bị và báo cáo",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "POLICY",
+      "title": "Policy 2024.14: Formed Police Units in United Nations Peace Operations",
+      "publisher": "United Nations DPO",
+      "year": "2024",
+      "url": "https://resourcehub01.blob.core.windows.net/$web/Policy%20and%20Guidance/corepeacekeepingguidance/Thematic%20Operational%20Activities/Police%20and%20Law%20Enforcement/2024.14%20Formed%20Police%20Units%20in%20United%20Nations%20Peace%20Operations.pdf",
+      "format": "pdf",
+      "pages": 34,
+      "reading": "Nguồn chính sách nền; hiệu lực 01/12/2024",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "CSC006",
+      "title": "Familiarization with the Mission Environment",
+      "publisher": "United Nations Police, FPU Command Staff Course",
+      "year": "2026",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-006%20Lesson%206%20Familiarization%20with%20Mission%20Area%20(LP).pdf",
+      "format": "pdf",
+      "checked": "2026-10-29"
+    },
+    {
+      "id": "CSC009",
+      "title": "FPU Command Staff Course 2026 · Lesson 9: Police Operations Orders",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-009%20Lesson%209%20Police%20Ops%20Orders%20(LP).pdf",
+      "year": "2026",
+      "publisher": "United Nations Police / DPO",
+      "format": "pdf"
+    },
+    {
+      "id": "CSC010",
+      "title": "FPU Command Staff Course 2026 · Lesson 10: FPU Tactical Planning",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-010%20Lesson%2010%20FPU%20Tactical%20Planning%20(LP).pdf",
+      "year": "2026",
+      "publisher": "United Nations Police / DPO",
+      "format": "pdf"
+    },
+    {
+      "id": "UNMAS",
+      "title": "Landmines, Explosive Remnants of War and IED Safety Handbook",
+      "publisher": "United Nations Mine Action Service",
+      "url": "https://www.unmas.org/sites/default/files/handbook_english.pdf",
+      "format": "pdf",
+      "checked": "2026-10-29"
+    },
+    {
+      "id": "CSC021",
+      "title": "Mission Reporting",
+      "publisher": "United Nations Police, FPU Command Staff Course",
+      "year": "2026",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-021%20Lesson%2021%20Mission%20Reporting%20(LP).pdf",
+      "format": "pdf",
+      "checked": "2026-10-29"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Một cuộc tuần tra hoàn thành đúng tuyến nhưng không trả lời được yêu cầu nhiệm vụ. Đánh giá thế nào?",
+        "en": "A patrol completed its route but did not address its task. How should it be assessed?"
+      },
+      "options": [
+        {
+          "vi": "Đủ thành công vì xe đã đi hết tuyến.",
+          "en": "Successful because the route was completed."
+        },
+        {
+          "vi": "Cần đánh giá kết quả nhiệm vụ và điều còn thiếu.",
+          "en": "Assess task outcomes and remaining gaps."
+        },
+        {
+          "vi": "Chỉ cần ảnh xuất phát và trở về.",
+          "en": "Departure and return photographs suffice."
+        }
+      ],
+      "correct": 1,
+      "chapter": 0,
+      "explanation": {
+        "vi": "Quãng đường là hoạt động; kết quả phải gắn mục đích được giao. Xem mục 1.",
+        "en": "Distance is an activity; outcomes must relate to the assigned purpose. See section 1."
+      }
+    },
+    {
+      "question": {
+        "vi": "Tuần tra chung với lực lượng khác có ý nghĩa gì về trách nhiệm?",
+        "en": "What does joint patrolling mean for responsibility?"
+      },
+      "options": [
+        {
+          "vi": "Mỗi bên được tự sử dụng quyền của bên kia.",
+          "en": "Each actor may use the other’s powers."
+        },
+        {
+          "vi": "Không cần phân công vì đã cùng đi.",
+          "en": "No roles are needed because they travel together."
+        },
+        {
+          "vi": "Phải làm rõ nhiệm vụ, quyền và cơ chế phối hợp của từng bên.",
+          "en": "Clarify each actor’s task, authority and coordination."
+        }
+      ],
+      "correct": 2,
+      "chapter": 0,
+      "explanation": {
+        "vi": "Cùng hiện diện không tạo chung mọi thẩm quyền. Xem mục 1.",
+        "en": "Shared presence does not create shared powers. See section 1."
+      }
+    },
+    {
+      "question": {
+        "vi": "Báo cáo tuyến cũ ghi đường đi được, nhưng vừa có mưa lớn. Cần gì?",
+        "en": "An old report shows a passable route, followed by heavy rain. What is needed?"
+      },
+      "options": [
+        {
+          "vi": "Cập nhật điều kiện và đánh giá tính khả thi trước nhiệm vụ.",
+          "en": "Update conditions and reassess feasibility."
+        },
+        {
+          "vi": "Đổi tuyến bất kỳ mà không báo.",
+          "en": "Change to any route without notification."
+        },
+        {
+          "vi": "Mặc định báo cáo cũ vẫn đủ.",
+          "en": "Assume the old report is sufficient."
+        }
+      ],
+      "correct": 0,
+      "chapter": 1,
+      "explanation": {
+        "vi": "Điều kiện môi trường có thể làm thay đổi giả định kế hoạch. Xem mục 2.",
+        "en": "Environmental changes can invalidate planning assumptions. See section 2."
+      }
+    },
+    {
+      "question": {
+        "vi": "SMEAC giúp gì cho chuẩn bị tuần tra?",
+        "en": "How does SMEAC support preparation?"
+      },
+      "options": [
+        {
+          "vi": "Tự cấp quyền khám xét ở mọi nơi.",
+          "en": "Grant search authority everywhere."
+        },
+        {
+          "vi": "Sắp xếp tình hình, nhiệm vụ, thực hiện, bảo đảm và chỉ huy liên lạc.",
+          "en": "Structure situation, mission, execution, support and command/communications."
+        },
+        {
+          "vi": "Thay thế mọi cập nhật địa bàn.",
+          "en": "Replace all local updates."
+        }
+      ],
+      "correct": 1,
+      "chapter": 1,
+      "explanation": {
+        "vi": "Khung phổ biến giúp đủ thông tin, không thay thẩm quyền hoặc đánh giá thực tế. Xem mục 2.",
+        "en": "The briefing structure supports completeness, not authority or current assessment. See section 2."
+      }
+    },
+    {
+      "question": {
+        "vi": "Lái xe chưa hiểu phương án liên lạc dự phòng. Có nên coi phổ biến xong?",
+        "en": "A driver does not understand backup communications. Is briefing complete?"
+      },
+      "options": [
+        {
+          "vi": "Có, nếu đã ký danh sách.",
+          "en": "Yes, with an attendance signature."
+        },
+        {
+          "vi": "Có, vì chỉ chỉ huy cần biết.",
+          "en": "Yes, only the commander needs it."
+        },
+        {
+          "vi": "Chưa; giải thích và xác nhận hiểu trước xuất phát.",
+          "en": "No; explain and confirm understanding before departure."
+        }
+      ],
+      "correct": 2,
+      "chapter": 2,
+      "explanation": {
+        "vi": "Người có vai trò phải hiểu phần mình cần thực hiện. Xem mục 3.",
+        "en": "Personnel must understand their relevant responsibilities. See section 3."
+      }
+    },
+    {
+      "question": {
+        "vi": "Bố trí nữ cảnh sát trong tuần tra nên theo cách nào?",
+        "en": "How should women police officers be assigned in a patrol?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ được làm việc phiên dịch bất kể chuyên môn.",
+          "en": "Only as interpreters regardless of qualifications."
+        },
+        {
+          "vi": "Chỉ để chụp ảnh có đủ thành phần.",
+          "en": "Only for representative photographs."
+        },
+        {
+          "vi": "Theo năng lực và vai trò thực chất trong toàn nhiệm vụ.",
+          "en": "Through substantive roles and competence across the task."
+        }
+      ],
+      "correct": 2,
+      "chapter": 2,
+      "explanation": {
+        "vi": "Sự tham gia có ý nghĩa cần trách nhiệm thực tế và điều kiện thực hiện. Xem mục 3.",
+        "en": "Meaningful participation requires real responsibilities and enabling conditions. See section 3."
+      }
+    },
+    {
+      "question": {
+        "vi": "Người dân cung cấp tin chưa kiểm chứng về một nhóm. Ghi thế nào?",
+        "en": "Residents provide an unverified claim about a group. How should it be recorded?"
+      },
+      "options": [
+        {
+          "vi": "Nêu là thông tin nhận được, mức xác minh và bảo vệ nguồn.",
+          "en": "Identify received information, verification status and source protection."
+        },
+        {
+          "vi": "Công khai tên người cung cấp cho mọi bên.",
+          "en": "Publish the informant’s identity to everyone."
+        },
+        {
+          "vi": "Ghi ngay như kết luận điều tra.",
+          "en": "Record it as an investigative finding."
+        }
+      ],
+      "correct": 0,
+      "chapter": 3,
+      "explanation": {
+        "vi": "Thông tin nhận được khác quan sát và kết luận đã xác minh. Xem mục 4.",
+        "en": "Received information differs from observation and verified findings. See section 4."
+      }
+    },
+    {
+      "question": {
+        "vi": "Có được gắn trợ giúp bảo vệ với việc người dân phải cung cấp tin không?",
+        "en": "May protection assistance be conditional on residents providing information?"
+      },
+      "options": [
+        {
+          "vi": "Có, nếu người dân đang cần giúp khẩn.",
+          "en": "Yes, when residents urgently need help."
+        },
+        {
+          "vi": "Không; trợ giúp theo nhu cầu và trách nhiệm được giao.",
+          "en": "No; assistance follows need and assigned responsibility."
+        },
+        {
+          "vi": "Có, để tăng lượng thông tin.",
+          "en": "Yes, to increase information collection."
+        }
+      ],
+      "correct": 1,
+      "chapter": 3,
+      "explanation": {
+        "vi": "Không dùng nhu cầu bảo vệ làm điều kiện ép cung cấp thông tin. Xem mục 4.",
+        "en": "Do not use protection needs to pressure people into supplying information. See section 4."
+      }
+    },
+    {
+      "question": {
+        "vi": "Tuần tra thấy nguy cơ khẩn đang xảy ra, báo thế nào?",
+        "en": "A patrol observes an urgent ongoing threat. How should it report?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ kể miệng khi trở về.",
+          "en": "Only mention it on return."
+        },
+        {
+          "vi": "Chờ báo cáo cuối ngày để đủ mọi chi tiết.",
+          "en": "Wait for end-of-day completeness."
+        },
+        {
+          "vi": "Báo khẩn theo kênh, sau đó cập nhật và hoàn thiện hồ sơ.",
+          "en": "Notify urgently, then update and complete records."
+        }
+      ],
+      "correct": 2,
+      "chapter": 4,
+      "explanation": {
+        "vi": "Báo sớm giúp đầu mối hành động trước khi có đầy đủ chi tiết. Xem mục 5.",
+        "en": "Early warning enables action before every detail is available. See section 5."
+      }
+    },
+    {
+      "question": {
+        "vi": "Đã chuyển thông tin cho đầu mối bảo vệ, còn cần gì?",
+        "en": "Information was referred to a protection focal point. What else matters?"
+      },
+      "options": [
+        {
+          "vi": "Mặc định mọi vấn đề đã được giải quyết.",
+          "en": "Assume the issue is resolved."
+        },
+        {
+          "vi": "Xác nhận tiếp nhận và trách nhiệm theo dõi phù hợp.",
+          "en": "Confirm receipt and appropriate follow-up responsibility."
+        },
+        {
+          "vi": "Gửi toàn bộ dữ liệu nhạy cảm cho nhóm rộng.",
+          "en": "Distribute all sensitive information broadly."
+        }
+      ],
+      "correct": 1,
+      "chapter": 4,
+      "explanation": {
+        "vi": "Chuyển tin không tự chứng minh đã tiếp nhận hoặc hỗ trợ hoàn tất. Xem mục 5.",
+        "en": "Referral does not establish receipt or completed assistance. See section 5."
+      }
+    },
+    {
+      "question": {
+        "vi": "Số cuộc tuần tra tăng nhưng nguy cơ chuyển sang khu bên cạnh. Cần làm gì?",
+        "en": "Patrol numbers rise but danger shifts to an adjacent area. What is needed?"
+      },
+      "options": [
+        {
+          "vi": "Đánh giá tác động và điều chỉnh cách tiếp cận.",
+          "en": "Assess impact and adjust the approach."
+        },
+        {
+          "vi": "Chỉ tăng số lần trên tuyến cũ.",
+          "en": "Only increase trips on the same route."
+        },
+        {
+          "vi": "Kết luận thành công từ số cuộc.",
+          "en": "Declare success from patrol counts."
+        }
+      ],
+      "correct": 0,
+      "chapter": 5,
+      "explanation": {
+        "vi": "Kết quả phải xét sự dịch chuyển nguy cơ và nhu cầu thực tế. Xem mục 6.",
+        "en": "Outcomes must consider displaced risk and actual needs. See section 6."
+      }
+    },
+    {
+      "question": {
+        "vi": "Rút kinh nghiệm tốt cần bao gồm ai?",
+        "en": "Who should contribute to a useful debrief?"
+      },
+      "options": [
+        {
+          "vi": "Các vai trò có thông tin liên quan, gồm lái xe và người hỗ trợ.",
+          "en": "Relevant roles, including drivers and support personnel."
+        },
+        {
+          "vi": "Chỉ người có cấp bậc cao nhất.",
+          "en": "Only the highest-ranking person."
+        },
+        {
+          "vi": "Chỉ người viết báo cáo cuối.",
+          "en": "Only the final report writer."
+        }
+      ],
+      "correct": 0,
+      "chapter": 5,
+      "explanation": {
+        "vi": "Thông tin vận hành thường nằm ở nhiều vai trò; cần tổng hợp khách quan. Xem mục 6.",
+        "en": "Operational information is distributed across roles and needs objective consolidation. See section 6."
+      }
+    }
+  ],
+  "updated": "2026-10-29",
+  "moduleId": "FPU-M4",
+  "moduleOrder": 2,
+  "lessonOrder": 4,
+  "sourceModule": {
+    "programme": "STM-FPU",
+    "number": 4,
+    "title": "Police tactics"
+  },
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "FPU-12-01",
+      "title": {
+        "vi": "1. Tuần tra phải có mục đích",
+        "en": "1. Patrols need a purpose"
+      },
+      "body": {
+        "vi": "### 1.1. Hiện diện để tạo kết quả\nTuần tra là hoạt động cảnh sát có tổ chức nhằm phục vụ một mục tiêu được giao, như bảo vệ dân thường, phòng ngừa hại, hỗ trợ tiếp cận an toàn hoặc hiểu tình hình. Không phải mọi chuyến xe ra khỏi doanh trại đều là một nhiệm vụ tuần tra có chất lượng. Cần xác định kết quả mong muốn, phạm vi, người chịu trách nhiệm và cách báo.\n\nHiện diện có thể giúp trấn an và ngăn ngừa, nhưng hiệu quả không tự phát sinh từ việc người dân thấy xe UN. Cách giao tiếp, khả năng phản hồi và hành động khi có nguy cơ ảnh hưởng niềm tin. Một tuyến được đi nhiều lần nhưng bỏ qua giờ người dân dễ bị hại có thể chưa đáp ứng nhu cầu thực.\n\n### 1.2. Phương thức theo nhiệm vụ\nTuần tra đi bộ, bằng phương tiện hoặc kết hợp có ưu điểm và giới hạn khác nhau về tiếp xúc, phạm vi, thời gian, điều kiện địa hình và bảo đảm. Năng lực đường thủy hoặc đường không cần tổ chức và chuyên môn tương ứng. Không chọn phương thức chỉ vì phương tiện đang sẵn hoặc vì cách đó dễ đếm số lượt.\n\nĐi bộ có thể tạo cơ hội trao đổi gần hơn, nhưng cần đánh giá tiếp cận, ngôn ngữ và hỗ trợ. Di chuyển bằng xe có thể tới xa hơn, nhưng không thay mọi tiếp xúc và quan sát. Người lập kế hoạch phải giải thích phương thức giúp đạt mục tiêu thế nào, với nguồn lực nào.\n\n### 1.3. Thẩm quyền không tăng theo hành trình\nTuần tra không tự cho phép dừng, khám, giữ người, vào cơ sở hoặc dùng vũ lực trong mọi hoàn cảnh. Mỗi biện pháp phát sinh cần căn cứ và giới hạn. Cán bộ phải hiểu mình đang trực tiếp thực hiện chức năng theo mandate hay hỗ trợ đối tác sở tại.\n\nCùng tuần tra không xóa trách nhiệm của từng bên. Nếu có dấu hiệu đối tác vi phạm, phải báo và sử dụng cơ chế phái bộ để đánh giá, điều chỉnh hỗ trợ; không bỏ qua vì nhiệm vụ đã được thống nhất trước.\n\n### 1.4. Chu trình liên tục\nTuần tra gồm lập kế hoạch, chuẩn bị thực tế, thực hiện và rút kinh nghiệm–báo cáo. Thông tin từ lần trước cần giúp lần sau, không chỉ đi vào lưu trữ. Chu trình này kết nối mục tiêu với quan sát và thay đổi; số lượt là một dữ liệu hoạt động, không phải toàn bộ kết quả bảo vệ.",
+        "en": "### 1.1. Presence towards a result\nA patrol is an organized police activity serving an assigned objective, such as civilian protection, harm prevention, safe access or situational understanding. Leaving camp does not itself establish a useful patrol. Define the result, scope, responsibility and reporting.\n\nVisibility can reassure and deter, but trust also depends on communication, response and action when threats emerge. Repeatedly covering a route while missing periods of greatest risk may fail the protective objective.\n\n### 1.2. Choose a suitable method\nFoot, vehicle and combined patrols offer different contact, reach, timing, terrain and support possibilities. Water or air capabilities require their own qualified arrangements. Do not select a method merely because equipment is available or activity counts are convenient.\n\nWalking can improve engagement but requires assessment of access, language and support. Vehicles extend reach without replacing all observation and contact. Explain how the method supports the objective with actual resources.\n\n### 1.3. Travel does not expand powers\nPatrolling does not automatically authorize stops, searches, custody, entry or force. Each measure requires grounds and limits. Distinguish direct mandated functions from host-State support.\n\nJoint activity retains separate responsibilities. Report partner misconduct concerns and use mission mechanisms to review support rather than ignore them because cooperation was pre-arranged.\n\n### 1.4. A continuing cycle\nConnect planning, practical preparation, conduct and debriefing/reporting. Previous information should inform subsequent tasking. Patrol counts describe activity, not the whole protection result."
+      },
+      "sourceIds": [
+        "PATROL",
+        "POLICY"
+      ]
+    },
+    {
+      "id": "FPU-12-02",
+      "title": {
+        "vi": "2. Lập kế hoạch theo nhu cầu và nguy cơ",
+        "en": "2. Planning around needs and risks"
+      },
+      "body": {
+        "vi": "### 2.1. Bắt đầu bằng câu hỏi cần trả lời\nLàm rõ ai cần được bảo vệ, vấn đề gì đang xảy ra, ở đâu, khi nào và thông tin nào còn thiếu. Không thu thập mọi thứ không có mục đích. Nếu nhiệm vụ là đánh giá tiếp cận một dịch vụ, cần hiểu nhóm nào đi được, nhóm nào gặp cản trở và trong thời gian nào; chỉ ghi tuyến thông suốt tại lúc xe đi qua có thể chưa đủ.\n\nThông tin từ cộng đồng, báo cáo trước, đầu mối địa bàn và thành phần liên quan cần được đánh giá về thời điểm, khả năng biết và độ độc lập. Nhiều lời kể trùng nguồn không trở thành nhiều xác nhận. Nêu rõ giả định và điều có thể làm quyết định thay đổi.\n\n### 2.2. Địa bàn và điều kiện thực hiện\nXem đường, thời tiết, ánh sáng, giao thông, hoạt động dân sự và nguy cơ được báo. Thông tin về hiểm họa nổ phải cập nhật qua đầu mối có trách nhiệm; không coi tuyến từng sử dụng là luôn an toàn. Cần biết giới hạn tiếp cận và cách xin hướng dẫn khi phát hiện bất thường.\n\nKhông xây kế hoạch chỉ theo bản đồ. Thời gian di chuyển, ngôn ngữ, khả năng liên lạc, người có nhu cầu hỗ trợ và năng lực tiếp nhận ảnh hưởng tính khả thi. Một điểm rất gần có thể khó tới trong mùa mưa; địa điểm xa hơn có thể cần hỗ trợ duy trì khác.\n\n### 2.3. Lệnh và phối hợp\nLệnh cần mục tiêu, phạm vi, phần việc, thời gian, giới hạn, bảo đảm và báo cáo, có thể tổ chức theo SMEAC. Phối hợp để tránh trùng hoặc bỏ khoảng trống với các lực lượng khác. Nếu làm cùng đối tác, xác định chỉ huy, điều phối, cơ chế vũ lực và chuyển trách nhiệm.\n\nKhông công khai lịch trình, nguồn tin và dữ liệu vị trí cho người không cần biết. Đồng thời, người cần phối hợp cứu hộ, y tế hoặc tiếp nhận phải có đủ thông tin theo vai trò. Bảo mật là phân phối đúng, không phải giữ mọi dữ liệu trong một cá nhân.\n\n### 2.4. Phương án khi điều kiện đổi\nXác định tình huống cần báo, điểm phải rà và ai quyết định. Tính hỏng phương tiện, người bị thương, mất liên lạc hoặc điều kiện tiếp cận khác dự kiến. Dự phòng phải có nguồn lực thật và được các bên hiểu, không chỉ một dòng “sẽ xử lý tùy tình hình”.",
+        "en": "### 2.1. Define the question\nIdentify people at risk, the problem, location, timing and information gaps. Collection needs a purpose. Assessing service access requires understanding who can travel, who faces barriers and when, rather than observing only an unobstructed road during one passage.\n\nEvaluate community accounts, previous reports and specialist information for freshness, access and independence. State assumptions and decision-changing conditions.\n\n### 2.2. Real operating conditions\nConsider roads, weather, visibility, traffic, civilian activity and reported hazards. Obtain explosive-hazard information through responsible channels; past use does not establish continuing safety. Know access limits and specialist referral arrangements.\n\nMaps alone cannot establish feasibility. Travel time, language, communications, assistance needs and receiving capacity matter. Nearby locations can become difficult under seasonal conditions.\n\n### 2.3. Orders and coordination\nUse clear objectives, scope, tasks, timing, limits, support and reporting, organized through SMEAC where suitable. Coordinate to prevent duplication and gaps. Joint patrols need explicit command, force and handover arrangements.\n\nProtect schedules, contributors and location data while giving support and receiving actors necessary information. Confidentiality means appropriate distribution, not dependence on one person's private knowledge.\n\n### 2.4. Changes and contingencies\nSpecify reporting triggers, review conditions and decision authority. Plan for breakdown, casualties, failed communications and altered access. Contingencies require actual resources and shared understanding."
+      },
+      "sourceIds": [
+        "PATROL",
+        "CSC006",
+        "CSC009",
+        "CSC010"
+      ]
+    },
+    {
+      "id": "FPU-12-03",
+      "title": {
+        "vi": "3. Chuẩn bị người, trang bị và thông tin",
+        "en": "3. Preparing people, equipment and information"
+      },
+      "body": {
+        "vi": "### 3.1. Kiểm tra đúng vai trò\nĐối chiếu người thực có, sức khỏe, mệt mỏi, chuyên môn và phần việc. Người chỉ huy cần biết ai phụ trách liên lạc, y tế, lái xe, ghi chép hoặc tiếp xúc theo kế hoạch. Bố trí phụ nữ vào các vai trò có năng lực và cơ hội thực chất, không mặc định chỉ làm phiên dịch hoặc giao tiếp với phụ nữ.\n\nCần người có thể sử dụng ngôn ngữ công tác và hỗ trợ giao tiếp địa phương khi phù hợp. Phiên dịch phải hiểu giới hạn, bảo mật và cách xử lý khi thông tin nhạy cảm; không coi họ chỉ là phương tiện chuyển từ mà không có nguy cơ riêng.\n\n### 3.2. Chức năng hơn là danh sách\nKiểm tra phương tiện, thông tin, bảo hộ, bộ sơ cứu và vật tư cần theo nhiệm vụ. Xác nhận thiết bị hoạt động, đủ nguồn điện hoặc nhiên liệu và có người dùng đúng. Không lấy giấy đã phát làm bằng chứng sẵn sàng. Mức dự trữ và phương án bổ sung cần phù hợp thời gian, điều kiện và hướng dẫn.\n\nNgười lái phải đủ điều kiện, biết nhiệm vụ và có cơ hội nêu hạn chế phương tiện. Hỏng hóc ảnh hưởng an toàn phải được xử lý hoặc báo để đổi quyết định, không giao trách nhiệm giữ đúng giờ cho người lái bằng mọi giá.\n\n### 3.3. Phổ biến và kiểm tra hiểu\nCác thành viên cần biết mục tiêu, phạm vi, phần việc, giới hạn, cách báo và kế nhiệm. Yêu cầu nhắc lại điểm quan trọng khi cần, nhất là phương án thay đổi. Người chỉ nhớ giờ xuất phát mà không biết mục tiêu chưa được chuẩn bị đủ.\n\nKiểm tra thông tin giữa lệnh, danh sách, tài liệu và đầu mối có cùng phiên bản. Thống nhất tín hiệu, cách xác nhận và ưu tiên tin khẩn. Không để quy ước của một đơn vị được hiểu là đương nhiên áp dụng cho lực lượng phối hợp.\n\n### 3.4. Xác nhận trước xuất phát\nBáo điểm bắt đầu theo cơ chế và xác nhận các điều kiện thiết yếu. Thiếu điều kiện phải được nêu với ảnh hưởng cụ thể, không chỉ báo “chưa đủ”. Người giao nhiệm vụ cần biết thiếu đó làm giảm phần việc nào và có lựa chọn gì. Bảng kiểm là công cụ tổ chức, không thay tư duy về tính khả thi của nhiệm vụ.",
+        "en": "### 3.1. Role-based readiness\nVerify actual personnel, health, fatigue, qualifications and assignments, including communications, medical care, driving, recording and engagement. Give women meaningful opportunities across qualified functions rather than stereotyped assignments.\n\nArrange working-language and local-language support as appropriate. Interpreters need confidentiality, role and sensitive-information guidance and consideration of their own exposure risks.\n\n### 3.2. Function beyond inventory\nCheck vehicles, communications, protection, first-aid equipment and task-specific supplies for operation, power or fuel and competent users. Issue records do not establish readiness. Match reserves and replenishment to conditions and instructions.\n\nQualified drivers must understand the task and report vehicle limitations. Unsafe defects require correction or changed decisions rather than pressure to maintain timing at any cost.\n\n### 3.3. Brief and check\nMembers need objectives, scope, roles, limits, reporting and succession. Check understanding of important conditions and alternatives; departure time alone is insufficient.\n\nReconcile versions across orders, lists, materials and contacts. Agree signals, acknowledgement and emergency priority across participating actors.\n\n### 3.4. Confirm departure conditions\nReport departure as required and confirm essential readiness. Explain shortages through task implications and alternatives. A checklist organizes preparation without replacing feasibility judgment."
+      },
+      "sourceIds": [
+        "PATROL",
+        "POLICY"
+      ]
+    },
+    {
+      "id": "FPU-12-04",
+      "title": {
+        "vi": "4. Thực hiện: Quan sát, tiếp xúc và bảo vệ",
+        "en": "4. Conduct: Observation, engagement and protection"
+      },
+      "body": {
+        "vi": "### 4.1. Quan sát có mục đích nhưng không đóng khung\nGhi điều liên quan mục tiêu: Tình trạng tiếp cận, hoạt động, dấu hiệu nguy cơ và nhu cầu hỗ trợ. Giữ cởi mở với thông tin mới ngoài giả định ban đầu. Nếu chỉ tìm điều đã được dự đoán, tổ có thể bỏ qua nhóm chịu hại chưa từng được ghi nhận.\n\nMô tả cụ thể hành vi và điều kiện, tránh suy tính cách hoặc ý định từ hình thức. “Ba người rời khu vực khi xe tới” khác với kết luận họ có ý đồ phạm tội. Nhận định cần được nêu là nhận định, với cơ sở và giới hạn.\n\n### 4.2. Giao tiếp tạo niềm tin\nTự giới thiệu, giải thích vai trò và hỏi theo mục đích, dùng ngôn ngữ dễ hiểu. Lắng nghe người khó lên tiếng, không chỉ người có quyền lực hoặc nói ngôn ngữ thuận tiện. Tôn trọng việc người dân không muốn trao đổi; được bảo vệ không phụ thuộc cung cấp tin.\n\nKhông hứa điều đơn vị không thể thực hiện. Giải thích cách chuyển yêu cầu và việc tiếp theo trong phạm vi có thể. Không công khai danh tính, chụp ảnh hoặc đưa người ra trước nhóm để chứng minh tổ đã thu được thông tin. Một tiếp xúc có vẻ thuận lợi có thể làm tăng nguy cơ trả đũa sau khi tuần tra rời đi.\n\n### 4.3. Khi gặp nguy cơ hoặc cần chăm sóc\nBáo sự kiện quan trọng sớm, tổ chức đáp ứng thuộc thẩm quyền và gọi hỗ trợ phù hợp. Không đợi trở về mới báo một đe dọa có thể gây hại ngay. Với người bị thương, hỗ trợ an toàn trong năng lực và kết nối y tế; với trẻ hoặc người cần bảo vệ, dùng đầu mối chuyên môn.\n\nKhi thấy vật nghi nổ, không tiếp cận, chạm hoặc tự di chuyển để mở đường. Cảnh báo, giữ an toàn và nhận hướng dẫn. Không biến mục tiêu hoàn tất tuyến thành lý do đi vào nguy cơ chưa được quản lý.\n\n### 4.4. Giữ tổ và khả năng liên lạc\nTheo dõi quân số, tình trạng người, phương tiện và liên hệ. Thay đổi phần việc hoặc tách người cần được cho phép, ghi và xác nhận. Khi phải điều chỉnh, nêu lý do, ảnh hưởng và yêu cầu quyết định; không tự đổi mục tiêu chỉ vì có việc mới hấp dẫn hơn. Các kỹ thuật thực hành di chuyển và kiểm soát cần theo huấn luyện riêng.",
+        "en": "### 4.1. Purposeful, open observation\nRecord access, activity, risks and needs relevant to the objective while remaining open to unexpected information. Searching only for predicted facts can miss previously unheard groups.\n\nDescribe behaviour and conditions rather than infer intent from appearance. Three people leaving as a vehicle arrives is an observation, not proof of criminal purpose. Label assessments and their limits.\n\n### 4.2. Engagement and trust\nIntroduce the role, explain purpose and communicate clearly. Hear less-accessible people as well as leaders and convenient-language speakers. Refusal to share information does not remove protection rights.\n\nDo not promise unavailable help. Explain feasible referral and follow-up. Avoid exposing contributors through photographs or public interviews. Apparent cooperation can create retaliation risks after departure.\n\n### 4.3. Protection and care\nReport urgent threats promptly, take authorized protective action and obtain support. Do not defer urgent warning until return. Provide safe trained first aid and refer child or other specialist protection needs.\n\nDo not approach or move suspected explosive items to clear a route. Warn, remain safe and seek competent guidance. Completing a route cannot justify unmanaged danger.\n\n### 4.4. Team continuity\nTrack people, condition, transport and contact. Separation or changed assignments need authorization and confirmation. Explain reasons, implications and decisions needed when adjusting. Do not substitute a different objective merely because another activity appears interesting. Movement and control techniques require practical instruction."
+      },
+      "sourceIds": [
+        "PATROL",
+        "UNMAS",
+        "POLICY"
+      ]
+    },
+    {
+      "id": "FPU-12-05",
+      "title": {
+        "vi": "5. Báo cáo và chuyển thông tin thành đáp ứng",
+        "en": "5. Reporting and connecting information to action"
+      },
+      "body": {
+        "vi": "### 5.1. Tin khẩn khác bản báo cáo định kỳ\nCảnh báo về nguy cơ tức thời, sự cố nghiêm trọng hoặc nhu cầu cứu giúp phải theo cơ chế báo nhanh. Báo cáo sau tuần tra tổ chức đầy đủ hơn mục tiêu, hành trình trong phạm vi cần ghi, hoạt động, quan sát, tiếp xúc, kết quả và việc còn chờ. Bản đầy đủ không thay thông báo khẩn đã phải gửi.\n\nThời gian, địa điểm, người liên quan và nguồn biết cần rõ. Nếu mốc chỉ ước lượng, nêu mức chắc chắn thay vì thêm con số giả. Thông tin chưa xác minh vẫn có thể cần báo, nhưng phải gắn trạng thái và nhu cầu kiểm tra.\n\n### 5.2. Tách ba lớp thông tin\n**Quan sát:** Điều tổ trực tiếp thấy, nghe hoặc ghi nhận. **Thông tin được báo:** Điều người khác cung cấp, kèm đánh giá nguồn phù hợp bảo mật. **Nhận định:** Ý nghĩa rút ra và cơ sở. Ba lớp giúp người nhận sử dụng đúng, không biến lời kể thành sự thật đã chứng minh.\n\nTránh ngôn ngữ định tội, quy cả nhóm hoặc kết luận y khoa ngoài chuyên môn. Không ghép nhiều sự kiện khác thời gian thành một bức tranh hiện tại mà không nói rõ. Dữ liệu cũ có thể hữu ích để so sánh nhưng cần nhãn thời gian.\n\n### 5.3. Chuyển đúng người và theo dõi\nThông tin có thể cần tuyến tác nghiệp, nhân quyền, bảo vệ trẻ, y tế hoặc đầu mối khác. Chuyển theo cơ chế và phạm vi cần biết, xác nhận tiếp nhận khi quan trọng. Không gửi mọi dữ liệu nhận dạng lên một nhóm rộng để mong ai đó xử lý.\n\nMỗi yêu cầu còn chờ nên có đầu mối, trạng thái và bước tiếp theo. Đã chuyển chưa có nghĩa người dân đã được hỗ trợ. Khi có phản hồi phù hợp, kết nối lại để giữ kỳ vọng thực tế, không hứa kết quả trước khi có cơ sở.\n\n### 5.4. Bảo vệ hồ sơ và nguồn\nGhi, lưu và chuyển qua hệ thống được phép. Không tự đăng hành trình, ảnh, tên người dân hoặc thông tin nhạy cảm. Khi thiết bị mất hoặc dữ liệu bị lộ, báo theo cơ chế; không xóa dấu vết hoặc tự xử lý ngoài thẩm quyền để tránh ảnh hưởng thành tích. Chất lượng báo cáo gồm cả độ tin cậy và an toàn của thông tin.",
+        "en": "### 5.1. Urgent and routine reporting differ\nImmediate threats, serious incidents and rescue needs require rapid reporting. The later patrol report organizes objectives, relevant movement, activities, observations, contacts, results and outstanding action. It does not replace urgent notification.\n\nClarify times, locations, involved people and knowledge sources. Label estimates and unverified material rather than invent precision. Uncertainty can coexist with a need for warning.\n\n### 5.2. Separate information layers\n**Observation** records direct knowledge. **Received information** identifies what others provided with appropriate source protection. **Assessment** explains interpretation and grounds. Distinguishing them supports sound decisions.\n\nAvoid guilt assumptions, group generalizations and medical conclusions beyond competence. Do not merge different periods without explaining their timing.\n\n### 5.3. Route and follow up\nDifferent issues may require operations, rights, child protection, medical or other channels. Share on a need-to-know basis and confirm critical receipt. Broad distribution of identifying details is not effective referral.\n\nAssign a contact, status and next step for outstanding requests. Forwarding is not completed assistance. Provide appropriate feedback without promising unsupported outcomes.\n\n### 5.4. Protect records and contributors\nUse authorized recording, storage and transfer systems. Do not publish routes, images or identities independently. Report device loss or disclosure rather than concealing it. Reliable reporting includes information safety."
+      },
+      "sourceIds": [
+        "CSC021",
+        "PATROL"
+      ]
+    },
+    {
+      "id": "FPU-12-06",
+      "title": {
+        "vi": "6. Rút kinh nghiệm và đánh giá kết quả",
+        "en": "6. Debriefing and evaluating results"
+      },
+      "body": {
+        "vi": "### 6.1. Đối chiếu với mục tiêu ban đầu\nHỏi mục tiêu đã được đáp ứng tới đâu, bằng chứng là gì và điều gì chưa biết. Đã đi đủ tuyến hoặc đủ giờ chỉ phản ánh hoạt động. Cần xem nguy cơ, khả năng tiếp cận, phản hồi cộng đồng và việc được giải quyết hoặc còn chờ.\n\nKhông có sự cố trong một lượt không tự chứng minh đã loại bỏ đe dọa. Sự cố cũng có thể dịch sang giờ khác hoặc nơi khác. Đánh giá cần nhiều nguồn và theo thời gian, tránh chọn riêng thông tin thuận lợi để kết luận thành công.\n\n### 6.2. Rà cách thực hiện\nXem hiểu lệnh, ngôn ngữ, liên lạc, điều hành, sự phù hợp phương tiện, y tế và bảo mật. Nghe cả thành viên ít nói và người có vai trò khác. Một quy trình có thể vận hành tốt với người chỉ huy nhưng gây khó cho lái xe hoặc phiên dịch; góc nhìn đó cần được ghi nhận.\n\nNếu có thương tích, vũ lực hoặc dấu hiệu vi phạm, thực hiện báo và thủ tục có thẩm quyền; rút kinh nghiệm không thay điều tra. Phân biệt trách nhiệm với đổ lỗi, đồng thời không dùng mục tiêu học tập để che sai phạm.\n\n### 6.3. Phục hồi trước lần tiếp theo\nKiểm tra quân số, sức khỏe, trang bị, dữ liệu và vật tư sau tuần tra. Sửa lỗi, bổ sung và xác nhận tình trạng. Người vừa làm nhiệm vụ dài có thể cần nghỉ trước khi nhận nhiệm vụ tiếp, đặc biệt lái xe hoặc vai trò đòi hỏi tập trung cao.\n\nBàn giao cần việc chưa xong, đầu mối, nguy cơ và giới hạn. Tổ sau không nên phải đoán vì sao tuyến đã đổi hoặc liệu yêu cầu hỗ trợ đã được tiếp nhận.\n\n### 6.4. Điều chỉnh có chủ đích\nChuyển bài học thành thay đổi mục tiêu, thời gian, phương thức, phối hợp hoặc huấn luyện theo thẩm quyền. Có người phụ trách và cách kiểm chứng. Nếu vấn đề là không tiếp cận được nhóm cần nghe, tăng số lượt cùng phương thức có thể không giải quyết; cần thay cách tiếp xúc hoặc nguồn hỗ trợ. Tuần tra tốt tạo vòng nối từ nhu cầu, hành động, thông tin tới quyết định cải thiện, thay vì chỉ lặp hành trình.",
+        "en": "### 6.1. Return to the original objective\nAssess achievement, evidence and uncertainty. Route completion and hours describe activity; examine risk, access, community feedback and resolved or pending needs.\n\nOne incident-free patrol does not prove removal of threats, which may shift in time or location. Assess across sources and periods without selecting only favourable information.\n\n### 6.2. Review performance\nConsider orders, language, communications, leadership, transport, medical support and confidentiality. Hear less-vocal members and different roles, including drivers and interpreters.\n\nForce, injury and suspected violations require proper reporting and authorized procedures. Debriefing does not replace investigation or justify concealing misconduct.\n\n### 6.3. Restore readiness\nCheck people, health, equipment, data and supplies, then correct and verify. Prolonged duty may require recovery before further driving or demanding assignments.\n\nTransfer outstanding work, contacts, threats and limitations. The next patrol should not have to guess why a route changed or whether assistance was accepted.\n\n### 6.4. Deliberate improvement\nAssign authorized changes to objectives, timing, methods, coordination or training, with verification. More patrols using the same approach may not reach an excluded group. Effective patrols connect needs, action, information and improved decisions rather than merely repeat journeys."
+      },
+      "sourceIds": [
+        "PATROL",
+        "CSC021"
+      ]
+    }
+  ],
+  "source_ids": [
+    "PATROL",
+    "POLICY",
+    "CSC006",
+    "CSC009",
+    "CSC010",
+    "UNMAS",
+    "CSC021"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "Patrol",
+      "definition": {
+        "vi": "Tuần tra có mục đích và nhiệm vụ xác định.",
+        "en": "Patrolling with a defined purpose and task."
+      }
+    },
+    {
+      "term": "SMEAC",
+      "definition": {
+        "vi": "Tình hình; nhiệm vụ; thực hiện; bảo đảm; chỉ huy và liên lạc.",
+        "en": "Situation; mission; execution; administration/logistics; command and communications."
+      }
+    },
+    {
+      "term": "Observation",
+      "definition": {
+        "vi": "Điều trực tiếp quan sát, tách với suy luận.",
+        "en": "Directly observed information, separate from inference."
+      }
+    },
+    {
+      "term": "Referral",
+      "definition": {
+        "vi": "Chuyển thông tin hoặc nhu cầu tới đầu mối phù hợp.",
+        "en": "Referral of information or needs to a suitable actor."
+      }
+    },
+    {
+      "term": "Debriefing",
+      "definition": {
+        "vi": "Tổng hợp diễn biến, kết quả và việc cần sửa.",
+        "en": "Review of events, outcomes and needed corrections."
+      }
+    }
+  ],
+  "diagram": null,
+  "contentVersion": "batch-05-expanded-v1-2026-10-29",
+  "sourceIntro": {
+    "vi": "Tài liệu nền, đối chiếu theo mục và ghi chú phiên bản. Lời giảng, bản Anh, câu hỏi và lời giải thích hình được biên soạn cho Handbook. Mã bài là cách tổ chức của Handbook.",
+    "en": "Foundational materials, section mapping and edition notes. Teaching, English text, questions and figure commentary are authored for the Handbook. Lesson numbering belongs to the Handbook."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Bản biên soạn đợt 5 ngày 29/10/2026, chờ người dùng duyệt; không phải ấn phẩm hoặc bản dịch chính thức UN. Nguồn theo mục chỉ nền kiến thức, không phải tuyên bố mọi câu là trích nguyên văn.",
+      "Nội dung không thay mandate, DUF, SOP và phương án hiện hành tại phái bộ; không tự trao quyền hoặc chứng nhận năng lực thực hành. Không kế thừa hướng dẫn chiến thuật, cự ly, tốc độ hoặc cơ chế quản trị cũ thành quy định chung.",
+      "Nguồn STM 2015 được đối chiếu với Policy on Formed Police Units 2024.14 và các bài CSC UNPOL 2026 phù hợp. Chỉ thị, trách nhiệm và quy trình áp dụng cần được xác nhận tại địa bàn. Hình giữ nguyên chữ gốc; lời giảng Việt–Anh xác định cách đọc trong bài.",
+      "UNMAS được đối chiếu qua nội dung web chính thức; gói không chứa bản PDF UNMAS. Nội dung chỉ dùng nguyên tắc tránh tiếp cận và can thiệp vật nghi nổ, không quy định cự ly an toàn hay thao tác dò, gỡ. Phải theo huấn luyện và hướng dẫn chuyên trách tại địa bàn."
+    ],
+    "en": [
+      "Batch 5 authored on 29 October 2026 for user review; not an official UN publication or translation. Section mapping identifies foundations, not verbatim support for every sentence.",
+      "Content does not replace applicable mandate, DUF, SOPs or plans and grants neither powers nor practical certification. Historical tactics, distances, speeds and governance are not adopted as universal requirements.",
+      "STM 2015 foundations are cross-checked with FPU Policy 2024.14 and relevant UNPOL CSC 2026 lessons. Applicable directions, responsibilities and procedures require local confirmation. Figures preserve original wording with bilingual teaching commentary.",
+      "UNMAS was consulted through official web content; its PDF is not included. Teaching uses non-approach and non-interference principles without prescribing safety distances or probing/disposal techniques. Follow local training and specialist direction."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Tuần tra bắt đầu từ câu hỏi cần giải quyết và kết thúc bằng kết quả được kiểm chứng. Bài học liên kết lập kế hoạch, chuẩn bị, tiếp xúc cộng đồng, báo cáo và điều chỉnh hoạt động.",
+      "en": "A patrol begins with a task question and ends with verified outcomes. Connect planning, preparation, community engagement, reporting and operational adjustment."
+    },
+    "subtitle": {
+      "vi": "Mục đích rõ · Quan sát có căn cứ · Báo cáo để hành động",
+      "en": "Clear purpose · Grounded observation · Actionable reporting"
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích: Tuần tra phải có mục đích.",
+        "Giải thích: Lập kế hoạch theo nhu cầu và nguy cơ.",
+        "Giải thích: Chuẩn bị người, trang bị và thông tin.",
+        "Giải thích: Thực hiện: Quan sát, tiếp xúc và bảo vệ.",
+        "Giải thích: Báo cáo và chuyển thông tin thành đáp ứng.",
+        "Giải thích: Rút kinh nghiệm và đánh giá kết quả."
+      ],
+      "en": [
+        "Explain: Patrols need a purpose.",
+        "Explain: Planning around needs and risks.",
+        "Explain: Preparing people, equipment and information.",
+        "Explain: Conduct: Observation, engagement and protection.",
+        "Explain: Reporting and connecting information to action.",
+        "Explain: Debriefing and evaluating results."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc sáu mục trong tab Nội dung bài học và lời giảng kèm hình; bấm hình để xem lớn. Làm 12 câu kiểm tra nhận thức, đọc giải thích và trở lại mục liên quan. VI/EN giữ lựa chọn trong phiên; tải lại trang bắt đầu lại.",
+      "en": "Read six content sections and figure commentary; click figures to enlarge. Complete 12 knowledge questions, review explanations and revisit relevant sections. VI/EN retains selections in the session; reloading starts again."
+    }
+  },
+  "figures": [
+    {
+      "chapter": 0,
+      "image": "assets/lesson-figures/batch-05/PATROL-p10.png",
+      "caption": {
+        "vi": "Hình 1. Bốn giai đoạn của một nhiệm vụ tuần tra",
+        "en": "Figure 1. Four phases of a patrol"
+      },
+      "alt": {
+        "vi": "Hình 1. Bốn giai đoạn của một nhiệm vụ tuần tra",
+        "en": "Figure 1. Four phases of a patrol"
+      },
+      "explanation": {
+        "vi": "Đọc hình từ mục đích nhiệm vụ: Kế hoạch đặt câu hỏi; chuẩn bị tạo khả năng; thực hiện thu nhận và xử lý thông tin; rút kinh nghiệm đánh giá kết quả. Khi điều kiện thay đổi, quay lại cập nhật kế hoạch thay vì coi bốn giai đoạn là đường một chiều.",
+        "en": "Planning frames the task; preparation establishes capability; conduct gathers and acts on information; debriefing assesses outcomes. Changed conditions require returning to planning rather than following a rigid one-way sequence."
+      },
+      "sourceLabel": "United Nations, FPU STM · Patrols · 2015",
+      "pdfPage": 10
+    },
+    {
+      "chapter": 5,
+      "image": "assets/lesson-figures/batch-05/PATROL-p25.png",
+      "caption": {
+        "vi": "Hình 2. Các nội dung cần kết nối khi tổng kết tuần tra",
+        "en": "Figure 2. Connections in patrol review"
+      },
+      "alt": {
+        "vi": "Hình 2. Các nội dung cần kết nối khi tổng kết tuần tra",
+        "en": "Figure 2. Connections in patrol review"
+      },
+      "explanation": {
+        "vi": "Dùng các ý trên hình để rà lại cả nhiệm vụ, không chỉ phần đã đi trên đường. Hỏi thêm: Điều gì được xác nhận, ai cần tiếp tục xử lý và người cùng trang bị đã sẵn sàng chưa. Tổng kết có ích phải dẫn tới cập nhật cụ thể cho lần sau.",
+        "en": "Use the prompts to review the whole task, not just movement. Ask what was confirmed, who follows up and whether people and equipment are ready. Useful review produces specific changes for the next patrol."
+      },
+      "sourceLabel": "United Nations, FPU STM · Patrols · 2015",
+      "pdfPage": 25
+    }
+  ],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft",
+  "figureZoom": true
+}

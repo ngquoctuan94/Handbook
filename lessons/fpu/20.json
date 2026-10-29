@@ -1,0 +1,633 @@
+{
+  "schemaVersion": 2,
+  "id": "FPU-20",
+  "area": "fpu",
+  "groupKey": "FPU-M5",
+  "group": {
+    "vi": "Quản lý trật tự công cộng",
+    "en": "Public order management"
+  },
+  "title": {
+    "vi": "Các tình huống POM đặc thù",
+    "en": "Public order in specific settings"
+  },
+  "summary": {
+    "vi": "Bài học FPU-20 tập trung vào chủ đề: Các tình huống POM đặc thù. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+    "en": "Lesson FPU-20 covers the following topic: Public order in specific settings. It connects concepts with professional responsibilities."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 6,
+  "sourceKey": "SIT",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-047%20Sit%20in.pdf",
+  "order": 307,
+  "sections": [
+    {
+      "id": "FPU-20-01",
+      "title": {
+        "vi": "1. Vì sao cần phân biệt từng bối cảnh?",
+        "en": "1. Different settings require different analysis"
+      },
+      "body": {
+        "vi": "Biểu tình ngồi, chiếm giữ địa điểm và sự cố trong cơ sở giam giữ có thể cùng liên quan trật tự nhưng khác về thẩm quyền, người bị ảnh hưởng và nguồn hỗ trợ. Bài giữ ba chương riêng; không dùng một quy trình can thiệp chung cho mọi trường hợp.\n\nMục tiêu là đọc tình hình, xác định cơ sở và phối hợp. Các kỹ thuật cưỡng chế di chuyển, khống chế hoặc can thiệp vào không gian có nguy cơ cao thuộc huấn luyện chuyên môn, không tự học qua bản đọc này.\n\n### 1.1. Cùng câu hỏi nền, khác căn cứ\n\nVới từng bối cảnh, xác định sự việc thật, mục tiêu hợp pháp, người có quyền yêu cầu, giới hạn, người cần bảo vệ và nơi tiếp nhận. Tên gọi ban đầu không đủ chọn biện pháp. Khôi phục sử dụng địa điểm, bảo vệ người khỏi nguy hiểm và xử lý hành vi có mục tiêu khác nhau; không gộp để bỏ qua quyền hoặc trách nhiệm chăm sóc.",
+        "en": "Sit-ins, occupied premises and detention incidents differ in authority, affected people and support. Keep their analysis distinct rather than using one universal intervention process. Establish facts, legal grounds and coordination. Coercive physical interventions require approved specialist competence.\n\n### 1.1. Shared questions, distinct grounds\n\nFor each setting, establish facts, lawful objective, requesting authority, limits, protection needs and reception. The initial label cannot select the measure. Restoring use of premises, rescuing people and addressing offending have different purposes. Do not merge them in ways that bypass rights or care. The same location may involve several responsibilities that need separate decisions and coordination."
+      },
+      "sourceIds": [
+        "SIT",
+        "EVICT",
+        "PRISON",
+        "LLW"
+      ]
+    },
+    {
+      "id": "FPU-20-02",
+      "title": {
+        "vi": "2. Biểu tình ngồi: Hành vi và nhu cầu",
+        "en": "2. Sit-ins: Conduct and practical needs"
+      },
+      "body": {
+        "vi": "Đánh giá hiện trường, tiếp xúc, tìm khả năng tự nguyện rời hoặc giải pháp thống nhất phù hợp trước biện pháp được phép tiếp theo. Tư thế ngồi hoặc không muốn rời chưa tự là bạo lực. Làm rõ ai có quyền yêu cầu, nhu cầu sử dụng lối vào, người cần hỗ trợ, đầu mối đối thoại và phương án giảm ảnh hưởng.\n\nĐánh giá thay đổi hành vi theo cá nhân, nguy cơ cụ thể. Thông báo phải giúp người nghe hiểu và có khả năng thực hiện, không chỉ xác nhận đã phát loa.",
+        "en": "Assess the location, engage and explore voluntary departure or a suitable agreed solution before further authorized measures. Sitting or refusing to leave is not automatically violence. Establish who can lawfully request departure, the access needs, assistance requirements, dialogue contact and feasible alternatives. Assess each person’s changed conduct individually and ensure messages can be understood and acted upon."
+      },
+      "sourceIds": [
+        "SIT",
+        "EVICT",
+        "PRISON",
+        "LLW"
+      ]
+    },
+    {
+      "id": "FPU-20-03",
+      "title": {
+        "vi": "3. Địa điểm bị chiếm giữ: Xác định thẩm quyền",
+        "en": "3. Occupied premises: Establish authority"
+      },
+      "body": {
+        "vi": "Yêu cầu cưỡng chế rời địa điểm phải qua cơ quan có thẩm quyền và tuyến chỉ huy phái bộ. Quyền quản lý tài sản không tự tạo quyền giao nhiệm vụ cho UNPOL. Phân biệt đưa người rời vì chiếm giữ với sơ tán để bảo vệ họ. Xem đồng thời mục tiêu hợp pháp, an toàn, tài sản, nơi tiếp nhận và trách nhiệm còn lại, không chỉ số người đã ra ngoài.",
+        "en": "An eviction request must come through competent authority and mission command. A property manager’s claim does not itself authorize UNPOL action. Distinguish removal for an occupation issue from evacuation to protect people. Consider lawful restoration of access, safety, property care, reception and unfinished responsibilities, not only the number removed."
+      },
+      "sourceIds": [
+        "SIT",
+        "EVICT",
+        "PRISON",
+        "LLW"
+      ]
+    },
+    {
+      "id": "FPU-20-04",
+      "title": {
+        "vi": "4. Sự cố trong cơ sở giam giữ",
+        "en": "4. Incidents in detention facilities"
+      },
+      "body": {
+        "vi": "Làm rõ cơ sở pháp lý, sự việc thực tế, điều kiện vật chất, cơ quan quản lý và hỗ trợ y tế, cháy. Nhãn ban đầu như bạo loạn có thể chưa phân biệt phản đối, cháy, đánh nhau hoặc giữ người trái ý muốn; cần xác minh trước lựa chọn.\n\nNgười bị giam không tự do rời đi nên phải xem tiếp cận y tế, thông khí và trách nhiệm quản lý. Chất kích thích hóa học trong không gian kín thiếu thông gió hoặc không có lối ra khả thi có nguy cơ nghiêm trọng và chịu giới hạn nghiêm ngặt. Phối hợp chuyên môn là thiết yếu.",
+        "en": "Establish legal authority, the actual event, physical conditions, responsible prison management and medical and fire support. An initial riot label may conceal protest, fire, fighting or hostage-taking and requires verification.\n\nDetainees cannot freely leave. Consider medical access, ventilation and custodial responsibility. Chemical irritants in enclosed spaces without adequate ventilation or viable exit present serious risks and are subject to strict restrictions. Specialist coordination is essential."
+      },
+      "sourceIds": [
+        "SIT",
+        "EVICT",
+        "PRISON",
+        "LLW"
+      ]
+    },
+    {
+      "id": "FPU-20-05",
+      "title": {
+        "vi": "5. So sánh yêu cầu quyết định",
+        "en": "5. Compare the decision requirements"
+      },
+      "body": {
+        "vi": "Với biểu tình ngồi, làm rõ hành vi và ảnh hưởng. Với địa điểm chiếm giữ, xác định thẩm quyền, mục tiêu hợp pháp. Với giam giữ, xác minh sự việc và cơ quan quản lý. Phân biệt không hợp tác với bạo lực; cưỡng chế rời với sơ tán cứu người; phản đối với nguy cơ cháy, y tế. Mỗi bối cảnh cần phối hợp và bảo đảm riêng.",
+        "en": "For a sit-in, examine conduct and actual effects. For occupied premises, establish competent authority and the lawful objective. For detention, establish the event and custodial authority. Distinguish non-cooperation from violence, eviction from rescue evacuation, and protest from fire or medical danger. Each setting needs its own coordination and safeguards."
+      },
+      "sourceIds": [
+        "SIT",
+        "EVICT",
+        "PRISON",
+        "LLW"
+      ]
+    },
+    {
+      "id": "FPU-20-06",
+      "title": {
+        "vi": "6. Kết thúc, bàn giao và đánh giá",
+        "en": "6. Completion and handover"
+      },
+      "body": {
+        "vi": "Trong báo cáo sau nhiệm vụ, phân biệt người được hỗ trợ rời đi, người bị bắt giữ theo căn cứ cụ thể và người được chuyển y tế. Mô tả tài sản hoặc khu vực được bàn giao, đầu mối tiếp nhận và nội dung còn theo dõi.\n\nMột kết luận như “đã khôi phục trật tự” cần có dữ kiện hỗ trợ. Học viên phải giải thích trạng thái cuối cùng, việc bảo vệ người và những giới hạn của kết quả; không chỉ đánh giá bằng việc địa điểm đã vắng người.",
+        "en": "Distinguish voluntary departure, lawful arrest and medical referral. Record property or premises handed over, the receiving authority and outstanding follow-up. An empty location alone does not prove a safe and rights-respecting result; explain the end state and its limits."
+      },
+      "sourceIds": [
+        "SIT",
+        "EVICT",
+        "PRISON",
+        "LLW"
+      ]
+    },
+    {
+      "id": "FPU-20-07",
+      "title": {
+        "vi": "7. Cơ sở pháp lý, vật chất và tổ chức",
+        "en": "7. Legal, physical and organizational preparation"
+      },
+      "body": {
+        "vi": "Với từng tình huống cần xác nhận cơ sở giao nhiệm vụ, thông tin về người và địa điểm, hỗ trợ y tế/cháy, phối hợp và người tiếp nhận. Nhân viên quản lý địa điểm không mặc nhiên có quyền giao nhiệm vụ cho FPU. Không gộp mọi người ở trong cơ sở thành người vi phạm mà không đánh giá.\n\n### 7.1. Bàn giao theo trạng thái thực\n\nGhi người tự rời, người bị bắt có căn cứ, người được y tế hỗ trợ; giữ phân biệt trong số liệu và hồ sơ. Nêu ai nhận người, tài sản, địa điểm, lúc nào và việc tiếp tục. Nếu còn hạn chế, báo rõ thay vì kết luận mọi việc xong. Rà cả an toàn, quyền, hỗ trợ, thiệt hại và sự phối hợp để kết quả không chỉ là địa điểm đã vắng.",
+        "en": "Confirm tasking authority, people and site information, medical and fire support, coordination and reception. A facility employee does not automatically task an FPU. Assess individual circumstances instead of treating everyone inside as an offender.\n\n### 7.1. Hand over actual status\n\nDistinguish voluntary departure, grounded arrest and medical assistance in figures and records. Identify who receives people, property or premises, when and with what outstanding work. State limitations instead of declaring everything complete. Review safety, rights, assistance, harm and coordination together. An emptied location is one observation, not proof that the full lawful objective and all continuing responsibilities were met."
+      },
+      "sourceIds": [
+        "SIT",
+        "EVICT",
+        "PRISON",
+        "LLW"
+      ]
+    },
+    {
+      "id": "FPU-20-08",
+      "title": {
+        "vi": "8. Kết thúc không chỉ là đưa người ra",
+        "en": "8. Completion is more than removal"
+      },
+      "body": {
+        "vi": "Phân biệt người tự nguyện rời, người bị bắt giữ có căn cứ và người cần trợ giúp. Bàn giao cần thể hiện tình trạng, tài sản, y tế và đầu mối. Sự cố trong giam giữ phải phối hợp cơ quan quản lý và chuyên môn, không tự thay quy trình nhà giam. Phân tích sau nhiệm vụ cần xem quyền, an toàn, việc hỗ trợ và việc còn theo dõi; không chỉ đánh giá bằng tốc độ hoàn thành.",
+        "en": "Handover covers condition, property, care and responsibility. Detention incidents need prison and specialist coordination rather than an improvised replacement for custodial procedures. Review rights, safety, assistance and unfinished matters alongside the speed of completion."
+      },
+      "sourceIds": [
+        "SIT",
+        "EVICT",
+        "PRISON",
+        "LLW"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "SIT",
+      "title": "Sit-in",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-047%20Sit%20in.pdf",
+      "format": "pdf",
+      "pages": 23,
+      "reading": "7–8",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "EVICT",
+      "title": "Eviction from Occupied Premises",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-040%20Eviction%20from%20occupied%20premises.pdf",
+      "format": "pdf",
+      "pages": 27,
+      "reading": "7–12",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "PRISON",
+      "title": "Interventions in Prison",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-043%20Intervention%20in%20prisons.pdf",
+      "format": "pdf",
+      "pages": 18,
+      "reading": "7–12",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "LLW",
+      "title": "United Nations Human Rights Guidance on Less-Lethal Weapons in Law Enforcement",
+      "publisher": "OHCHR",
+      "year": "2020",
+      "url": "https://www.ohchr.org/Documents/HRBodies/CCPR/LLW_Guidance.pdf",
+      "format": "pdf",
+      "pages": 58,
+      "reading": "Đối chiếu thuật ngữ, giới hạn và không gian kín; số trang theo bản công bố",
+      "checked": "2026-10-24"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Biểu tình ngồi tự động là bạo lực.",
+        "en": "A sit-in is automatically violent."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Cần đánh giá hành vi cụ thể.",
+        "en": "Assess actual conduct."
+      }
+    },
+    {
+      "question": {
+        "vi": "Cưỡng chế rời và sơ tán cứu người là hai mục đích khác.",
+        "en": "Eviction and rescue evacuation have different purposes."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Không dùng hai khái niệm thay nhau.",
+        "en": "Do not use them interchangeably."
+      }
+    },
+    {
+      "question": {
+        "vi": "Quản lý tòa nhà tự có quyền giao nhiệm vụ FPU.",
+        "en": "A building manager automatically has FPU tasking authority."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Nhiệm vụ theo cơ quan và chỉ huy có thẩm quyền.",
+        "en": "Tasking follows competent authorities and command."
+      }
+    },
+    {
+      "question": {
+        "vi": "Sự cố giam giữ cần phối hợp quản lý cơ sở và chuyên môn.",
+        "en": "Detention incidents require custodial and specialist coordination."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Người bị giam có hạn chế khả năng tự thoát.",
+        "en": "Detainees have limited ability to leave."
+      }
+    },
+    {
+      "question": {
+        "vi": "Địa điểm vắng người chứng minh đã hoàn thành mọi trách nhiệm.",
+        "en": "An empty site proves all responsibilities are complete."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Còn cần y tế, tài sản, tiếp nhận và theo dõi.",
+        "en": "Care, property, reception and follow-up remain relevant."
+      }
+    },
+    {
+      "question": {
+        "vi": "Báo cáo phải phân biệt người tự rời, bị bắt và chuyển y tế.",
+        "en": "Reports should distinguish voluntary departure, arrest and medical referral."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Các trạng thái có căn cứ, trách nhiệm khác nhau.",
+        "en": "These statuses involve different grounds and responsibilities."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Di chuyển người để bảo vệ khỏi nguy hiểm?",
+        "en": "Which concept matches: Moving people to protect them from danger?"
+      },
+      "options": [
+        {
+          "vi": "Evacuation",
+          "en": "Evacuation"
+        },
+        {
+          "vi": "Eviction",
+          "en": "Eviction"
+        },
+        {
+          "vi": "Medical handover",
+          "en": "Medical handover"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Evacuation: Di chuyển người để bảo vệ khỏi nguy hiểm.",
+        "en": "Evacuation: Moving people to protect them from danger."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Đưa người rời địa điểm theo quyết định, thẩm quyền hợp pháp?",
+        "en": "Which concept matches: Removal from premises under lawful authority?"
+      },
+      "options": [
+        {
+          "vi": "Medical handover",
+          "en": "Medical handover"
+        },
+        {
+          "vi": "Eviction",
+          "en": "Eviction"
+        },
+        {
+          "vi": "Evacuation",
+          "en": "Evacuation"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Eviction: Đưa người rời địa điểm theo quyết định, thẩm quyền hợp pháp.",
+        "en": "Eviction: Removal from premises under lawful authority."
+      }
+    }
+  ],
+  "updated": "2026-10-26",
+  "moduleId": "FPU-M5",
+  "moduleOrder": 3,
+  "lessonOrder": 7,
+  "sourceModule": {
+    "programme": "STM-FPU",
+    "number": 5,
+    "title": "Public order management"
+  },
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "FPU-20-01",
+      "title": {
+        "vi": "1. Vì sao cần phân biệt từng bối cảnh?",
+        "en": "1. Different settings require different analysis"
+      },
+      "body": {
+        "vi": "Biểu tình ngồi, chiếm giữ địa điểm và sự cố trong cơ sở giam giữ có thể cùng liên quan trật tự nhưng khác về thẩm quyền, người bị ảnh hưởng và nguồn hỗ trợ. Bài giữ ba chương riêng; không dùng một quy trình can thiệp chung cho mọi trường hợp.\n\nMục tiêu là đọc tình hình, xác định cơ sở và phối hợp. Các kỹ thuật cưỡng chế di chuyển, khống chế hoặc can thiệp vào không gian có nguy cơ cao thuộc huấn luyện chuyên môn, không tự học qua bản đọc này.\n\n### 1.1. Cùng câu hỏi nền, khác căn cứ\n\nVới từng bối cảnh, xác định sự việc thật, mục tiêu hợp pháp, người có quyền yêu cầu, giới hạn, người cần bảo vệ và nơi tiếp nhận. Tên gọi ban đầu không đủ chọn biện pháp. Khôi phục sử dụng địa điểm, bảo vệ người khỏi nguy hiểm và xử lý hành vi có mục tiêu khác nhau; không gộp để bỏ qua quyền hoặc trách nhiệm chăm sóc.",
+        "en": "Sit-ins, occupied premises and detention incidents differ in authority, affected people and support. Keep their analysis distinct rather than using one universal intervention process. Establish facts, legal grounds and coordination. Coercive physical interventions require approved specialist competence.\n\n### 1.1. Shared questions, distinct grounds\n\nFor each setting, establish facts, lawful objective, requesting authority, limits, protection needs and reception. The initial label cannot select the measure. Restoring use of premises, rescuing people and addressing offending have different purposes. Do not merge them in ways that bypass rights or care. The same location may involve several responsibilities that need separate decisions and coordination."
+      },
+      "sourceIds": [
+        "SIT",
+        "EVICT",
+        "PRISON",
+        "LLW"
+      ]
+    },
+    {
+      "id": "FPU-20-02",
+      "title": {
+        "vi": "2. Biểu tình ngồi: Hành vi và nhu cầu",
+        "en": "2. Sit-ins: Conduct and practical needs"
+      },
+      "body": {
+        "vi": "Đánh giá hiện trường, tiếp xúc, tìm khả năng tự nguyện rời hoặc giải pháp thống nhất phù hợp trước biện pháp được phép tiếp theo. Tư thế ngồi hoặc không muốn rời chưa tự là bạo lực. Làm rõ ai có quyền yêu cầu, nhu cầu sử dụng lối vào, người cần hỗ trợ, đầu mối đối thoại và phương án giảm ảnh hưởng.\n\nĐánh giá thay đổi hành vi theo cá nhân, nguy cơ cụ thể. Thông báo phải giúp người nghe hiểu và có khả năng thực hiện, không chỉ xác nhận đã phát loa.",
+        "en": "Assess the location, engage and explore voluntary departure or a suitable agreed solution before further authorized measures. Sitting or refusing to leave is not automatically violence. Establish who can lawfully request departure, the access needs, assistance requirements, dialogue contact and feasible alternatives. Assess each person’s changed conduct individually and ensure messages can be understood and acted upon."
+      },
+      "sourceIds": [
+        "SIT",
+        "EVICT",
+        "PRISON",
+        "LLW"
+      ]
+    },
+    {
+      "id": "FPU-20-03",
+      "title": {
+        "vi": "3. Địa điểm bị chiếm giữ: Xác định thẩm quyền",
+        "en": "3. Occupied premises: Establish authority"
+      },
+      "body": {
+        "vi": "Yêu cầu cưỡng chế rời địa điểm phải qua cơ quan có thẩm quyền và tuyến chỉ huy phái bộ. Quyền quản lý tài sản không tự tạo quyền giao nhiệm vụ cho UNPOL. Phân biệt đưa người rời vì chiếm giữ với sơ tán để bảo vệ họ. Xem đồng thời mục tiêu hợp pháp, an toàn, tài sản, nơi tiếp nhận và trách nhiệm còn lại, không chỉ số người đã ra ngoài.",
+        "en": "An eviction request must come through competent authority and mission command. A property manager’s claim does not itself authorize UNPOL action. Distinguish removal for an occupation issue from evacuation to protect people. Consider lawful restoration of access, safety, property care, reception and unfinished responsibilities, not only the number removed."
+      },
+      "sourceIds": [
+        "SIT",
+        "EVICT",
+        "PRISON",
+        "LLW"
+      ]
+    },
+    {
+      "id": "FPU-20-04",
+      "title": {
+        "vi": "4. Sự cố trong cơ sở giam giữ",
+        "en": "4. Incidents in detention facilities"
+      },
+      "body": {
+        "vi": "Làm rõ cơ sở pháp lý, sự việc thực tế, điều kiện vật chất, cơ quan quản lý và hỗ trợ y tế, cháy. Nhãn ban đầu như bạo loạn có thể chưa phân biệt phản đối, cháy, đánh nhau hoặc giữ người trái ý muốn; cần xác minh trước lựa chọn.\n\nNgười bị giam không tự do rời đi nên phải xem tiếp cận y tế, thông khí và trách nhiệm quản lý. Chất kích thích hóa học trong không gian kín thiếu thông gió hoặc không có lối ra khả thi có nguy cơ nghiêm trọng và chịu giới hạn nghiêm ngặt. Phối hợp chuyên môn là thiết yếu.",
+        "en": "Establish legal authority, the actual event, physical conditions, responsible prison management and medical and fire support. An initial riot label may conceal protest, fire, fighting or hostage-taking and requires verification.\n\nDetainees cannot freely leave. Consider medical access, ventilation and custodial responsibility. Chemical irritants in enclosed spaces without adequate ventilation or viable exit present serious risks and are subject to strict restrictions. Specialist coordination is essential."
+      },
+      "sourceIds": [
+        "SIT",
+        "EVICT",
+        "PRISON",
+        "LLW"
+      ]
+    },
+    {
+      "id": "FPU-20-05",
+      "title": {
+        "vi": "5. So sánh yêu cầu quyết định",
+        "en": "5. Compare the decision requirements"
+      },
+      "body": {
+        "vi": "Với biểu tình ngồi, làm rõ hành vi và ảnh hưởng. Với địa điểm chiếm giữ, xác định thẩm quyền, mục tiêu hợp pháp. Với giam giữ, xác minh sự việc và cơ quan quản lý. Phân biệt không hợp tác với bạo lực; cưỡng chế rời với sơ tán cứu người; phản đối với nguy cơ cháy, y tế. Mỗi bối cảnh cần phối hợp và bảo đảm riêng.",
+        "en": "For a sit-in, examine conduct and actual effects. For occupied premises, establish competent authority and the lawful objective. For detention, establish the event and custodial authority. Distinguish non-cooperation from violence, eviction from rescue evacuation, and protest from fire or medical danger. Each setting needs its own coordination and safeguards."
+      },
+      "sourceIds": [
+        "SIT",
+        "EVICT",
+        "PRISON",
+        "LLW"
+      ]
+    },
+    {
+      "id": "FPU-20-06",
+      "title": {
+        "vi": "6. Kết thúc, bàn giao và đánh giá",
+        "en": "6. Completion and handover"
+      },
+      "body": {
+        "vi": "Trong báo cáo sau nhiệm vụ, phân biệt người được hỗ trợ rời đi, người bị bắt giữ theo căn cứ cụ thể và người được chuyển y tế. Mô tả tài sản hoặc khu vực được bàn giao, đầu mối tiếp nhận và nội dung còn theo dõi.\n\nMột kết luận như “đã khôi phục trật tự” cần có dữ kiện hỗ trợ. Học viên phải giải thích trạng thái cuối cùng, việc bảo vệ người và những giới hạn của kết quả; không chỉ đánh giá bằng việc địa điểm đã vắng người.",
+        "en": "Distinguish voluntary departure, lawful arrest and medical referral. Record property or premises handed over, the receiving authority and outstanding follow-up. An empty location alone does not prove a safe and rights-respecting result; explain the end state and its limits."
+      },
+      "sourceIds": [
+        "SIT",
+        "EVICT",
+        "PRISON",
+        "LLW"
+      ]
+    },
+    {
+      "id": "FPU-20-07",
+      "title": {
+        "vi": "7. Cơ sở pháp lý, vật chất và tổ chức",
+        "en": "7. Legal, physical and organizational preparation"
+      },
+      "body": {
+        "vi": "Với từng tình huống cần xác nhận cơ sở giao nhiệm vụ, thông tin về người và địa điểm, hỗ trợ y tế/cháy, phối hợp và người tiếp nhận. Nhân viên quản lý địa điểm không mặc nhiên có quyền giao nhiệm vụ cho FPU. Không gộp mọi người ở trong cơ sở thành người vi phạm mà không đánh giá.\n\n### 7.1. Bàn giao theo trạng thái thực\n\nGhi người tự rời, người bị bắt có căn cứ, người được y tế hỗ trợ; giữ phân biệt trong số liệu và hồ sơ. Nêu ai nhận người, tài sản, địa điểm, lúc nào và việc tiếp tục. Nếu còn hạn chế, báo rõ thay vì kết luận mọi việc xong. Rà cả an toàn, quyền, hỗ trợ, thiệt hại và sự phối hợp để kết quả không chỉ là địa điểm đã vắng.",
+        "en": "Confirm tasking authority, people and site information, medical and fire support, coordination and reception. A facility employee does not automatically task an FPU. Assess individual circumstances instead of treating everyone inside as an offender.\n\n### 7.1. Hand over actual status\n\nDistinguish voluntary departure, grounded arrest and medical assistance in figures and records. Identify who receives people, property or premises, when and with what outstanding work. State limitations instead of declaring everything complete. Review safety, rights, assistance, harm and coordination together. An emptied location is one observation, not proof that the full lawful objective and all continuing responsibilities were met."
+      },
+      "sourceIds": [
+        "SIT",
+        "EVICT",
+        "PRISON",
+        "LLW"
+      ]
+    },
+    {
+      "id": "FPU-20-08",
+      "title": {
+        "vi": "8. Kết thúc không chỉ là đưa người ra",
+        "en": "8. Completion is more than removal"
+      },
+      "body": {
+        "vi": "Phân biệt người tự nguyện rời, người bị bắt giữ có căn cứ và người cần trợ giúp. Bàn giao cần thể hiện tình trạng, tài sản, y tế và đầu mối. Sự cố trong giam giữ phải phối hợp cơ quan quản lý và chuyên môn, không tự thay quy trình nhà giam. Phân tích sau nhiệm vụ cần xem quyền, an toàn, việc hỗ trợ và việc còn theo dõi; không chỉ đánh giá bằng tốc độ hoàn thành.",
+        "en": "Handover covers condition, property, care and responsibility. Detention incidents need prison and specialist coordination rather than an improvised replacement for custodial procedures. Review rights, safety, assistance and unfinished matters alongside the speed of completion."
+      },
+      "sourceIds": [
+        "SIT",
+        "EVICT",
+        "PRISON",
+        "LLW"
+      ]
+    }
+  ],
+  "source_ids": [
+    "SIT",
+    "EVICT",
+    "PRISON",
+    "LLW"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "Evacuation",
+      "definition": {
+        "vi": "Di chuyển người để bảo vệ khỏi nguy hiểm",
+        "en": "Moving people to protect them from danger"
+      }
+    },
+    {
+      "term": "Eviction",
+      "definition": {
+        "vi": "Đưa người rời địa điểm theo quyết định, thẩm quyền hợp pháp",
+        "en": "Removal from premises under lawful authority"
+      }
+    }
+  ],
+  "diagram": {
+    "type": "parallel",
+    "items": [
+      {
+        "vi": "Biểu tình ngồi",
+        "en": "Sit-in"
+      },
+      {
+        "vi": "Địa điểm chiếm giữ",
+        "en": "Occupied premises"
+      },
+      {
+        "vi": "Cơ sở giam giữ",
+        "en": "Detention facility"
+      }
+    ],
+    "chapter": 1
+  },
+  "contentVersion": "4tab-2026-10-26",
+  "sourceIntro": {
+    "vi": "Các tài liệu dưới đây là nền tảng kiến thức của bài. Mở nguồn để đọc nội dung gốc; phần giải thích, sơ đồ học tập và câu hỏi được biên soạn cho Handbook.",
+    "en": "The materials below provide the lesson’s knowledge base. Open them for the original teaching material; explanations, instructional diagrams and questions are developed for the Handbook."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Hai bản Việt–Anh phục vụ học tập, không phải bản dịch chính thức của UN. Danh mục và thứ tự 48 bài là cách tổ chức học liệu của Handbook, không phải số bài chính thức của UN.",
+      "Bảng đối chiếu xác định tài liệu nền theo mục; không khẳng định mọi câu diễn giải là trích nguyên văn. Hình gốc ghi rõ tài liệu và trang PDF; sơ đồ học tập được ghi là biên soạn.",
+      "STM–FPU 2015 được sử dụng cho nền tảng huấn luyện. Các vai trò và cơ chế tổ chức liên quan được đọc cùng Policy 2024.14. Không dùng số tiền COE, lịch đánh giá, quân số, cự ly hoặc tốc độ mẫu năm 2015 như quy định hiện hành. Các SOP, SUR, MOU và chỉ thị phái bộ áp dụng cần được xác nhận khi triển khai."
+    ],
+    "en": [
+      "The Vietnamese and English texts are for learning and are not official UN translations. The 48-lesson catalogue and numbering are the Handbook’s organization, not the official UN lesson count.",
+      "The mapping identifies source materials by section and does not present every explanation as a verbatim quotation. Original illustrations identify the material and PDF page; instructional diagrams are labelled as developed for the lesson.",
+      "STM–FPU 2015 supplies training foundations. Relevant roles and organizational arrangements are read with Policy 2024.14. Reimbursement rates, assessment schedules, staffing, distances and speeds from old examples are not treated as current universal rules. Applicable mission SOPs, SUR, MOU and directives require confirmation for deployment."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bài học FPU-20 tập trung vào chủ đề: Các tình huống POM đặc thù. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+      "en": "Lesson FPU-20 covers the following topic: Public order in specific settings. It connects concepts with professional responsibilities."
+    },
+    "subtitle": {
+      "vi": "Học kiến thức, hiểu trách nhiệm và kiểm tra nhận thức.",
+      "en": "Learn the concepts, understand responsibilities and check your knowledge."
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích: Vì sao cần phân biệt từng bối cảnh?; Biểu tình ngồi: Hành vi và nhu cầu.",
+        "Giải thích: Địa điểm bị chiếm giữ: Xác định thẩm quyền; Sự cố trong cơ sở giam giữ.",
+        "Giải thích: So sánh yêu cầu quyết định; Kết thúc, bàn giao và đánh giá; Cơ sở pháp lý, vật chất và tổ chức; Kết thúc không chỉ là đưa người ra.",
+        "Nhận diện cách hiểu sai và chọn nhận định có căn cứ trong kiểm tra nhận thức."
+      ],
+      "en": [
+        "Explain: Different settings require different analysis; Sit-ins: Conduct and practical needs.",
+        "Explain: Occupied premises: Establish authority; Incidents in detention facilities.",
+        "Explain: Compare the decision requirements; Completion and handover; Legal, physical and organizational preparation; Completion is more than removal.",
+        "Recognize misconceptions and select evidence-based statements in the knowledge check."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc các mục theo thứ tự trong tab nội dung, quan sát sơ đồ và hình, sau đó hoàn thành kiểm tra nhận thức. Chọn VI/EN để đổi ngôn ngữ; đáp án được giữ khi đổi ngôn ngữ trong phiên mở trang. Tải lại trang sẽ bắt đầu lại.",
+      "en": "Read the sections in order, study diagrams and illustrations, then complete the knowledge check. Use VI/EN to switch languages; answers are retained across language changes during the session. Reloading starts a new session."
+    }
+  },
+  "figures": [],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft"
+}

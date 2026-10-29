@@ -1,0 +1,758 @@
+{
+  "schemaVersion": 2,
+  "id": "FPU-09",
+  "area": "fpu",
+  "groupKey": "FPU-M4",
+  "group": {
+    "vi": "Chiến thuật cảnh sát",
+    "en": "Police tactics"
+  },
+  "title": {
+    "vi": "Tiếp cận, khám xét và kiểm soát đối tượng",
+    "en": "Contact, search, restraint and custody responsibilities"
+  },
+  "summary": {
+    "vi": "Bài học tổ chức trách nhiệm từ tiếp xúc, xác định căn cứ và giao tiếp tới khám xét, kiềm chế, chăm sóc, hồ sơ và bàn giao. Bảo vệ con người phải liên tục trong suốt thời gian kiểm soát.",
+    "en": "Follow responsibilities from contact, grounds and communication through search, restraint, care, records and handover, preserving continuous safeguards under effective control."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "SEARCH",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-027%20Approaching%20%26%20Searching%20Suspects.pdf",
+  "order": 202,
+  "sections": [
+    {
+      "id": "FPU-09-01",
+      "title": {
+        "vi": "1. Căn cứ tiếp xúc, khám xét và kiểm soát",
+        "en": "1. Grounds for contact, search and control"
+      },
+      "body": {
+        "vi": "### 1.1. Những hành vi khác nhau cần căn cứ khác nhau\nTiếp xúc để hỏi thông tin, kiểm tra an ninh khi vào cơ sở, khám xét người và tước tự do không phải cùng một hành vi. Mỗi việc có mục đích, mức tác động và căn cứ cần xác định. Cán bộ không được biến một cuộc trao đổi tự nguyện thành giữ người thực tế mà không nhận ra trách nhiệm đã phát sinh.\n\nCần biết UNPOL đang hỗ trợ cảnh sát sở tại, giám sát hoạt động hay trực tiếp thực hiện theo mandate. Quyền trong nước không tự đi theo cán bộ tới phái bộ. SOP hướng dẫn cách thực hiện trách nhiệm nhưng không tự tạo thẩm quyền bắt hoặc giữ. Lệnh của người không có quyền cũng không khắc phục được thiếu căn cứ.\n\n### 1.2. Mục đích và phạm vi\nTrước khi thực hiện, xác định mục tiêu hợp pháp, đối tượng thông tin hoặc vật cần tìm, phạm vi cần thiết, người có trách nhiệm và cách xử lý kết quả. Một kiểm tra an ninh không tự trở thành quyền khám sâu hoặc thu mọi dữ liệu. Nếu người không đồng ý, phải đánh giá lựa chọn trong thẩm quyền và cơ chế áp dụng, không tự suy sự từ chối là căn cứ cưỡng chế.\n\nTrong tiếp xúc, giải thích ngắn và rõ lý do, phần việc cùng yêu cầu liên quan; sử dụng phiên dịch phù hợp khi cần. Lời giải thích giúp người hiểu và giảm hiểu nhầm, nhưng không thay điều kiện pháp lý. Không yêu cầu ký “đồng ý” để hợp thức hóa một biện pháp vốn không có căn cứ.\n\n### 1.3. Đánh giá theo hành vi và hoàn cảnh\nXem nguy cơ từ thông tin có căn cứ, điều quan sát và diễn biến, không suy từ sắc tộc, quốc tịch, giới, trang phục hoặc thái độ khó chịu đơn lẻ. Lúng túng, không hiểu tiếng hoặc chậm làm theo có thể có nhiều nguyên nhân. Cần phân biệt nguy cơ với cách giải thích mình đang giả định.\n\n### 1.4. Trách nhiệm bắt đầu từ kiểm soát thực tế\nKhi một người không được tự rời đi dưới sự kiểm soát thực tế của UN, phải nhận diện trách nhiệm giữ người dù gọi việc đó là gì. Thời điểm, địa điểm, lý do và người chịu trách nhiệm cần được ghi. Nghĩa vụ đối xử nhân đạo, chăm sóc và báo cáo không chỉ bắt đầu khi đã đưa tới nơi tạm giữ hoặc hoàn thành giấy tờ.",
+        "en": "### 1.1. Different actions require different grounds\nVoluntary contact, entry screening, personal search and deprivation of liberty differ in purpose, impact and required authority. Do not turn a conversation into effective custody without recognizing the resulting duties.\n\nEstablish whether UNPOL is supporting, monitoring or directly exercising mandated functions. Domestic powers do not transfer automatically. SOPs regulate responsibilities without independently granting arrest powers, and an unauthorized order cannot remedy missing grounds.\n\n### 1.2. Purpose and scope\nIdentify the lawful objective, sought information or items, necessary scope, responsible people and handling of results. Security screening does not create unlimited search or data-access powers. Refusal requires assessment under applicable authority rather than automatic coercion.\n\nExplain the reason and procedure clearly, with suitable language support. Explanation supports understanding but does not replace legal conditions. A signed consent form cannot cure an otherwise unlawful measure.\n\n### 1.3. Behaviour and circumstances\nAssess evidence, observations and developments rather than ethnicity, nationality, gender, clothing or isolated irritation. Confusion, language barriers and delayed compliance have several possible causes. Distinguish actual risk from assumed explanations.\n\n### 1.4. Effective control creates duties\nWhere a person cannot leave UN control, recognize custody responsibilities regardless of terminology. Record time, location, grounds and responsibility. Humane treatment, care and reporting begin with effective control, not only arrival at a facility or completion of forms."
+      },
+      "sourceIds": [
+        "SEARCH",
+        "U42",
+        "DET2020"
+      ]
+    },
+    {
+      "id": "FPU-09-02",
+      "title": {
+        "vi": "2. Giao tiếp, giảm căng thẳng và phối hợp",
+        "en": "2. Communication, de-escalation and coordination"
+      },
+      "body": {
+        "vi": "### 2.1. Giao tiếp là biện pháp an toàn\nGiới thiệu vai trò, nói điều cần người đó làm bằng câu rõ, ngắn và có thể thực hiện. Cho thời gian hiểu, kiểm tra ngôn ngữ và tránh nhiều cán bộ cùng ra yêu cầu mâu thuẫn. Không dùng lời xúc phạm, đe dọa trừng phạt hoặc biểu hiện làm nhục để ép hợp tác.\n\nLắng nghe thông tin về sức khỏe, đau, khó thở, khuyết tật hoặc việc không thể làm theo. Một người không đưa tay hoặc đứng dậy như yêu cầu có thể đang bị thương; cần xác định thay vì tự động diễn giải là chống đối. Giao tiếp không loại trừ đánh giá nguy cơ, nhưng cung cấp thông tin giúp đánh giá đúng hơn.\n\n### 2.2. Phân công rõ trách nhiệm\nTrước phần việc đã được cho phép, xác định ai giao tiếp, ai thực hiện, ai quan sát an toàn, ai báo cáo và ai gọi hỗ trợ. Vai trò có thể điều chỉnh theo hoàn cảnh nhưng phải được hiểu. Người phụ trách không chỉ theo dõi cán bộ mà còn tình trạng của người đang chịu biện pháp.\n\nKhông để cùng lúc nhiều người đưa lệnh hoặc thực hiện hành động mà không biết nhau đang làm gì. Khi cần nhân viên y tế, phiên dịch hoặc cán bộ phù hợp yêu cầu bảo vệ, phải gọi sớm. Thiếu nguồn lực là yếu tố cần báo và điều chỉnh phương án, không phải lý do tự bỏ bảo đảm.\n\n### 2.3. Giảm nguy cơ mà không đánh đổi quyền\nGiữ môi trường có thể quan sát, giảm người tụ tập không có nhiệm vụ, bảo vệ riêng tư và kiểm soát thông tin. Không dùng việc quay phim hoặc công khai danh tính để gây áp lực. Khi có trẻ, người dễ bị hại hoặc người chứng kiến, cần tính cả tác động tâm lý và nguy cơ trả đũa.\n\nCác kỹ thuật tiếp cận, vị trí và khống chế cần được học trực tiếp với người hướng dẫn. Bài học nhấn mạnh tiêu chí và trách nhiệm, không thể xác nhận người đọc đã đủ năng lực xử lý một tình huống có nguy cơ chỉ bằng kiến thức trực tuyến.\n\n### 2.4. Đánh giá lại thay vì leo thang tự động\nNếu tình hình thay đổi, xem biện pháp ít xâm phạm hơn, hỗ trợ bổ sung, tạm dừng hoặc lựa chọn khác được phép. Không đi qua một thang tăng vũ lực chỉ vì người chưa làm theo ngay. Mức vũ lực phải còn cần thiết và tương xứng; mục tiêu là bảo vệ và thực hiện nhiệm vụ hợp pháp, không giành thắng lợi trong tranh cãi.",
+        "en": "### 2.1. Communication supports safety\nExplain roles and use concise, achievable instructions. Allow comprehension and avoid contradictory commands from several officers. Insults, humiliation and punitive threats are unacceptable methods of obtaining cooperation.\n\nListen for injury, breathing difficulty, disability or inability to comply. Failure to move as requested may reflect a physical limitation rather than resistance. Communication adds information without replacing risk assessment.\n\n### 2.2. Clear responsibilities\nAssign communication, authorized action, safety observation, reporting and support activation. Adapt roles explicitly. Monitoring includes the affected person's condition as well as officer safety.\n\nAvoid uncoordinated actions and competing instructions. Request medical staff, interpreters or appropriate protection personnel early. Resource gaps require reporting and adjustment rather than abandonment of safeguards.\n\n### 2.3. Reduce risk while respecting rights\nMaintain appropriate observation, limit unnecessary onlookers, protect privacy and control information. Do not use recording or public identification as pressure. Consider psychological and retaliation risks for children, vulnerable people and witnesses.\n\nApproach, positioning and physical-control techniques require competent practical instruction. Reading cannot establish readiness for a risky encounter.\n\n### 2.4. Reassess instead of automatic escalation\nConsider less intrusive measures, support, a pause or other authorized alternatives as conditions change. Delayed compliance does not justify mechanically escalating force. Force must remain necessary and proportionate to a lawful objective, rather than winning an argument."
+      },
+      "sourceIds": [
+        "SEARCH",
+        "ARREST",
+        "CSC015"
+      ]
+    },
+    {
+      "id": "FPU-09-03",
+      "title": {
+        "vi": "3. Khám xét tôn trọng phẩm giá",
+        "en": "3. Searches respecting dignity"
+      },
+      "body": {
+        "vi": "### 3.1. Giới hạn theo mục đích\nKhám xét phải nằm trong căn cứ và phạm vi được phép, với người đã được huấn luyện. Giải thích mục đích, trình tự và điều cần hợp tác; kiểm soát người không có nhiệm vụ quan sát. Không dùng khám xét để gây nhục, đe dọa, phân biệt hoặc tìm thông tin ngoài mục đích được phép.\n\nMột người đã được khám trước đó không loại bỏ nhu cầu đánh giá an toàn tiếp theo, nhưng việc khám lại cũng cần căn cứ và quy trình, không tùy tiện lặp để gây áp lực. Ghi lý do, thời gian, người thực hiện và kết quả theo yêu cầu.\n\n### 3.2. Giới, tuổi và nhu cầu cụ thể\nViệc khám người do UN giữ cần thực hiện bởi nhân sự cùng giới theo quy định; SOP nêu hai người cùng giới nếu có thể. Ngoại lệ khám người khác giới chỉ giới hạn khi không có người cùng giới và có lý do an ninh cấp thiết tại thời điểm bắt hoặc đang giữ, không phải vì thuận tiện hoặc thiếu chuẩn bị. Cần báo và ghi rõ căn cứ, bảo vệ phẩm giá.\n\nXem xét khuyết tật, ngôn ngữ, tôn giáo, văn hóa và trải nghiệm bạo lực. Không mặc định mọi người có cùng khả năng hiểu hoặc thực hiện tư thế yêu cầu. Khi có nhu cầu đặc thù, kết nối người có trách nhiệm và hướng dẫn phù hợp; không tự giải quyết bằng biện pháp xâm phạm hơn.\n\n### 3.3. Quy định riêng cho trẻ em\nKhi còn nghi ngờ tuổi của người đang được UN kiểm soát, áp dụng bảo vệ như trẻ và chuyển cơ chế chuyên môn. Trẻ chỉ bị khám khi có căn cứ nghi mang vật có thể gây thương tích cho mình hoặc người khác. Theo Annex B SOP, việc khám phải từng phần, tuần tự, bởi nhân sự quân sự hoặc cảnh sát UN cùng giới đã được huấn luyện bảo vệ trẻ em, có người thứ hai hiện diện.\n\nTrẻ không bao giờ bị khám lột trần hoặc khám khoang cơ thể. Không suy ngoại lệ an ninh cấp thiết dành cho người lớn thành quyền bỏ các yêu cầu riêng của trẻ. Việc hỏi sâu hơn danh tính, tuổi, nhu cầu y tế và nơi gia đình thuộc CPA/đầu mối hoặc cán bộ bảo vệ trẻ em được giao.\n\n### 3.4. Đồ vật và thông tin\nĐể người được giữ hiện diện khi khám đồ hoặc chỗ ở theo quy định. Lập hồ sơ vật lấy đi, nhận dạng và tình trạng. Thấy điện thoại hoặc giấy tờ không tự trao quyền đọc, sao chép hay chia sẻ mọi nội dung. Phải theo thẩm quyền, mục đích và hướng dẫn bảo vệ dữ liệu; vật nguy hiểm cần người có năng lực xử lý.",
+        "en": "### 3.1. Purpose-limited search\nSearches require authority, appropriate scope and trained personnel. Explain the procedure and restrict unnecessary observation. Search must not humiliate, intimidate, discriminate or pursue unauthorized information.\n\nA previous search does not remove subsequent safety assessment, while repeated searches still require grounds and procedure. Record reasons, timing, personnel and results as required.\n\n### 3.2. Gender, age and specific needs\nUN custody searches follow same-sex requirements; the SOP specifies two same-sex personnel where possible. Opposite-sex exceptions are limited to unavailable same-sex personnel and imperative security grounds at apprehension or during detention, not convenience. Record and report the grounds while protecting dignity.\n\nAccount for disability, language, religion, culture and violence-related needs. Obtain appropriate advice rather than replacing accommodation with more intrusive measures.\n\n### 3.3. Child-specific safeguards\nWhen age remains uncertain, apply child safeguards and obtain specialist assessment. Children may be searched only on grounds to suspect an injury-causing object. Annex B requires partial, sequential search by same-sex UN military or police personnel trained in child protection, with a second person present.\n\nChildren must never undergo strip or body-cavity searches. Adult security exceptions do not remove child-specific requirements. Questions beyond identity, age, medical needs and family whereabouts belong to the CPA/focal point or delegated Child Protection Officer.\n\n### 3.4. Property and information\nPermit presence during searches of belongings or accommodation as required. Record removed items, identity and condition. Possession of a phone or document does not authorize unrestricted access, copying or sharing. Follow authority, purpose and data safeguards; dangerous items require competent handling."
+      },
+      "sourceIds": [
+        "DET2020",
+        "SEARCH"
+      ]
+    },
+    {
+      "id": "FPU-09-04",
+      "title": {
+        "vi": "4. Kiềm chế: Cần thiết, tối thiểu và được theo dõi",
+        "en": "4. Restraint: Necessary, limited and monitored"
+      },
+      "body": {
+        "vi": "### 4.1. Kiềm chế là sử dụng vũ lực\nCòng hoặc phương tiện kiềm chế tác động thân thể và tự do, phải có căn cứ, sự cần thiết, tương xứng và giám sát. Không dùng để trừng phạt, làm nhục hoặc thay chăm sóc y tế. Tình trạng bị giữ không tự có nghĩa phải áp dụng mọi phương tiện suốt thời gian.\n\nSOP nêu các hoàn cảnh giới hạn: Phòng bỏ trốn khi chuyển giữa cơ sở UN hoặc bàn giao; chỉ định y tế từ nhân viên đủ trình độ theo đạo đức y khoa; hoặc lệnh chỉ huy khi cách kiểm soát khác không hiệu quả để ngăn người gây thương tích cho mình, người khác hoặc làm hỏng tài sản. Các hoàn cảnh này vẫn phải được đọc với tiêu chuẩn vũ lực, nguy cơ cá nhân và thời gian cần thiết.\n\n### 4.2. Trang bị và người thực hiện\nChỉ dùng phương tiện được thiết kế cho mục đích và được cho phép, do người đã huấn luyện sử dụng. Không dùng dây hoặc vật tự chế tùy tiện để thay thế. Không thực hành siết, khóa hoặc khống chế trên người khác theo hướng dẫn đọc trên mạng. Kiểm tra độ phù hợp, tình trạng và giới hạn cần được học trực tiếp.\n\n### 4.3. Theo dõi sức khỏe là trách nhiệm chủ động\nCần theo dõi đáp ứng, hơi thở, đau, tuần hoàn và dấu hiệu thay đổi. Không đặt áp lực lên cổ hoặc ngực, không làm tắc đường thở; tránh duy trì tư thế có thể cản hô hấp. Khi có thể, chuyển sang tư thế an toàn phù hợp và giữ thời gian kiềm chế tối thiểu theo đánh giá, huấn luyện.\n\nNgười nói khó thở phải được xem xét nghiêm túc. Ngừng giãy hoặc im lặng không chứng minh đã ổn; có thể là dấu hiệu xấu đi. Gọi y tế khẩn khi có giảm đáp ứng, thở bất thường hoặc dấu hiệu cấp cứu, đồng thời điều chỉnh biện pháp để bảo vệ sinh mạng trong phạm vi huấn luyện. Không tự chẩn đoán họ đang giả vờ.\n\n### 4.4. Rà liên tục và ghi lý do\nKiểm tra phương tiện thường xuyên theo quy định để bảo đảm tuần hoàn, giảm khó chịu; tháo sớm nhất có thể theo đánh giá nguy cơ và tạo điều kiện vệ sinh theo SOP. Việc kiểm tra không chỉ ghi một mốc mà cần có người thực hiện, kết quả và hành động. Mỗi thay đổi phải được truyền cho người tiếp nhận trách nhiệm để không mất giám sát giữa các ca hoặc khi vận chuyển.",
+        "en": "### 4.1. Restraint is force\nHandcuffs and other restraints require grounds, necessity, proportionality and supervision. They must not punish, humiliate or replace medical care. Custody does not automatically justify continuous restraint.\n\nThe SOP limits use to specified circumstances: Escape precautions during UN-facility transfer or national handover; qualified medical direction consistent with ethics; or command direction after other control methods fail to prevent injury or property damage. Force standards, individual risk and strictly necessary duration still apply.\n\n### 4.2. Equipment and competence\nUse authorized purpose-designed equipment through trained personnel. Do not improvise substitutes or practise physical techniques on others from online text. Fit, condition and limitations require direct instruction.\n\n### 4.3. Active health monitoring\nMonitor responsiveness, breathing, pain, circulation and changes. Avoid pressure on the neck or chest, airway obstruction and prolonged breathing-restricting positions. Use appropriate safe positioning as soon as possible and minimize restraint duration under trained assessment.\n\nTake breathing complaints seriously. Silence or stopped struggling may indicate deterioration rather than recovery. Activate urgent medical help for reduced responsiveness, abnormal breathing or emergency signs, and adjust measures to preserve life within competence. Do not assume pretence.\n\n### 4.4. Continued review\nCheck restraints regularly for circulation and discomfort, remove them as early as risk permits and accommodate ablutions under the SOP. Checks need an observer, findings and action, not merely a scheduled time. Transfer changes explicitly so monitoring continues across shifts and transport."
+      },
+      "sourceIds": [
+        "CUFF",
+        "BATON",
+        "DET2020",
+        "COP"
+      ]
+    },
+    {
+      "id": "FPU-09-05",
+      "title": {
+        "vi": "5. Chăm sóc, vật lấy đi và hồ sơ",
+        "en": "5. Care, removed items and records"
+      },
+      "body": {
+        "vi": "### 5.1. Đối xử nhân đạo trong toàn bộ quá trình\nNgười do UN kiểm soát cần được bảo vệ khỏi bạo lực, tra tấn, đối xử hạ nhục và hại từ người khác. Tổ chức đáp ứng nhu cầu y tế, nước, vệ sinh, chỗ ở và bảo vệ phù hợp tình trạng, thời gian giữ cùng quy định. Không trì hoãn chăm sóc để ép khai, đợi người hợp tác hoặc đợi giải quyết trách nhiệm giữa các đơn vị.\n\nThông tin cho người được giữ về lý do và các bảo đảm theo cơ chế. Hỗ trợ liên lạc, phiên dịch và nhu cầu bảo vệ qua đầu mối có trách nhiệm. Với trẻ em, ưu tiên bảo vệ, chăm sóc và cơ chế chuyên môn; không dùng cách quản lý người lớn làm mặc định.\n\n### 5.2. Vật lấy đi phải truy được\nGhi rõ vật, số lượng, đặc điểm nhận dạng, tình trạng, người giao–nhận, thời gian và nơi lưu. Gắn nhận dạng phù hợp để không nhầm tài sản giữa nhiều người. Phân biệt vật cần bảo quản, vật có thể là chứng cứ và vật nguy hiểm; mỗi loại có cách xử lý theo hướng dẫn.\n\nKhông tự sử dụng, tặng, hủy hoặc chuyển đồ vì thấy không có giá trị. Cũng không đưa cán bộ chưa có chuyên môn tới gần vật nghi nổ để hoàn thành kiểm kê. An toàn và bảo toàn bằng chứng phải được phối hợp với người có trách nhiệm.\n\n### 5.3. Hồ sơ giữ người và sử dụng vũ lực\nGhi thời điểm bắt đầu kiểm soát, căn cứ, nơi, người chịu trách nhiệm, biện pháp, thương tích quan sát, hỗ trợ y tế, vật lấy đi và các lần chuyển tiếp. Những gì chưa rõ cần được nêu là chưa rõ. Không suy người có vết thương trước đó thì đơn vị không cần ghi hoặc chăm sóc.\n\nNếu có sử dụng vũ lực, cần báo theo cơ chế tương ứng và mô tả căn cứ cùng diễn biến. Không dùng một dòng “đối tượng chống đối” để thay thông tin hành vi cụ thể, biện pháp và kết quả. Từ ngữ phải khách quan, không định tội trước.\n\n### 5.4. Kiểm tra tính liên tục\nTrước đổi ca hoặc chuyển vị trí, đối chiếu người, hồ sơ, nhu cầu sức khỏe, hạn chế, tài sản và việc còn chờ. Xác nhận người tiếp nhận hiểu và có điều kiện thực hiện. Một tập hồ sơ đầy đủ không bù việc không ai biết đang chịu trách nhiệm giám sát người đó; phân công và xác nhận phải đi cùng giấy tờ.",
+        "en": "### 5.1. Humane treatment throughout\nProtect people under UN control from violence, torture, humiliation and harm by others. Provide appropriate medical, water, hygiene, accommodation and protection arrangements under applicable standards. Care must not depend on cooperation or resolving inter-unit responsibility disputes.\n\nCommunicate grounds and safeguards through the proper mechanism. Arrange contact, interpretation and protection assistance. Children require specialist care rather than default adult treatment.\n\n### 5.2. Traceable property\nRecord item descriptions, quantities, identifiers, condition, custody transfers, timing and storage. Distinguish property, potential evidence and dangerous materials. Follow the appropriate handling route for each.\n\nDo not use, give away, destroy or transfer items without authorization. Do not expose unqualified personnel to suspected explosives merely to complete an inventory. Coordinate safety and evidence preservation with competent actors.\n\n### 5.3. Custody and force records\nRecord initial control, grounds, location, responsibility, measures, observed injuries, care, property and transfers. Identify uncertainty rather than inventing details. Pre-existing injuries still require recording and care.\n\nForce reports need concrete behaviour, grounds, measures and results. “The suspect resisted” cannot replace relevant facts. Use objective language without prejudging guilt.\n\n### 5.4. Continuity checks\nReconcile the person, records, health needs, restrictions, property and outstanding action before handover. Confirm the receiver's understanding and capacity. Complete paperwork cannot substitute for an identified person actually supervising custody."
+      },
+      "sourceIds": [
+        "DET2020",
+        "CSC015"
+      ]
+    },
+    {
+      "id": "FPU-09-06",
+      "title": {
+        "vi": "6. Bàn giao, chuyển chăm sóc và trách nhiệm cuối",
+        "en": "6. Handover, care transfer and continuing duties"
+      },
+      "body": {
+        "vi": "### 6.1. Không mặc định bàn giao luôn an toàn\nTrước bàn giao cho cơ quan khác, thực hiện đánh giá nguy cơ cá nhân qua cơ chế phái bộ. Có thể cần xem nguy cơ tra tấn, đối xử tàn ác, mất tích hoặc các hại nghiêm trọng khác, cùng bảo đảm và khả năng theo dõi. Một cơ quan có tên chính thức hoặc đã từng nhận người không tự chứng minh an toàn cho trường hợp hiện tại.\n\nCán bộ không tự quyết bàn giao ngoài thẩm quyền để giải phóng quân số. Nếu có lo ngại, báo chỉ huy, Detention Focal Point và bộ phận liên quan để xử lý. Các mốc thời hạn phải theo SOP và hướng dẫn hiện hành, không biến thời hạn tối đa thành thời gian mặc nhiên được giữ hoặc lý do chuyển vội bất chấp nguy cơ.\n\n### 6.2. Trẻ em và chuyển chăm sóc\nTrẻ cần cơ chế CPA/đầu mối bảo vệ trẻ em và đối tác chăm sóc. SOP yêu cầu nỗ lực bàn giao chăm sóc trong 48 giờ, đồng thời có ngoại lệ bảo vệ rất hẹp thuộc quyết định và rà soát của cấp có thẩm quyền khi chưa có chăm sóc an toàn hoặc có nguy cơ nghiêm trọng. Không tự gia hạn, không tự thả trẻ vào nơi không an toàn, không suy ngoại lệ này sang mọi người bị giữ.\n\nĐánh giá phải theo từng trẻ và nguy cơ cụ thể, không chỉ có một chữ ký nhận. Yêu cầu về hỏi trẻ và khám trẻ tiếp tục trong lúc chờ; việc cần bàn giao không làm mất các bảo đảm ấy.\n\n### 6.3. Xác nhận chuyển trách nhiệm\nBàn giao cần đúng người, đúng nơi, hồ sơ, tài sản, tình trạng sức khỏe, biện pháp đang áp dụng và xác nhận tiếp nhận. Nêu những thay đổi quan trọng bằng lời, không chỉ để trong tài liệu mà người nhận có thể chưa đọc. Khi yêu cầu theo dõi sau bàn giao tồn tại, phải xác định ai làm và cách báo.\n\n### 6.4. Rút kinh nghiệm và kiểm tra năng lực\nXem tính hợp pháp, giao tiếp, sử dụng vũ lực, chăm sóc, hồ sơ và chuyển tiếp. Nếu có dấu hiệu vi phạm, thực hiện nghĩa vụ bảo vệ và báo, không thay bằng rút kinh nghiệm nội bộ. Các kỹ thuật tiếp cận, khám, còng và kiểm soát phải được giảng viên đủ năng lực hướng dẫn và đánh giá trực tiếp. Người học đạt nhận thức khi biết căn cứ, giới hạn, dấu hiệu cần dừng và cách duy trì trách nhiệm với con người trong toàn bộ quá trình.",
+        "en": "### 6.1. Handover is not automatically safe\nUse mission procedures for individual transfer-risk assessment, including torture, cruel treatment, disappearance and other serious harm, assurances and follow-up capacity. Official status or previous acceptance does not establish safety in the current case.\n\nDo not transfer outside authority merely to release personnel. Elevate concerns through command, the Detention Focal Point and relevant specialists. Applicable time limits are neither default holding periods nor reasons to disregard transfer risks.\n\n### 6.2. Children and care\nInvolve the CPA/focal point and appropriate care actors. The SOP requires efforts towards care handover within 48 hours, with narrowly controlled protective exceptions where safe care is unavailable or grave risks remain, subject to authorized decision and review. Officers cannot independently extend control or abandon children to unsafe conditions. Child exceptions do not apply generally to adult custody.\n\nAssess each child and actual risks beyond a receipt signature. Questioning and search safeguards continue while care is arranged.\n\n### 6.3. Confirm responsibility transfer\nReconcile identity, destination, documents, property, health, ongoing measures and acceptance. Communicate important changes verbally as well as in records. Assign any required post-transfer follow-up.\n\n### 6.4. Learning and competence\nReview legality, communication, force, care, records and transfer. Suspected violations require protection and reporting, not merely internal learning. Physical techniques require competent supervised instruction and assessment. Knowledge competence means understanding grounds, limits, stopping signs and continuing responsibility for the person throughout control."
+      },
+      "sourceIds": [
+        "DET2020",
+        "CSC015"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "SEARCH",
+      "title": "Approaching & Searching Suspects",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-027%20Approaching%20%26%20Searching%20Suspects.pdf",
+      "format": "pdf",
+      "pages": 44,
+      "reading": "8–16",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "U42",
+      "title": "Lesson 11 Apprehension, Arrest and Detention in UN Peace Operations",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-022%20UNPOL%20STM%20Lesson%2011%20Apprehension,%20Arrest%20and%20Detention%20in%20UN%20Peace%20Operations.pdf",
+      "year": "2021",
+      "publisher": "United Nations UNPOL STM",
+      "format": "pdf",
+      "pages": 37,
+      "pdf_name": "U42.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "DET2020",
+      "title": "SOP 2020.13: Handling of Detention, including Annex B on children",
+      "url": "https://resourcehub01.blob.core.windows.net/$web/Policy%20and%20Guidance/corepeacekeepingguidance/Security/Safety%20and%20Security%20Management/2020.13%20Handling%20of%20Detention%20in%20United%20Nations%20Peacekeeping%20Operations%20and%20Special%20Political%20Missions%20(SOP).pdf",
+      "year": "2020 / effective 2021",
+      "publisher": "United Nations DPO / DPPA / DSS",
+      "format": "pdf",
+      "pages": 47
+    },
+    {
+      "id": "ARREST",
+      "title": "Arrest Methods",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-035%20Arrest%20methods.pdf",
+      "format": "pdf",
+      "pages": 22,
+      "reading": "6–8",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "CSC015",
+      "title": "FPU Command Staff Course 2026 · Lesson 15: Apprehension and Detention",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-015%20Lesson%2015%20Apprehension%20and%20Detention%20(LP).pdf",
+      "year": "2026",
+      "publisher": "United Nations Police / DPO",
+      "format": "pdf"
+    },
+    {
+      "id": "CUFF",
+      "title": "Handcuffing Suspects",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-028%20Handcuffing%20Suspects.pdf",
+      "format": "pdf",
+      "pages": 25,
+      "reading": "7; phần an toàn và trách nhiệm",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "BATON",
+      "title": "Use of Baton and Unarmed Defence Techniques",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-029%20Baton%20and%20UDT.pdf",
+      "format": "pdf",
+      "pages": 36,
+      "reading": "7–11",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "COP",
+      "title": "Control, restraint and searches — health monitoring",
+      "url": "https://www.college.police.uk/app/detention-and-custody/control-restraint-and-searches",
+      "publisher": "College of Policing",
+      "format": "web",
+      "checked": "2026-10-28"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Tiếp xúc, khám xét và giữ người có phải một quyền chung không?",
+        "en": "Are contact, search and custody one general power?"
+      },
+      "options": [
+        {
+          "vi": "Có, đã hỏi là được giữ.",
+          "en": "Yes; questioning automatically permits detention."
+        },
+        {
+          "vi": "Có, miễn có đồng phục UN.",
+          "en": "Yes, whenever wearing UN uniform."
+        },
+        {
+          "vi": "Không; mỗi hành vi cần mục đích, căn cứ và giới hạn tương ứng.",
+          "en": "No; each requires corresponding purpose, grounds and limits."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Mức tác động khác nhau tạo yêu cầu khác nhau; SOP không tự trao quyền bắt. Xem mục 1.",
+        "en": "Different intrusions have distinct requirements; SOPs do not independently grant arrest powers. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Trách nhiệm chăm sóc bắt đầu khi nào nếu UN kiểm soát thực tế người không được rời đi?",
+        "en": "When do care duties begin under effective UN control preventing departure?"
+      },
+      "options": [
+        {
+          "vi": "Khi có người khiếu nại.",
+          "en": "After a complaint."
+        },
+        {
+          "vi": "Từ thời điểm kiểm soát thực tế, không chờ tới cơ sở.",
+          "en": "From effective control, not only arrival at a facility."
+        },
+        {
+          "vi": "Khi hoàn tất giấy tờ.",
+          "en": "After paperwork is completed."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Tên gọi và chậm hồ sơ không làm mất trách nhiệm với người bị tước tự do. Xem mục 1.",
+        "en": "Terminology and paperwork delays do not remove duties to a person deprived of liberty. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Người chậm làm theo có thể do đâu?",
+        "en": "What may explain delayed compliance?"
+      },
+      "options": [
+        {
+          "vi": "Ngôn ngữ, thương tích, khuyết tật hoặc nhiều nguyên nhân cần làm rõ.",
+          "en": "Language, injury, disability or other causes requiring clarification."
+        },
+        {
+          "vi": "Tự đủ căn cứ tăng vũ lực.",
+          "en": "Automatically sufficient grounds for more force."
+        },
+        {
+          "vi": "Luôn là chống đối cố ý.",
+          "en": "Always deliberate resistance."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Giao tiếp và đánh giá giúp phân biệt khả năng với ý định; không leo thang tự động. Xem mục 2.",
+        "en": "Communication and assessment distinguish ability from intent; avoid automatic escalation. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Vì sao cần phân công người quan sát tình trạng?",
+        "en": "Why assign observation of the affected person’s condition?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ để đủ số người.",
+          "en": "Only to meet staffing numbers."
+        },
+        {
+          "vi": "Để người khác không cần quan tâm nữa.",
+          "en": "So nobody else needs to care."
+        },
+        {
+          "vi": "Để nhận thay đổi sức khỏe và giữ liên tục trách nhiệm an toàn.",
+          "en": "To detect health changes and maintain safety responsibility."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Quan sát chủ động bổ sung phối hợp, không loại trách nhiệm chung. Xem mục 2.",
+        "en": "Active observation supports coordination without removing wider responsibility. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Khám trẻ do UN kiểm soát cần điều kiện nào?",
+        "en": "What conditions govern searches of children under UN control?"
+      },
+      "options": [
+        {
+          "vi": "Có căn cứ nghi vật gây thương tích, cùng giới, huấn luyện bảo vệ trẻ và người thứ hai.",
+          "en": "Grounds to suspect an injury-causing item, same-sex trained personnel and a second person."
+        },
+        {
+          "vi": "Có thể khám lột trần khi thấy thuận tiện.",
+          "en": "Strip search is allowed for convenience."
+        },
+        {
+          "vi": "Có thể khám như mọi người lớn cho nhanh.",
+          "en": "Use the adult procedure for speed."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Annex B có bảo đảm riêng, khám từng phần tuần tự; trẻ không bị khám lột trần hoặc khoang cơ thể. Xem mục 3.",
+        "en": "Annex B requires partial sequential search; children must never undergo strip or body-cavity searches. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Thấy điện thoại trong đồ lấy đi có cho phép đọc mọi nội dung không?",
+        "en": "Does taking a phone authorize unrestricted access to its contents?"
+      },
+      "options": [
+        {
+          "vi": "Không; cần căn cứ, mục đích và quy trình dữ liệu riêng.",
+          "en": "No; authority, purpose and data procedures still apply."
+        },
+        {
+          "vi": "Có, vì đã cầm tài sản.",
+          "en": "Yes, possession grants full access."
+        },
+        {
+          "vi": "Có, nếu không chia cho báo chí.",
+          "en": "Yes, provided it is not given to the press."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Kiểm soát vật không tự tạo mọi quyền đối với dữ liệu bên trong. Xem mục 3.",
+        "en": "Custody of an item does not establish unrestricted data powers. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Còng có thể dùng để phạt người gây khó chịu không?",
+        "en": "May handcuffs punish an irritating person?"
+      },
+      "options": [
+        {
+          "vi": "Không; chỉ trong căn cứ giới hạn, cần thiết và thời gian tối thiểu.",
+          "en": "No; use requires limited grounds, necessity and minimal duration."
+        },
+        {
+          "vi": "Có, nếu không gây vết nhìn thấy.",
+          "en": "Yes, without visible marks."
+        },
+        {
+          "vi": "Có, nếu để người khác thấy.",
+          "en": "Yes, to make an example."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Kiềm chế là vũ lực và không bao giờ được dùng làm trừng phạt. Xem mục 4.",
+        "en": "Restraint is force and must never serve punishment. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Người bị kiềm chế im lặng sau giãy có chứng minh đã ổn không?",
+        "en": "Does silence after struggling establish safety during restraint?"
+      },
+      "options": [
+        {
+          "vi": "Có, vì đã hết chống đối.",
+          "en": "Yes, resistance has ended."
+        },
+        {
+          "vi": "Không; có thể xấu đi, cần theo dõi đáp ứng và thở, gọi y tế khi có dấu hiệu cấp cứu.",
+          "en": "No; deterioration is possible, requiring breathing and responsiveness monitoring and urgent care when indicated."
+        },
+        {
+          "vi": "Có, tiếp tục giữ nguyên mà không kiểm tra.",
+          "en": "Yes, maintain the same position without checks."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Ngừng giãy không loại nguy cơ hô hấp; tránh cản đường thở và áp lực cổ/ngực. Xem mục 4.",
+        "en": "Stopped struggling does not exclude respiratory risk; avoid airway obstruction and neck/chest pressure. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Ghi vật lấy đi cần giúp trả lời điều gì?",
+        "en": "What should removed-item records establish?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ tổng số túi.",
+          "en": "Bag count only."
+        },
+        {
+          "vi": "Chỉ giá trị ước đoán.",
+          "en": "Estimated value only."
+        },
+        {
+          "vi": "Vật gì, tình trạng, của ai, ai nhận, ở đâu và các lần chuyển.",
+          "en": "What it is, condition, ownership, custodian, location and transfers."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Hồ sơ nhận dạng và chuyển giao bảo vệ tài sản, chứng cứ và trách nhiệm. Xem mục 5.",
+        "en": "Identification and custody records protect property, evidence and accountability. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Vết thương có trước khi UN kiểm soát có cần ghi và chăm sóc không?",
+        "en": "Do pre-existing injuries require recording and care?"
+      },
+      "options": [
+        {
+          "vi": "Không, không phải đơn vị gây ra.",
+          "en": "No, the unit did not cause them."
+        },
+        {
+          "vi": "Có; trách nhiệm y tế không phụ thuộc ai đã gây thương tích.",
+          "en": "Yes; care duties do not depend on who caused the injury."
+        },
+        {
+          "vi": "Chỉ ghi nếu người được giữ hợp tác.",
+          "en": "Only if the person cooperates."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Đối xử nhân đạo và hồ sơ khách quan cần được duy trì trong toàn bộ thời gian. Xem mục 5.",
+        "en": "Humane treatment and objective records apply throughout control. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Một cơ quan đã từng nhận người có bảo đảm bàn giao lần này an toàn không?",
+        "en": "Does previous acceptance by an authority guarantee safe transfer now?"
+      },
+      "options": [
+        {
+          "vi": "Có, tên cơ quan chính thức là đủ.",
+          "en": "Yes, official status is sufficient."
+        },
+        {
+          "vi": "Không; cần đánh giá nguy cơ từng người và cơ chế phái bộ.",
+          "en": "No; individual risk assessment and mission arrangements are needed."
+        },
+        {
+          "vi": "Có, nếu đơn vị cần giảm quân số canh giữ.",
+          "en": "Yes, if the unit needs fewer guards."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Nguy cơ phụ thuộc trường hợp hiện tại; chữ ký nhận không thay đánh giá. Xem mục 6.",
+        "en": "Risk is case-specific; a receipt cannot replace assessment. See section 6."
+      },
+      "chapter": 5
+    },
+    {
+      "question": {
+        "vi": "Ngoại lệ bảo vệ khi chuyển chăm sóc trẻ có nghĩa gì?",
+        "en": "What does the protective exception for child care transfer mean?"
+      },
+      "options": [
+        {
+          "vi": "Tự áp dụng cho mọi người lớn.",
+          "en": "It applies automatically to adults."
+        },
+        {
+          "vi": "Mọi cán bộ được giữ trẻ tùy thời gian.",
+          "en": "Any officer may hold a child indefinitely."
+        },
+        {
+          "vi": "Cơ chế hẹp do cấp có thẩm quyền quyết định, rà soát; không quyền tự gia hạn.",
+          "en": "A narrow authorized and reviewed mechanism, not independent extension powers."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Không bỏ trẻ vào nguy hiểm, nhưng phải dùng đúng cơ chế CPA/HOM và SOP. Xem mục 6.",
+        "en": "Do not abandon children to danger; follow the CPA/HOM and SOP safeguards. See section 6."
+      },
+      "chapter": 5
+    }
+  ],
+  "updated": "2026-10-28",
+  "moduleId": "FPU-M4",
+  "moduleOrder": 2,
+  "lessonOrder": 2,
+  "sourceModule": {
+    "programme": "STM-FPU",
+    "number": 4,
+    "title": "Police tactics"
+  },
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "FPU-09-01",
+      "title": {
+        "vi": "1. Căn cứ tiếp xúc, khám xét và kiểm soát",
+        "en": "1. Grounds for contact, search and control"
+      },
+      "body": {
+        "vi": "### 1.1. Những hành vi khác nhau cần căn cứ khác nhau\nTiếp xúc để hỏi thông tin, kiểm tra an ninh khi vào cơ sở, khám xét người và tước tự do không phải cùng một hành vi. Mỗi việc có mục đích, mức tác động và căn cứ cần xác định. Cán bộ không được biến một cuộc trao đổi tự nguyện thành giữ người thực tế mà không nhận ra trách nhiệm đã phát sinh.\n\nCần biết UNPOL đang hỗ trợ cảnh sát sở tại, giám sát hoạt động hay trực tiếp thực hiện theo mandate. Quyền trong nước không tự đi theo cán bộ tới phái bộ. SOP hướng dẫn cách thực hiện trách nhiệm nhưng không tự tạo thẩm quyền bắt hoặc giữ. Lệnh của người không có quyền cũng không khắc phục được thiếu căn cứ.\n\n### 1.2. Mục đích và phạm vi\nTrước khi thực hiện, xác định mục tiêu hợp pháp, đối tượng thông tin hoặc vật cần tìm, phạm vi cần thiết, người có trách nhiệm và cách xử lý kết quả. Một kiểm tra an ninh không tự trở thành quyền khám sâu hoặc thu mọi dữ liệu. Nếu người không đồng ý, phải đánh giá lựa chọn trong thẩm quyền và cơ chế áp dụng, không tự suy sự từ chối là căn cứ cưỡng chế.\n\nTrong tiếp xúc, giải thích ngắn và rõ lý do, phần việc cùng yêu cầu liên quan; sử dụng phiên dịch phù hợp khi cần. Lời giải thích giúp người hiểu và giảm hiểu nhầm, nhưng không thay điều kiện pháp lý. Không yêu cầu ký “đồng ý” để hợp thức hóa một biện pháp vốn không có căn cứ.\n\n### 1.3. Đánh giá theo hành vi và hoàn cảnh\nXem nguy cơ từ thông tin có căn cứ, điều quan sát và diễn biến, không suy từ sắc tộc, quốc tịch, giới, trang phục hoặc thái độ khó chịu đơn lẻ. Lúng túng, không hiểu tiếng hoặc chậm làm theo có thể có nhiều nguyên nhân. Cần phân biệt nguy cơ với cách giải thích mình đang giả định.\n\n### 1.4. Trách nhiệm bắt đầu từ kiểm soát thực tế\nKhi một người không được tự rời đi dưới sự kiểm soát thực tế của UN, phải nhận diện trách nhiệm giữ người dù gọi việc đó là gì. Thời điểm, địa điểm, lý do và người chịu trách nhiệm cần được ghi. Nghĩa vụ đối xử nhân đạo, chăm sóc và báo cáo không chỉ bắt đầu khi đã đưa tới nơi tạm giữ hoặc hoàn thành giấy tờ.",
+        "en": "### 1.1. Different actions require different grounds\nVoluntary contact, entry screening, personal search and deprivation of liberty differ in purpose, impact and required authority. Do not turn a conversation into effective custody without recognizing the resulting duties.\n\nEstablish whether UNPOL is supporting, monitoring or directly exercising mandated functions. Domestic powers do not transfer automatically. SOPs regulate responsibilities without independently granting arrest powers, and an unauthorized order cannot remedy missing grounds.\n\n### 1.2. Purpose and scope\nIdentify the lawful objective, sought information or items, necessary scope, responsible people and handling of results. Security screening does not create unlimited search or data-access powers. Refusal requires assessment under applicable authority rather than automatic coercion.\n\nExplain the reason and procedure clearly, with suitable language support. Explanation supports understanding but does not replace legal conditions. A signed consent form cannot cure an otherwise unlawful measure.\n\n### 1.3. Behaviour and circumstances\nAssess evidence, observations and developments rather than ethnicity, nationality, gender, clothing or isolated irritation. Confusion, language barriers and delayed compliance have several possible causes. Distinguish actual risk from assumed explanations.\n\n### 1.4. Effective control creates duties\nWhere a person cannot leave UN control, recognize custody responsibilities regardless of terminology. Record time, location, grounds and responsibility. Humane treatment, care and reporting begin with effective control, not only arrival at a facility or completion of forms."
+      },
+      "sourceIds": [
+        "SEARCH",
+        "U42",
+        "DET2020"
+      ]
+    },
+    {
+      "id": "FPU-09-02",
+      "title": {
+        "vi": "2. Giao tiếp, giảm căng thẳng và phối hợp",
+        "en": "2. Communication, de-escalation and coordination"
+      },
+      "body": {
+        "vi": "### 2.1. Giao tiếp là biện pháp an toàn\nGiới thiệu vai trò, nói điều cần người đó làm bằng câu rõ, ngắn và có thể thực hiện. Cho thời gian hiểu, kiểm tra ngôn ngữ và tránh nhiều cán bộ cùng ra yêu cầu mâu thuẫn. Không dùng lời xúc phạm, đe dọa trừng phạt hoặc biểu hiện làm nhục để ép hợp tác.\n\nLắng nghe thông tin về sức khỏe, đau, khó thở, khuyết tật hoặc việc không thể làm theo. Một người không đưa tay hoặc đứng dậy như yêu cầu có thể đang bị thương; cần xác định thay vì tự động diễn giải là chống đối. Giao tiếp không loại trừ đánh giá nguy cơ, nhưng cung cấp thông tin giúp đánh giá đúng hơn.\n\n### 2.2. Phân công rõ trách nhiệm\nTrước phần việc đã được cho phép, xác định ai giao tiếp, ai thực hiện, ai quan sát an toàn, ai báo cáo và ai gọi hỗ trợ. Vai trò có thể điều chỉnh theo hoàn cảnh nhưng phải được hiểu. Người phụ trách không chỉ theo dõi cán bộ mà còn tình trạng của người đang chịu biện pháp.\n\nKhông để cùng lúc nhiều người đưa lệnh hoặc thực hiện hành động mà không biết nhau đang làm gì. Khi cần nhân viên y tế, phiên dịch hoặc cán bộ phù hợp yêu cầu bảo vệ, phải gọi sớm. Thiếu nguồn lực là yếu tố cần báo và điều chỉnh phương án, không phải lý do tự bỏ bảo đảm.\n\n### 2.3. Giảm nguy cơ mà không đánh đổi quyền\nGiữ môi trường có thể quan sát, giảm người tụ tập không có nhiệm vụ, bảo vệ riêng tư và kiểm soát thông tin. Không dùng việc quay phim hoặc công khai danh tính để gây áp lực. Khi có trẻ, người dễ bị hại hoặc người chứng kiến, cần tính cả tác động tâm lý và nguy cơ trả đũa.\n\nCác kỹ thuật tiếp cận, vị trí và khống chế cần được học trực tiếp với người hướng dẫn. Bài học nhấn mạnh tiêu chí và trách nhiệm, không thể xác nhận người đọc đã đủ năng lực xử lý một tình huống có nguy cơ chỉ bằng kiến thức trực tuyến.\n\n### 2.4. Đánh giá lại thay vì leo thang tự động\nNếu tình hình thay đổi, xem biện pháp ít xâm phạm hơn, hỗ trợ bổ sung, tạm dừng hoặc lựa chọn khác được phép. Không đi qua một thang tăng vũ lực chỉ vì người chưa làm theo ngay. Mức vũ lực phải còn cần thiết và tương xứng; mục tiêu là bảo vệ và thực hiện nhiệm vụ hợp pháp, không giành thắng lợi trong tranh cãi.",
+        "en": "### 2.1. Communication supports safety\nExplain roles and use concise, achievable instructions. Allow comprehension and avoid contradictory commands from several officers. Insults, humiliation and punitive threats are unacceptable methods of obtaining cooperation.\n\nListen for injury, breathing difficulty, disability or inability to comply. Failure to move as requested may reflect a physical limitation rather than resistance. Communication adds information without replacing risk assessment.\n\n### 2.2. Clear responsibilities\nAssign communication, authorized action, safety observation, reporting and support activation. Adapt roles explicitly. Monitoring includes the affected person's condition as well as officer safety.\n\nAvoid uncoordinated actions and competing instructions. Request medical staff, interpreters or appropriate protection personnel early. Resource gaps require reporting and adjustment rather than abandonment of safeguards.\n\n### 2.3. Reduce risk while respecting rights\nMaintain appropriate observation, limit unnecessary onlookers, protect privacy and control information. Do not use recording or public identification as pressure. Consider psychological and retaliation risks for children, vulnerable people and witnesses.\n\nApproach, positioning and physical-control techniques require competent practical instruction. Reading cannot establish readiness for a risky encounter.\n\n### 2.4. Reassess instead of automatic escalation\nConsider less intrusive measures, support, a pause or other authorized alternatives as conditions change. Delayed compliance does not justify mechanically escalating force. Force must remain necessary and proportionate to a lawful objective, rather than winning an argument."
+      },
+      "sourceIds": [
+        "SEARCH",
+        "ARREST",
+        "CSC015"
+      ]
+    },
+    {
+      "id": "FPU-09-03",
+      "title": {
+        "vi": "3. Khám xét tôn trọng phẩm giá",
+        "en": "3. Searches respecting dignity"
+      },
+      "body": {
+        "vi": "### 3.1. Giới hạn theo mục đích\nKhám xét phải nằm trong căn cứ và phạm vi được phép, với người đã được huấn luyện. Giải thích mục đích, trình tự và điều cần hợp tác; kiểm soát người không có nhiệm vụ quan sát. Không dùng khám xét để gây nhục, đe dọa, phân biệt hoặc tìm thông tin ngoài mục đích được phép.\n\nMột người đã được khám trước đó không loại bỏ nhu cầu đánh giá an toàn tiếp theo, nhưng việc khám lại cũng cần căn cứ và quy trình, không tùy tiện lặp để gây áp lực. Ghi lý do, thời gian, người thực hiện và kết quả theo yêu cầu.\n\n### 3.2. Giới, tuổi và nhu cầu cụ thể\nViệc khám người do UN giữ cần thực hiện bởi nhân sự cùng giới theo quy định; SOP nêu hai người cùng giới nếu có thể. Ngoại lệ khám người khác giới chỉ giới hạn khi không có người cùng giới và có lý do an ninh cấp thiết tại thời điểm bắt hoặc đang giữ, không phải vì thuận tiện hoặc thiếu chuẩn bị. Cần báo và ghi rõ căn cứ, bảo vệ phẩm giá.\n\nXem xét khuyết tật, ngôn ngữ, tôn giáo, văn hóa và trải nghiệm bạo lực. Không mặc định mọi người có cùng khả năng hiểu hoặc thực hiện tư thế yêu cầu. Khi có nhu cầu đặc thù, kết nối người có trách nhiệm và hướng dẫn phù hợp; không tự giải quyết bằng biện pháp xâm phạm hơn.\n\n### 3.3. Quy định riêng cho trẻ em\nKhi còn nghi ngờ tuổi của người đang được UN kiểm soát, áp dụng bảo vệ như trẻ và chuyển cơ chế chuyên môn. Trẻ chỉ bị khám khi có căn cứ nghi mang vật có thể gây thương tích cho mình hoặc người khác. Theo Annex B SOP, việc khám phải từng phần, tuần tự, bởi nhân sự quân sự hoặc cảnh sát UN cùng giới đã được huấn luyện bảo vệ trẻ em, có người thứ hai hiện diện.\n\nTrẻ không bao giờ bị khám lột trần hoặc khám khoang cơ thể. Không suy ngoại lệ an ninh cấp thiết dành cho người lớn thành quyền bỏ các yêu cầu riêng của trẻ. Việc hỏi sâu hơn danh tính, tuổi, nhu cầu y tế và nơi gia đình thuộc CPA/đầu mối hoặc cán bộ bảo vệ trẻ em được giao.\n\n### 3.4. Đồ vật và thông tin\nĐể người được giữ hiện diện khi khám đồ hoặc chỗ ở theo quy định. Lập hồ sơ vật lấy đi, nhận dạng và tình trạng. Thấy điện thoại hoặc giấy tờ không tự trao quyền đọc, sao chép hay chia sẻ mọi nội dung. Phải theo thẩm quyền, mục đích và hướng dẫn bảo vệ dữ liệu; vật nguy hiểm cần người có năng lực xử lý.",
+        "en": "### 3.1. Purpose-limited search\nSearches require authority, appropriate scope and trained personnel. Explain the procedure and restrict unnecessary observation. Search must not humiliate, intimidate, discriminate or pursue unauthorized information.\n\nA previous search does not remove subsequent safety assessment, while repeated searches still require grounds and procedure. Record reasons, timing, personnel and results as required.\n\n### 3.2. Gender, age and specific needs\nUN custody searches follow same-sex requirements; the SOP specifies two same-sex personnel where possible. Opposite-sex exceptions are limited to unavailable same-sex personnel and imperative security grounds at apprehension or during detention, not convenience. Record and report the grounds while protecting dignity.\n\nAccount for disability, language, religion, culture and violence-related needs. Obtain appropriate advice rather than replacing accommodation with more intrusive measures.\n\n### 3.3. Child-specific safeguards\nWhen age remains uncertain, apply child safeguards and obtain specialist assessment. Children may be searched only on grounds to suspect an injury-causing object. Annex B requires partial, sequential search by same-sex UN military or police personnel trained in child protection, with a second person present.\n\nChildren must never undergo strip or body-cavity searches. Adult security exceptions do not remove child-specific requirements. Questions beyond identity, age, medical needs and family whereabouts belong to the CPA/focal point or delegated Child Protection Officer.\n\n### 3.4. Property and information\nPermit presence during searches of belongings or accommodation as required. Record removed items, identity and condition. Possession of a phone or document does not authorize unrestricted access, copying or sharing. Follow authority, purpose and data safeguards; dangerous items require competent handling."
+      },
+      "sourceIds": [
+        "DET2020",
+        "SEARCH"
+      ]
+    },
+    {
+      "id": "FPU-09-04",
+      "title": {
+        "vi": "4. Kiềm chế: Cần thiết, tối thiểu và được theo dõi",
+        "en": "4. Restraint: Necessary, limited and monitored"
+      },
+      "body": {
+        "vi": "### 4.1. Kiềm chế là sử dụng vũ lực\nCòng hoặc phương tiện kiềm chế tác động thân thể và tự do, phải có căn cứ, sự cần thiết, tương xứng và giám sát. Không dùng để trừng phạt, làm nhục hoặc thay chăm sóc y tế. Tình trạng bị giữ không tự có nghĩa phải áp dụng mọi phương tiện suốt thời gian.\n\nSOP nêu các hoàn cảnh giới hạn: Phòng bỏ trốn khi chuyển giữa cơ sở UN hoặc bàn giao; chỉ định y tế từ nhân viên đủ trình độ theo đạo đức y khoa; hoặc lệnh chỉ huy khi cách kiểm soát khác không hiệu quả để ngăn người gây thương tích cho mình, người khác hoặc làm hỏng tài sản. Các hoàn cảnh này vẫn phải được đọc với tiêu chuẩn vũ lực, nguy cơ cá nhân và thời gian cần thiết.\n\n### 4.2. Trang bị và người thực hiện\nChỉ dùng phương tiện được thiết kế cho mục đích và được cho phép, do người đã huấn luyện sử dụng. Không dùng dây hoặc vật tự chế tùy tiện để thay thế. Không thực hành siết, khóa hoặc khống chế trên người khác theo hướng dẫn đọc trên mạng. Kiểm tra độ phù hợp, tình trạng và giới hạn cần được học trực tiếp.\n\n### 4.3. Theo dõi sức khỏe là trách nhiệm chủ động\nCần theo dõi đáp ứng, hơi thở, đau, tuần hoàn và dấu hiệu thay đổi. Không đặt áp lực lên cổ hoặc ngực, không làm tắc đường thở; tránh duy trì tư thế có thể cản hô hấp. Khi có thể, chuyển sang tư thế an toàn phù hợp và giữ thời gian kiềm chế tối thiểu theo đánh giá, huấn luyện.\n\nNgười nói khó thở phải được xem xét nghiêm túc. Ngừng giãy hoặc im lặng không chứng minh đã ổn; có thể là dấu hiệu xấu đi. Gọi y tế khẩn khi có giảm đáp ứng, thở bất thường hoặc dấu hiệu cấp cứu, đồng thời điều chỉnh biện pháp để bảo vệ sinh mạng trong phạm vi huấn luyện. Không tự chẩn đoán họ đang giả vờ.\n\n### 4.4. Rà liên tục và ghi lý do\nKiểm tra phương tiện thường xuyên theo quy định để bảo đảm tuần hoàn, giảm khó chịu; tháo sớm nhất có thể theo đánh giá nguy cơ và tạo điều kiện vệ sinh theo SOP. Việc kiểm tra không chỉ ghi một mốc mà cần có người thực hiện, kết quả và hành động. Mỗi thay đổi phải được truyền cho người tiếp nhận trách nhiệm để không mất giám sát giữa các ca hoặc khi vận chuyển.",
+        "en": "### 4.1. Restraint is force\nHandcuffs and other restraints require grounds, necessity, proportionality and supervision. They must not punish, humiliate or replace medical care. Custody does not automatically justify continuous restraint.\n\nThe SOP limits use to specified circumstances: Escape precautions during UN-facility transfer or national handover; qualified medical direction consistent with ethics; or command direction after other control methods fail to prevent injury or property damage. Force standards, individual risk and strictly necessary duration still apply.\n\n### 4.2. Equipment and competence\nUse authorized purpose-designed equipment through trained personnel. Do not improvise substitutes or practise physical techniques on others from online text. Fit, condition and limitations require direct instruction.\n\n### 4.3. Active health monitoring\nMonitor responsiveness, breathing, pain, circulation and changes. Avoid pressure on the neck or chest, airway obstruction and prolonged breathing-restricting positions. Use appropriate safe positioning as soon as possible and minimize restraint duration under trained assessment.\n\nTake breathing complaints seriously. Silence or stopped struggling may indicate deterioration rather than recovery. Activate urgent medical help for reduced responsiveness, abnormal breathing or emergency signs, and adjust measures to preserve life within competence. Do not assume pretence.\n\n### 4.4. Continued review\nCheck restraints regularly for circulation and discomfort, remove them as early as risk permits and accommodate ablutions under the SOP. Checks need an observer, findings and action, not merely a scheduled time. Transfer changes explicitly so monitoring continues across shifts and transport."
+      },
+      "sourceIds": [
+        "CUFF",
+        "BATON",
+        "DET2020",
+        "COP"
+      ]
+    },
+    {
+      "id": "FPU-09-05",
+      "title": {
+        "vi": "5. Chăm sóc, vật lấy đi và hồ sơ",
+        "en": "5. Care, removed items and records"
+      },
+      "body": {
+        "vi": "### 5.1. Đối xử nhân đạo trong toàn bộ quá trình\nNgười do UN kiểm soát cần được bảo vệ khỏi bạo lực, tra tấn, đối xử hạ nhục và hại từ người khác. Tổ chức đáp ứng nhu cầu y tế, nước, vệ sinh, chỗ ở và bảo vệ phù hợp tình trạng, thời gian giữ cùng quy định. Không trì hoãn chăm sóc để ép khai, đợi người hợp tác hoặc đợi giải quyết trách nhiệm giữa các đơn vị.\n\nThông tin cho người được giữ về lý do và các bảo đảm theo cơ chế. Hỗ trợ liên lạc, phiên dịch và nhu cầu bảo vệ qua đầu mối có trách nhiệm. Với trẻ em, ưu tiên bảo vệ, chăm sóc và cơ chế chuyên môn; không dùng cách quản lý người lớn làm mặc định.\n\n### 5.2. Vật lấy đi phải truy được\nGhi rõ vật, số lượng, đặc điểm nhận dạng, tình trạng, người giao–nhận, thời gian và nơi lưu. Gắn nhận dạng phù hợp để không nhầm tài sản giữa nhiều người. Phân biệt vật cần bảo quản, vật có thể là chứng cứ và vật nguy hiểm; mỗi loại có cách xử lý theo hướng dẫn.\n\nKhông tự sử dụng, tặng, hủy hoặc chuyển đồ vì thấy không có giá trị. Cũng không đưa cán bộ chưa có chuyên môn tới gần vật nghi nổ để hoàn thành kiểm kê. An toàn và bảo toàn bằng chứng phải được phối hợp với người có trách nhiệm.\n\n### 5.3. Hồ sơ giữ người và sử dụng vũ lực\nGhi thời điểm bắt đầu kiểm soát, căn cứ, nơi, người chịu trách nhiệm, biện pháp, thương tích quan sát, hỗ trợ y tế, vật lấy đi và các lần chuyển tiếp. Những gì chưa rõ cần được nêu là chưa rõ. Không suy người có vết thương trước đó thì đơn vị không cần ghi hoặc chăm sóc.\n\nNếu có sử dụng vũ lực, cần báo theo cơ chế tương ứng và mô tả căn cứ cùng diễn biến. Không dùng một dòng “đối tượng chống đối” để thay thông tin hành vi cụ thể, biện pháp và kết quả. Từ ngữ phải khách quan, không định tội trước.\n\n### 5.4. Kiểm tra tính liên tục\nTrước đổi ca hoặc chuyển vị trí, đối chiếu người, hồ sơ, nhu cầu sức khỏe, hạn chế, tài sản và việc còn chờ. Xác nhận người tiếp nhận hiểu và có điều kiện thực hiện. Một tập hồ sơ đầy đủ không bù việc không ai biết đang chịu trách nhiệm giám sát người đó; phân công và xác nhận phải đi cùng giấy tờ.",
+        "en": "### 5.1. Humane treatment throughout\nProtect people under UN control from violence, torture, humiliation and harm by others. Provide appropriate medical, water, hygiene, accommodation and protection arrangements under applicable standards. Care must not depend on cooperation or resolving inter-unit responsibility disputes.\n\nCommunicate grounds and safeguards through the proper mechanism. Arrange contact, interpretation and protection assistance. Children require specialist care rather than default adult treatment.\n\n### 5.2. Traceable property\nRecord item descriptions, quantities, identifiers, condition, custody transfers, timing and storage. Distinguish property, potential evidence and dangerous materials. Follow the appropriate handling route for each.\n\nDo not use, give away, destroy or transfer items without authorization. Do not expose unqualified personnel to suspected explosives merely to complete an inventory. Coordinate safety and evidence preservation with competent actors.\n\n### 5.3. Custody and force records\nRecord initial control, grounds, location, responsibility, measures, observed injuries, care, property and transfers. Identify uncertainty rather than inventing details. Pre-existing injuries still require recording and care.\n\nForce reports need concrete behaviour, grounds, measures and results. “The suspect resisted” cannot replace relevant facts. Use objective language without prejudging guilt.\n\n### 5.4. Continuity checks\nReconcile the person, records, health needs, restrictions, property and outstanding action before handover. Confirm the receiver's understanding and capacity. Complete paperwork cannot substitute for an identified person actually supervising custody."
+      },
+      "sourceIds": [
+        "DET2020",
+        "CSC015"
+      ]
+    },
+    {
+      "id": "FPU-09-06",
+      "title": {
+        "vi": "6. Bàn giao, chuyển chăm sóc và trách nhiệm cuối",
+        "en": "6. Handover, care transfer and continuing duties"
+      },
+      "body": {
+        "vi": "### 6.1. Không mặc định bàn giao luôn an toàn\nTrước bàn giao cho cơ quan khác, thực hiện đánh giá nguy cơ cá nhân qua cơ chế phái bộ. Có thể cần xem nguy cơ tra tấn, đối xử tàn ác, mất tích hoặc các hại nghiêm trọng khác, cùng bảo đảm và khả năng theo dõi. Một cơ quan có tên chính thức hoặc đã từng nhận người không tự chứng minh an toàn cho trường hợp hiện tại.\n\nCán bộ không tự quyết bàn giao ngoài thẩm quyền để giải phóng quân số. Nếu có lo ngại, báo chỉ huy, Detention Focal Point và bộ phận liên quan để xử lý. Các mốc thời hạn phải theo SOP và hướng dẫn hiện hành, không biến thời hạn tối đa thành thời gian mặc nhiên được giữ hoặc lý do chuyển vội bất chấp nguy cơ.\n\n### 6.2. Trẻ em và chuyển chăm sóc\nTrẻ cần cơ chế CPA/đầu mối bảo vệ trẻ em và đối tác chăm sóc. SOP yêu cầu nỗ lực bàn giao chăm sóc trong 48 giờ, đồng thời có ngoại lệ bảo vệ rất hẹp thuộc quyết định và rà soát của cấp có thẩm quyền khi chưa có chăm sóc an toàn hoặc có nguy cơ nghiêm trọng. Không tự gia hạn, không tự thả trẻ vào nơi không an toàn, không suy ngoại lệ này sang mọi người bị giữ.\n\nĐánh giá phải theo từng trẻ và nguy cơ cụ thể, không chỉ có một chữ ký nhận. Yêu cầu về hỏi trẻ và khám trẻ tiếp tục trong lúc chờ; việc cần bàn giao không làm mất các bảo đảm ấy.\n\n### 6.3. Xác nhận chuyển trách nhiệm\nBàn giao cần đúng người, đúng nơi, hồ sơ, tài sản, tình trạng sức khỏe, biện pháp đang áp dụng và xác nhận tiếp nhận. Nêu những thay đổi quan trọng bằng lời, không chỉ để trong tài liệu mà người nhận có thể chưa đọc. Khi yêu cầu theo dõi sau bàn giao tồn tại, phải xác định ai làm và cách báo.\n\n### 6.4. Rút kinh nghiệm và kiểm tra năng lực\nXem tính hợp pháp, giao tiếp, sử dụng vũ lực, chăm sóc, hồ sơ và chuyển tiếp. Nếu có dấu hiệu vi phạm, thực hiện nghĩa vụ bảo vệ và báo, không thay bằng rút kinh nghiệm nội bộ. Các kỹ thuật tiếp cận, khám, còng và kiểm soát phải được giảng viên đủ năng lực hướng dẫn và đánh giá trực tiếp. Người học đạt nhận thức khi biết căn cứ, giới hạn, dấu hiệu cần dừng và cách duy trì trách nhiệm với con người trong toàn bộ quá trình.",
+        "en": "### 6.1. Handover is not automatically safe\nUse mission procedures for individual transfer-risk assessment, including torture, cruel treatment, disappearance and other serious harm, assurances and follow-up capacity. Official status or previous acceptance does not establish safety in the current case.\n\nDo not transfer outside authority merely to release personnel. Elevate concerns through command, the Detention Focal Point and relevant specialists. Applicable time limits are neither default holding periods nor reasons to disregard transfer risks.\n\n### 6.2. Children and care\nInvolve the CPA/focal point and appropriate care actors. The SOP requires efforts towards care handover within 48 hours, with narrowly controlled protective exceptions where safe care is unavailable or grave risks remain, subject to authorized decision and review. Officers cannot independently extend control or abandon children to unsafe conditions. Child exceptions do not apply generally to adult custody.\n\nAssess each child and actual risks beyond a receipt signature. Questioning and search safeguards continue while care is arranged.\n\n### 6.3. Confirm responsibility transfer\nReconcile identity, destination, documents, property, health, ongoing measures and acceptance. Communicate important changes verbally as well as in records. Assign any required post-transfer follow-up.\n\n### 6.4. Learning and competence\nReview legality, communication, force, care, records and transfer. Suspected violations require protection and reporting, not merely internal learning. Physical techniques require competent supervised instruction and assessment. Knowledge competence means understanding grounds, limits, stopping signs and continuing responsibility for the person throughout control."
+      },
+      "sourceIds": [
+        "DET2020",
+        "CSC015"
+      ]
+    }
+  ],
+  "source_ids": [
+    "SEARCH",
+    "U42",
+    "DET2020",
+    "ARREST",
+    "CSC015",
+    "CUFF",
+    "BATON",
+    "COP"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "Effective control",
+      "definition": {
+        "vi": "Kiểm soát thực tế làm phát sinh trách nhiệm dù tên gọi khác.",
+        "en": "Effective control triggering duties regardless of labels."
+      }
+    },
+    {
+      "term": "Search / Restraint",
+      "definition": {
+        "vi": "Khám xét / biện pháp kiềm chế có căn cứ riêng.",
+        "en": "Search / restraint requiring respective grounds."
+      }
+    },
+    {
+      "term": "CPA / Detention Focal Point",
+      "definition": {
+        "vi": "Cố vấn bảo vệ trẻ em / đầu mối xử lý giữ người.",
+        "en": "Child Protection Adviser / detention focal point."
+      }
+    },
+    {
+      "term": "Positional risk",
+      "definition": {
+        "vi": "Nguy cơ sức khỏe do tư thế hoặc áp lực cản hô hấp.",
+        "en": "Health risk from position or breathing-restricting pressure."
+      }
+    },
+    {
+      "term": "Handover risk assessment",
+      "definition": {
+        "vi": "Đánh giá nguy cơ đối với từng người trước bàn giao.",
+        "en": "Individual risk assessment before handover."
+      }
+    }
+  ],
+  "diagram": null,
+  "contentVersion": "batch-04-expanded-v1-2026-10-28",
+  "sourceIntro": {
+    "vi": "Nguồn theo mục và tài liệu đối chiếu. Lời giảng, bản Anh và câu hỏi được biên soạn cho Handbook. Hình gốc có tài liệu, trang PDF và lời giải thích riêng.",
+    "en": "Section-level sources and supplementary reading. Teaching, English text and questions are authored for the Handbook. Original figures identify source, PDF page and separate commentary."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Bản biên soạn đợt 4, ngày 28/10/2026, chờ người dùng duyệt; không phải ấn phẩm hoặc bản dịch chính thức UN. Mã bài là cách tổ chức của Handbook.",
+      "Giao diện giữ bốn tab, Tahoma, cỡ chữ và bố cục mẫu. Hình giữ chữ gốc, có lời giảng Việt–Anh. Nguồn theo mục chỉ nền kiến thức, không coi mọi câu là trích nguyên văn.",
+      "Nội dung chung không thay mandate, DUF hoặc SOP phái bộ, không tự trao quyền hoặc chứng nhận năng lực thực hành. Phần thực hành cần người hướng dẫn đủ năng lực và điều kiện phù hợp.",
+      "Đọc trực tiếp SOP 2020.13 Annex A phần (d), (e) và Annex B, đối chiếu các module 2015 với CSC Lesson 15. Quy định khám trẻ không được suy từ ngoại lệ người lớn; trẻ không bị khám lột trần hoặc khoang cơ thể.",
+      "SOP Annex A đoạn 8–10 giới hạn kiềm chế; Annex B đoạn 15 quy định hỏi và khám trẻ, đoạn 16–22 quy định chuyển chăm sóc và ngoại lệ bảo vệ có thẩm quyền. College of Policing là nguồn chuyên môn bổ sung về theo dõi hô hấp, không phải tuyến trao quyền UN.",
+      "Các kỹ thuật còng, khống chế, gậy và khám trực tiếp cần giảng viên có năng lực. Bài tập trung tiêu chí pháp lý, bảo vệ và trách nhiệm, không tái hiện hướng dẫn tạo đau hoặc kỹ thuật tác động thân thể."
+    ],
+    "en": [
+      "Batch 4 authored on 28 October 2026 for user review, not an official UN publication or translation. Lesson numbering belongs to the Handbook.",
+      "The four-tab Tahoma interface, sizes and sample layout are retained. Figures preserve original text with bilingual commentary. Mapping identifies knowledge foundations, not verbatim sourcing for every sentence.",
+      "General content does not replace applicable mandates, DUF or mission SOPs and confers neither powers nor practical certification. Practical learning requires competent instruction and suitable conditions.",
+      "SOP 2020.13 Annex A sections (d), (e) and Annex B were read directly, with the 2015 modules compared to CSC Lesson 15. Adult exceptions are not extended to child searches; strip and body-cavity searches of children are prohibited.",
+      "SOP Annex A paragraphs 8–10 govern restraint; Annex B paragraph 15 covers child questioning and search, and paragraphs 16–22 address care transfer and authorized protective exceptions. College of Policing supplements respiratory-monitoring knowledge without conferring UN powers.",
+      "Handcuffing, control, baton and physical-search skills require competent instruction. The lesson addresses legal criteria, safeguards and responsibility without pain-compliance or physical-force technique instructions."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bài học tổ chức trách nhiệm từ tiếp xúc, xác định căn cứ và giao tiếp tới khám xét, kiềm chế, chăm sóc, hồ sơ và bàn giao. Bảo vệ con người phải liên tục trong suốt thời gian kiểm soát.",
+      "en": "Follow responsibilities from contact, grounds and communication through search, restraint, care, records and handover, preserving continuous safeguards under effective control."
+    },
+    "subtitle": {
+      "vi": "Đúng căn cứ · Tôn trọng phẩm giá · Theo dõi liên tục",
+      "en": "Establish grounds · Respect dignity · Monitor continuously"
+    },
+    "objectives": {
+      "vi": [
+        "Phân biệt tiếp xúc, kiểm tra, khám xét và tước tự do.",
+        "Giải thích giao tiếp, phân công và đánh giá thay đổi.",
+        "Trình bày bảo đảm giới, tuổi, trẻ em và dữ liệu khi khám.",
+        "Nêu giới hạn kiềm chế, thời gian và theo dõi y tế.",
+        "Kết nối tài sản, hồ sơ, nguy cơ bàn giao và chuyển chăm sóc."
+      ],
+      "en": [
+        "Distinguish contact, screening, search and deprivation of liberty.",
+        "Explain communication, role allocation and reassessment.",
+        "Explain gender, age, child and data safeguards in searches.",
+        "Explain restraint grounds, duration limits and health monitoring.",
+        "Connect property, records, transfer risk and child care handover."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc sáu mục trong tab Nội dung bài học; bấm hình để xem lớn và đọc lời giảng kèm. Làm 12 câu kiểm tra, đọc giải thích và trở lại mục liên quan. VI/EN giữ đáp án trong phiên; tải lại trang bắt đầu lại.",
+      "en": "Read six sections and figure commentary; click figures to enlarge. Complete 12 questions, review explanations and revisit relevant sections. VI/EN retains selections during the session; reloading starts again."
+    }
+  },
+  "figures": [
+    {
+      "chapter": 0,
+      "image": "assets/lesson-figures/batch-04/CSC015-p11.png",
+      "alt": {
+        "vi": "Hình 1. Quyền con người trong kiểm soát và giữ người",
+        "en": "Figure 1. Human rights in apprehension and detention"
+      },
+      "caption": {
+        "vi": "Hình 1. Quyền con người trong kiểm soát và giữ người",
+        "en": "Figure 1. Human rights in apprehension and detention"
+      },
+      "explanation": {
+        "vi": "Phẩm giá, hợp pháp, cần thiết, tương xứng, không phân biệt và trách nhiệm cùng ràng buộc hoạt động. Đừng chỉ hỏi biện pháp có hiệu quả không; phải hỏi có căn cứ, giới hạn, chăm sóc và theo dõi không.",
+        "en": "Dignity, legality, necessity, proportionality, non-discrimination and accountability operate together. Effectiveness alone is insufficient; examine grounds, limits, care and monitoring."
+      },
+      "sourceLabel": "UN FPU Command Staff Course 2026 · Lesson 15",
+      "pdfPage": 11
+    }
+  ],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft",
+  "figureZoom": true
+}

@@ -1,0 +1,76 @@
+/* CORE-01: the same typography and reading rhythm as the FPU-16 reader. */
+#core01-lesson{
+ --p-paper:light-dark(#ffffff,#172c3c);--p-bg:light-dark(#f4f7fa,#10212e);
+ --p-ink:light-dark(#18364c,#e5eff7);--p-muted:light-dark(#596f80,#b1c6d5);
+ --p-line:light-dark(#dce6ed,#385165);--p-blue:light-dark(#155f95,#99cfff);--p-soft:light-dark(#eaf3fa,#233e52);
+ font:14px/1.75 Tahoma,Arial,sans-serif;color:var(--p-ink);background:var(--p-bg);
+ border:1px solid var(--p-line);border-radius:8px;overflow:hidden;color-scheme:light;
+}
+body.dark #core01-lesson{color-scheme:dark}
+#core01-lesson *{box-sizing:border-box}
+#core01-lesson [hidden]{display:none!important}
+#core01-lesson .intro{padding:12px 24px 20px;background:var(--p-paper)}
+#core01-lesson .core-meta{display:flex;align-items:center;gap:10px;flex-wrap:wrap;font-size:12px;color:var(--p-muted)}
+#core01-lesson .badge{background:var(--p-soft);color:var(--p-blue);padding:3px 9px;border-radius:4px;font-size:12px}
+#core01-lesson .small{font-size:12px;color:var(--p-muted)}
+#core01-lesson h1{font:700 28px/1.3 Tahoma,Arial,sans-serif;margin:12px 0 8px;color:var(--p-ink);letter-spacing:-.025em}
+#core01-lesson h2{font:700 20px/1.45 Tahoma,Arial,sans-serif;margin:0 0 14px;padding-bottom:12px;border-bottom:1px solid var(--p-line)}
+#core01-lesson h3{font:700 16px/1.5 Tahoma,Arial,sans-serif;color:var(--p-blue);margin:26px 0 10px}
+#core01-lesson p{margin:0 0 16px}
+#core01-lesson #subtitle{margin:0;font-size:14px;color:var(--p-muted)}
+#core01-lesson button{font:inherit;color:inherit;cursor:pointer;background:var(--p-paper);border:1px solid var(--p-line);padding:9px 14px;border-radius:4px;font-size:13px;line-height:1.75}
+#core01-lesson button:hover{background:var(--p-soft)}
+#core01-lesson button:disabled{opacity:.45;cursor:default}
+#core01-lesson button:focus-visible,#core01-lesson a:focus-visible,#core01-lesson input:focus-visible{outline:3px solid var(--p-blue);outline-offset:2px}
+#core01-lesson .primary{background:var(--p-blue);color:var(--p-paper);border-color:var(--p-blue)}
+#core01-lesson .primary:hover{filter:brightness(.95)}
+#core01-lesson nav.tabs{display:flex;flex-wrap:wrap;gap:0;background:var(--p-paper);padding:0 16px;border-block:1px solid var(--p-line);position:sticky;top:76px;z-index:5}
+#core01-lesson nav.tabs button{flex:1 1 140px;border:0;border-bottom:3px solid transparent;border-radius:0;padding:14px 10px;background:transparent;font-weight:700;font-size:13px}
+#core01-lesson nav.tabs button[aria-selected="true"]{color:var(--p-blue);border-bottom-color:var(--p-blue);background:var(--p-soft)}
+#core01-lesson .panel{padding:24px;background:var(--p-paper);overflow-wrap:anywhere}
+#core01-lesson .lesson{display:grid;grid-template-columns:205px minmax(0,1fr);gap:26px}
+#core01-lesson .toc{position:static;top:auto;max-height:none;overflow:visible;align-self:stretch;margin:0;padding:0 14px 0 0;border:0;border-right:1px solid var(--p-line);border-radius:0;background:transparent}
+#core01-lesson .toc-label{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--p-muted);font-weight:400;margin:0 0 16px}
+#core01-lesson .toc button{width:100%;border:0;text-align:left;background:transparent;padding:10px 12px;margin-bottom:4px;font-size:12px}
+#core01-lesson .toc button[aria-current="true"]{background:var(--p-soft);color:var(--p-blue);font-weight:700}
+#core01-lesson .reading,#core01-lesson article{min-width:0;overflow-wrap:anywhere}
+#core01-lesson article p,#core01-lesson article li,#core01-lesson #overview p,#core01-lesson #overview li,#core01-lesson #sources p,#core01-lesson #sources li{text-align:justify;text-justify:inter-word;hyphens:auto}
+#core01-lesson ul,#core01-lesson ol{padding-left:23px;margin:12px 0 18px}
+#core01-lesson li{padding-left:4px;margin:9px 0}
+#core01-lesson li::marker{color:var(--p-blue);font-weight:700}
+#core01-lesson aside{background:var(--p-soft);border-left:3px solid var(--p-blue);padding:13px 16px;margin:16px 0}
+#core01-lesson table{border-collapse:collapse;width:100%;margin:16px 0;font-size:13px;table-layout:fixed}
+#core01-lesson th,#core01-lesson td{padding:10px;border:1px solid var(--p-line);text-align:left;vertical-align:top;overflow-wrap:anywhere;line-height:1.7}
+#core01-lesson th{background:var(--p-soft)}
+#core01-lesson a{color:var(--p-blue);overflow-wrap:anywhere}
+#core01-lesson .flow{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:20px 0 10px}
+#core01-lesson .flow div{border:1px solid var(--p-line);background:var(--p-soft);padding:14px;border-radius:4px}
+#core01-lesson .flow b,#core01-lesson .flow span{display:block}
+#core01-lesson .flow b{color:var(--p-blue);font-size:14px}
+#core01-lesson .flow span{font-size:13px;margin-top:8px}
+#core01-lesson figure{margin:20px 0 24px;padding:0;background:var(--p-paper)}
+#core01-lesson figure img{display:block;width:100%;max-width:480px;height:auto;margin:0 auto;border:1px solid var(--p-line)}
+#core01-lesson .caption,#core01-lesson figcaption{font-size:12px;line-height:1.7;color:var(--p-muted);max-width:480px;margin:10px auto 0;text-align:center}
+#core01-lesson .pager{display:flex;flex-wrap:wrap;gap:8px;justify-content:space-between;border-top:1px solid var(--p-line);padding-top:18px;margin-top:22px}
+#core01-lesson .question{min-width:0;margin:20px 0;padding:18px 0 0;border:0;border-top:1px solid var(--p-line)}
+#core01-lesson .question legend{font-weight:400;line-height:1.75;padding:0}
+#core01-lesson .option{display:flex;gap:9px;align-items:flex-start;margin:8px 0;padding:10px 12px;border:1px solid var(--p-line);border-radius:4px;cursor:pointer}
+#core01-lesson input{margin-top:5px;accent-color:var(--p-blue);flex:none}
+#core01-lesson .feedback{padding:12px 14px;margin-top:12px;background:var(--p-soft)}
+#core01-lesson .score{font-weight:400;padding:13px 16px;background:var(--p-soft);border-left:3px solid var(--p-blue);margin:16px 0}
+@media(max-width:1000px){#core01-lesson .flow{grid-template-columns:minmax(0,1fr)}}
+@media(max-width:620px){
+ #core01-lesson .lesson{grid-template-columns:minmax(0,1fr);gap:16px}
+ #core01-lesson .toc{border:0;padding:0}
+ #core01-lesson .toc button{width:auto;max-width:100%;display:inline-block;margin:3px 4px 3px 0;border:1px solid var(--p-line)}
+ #core01-lesson .panel{padding:18px}
+ #core01-lesson h1{font-size:24px}
+ #core01-lesson .intro{padding-inline:18px}
+ #core01-lesson nav.tabs button{flex-basis:50%;font-size:12px}
+}
+@media print{
+ #core01-lesson .tabs,#core01-lesson .toc,#core01-lesson .pager,#core01-lesson .question button{display:none}
+ #core01-lesson .panel{display:block!important}
+ #core01-lesson .lesson{display:block}
+ #core01-lesson{border:0}
+}

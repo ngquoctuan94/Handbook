@@ -1,0 +1,519 @@
+{
+  "schemaVersion": 2,
+  "id": "IPO-01",
+  "area": "ipo",
+  "groupKey": "IPO-M1",
+  "group": {
+    "vi": "Cảnh sát cộng đồng",
+    "en": "Community-oriented policing"
+  },
+  "title": {
+    "vi": "Tiếp xúc cộng đồng và xây dựng niềm tin",
+    "en": "Community engagement and trust-building"
+  },
+  "summary": {
+    "vi": "Bài học IPO-01 tập trung vào chủ đề: Tiếp xúc cộng đồng và xây dựng niềm tin. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+    "en": "Lesson IPO-01 covers the following topic: Community engagement and trust-building. It connects concepts with professional responsibilities."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "U36",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-010%20UNPOL%20STM%20Lesson%205%20Community-Oriented%20Policing.pdf",
+  "order": 101,
+  "sections": [
+    {
+      "id": "IPO-01-01",
+      "title": {
+        "vi": "1. Chuẩn bị tiếp xúc",
+        "en": "1. Prepare inclusive engagement"
+      },
+      "body": {
+        "vi": "Xác định mục đích, nhóm cần gặp, ngôn ngữ, đầu mối và những điều không thể hứa. Lập bản đồ bên liên quan nhưng không coi người tự nhận đại diện là tiếng nói của tất cả. Chủ động xem nhóm khó tham gia do thời gian, giới, tuổi, khuyết tật hoặc khoảng cách.\n\n### 1.1. Lập bản đồ tiếp cận cộng đồng\n\nGhi các nhóm có liên quan, cách liên hệ và rào cản của từng nhóm. Cơ quan chính quyền, người có uy tín, tổ chức phụ nữ, thanh niên, người khuyết tật và người ít xuất hiện trong cuộc họp có thể cung cấp các góc nhìn khác nhau. Chọn địa điểm, thời gian và hình thức phù hợp để họ tham gia an toàn. Bản đồ phải được cập nhật khi địa bàn, quan hệ hoặc nhu cầu thay đổi.",
+        "en": "Define the purpose, groups to meet, language, focal points and limits on commitments. Map stakeholders without assuming a self-appointed representative speaks for everyone. Identify barriers involving timing, gender, age, disability or distance.\n\n### 1.1. Map access to the community\n\nIdentify relevant groups, contact channels and participation barriers. Authorities, community leaders, women’s organizations, young people, persons with disabilities and people absent from meetings may provide different perspectives. Choose a setting, time and method that allow safe participation. Update the map as relationships and needs change. Mapping is a means of widening access, not a permanent ranking of which community members matter most."
+      },
+      "sourceIds": [
+        "U36"
+      ]
+    },
+    {
+      "id": "IPO-01-02",
+      "title": {
+        "vi": "2. Tổ chức cuộc gặp",
+        "en": "2. Conduct the meeting"
+      },
+      "body": {
+        "vi": "Giới thiệu vai trò, giải thích sử dụng thông tin, xin phép theo cơ chế phù hợp và ưu tiên câu hỏi mở. Nghe hết trước khi xác nhận hiểu; tránh câu hỏi dẫn dắt hoặc lời hứa giải quyết ngay. Phiên dịch cần hiểu nhiệm vụ và bảo mật, không tự thay câu trả lời bằng ý mình.\n\n### 2.1. Một cuộc trao đổi có cấu trúc\n\nMở đầu bằng vai trò và mục đích; hỏi người tham gia đang quan tâm điều gì; làm rõ sự việc, ảnh hưởng và điều họ mong thay đổi. Tóm tắt lại để họ sửa chỗ hiểu nhầm. Cuối buổi, nói rõ nội dung nào ghi nhận, nội dung nào được chuyển và cách cập nhật. Người tham gia có quyền không trả lời; không biến sự giúp đỡ thành điều kiện phải cung cấp thông tin.",
+        "en": "Introduce your role, explain information use and obtain appropriate permission. Use open questions and listen before checking understanding. Avoid leading questions and promises of immediate resolution. Interpreters need clear tasking and confidentiality; they must not substitute their own answers.\n\n### 2.1. Structure the conversation\n\nBegin with role and purpose, invite concerns, then clarify events, effects and the change people want. Summarize your understanding so participants can correct it. Close by stating what was recorded, what will be referred and how updates will be provided. People may decline to answer; access to assistance must not become conditional on giving information. Useful engagement leaves participants understanding the next step and the limits of the IPO’s role."
+      },
+      "sourceIds": [
+        "U36"
+      ]
+    },
+    {
+      "id": "IPO-01-03",
+      "title": {
+        "vi": "3. Tách nhu cầu và giải pháp",
+        "en": "3. Separate needs from proposed solutions"
+      },
+      "body": {
+        "vi": "Người dân có thể đề nghị thêm tuần tra nhưng vấn đề thực là thiếu chiếu sáng hoặc không biết nơi báo tin. IPO cần xác định trải nghiệm, nguy cơ và điều họ mong cải thiện; cùng đối tác chọn biện pháp trong phạm vi. Không từ chối nhu cầu chỉ vì giải pháp họ nêu không khả thi.",
+        "en": "A request for more patrols may reflect poor lighting or uncertainty about reporting. Understand experiences, risks and the improvement sought, then work with partners on feasible measures. An impractical proposed solution is not a reason to dismiss the underlying need."
+      },
+      "sourceIds": [
+        "U36"
+      ]
+    },
+    {
+      "id": "IPO-01-04",
+      "title": {
+        "vi": "4. Xây dựng niềm tin qua phản hồi",
+        "en": "4. Build trust through feedback"
+      },
+      "body": {
+        "vi": "Ghi việc đã cam kết, ai xử lý, thời gian dự kiến và cập nhật. Nếu chưa thể làm phải giải thích trung thực. Niềm tin giảm khi tiếp nhận nhiều lần nhưng không thông tin lại. Không đo bằng số cuộc gặp đơn thuần.",
+        "en": "Record commitments, responsibility, expected timing and updates. Explain honestly when action is not yet possible. Repeated intake without feedback undermines trust. Meeting counts alone cannot show that relationships improved."
+      },
+      "sourceIds": [
+        "U36"
+      ]
+    },
+    {
+      "id": "IPO-01-05",
+      "title": {
+        "vi": "5. Bảo vệ nguồn và kiểm tra thiên lệch",
+        "en": "5. Protect sources and check bias"
+      },
+      "body": {
+        "vi": "Một nhóm dễ gặp có thể chi phối bức tranh tình hình. Đối chiếu nguồn, ghi ý kiến khác và không công khai danh tính người phản ánh nhạy cảm. Sự thân thiện với IPO chưa chứng minh họ tin tưởng cơ quan cảnh sát sở tại; cần phân biệt đối tượng của niềm tin.",
+        "en": "Conveniently accessible groups may dominate the picture. Compare sources, record different views and protect sensitive identities. Friendliness towards an IPO does not prove confidence in host-State police; identify whose trust in which institution is being assessed."
+      },
+      "sourceIds": [
+        "U36"
+      ]
+    },
+    {
+      "id": "IPO-01-06",
+      "title": {
+        "vi": "6. Ghi nhận vấn đề và trạng thái phản hồi",
+        "en": "6. Record issues and referral status"
+      },
+      "body": {
+        "vi": "Một cuộc gặp có ba vấn đề: Mất đồ, thiếu ánh sáng và thái độ tiếp nhận. Không gộp thành “an ninh kém”. Với mỗi vấn đề ghi dữ kiện, nguồn, đầu mối có trách nhiệm và việc đã thống nhất. Phản hồi phải phân biệt đã chuyển, đã tiếp nhận và đã giải quyết; không dùng ba trạng thái thay nhau.",
+        "en": "Separate concerns such as theft, lighting and reception conduct instead of combining them under a vague insecurity label. For each, record facts, source, responsible focal point and agreed follow-up. Referred, received and resolved are distinct statuses and must not be used interchangeably."
+      },
+      "sourceIds": [
+        "U36"
+      ]
+    },
+    {
+      "id": "IPO-01-07",
+      "title": {
+        "vi": "7. Đánh giá niềm tin",
+        "en": "7. Assess trust and access"
+      },
+      "body": {
+        "vi": "Theo dõi khả năng phản ánh, mức hiểu biết về kênh hỗ trợ và trải nghiệm tiếp nhận. Người ít báo có thể thiếu tin tưởng hoặc không có nhu cầu, cần thêm dữ kiện. Không hỏi một đại diện duy nhất rồi suy cả cộng đồng đánh giá tốt. Kiểm tra cả người không tham gia để hiểu rào cản.\n\n### 7.1. Phân biệt các mức niềm tin\n\nCó thể một người sẵn sàng nói chuyện với IPO nhưng vẫn sợ báo vụ việc với cảnh sát sở tại. Cần hỏi về trải nghiệm tiếp nhận, sự tôn trọng, khả năng phản hồi và lo ngại trả đũa. Dùng cùng cách hỏi qua thời gian để theo dõi thay đổi, đồng thời xem cả phản ánh tiêu cực. Báo cáo cần nêu nhóm đã tiếp cận và nhóm chưa có thông tin, thay vì kết luận chung cả cộng đồng đều tin tưởng.",
+        "en": "Track ability to raise concerns, knowledge of assistance channels and reception experience. Low reporting may reflect low trust or low need, so obtain more evidence. Consult beyond one representative and include non-participants to understand barriers.\n\n### 7.1. Distinguish different kinds of trust\n\nA person may speak comfortably with an IPO but still fear reporting to host-State police. Examine reception experience, respectful treatment, feedback and retaliation concerns. Use reasonably consistent questions over time and include negative feedback. State which groups were reached and which remain unrepresented. Trust is a relationship to a particular institution and practice; it cannot be inferred solely from friendliness, attendance or the absence of complaints."
+      },
+      "sourceIds": [
+        "U36"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "U36",
+      "title": "Lesson 5 Community-Oriented Policing",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-010%20UNPOL%20STM%20Lesson%205%20Community-Oriented%20Policing.pdf",
+      "year": "2021",
+      "publisher": "United Nations UNPOL STM",
+      "format": "pdf",
+      "pages": 55,
+      "pdf_name": "U36.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Người tự nhận đại diện luôn nói thay mọi nhóm.",
+        "en": "A self-appointed representative always speaks for every group."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Cần tìm nhóm ít tiếng nói và rào cản.",
+        "en": "Seek less-heard groups and barriers."
+      }
+    },
+    {
+      "question": {
+        "vi": "Phiên dịch cần hiểu vai trò và nghĩa vụ bảo mật.",
+        "en": "Interpreters need role clarity and confidentiality."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Không thay câu trả lời bằng ý riêng.",
+        "en": "They must not substitute their own answer."
+      }
+    },
+    {
+      "question": {
+        "vi": "Giải pháp dân đề nghị không khả thi thì nhu cầu cũng có thể bỏ.",
+        "en": "An impractical requested solution means the need can be dismissed."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Tách nhu cầu thực khỏi giải pháp nêu ra.",
+        "en": "Separate the actual need from the suggested solution."
+      }
+    },
+    {
+      "question": {
+        "vi": "Niềm tin được xây qua phản hồi trung thực.",
+        "en": "Trust grows through truthful feedback."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Ghi cam kết, người xử lý và cập nhật.",
+        "en": "Record commitments, owners and updates."
+      }
+    },
+    {
+      "question": {
+        "vi": "Đã chuyển đầu mối đồng nghĩa đã giải quyết.",
+        "en": "Referred means resolved."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Chuyển, nhận và giải quyết là ba trạng thái.",
+        "en": "Referred, received and resolved are distinct."
+      }
+    },
+    {
+      "question": {
+        "vi": "Ít người báo có thể do rào cản hoặc thiếu tin tưởng.",
+        "en": "Low reporting may reflect barriers or low trust."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Cần dữ kiện trước kết luận.",
+        "en": "Obtain evidence before concluding."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Câu hỏi tạo cơ hội trình bày, không gợi sẵn câu trả lời?",
+        "en": "Which concept matches: A question inviting an account without supplying the answer?"
+      },
+      "options": [
+        {
+          "vi": "Câu dẫn dắt / Leading question",
+          "en": "Leading question"
+        },
+        {
+          "vi": "Phản hồi / Feedback",
+          "en": "Feedback"
+        },
+        {
+          "vi": "Câu hỏi mở / Open question",
+          "en": "Open question"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Câu hỏi mở / Open question: Câu hỏi tạo cơ hội trình bày, không gợi sẵn câu trả lời.",
+        "en": "Open question: A question inviting an account without supplying the answer."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Thông tin lại việc tiếp nhận, hành động và giới hạn?",
+        "en": "Which concept matches: Communicating receipt, action and limitations back?"
+      },
+      "options": [
+        {
+          "vi": "Câu hỏi mở / Open question",
+          "en": "Open question"
+        },
+        {
+          "vi": "Câu dẫn dắt / Leading question",
+          "en": "Leading question"
+        },
+        {
+          "vi": "Phản hồi / Feedback",
+          "en": "Feedback"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Phản hồi / Feedback: Thông tin lại việc tiếp nhận, hành động và giới hạn.",
+        "en": "Feedback: Communicating receipt, action and limitations back."
+      }
+    }
+  ],
+  "updated": "2026-10-26",
+  "moduleId": "IPO-M1",
+  "moduleOrder": 1,
+  "lessonOrder": 1,
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "IPO-01-01",
+      "title": {
+        "vi": "1. Chuẩn bị tiếp xúc",
+        "en": "1. Prepare inclusive engagement"
+      },
+      "body": {
+        "vi": "Xác định mục đích, nhóm cần gặp, ngôn ngữ, đầu mối và những điều không thể hứa. Lập bản đồ bên liên quan nhưng không coi người tự nhận đại diện là tiếng nói của tất cả. Chủ động xem nhóm khó tham gia do thời gian, giới, tuổi, khuyết tật hoặc khoảng cách.\n\n### 1.1. Lập bản đồ tiếp cận cộng đồng\n\nGhi các nhóm có liên quan, cách liên hệ và rào cản của từng nhóm. Cơ quan chính quyền, người có uy tín, tổ chức phụ nữ, thanh niên, người khuyết tật và người ít xuất hiện trong cuộc họp có thể cung cấp các góc nhìn khác nhau. Chọn địa điểm, thời gian và hình thức phù hợp để họ tham gia an toàn. Bản đồ phải được cập nhật khi địa bàn, quan hệ hoặc nhu cầu thay đổi.",
+        "en": "Define the purpose, groups to meet, language, focal points and limits on commitments. Map stakeholders without assuming a self-appointed representative speaks for everyone. Identify barriers involving timing, gender, age, disability or distance.\n\n### 1.1. Map access to the community\n\nIdentify relevant groups, contact channels and participation barriers. Authorities, community leaders, women’s organizations, young people, persons with disabilities and people absent from meetings may provide different perspectives. Choose a setting, time and method that allow safe participation. Update the map as relationships and needs change. Mapping is a means of widening access, not a permanent ranking of which community members matter most."
+      },
+      "sourceIds": [
+        "U36"
+      ]
+    },
+    {
+      "id": "IPO-01-02",
+      "title": {
+        "vi": "2. Tổ chức cuộc gặp",
+        "en": "2. Conduct the meeting"
+      },
+      "body": {
+        "vi": "Giới thiệu vai trò, giải thích sử dụng thông tin, xin phép theo cơ chế phù hợp và ưu tiên câu hỏi mở. Nghe hết trước khi xác nhận hiểu; tránh câu hỏi dẫn dắt hoặc lời hứa giải quyết ngay. Phiên dịch cần hiểu nhiệm vụ và bảo mật, không tự thay câu trả lời bằng ý mình.\n\n### 2.1. Một cuộc trao đổi có cấu trúc\n\nMở đầu bằng vai trò và mục đích; hỏi người tham gia đang quan tâm điều gì; làm rõ sự việc, ảnh hưởng và điều họ mong thay đổi. Tóm tắt lại để họ sửa chỗ hiểu nhầm. Cuối buổi, nói rõ nội dung nào ghi nhận, nội dung nào được chuyển và cách cập nhật. Người tham gia có quyền không trả lời; không biến sự giúp đỡ thành điều kiện phải cung cấp thông tin.",
+        "en": "Introduce your role, explain information use and obtain appropriate permission. Use open questions and listen before checking understanding. Avoid leading questions and promises of immediate resolution. Interpreters need clear tasking and confidentiality; they must not substitute their own answers.\n\n### 2.1. Structure the conversation\n\nBegin with role and purpose, invite concerns, then clarify events, effects and the change people want. Summarize your understanding so participants can correct it. Close by stating what was recorded, what will be referred and how updates will be provided. People may decline to answer; access to assistance must not become conditional on giving information. Useful engagement leaves participants understanding the next step and the limits of the IPO’s role."
+      },
+      "sourceIds": [
+        "U36"
+      ]
+    },
+    {
+      "id": "IPO-01-03",
+      "title": {
+        "vi": "3. Tách nhu cầu và giải pháp",
+        "en": "3. Separate needs from proposed solutions"
+      },
+      "body": {
+        "vi": "Người dân có thể đề nghị thêm tuần tra nhưng vấn đề thực là thiếu chiếu sáng hoặc không biết nơi báo tin. IPO cần xác định trải nghiệm, nguy cơ và điều họ mong cải thiện; cùng đối tác chọn biện pháp trong phạm vi. Không từ chối nhu cầu chỉ vì giải pháp họ nêu không khả thi.",
+        "en": "A request for more patrols may reflect poor lighting or uncertainty about reporting. Understand experiences, risks and the improvement sought, then work with partners on feasible measures. An impractical proposed solution is not a reason to dismiss the underlying need."
+      },
+      "sourceIds": [
+        "U36"
+      ]
+    },
+    {
+      "id": "IPO-01-04",
+      "title": {
+        "vi": "4. Xây dựng niềm tin qua phản hồi",
+        "en": "4. Build trust through feedback"
+      },
+      "body": {
+        "vi": "Ghi việc đã cam kết, ai xử lý, thời gian dự kiến và cập nhật. Nếu chưa thể làm phải giải thích trung thực. Niềm tin giảm khi tiếp nhận nhiều lần nhưng không thông tin lại. Không đo bằng số cuộc gặp đơn thuần.",
+        "en": "Record commitments, responsibility, expected timing and updates. Explain honestly when action is not yet possible. Repeated intake without feedback undermines trust. Meeting counts alone cannot show that relationships improved."
+      },
+      "sourceIds": [
+        "U36"
+      ]
+    },
+    {
+      "id": "IPO-01-05",
+      "title": {
+        "vi": "5. Bảo vệ nguồn và kiểm tra thiên lệch",
+        "en": "5. Protect sources and check bias"
+      },
+      "body": {
+        "vi": "Một nhóm dễ gặp có thể chi phối bức tranh tình hình. Đối chiếu nguồn, ghi ý kiến khác và không công khai danh tính người phản ánh nhạy cảm. Sự thân thiện với IPO chưa chứng minh họ tin tưởng cơ quan cảnh sát sở tại; cần phân biệt đối tượng của niềm tin.",
+        "en": "Conveniently accessible groups may dominate the picture. Compare sources, record different views and protect sensitive identities. Friendliness towards an IPO does not prove confidence in host-State police; identify whose trust in which institution is being assessed."
+      },
+      "sourceIds": [
+        "U36"
+      ]
+    },
+    {
+      "id": "IPO-01-06",
+      "title": {
+        "vi": "6. Ghi nhận vấn đề và trạng thái phản hồi",
+        "en": "6. Record issues and referral status"
+      },
+      "body": {
+        "vi": "Một cuộc gặp có ba vấn đề: Mất đồ, thiếu ánh sáng và thái độ tiếp nhận. Không gộp thành “an ninh kém”. Với mỗi vấn đề ghi dữ kiện, nguồn, đầu mối có trách nhiệm và việc đã thống nhất. Phản hồi phải phân biệt đã chuyển, đã tiếp nhận và đã giải quyết; không dùng ba trạng thái thay nhau.",
+        "en": "Separate concerns such as theft, lighting and reception conduct instead of combining them under a vague insecurity label. For each, record facts, source, responsible focal point and agreed follow-up. Referred, received and resolved are distinct statuses and must not be used interchangeably."
+      },
+      "sourceIds": [
+        "U36"
+      ]
+    },
+    {
+      "id": "IPO-01-07",
+      "title": {
+        "vi": "7. Đánh giá niềm tin",
+        "en": "7. Assess trust and access"
+      },
+      "body": {
+        "vi": "Theo dõi khả năng phản ánh, mức hiểu biết về kênh hỗ trợ và trải nghiệm tiếp nhận. Người ít báo có thể thiếu tin tưởng hoặc không có nhu cầu, cần thêm dữ kiện. Không hỏi một đại diện duy nhất rồi suy cả cộng đồng đánh giá tốt. Kiểm tra cả người không tham gia để hiểu rào cản.\n\n### 7.1. Phân biệt các mức niềm tin\n\nCó thể một người sẵn sàng nói chuyện với IPO nhưng vẫn sợ báo vụ việc với cảnh sát sở tại. Cần hỏi về trải nghiệm tiếp nhận, sự tôn trọng, khả năng phản hồi và lo ngại trả đũa. Dùng cùng cách hỏi qua thời gian để theo dõi thay đổi, đồng thời xem cả phản ánh tiêu cực. Báo cáo cần nêu nhóm đã tiếp cận và nhóm chưa có thông tin, thay vì kết luận chung cả cộng đồng đều tin tưởng.",
+        "en": "Track ability to raise concerns, knowledge of assistance channels and reception experience. Low reporting may reflect low trust or low need, so obtain more evidence. Consult beyond one representative and include non-participants to understand barriers.\n\n### 7.1. Distinguish different kinds of trust\n\nA person may speak comfortably with an IPO but still fear reporting to host-State police. Examine reception experience, respectful treatment, feedback and retaliation concerns. Use reasonably consistent questions over time and include negative feedback. State which groups were reached and which remain unrepresented. Trust is a relationship to a particular institution and practice; it cannot be inferred solely from friendliness, attendance or the absence of complaints."
+      },
+      "sourceIds": [
+        "U36"
+      ]
+    }
+  ],
+  "source_ids": [
+    "U36"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "Câu hỏi mở / Open question",
+      "definition": {
+        "vi": "Câu hỏi tạo cơ hội trình bày, không gợi sẵn câu trả lời",
+        "en": "A question inviting an account without supplying the answer"
+      }
+    },
+    {
+      "term": "Phản hồi / Feedback",
+      "definition": {
+        "vi": "Thông tin lại việc tiếp nhận, hành động và giới hạn",
+        "en": "Communicating receipt, action and limitations back"
+      }
+    }
+  ],
+  "diagram": {
+    "type": "seq",
+    "items": [
+      {
+        "vi": "Chuẩn bị bao trùm",
+        "en": "Prepare inclusively"
+      },
+      {
+        "vi": "Lắng nghe",
+        "en": "Listen"
+      },
+      {
+        "vi": "Chuyển đúng đầu mối",
+        "en": "Refer appropriately"
+      },
+      {
+        "vi": "Phản hồi",
+        "en": "Provide feedback"
+      }
+    ],
+    "chapter": 1
+  },
+  "contentVersion": "4tab-2026-10-26",
+  "sourceIntro": {
+    "vi": "Các tài liệu dưới đây là nền tảng kiến thức của bài. Mở nguồn để đọc nội dung gốc; phần giải thích, sơ đồ học tập và câu hỏi được biên soạn cho Handbook.",
+    "en": "The materials below provide the lesson’s knowledge base. Open them for the original teaching material; explanations, instructional diagrams and questions are developed for the Handbook."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Hai bản Việt–Anh phục vụ học tập, không phải bản dịch chính thức của UN. Danh mục và thứ tự 48 bài là cách tổ chức học liệu của Handbook, không phải số bài chính thức của UN.",
+      "Bảng đối chiếu xác định tài liệu nền theo mục; không khẳng định mọi câu diễn giải là trích nguyên văn. Hình gốc ghi rõ tài liệu và trang PDF; sơ đồ học tập được ghi là biên soạn."
+    ],
+    "en": [
+      "The Vietnamese and English texts are for learning and are not official UN translations. The 48-lesson catalogue and numbering are the Handbook’s organization, not the official UN lesson count.",
+      "The mapping identifies source materials by section and does not present every explanation as a verbatim quotation. Original illustrations identify the material and PDF page; instructional diagrams are labelled as developed for the lesson."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bài học IPO-01 tập trung vào chủ đề: Tiếp xúc cộng đồng và xây dựng niềm tin. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+      "en": "Lesson IPO-01 covers the following topic: Community engagement and trust-building. It connects concepts with professional responsibilities."
+    },
+    "subtitle": {
+      "vi": "Học kiến thức, hiểu trách nhiệm và kiểm tra nhận thức.",
+      "en": "Learn the concepts, understand responsibilities and check your knowledge."
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích: Chuẩn bị tiếp xúc; Tổ chức cuộc gặp.",
+        "Giải thích: Tách nhu cầu và giải pháp; Xây dựng niềm tin qua phản hồi.",
+        "Giải thích: Bảo vệ nguồn và kiểm tra thiên lệch; Ghi nhận vấn đề và trạng thái phản hồi; Đánh giá niềm tin.",
+        "Nhận diện cách hiểu sai và chọn nhận định có căn cứ trong kiểm tra nhận thức."
+      ],
+      "en": [
+        "Explain: Prepare inclusive engagement; Conduct the meeting.",
+        "Explain: Separate needs from proposed solutions; Build trust through feedback.",
+        "Explain: Protect sources and check bias; Record issues and referral status; Assess trust and access.",
+        "Recognize misconceptions and select evidence-based statements in the knowledge check."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc các mục theo thứ tự trong tab nội dung, quan sát sơ đồ và hình, sau đó hoàn thành kiểm tra nhận thức. Chọn VI/EN để đổi ngôn ngữ; đáp án được giữ khi đổi ngôn ngữ trong phiên mở trang. Tải lại trang sẽ bắt đầu lại.",
+      "en": "Read the sections in order, study diagrams and illustrations, then complete the knowledge check. Use VI/EN to switch languages; answers are retained across language changes during the session. Reloading starts a new session."
+    }
+  },
+  "figures": [],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft"
+}

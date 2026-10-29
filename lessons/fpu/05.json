@@ -1,0 +1,740 @@
+{
+  "schemaVersion": 2,
+  "id": "FPU-05",
+  "area": "fpu",
+  "groupKey": "FPU-M4",
+  "group": {
+    "vi": "Chiến thuật cảnh sát",
+    "en": "Police tactics"
+  },
+  "title": {
+    "vi": "Sơ cấp cứu trong thực hiện nhiệm vụ",
+    "en": "First aid during FPU operations"
+  },
+  "summary": {
+    "vi": "Bài học trình bày nhận biết nguy cơ sinh mạng, gọi hỗ trợ, CPR/AED người lớn, chảy máu, theo dõi và bàn giao. Học nhận thức cần đi cùng thực hành được hướng dẫn và đánh giá năng lực.",
+    "en": "Study life-threat recognition, emergency activation, adult CPR/AED, bleeding, monitoring and handover. Knowledge learning must be paired with supervised practical training and competence assessment."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "FIRST",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-033%20Operational%20First%20Aid.pdf",
+  "order": 201,
+  "sections": [
+    {
+      "id": "FPU-05-01",
+      "title": {
+        "vi": "1. Vai trò người sơ cứu và an toàn hiện trường",
+        "en": "1. The first aider's role and scene safety"
+      },
+      "body": {
+        "vi": "### 1.1. Giữ sinh mạng, ngăn hại thêm, kết nối chăm sóc\nSơ cấp cứu là sự hỗ trợ ban đầu cho người bị thương hoặc bệnh cấp tính trong khi chờ chăm sóc phù hợp. Người sơ cứu cần nhận biết nguy cơ đe dọa sinh mạng, gọi hỗ trợ sớm và làm những việc trong năng lực đã được huấn luyện. Hoạt động có thể được thực hiện bởi nhiều người cùng lúc: Một người gọi y tế, một người đưa bộ sơ cứu và một người tiếp cận người bệnh an toàn.\n\nTrong FPU, không được giả định tổ y tế luôn ở ngay cạnh. Mỗi thành viên cần biết cách gọi hỗ trợ tại địa bàn, vị trí bộ sơ cứu, AED nếu có và vai trò của mình. Bài này tập trung nhận thức và sơ cứu cơ bản, nhất là người lớn; thao tác cần được học, thực hành và đánh giá với người hướng dẫn đủ năng lực. Quy trình trẻ em và xử trí chuyên sâu có yêu cầu riêng.\n\n### 1.2. An toàn trước khi tiếp cận\nQuan sát giao thông, điện, lửa, vật liệu nguy hiểm, bạo lực và nguy cơ môi trường. Không lao vào một vùng chưa kiểm soát để tạo thêm nạn nhân. Báo nguy cơ, gọi lực lượng phù hợp và tiếp cận khi có thể làm an toàn. Trong môi trường có đe dọa vũ trang hoặc vật nổ, việc tiếp cận và đưa người ra khỏi nguy hiểm phải theo phương án an ninh và huấn luyện chuyên biệt.\n\nDùng găng và phương tiện bảo vệ sẵn có phù hợp, tránh tiếp xúc trực tiếp máu và dịch cơ thể, thực hiện vệ sinh tay. Không để việc tìm trang bị không sẵn có làm chậm gọi trợ giúp; cần huy động người lấy và thực hiện hỗ trợ an toàn trong khả năng.\n\n### 1.3. Giao tiếp và tôn trọng\nTự giới thiệu, giải thích ngắn và xin đồng ý khi người bệnh tỉnh và có thể quyết định. Giữ riêng tư, che chắn phù hợp và không chụp ảnh để chia sẻ. Ưu tiên theo nhu cầu y tế, không theo cấp bậc hay quốc tịch. Người bị kiểm soát hoặc nghi vi phạm vẫn có quyền được chăm sóc cần thiết.\n\n### 1.4. Giới hạn rõ ràng\nKhông tự dùng thuốc, làm thủ thuật xâm lấn hoặc di chuyển phức tạp khi chưa được đào tạo và cho phép. Sơ cứu không thay thế y tế; cải thiện tạm thời cũng không loại trừ tổn thương nghiêm trọng. Khi nghi bệnh hoặc chấn thương nặng, cần kích hoạt hỗ trợ ngay và tiếp tục theo dõi đến khi bàn giao.",
+        "en": "### 1.1. Preserve life, prevent further harm, connect care\nFirst aid provides initial assistance for injury or acute illness while appropriate care is arranged. Recognize life threats, activate help early and act within trained competence. Assign parallel roles where possible: Calling medical support, obtaining equipment and safely attending the casualty.\n\nFPU medical personnel may not be immediately beside the team. Members need local emergency contacts, kit and AED locations where available, and clear roles. This lesson develops basic recognition, principally for adults; practical skills require competent instruction and assessment. Children and advanced interventions require separate training.\n\n### 1.2. Assess safety before approaching\nLook for traffic, electricity, fire, hazardous materials, violence and environmental danger. Avoid becoming another casualty. Report hazards, activate suitable support and approach only when safe. Armed threats and explosive hazards require specialized security and rescue arrangements.\n\nUse suitable available gloves and protection, avoid direct blood or body-fluid contact and practise hand hygiene. Do not delay calling help while searching for unavailable equipment; organize retrieval and provide safe assistance within capability.\n\n### 1.3. Communicate respectfully\nIntroduce yourself, explain assistance and seek consent from a responsive person able to decide. Protect privacy and avoid sharing casualty photographs. Prioritize medical need rather than rank or nationality. People under control or suspected of offences retain access to necessary care.\n\n### 1.4. Understand limits\nDo not administer unapproved medicines, perform invasive procedures or undertake complex movement without training and authorization. Temporary improvement does not exclude serious injury. Suspected serious illness or injury requires emergency activation and continued observation until handover."
+      },
+      "sourceIds": [
+        "FIRST",
+        "FA2024"
+      ]
+    },
+    {
+      "id": "FPU-05-02",
+      "title": {
+        "vi": "2. Nhận biết nguy cơ sinh mạng và gọi hỗ trợ",
+        "en": "2. Recognizing life threats and activating help"
+      },
+      "body": {
+        "vi": "### 2.1. Kiểm tra nhanh, không trì hoãn\nKhi đã an toàn, kiểm tra đáp ứng bằng gọi và chạm nhẹ phù hợp; quan sát hơi thở và chảy máu nghiêm trọng. Người không đáp ứng và không thở bình thường, kể cả chỉ thở ngáp, cần được coi là nghi ngừng tim. Thở ngáp rời rạc không phải dấu hiệu hô hấp bình thường để chờ thêm.\n\nNgười sơ cứu không phải nhân viên y tế không nên trì hoãn CPR để cố tìm mạch. Nhân viên y tế có quy trình kiểm tra riêng theo trình độ. Không dành nhiều phút kiểm tra từng mục hoặc cố xác định chẩn đoán trước khi gọi trợ giúp và bắt đầu việc cần thiết.\n\n### 2.2. Gọi đúng và phân công cụ thể\nKích hoạt cơ chế cấp cứu của phái bộ hoặc y tế khẩn cấp địa phương theo phương án đã xác định. Nếu có điện thoại, dùng loa ngoài khi phù hợp để vừa nhận hướng dẫn vừa hỗ trợ. Chỉ rõ người gọi và người lấy AED hoặc bộ sơ cứu; yêu cầu xác nhận đã thực hiện. “Ai đó gọi giúp” có thể khiến mọi người nghĩ người khác đang làm.\n\nThông tin ban đầu cần có vị trí chính xác và cách tiếp cận, số người cần giúp, nguy hiểm còn tồn tại, tình trạng đáp ứng và thở, chảy máu nghiêm trọng và hành động đang làm. Đừng đọc toàn bộ lịch sử trước khi báo một người không đáp ứng. Tiếp tục nhận hướng dẫn và cập nhật khi có thay đổi.\n\n### 2.3. Nhiều nguy cơ cùng xuất hiện\nNếu vừa có nghi ngừng tim vừa có chảy máu đe dọa sinh mạng, huy động thêm người để các can thiệp ưu tiên được thực hiện song song khi có thể. Trong tình huống chấn thương đặc biệt hoặc nhiều nạn nhân, áp dụng huấn luyện và cơ chế y tế đã thống nhất; không tự tạo cách phân loại hoặc thuật toán chiến thuật từ bài sơ cứu cơ bản.\n\n### 2.4. Đánh giá lại liên tục\nSau một can thiệp, tiếp tục kiểm tra đáp ứng, hơi thở và chảy máu. Người ban đầu còn nói được có thể xấu đi; một băng đã đặt có thể không còn kiểm soát máu. Khi có thay đổi, báo lại và chuyển cách hỗ trợ theo tình trạng. Không đợi một khoảng cố định như 15 phút mới xem lại dấu hiệu sinh mạng của người đang nguy kịch.",
+        "en": "### 2.1. Rapid recognition\nOnce safe, check responsiveness with voice and appropriate gentle touch, assess breathing and identify severe bleeding. An unresponsive adult who is not breathing normally, including only gasping, should be treated as a presumed cardiac arrest. Irregular gasps are not normal breathing.\n\nNon-healthcare first aiders should not delay CPR attempting to find a pulse. Healthcare professionals follow their trained assessment. Do not spend minutes completing a checklist or establishing a diagnosis before activating help and necessary care.\n\n### 2.2. Activate help and assign roles\nUse established mission or local emergency arrangements. A speakerphone can allow guidance while assisting. Name the person calling and the person fetching an AED or kit, and obtain confirmation.\n\nCommunicate exact location and access, casualty numbers, remaining hazards, responsiveness, breathing, severe bleeding and current actions. An unresponsive casualty's immediate condition takes priority over a lengthy history. Follow instructions and update changes.\n\n### 2.3. Concurrent threats\nWhere presumed cardiac arrest and life-threatening bleeding coexist, recruit additional helpers for parallel priorities when possible. Specialized trauma and multiple-casualty situations require agreed medical training and procedures. Basic first aid is not a substitute tactical or triage algorithm.\n\n### 2.4. Reassess continuously\nRecheck responsiveness, breathing and bleeding after interventions. A speaking casualty may deteriorate; an applied dressing may fail. Update responders and adapt assistance. Do not wait a fixed interval such as 15 minutes before reassessing a critically ill person."
+      },
+      "sourceIds": [
+        "AHA",
+        "FA2024"
+      ]
+    },
+    {
+      "id": "FPU-05-03",
+      "title": {
+        "vi": "3. CPR người lớn và AED",
+        "en": "3. Adult CPR and AED use"
+      },
+      "body": {
+        "vi": "### 3.1. Bắt đầu ép ngực sớm\nVới người lớn nghi ngừng tim, gọi cấp cứu và bắt đầu CPR ngay, ưu tiên ép ngực; huy động người lấy AED. Đặt người nằm ngửa trên bề mặt chắc, phẳng khi có thể làm an toàn mà không gây chậm đáng kể. Đặt gót một bàn tay ở giữa ngực, trên nửa dưới xương ức; bàn tay kia đặt chồng lên, giữ cánh tay thẳng và ép theo hướng xuống.\n\nÉp với tần số 100–120 lần mỗi phút, sâu ít nhất 5 cm và tránh quá 6 cm ở người lớn trung bình. Để ngực nở lại hoàn toàn sau mỗi lần, tránh tì liên tục và giảm tối đa gián đoạn. Ép nhanh hơn không tự tạo CPR tốt hơn; quá nhanh có thể làm giảm độ sâu và chất lượng.\n\n### 3.2. Phối hợp thổi ngạt trong phạm vi huấn luyện\nNgười đã được huấn luyện, có khả năng và sẵn sàng thực hiện có thể phối hợp 30 lần ép với 2 nhịp thổi; mỗi nhịp khoảng một giây, đủ làm ngực nâng, tránh thổi quá mức. Dùng phương tiện bảo vệ phù hợp khi có. Nếu chưa được huấn luyện hoặc không thể thực hiện thổi ngạt, tiếp tục ép ngực và theo hướng dẫn của điều phối cấp cứu; không vì thiếu khả năng thổi mà đứng chờ.\n\nKhi có người thay đủ năng lực, đổi người ép khoảng mỗi hai phút hoặc sớm hơn khi mệt, giảm gián đoạn. Không thực hành ép ngực trên người khỏe để thử kỹ thuật; phải dùng mô hình trong huấn luyện.\n\n### 3.3. Dùng AED theo lời nhắc\nBật AED, để lộ ngực và dán điện cực theo hình hướng dẫn trên máy; làm khô vùng dán nếu ướt. Không chạm người khi máy phân tích hoặc phát sốc. Sau sốc hoặc khi máy báo không cần sốc, tiếp tục CPR ngay theo lời nhắc. Máy không yêu cầu sốc không có nghĩa người đã hồi phục.\n\nNếu có nhiều người, tiếp tục ép trong lúc người khác chuẩn bị máy đến khi máy yêu cầu dừng. AED hỗ trợ đánh giá nhịp có thể sốc, không thay việc gọi hỗ trợ hoặc ép ngực.\n\n### 3.4. Tiếp tục và chuyển giao\nTiếp tục theo hướng dẫn tới khi người có dấu hiệu sống rõ và thở bình thường, đội cấp cứu tiếp nhận, hiện trường không còn an toàn hoặc người cứu không thể tiếp tục. Nếu người đã thở bình thường, tiếp tục theo dõi vì có thể ngừng lại. Nội dung này áp dụng cơ bản cho người lớn; không suy nguyên thông số độ sâu sang trẻ nhỏ, và không suy rằng chấn thương do chiến sự có thể xử trí đầy đủ chỉ bằng quy trình này.",
+        "en": "### 3.1. Begin compressions promptly\nActivate emergency help and start CPR for presumed adult cardiac arrest, while another person obtains an AED. Position the casualty supine on a firm, flat surface when safely feasible without substantial delay. Place one hand's heel on the lower half of the sternum in the centre of the chest, the other hand above it, and compress vertically with straight arms.\n\nUse 100–120 compressions per minute, at least 5 cm deep while avoiding depths beyond 6 cm in an average adult. Allow complete recoil, avoid leaning and minimize pauses. Faster is not automatically better.\n\n### 3.2. Breaths within trained capability\nTrained, able and willing rescuers may provide 30 compressions followed by 2 breaths, each over about one second and sufficient for visible chest rise. Avoid excessive ventilation and use suitable protective equipment where available. If untrained or unable to provide breaths, continue compressions and follow emergency-dispatch guidance rather than withholding help.\n\nChange competent compressors about every two minutes, or sooner with fatigue, while minimizing interruption. Practise on a manikin rather than a healthy person.\n\n### 3.3. Follow AED prompts\nSwitch on the AED, expose the chest and place pads as illustrated; dry wet pad sites. Keep everyone clear during analysis and shock. Immediately resume CPR after a shock or a no-shock instruction. “No shock advised” does not establish recovery.\n\nWith several rescuers, continue compressions while the device is prepared until it requests a pause. An AED does not replace emergency activation or CPR.\n\n### 3.4. Continue and hand over\nFollow guidance until clear signs of life and normal breathing return, emergency personnel take over, the scene becomes unsafe or the rescuer cannot continue. Continue observing after apparent recovery. These adult parameters must not be transferred unchanged to young children, and this basic pathway does not fully address specialized conflict trauma."
+      },
+      "sourceIds": [
+        "AHA"
+      ]
+    },
+    {
+      "id": "FPU-05-04",
+      "title": {
+        "vi": "4. Chảy máu nghiêm trọng và dấu hiệu sốc",
+        "en": "4. Severe bleeding and signs of shock"
+      },
+      "body": {
+        "vi": "### 4.1. Nhận biết chảy máu đe dọa sinh mạng\nMáu chảy nhanh hoặc phun, tạo vũng, tiếp tục ra nhiều hoặc kèm lơ mơ, chóng mặt và suy sụp là những dấu hiệu cần xử trí khẩn. Không cần ước lượng chính xác thể tích mới gọi giúp. Bảo vệ khỏi tiếp xúc máu, bộc lộ vị trí đủ để xác định và thực hiện ép trực tiếp bằng gạc hoặc vật liệu sạch phù hợp.\n\nÉp chắc, liên tục vào vết thương và kiểm tra hiệu quả. Huy động thêm người gọi y tế, đưa vật tư và chuẩn bị chuyển tiếp. Không mải làm sạch một vết thương nhỏ mà bỏ sót chảy máu lớn ở vị trí khác. Không rút vật cắm sâu; hỗ trợ bảo vệ vùng tổn thương và làm theo hướng dẫn chuyên môn.\n\n### 4.2. Khi cần biện pháp bổ sung\nVới chảy máu chi đe dọa sinh mạng không kiểm soát được bằng ép trực tiếp, garô thương mại có thể cần thiết; người sử dụng phải được hướng dẫn đúng loại và kỹ năng. Chèn gạc cầm máu có thể phù hợp một số vị trí theo huấn luyện. Không tự áp dụng garô ở cổ hoặc thân mình và không đưa gạc sâu vào mọi loại vết thương.\n\nKhi đã đặt garô, ghi thời điểm, báo đội y tế và không tự nới hoặc tháo; việc đó thuộc nhân viên y tế có trách nhiệm. Tiếp tục quan sát chảy máu và toàn trạng. Không nới định kỳ để “cho máu lưu thông”, vì có thể gây chảy máu lại nguy hiểm. Bài đọc không thay buổi thực hành kiểm soát chảy máu với dụng cụ thực tế.\n\n### 4.3. Nghĩ đến sốc và tổn thương bên trong\nSốc có thể biểu hiện yếu, chóng mặt, da lạnh hoặc thay đổi màu, thở nhanh, lú lẫn hoặc giảm đáp ứng. Có thể có chảy máu bên trong dù bên ngoài không thấy nhiều máu. Những dấu hiệu này đòi hỏi y tế khẩn, kiểm soát chảy máu nhìn thấy và theo dõi liên tục.\n\nĐể người nghỉ ở tư thế phù hợp, thường nằm ngửa nếu tỉnh và chịu được, giữ ấm vừa phải và bảo vệ khỏi môi trường. Tư thế phải cân nhắc khó thở, nôn và chấn thương; không máy móc nâng chân ở mọi trường hợp. Không cho ăn uống khi giảm tỉnh táo, nguy cơ sặc hoặc chấn thương nghiêm trọng; làm theo hướng dẫn y tế.\n\n### 4.4. Bàn giao thông tin có giá trị\nBáo vị trí và cơ chế tổn thương, chảy máu quan sát, can thiệp, thời điểm garô nếu có, đáp ứng và thay đổi. Một băng kín chưa chứng minh người đã ổn định; cần tiếp tục theo dõi đến khi đội y tế nhận trách nhiệm.",
+        "en": "### 4.1. Recognize life-threatening bleeding\nRapid flow, spurting, pooling, persistent major bleeding or associated dizziness, reduced alertness and collapse require urgent action. Do not wait for a precise blood-loss estimate. Protect against exposure, expose enough to locate the wound and apply firm direct pressure with suitable gauze or clean material.\n\nMaintain pressure and assess effectiveness. Assign others to activate medical care and obtain supplies. Do not focus on minor wounds while major bleeding remains unrecognized. Do not remove deeply embedded objects; protect the injury and obtain professional guidance.\n\n### 4.2. Additional measures\nLife-threatening limb bleeding uncontrolled by direct pressure may require a commercial tourniquet used according to device-specific training. Wound packing may suit certain locations when properly taught. Tourniquets are not for the neck or trunk, and deep packing is not appropriate for every wound.\n\nRecord application time, inform medical responders and do not loosen or remove an applied tourniquet yourself. Continued observation remains necessary. Periodic loosening can cause dangerous renewed bleeding. Reading cannot replace hands-on bleeding-control training.\n\n### 4.3. Shock and internal injury\nWeakness, dizziness, cool or altered-colour skin, rapid breathing, confusion or reduced responsiveness may indicate shock. Internal bleeding can occur without substantial visible blood. Activate urgent care, control visible bleeding and monitor continuously.\n\nUse an appropriate resting position, generally supine when alert and tolerated, protect from exposure and avoid overheating. Consider breathing difficulty, vomiting and trauma rather than automatically elevating legs. Avoid oral intake with reduced alertness, aspiration risk or serious trauma and follow medical guidance.\n\n### 4.4. Useful handover\nReport injury location and mechanism, bleeding, interventions, tourniquet time, response and changes. A covered wound does not establish stability. Continue care until medical responders take responsibility."
+      },
+      "sourceIds": [
+        "FA2024",
+        "TOUR"
+      ]
+    },
+    {
+      "id": "FPU-05-05",
+      "title": {
+        "vi": "5. Người không tỉnh, đường thở và chấn thương",
+        "en": "5. Reduced consciousness, airway and trauma"
+      },
+      "body": {
+        "vi": "### 5.1. Không tỉnh nhưng còn thở bình thường\nNgười không đáp ứng vẫn cần gọi hỗ trợ khẩn. Nếu còn thở bình thường và không nghi chấn thương liên quan, tư thế hồi phục nằm nghiêng có thể giúp giữ đường thở và thoát dịch. Kỹ thuật cần được thực hành đúng; tiếp tục theo dõi hơi thở, không đặt xong rồi bỏ đi. Nếu chỉ thở ngáp hoặc ngừng thở bình thường, chuyển sang nhận định nghi ngừng tim và CPR.\n\nNằm nghiêng không phải tư thế dùng cho mọi người bất tỉnh. Nếu có khả năng tổn thương cột sống, hông hoặc chậu, cần cân nhắc nguy cơ di chuyển và nhận hướng dẫn y tế; ưu tiên bảo vệ đường thở và sinh mạng. Nếu cần xoay vì nôn hoặc không giữ được đường thở, huy động người có kỹ năng và hạn chế xoắn vặn, theo huấn luyện và hướng dẫn cấp cứu.\n\n### 5.2. Nghi chấn thương cột sống\nCú ngã, tai nạn xe hoặc lực mạnh có thể gây tổn thương. Khuyến khích người tỉnh giữ yên, tránh di chuyển không cần thiết và gọi hỗ trợ. Không kéo ngồi dậy để xem “có đi được không”, không tự nắn cổ và không thử vận động để xác nhận tổn thương.\n\nNguy cơ cột sống không phải lý do bỏ qua đường thở, hô hấp hoặc để người ở nơi nguy hiểm. Khi bắt buộc di chuyển để bảo vệ sinh mạng, phải ưu tiên cách an toàn trong khả năng được huấn luyện và nhận hướng dẫn. Các kỹ thuật mở đường thở chuyên biệt cần người có năng lực; không tự thao tác dựa trên một ảnh.\n\n### 5.3. Gãy xương và tổn thương chi\nDấu hiệu có thể gồm đau, sưng, biến dạng, không sử dụng được chi hoặc vết thương có xương lộ. Giữ phần bị thương ở tư thế tìm thấy, hạn chế cử động, che vết thương hở bằng vật liệu phù hợp và gọi y tế. Không tự nắn xương hoặc đẩy xương lộ trở lại. Nẹp chỉ nên thực hiện trong phạm vi được huấn luyện, chú ý không làm gián đoạn chăm sóc nguy cơ sinh mạng.\n\n### 5.4. Không nhầm lơ mơ với một nguyên nhân duy nhất\nGiảm đáp ứng có thể do chấn thương đầu, thiếu oxy, nóng, bệnh cấp tính, chất hoặc nhiều nguyên nhân khác. Không mặc định người đó say, giả vờ hoặc chỉ hoảng sợ. Ghi điều quan sát được, bảo vệ đường thở, gọi hỗ trợ và cập nhật thay đổi. Thông tin khách quan giúp đội y tế đánh giá đúng hơn phán đoán vội.",
+        "en": "### 5.1. Unresponsive but breathing normally\nActivate emergency help. For a normally breathing, unresponsive person without suspected relevant trauma, a recovery position can help maintain the airway and drainage. Correct positioning requires practice and continued breathing observation. Gasping or loss of normal breathing requires presumed-arrest recognition and CPR.\n\nThe recovery position is not universal for unconsciousness. Suspected spine, hip or pelvic injury requires consideration of movement risks and medical guidance, while preserving airway and life. If vomiting or airway compromise requires turning, obtain skilled help and minimize twisting under trained emergency guidance.\n\n### 5.2. Suspected spinal injury\nFalls, vehicle crashes and significant force may cause spinal injury. Encourage a responsive casualty to remain still, avoid unnecessary movement and activate help. Do not sit them up to test walking, manipulate the neck or test movement to establish injury.\n\nSpinal concerns must not prevent lifesaving airway care or necessary movement from danger. Use safe methods within training and obtain emergency guidance. Specialized airway techniques require competence rather than imitation of a photograph.\n\n### 5.3. Limb injuries and fractures\nPain, swelling, deformity, inability to use a limb or exposed bone may indicate fracture. Support the part as found, limit movement, cover open wounds appropriately and seek care. Do not straighten fractures or push exposed bone back. Splinting requires training and must not delay life-threat care.\n\n### 5.4. Avoid premature explanations\nReduced responsiveness may involve head injury, oxygen deprivation, heat, illness, substances or several causes. Do not assume intoxication, pretence or anxiety. Record observations, protect the airway, activate help and report changes. Objective information is more useful than an early label."
+      },
+      "sourceIds": [
+        "FA2024",
+        "FIRST"
+      ]
+    },
+    {
+      "id": "FPU-05-06",
+      "title": {
+        "vi": "6. Nóng, bỏng và những việc dễ làm sai",
+        "en": "6. Heat illness, burns and avoidable errors"
+      },
+      "body": {
+        "vi": "### 6.1. Bệnh do nóng\nNhiệm vụ trong khí hậu nóng, mang trang bị và vận động kéo dài có thể làm cơ thể quá nóng. Người yếu, chóng mặt, đau đầu hoặc kiệt sức cần dừng vận động, tới nơi mát và được đánh giá. Khi có lú lẫn, thay đổi hành vi, giảm ý thức hoặc suy sụp trong bối cảnh nóng, cần nghi sốc nhiệt và gọi cấp cứu ngay; không đợi đo được một nhiệt độ cụ thể mới hành động.\n\nĐưa ra khỏi nguồn nóng nếu an toàn, cởi bớt lớp quần áo hoặc trang bị không cần thiết và bắt đầu làm mát tích cực theo hướng dẫn. Các phương pháp có thể gồm làm ướt và quạt, khăn mát hoặc phương án phù hợp có giám sát. Làm mát toàn thân bằng nước cần người tổ chức an toàn, đặc biệt bảo vệ đường thở; không để người giảm ý thức một mình trong nước.\n\nChỉ cho uống dịch mát khi người tỉnh, nuốt an toàn và không có chống chỉ định theo hướng dẫn. Không cố cho uống khi lơ mơ. Tiếp tục kiểm tra đáp ứng, thở và phối hợp đội y tế; không coi đưa vào bóng râm là đã hoàn thành xử trí sốc nhiệt.\n\n### 6.2. Bỏng nhiệt\nNgừng tiếp xúc nguồn gây bỏng mà không gây nguy hiểm cho người cứu. Làm mát vùng bỏng ngay, ưu tiên nước sạch chảy, đồng thời tránh làm toàn thân bị lạnh. Không chườm đá trực tiếp, bôi kem đánh răng, dầu mỡ hoặc chọc vỡ bóng nước. Che bảo vệ bằng vật liệu sạch phù hợp; không bóc vật dính chặt vào da.\n\nBỏng rộng, sâu, ở vị trí quan trọng, do điện hoặc hóa chất, hoặc kèm dấu hiệu hít khói cần y tế khẩn. Bỏng hóa chất và điện có nguy cơ riêng, cần bảo đảm an toàn nguồn và hướng dẫn chuyên môn; không suy rằng mọi bỏng đều xử lý giống nhau chỉ bằng nước.\n\n### 6.3. Không để việc nhỏ che nguy cơ lớn\nNgười còn đi được hoặc vết thương ngoài nhỏ vẫn có thể có vấn đề nghiêm trọng. Luôn quay lại đáp ứng, thở, chảy máu và diễn biến. Không cho thuốc hoặc thức uống như một biện pháp “làm tỉnh” khi chưa hiểu tình trạng. Nếu chưa chắc cách làm, gọi người có chuyên môn và thực hiện việc cơ bản an toàn trong năng lực.\n\n### 6.4. Phòng ngừa ở cấp đơn vị\nKế hoạch cần thời gian thích nghi, nghỉ và nước uống, theo dõi điều kiện thời tiết và khả năng tiếp cận y tế. Chỉ huy cần tạo điều kiện báo khó chịu sớm; cố chịu để hoàn thành nhiệm vụ có thể biến một vấn đề còn kiểm soát được thành cấp cứu.",
+        "en": "### 6.1. Heat illness\nHeat, protective equipment and prolonged exertion can cause dangerous overheating. Weakness, dizziness, headache or exhaustion requires stopping exertion, cooling and assessment. Confusion, behavioural change, reduced consciousness or collapse in heat warrants suspected heatstroke and immediate emergency activation. Do not wait for a specific measured temperature.\n\nMove out of heat safely, remove unnecessary layers or equipment and begin active cooling under guidance. Options include wetting and fanning, cool towels or appropriately supervised alternatives. Water immersion requires safe organization and airway protection; never leave a reduced-consciousness casualty alone in water.\n\nOffer cool fluids only when alert, able to swallow safely and appropriate under guidance. Never force fluids into a drowsy person. Continue assessment and medical coordination; shade alone does not complete heatstroke care.\n\n### 6.2. Thermal burns\nStop exposure without endangering rescuers. Cool the burn promptly, preferably with clean running water, while avoiding whole-body chilling. Do not apply ice directly, toothpaste or grease, and do not break blisters. Protect with suitable clean covering and avoid removing material stuck to skin.\n\nExtensive, deep or critical-area burns, electrical or chemical burns and suspected smoke inhalation require urgent medical care. Electrical and chemical hazards require source safety and specialist guidance rather than assuming identical treatment for every burn.\n\n### 6.3. Avoid distracting minor problems\nWalking ability or a small visible wound does not exclude serious illness or injury. Reassess responsiveness, breathing, bleeding and progression. Do not use medicines or drinks as an improvised way to make someone alert. Seek guidance and provide safe basic assistance within competence when uncertain.\n\n### 6.4. Unit prevention\nPlan acclimatization, rest, hydration, weather monitoring and medical access. Encourage early reporting of symptoms. Trying to endure discomfort to finish a task can turn a manageable problem into an emergency."
+      },
+      "sourceIds": [
+        "FA2024"
+      ]
+    },
+    {
+      "id": "FPU-05-07",
+      "title": {
+        "vi": "7. Chuyển tiếp y tế, bàn giao và chuẩn bị",
+        "en": "7. Medical transfer, handover and preparedness"
+      },
+      "body": {
+        "vi": "### 7.1. Di chuyển có mục đích và đủ điều kiện\nDi chuyển có thể cần để thoát nguy hiểm hoặc tới chăm sóc, nhưng cũng có thể làm nặng tổn thương. Khi nơi hiện tại an toàn và người đang được chăm sóc, không tự bế hoặc kéo đi chỉ để thuận tiện. Khi có nguy hiểm tức thời, ưu tiên đưa tới vùng an toàn bằng phương pháp trong khả năng, huy động hỗ trợ và tiếp tục chăm sóc sau đó.\n\nVận chuyển y tế phải có đầu mối điều phối, phương tiện phù hợp, nơi tiếp nhận và khả năng theo dõi dọc đường. Không chỉ tìm một xe bất kỳ rồi mặc định chuyển người là đã giải quyết. Người cần CPR hoặc chăm sóc đường thở cần phương án y tế tương ứng; người sơ cứu phải báo rõ tình trạng để được hướng dẫn.\n\n### 7.2. Bàn giao ngắn và có cấu trúc\nMột khung thông tin thực tế gồm: Sự kiện và thời điểm; thương tích hoặc triệu chứng quan sát; tình trạng và diễn biến; can thiệp đã làm cùng đáp ứng. Có thể dùng MIST trong chấn thương để nhớ cơ chế, tổn thương, dấu hiệu và xử trí, theo cách phái bộ thống nhất. Đây là khung trao đổi, không thay biểu mẫu hoặc quy trình yêu cầu.\n\nNêu thời điểm bắt đầu CPR, AED đã làm gì nếu biết, vị trí và giờ đặt garô, thay đổi đáp ứng hoặc thở và những điều chưa rõ. Chỉ đo hoặc báo thông số trong năng lực và điều kiện thực có; không ước đoán số để điền đủ. Xác nhận người nhận đã hiểu và tiếp quản trước khi rời.\n\n### 7.3. Ghi chép và bảo mật\nGhi sớm thời gian, quan sát, hành động và người tiếp nhận. Không dùng hồ sơ để suy đoán trách nhiệm hay công khai danh tính. Thông tin y tế cần đi tới đúng người phục vụ chăm sóc và nghĩa vụ báo cáo. Dữ liệu và hình ảnh không được chia sẻ trên nhóm không có nhiệm vụ.\n\n### 7.4. Chuẩn bị cho lần tiếp theo\nSau sử dụng, bổ sung vật tư, kiểm tra bộ sơ cứu và AED theo hướng dẫn, xử lý chất thải an toàn và báo phơi nhiễm nếu có. Rút kinh nghiệm về gọi hỗ trợ, vị trí, thời gian, trang bị và bàn giao. Người đã tham gia cứu người có thể cần nghỉ và hỗ trợ tâm lý. Kết quả kiểm tra trực tuyến xác nhận mức hiểu bài; khả năng sơ cứu thực tế cần được huấn luyện và đánh giá riêng.",
+        "en": "### 7.1. Purposeful, supported movement\nMovement may be necessary to escape danger or reach care but can worsen injury. Do not carry or drag a casualty merely for convenience when the location is safe and care is ongoing. Immediate danger may require movement using safe methods within competence, followed by continued care.\n\nMedical transport needs coordination, suitable equipment, a receiving facility and monitoring en route. Finding any vehicle is insufficient. Report CPR or airway-care needs clearly so medical personnel can direct the response.\n\n### 7.2. Structured handover\nCommunicate the event and timing, observed injuries or symptoms, condition and changes, and interventions with responses. MIST can support trauma communication: Mechanism, injuries, signs and treatment, as used locally. It does not replace required forms or protocols.\n\nReport CPR start, known AED actions, tourniquet location and time, changes in responsiveness or breathing, and uncertainties. Provide measurements only when obtained competently; never invent missing values. Confirm understanding and transfer of responsibility before leaving.\n\n### 7.3. Documentation and privacy\nRecord times, observations, actions and the receiving person promptly. Do not use records to speculate about blame or disclose identity publicly. Share medical information through authorized care and reporting channels, not unrelated group chats.\n\n### 7.4. Prepare for the next response\nReplace supplies, check kits and AEDs according to instructions, manage contaminated waste and report exposure when relevant. Review activation, location, timing, equipment and handover. Rescuers may need rest and psychological support. An online knowledge check demonstrates understanding; practical first aid competence requires separate training and assessment."
+      },
+      "sourceIds": [
+        "FIRST",
+        "FA2024"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "FIRST",
+      "title": "Operational First Aid",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-033%20Operational%20First%20Aid.pdf",
+      "format": "pdf",
+      "pages": 41,
+      "reading": "7–11; 15",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "FA2024",
+      "title": "2024 AHA and American Red Cross Guidelines for First Aid",
+      "url": "https://cpr.heart.org/en/resuscitation-science/2024-first-aid-guidelines",
+      "year": "2024",
+      "publisher": "AHA / American Red Cross",
+      "format": "web",
+      "checked": "2026-10-28"
+    },
+    {
+      "id": "AHA",
+      "title": "Part 7: Adult Basic Life Support",
+      "publisher": "American Heart Association",
+      "year": "2025",
+      "url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support",
+      "format": "web",
+      "pages": null,
+      "reading": "Recognition; chest compressions; compression-to-ventilation ratio; AED",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "TOUR",
+      "title": "How to Apply a Tourniquet — removal and loosening safeguards",
+      "url": "https://www.redcross.org/take-a-class/resources/articles/how-to-apply-a-tourniquet",
+      "year": "2025",
+      "publisher": "American Red Cross",
+      "format": "web",
+      "checked": "2026-10-28"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Phát hiện người bị thương trong vùng chưa an toàn, ưu tiên nào đúng?",
+        "en": "A casualty is in an unsafe area. What is appropriate?"
+      },
+      "options": [
+        {
+          "vi": "Bỏ qua vì không thuộc trách nhiệm sơ cứu.",
+          "en": "Ignore the situation because it is outside first aid."
+        },
+        {
+          "vi": "Đánh giá nguy cơ, gọi hỗ trợ và tổ chức tiếp cận an toàn.",
+          "en": "Assess hazards, activate help and arrange safe access."
+        },
+        {
+          "vi": "Lao vào ngay bất kể đe dọa.",
+          "en": "Rush in regardless of danger."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "An toàn và huy động hỗ trợ tránh tạo thêm nạn nhân, đồng thời chuẩn bị cứu giúp. Xem mục 1.",
+        "en": "Safety assessment and support activation prevent additional casualties while enabling assistance. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Người lớn không đáp ứng, chỉ thở ngáp rời rạc cần được coi thế nào?",
+        "en": "How should an unresponsive adult with only gasping be treated?"
+      },
+      "options": [
+        {
+          "vi": "Nghi ngừng tim: Gọi cấp cứu và bắt đầu CPR.",
+          "en": "As presumed cardiac arrest: Activate help and begin CPR."
+        },
+        {
+          "vi": "Đang thở bình thường nên chờ.",
+          "en": "As normally breathing, so wait."
+        },
+        {
+          "vi": "Chỉ cần cho uống nước.",
+          "en": "Give water only."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Thở ngáp không phải thở bình thường; không trì hoãn hỗ trợ sinh mạng. Xem mục 2.",
+        "en": "Gasping is not normal breathing; do not delay lifesaving care. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Vì sao nên giao rõ một người gọi y tế?",
+        "en": "Why assign a named person to call medical help?"
+      },
+      "options": [
+        {
+          "vi": "Để hành động có người chịu trách nhiệm và xác nhận đã gọi.",
+          "en": "To establish responsibility and confirmation that help was activated."
+        },
+        {
+          "vi": "Để không phải báo vị trí.",
+          "en": "So the location need not be provided."
+        },
+        {
+          "vi": "Để những người khác đều ngừng hỗ trợ.",
+          "en": "So all other assistance stops."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Phân công cụ thể giảm nguy cơ mọi người nghĩ người khác đang gọi. Xem mục 2.",
+        "en": "Specific assignment reduces the risk of everyone assuming someone else is calling. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Thông số ép ngực cơ bản ở người lớn trung bình là gì?",
+        "en": "What are the basic compression parameters for an average adult?"
+      },
+      "options": [
+        {
+          "vi": "Ép càng nhanh càng tốt, độ sâu không quan trọng.",
+          "en": "As fast as possible, regardless of depth."
+        },
+        {
+          "vi": "Ép nông rồi nghỉ lâu để tránh mệt.",
+          "en": "Shallow compressions with long rests."
+        },
+        {
+          "vi": "100–120 lần/phút, ít nhất 5 cm và tránh quá 6 cm, để ngực nở lại.",
+          "en": "100–120/min, at least 5 cm while avoiding over 6 cm, with full recoil."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Chất lượng gồm nhịp, sâu, nở lại và giảm gián đoạn; thông số người lớn không chuyển nguyên sang trẻ nhỏ. Xem mục 3.",
+        "en": "Quality includes rate, depth, recoil and minimal interruption; adult parameters do not transfer unchanged to young children. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Người chưa được huấn luyện thổi ngạt nên làm gì khi nghi ngừng tim người lớn?",
+        "en": "What should a person untrained in breaths do for presumed adult arrest?"
+      },
+      "options": [
+        {
+          "vi": "Cố thổi thật mạnh nhiều lần rồi mới gọi.",
+          "en": "Force repeated large breaths before calling."
+        },
+        {
+          "vi": "Không làm gì vì không thể đủ 30:2.",
+          "en": "Do nothing because 30:2 cannot be completed."
+        },
+        {
+          "vi": "Tiếp tục ép ngực và theo hướng dẫn cấp cứu.",
+          "en": "Provide chest compressions and follow emergency guidance."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Không có khả năng thổi không phải lý do giữ lại ép ngực; người có đào tạo có thể phối hợp 30:2. Xem mục 3.",
+        "en": "Inability to provide breaths is not a reason to withhold compressions; trained rescuers may provide 30:2. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "AED báo không cần sốc nhưng người vẫn không đáp ứng và không thở bình thường. Cần làm gì?",
+        "en": "An AED advises no shock, but the person remains unresponsive and not breathing normally. What next?"
+      },
+      "options": [
+        {
+          "vi": "Ngừng vì không cần sốc nghĩa là đã hồi phục.",
+          "en": "Stop because no shock means recovery."
+        },
+        {
+          "vi": "Tiếp tục CPR ngay theo lời nhắc và chờ đội y tế.",
+          "en": "Resume CPR promptly as directed while awaiting responders."
+        },
+        {
+          "vi": "Tự phát sốc bằng cách khác.",
+          "en": "Deliver a shock by another improvised method."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Không sốc không xác nhận hồi phục; AED phải được dùng cùng CPR và hệ thống cấp cứu. Xem mục 3.",
+        "en": "No shock does not establish recovery; AED use complements CPR and emergency response. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Biện pháp ban đầu chủ yếu cho chảy máu ngoài nghiêm trọng là gì?",
+        "en": "What is the main initial action for severe external bleeding?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ rửa sạch rồi chờ.",
+          "en": "Only clean the wound and wait."
+        },
+        {
+          "vi": "Ép trực tiếp chắc và liên tục, gọi hỗ trợ và đánh giá hiệu quả.",
+          "en": "Firm sustained direct pressure, help activation and reassessment."
+        },
+        {
+          "vi": "Nới garô định kỳ nếu đã đặt.",
+          "en": "Periodically loosen an applied tourniquet."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Ép trực tiếp là nền tảng; chảy máu chi đe dọa sinh mạng không kiểm soát có thể cần garô theo huấn luyện. Xem mục 4.",
+        "en": "Direct pressure is foundational; uncontrolled life-threatening limb bleeding may require a tourniquet within training. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Sau khi đặt garô, người sơ cứu cần làm gì?",
+        "en": "What should a first aider do after applying a tourniquet?"
+      },
+      "options": [
+        {
+          "vi": "Che kín để không ai nhìn thấy.",
+          "en": "Hide it completely."
+        },
+        {
+          "vi": "Nới sau một khoảng cố định cho máu lưu thông.",
+          "en": "Loosen after a fixed interval to restore flow."
+        },
+        {
+          "vi": "Ghi thời điểm, theo dõi, báo y tế và không tự nới hoặc tháo.",
+          "en": "Record time, monitor, inform medical responders and do not loosen or remove it."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Nới có thể gây chảy máu lại; việc tháo thuộc nhân viên y tế có trách nhiệm. Xem mục 4.",
+        "en": "Loosening can cause renewed bleeding; removal belongs to responsible medical professionals. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Tư thế hồi phục phù hợp nhất với mô tả nào?",
+        "en": "Which description best fits recovery-position use?"
+      },
+      "options": [
+        {
+          "vi": "Không đáp ứng, thở bình thường, không nghi chấn thương liên quan và tiếp tục theo dõi.",
+          "en": "Unresponsive, normally breathing, without suspected relevant trauma, with continued observation."
+        },
+        {
+          "vi": "Mọi người nghi gãy cột sống mà không cần cân nhắc.",
+          "en": "Every suspected spinal injury without further consideration."
+        },
+        {
+          "vi": "Mọi người bất tỉnh dù chỉ thở ngáp.",
+          "en": "Every unconscious person, even with gasping."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Phải phân biệt thở bình thường và nghi ngừng tim, đồng thời xét nguy cơ do di chuyển. Xem mục 5.",
+        "en": "Distinguish normal breathing from presumed arrest and consider movement-related risks. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Lú lẫn và suy sụp trong môi trường nóng cần phản ứng nào?",
+        "en": "Confusion and collapse in heat require what response?"
+      },
+      "options": [
+        {
+          "vi": "Nghi sốc nhiệt, gọi cấp cứu và làm mát tích cực an toàn.",
+          "en": "Suspect heatstroke, activate emergency help and begin safe active cooling."
+        },
+        {
+          "vi": "Đợi đo đúng ngưỡng nhiệt độ mới hành động.",
+          "en": "Wait for a specific temperature before acting."
+        },
+        {
+          "vi": "Cố cho uống dù người lơ mơ.",
+          "en": "Force fluids despite reduced alertness."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Thay đổi ý thức trong bối cảnh nóng là dấu hiệu cấp cứu; không cho uống khi nuốt không an toàn. Xem mục 6.",
+        "en": "Altered mental status in heat is an emergency sign; avoid fluids when swallowing is unsafe. See section 6."
+      },
+      "chapter": 5
+    },
+    {
+      "question": {
+        "vi": "Với bỏng nhiệt, lựa chọn nào đúng?",
+        "en": "Which action is appropriate for a thermal burn?"
+      },
+      "options": [
+        {
+          "vi": "Bôi kem đánh răng và chọc bóng nước.",
+          "en": "Apply toothpaste and burst blisters."
+        },
+        {
+          "vi": "Ngừng nguồn gây bỏng an toàn và làm mát bằng nước sạch chảy khi có.",
+          "en": "Safely stop exposure and cool with clean running water when available."
+        },
+        {
+          "vi": "Đặt đá trực tiếp lâu trên vùng tổn thương.",
+          "en": "Apply ice directly for a prolonged period."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Làm mát sớm và bảo vệ vùng bỏng; tránh hại thêm và cần y tế khi bỏng nặng hoặc đặc biệt. Xem mục 6.",
+        "en": "Cool promptly and protect the burn; avoid further harm and seek care for serious or special burns. See section 6."
+      },
+      "chapter": 5
+    },
+    {
+      "question": {
+        "vi": "Bàn giao y tế tốt cần gì?",
+        "en": "What supports a sound medical handover?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ nói đã sơ cứu xong rồi rời đi.",
+          "en": "Say first aid is finished and leave."
+        },
+        {
+          "vi": "Điền mọi thông số dù không đo được.",
+          "en": "Fill every value even when unmeasured."
+        },
+        {
+          "vi": "Sự kiện, diễn biến, can thiệp và thời điểm, cùng xác nhận tiếp nhận.",
+          "en": "Events, progression, interventions and timing, with confirmed acceptance."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Thông tin khách quan và chuyển giao trách nhiệm giúp duy trì chăm sóc; không bịa dữ liệu. Xem mục 7.",
+        "en": "Objective information and transfer of responsibility support continuity; never invent data. See section 7."
+      },
+      "chapter": 6
+    }
+  ],
+  "updated": "2026-10-28",
+  "moduleId": "FPU-M4",
+  "moduleOrder": 2,
+  "lessonOrder": 1,
+  "sourceModule": {
+    "programme": "STM-FPU",
+    "number": 4,
+    "title": "Police tactics"
+  },
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "FPU-05-01",
+      "title": {
+        "vi": "1. Vai trò người sơ cứu và an toàn hiện trường",
+        "en": "1. The first aider's role and scene safety"
+      },
+      "body": {
+        "vi": "### 1.1. Giữ sinh mạng, ngăn hại thêm, kết nối chăm sóc\nSơ cấp cứu là sự hỗ trợ ban đầu cho người bị thương hoặc bệnh cấp tính trong khi chờ chăm sóc phù hợp. Người sơ cứu cần nhận biết nguy cơ đe dọa sinh mạng, gọi hỗ trợ sớm và làm những việc trong năng lực đã được huấn luyện. Hoạt động có thể được thực hiện bởi nhiều người cùng lúc: Một người gọi y tế, một người đưa bộ sơ cứu và một người tiếp cận người bệnh an toàn.\n\nTrong FPU, không được giả định tổ y tế luôn ở ngay cạnh. Mỗi thành viên cần biết cách gọi hỗ trợ tại địa bàn, vị trí bộ sơ cứu, AED nếu có và vai trò của mình. Bài này tập trung nhận thức và sơ cứu cơ bản, nhất là người lớn; thao tác cần được học, thực hành và đánh giá với người hướng dẫn đủ năng lực. Quy trình trẻ em và xử trí chuyên sâu có yêu cầu riêng.\n\n### 1.2. An toàn trước khi tiếp cận\nQuan sát giao thông, điện, lửa, vật liệu nguy hiểm, bạo lực và nguy cơ môi trường. Không lao vào một vùng chưa kiểm soát để tạo thêm nạn nhân. Báo nguy cơ, gọi lực lượng phù hợp và tiếp cận khi có thể làm an toàn. Trong môi trường có đe dọa vũ trang hoặc vật nổ, việc tiếp cận và đưa người ra khỏi nguy hiểm phải theo phương án an ninh và huấn luyện chuyên biệt.\n\nDùng găng và phương tiện bảo vệ sẵn có phù hợp, tránh tiếp xúc trực tiếp máu và dịch cơ thể, thực hiện vệ sinh tay. Không để việc tìm trang bị không sẵn có làm chậm gọi trợ giúp; cần huy động người lấy và thực hiện hỗ trợ an toàn trong khả năng.\n\n### 1.3. Giao tiếp và tôn trọng\nTự giới thiệu, giải thích ngắn và xin đồng ý khi người bệnh tỉnh và có thể quyết định. Giữ riêng tư, che chắn phù hợp và không chụp ảnh để chia sẻ. Ưu tiên theo nhu cầu y tế, không theo cấp bậc hay quốc tịch. Người bị kiểm soát hoặc nghi vi phạm vẫn có quyền được chăm sóc cần thiết.\n\n### 1.4. Giới hạn rõ ràng\nKhông tự dùng thuốc, làm thủ thuật xâm lấn hoặc di chuyển phức tạp khi chưa được đào tạo và cho phép. Sơ cứu không thay thế y tế; cải thiện tạm thời cũng không loại trừ tổn thương nghiêm trọng. Khi nghi bệnh hoặc chấn thương nặng, cần kích hoạt hỗ trợ ngay và tiếp tục theo dõi đến khi bàn giao.",
+        "en": "### 1.1. Preserve life, prevent further harm, connect care\nFirst aid provides initial assistance for injury or acute illness while appropriate care is arranged. Recognize life threats, activate help early and act within trained competence. Assign parallel roles where possible: Calling medical support, obtaining equipment and safely attending the casualty.\n\nFPU medical personnel may not be immediately beside the team. Members need local emergency contacts, kit and AED locations where available, and clear roles. This lesson develops basic recognition, principally for adults; practical skills require competent instruction and assessment. Children and advanced interventions require separate training.\n\n### 1.2. Assess safety before approaching\nLook for traffic, electricity, fire, hazardous materials, violence and environmental danger. Avoid becoming another casualty. Report hazards, activate suitable support and approach only when safe. Armed threats and explosive hazards require specialized security and rescue arrangements.\n\nUse suitable available gloves and protection, avoid direct blood or body-fluid contact and practise hand hygiene. Do not delay calling help while searching for unavailable equipment; organize retrieval and provide safe assistance within capability.\n\n### 1.3. Communicate respectfully\nIntroduce yourself, explain assistance and seek consent from a responsive person able to decide. Protect privacy and avoid sharing casualty photographs. Prioritize medical need rather than rank or nationality. People under control or suspected of offences retain access to necessary care.\n\n### 1.4. Understand limits\nDo not administer unapproved medicines, perform invasive procedures or undertake complex movement without training and authorization. Temporary improvement does not exclude serious injury. Suspected serious illness or injury requires emergency activation and continued observation until handover."
+      },
+      "sourceIds": [
+        "FIRST",
+        "FA2024"
+      ]
+    },
+    {
+      "id": "FPU-05-02",
+      "title": {
+        "vi": "2. Nhận biết nguy cơ sinh mạng và gọi hỗ trợ",
+        "en": "2. Recognizing life threats and activating help"
+      },
+      "body": {
+        "vi": "### 2.1. Kiểm tra nhanh, không trì hoãn\nKhi đã an toàn, kiểm tra đáp ứng bằng gọi và chạm nhẹ phù hợp; quan sát hơi thở và chảy máu nghiêm trọng. Người không đáp ứng và không thở bình thường, kể cả chỉ thở ngáp, cần được coi là nghi ngừng tim. Thở ngáp rời rạc không phải dấu hiệu hô hấp bình thường để chờ thêm.\n\nNgười sơ cứu không phải nhân viên y tế không nên trì hoãn CPR để cố tìm mạch. Nhân viên y tế có quy trình kiểm tra riêng theo trình độ. Không dành nhiều phút kiểm tra từng mục hoặc cố xác định chẩn đoán trước khi gọi trợ giúp và bắt đầu việc cần thiết.\n\n### 2.2. Gọi đúng và phân công cụ thể\nKích hoạt cơ chế cấp cứu của phái bộ hoặc y tế khẩn cấp địa phương theo phương án đã xác định. Nếu có điện thoại, dùng loa ngoài khi phù hợp để vừa nhận hướng dẫn vừa hỗ trợ. Chỉ rõ người gọi và người lấy AED hoặc bộ sơ cứu; yêu cầu xác nhận đã thực hiện. “Ai đó gọi giúp” có thể khiến mọi người nghĩ người khác đang làm.\n\nThông tin ban đầu cần có vị trí chính xác và cách tiếp cận, số người cần giúp, nguy hiểm còn tồn tại, tình trạng đáp ứng và thở, chảy máu nghiêm trọng và hành động đang làm. Đừng đọc toàn bộ lịch sử trước khi báo một người không đáp ứng. Tiếp tục nhận hướng dẫn và cập nhật khi có thay đổi.\n\n### 2.3. Nhiều nguy cơ cùng xuất hiện\nNếu vừa có nghi ngừng tim vừa có chảy máu đe dọa sinh mạng, huy động thêm người để các can thiệp ưu tiên được thực hiện song song khi có thể. Trong tình huống chấn thương đặc biệt hoặc nhiều nạn nhân, áp dụng huấn luyện và cơ chế y tế đã thống nhất; không tự tạo cách phân loại hoặc thuật toán chiến thuật từ bài sơ cứu cơ bản.\n\n### 2.4. Đánh giá lại liên tục\nSau một can thiệp, tiếp tục kiểm tra đáp ứng, hơi thở và chảy máu. Người ban đầu còn nói được có thể xấu đi; một băng đã đặt có thể không còn kiểm soát máu. Khi có thay đổi, báo lại và chuyển cách hỗ trợ theo tình trạng. Không đợi một khoảng cố định như 15 phút mới xem lại dấu hiệu sinh mạng của người đang nguy kịch.",
+        "en": "### 2.1. Rapid recognition\nOnce safe, check responsiveness with voice and appropriate gentle touch, assess breathing and identify severe bleeding. An unresponsive adult who is not breathing normally, including only gasping, should be treated as a presumed cardiac arrest. Irregular gasps are not normal breathing.\n\nNon-healthcare first aiders should not delay CPR attempting to find a pulse. Healthcare professionals follow their trained assessment. Do not spend minutes completing a checklist or establishing a diagnosis before activating help and necessary care.\n\n### 2.2. Activate help and assign roles\nUse established mission or local emergency arrangements. A speakerphone can allow guidance while assisting. Name the person calling and the person fetching an AED or kit, and obtain confirmation.\n\nCommunicate exact location and access, casualty numbers, remaining hazards, responsiveness, breathing, severe bleeding and current actions. An unresponsive casualty's immediate condition takes priority over a lengthy history. Follow instructions and update changes.\n\n### 2.3. Concurrent threats\nWhere presumed cardiac arrest and life-threatening bleeding coexist, recruit additional helpers for parallel priorities when possible. Specialized trauma and multiple-casualty situations require agreed medical training and procedures. Basic first aid is not a substitute tactical or triage algorithm.\n\n### 2.4. Reassess continuously\nRecheck responsiveness, breathing and bleeding after interventions. A speaking casualty may deteriorate; an applied dressing may fail. Update responders and adapt assistance. Do not wait a fixed interval such as 15 minutes before reassessing a critically ill person."
+      },
+      "sourceIds": [
+        "AHA",
+        "FA2024"
+      ]
+    },
+    {
+      "id": "FPU-05-03",
+      "title": {
+        "vi": "3. CPR người lớn và AED",
+        "en": "3. Adult CPR and AED use"
+      },
+      "body": {
+        "vi": "### 3.1. Bắt đầu ép ngực sớm\nVới người lớn nghi ngừng tim, gọi cấp cứu và bắt đầu CPR ngay, ưu tiên ép ngực; huy động người lấy AED. Đặt người nằm ngửa trên bề mặt chắc, phẳng khi có thể làm an toàn mà không gây chậm đáng kể. Đặt gót một bàn tay ở giữa ngực, trên nửa dưới xương ức; bàn tay kia đặt chồng lên, giữ cánh tay thẳng và ép theo hướng xuống.\n\nÉp với tần số 100–120 lần mỗi phút, sâu ít nhất 5 cm và tránh quá 6 cm ở người lớn trung bình. Để ngực nở lại hoàn toàn sau mỗi lần, tránh tì liên tục và giảm tối đa gián đoạn. Ép nhanh hơn không tự tạo CPR tốt hơn; quá nhanh có thể làm giảm độ sâu và chất lượng.\n\n### 3.2. Phối hợp thổi ngạt trong phạm vi huấn luyện\nNgười đã được huấn luyện, có khả năng và sẵn sàng thực hiện có thể phối hợp 30 lần ép với 2 nhịp thổi; mỗi nhịp khoảng một giây, đủ làm ngực nâng, tránh thổi quá mức. Dùng phương tiện bảo vệ phù hợp khi có. Nếu chưa được huấn luyện hoặc không thể thực hiện thổi ngạt, tiếp tục ép ngực và theo hướng dẫn của điều phối cấp cứu; không vì thiếu khả năng thổi mà đứng chờ.\n\nKhi có người thay đủ năng lực, đổi người ép khoảng mỗi hai phút hoặc sớm hơn khi mệt, giảm gián đoạn. Không thực hành ép ngực trên người khỏe để thử kỹ thuật; phải dùng mô hình trong huấn luyện.\n\n### 3.3. Dùng AED theo lời nhắc\nBật AED, để lộ ngực và dán điện cực theo hình hướng dẫn trên máy; làm khô vùng dán nếu ướt. Không chạm người khi máy phân tích hoặc phát sốc. Sau sốc hoặc khi máy báo không cần sốc, tiếp tục CPR ngay theo lời nhắc. Máy không yêu cầu sốc không có nghĩa người đã hồi phục.\n\nNếu có nhiều người, tiếp tục ép trong lúc người khác chuẩn bị máy đến khi máy yêu cầu dừng. AED hỗ trợ đánh giá nhịp có thể sốc, không thay việc gọi hỗ trợ hoặc ép ngực.\n\n### 3.4. Tiếp tục và chuyển giao\nTiếp tục theo hướng dẫn tới khi người có dấu hiệu sống rõ và thở bình thường, đội cấp cứu tiếp nhận, hiện trường không còn an toàn hoặc người cứu không thể tiếp tục. Nếu người đã thở bình thường, tiếp tục theo dõi vì có thể ngừng lại. Nội dung này áp dụng cơ bản cho người lớn; không suy nguyên thông số độ sâu sang trẻ nhỏ, và không suy rằng chấn thương do chiến sự có thể xử trí đầy đủ chỉ bằng quy trình này.",
+        "en": "### 3.1. Begin compressions promptly\nActivate emergency help and start CPR for presumed adult cardiac arrest, while another person obtains an AED. Position the casualty supine on a firm, flat surface when safely feasible without substantial delay. Place one hand's heel on the lower half of the sternum in the centre of the chest, the other hand above it, and compress vertically with straight arms.\n\nUse 100–120 compressions per minute, at least 5 cm deep while avoiding depths beyond 6 cm in an average adult. Allow complete recoil, avoid leaning and minimize pauses. Faster is not automatically better.\n\n### 3.2. Breaths within trained capability\nTrained, able and willing rescuers may provide 30 compressions followed by 2 breaths, each over about one second and sufficient for visible chest rise. Avoid excessive ventilation and use suitable protective equipment where available. If untrained or unable to provide breaths, continue compressions and follow emergency-dispatch guidance rather than withholding help.\n\nChange competent compressors about every two minutes, or sooner with fatigue, while minimizing interruption. Practise on a manikin rather than a healthy person.\n\n### 3.3. Follow AED prompts\nSwitch on the AED, expose the chest and place pads as illustrated; dry wet pad sites. Keep everyone clear during analysis and shock. Immediately resume CPR after a shock or a no-shock instruction. “No shock advised” does not establish recovery.\n\nWith several rescuers, continue compressions while the device is prepared until it requests a pause. An AED does not replace emergency activation or CPR.\n\n### 3.4. Continue and hand over\nFollow guidance until clear signs of life and normal breathing return, emergency personnel take over, the scene becomes unsafe or the rescuer cannot continue. Continue observing after apparent recovery. These adult parameters must not be transferred unchanged to young children, and this basic pathway does not fully address specialized conflict trauma."
+      },
+      "sourceIds": [
+        "AHA"
+      ]
+    },
+    {
+      "id": "FPU-05-04",
+      "title": {
+        "vi": "4. Chảy máu nghiêm trọng và dấu hiệu sốc",
+        "en": "4. Severe bleeding and signs of shock"
+      },
+      "body": {
+        "vi": "### 4.1. Nhận biết chảy máu đe dọa sinh mạng\nMáu chảy nhanh hoặc phun, tạo vũng, tiếp tục ra nhiều hoặc kèm lơ mơ, chóng mặt và suy sụp là những dấu hiệu cần xử trí khẩn. Không cần ước lượng chính xác thể tích mới gọi giúp. Bảo vệ khỏi tiếp xúc máu, bộc lộ vị trí đủ để xác định và thực hiện ép trực tiếp bằng gạc hoặc vật liệu sạch phù hợp.\n\nÉp chắc, liên tục vào vết thương và kiểm tra hiệu quả. Huy động thêm người gọi y tế, đưa vật tư và chuẩn bị chuyển tiếp. Không mải làm sạch một vết thương nhỏ mà bỏ sót chảy máu lớn ở vị trí khác. Không rút vật cắm sâu; hỗ trợ bảo vệ vùng tổn thương và làm theo hướng dẫn chuyên môn.\n\n### 4.2. Khi cần biện pháp bổ sung\nVới chảy máu chi đe dọa sinh mạng không kiểm soát được bằng ép trực tiếp, garô thương mại có thể cần thiết; người sử dụng phải được hướng dẫn đúng loại và kỹ năng. Chèn gạc cầm máu có thể phù hợp một số vị trí theo huấn luyện. Không tự áp dụng garô ở cổ hoặc thân mình và không đưa gạc sâu vào mọi loại vết thương.\n\nKhi đã đặt garô, ghi thời điểm, báo đội y tế và không tự nới hoặc tháo; việc đó thuộc nhân viên y tế có trách nhiệm. Tiếp tục quan sát chảy máu và toàn trạng. Không nới định kỳ để “cho máu lưu thông”, vì có thể gây chảy máu lại nguy hiểm. Bài đọc không thay buổi thực hành kiểm soát chảy máu với dụng cụ thực tế.\n\n### 4.3. Nghĩ đến sốc và tổn thương bên trong\nSốc có thể biểu hiện yếu, chóng mặt, da lạnh hoặc thay đổi màu, thở nhanh, lú lẫn hoặc giảm đáp ứng. Có thể có chảy máu bên trong dù bên ngoài không thấy nhiều máu. Những dấu hiệu này đòi hỏi y tế khẩn, kiểm soát chảy máu nhìn thấy và theo dõi liên tục.\n\nĐể người nghỉ ở tư thế phù hợp, thường nằm ngửa nếu tỉnh và chịu được, giữ ấm vừa phải và bảo vệ khỏi môi trường. Tư thế phải cân nhắc khó thở, nôn và chấn thương; không máy móc nâng chân ở mọi trường hợp. Không cho ăn uống khi giảm tỉnh táo, nguy cơ sặc hoặc chấn thương nghiêm trọng; làm theo hướng dẫn y tế.\n\n### 4.4. Bàn giao thông tin có giá trị\nBáo vị trí và cơ chế tổn thương, chảy máu quan sát, can thiệp, thời điểm garô nếu có, đáp ứng và thay đổi. Một băng kín chưa chứng minh người đã ổn định; cần tiếp tục theo dõi đến khi đội y tế nhận trách nhiệm.",
+        "en": "### 4.1. Recognize life-threatening bleeding\nRapid flow, spurting, pooling, persistent major bleeding or associated dizziness, reduced alertness and collapse require urgent action. Do not wait for a precise blood-loss estimate. Protect against exposure, expose enough to locate the wound and apply firm direct pressure with suitable gauze or clean material.\n\nMaintain pressure and assess effectiveness. Assign others to activate medical care and obtain supplies. Do not focus on minor wounds while major bleeding remains unrecognized. Do not remove deeply embedded objects; protect the injury and obtain professional guidance.\n\n### 4.2. Additional measures\nLife-threatening limb bleeding uncontrolled by direct pressure may require a commercial tourniquet used according to device-specific training. Wound packing may suit certain locations when properly taught. Tourniquets are not for the neck or trunk, and deep packing is not appropriate for every wound.\n\nRecord application time, inform medical responders and do not loosen or remove an applied tourniquet yourself. Continued observation remains necessary. Periodic loosening can cause dangerous renewed bleeding. Reading cannot replace hands-on bleeding-control training.\n\n### 4.3. Shock and internal injury\nWeakness, dizziness, cool or altered-colour skin, rapid breathing, confusion or reduced responsiveness may indicate shock. Internal bleeding can occur without substantial visible blood. Activate urgent care, control visible bleeding and monitor continuously.\n\nUse an appropriate resting position, generally supine when alert and tolerated, protect from exposure and avoid overheating. Consider breathing difficulty, vomiting and trauma rather than automatically elevating legs. Avoid oral intake with reduced alertness, aspiration risk or serious trauma and follow medical guidance.\n\n### 4.4. Useful handover\nReport injury location and mechanism, bleeding, interventions, tourniquet time, response and changes. A covered wound does not establish stability. Continue care until medical responders take responsibility."
+      },
+      "sourceIds": [
+        "FA2024",
+        "TOUR"
+      ]
+    },
+    {
+      "id": "FPU-05-05",
+      "title": {
+        "vi": "5. Người không tỉnh, đường thở và chấn thương",
+        "en": "5. Reduced consciousness, airway and trauma"
+      },
+      "body": {
+        "vi": "### 5.1. Không tỉnh nhưng còn thở bình thường\nNgười không đáp ứng vẫn cần gọi hỗ trợ khẩn. Nếu còn thở bình thường và không nghi chấn thương liên quan, tư thế hồi phục nằm nghiêng có thể giúp giữ đường thở và thoát dịch. Kỹ thuật cần được thực hành đúng; tiếp tục theo dõi hơi thở, không đặt xong rồi bỏ đi. Nếu chỉ thở ngáp hoặc ngừng thở bình thường, chuyển sang nhận định nghi ngừng tim và CPR.\n\nNằm nghiêng không phải tư thế dùng cho mọi người bất tỉnh. Nếu có khả năng tổn thương cột sống, hông hoặc chậu, cần cân nhắc nguy cơ di chuyển và nhận hướng dẫn y tế; ưu tiên bảo vệ đường thở và sinh mạng. Nếu cần xoay vì nôn hoặc không giữ được đường thở, huy động người có kỹ năng và hạn chế xoắn vặn, theo huấn luyện và hướng dẫn cấp cứu.\n\n### 5.2. Nghi chấn thương cột sống\nCú ngã, tai nạn xe hoặc lực mạnh có thể gây tổn thương. Khuyến khích người tỉnh giữ yên, tránh di chuyển không cần thiết và gọi hỗ trợ. Không kéo ngồi dậy để xem “có đi được không”, không tự nắn cổ và không thử vận động để xác nhận tổn thương.\n\nNguy cơ cột sống không phải lý do bỏ qua đường thở, hô hấp hoặc để người ở nơi nguy hiểm. Khi bắt buộc di chuyển để bảo vệ sinh mạng, phải ưu tiên cách an toàn trong khả năng được huấn luyện và nhận hướng dẫn. Các kỹ thuật mở đường thở chuyên biệt cần người có năng lực; không tự thao tác dựa trên một ảnh.\n\n### 5.3. Gãy xương và tổn thương chi\nDấu hiệu có thể gồm đau, sưng, biến dạng, không sử dụng được chi hoặc vết thương có xương lộ. Giữ phần bị thương ở tư thế tìm thấy, hạn chế cử động, che vết thương hở bằng vật liệu phù hợp và gọi y tế. Không tự nắn xương hoặc đẩy xương lộ trở lại. Nẹp chỉ nên thực hiện trong phạm vi được huấn luyện, chú ý không làm gián đoạn chăm sóc nguy cơ sinh mạng.\n\n### 5.4. Không nhầm lơ mơ với một nguyên nhân duy nhất\nGiảm đáp ứng có thể do chấn thương đầu, thiếu oxy, nóng, bệnh cấp tính, chất hoặc nhiều nguyên nhân khác. Không mặc định người đó say, giả vờ hoặc chỉ hoảng sợ. Ghi điều quan sát được, bảo vệ đường thở, gọi hỗ trợ và cập nhật thay đổi. Thông tin khách quan giúp đội y tế đánh giá đúng hơn phán đoán vội.",
+        "en": "### 5.1. Unresponsive but breathing normally\nActivate emergency help. For a normally breathing, unresponsive person without suspected relevant trauma, a recovery position can help maintain the airway and drainage. Correct positioning requires practice and continued breathing observation. Gasping or loss of normal breathing requires presumed-arrest recognition and CPR.\n\nThe recovery position is not universal for unconsciousness. Suspected spine, hip or pelvic injury requires consideration of movement risks and medical guidance, while preserving airway and life. If vomiting or airway compromise requires turning, obtain skilled help and minimize twisting under trained emergency guidance.\n\n### 5.2. Suspected spinal injury\nFalls, vehicle crashes and significant force may cause spinal injury. Encourage a responsive casualty to remain still, avoid unnecessary movement and activate help. Do not sit them up to test walking, manipulate the neck or test movement to establish injury.\n\nSpinal concerns must not prevent lifesaving airway care or necessary movement from danger. Use safe methods within training and obtain emergency guidance. Specialized airway techniques require competence rather than imitation of a photograph.\n\n### 5.3. Limb injuries and fractures\nPain, swelling, deformity, inability to use a limb or exposed bone may indicate fracture. Support the part as found, limit movement, cover open wounds appropriately and seek care. Do not straighten fractures or push exposed bone back. Splinting requires training and must not delay life-threat care.\n\n### 5.4. Avoid premature explanations\nReduced responsiveness may involve head injury, oxygen deprivation, heat, illness, substances or several causes. Do not assume intoxication, pretence or anxiety. Record observations, protect the airway, activate help and report changes. Objective information is more useful than an early label."
+      },
+      "sourceIds": [
+        "FA2024",
+        "FIRST"
+      ]
+    },
+    {
+      "id": "FPU-05-06",
+      "title": {
+        "vi": "6. Nóng, bỏng và những việc dễ làm sai",
+        "en": "6. Heat illness, burns and avoidable errors"
+      },
+      "body": {
+        "vi": "### 6.1. Bệnh do nóng\nNhiệm vụ trong khí hậu nóng, mang trang bị và vận động kéo dài có thể làm cơ thể quá nóng. Người yếu, chóng mặt, đau đầu hoặc kiệt sức cần dừng vận động, tới nơi mát và được đánh giá. Khi có lú lẫn, thay đổi hành vi, giảm ý thức hoặc suy sụp trong bối cảnh nóng, cần nghi sốc nhiệt và gọi cấp cứu ngay; không đợi đo được một nhiệt độ cụ thể mới hành động.\n\nĐưa ra khỏi nguồn nóng nếu an toàn, cởi bớt lớp quần áo hoặc trang bị không cần thiết và bắt đầu làm mát tích cực theo hướng dẫn. Các phương pháp có thể gồm làm ướt và quạt, khăn mát hoặc phương án phù hợp có giám sát. Làm mát toàn thân bằng nước cần người tổ chức an toàn, đặc biệt bảo vệ đường thở; không để người giảm ý thức một mình trong nước.\n\nChỉ cho uống dịch mát khi người tỉnh, nuốt an toàn và không có chống chỉ định theo hướng dẫn. Không cố cho uống khi lơ mơ. Tiếp tục kiểm tra đáp ứng, thở và phối hợp đội y tế; không coi đưa vào bóng râm là đã hoàn thành xử trí sốc nhiệt.\n\n### 6.2. Bỏng nhiệt\nNgừng tiếp xúc nguồn gây bỏng mà không gây nguy hiểm cho người cứu. Làm mát vùng bỏng ngay, ưu tiên nước sạch chảy, đồng thời tránh làm toàn thân bị lạnh. Không chườm đá trực tiếp, bôi kem đánh răng, dầu mỡ hoặc chọc vỡ bóng nước. Che bảo vệ bằng vật liệu sạch phù hợp; không bóc vật dính chặt vào da.\n\nBỏng rộng, sâu, ở vị trí quan trọng, do điện hoặc hóa chất, hoặc kèm dấu hiệu hít khói cần y tế khẩn. Bỏng hóa chất và điện có nguy cơ riêng, cần bảo đảm an toàn nguồn và hướng dẫn chuyên môn; không suy rằng mọi bỏng đều xử lý giống nhau chỉ bằng nước.\n\n### 6.3. Không để việc nhỏ che nguy cơ lớn\nNgười còn đi được hoặc vết thương ngoài nhỏ vẫn có thể có vấn đề nghiêm trọng. Luôn quay lại đáp ứng, thở, chảy máu và diễn biến. Không cho thuốc hoặc thức uống như một biện pháp “làm tỉnh” khi chưa hiểu tình trạng. Nếu chưa chắc cách làm, gọi người có chuyên môn và thực hiện việc cơ bản an toàn trong năng lực.\n\n### 6.4. Phòng ngừa ở cấp đơn vị\nKế hoạch cần thời gian thích nghi, nghỉ và nước uống, theo dõi điều kiện thời tiết và khả năng tiếp cận y tế. Chỉ huy cần tạo điều kiện báo khó chịu sớm; cố chịu để hoàn thành nhiệm vụ có thể biến một vấn đề còn kiểm soát được thành cấp cứu.",
+        "en": "### 6.1. Heat illness\nHeat, protective equipment and prolonged exertion can cause dangerous overheating. Weakness, dizziness, headache or exhaustion requires stopping exertion, cooling and assessment. Confusion, behavioural change, reduced consciousness or collapse in heat warrants suspected heatstroke and immediate emergency activation. Do not wait for a specific measured temperature.\n\nMove out of heat safely, remove unnecessary layers or equipment and begin active cooling under guidance. Options include wetting and fanning, cool towels or appropriately supervised alternatives. Water immersion requires safe organization and airway protection; never leave a reduced-consciousness casualty alone in water.\n\nOffer cool fluids only when alert, able to swallow safely and appropriate under guidance. Never force fluids into a drowsy person. Continue assessment and medical coordination; shade alone does not complete heatstroke care.\n\n### 6.2. Thermal burns\nStop exposure without endangering rescuers. Cool the burn promptly, preferably with clean running water, while avoiding whole-body chilling. Do not apply ice directly, toothpaste or grease, and do not break blisters. Protect with suitable clean covering and avoid removing material stuck to skin.\n\nExtensive, deep or critical-area burns, electrical or chemical burns and suspected smoke inhalation require urgent medical care. Electrical and chemical hazards require source safety and specialist guidance rather than assuming identical treatment for every burn.\n\n### 6.3. Avoid distracting minor problems\nWalking ability or a small visible wound does not exclude serious illness or injury. Reassess responsiveness, breathing, bleeding and progression. Do not use medicines or drinks as an improvised way to make someone alert. Seek guidance and provide safe basic assistance within competence when uncertain.\n\n### 6.4. Unit prevention\nPlan acclimatization, rest, hydration, weather monitoring and medical access. Encourage early reporting of symptoms. Trying to endure discomfort to finish a task can turn a manageable problem into an emergency."
+      },
+      "sourceIds": [
+        "FA2024"
+      ]
+    },
+    {
+      "id": "FPU-05-07",
+      "title": {
+        "vi": "7. Chuyển tiếp y tế, bàn giao và chuẩn bị",
+        "en": "7. Medical transfer, handover and preparedness"
+      },
+      "body": {
+        "vi": "### 7.1. Di chuyển có mục đích và đủ điều kiện\nDi chuyển có thể cần để thoát nguy hiểm hoặc tới chăm sóc, nhưng cũng có thể làm nặng tổn thương. Khi nơi hiện tại an toàn và người đang được chăm sóc, không tự bế hoặc kéo đi chỉ để thuận tiện. Khi có nguy hiểm tức thời, ưu tiên đưa tới vùng an toàn bằng phương pháp trong khả năng, huy động hỗ trợ và tiếp tục chăm sóc sau đó.\n\nVận chuyển y tế phải có đầu mối điều phối, phương tiện phù hợp, nơi tiếp nhận và khả năng theo dõi dọc đường. Không chỉ tìm một xe bất kỳ rồi mặc định chuyển người là đã giải quyết. Người cần CPR hoặc chăm sóc đường thở cần phương án y tế tương ứng; người sơ cứu phải báo rõ tình trạng để được hướng dẫn.\n\n### 7.2. Bàn giao ngắn và có cấu trúc\nMột khung thông tin thực tế gồm: Sự kiện và thời điểm; thương tích hoặc triệu chứng quan sát; tình trạng và diễn biến; can thiệp đã làm cùng đáp ứng. Có thể dùng MIST trong chấn thương để nhớ cơ chế, tổn thương, dấu hiệu và xử trí, theo cách phái bộ thống nhất. Đây là khung trao đổi, không thay biểu mẫu hoặc quy trình yêu cầu.\n\nNêu thời điểm bắt đầu CPR, AED đã làm gì nếu biết, vị trí và giờ đặt garô, thay đổi đáp ứng hoặc thở và những điều chưa rõ. Chỉ đo hoặc báo thông số trong năng lực và điều kiện thực có; không ước đoán số để điền đủ. Xác nhận người nhận đã hiểu và tiếp quản trước khi rời.\n\n### 7.3. Ghi chép và bảo mật\nGhi sớm thời gian, quan sát, hành động và người tiếp nhận. Không dùng hồ sơ để suy đoán trách nhiệm hay công khai danh tính. Thông tin y tế cần đi tới đúng người phục vụ chăm sóc và nghĩa vụ báo cáo. Dữ liệu và hình ảnh không được chia sẻ trên nhóm không có nhiệm vụ.\n\n### 7.4. Chuẩn bị cho lần tiếp theo\nSau sử dụng, bổ sung vật tư, kiểm tra bộ sơ cứu và AED theo hướng dẫn, xử lý chất thải an toàn và báo phơi nhiễm nếu có. Rút kinh nghiệm về gọi hỗ trợ, vị trí, thời gian, trang bị và bàn giao. Người đã tham gia cứu người có thể cần nghỉ và hỗ trợ tâm lý. Kết quả kiểm tra trực tuyến xác nhận mức hiểu bài; khả năng sơ cứu thực tế cần được huấn luyện và đánh giá riêng.",
+        "en": "### 7.1. Purposeful, supported movement\nMovement may be necessary to escape danger or reach care but can worsen injury. Do not carry or drag a casualty merely for convenience when the location is safe and care is ongoing. Immediate danger may require movement using safe methods within competence, followed by continued care.\n\nMedical transport needs coordination, suitable equipment, a receiving facility and monitoring en route. Finding any vehicle is insufficient. Report CPR or airway-care needs clearly so medical personnel can direct the response.\n\n### 7.2. Structured handover\nCommunicate the event and timing, observed injuries or symptoms, condition and changes, and interventions with responses. MIST can support trauma communication: Mechanism, injuries, signs and treatment, as used locally. It does not replace required forms or protocols.\n\nReport CPR start, known AED actions, tourniquet location and time, changes in responsiveness or breathing, and uncertainties. Provide measurements only when obtained competently; never invent missing values. Confirm understanding and transfer of responsibility before leaving.\n\n### 7.3. Documentation and privacy\nRecord times, observations, actions and the receiving person promptly. Do not use records to speculate about blame or disclose identity publicly. Share medical information through authorized care and reporting channels, not unrelated group chats.\n\n### 7.4. Prepare for the next response\nReplace supplies, check kits and AEDs according to instructions, manage contaminated waste and report exposure when relevant. Review activation, location, timing, equipment and handover. Rescuers may need rest and psychological support. An online knowledge check demonstrates understanding; practical first aid competence requires separate training and assessment."
+      },
+      "sourceIds": [
+        "FIRST",
+        "FA2024"
+      ]
+    }
+  ],
+  "source_ids": [
+    "FIRST",
+    "FA2024",
+    "AHA",
+    "TOUR"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "CPR",
+      "definition": {
+        "vi": "Hồi sinh tim phổi.",
+        "en": "Cardiopulmonary resuscitation."
+      }
+    },
+    {
+      "term": "AED",
+      "definition": {
+        "vi": "Máy khử rung tim tự động bên ngoài.",
+        "en": "Automated external defibrillator."
+      }
+    },
+    {
+      "term": "Gasping",
+      "definition": {
+        "vi": "Thở ngáp rời rạc, không phải thở bình thường.",
+        "en": "Irregular agonal gasps, not normal breathing."
+      }
+    },
+    {
+      "term": "Direct pressure / Tourniquet",
+      "definition": {
+        "vi": "Ép trực tiếp / garô cho chảy máu chi theo chỉ định và huấn luyện.",
+        "en": "Direct pressure / tourniquet for appropriate limb bleeding within training."
+      }
+    },
+    {
+      "term": "Recovery position",
+      "definition": {
+        "vi": "Tư thế hồi phục; chỉ dùng khi phù hợp tình trạng và nguy cơ chấn thương.",
+        "en": "Recovery position, selected according to breathing and injury considerations."
+      }
+    },
+    {
+      "term": "MIST",
+      "definition": {
+        "vi": "Cơ chế; tổn thương; dấu hiệu; xử trí — khung bàn giao chấn thương.",
+        "en": "Mechanism; injuries; signs; treatment — a trauma handover aid."
+      }
+    }
+  ],
+  "diagram": null,
+  "contentVersion": "batch-03-expanded-v1-2026-10-28",
+  "sourceIntro": {
+    "vi": "Nguồn nền theo từng mục và tài liệu đối chiếu. Lời giảng, bản Anh và câu hỏi biên soạn riêng cho Handbook; hình gốc có ghi tài liệu, trang PDF và giải thích.",
+    "en": "Primary materials mapped to sections and supplementary checks. Teaching, English text and questions are authored for the Handbook; original figures identify source, PDF page and commentary."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Bản biên soạn đợt 3, ngày 28/10/2026, để người dùng duyệt. Không phải ấn phẩm hoặc bản dịch chính thức UN. Mã bài là cách tổ chức của Handbook, khác số bài của UN.",
+      "Giữ giao diện 4 tab của các bài mẫu. Hình giữ tiếng Anh gốc và có giải thích Việt–Anh. Nguồn theo mục nêu nền kiến thức, không coi mọi câu là trích nguyên văn.",
+      "Bài học chung không thay mandate, DUF, SUR, MOU hoặc SOP áp dụng tại phái bộ; không tự trao quyền hoặc chứng nhận năng lực thực hành.",
+      "Đã đọc FPU STM Operational First Aid (2015), đối chiếu nội dung liên quan với AHA Adult BLS (2025), AHA/Red Cross First Aid (2024) và hướng dẫn garô Red Cross. Không kế thừa mốc chờ 15 phút mới đánh giá lại hoặc hướng dẫn nới kiểm soát chảy máu định kỳ của tài liệu cũ.",
+      "Khuyến nghị AHA/Red Cross là nguồn y tế dân sự cho sơ cứu cơ bản, không phải quy trình cứu thương chiến thuật UN. Phần tác chiến, nhiều nạn nhân, trẻ em và thủ thuật chuyên sâu cần quy trình, huấn luyện riêng. Thông số CPR trong bài dành cho người lớn. Hình tư thế hồi phục chỉ minh họa một phần buổi thực hành gốc, có giới hạn về hô hấp và chấn thương trong lời giảng.",
+      "Đây là bản thảo học liệu chưa được giảng viên sơ cứu hoặc bác sĩ thẩm định độc lập; cần rà chuyên môn trước khi dùng như chương trình huấn luyện chính thức."
+    ],
+    "en": [
+      "Batch 3 authored on 28 October 2026 for user review. Not an official UN publication or translation. Handbook numbering differs from UN lesson numbering.",
+      "The four-tab sample interface is retained. Figures preserve original English with bilingual commentary. Section mapping identifies the knowledge base rather than verbatim sourcing for every sentence.",
+      "General study does not replace applicable mandates, DUF, SUR, MOU or mission SOPs and confers neither authority nor practical certification.",
+      "FPU STM Operational First Aid (2015) was read and relevant content compared with AHA Adult BLS (2025), AHA/Red Cross First Aid (2024) and Red Cross tourniquet guidance. Older fixed 15-minute reassessment or periodic bleeding-control release instructions are not retained.",
+      "Civilian AHA/Red Cross first aid guidance is not a UN tactical casualty-care protocol. Tactical, multiple-casualty, paediatric and advanced interventions require separate procedures and training. CPR parameters here concern adults. The recovery-position figure illustrates part of a practical session and is accompanied by breathing and trauma limits.",
+      "This learning draft has not received independent first-aid instructor or medical review; obtain that review before using it as an official training programme."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bài học trình bày nhận biết nguy cơ sinh mạng, gọi hỗ trợ, CPR/AED người lớn, chảy máu, theo dõi và bàn giao. Học nhận thức cần đi cùng thực hành được hướng dẫn và đánh giá năng lực.",
+      "en": "Study life-threat recognition, emergency activation, adult CPR/AED, bleeding, monitoring and handover. Knowledge learning must be paired with supervised practical training and competence assessment."
+    },
+    "subtitle": {
+      "vi": "An toàn hiện trường · Hỗ trợ sớm · Chăm sóc liên tục",
+      "en": "Scene safety · Early help · Continuity of care"
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích vai trò, giới hạn và an toàn của người sơ cứu.",
+        "Nhận biết ngừng tim nghi ngờ, thở ngáp và gọi hỗ trợ rõ trách nhiệm.",
+        "Nêu thông số CPR người lớn và nguyên tắc sử dụng AED.",
+        "Giải thích ép trực tiếp, giới hạn garô và dấu hiệu sốc.",
+        "Phân biệt tư thế hồi phục, nghi chấn thương, nóng và bỏng cần y tế.",
+        "Tổ chức theo dõi, chuyển tiếp và bàn giao khách quan."
+      ],
+      "en": [
+        "Explain first-aider roles, limits and safety.",
+        "Recognize presumed arrest and gasping and assign emergency activation.",
+        "State adult CPR parameters and AED principles.",
+        "Explain direct pressure, tourniquet boundaries and shock signs.",
+        "Distinguish recovery positioning, suspected trauma, heat and burn emergencies.",
+        "Explain monitoring, transfer and objective handover."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc 7 mục trong tab Nội dung bài học; bấm hình để xem lớn và đọc lời giảng kèm. Làm 12 câu kiểm tra, đọc giải thích và trở lại mục liên quan. VI/EN giữ lựa chọn trong phiên; tải lại trang bắt đầu lại.",
+      "en": "Read all sections and the figure commentary; click figures to enlarge. Complete 12 questions, review explanations and revisit relevant sections. VI/EN retains selections during the session; reloading starts again."
+    }
+  },
+  "figures": [
+    {
+      "chapter": 4,
+      "image": "assets/lesson-figures/batch-03/FIRST-p13.png",
+      "alt": {
+        "vi": "Hình 1. Minh họa một phần thực hành tư thế hồi phục",
+        "en": "Figure 1. An illustration from recovery-position practice"
+      },
+      "caption": {
+        "vi": "Hình 1. Minh họa một phần thực hành tư thế hồi phục",
+        "en": "Figure 1. An illustration from recovery-position practice"
+      },
+      "explanation": {
+        "vi": "Đây là phần minh họa động tác trong bài thực hành gốc, không phải toàn bộ quy trình tự học. Chỉ cân nhắc tư thế hồi phục khi người không đáp ứng còn thở bình thường và phù hợp nguy cơ chấn thương. Không dùng cho thở ngáp/ngừng tim; tiếp tục theo dõi và học kỹ thuật trực tiếp với giảng viên.",
+        "en": "This illustrates part of the original practical session, not a complete self-training sequence. Consider recovery positioning only with normal breathing and appropriate injury assessment. Do not use it for gasping or cardiac arrest; continue monitoring and learn the technique with a competent instructor."
+      },
+      "sourceLabel": "UN FPU STM 2015 · Operational First Aid",
+      "pdfPage": 13
+    }
+  ],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft",
+  "figureZoom": true
+}

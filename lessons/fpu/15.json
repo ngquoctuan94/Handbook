@@ -1,0 +1,730 @@
+{
+  "schemaVersion": 2,
+  "id": "FPU-15",
+  "area": "fpu",
+  "groupKey": "FPU-M6",
+  "group": {
+    "vi": "Chỉ huy và tham mưu",
+    "en": "Command staff training"
+  },
+  "title": {
+    "vi": "Bảo vệ cơ sở Liên hợp quốc",
+    "en": "Security of UN facilities"
+  },
+  "summary": {
+    "vi": "Bảo vệ cơ sở cần một hệ thống hoạt động: Con người nhận biết, thông tin tới đúng nơi và hỗ trợ được huy động. Bài học liên kết tiếp cận, giám sát, ứng phó và khôi phục có trách nhiệm.",
+    "en": "Facility security needs a functioning system: People recognize concerns, information reaches responsible actors and support is activated. Connect access, monitoring, response and accountable restoration."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "FACILITY",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-058%20Security%20of%20UN%20Facilities.pdf",
+  "order": 406,
+  "sections": [
+    {
+      "id": "FPU-15-01",
+      "title": {
+        "vi": "1. Bảo vệ cơ sở là bảo vệ con người và hoạt động",
+        "en": "1. Facility security protects people and operations"
+      },
+      "body": {
+        "vi": "### 1.1. Hiểu đúng đối tượng bảo vệ\nMột cơ sở Liên hợp quốc có thể là văn phòng, nơi làm việc chung, kho hoặc địa điểm hoạt động được giao bảo vệ. Bảo vệ cơ sở nhằm giảm nguy cơ gây hại cho người, tài sản và khả năng thực hiện nhiệm vụ. Một hàng rào còn nguyên không chứng minh nhiệm vụ hoàn thành nếu nhân viên không nhận được cảnh báo hoặc người cần trợ giúp không tiếp cận được đầu mối có trách nhiệm.\n\nHãy bắt đầu từ những hoạt động cần duy trì: Ai làm việc, ai tới liên hệ, hoạt động nào quan trọng và điều gì xảy ra nếu bị gián đoạn. Cơ sở còn liên hệ với dân cư, giao thông và dịch vụ bên ngoài. Biện pháp bảo vệ cần xét cả tác động tới những người này; không chỉ chuyển nguy cơ từ trong khuôn viên ra trước cổng.\n\n### 1.2. Trách nhiệm được phân công, không suy từ vị trí đứng\nFPU thực hiện nhiệm vụ bảo vệ trong phạm vi được giao, phối hợp với bộ phận an ninh phái bộ, người quản lý cơ sở và các lực lượng liên quan. Người trực cổng không tự đặt chính sách tiếp cận cho toàn phái bộ. Chỉ huy FPU cũng không tự quyết định cấp độ an ninh hoặc thay chức năng chuyên môn của đầu mối quản lý an ninh.\n\nPhải rõ người phê duyệt phương án, người điều hành ca, người nhận báo động và người quyết định thay đổi hoạt động. Khi có lực lượng nước sở tại tham gia, xác nhận cơ chế liên hệ, giới hạn thẩm quyền và bàn giao. Cùng bảo vệ một địa điểm không có nghĩa mọi người có cùng quyền khám xét, bắt giữ hoặc tiếp cận dữ liệu.\n\n### 1.3. Giữ năng lực đơn vị và mục đích nhiệm vụ\nPhân công bảo vệ tĩnh phải phù hợp chính sách FPU, năng lực và tổ chức đơn vị được phép sử dụng. Không tùy tiện chia nhỏ lực lượng thành các vị trí riêng lẻ làm mất khả năng chỉ huy, hỗ trợ và thực hiện nhiệm vụ khác. Người chỉ huy phải báo những yêu cầu vượt khả năng hoặc gây suy giảm đáng kể năng lực đã cam kết.\n\nKhông biến điểm gác thành nơi giữ người không có cơ sở pháp lý hoặc điều kiện phù hợp. Khi phát sinh sự việc cần xử lý, sử dụng cơ chế được phê duyệt và bàn giao cho chủ thể có trách nhiệm. Có một phòng trống không tạo ra thẩm quyền giam giữ.\n\n### 1.4. An ninh phải phục vụ hoạt động hợp pháp\nBiện pháp tốt giúp người được phép làm việc an toàn, nhận ra bất thường và huy động đáp ứng phù hợp. Biện pháp gây ách tắc kéo dài mà không giảm nguy cơ cần được xem xét lại. Đánh giá thành công bằng khả năng vận hành, bảo vệ và xử lý sự việc, không chỉ số người bị từ chối qua cổng.",
+        "en": "### 1.1. Understand what is being protected\nA UN facility may be an office, shared workplace, warehouse or assigned operational location. Security reduces harm to people, assets and mission delivery. An intact perimeter does not establish success if staff miss warnings or people needing assistance cannot reach a responsible service.\n\nBegin with essential activities: Who works or visits, what must continue and what interruption would mean. Consider surrounding communities, traffic and services. Protection should not simply transfer danger from inside the premises to the entrance.\n\n### 1.2. Assigned responsibilities\nFPU duties operate within assigned authority and coordination with mission security, facility management and other actors. Gate personnel do not independently set mission access policy. FPU commanders do not independently determine security levels or replace specialist security-management responsibilities.\n\nIdentify the approving authority, shift lead, alarm recipient and decision-maker for operational changes. Confirm host-State liaison, powers and handover. Sharing a location does not give everyone identical search, arrest or data-access powers.\n\n### 1.3. Preserve unit capability\nStatic duties must respect FPU policy, capability and permitted unit organization. Do not fragment personnel into isolated posts that undermine command, support or other assigned functions. Report requirements exceeding capability or significantly reducing committed capacity.\n\nDo not turn a guard location into unauthorized detention. Use approved handling and referral arrangements. An available room does not create detention authority.\n\n### 1.4. Enable lawful operations\nEffective security supports authorized work, detects concerns and activates appropriate response. Review prolonged obstruction that does not reduce risk. Assess protective outcomes and functioning services, rather than refusals at the gate alone."
+      },
+      "sourceIds": [
+        "FACILITY",
+        "POLICY",
+        "CSC011"
+      ]
+    },
+    {
+      "id": "FPU-15-02",
+      "title": {
+        "vi": "2. Đánh giá nguy cơ và thiết kế hệ thống bảo vệ",
+        "en": "2. Assess risk and build a protection system"
+      },
+      "body": {
+        "vi": "### 2.1. Liên hệ đe dọa, điểm dễ bị tổn thương và hậu quả\nĐe dọa mô tả điều có thể gây hại; điểm dễ bị tổn thương là điều kiện khiến cơ sở dễ bị ảnh hưởng; hậu quả cho biết mức tổn hại nếu sự việc xảy ra. Ba nội dung phải được xem cùng nhau. Một sự việc ít xảy ra nhưng có hậu quả nghiêm trọng vẫn cần được xem xét bằng quá trình đánh giá an ninh có thẩm quyền.\n\nThông tin đầu vào gồm tình hình địa bàn, hoạt động dự kiến, sự cố đã ghi nhận và thay đổi tại cơ sở. Phân biệt quan sát trực tiếp với tin chưa kiểm chứng. Một thông tin báo động không tự chứng minh nguy cơ đã xảy ra; nhưng cũng không được bỏ qua chỉ vì lần trước là báo giả.\n\n### 2.2. Bảo vệ bằng nhiều chức năng liên kết\nHệ thống cần khả năng phòng ngừa, phát hiện, thông báo, hạn chế tác động và tổ chức đáp ứng. Con người, quy trình và thiết bị phải hỗ trợ nhau. Camera có thể giúp nhận biết; người trực cần hiểu dấu hiệu, có kênh báo và biết ai nhận trách nhiệm xử lý. Thiếu một mắt xích có thể làm thiết bị còn hoạt động mà hệ thống không tạo được bảo vệ.\n\nKhông coi một hàng rào, một giấy phép hoặc một loại thiết bị là giải pháp đủ cho mọi nguy cơ. Các biện pháp phải phù hợp hoạt động và đánh giá được phê duyệt. Phân công cần dựa vào chức năng thực tế, không áp một sơ đồ hoặc số lượng chung cho mọi cơ sở.\n\n### 2.3. Tính cả phụ thuộc và sự cố đồng thời\nMất điện có thể ảnh hưởng chiếu sáng, kiểm soát cửa, camera và liên lạc cùng lúc. Phương án cần xác định chế độ dự phòng, trách nhiệm kích hoạt và điều kiện duy trì hoạt động. Dự phòng chỉ có giá trị khi được kiểm tra; một bộ đàm để trong tủ nhưng không có người biết sử dụng chưa phải phương án liên lạc thực tế.\n\nXem cả nhu cầu thoát hiểm, tiếp cận xe ứng cứu và hỗ trợ người hạn chế vận động. Cửa kiểm soát tiếp cận không được bố trí hoặc sử dụng theo cách giữ người trong vùng nguy hiểm khi cần thoát. Những yêu cầu kỹ thuật phải được người có chuyên môn đánh giá.\n\n### 2.4. Thay đổi phải được quản lý\nSửa công trình, thay nhà thầu, tăng khách hoặc chuyển thời gian làm việc đều có thể làm phương án cũ không còn phù hợp. Người trực báo thay đổi và áp dụng hướng dẫn được cập nhật; không tự tháo biện pháp bảo vệ hoặc bổ sung hạn chế lâu dài vì thuận tiện. Mỗi điều chỉnh cần người chịu trách nhiệm, phạm vi và cách kiểm tra hiệu quả.",
+        "en": "### 2.1. Connect threats, vulnerability and impact\nA threat is a potential source of harm; vulnerability concerns conditions allowing harm; impact describes the consequences. Assess them together through the authorized security-risk process. Infrequent events can still require attention when consequences are severe.\n\nUse local information, planned activities, recorded incidents and facility changes. Separate direct observations from unverified reports. An alarm does not itself prove an incident, but a previous false alarm does not justify ignoring the next one.\n\n### 2.2. Link protective functions\nProtection requires prevention, detection, notification, impact reduction and response. People, procedures and equipment must connect. A camera may support recognition, but someone must interpret concerns, communicate and activate an accountable response.\n\nNo single barrier, credential or device addresses every risk. Measures must fit approved assessments and operational needs. Assignments should follow actual functional requirements rather than universal layouts or staffing numbers.\n\n### 2.3. Plan for dependencies\nPower loss can affect lighting, doors, cameras and communications together. Identify backup modes, activation responsibilities and operating limits. Test arrangements: An unused radio without a competent operator is not a functioning fallback.\n\nConsider escape, responder access and limited mobility. Access controls must not trap people in danger. Technical requirements need competent assessment.\n\n### 2.4. Manage change\nConstruction, contractors, visitor growth and altered working hours can invalidate assumptions. Report changes and follow updated instructions. Do not independently remove safeguards or create lasting restrictions for convenience. Each adjustment needs ownership, scope and verification."
+      },
+      "sourceIds": [
+        "CSC011",
+        "FACILITY"
+      ]
+    },
+    {
+      "id": "FPU-15-03",
+      "title": {
+        "vi": "3. Kiểm soát tiếp cận với sự tôn trọng và nhất quán",
+        "en": "3. Respectful and consistent access control"
+      },
+      "body": {
+        "vi": "### 3.1. Quyền vào phải gắn với mục đích và phạm vi\nKiểm tra giấy tờ theo quy trình được giao, xác nhận người, lý do tới và khu vực được phép tiếp cận. Có giấy tờ hợp lệ không mặc nhiên được vào mọi nơi. Khách, nhà thầu và người giao hàng có thể cần người tiếp nhận, thời hạn hoặc người đi cùng phù hợp. Khi chưa rõ quyền vào, liên hệ đầu mối xác nhận thay vì tự đoán theo chức danh hay vẻ ngoài.\n\nGiấy tờ có dấu hiệu bất thường cần được xác minh qua kênh chính thức. Chưa xác minh được không đồng nghĩa người mang giấy đã phạm tội. Giữ cách giao tiếp trung lập, giải thích bước đang thực hiện và cách liên hệ người có trách nhiệm; không bêu tên hoặc công khai ảnh giấy tờ.\n\n### 3.2. Đăng ký để quản lý, không thu thập vô hạn\nChỉ ghi thông tin cần cho mục đích được phép. Bảo vệ sổ khách, danh sách nhân sự và dữ liệu ra vào; giới hạn người được xem, sử dụng, chuyển và lưu theo quy định hiện hành. Không chụp giấy tờ bằng điện thoại cá nhân hoặc gửi danh sách vào nhóm không được phép để xử lý cho nhanh.\n\nQuản lý thẻ tạm gồm cấp đúng người, đúng phạm vi, ghi nhận việc trả và xử lý khi mất. Người rời cơ sở hoặc kết thúc hợp đồng cần được cập nhật quyền theo cơ chế có trách nhiệm. Một thẻ không được thu lại phải được xử lý bằng quy trình, không chỉ nhắc người trực sau nhớ mặt.\n\n### 3.3. Khám xét và kiểm tra có giới hạn\nViệc kiểm tra người, đồ vật hoặc phương tiện phải có cơ sở thẩm quyền và hướng dẫn áp dụng. Bảo đảm tính cần thiết, riêng tư và đối xử không phân biệt. Yêu cầu khác nhau về ngôn ngữ, giới, khuyết tật hoặc trẻ em cần được tính trước. Không coi sự lúng túng hoặc phản đối một yêu cầu chưa giải thích là bằng chứng người đó nguy hiểm.\n\nKhông mở, chạm hoặc di chuyển vật nghi nổ để hoàn thành kiểm tra. Từ vị trí an toàn, báo và áp dụng phương án chuyên trách. Không đưa kỹ thuật khám xét xâm phạm hoặc thao tác cưỡng chế chưa được huấn luyện vào quy trình trực cổng.\n\n### 3.4. Giải quyết ngoại lệ bằng đầu mối rõ ràng\nXe y tế, người cần hỗ trợ khẩn, khách chưa có tên hoặc trục trặc hệ thống cần cơ chế xử lý cụ thể. Liên hệ người có quyền quyết định, duy trì an toàn và ghi nhận quyết định cần thiết. Không tự bỏ mọi kiểm soát; cũng không để một lỗi đăng ký ngăn việc kích hoạt cấp cứu. Khi ùn tắc tăng, báo tác động và yêu cầu hỗ trợ hoặc điều chỉnh được phép.",
+        "en": "### 3.1. Access has a purpose and scope\nVerify identity, purpose and permitted areas under assigned procedures. A valid credential does not authorize every location. Visitors, contractors and deliveries may require reception, time limits or accompaniment. Confirm uncertainty through responsible contacts rather than appearance or status.\n\nVerify questionable documents through official channels. Unresolved verification does not prove crime. Explain the process neutrally and provide responsible contacts without public accusations or exposing identity documents.\n\n### 3.2. Register only what is needed\nCollect necessary information for authorized purposes. Protect visitor logs and access records, with controlled access, use, transfer and retention under applicable rules. Do not use personal phones or unauthorized groups to circulate documents or lists.\n\nIssue temporary credentials to the correct person and scope, record returns and address losses. Update permissions when employment or contracts end. An unreturned card requires an accountable process rather than asking the next guard to remember a face.\n\n### 3.3. Checks have limits\nChecks of people, property and vehicles require applicable authority and instructions. Respect necessity, privacy and non-discrimination. Anticipate language, gender, disability and child-related safeguards. Confusion or objections to unexplained instructions do not establish dangerousness.\n\nDo not open, touch or move suspected explosive items to complete a check. Report from safety and activate specialist arrangements. Do not improvise intrusive searches or untrained coercive techniques.\n\n### 3.4. Manage exceptions responsibly\nProvide clear escalation for medical access, urgent assistance, unlisted visitors and system failure. Contact the authorized decision-maker, maintain safety and record necessary decisions. Neither abandon all controls nor let registration failure block emergency activation. Report growing congestion and seek authorized adjustment."
+      },
+      "sourceIds": [
+        "FACILITY",
+        "DET2020",
+        "POLICY"
+      ]
+    },
+    {
+      "id": "FPU-15-04",
+      "title": {
+        "vi": "4. Người trực, giám sát và liên lạc",
+        "en": "4. Guards, monitoring and communications"
+      },
+      "body": {
+        "vi": "### 4.1. Nhiệm vụ ca phải rõ và khả thi\nNgười trực cần biết phạm vi trách nhiệm, điều kiện cần báo, kênh liên hệ và giới hạn tự giải quyết. Mệnh lệnh ca phải phù hợp phương án hiện hành và được hiểu thống nhất. Một người không thể vừa kiểm tra khách, theo dõi nhiều màn hình, ghi sổ và đáp ứng mọi báo động mà không có giới hạn hoặc hỗ trợ.\n\nBố trí nghỉ, thay ca và hỗ trợ khi khối lượng công việc tăng. Mệt mỏi làm giảm chú ý và chất lượng quyết định; không khắc phục bằng yêu cầu chung phải cảnh giác hơn. Chỉ huy cần xem lại phân công, điều kiện và năng lực thực có.\n\n### 4.2. Giám sát chỉ có giá trị khi dẫn tới hành động\nKhi hệ thống ghi nhận dấu hiệu bất thường, người phụ trách phải đánh giá thông tin theo quy trình, báo và xác nhận đầu mối đáp ứng. Không chờ thu được hình ảnh hoàn hảo mới báo nguy cơ nghiêm trọng. Đồng thời, không suy từ một hình ảnh mờ ra kết luận chắc chắn về ý định của người xuất hiện.\n\nXác định trách nhiệm theo dõi báo động, cách xác nhận đã nhận và hành động khi không liên hệ được. Nếu thông tin dừng ở một màn hình không ai theo dõi, thiết bị chưa tạo khả năng bảo vệ liên tục. Chỉ số số lượng camera không thay phép thử hệ thống phát hiện, báo và đáp ứng.\n\n### 4.3. Dữ liệu giám sát cần được bảo vệ\nHình ảnh có thể chứa thông tin nhạy cảm về nhân viên, khách và hoạt động. Truy cập, sao chép, chia sẻ và thời gian lưu phải theo chính sách được phép. Không đưa hình lên mạng để cảnh báo cộng đồng theo sáng kiến cá nhân. Khi dữ liệu có thể liên quan điều tra, bảo toàn và chuyển qua kênh có trách nhiệm, không tự chỉnh sửa bản gốc.\n\nKhông đặt một thời hạn lưu chung cho mọi cơ sở chỉ vì hệ thống cho phép. Nhu cầu an ninh, quy định dữ liệu và yêu cầu bảo toàn vụ việc phải được người có thẩm quyền điều phối.\n\n### 4.4. Kiểm tra khả năng hoạt động và dự phòng\nKiểm tra thiết bị theo chế độ: Tình trạng, nguồn điện, liên lạc, báo lỗi và việc khắc phục. Báo rõ chức năng nào mất, phạm vi ảnh hưởng và biện pháp tạm được phép; không chỉ ghi thiết bị hỏng. Người nhận ca cần biết giới hạn thực tế để không ra quyết định dựa trên khả năng đã mất.\n\nThử liên lạc cần xác nhận người nghe và khả năng huy động hỗ trợ, không chỉ nghe tiếng máy. Phương án dự phòng phải được phổ biến và kiểm chứng trong điều kiện phù hợp, tránh thử gây nhầm với sự cố thật.",
+        "en": "### 4.1. Make shift duties achievable\nGuards need clear responsibilities, reporting triggers, contacts and decision limits under current instructions. One person cannot indefinitely manage visitors, multiple screens, records and every alarm without workload limits or support.\n\nProvide breaks, relief and surge arrangements. Fatigue affects attention and judgment. Correct staffing and conditions rather than relying on reminders to remain alert.\n\n### 4.2. Monitoring must lead to action\nAssess concerns, notify and confirm a responsible response. Do not delay serious warnings for perfect imagery; equally, do not treat an unclear image as proof of intent.\n\nIdentify who monitors alarms, how receipt is confirmed and what happens when contacts fail. An unattended screen does not provide continuous protection. Camera numbers do not replace testing the detection-to-response chain.\n\n### 4.3. Protect surveillance information\nImages may reveal sensitive staff, visitor and operational information. Access, copying, sharing and retention follow authorized policy. Do not publish footage through personal initiative. Preserve potentially relevant evidence and transfer it through accountable channels without modifying originals.\n\nDo not invent a universal retention period from equipment capacity. Authorized personnel must reconcile security, data rules and incident-preservation requirements.\n\n### 4.4. Test function and fallback\nCheck equipment, power, communications, faults and correction under the applicable regime. Describe lost functions, impact and approved interim arrangements, rather than recording only a broken device. Incoming staff must understand actual limitations.\n\nA communications test should confirm the recipient and ability to activate support. Establish and verify fallback arrangements without confusing tests with real emergencies."
+      },
+      "sourceIds": [
+        "FACILITY",
+        "CSC011"
+      ]
+    },
+    {
+      "id": "FPU-15-05",
+      "title": {
+        "vi": "5. Ứng phó khẩn cấp và duy trì trách nhiệm",
+        "en": "5. Emergency response and accountability"
+      },
+      "body": {
+        "vi": "### 5.1. Báo động phải đi cùng thông tin hành động\nPhương án cần quy định cách phát hiện, báo, nhận và điều hành ứng phó. Khi báo sự cố, nêu vị trí, điều quan sát được, người có nguy cơ, hành động đã làm và hỗ trợ cần. Phân biệt điều đã biết với điều đang xác minh; cập nhật thay đổi thay vì để thông tin đầu tiên tiếp tục chi phối khi không còn đúng.\n\nKhông công khai sơ đồ cơ sở, điểm tập kết nội bộ, vị trí người trực hoặc điểm yếu kỹ thuật lên kênh không được phép. Thông tin cần tới đúng người để hành động, với mức chi tiết phù hợp trách nhiệm. Bảo vệ thông tin không có nghĩa trì hoãn cảnh báo cho người đang gặp nguy hiểm.\n\n### 5.2. Chọn biện pháp theo loại nguy cơ\nSơ tán, trú ẩn tại chỗ và di chuyển tới địa điểm khác là những lựa chọn khác nhau. Áp dụng theo phương án và hướng dẫn có thẩm quyền phù hợp tình hình; không đặt một mệnh lệnh chung cho mọi báo động. Đường thoát đang bị ảnh hưởng hoặc nguy cơ ngoài cơ sở có thể làm lựa chọn thông thường không còn phù hợp.\n\nVới cháy, kích hoạt phương án phòng cháy, thoát và hỗ trợ chuyên trách; không cho người chưa đủ năng lực vào khói. Với vật nghi nổ, không chạm, mở, di chuyển hoặc tới gần để xem rõ; báo từ nơi an toàn và làm theo hướng dẫn chuyên trách. Khi có xâm nhập hoặc bạo lực, phản ứng phải trong thẩm quyền, DUF và giới hạn bảo vệ sinh mạng; không biến báo động thành cho phép sử dụng vũ lực không phân biệt.\n\n### 5.3. Tính đủ người và nhu cầu trợ giúp\nDanh sách cần phản ánh cả khách, nhà thầu, người đổi khu vực và người đã rời cơ sở. Kiểm đếm không chỉ là tổng số bằng nhau: Phải xác định ai chưa được xác nhận, thông tin cuối và người chịu trách nhiệm xử lý. Cung cấp thông tin cho lực lượng cứu nạn; không tự đưa thêm người vào vùng nguy hiểm để hoàn tất danh sách.\n\nNgười hạn chế vận động, người không hiểu ngôn ngữ cảnh báo hoặc đang làm việc ngoài giờ cần phương án hỗ trợ đã chuẩn bị. Hỗ trợ phải phù hợp năng lực và điều kiện; không dùng cách di chuyển có thể gây hại chỉ vì nhanh hơn.\n\n### 5.4. Cấp cứu, phối hợp và bàn giao\nKích hoạt y tế sớm, cung cấp tình trạng quan sát được và khả năng tiếp cận. Thực hiện hỗ trợ trong năng lực đã được huấn luyện, giữ lối cho lực lượng ứng cứu. Khi bàn giao, xác nhận người tiếp nhận, thông tin cần thiết và trách nhiệm tiếp theo. Một cuộc gọi đã kết nối không đồng nghĩa đội y tế đã tới hoặc người bị ảnh hưởng đã được tiếp nhận.",
+        "en": "### 5.1. Warnings need actionable information\nPlans must connect detection, notification, acknowledgement and coordinated response. Report location, observations, people at risk, actions and support needs. Separate facts from uncertainties and update changed conditions.\n\nProtect internal layouts, assembly information, guard positions and technical vulnerabilities from unauthorized disclosure. Share appropriate detail with responsible actors. Information protection must not delay warnings to people in danger.\n\n### 5.2. Match action to the hazard\nEvacuation, sheltering and relocation are different options. Follow approved plans and authorized direction suitable to conditions. A compromised exit or external threat can make a routine choice unsafe.\n\nFor fire, activate fire and escape arrangements; unqualified personnel must not enter smoke. For suspected explosives, do not touch, open, move or approach for inspection. Report from safety and follow specialist guidance. Intrusion and violence require responses within authority, DUF and life-protection limits; alarms never authorize indiscriminate force.\n\n### 5.3. Account for people and assistance needs\nInclude visitors, contractors, changed locations and departures. Matching totals is insufficient: Identify unresolved individuals, last-known information and responsible follow-up. Inform rescuers without sending additional unqualified people into danger.\n\nPrepare for limited mobility, language barriers and out-of-hours work. Assistance must fit competence and conditions rather than relying on harmful shortcuts.\n\n### 5.4. Medical support and handover\nActivate medical support early with observed conditions and access information. Assist within training and keep responder access clear. Confirm the receiver, essential information and continuing responsibility. A connected call does not establish medical arrival or acceptance of a casualty."
+      },
+      "sourceIds": [
+        "CSC011",
+        "UNMAS",
+        "POLICY"
+      ]
+    },
+    {
+      "id": "FPU-15-06",
+      "title": {
+        "vi": "6. Bàn giao ca, khôi phục và kiểm chứng phương án",
+        "en": "6. Shift handover, restoration and verification"
+      },
+      "body": {
+        "vi": "### 6.1. Bàn giao tình trạng thực tế\nCa mới cần biết sự việc đang xử lý, khách chưa rời, quyền tạm, thiết bị hỏng, biện pháp tạm thời và hướng dẫn mới. Kiểm tra thông tin quan trọng, vật dụng và trách nhiệm tiếp nhận theo quy định. Không chỉ ký tên vào sổ rồi tự coi ca trước đã giải quyết hết.\n\nGhi sự việc khách quan, nêu thời gian, nguồn thông tin, hành động, người được báo và kết quả đã xác nhận. Tách nhận xét với sự kiện. Sổ trực không phải nơi ghi đồn đoán về đời tư hoặc đặc điểm cá nhân không liên quan nhiệm vụ.\n\n### 6.2. Khôi phục theo xác nhận có trách nhiệm\nSau sự cố, không mở lại khu vực chỉ vì chuông đã tắt hoặc người xem đã giải tán. Người có thẩm quyền cần xác nhận điều kiện sử dụng, khả năng bảo vệ và những giới hạn còn lại. Việc mở lại từng phần phải được truyền đạt để người trực không áp dụng các phiên bản khác nhau.\n\nBiện pháp hạn chế tạm thời cũng cần được rà soát và kết thúc khi không còn căn cứ. Giữ đóng một lối nhiều ngày mà không xem xét tác động có thể cản hoạt động hoặc gây nguy cơ mới. Khôi phục là quyết định có kiểm soát, không chỉ trở về thói quen trước sự cố.\n\n### 6.3. Diễn tập để tìm điểm cần sửa\nMột buổi kiểm tra có ích quan sát được người nhận báo, hiểu tín hiệu, thực hiện nhiệm vụ, hỗ trợ người cần giúp và xác nhận kiểm đếm. Bao gồm điều kiện phù hợp như đổi ca hoặc mất một chức năng; không tạo nguy hiểm thật hoặc công khai chi tiết nhạy cảm để tăng tính hấp dẫn.\n\nNếu người trực biết số điện thoại nhưng không có người trả lời, cần sửa cơ chế liên lạc. Nếu khách không hiểu tín hiệu, cần cải thiện hướng dẫn hoặc cảnh báo. Kết luận phải giao việc, người phụ trách và cách xác minh; không chỉ yêu cầu nâng cao tinh thần trách nhiệm.\n\n### 6.4. Chất lượng được thể hiện qua khả năng liên kết\nBảo vệ cơ sở có hiệu quả khi quyền vào được xác minh, dấu hiệu được nhận biết, báo động tới người có trách nhiệm, hỗ trợ được huy động và tình trạng được bàn giao. Đánh giá cả tác động tới người dân, khiếu nại và hoạt động cần duy trì.\n\nHoàn thành bài học giúp người học giải thích và nhận diện những liên kết đó. Việc trực thực tế, sử dụng trang bị, xử lý người và ứng phó khẩn cần huấn luyện, đánh giá thực hành cùng phương án tại chính địa bàn được giao.",
+        "en": "### 6.1. Transfer the actual situation\nIncoming staff need unresolved incidents, remaining visitors, temporary permissions, defective equipment, interim measures and new instructions. Confirm essential information, items and acceptance under the applicable process. A signature alone does not resolve outstanding responsibilities.\n\nRecord facts, time, information source, actions, notifications and confirmed results. Separate interpretation from events. Guard logs are not a place for rumours or irrelevant personal information.\n\n### 6.2. Restore through authorized clearance\nSilenced alarms or dispersed spectators do not establish readiness to reopen. Authorized personnel confirm safe use, protective capability and remaining restrictions. Communicate partial reopening clearly so shifts do not apply different versions.\n\nReview and end temporary restrictions when no longer justified. Unreviewed closures can obstruct services or create new risk. Restoration is a controlled decision rather than automatic return to previous habits.\n\n### 6.3. Exercise to identify corrections\nUseful exercises observe receipt, understanding, assigned actions, assistance and accounting. Include suitable conditions such as shift change or loss of a function without creating real danger or revealing sensitive details.\n\nUnanswered contact numbers require a communications correction. Visitors missing warnings require better briefing or accessible alerts. Assign corrective owners and verification rather than issuing awareness slogans alone.\n\n### 6.4. Assess the connections\nEffective facility security connects authorized access, recognition, notification, support and accountable handover. Review effects on communities, complaints and essential services.\n\nThis lesson develops understanding of those connections. Actual guard duties, equipment use, handling of people and emergency response require practical training and assessment under the assigned location's plans."
+      },
+      "sourceIds": [
+        "CSC011",
+        "CSC021"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "FACILITY",
+      "title": "Security of UN Facilities",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-058%20Security%20of%20UN%20Facilities.pdf",
+      "format": "pdf",
+      "pages": 16,
+      "reading": "7–14",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "POLICY",
+      "title": "Policy 2024.14: Formed Police Units in United Nations Peace Operations",
+      "publisher": "United Nations DPO",
+      "year": "2024",
+      "url": "https://resourcehub01.blob.core.windows.net/$web/Policy%20and%20Guidance/corepeacekeepingguidance/Thematic%20Operational%20Activities/Police%20and%20Law%20Enforcement/2024.14%20Formed%20Police%20Units%20in%20United%20Nations%20Peace%20Operations.pdf",
+      "format": "pdf",
+      "pages": 34,
+      "reading": "Nguồn chính sách nền; hiệu lực 01/12/2024",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "CSC011",
+      "title": "Mission Integrated Security Plan — FPU Perspective",
+      "publisher": "United Nations Police, FPU Command Staff Course",
+      "year": "2026",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-011%20Lesson%2011%20Mission%20Integrated%20Security%20Plan%20-%20FPU%20Perspective%20(LP).pdf",
+      "format": "pdf",
+      "checked": "2026-10-29"
+    },
+    {
+      "id": "DET2020",
+      "title": "SOP 2020.13: Handling of Detention, including Annex B on children",
+      "url": "https://resourcehub01.blob.core.windows.net/$web/Policy%20and%20Guidance/corepeacekeepingguidance/Security/Safety%20and%20Security%20Management/2020.13%20Handling%20of%20Detention%20in%20United%20Nations%20Peacekeeping%20Operations%20and%20Special%20Political%20Missions%20(SOP).pdf",
+      "year": "2020 / effective 2021",
+      "publisher": "United Nations DPO / DPPA / DSS",
+      "format": "pdf",
+      "pages": 47
+    },
+    {
+      "id": "UNMAS",
+      "title": "Landmines, Explosive Remnants of War and IED Safety Handbook",
+      "publisher": "United Nations Mine Action Service",
+      "url": "https://www.unmas.org/sites/default/files/handbook_english.pdf",
+      "format": "pdf",
+      "checked": "2026-10-29"
+    },
+    {
+      "id": "CSC021",
+      "title": "Mission Reporting",
+      "publisher": "United Nations Police, FPU Command Staff Course",
+      "year": "2026",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-021%20Lesson%2021%20Mission%20Reporting%20(LP).pdf",
+      "format": "pdf",
+      "checked": "2026-10-29"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Hàng rào nguyên nhưng nhân viên không nhận cảnh báo. Đánh giá sao?",
+        "en": "The perimeter is intact but staff miss warnings. What follows?"
+      },
+      "options": [
+        {
+          "vi": "Cơ sở chắc chắn đã an toàn.",
+          "en": "The facility is certainly secure."
+        },
+        {
+          "vi": "Chỉ cần ghi số mét hàng rào.",
+          "en": "Only perimeter length matters."
+        },
+        {
+          "vi": "Hệ thống bảo vệ còn thiếu chức năng quan trọng.",
+          "en": "The protection system lacks an essential function."
+        }
+      ],
+      "correct": 2,
+      "chapter": 0,
+      "explanation": {
+        "vi": "Bảo vệ gồm con người, thông tin và hoạt động, không chỉ vật cản. Xem mục 1.",
+        "en": "Protection includes people, information and operations, not barriers alone. See section 1."
+      }
+    },
+    {
+      "question": {
+        "vi": "Người trực có tự thay chính sách tiếp cận toàn cơ sở không?",
+        "en": "May a guard independently change facility-wide access policy?"
+      },
+      "options": [
+        {
+          "vi": "Có, vì đang đứng ở cổng.",
+          "en": "Yes, because the guard controls the gate."
+        },
+        {
+          "vi": "Có, nếu thay đổi khiến việc trực dễ hơn.",
+          "en": "Yes, if it makes guard duty easier."
+        },
+        {
+          "vi": "Không; báo và thực hiện quyết định đúng thẩm quyền.",
+          "en": "No; report and follow authorized decisions."
+        }
+      ],
+      "correct": 2,
+      "chapter": 0,
+      "explanation": {
+        "vi": "Vị trí công tác không tự tạo quyền đặt chính sách. Xem mục 1.",
+        "en": "A duty position does not create policy-setting authority. See section 1."
+      }
+    },
+    {
+      "question": {
+        "vi": "Mất điện ảnh hưởng cửa, đèn và camera. Cần nhìn nhận thế nào?",
+        "en": "Power loss affects doors, lights and cameras. How should it be viewed?"
+      },
+      "options": [
+        {
+          "vi": "Không đáng quan tâm khi hàng rào còn nguyên.",
+          "en": "Unimportant while the perimeter remains intact."
+        },
+        {
+          "vi": "Ba lỗi riêng không cần phối hợp.",
+          "en": "Three unrelated faults needing no coordination."
+        },
+        {
+          "vi": "Là phụ thuộc liên kết cần phương án dự phòng và trách nhiệm kích hoạt.",
+          "en": "As linked dependencies needing fallback and activation ownership."
+        }
+      ],
+      "correct": 2,
+      "chapter": 1,
+      "explanation": {
+        "vi": "Một nguồn lỗi có thể làm mất nhiều chức năng bảo vệ cùng lúc. Xem mục 2.",
+        "en": "One failure can remove multiple protective functions together. See section 2."
+      }
+    },
+    {
+      "question": {
+        "vi": "Công trình sửa chữa làm thay đổi lối đi. Cần gì?",
+        "en": "Construction alters access routes. What is needed?"
+      },
+      "options": [
+        {
+          "vi": "Dùng nguyên phương án cũ vô thời hạn.",
+          "en": "Use the old plan indefinitely."
+        },
+        {
+          "vi": "Báo thay đổi, cập nhật và kiểm chứng biện pháp được duyệt.",
+          "en": "Report the change, update and verify approved measures."
+        },
+        {
+          "vi": "Tự bỏ kiểm soát vì bất tiện.",
+          "en": "Remove controls independently for convenience."
+        }
+      ],
+      "correct": 1,
+      "chapter": 1,
+      "explanation": {
+        "vi": "Thay đổi hoạt động có thể làm giả định an ninh cũ không còn đúng. Xem mục 2.",
+        "en": "Operational changes can invalidate security assumptions. See section 2."
+      }
+    },
+    {
+      "question": {
+        "vi": "Thẻ hợp lệ có cho phép khách vào mọi khu vực không?",
+        "en": "Does a valid visitor credential authorize every area?"
+      },
+      "options": [
+        {
+          "vi": "Có, vì đã qua cổng.",
+          "en": "Yes, because entry was granted."
+        },
+        {
+          "vi": "Không; phải đúng mục đích, phạm vi và điều kiện tiếp nhận.",
+          "en": "No; respect purpose, scope and reception conditions."
+        },
+        {
+          "vi": "Có, nếu khách tự nhận là quan trọng.",
+          "en": "Yes, if the visitor claims importance."
+        }
+      ],
+      "correct": 1,
+      "chapter": 2,
+      "explanation": {
+        "vi": "Danh tính hợp lệ khác quyền tiếp cận không giới hạn. Xem mục 3.",
+        "en": "Valid identity differs from unrestricted access. See section 3."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khách cần trợ giúp y tế khẩn nhưng hệ thống đăng ký lỗi. Nên làm gì?",
+        "en": "A visitor needs urgent medical help while registration fails. What is appropriate?"
+      },
+      "options": [
+        {
+          "vi": "Bỏ mọi kiểm soát cho toàn cơ sở.",
+          "en": "Abandon all facility controls."
+        },
+        {
+          "vi": "Kích hoạt y tế và đầu mối quyết định theo phương án, giữ an toàn.",
+          "en": "Activate medical and authorized escalation arrangements while maintaining safety."
+        },
+        {
+          "vi": "Chờ hệ thống sửa xong mới báo y tế.",
+          "en": "Wait for registration repair before notifying medical support."
+        }
+      ],
+      "correct": 1,
+      "chapter": 2,
+      "explanation": {
+        "vi": "Xử lý ngoại lệ phải kết nối cấp cứu với trách nhiệm an ninh. Xem mục 3.",
+        "en": "Exception handling must connect emergency care and security responsibility. See section 3."
+      }
+    },
+    {
+      "question": {
+        "vi": "Có nhiều camera nhưng không ai nhận báo động thì sao?",
+        "en": "There are many cameras but no alarm recipient. What follows?"
+      },
+      "options": [
+        {
+          "vi": "Chưa có chuỗi phát hiện, báo và đáp ứng hoạt động.",
+          "en": "The detection-notification-response chain is incomplete."
+        },
+        {
+          "vi": "Chỉ cần mua thêm camera.",
+          "en": "Only more cameras are needed."
+        },
+        {
+          "vi": "Số camera tự bảo đảm an toàn.",
+          "en": "Camera numbers guarantee security."
+        }
+      ],
+      "correct": 0,
+      "chapter": 3,
+      "explanation": {
+        "vi": "Thiết bị cần người, quy trình và trách nhiệm phản ứng. Xem mục 4.",
+        "en": "Equipment requires people, procedures and response ownership. See section 4."
+      }
+    },
+    {
+      "question": {
+        "vi": "Người trực muốn đăng hình camera lên nhóm cá nhân để cảnh báo. Có phù hợp không?",
+        "en": "A guard wants to post surveillance images in a personal group. Is this appropriate?"
+      },
+      "options": [
+        {
+          "vi": "Không; dùng kênh và quyền chia sẻ dữ liệu được phép.",
+          "en": "No; use authorized channels and disclosure permissions."
+        },
+        {
+          "vi": "Có, nếu xóa sau một giờ.",
+          "en": "Yes, if removed after an hour."
+        },
+        {
+          "vi": "Có, mọi ảnh an ninh đều là công khai.",
+          "en": "Yes, all security images are public."
+        }
+      ],
+      "correct": 0,
+      "chapter": 3,
+      "explanation": {
+        "vi": "Thông tin giám sát có thể nhạy cảm, không tự được quyền công bố. Xem mục 4.",
+        "en": "Surveillance can be sensitive and does not confer publication rights. See section 4."
+      }
+    },
+    {
+      "question": {
+        "vi": "Mọi báo động có nên dẫn tới cùng một lệnh sơ tán không?",
+        "en": "Should every alarm trigger the same evacuation instruction?"
+      },
+      "options": [
+        {
+          "vi": "Có, vì trú ẩn không bao giờ phù hợp.",
+          "en": "Yes, sheltering is never appropriate."
+        },
+        {
+          "vi": "Không; lựa chọn theo nguy cơ, phương án và hướng dẫn có thẩm quyền.",
+          "en": "No; match action to the hazard, plan and authorized direction."
+        },
+        {
+          "vi": "Có, bất kể lối thoát đang nguy hiểm.",
+          "en": "Yes, even if exits are endangered."
+        }
+      ],
+      "correct": 1,
+      "chapter": 4,
+      "explanation": {
+        "vi": "Sơ tán, trú ẩn và di chuyển có điều kiện áp dụng khác nhau. Xem mục 5.",
+        "en": "Evacuation, shelter and relocation serve different conditions. See section 5."
+      }
+    },
+    {
+      "question": {
+        "vi": "Tổng người ở điểm tập kết bằng danh sách có đủ không?",
+        "en": "Does a matching assembly total suffice?"
+      },
+      "options": [
+        {
+          "vi": "Đủ, không cần biết ai đã rời trước.",
+          "en": "Yes, previous departures do not matter."
+        },
+        {
+          "vi": "Đủ, danh sách khách không liên quan.",
+          "en": "Yes, visitors do not count."
+        },
+        {
+          "vi": "Chưa; đối chiếu từng người, khách, thay đổi và người chưa xác nhận.",
+          "en": "No; reconcile individuals, visitors, changes and unresolved people."
+        }
+      ],
+      "correct": 2,
+      "chapter": 4,
+      "explanation": {
+        "vi": "Kiểm đếm phải xác định tình trạng người cụ thể, không chỉ tổng. Xem mục 5.",
+        "en": "Accounting must establish individual status, not totals alone. See section 5."
+      }
+    },
+    {
+      "question": {
+        "vi": "Báo động đã tắt có đủ căn cứ mở lại khu vực không?",
+        "en": "Does a silenced alarm authorize reopening?"
+      },
+      "options": [
+        {
+          "vi": "Không; cần xác nhận điều kiện và quyết định có thẩm quyền.",
+          "en": "No; confirm conditions and authorized clearance."
+        },
+        {
+          "vi": "Có, nếu đã tới giờ làm việc.",
+          "en": "Yes, if working hours begin."
+        },
+        {
+          "vi": "Có, hệ thống im là hết nguy cơ.",
+          "en": "Yes, silence means no danger."
+        }
+      ],
+      "correct": 0,
+      "chapter": 5,
+      "explanation": {
+        "vi": "Âm báo và mức an toàn thực tế là hai vấn đề khác nhau. Xem mục 6.",
+        "en": "Alarm status and actual safety are different. See section 6."
+      }
+    },
+    {
+      "question": {
+        "vi": "Diễn tập phát hiện không liên lạc được đầu mối. Kết luận nào tốt?",
+        "en": "An exercise finds the focal point unreachable. What is useful follow-up?"
+      },
+      "options": [
+        {
+          "vi": "Sửa cơ chế liên hệ, giao phụ trách và thử lại.",
+          "en": "Correct contacts, assign ownership and retest."
+        },
+        {
+          "vi": "Chỉ lưu ảnh diễn tập.",
+          "en": "Only retain exercise photographs."
+        },
+        {
+          "vi": "Chỉ yêu cầu mọi người cảnh giác hơn.",
+          "en": "Only ask everyone to be more alert."
+        }
+      ],
+      "correct": 0,
+      "chapter": 5,
+      "explanation": {
+        "vi": "Khắc phục cụ thể và kiểm chứng mới đóng được điểm yếu phát hiện. Xem mục 6.",
+        "en": "Specific correction and verification address the identified weakness. See section 6."
+      }
+    }
+  ],
+  "updated": "2026-10-29",
+  "moduleId": "FPU-M6",
+  "moduleOrder": 4,
+  "lessonOrder": 6,
+  "sourceModule": {
+    "programme": "STM-FPU",
+    "number": 6,
+    "title": "Command staff training"
+  },
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "FPU-15-01",
+      "title": {
+        "vi": "1. Bảo vệ cơ sở là bảo vệ con người và hoạt động",
+        "en": "1. Facility security protects people and operations"
+      },
+      "body": {
+        "vi": "### 1.1. Hiểu đúng đối tượng bảo vệ\nMột cơ sở Liên hợp quốc có thể là văn phòng, nơi làm việc chung, kho hoặc địa điểm hoạt động được giao bảo vệ. Bảo vệ cơ sở nhằm giảm nguy cơ gây hại cho người, tài sản và khả năng thực hiện nhiệm vụ. Một hàng rào còn nguyên không chứng minh nhiệm vụ hoàn thành nếu nhân viên không nhận được cảnh báo hoặc người cần trợ giúp không tiếp cận được đầu mối có trách nhiệm.\n\nHãy bắt đầu từ những hoạt động cần duy trì: Ai làm việc, ai tới liên hệ, hoạt động nào quan trọng và điều gì xảy ra nếu bị gián đoạn. Cơ sở còn liên hệ với dân cư, giao thông và dịch vụ bên ngoài. Biện pháp bảo vệ cần xét cả tác động tới những người này; không chỉ chuyển nguy cơ từ trong khuôn viên ra trước cổng.\n\n### 1.2. Trách nhiệm được phân công, không suy từ vị trí đứng\nFPU thực hiện nhiệm vụ bảo vệ trong phạm vi được giao, phối hợp với bộ phận an ninh phái bộ, người quản lý cơ sở và các lực lượng liên quan. Người trực cổng không tự đặt chính sách tiếp cận cho toàn phái bộ. Chỉ huy FPU cũng không tự quyết định cấp độ an ninh hoặc thay chức năng chuyên môn của đầu mối quản lý an ninh.\n\nPhải rõ người phê duyệt phương án, người điều hành ca, người nhận báo động và người quyết định thay đổi hoạt động. Khi có lực lượng nước sở tại tham gia, xác nhận cơ chế liên hệ, giới hạn thẩm quyền và bàn giao. Cùng bảo vệ một địa điểm không có nghĩa mọi người có cùng quyền khám xét, bắt giữ hoặc tiếp cận dữ liệu.\n\n### 1.3. Giữ năng lực đơn vị và mục đích nhiệm vụ\nPhân công bảo vệ tĩnh phải phù hợp chính sách FPU, năng lực và tổ chức đơn vị được phép sử dụng. Không tùy tiện chia nhỏ lực lượng thành các vị trí riêng lẻ làm mất khả năng chỉ huy, hỗ trợ và thực hiện nhiệm vụ khác. Người chỉ huy phải báo những yêu cầu vượt khả năng hoặc gây suy giảm đáng kể năng lực đã cam kết.\n\nKhông biến điểm gác thành nơi giữ người không có cơ sở pháp lý hoặc điều kiện phù hợp. Khi phát sinh sự việc cần xử lý, sử dụng cơ chế được phê duyệt và bàn giao cho chủ thể có trách nhiệm. Có một phòng trống không tạo ra thẩm quyền giam giữ.\n\n### 1.4. An ninh phải phục vụ hoạt động hợp pháp\nBiện pháp tốt giúp người được phép làm việc an toàn, nhận ra bất thường và huy động đáp ứng phù hợp. Biện pháp gây ách tắc kéo dài mà không giảm nguy cơ cần được xem xét lại. Đánh giá thành công bằng khả năng vận hành, bảo vệ và xử lý sự việc, không chỉ số người bị từ chối qua cổng.",
+        "en": "### 1.1. Understand what is being protected\nA UN facility may be an office, shared workplace, warehouse or assigned operational location. Security reduces harm to people, assets and mission delivery. An intact perimeter does not establish success if staff miss warnings or people needing assistance cannot reach a responsible service.\n\nBegin with essential activities: Who works or visits, what must continue and what interruption would mean. Consider surrounding communities, traffic and services. Protection should not simply transfer danger from inside the premises to the entrance.\n\n### 1.2. Assigned responsibilities\nFPU duties operate within assigned authority and coordination with mission security, facility management and other actors. Gate personnel do not independently set mission access policy. FPU commanders do not independently determine security levels or replace specialist security-management responsibilities.\n\nIdentify the approving authority, shift lead, alarm recipient and decision-maker for operational changes. Confirm host-State liaison, powers and handover. Sharing a location does not give everyone identical search, arrest or data-access powers.\n\n### 1.3. Preserve unit capability\nStatic duties must respect FPU policy, capability and permitted unit organization. Do not fragment personnel into isolated posts that undermine command, support or other assigned functions. Report requirements exceeding capability or significantly reducing committed capacity.\n\nDo not turn a guard location into unauthorized detention. Use approved handling and referral arrangements. An available room does not create detention authority.\n\n### 1.4. Enable lawful operations\nEffective security supports authorized work, detects concerns and activates appropriate response. Review prolonged obstruction that does not reduce risk. Assess protective outcomes and functioning services, rather than refusals at the gate alone."
+      },
+      "sourceIds": [
+        "FACILITY",
+        "POLICY",
+        "CSC011"
+      ]
+    },
+    {
+      "id": "FPU-15-02",
+      "title": {
+        "vi": "2. Đánh giá nguy cơ và thiết kế hệ thống bảo vệ",
+        "en": "2. Assess risk and build a protection system"
+      },
+      "body": {
+        "vi": "### 2.1. Liên hệ đe dọa, điểm dễ bị tổn thương và hậu quả\nĐe dọa mô tả điều có thể gây hại; điểm dễ bị tổn thương là điều kiện khiến cơ sở dễ bị ảnh hưởng; hậu quả cho biết mức tổn hại nếu sự việc xảy ra. Ba nội dung phải được xem cùng nhau. Một sự việc ít xảy ra nhưng có hậu quả nghiêm trọng vẫn cần được xem xét bằng quá trình đánh giá an ninh có thẩm quyền.\n\nThông tin đầu vào gồm tình hình địa bàn, hoạt động dự kiến, sự cố đã ghi nhận và thay đổi tại cơ sở. Phân biệt quan sát trực tiếp với tin chưa kiểm chứng. Một thông tin báo động không tự chứng minh nguy cơ đã xảy ra; nhưng cũng không được bỏ qua chỉ vì lần trước là báo giả.\n\n### 2.2. Bảo vệ bằng nhiều chức năng liên kết\nHệ thống cần khả năng phòng ngừa, phát hiện, thông báo, hạn chế tác động và tổ chức đáp ứng. Con người, quy trình và thiết bị phải hỗ trợ nhau. Camera có thể giúp nhận biết; người trực cần hiểu dấu hiệu, có kênh báo và biết ai nhận trách nhiệm xử lý. Thiếu một mắt xích có thể làm thiết bị còn hoạt động mà hệ thống không tạo được bảo vệ.\n\nKhông coi một hàng rào, một giấy phép hoặc một loại thiết bị là giải pháp đủ cho mọi nguy cơ. Các biện pháp phải phù hợp hoạt động và đánh giá được phê duyệt. Phân công cần dựa vào chức năng thực tế, không áp một sơ đồ hoặc số lượng chung cho mọi cơ sở.\n\n### 2.3. Tính cả phụ thuộc và sự cố đồng thời\nMất điện có thể ảnh hưởng chiếu sáng, kiểm soát cửa, camera và liên lạc cùng lúc. Phương án cần xác định chế độ dự phòng, trách nhiệm kích hoạt và điều kiện duy trì hoạt động. Dự phòng chỉ có giá trị khi được kiểm tra; một bộ đàm để trong tủ nhưng không có người biết sử dụng chưa phải phương án liên lạc thực tế.\n\nXem cả nhu cầu thoát hiểm, tiếp cận xe ứng cứu và hỗ trợ người hạn chế vận động. Cửa kiểm soát tiếp cận không được bố trí hoặc sử dụng theo cách giữ người trong vùng nguy hiểm khi cần thoát. Những yêu cầu kỹ thuật phải được người có chuyên môn đánh giá.\n\n### 2.4. Thay đổi phải được quản lý\nSửa công trình, thay nhà thầu, tăng khách hoặc chuyển thời gian làm việc đều có thể làm phương án cũ không còn phù hợp. Người trực báo thay đổi và áp dụng hướng dẫn được cập nhật; không tự tháo biện pháp bảo vệ hoặc bổ sung hạn chế lâu dài vì thuận tiện. Mỗi điều chỉnh cần người chịu trách nhiệm, phạm vi và cách kiểm tra hiệu quả.",
+        "en": "### 2.1. Connect threats, vulnerability and impact\nA threat is a potential source of harm; vulnerability concerns conditions allowing harm; impact describes the consequences. Assess them together through the authorized security-risk process. Infrequent events can still require attention when consequences are severe.\n\nUse local information, planned activities, recorded incidents and facility changes. Separate direct observations from unverified reports. An alarm does not itself prove an incident, but a previous false alarm does not justify ignoring the next one.\n\n### 2.2. Link protective functions\nProtection requires prevention, detection, notification, impact reduction and response. People, procedures and equipment must connect. A camera may support recognition, but someone must interpret concerns, communicate and activate an accountable response.\n\nNo single barrier, credential or device addresses every risk. Measures must fit approved assessments and operational needs. Assignments should follow actual functional requirements rather than universal layouts or staffing numbers.\n\n### 2.3. Plan for dependencies\nPower loss can affect lighting, doors, cameras and communications together. Identify backup modes, activation responsibilities and operating limits. Test arrangements: An unused radio without a competent operator is not a functioning fallback.\n\nConsider escape, responder access and limited mobility. Access controls must not trap people in danger. Technical requirements need competent assessment.\n\n### 2.4. Manage change\nConstruction, contractors, visitor growth and altered working hours can invalidate assumptions. Report changes and follow updated instructions. Do not independently remove safeguards or create lasting restrictions for convenience. Each adjustment needs ownership, scope and verification."
+      },
+      "sourceIds": [
+        "CSC011",
+        "FACILITY"
+      ]
+    },
+    {
+      "id": "FPU-15-03",
+      "title": {
+        "vi": "3. Kiểm soát tiếp cận với sự tôn trọng và nhất quán",
+        "en": "3. Respectful and consistent access control"
+      },
+      "body": {
+        "vi": "### 3.1. Quyền vào phải gắn với mục đích và phạm vi\nKiểm tra giấy tờ theo quy trình được giao, xác nhận người, lý do tới và khu vực được phép tiếp cận. Có giấy tờ hợp lệ không mặc nhiên được vào mọi nơi. Khách, nhà thầu và người giao hàng có thể cần người tiếp nhận, thời hạn hoặc người đi cùng phù hợp. Khi chưa rõ quyền vào, liên hệ đầu mối xác nhận thay vì tự đoán theo chức danh hay vẻ ngoài.\n\nGiấy tờ có dấu hiệu bất thường cần được xác minh qua kênh chính thức. Chưa xác minh được không đồng nghĩa người mang giấy đã phạm tội. Giữ cách giao tiếp trung lập, giải thích bước đang thực hiện và cách liên hệ người có trách nhiệm; không bêu tên hoặc công khai ảnh giấy tờ.\n\n### 3.2. Đăng ký để quản lý, không thu thập vô hạn\nChỉ ghi thông tin cần cho mục đích được phép. Bảo vệ sổ khách, danh sách nhân sự và dữ liệu ra vào; giới hạn người được xem, sử dụng, chuyển và lưu theo quy định hiện hành. Không chụp giấy tờ bằng điện thoại cá nhân hoặc gửi danh sách vào nhóm không được phép để xử lý cho nhanh.\n\nQuản lý thẻ tạm gồm cấp đúng người, đúng phạm vi, ghi nhận việc trả và xử lý khi mất. Người rời cơ sở hoặc kết thúc hợp đồng cần được cập nhật quyền theo cơ chế có trách nhiệm. Một thẻ không được thu lại phải được xử lý bằng quy trình, không chỉ nhắc người trực sau nhớ mặt.\n\n### 3.3. Khám xét và kiểm tra có giới hạn\nViệc kiểm tra người, đồ vật hoặc phương tiện phải có cơ sở thẩm quyền và hướng dẫn áp dụng. Bảo đảm tính cần thiết, riêng tư và đối xử không phân biệt. Yêu cầu khác nhau về ngôn ngữ, giới, khuyết tật hoặc trẻ em cần được tính trước. Không coi sự lúng túng hoặc phản đối một yêu cầu chưa giải thích là bằng chứng người đó nguy hiểm.\n\nKhông mở, chạm hoặc di chuyển vật nghi nổ để hoàn thành kiểm tra. Từ vị trí an toàn, báo và áp dụng phương án chuyên trách. Không đưa kỹ thuật khám xét xâm phạm hoặc thao tác cưỡng chế chưa được huấn luyện vào quy trình trực cổng.\n\n### 3.4. Giải quyết ngoại lệ bằng đầu mối rõ ràng\nXe y tế, người cần hỗ trợ khẩn, khách chưa có tên hoặc trục trặc hệ thống cần cơ chế xử lý cụ thể. Liên hệ người có quyền quyết định, duy trì an toàn và ghi nhận quyết định cần thiết. Không tự bỏ mọi kiểm soát; cũng không để một lỗi đăng ký ngăn việc kích hoạt cấp cứu. Khi ùn tắc tăng, báo tác động và yêu cầu hỗ trợ hoặc điều chỉnh được phép.",
+        "en": "### 3.1. Access has a purpose and scope\nVerify identity, purpose and permitted areas under assigned procedures. A valid credential does not authorize every location. Visitors, contractors and deliveries may require reception, time limits or accompaniment. Confirm uncertainty through responsible contacts rather than appearance or status.\n\nVerify questionable documents through official channels. Unresolved verification does not prove crime. Explain the process neutrally and provide responsible contacts without public accusations or exposing identity documents.\n\n### 3.2. Register only what is needed\nCollect necessary information for authorized purposes. Protect visitor logs and access records, with controlled access, use, transfer and retention under applicable rules. Do not use personal phones or unauthorized groups to circulate documents or lists.\n\nIssue temporary credentials to the correct person and scope, record returns and address losses. Update permissions when employment or contracts end. An unreturned card requires an accountable process rather than asking the next guard to remember a face.\n\n### 3.3. Checks have limits\nChecks of people, property and vehicles require applicable authority and instructions. Respect necessity, privacy and non-discrimination. Anticipate language, gender, disability and child-related safeguards. Confusion or objections to unexplained instructions do not establish dangerousness.\n\nDo not open, touch or move suspected explosive items to complete a check. Report from safety and activate specialist arrangements. Do not improvise intrusive searches or untrained coercive techniques.\n\n### 3.4. Manage exceptions responsibly\nProvide clear escalation for medical access, urgent assistance, unlisted visitors and system failure. Contact the authorized decision-maker, maintain safety and record necessary decisions. Neither abandon all controls nor let registration failure block emergency activation. Report growing congestion and seek authorized adjustment."
+      },
+      "sourceIds": [
+        "FACILITY",
+        "DET2020",
+        "POLICY"
+      ]
+    },
+    {
+      "id": "FPU-15-04",
+      "title": {
+        "vi": "4. Người trực, giám sát và liên lạc",
+        "en": "4. Guards, monitoring and communications"
+      },
+      "body": {
+        "vi": "### 4.1. Nhiệm vụ ca phải rõ và khả thi\nNgười trực cần biết phạm vi trách nhiệm, điều kiện cần báo, kênh liên hệ và giới hạn tự giải quyết. Mệnh lệnh ca phải phù hợp phương án hiện hành và được hiểu thống nhất. Một người không thể vừa kiểm tra khách, theo dõi nhiều màn hình, ghi sổ và đáp ứng mọi báo động mà không có giới hạn hoặc hỗ trợ.\n\nBố trí nghỉ, thay ca và hỗ trợ khi khối lượng công việc tăng. Mệt mỏi làm giảm chú ý và chất lượng quyết định; không khắc phục bằng yêu cầu chung phải cảnh giác hơn. Chỉ huy cần xem lại phân công, điều kiện và năng lực thực có.\n\n### 4.2. Giám sát chỉ có giá trị khi dẫn tới hành động\nKhi hệ thống ghi nhận dấu hiệu bất thường, người phụ trách phải đánh giá thông tin theo quy trình, báo và xác nhận đầu mối đáp ứng. Không chờ thu được hình ảnh hoàn hảo mới báo nguy cơ nghiêm trọng. Đồng thời, không suy từ một hình ảnh mờ ra kết luận chắc chắn về ý định của người xuất hiện.\n\nXác định trách nhiệm theo dõi báo động, cách xác nhận đã nhận và hành động khi không liên hệ được. Nếu thông tin dừng ở một màn hình không ai theo dõi, thiết bị chưa tạo khả năng bảo vệ liên tục. Chỉ số số lượng camera không thay phép thử hệ thống phát hiện, báo và đáp ứng.\n\n### 4.3. Dữ liệu giám sát cần được bảo vệ\nHình ảnh có thể chứa thông tin nhạy cảm về nhân viên, khách và hoạt động. Truy cập, sao chép, chia sẻ và thời gian lưu phải theo chính sách được phép. Không đưa hình lên mạng để cảnh báo cộng đồng theo sáng kiến cá nhân. Khi dữ liệu có thể liên quan điều tra, bảo toàn và chuyển qua kênh có trách nhiệm, không tự chỉnh sửa bản gốc.\n\nKhông đặt một thời hạn lưu chung cho mọi cơ sở chỉ vì hệ thống cho phép. Nhu cầu an ninh, quy định dữ liệu và yêu cầu bảo toàn vụ việc phải được người có thẩm quyền điều phối.\n\n### 4.4. Kiểm tra khả năng hoạt động và dự phòng\nKiểm tra thiết bị theo chế độ: Tình trạng, nguồn điện, liên lạc, báo lỗi và việc khắc phục. Báo rõ chức năng nào mất, phạm vi ảnh hưởng và biện pháp tạm được phép; không chỉ ghi thiết bị hỏng. Người nhận ca cần biết giới hạn thực tế để không ra quyết định dựa trên khả năng đã mất.\n\nThử liên lạc cần xác nhận người nghe và khả năng huy động hỗ trợ, không chỉ nghe tiếng máy. Phương án dự phòng phải được phổ biến và kiểm chứng trong điều kiện phù hợp, tránh thử gây nhầm với sự cố thật.",
+        "en": "### 4.1. Make shift duties achievable\nGuards need clear responsibilities, reporting triggers, contacts and decision limits under current instructions. One person cannot indefinitely manage visitors, multiple screens, records and every alarm without workload limits or support.\n\nProvide breaks, relief and surge arrangements. Fatigue affects attention and judgment. Correct staffing and conditions rather than relying on reminders to remain alert.\n\n### 4.2. Monitoring must lead to action\nAssess concerns, notify and confirm a responsible response. Do not delay serious warnings for perfect imagery; equally, do not treat an unclear image as proof of intent.\n\nIdentify who monitors alarms, how receipt is confirmed and what happens when contacts fail. An unattended screen does not provide continuous protection. Camera numbers do not replace testing the detection-to-response chain.\n\n### 4.3. Protect surveillance information\nImages may reveal sensitive staff, visitor and operational information. Access, copying, sharing and retention follow authorized policy. Do not publish footage through personal initiative. Preserve potentially relevant evidence and transfer it through accountable channels without modifying originals.\n\nDo not invent a universal retention period from equipment capacity. Authorized personnel must reconcile security, data rules and incident-preservation requirements.\n\n### 4.4. Test function and fallback\nCheck equipment, power, communications, faults and correction under the applicable regime. Describe lost functions, impact and approved interim arrangements, rather than recording only a broken device. Incoming staff must understand actual limitations.\n\nA communications test should confirm the recipient and ability to activate support. Establish and verify fallback arrangements without confusing tests with real emergencies."
+      },
+      "sourceIds": [
+        "FACILITY",
+        "CSC011"
+      ]
+    },
+    {
+      "id": "FPU-15-05",
+      "title": {
+        "vi": "5. Ứng phó khẩn cấp và duy trì trách nhiệm",
+        "en": "5. Emergency response and accountability"
+      },
+      "body": {
+        "vi": "### 5.1. Báo động phải đi cùng thông tin hành động\nPhương án cần quy định cách phát hiện, báo, nhận và điều hành ứng phó. Khi báo sự cố, nêu vị trí, điều quan sát được, người có nguy cơ, hành động đã làm và hỗ trợ cần. Phân biệt điều đã biết với điều đang xác minh; cập nhật thay đổi thay vì để thông tin đầu tiên tiếp tục chi phối khi không còn đúng.\n\nKhông công khai sơ đồ cơ sở, điểm tập kết nội bộ, vị trí người trực hoặc điểm yếu kỹ thuật lên kênh không được phép. Thông tin cần tới đúng người để hành động, với mức chi tiết phù hợp trách nhiệm. Bảo vệ thông tin không có nghĩa trì hoãn cảnh báo cho người đang gặp nguy hiểm.\n\n### 5.2. Chọn biện pháp theo loại nguy cơ\nSơ tán, trú ẩn tại chỗ và di chuyển tới địa điểm khác là những lựa chọn khác nhau. Áp dụng theo phương án và hướng dẫn có thẩm quyền phù hợp tình hình; không đặt một mệnh lệnh chung cho mọi báo động. Đường thoát đang bị ảnh hưởng hoặc nguy cơ ngoài cơ sở có thể làm lựa chọn thông thường không còn phù hợp.\n\nVới cháy, kích hoạt phương án phòng cháy, thoát và hỗ trợ chuyên trách; không cho người chưa đủ năng lực vào khói. Với vật nghi nổ, không chạm, mở, di chuyển hoặc tới gần để xem rõ; báo từ nơi an toàn và làm theo hướng dẫn chuyên trách. Khi có xâm nhập hoặc bạo lực, phản ứng phải trong thẩm quyền, DUF và giới hạn bảo vệ sinh mạng; không biến báo động thành cho phép sử dụng vũ lực không phân biệt.\n\n### 5.3. Tính đủ người và nhu cầu trợ giúp\nDanh sách cần phản ánh cả khách, nhà thầu, người đổi khu vực và người đã rời cơ sở. Kiểm đếm không chỉ là tổng số bằng nhau: Phải xác định ai chưa được xác nhận, thông tin cuối và người chịu trách nhiệm xử lý. Cung cấp thông tin cho lực lượng cứu nạn; không tự đưa thêm người vào vùng nguy hiểm để hoàn tất danh sách.\n\nNgười hạn chế vận động, người không hiểu ngôn ngữ cảnh báo hoặc đang làm việc ngoài giờ cần phương án hỗ trợ đã chuẩn bị. Hỗ trợ phải phù hợp năng lực và điều kiện; không dùng cách di chuyển có thể gây hại chỉ vì nhanh hơn.\n\n### 5.4. Cấp cứu, phối hợp và bàn giao\nKích hoạt y tế sớm, cung cấp tình trạng quan sát được và khả năng tiếp cận. Thực hiện hỗ trợ trong năng lực đã được huấn luyện, giữ lối cho lực lượng ứng cứu. Khi bàn giao, xác nhận người tiếp nhận, thông tin cần thiết và trách nhiệm tiếp theo. Một cuộc gọi đã kết nối không đồng nghĩa đội y tế đã tới hoặc người bị ảnh hưởng đã được tiếp nhận.",
+        "en": "### 5.1. Warnings need actionable information\nPlans must connect detection, notification, acknowledgement and coordinated response. Report location, observations, people at risk, actions and support needs. Separate facts from uncertainties and update changed conditions.\n\nProtect internal layouts, assembly information, guard positions and technical vulnerabilities from unauthorized disclosure. Share appropriate detail with responsible actors. Information protection must not delay warnings to people in danger.\n\n### 5.2. Match action to the hazard\nEvacuation, sheltering and relocation are different options. Follow approved plans and authorized direction suitable to conditions. A compromised exit or external threat can make a routine choice unsafe.\n\nFor fire, activate fire and escape arrangements; unqualified personnel must not enter smoke. For suspected explosives, do not touch, open, move or approach for inspection. Report from safety and follow specialist guidance. Intrusion and violence require responses within authority, DUF and life-protection limits; alarms never authorize indiscriminate force.\n\n### 5.3. Account for people and assistance needs\nInclude visitors, contractors, changed locations and departures. Matching totals is insufficient: Identify unresolved individuals, last-known information and responsible follow-up. Inform rescuers without sending additional unqualified people into danger.\n\nPrepare for limited mobility, language barriers and out-of-hours work. Assistance must fit competence and conditions rather than relying on harmful shortcuts.\n\n### 5.4. Medical support and handover\nActivate medical support early with observed conditions and access information. Assist within training and keep responder access clear. Confirm the receiver, essential information and continuing responsibility. A connected call does not establish medical arrival or acceptance of a casualty."
+      },
+      "sourceIds": [
+        "CSC011",
+        "UNMAS",
+        "POLICY"
+      ]
+    },
+    {
+      "id": "FPU-15-06",
+      "title": {
+        "vi": "6. Bàn giao ca, khôi phục và kiểm chứng phương án",
+        "en": "6. Shift handover, restoration and verification"
+      },
+      "body": {
+        "vi": "### 6.1. Bàn giao tình trạng thực tế\nCa mới cần biết sự việc đang xử lý, khách chưa rời, quyền tạm, thiết bị hỏng, biện pháp tạm thời và hướng dẫn mới. Kiểm tra thông tin quan trọng, vật dụng và trách nhiệm tiếp nhận theo quy định. Không chỉ ký tên vào sổ rồi tự coi ca trước đã giải quyết hết.\n\nGhi sự việc khách quan, nêu thời gian, nguồn thông tin, hành động, người được báo và kết quả đã xác nhận. Tách nhận xét với sự kiện. Sổ trực không phải nơi ghi đồn đoán về đời tư hoặc đặc điểm cá nhân không liên quan nhiệm vụ.\n\n### 6.2. Khôi phục theo xác nhận có trách nhiệm\nSau sự cố, không mở lại khu vực chỉ vì chuông đã tắt hoặc người xem đã giải tán. Người có thẩm quyền cần xác nhận điều kiện sử dụng, khả năng bảo vệ và những giới hạn còn lại. Việc mở lại từng phần phải được truyền đạt để người trực không áp dụng các phiên bản khác nhau.\n\nBiện pháp hạn chế tạm thời cũng cần được rà soát và kết thúc khi không còn căn cứ. Giữ đóng một lối nhiều ngày mà không xem xét tác động có thể cản hoạt động hoặc gây nguy cơ mới. Khôi phục là quyết định có kiểm soát, không chỉ trở về thói quen trước sự cố.\n\n### 6.3. Diễn tập để tìm điểm cần sửa\nMột buổi kiểm tra có ích quan sát được người nhận báo, hiểu tín hiệu, thực hiện nhiệm vụ, hỗ trợ người cần giúp và xác nhận kiểm đếm. Bao gồm điều kiện phù hợp như đổi ca hoặc mất một chức năng; không tạo nguy hiểm thật hoặc công khai chi tiết nhạy cảm để tăng tính hấp dẫn.\n\nNếu người trực biết số điện thoại nhưng không có người trả lời, cần sửa cơ chế liên lạc. Nếu khách không hiểu tín hiệu, cần cải thiện hướng dẫn hoặc cảnh báo. Kết luận phải giao việc, người phụ trách và cách xác minh; không chỉ yêu cầu nâng cao tinh thần trách nhiệm.\n\n### 6.4. Chất lượng được thể hiện qua khả năng liên kết\nBảo vệ cơ sở có hiệu quả khi quyền vào được xác minh, dấu hiệu được nhận biết, báo động tới người có trách nhiệm, hỗ trợ được huy động và tình trạng được bàn giao. Đánh giá cả tác động tới người dân, khiếu nại và hoạt động cần duy trì.\n\nHoàn thành bài học giúp người học giải thích và nhận diện những liên kết đó. Việc trực thực tế, sử dụng trang bị, xử lý người và ứng phó khẩn cần huấn luyện, đánh giá thực hành cùng phương án tại chính địa bàn được giao.",
+        "en": "### 6.1. Transfer the actual situation\nIncoming staff need unresolved incidents, remaining visitors, temporary permissions, defective equipment, interim measures and new instructions. Confirm essential information, items and acceptance under the applicable process. A signature alone does not resolve outstanding responsibilities.\n\nRecord facts, time, information source, actions, notifications and confirmed results. Separate interpretation from events. Guard logs are not a place for rumours or irrelevant personal information.\n\n### 6.2. Restore through authorized clearance\nSilenced alarms or dispersed spectators do not establish readiness to reopen. Authorized personnel confirm safe use, protective capability and remaining restrictions. Communicate partial reopening clearly so shifts do not apply different versions.\n\nReview and end temporary restrictions when no longer justified. Unreviewed closures can obstruct services or create new risk. Restoration is a controlled decision rather than automatic return to previous habits.\n\n### 6.3. Exercise to identify corrections\nUseful exercises observe receipt, understanding, assigned actions, assistance and accounting. Include suitable conditions such as shift change or loss of a function without creating real danger or revealing sensitive details.\n\nUnanswered contact numbers require a communications correction. Visitors missing warnings require better briefing or accessible alerts. Assign corrective owners and verification rather than issuing awareness slogans alone.\n\n### 6.4. Assess the connections\nEffective facility security connects authorized access, recognition, notification, support and accountable handover. Review effects on communities, complaints and essential services.\n\nThis lesson develops understanding of those connections. Actual guard duties, equipment use, handling of people and emergency response require practical training and assessment under the assigned location's plans."
+      },
+      "sourceIds": [
+        "CSC011",
+        "CSC021"
+      ]
+    }
+  ],
+  "source_ids": [
+    "FACILITY",
+    "POLICY",
+    "CSC011",
+    "DET2020",
+    "UNMAS",
+    "CSC021"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "Access control",
+      "definition": {
+        "vi": "Quản lý quyền vào theo người, mục đích và phạm vi.",
+        "en": "Access management by identity, purpose and scope."
+      }
+    },
+    {
+      "term": "Vulnerability",
+      "definition": {
+        "vi": "Điều kiện làm tăng khả năng bị ảnh hưởng.",
+        "en": "Conditions increasing susceptibility to harm."
+      }
+    },
+    {
+      "term": "Fallback",
+      "definition": {
+        "vi": "Chế độ dự phòng đã xác định và kiểm chứng.",
+        "en": "An established and tested fallback arrangement."
+      }
+    },
+    {
+      "term": "Acknowledgement",
+      "definition": {
+        "vi": "Xác nhận thông tin đã tới người nhận.",
+        "en": "Confirmation that a recipient received information."
+      }
+    },
+    {
+      "term": "Restoration",
+      "definition": {
+        "vi": "Khôi phục sau xác nhận điều kiện và thẩm quyền.",
+        "en": "Restoring activity after authorized confirmation of conditions."
+      }
+    }
+  ],
+  "diagram": null,
+  "contentVersion": "batch-05-expanded-v1-2026-10-29",
+  "sourceIntro": {
+    "vi": "Tài liệu nền, đối chiếu theo mục và ghi chú phiên bản. Lời giảng, bản Anh, câu hỏi và lời giải thích hình được biên soạn cho Handbook. Mã bài là cách tổ chức của Handbook.",
+    "en": "Foundational materials, section mapping and edition notes. Teaching, English text, questions and figure commentary are authored for the Handbook. Lesson numbering belongs to the Handbook."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Bản biên soạn đợt 5 ngày 29/10/2026, chờ người dùng duyệt; không phải ấn phẩm hoặc bản dịch chính thức UN. Nguồn theo mục chỉ nền kiến thức, không phải tuyên bố mọi câu là trích nguyên văn.",
+      "Nội dung không thay mandate, DUF, SOP và phương án hiện hành tại phái bộ; không tự trao quyền hoặc chứng nhận năng lực thực hành. Không kế thừa hướng dẫn chiến thuật, cự ly, tốc độ hoặc cơ chế quản trị cũ thành quy định chung.",
+      "Nguồn STM 2015 được đối chiếu với Policy on Formed Police Units 2024.14 và các bài CSC UNPOL 2026 phù hợp. Chỉ thị, trách nhiệm và quy trình áp dụng cần được xác nhận tại địa bàn. Hình giữ nguyên chữ gốc; lời giảng Việt–Anh xác định cách đọc trong bài.",
+      "UNMAS được đối chiếu qua nội dung web chính thức; gói không chứa bản PDF UNMAS. Nội dung chỉ dùng nguyên tắc tránh tiếp cận và can thiệp vật nghi nổ, không quy định cự ly an toàn hay thao tác dò, gỡ. Phải theo huấn luyện và hướng dẫn chuyên trách tại địa bàn.",
+      "Không lặp lại mô tả tuyệt đối rằng một cơ quan chịu mọi trách nhiệm an ninh. Bài phân biệt quản trị an ninh, quản lý cơ sở và thực hiện nhiệm vụ FPU. Không công khai sơ đồ bảo vệ cụ thể hoặc đặt thời hạn lưu camera chung cho mọi cơ sở."
+    ],
+    "en": [
+      "Batch 5 authored on 29 October 2026 for user review; not an official UN publication or translation. Section mapping identifies foundations, not verbatim support for every sentence.",
+      "Content does not replace applicable mandate, DUF, SOPs or plans and grants neither powers nor practical certification. Historical tactics, distances, speeds and governance are not adopted as universal requirements.",
+      "STM 2015 foundations are cross-checked with FPU Policy 2024.14 and relevant UNPOL CSC 2026 lessons. Applicable directions, responsibilities and procedures require local confirmation. Figures preserve original wording with bilingual teaching commentary.",
+      "UNMAS was consulted through official web content; its PDF is not included. Teaching uses non-approach and non-interference principles without prescribing safety distances or probing/disposal techniques. Follow local training and specialist direction.",
+      "The lesson avoids blanket claims assigning every security function to one body. It distinguishes security governance, facility management and FPU execution, without publishing protective layouts or inventing a universal CCTV retention period."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bảo vệ cơ sở cần một hệ thống hoạt động: Con người nhận biết, thông tin tới đúng nơi và hỗ trợ được huy động. Bài học liên kết tiếp cận, giám sát, ứng phó và khôi phục có trách nhiệm.",
+      "en": "Facility security needs a functioning system: People recognize concerns, information reaches responsible actors and support is activated. Connect access, monitoring, response and accountable restoration."
+    },
+    "subtitle": {
+      "vi": "Kiểm soát tiếp cận · Kết nối cảnh báo · Kiểm chứng đáp ứng",
+      "en": "Control access · Connect warnings · Verify response"
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích: Bảo vệ cơ sở là bảo vệ con người và hoạt động.",
+        "Giải thích: Đánh giá nguy cơ và thiết kế hệ thống bảo vệ.",
+        "Giải thích: Kiểm soát tiếp cận với sự tôn trọng và nhất quán.",
+        "Giải thích: Người trực, giám sát và liên lạc.",
+        "Giải thích: Ứng phó khẩn cấp và duy trì trách nhiệm.",
+        "Giải thích: Bàn giao ca, khôi phục và kiểm chứng phương án."
+      ],
+      "en": [
+        "Explain: Facility security protects people and operations.",
+        "Explain: Assess risk and build a protection system.",
+        "Explain: Respectful and consistent access control.",
+        "Explain: Guards, monitoring and communications.",
+        "Explain: Emergency response and accountability.",
+        "Explain: Shift handover, restoration and verification."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc sáu mục trong tab Nội dung bài học và lời giảng kèm hình; bấm hình để xem lớn. Làm 12 câu kiểm tra nhận thức, đọc giải thích và trở lại mục liên quan. VI/EN giữ lựa chọn trong phiên; tải lại trang bắt đầu lại.",
+      "en": "Read six content sections and figure commentary; click figures to enlarge. Complete 12 knowledge questions, review explanations and revisit relevant sections. VI/EN retains selections in the session; reloading starts again."
+    }
+  },
+  "figures": [
+    {
+      "chapter": 1,
+      "image": "assets/lesson-figures/batch-05/CSC011-p23.png",
+      "caption": {
+        "vi": "Hình 1. Chu trình lập kế hoạch an ninh",
+        "en": "Figure 1. Security planning cycle"
+      },
+      "alt": {
+        "vi": "Hình 1. Chu trình lập kế hoạch an ninh",
+        "en": "Figure 1. Security planning cycle"
+      },
+      "explanation": {
+        "vi": "Theo dõi từ đánh giá đe dọa và rủi ro tới biện pháp, phân công, mệnh lệnh, thử và cập nhật. FPU cần biết phần việc được giao và khả năng phải duy trì. Phát hiện thiếu sót sau diễn tập phải quay lại quá trình điều chỉnh, không dừng ở việc đã hoàn thành buổi kiểm tra.",
+        "en": "Follow assessment through measures, capability allocation, tasking, testing and updating. The FPU needs clear assigned duties and readiness. Exercise findings must return to correction and planning rather than ending at attendance."
+      },
+      "sourceLabel": "United Nations Police, FPU Command Staff Course · Mission Integrated Security Plan — FPU Perspective · 2026",
+      "pdfPage": 23
+    }
+  ],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft",
+  "figureZoom": true
+}

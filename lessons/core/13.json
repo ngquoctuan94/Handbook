@@ -1,0 +1,716 @@
+{
+  "schemaVersion": 2,
+  "id": "CORE-13",
+  "area": "core",
+  "groupKey": "CORE-M3",
+  "group": {
+    "vi": "Trách nhiệm, an toàn và sức khỏe",
+    "en": "Responsibilities, safety and health"
+  },
+  "title": {
+    "vi": "Giá trị, hành vi, ứng xử, kỷ luật và phòng chống SEA",
+    "en": "UN values, behaviours, conduct, discipline and prevention of SEA"
+  },
+  "summary": {
+    "vi": "Bài học đặt giá trị và hành vi UN vào quyết định hằng ngày, nối với chuẩn mực ứng xử, kỷ luật, phòng ngừa SEA và trách nhiệm báo cáo, bảo vệ, quản lý.",
+    "en": "Apply UN values and behaviours to everyday decisions, conduct, discipline, SEA prevention, reporting, protection and leadership."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "C20",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-425%20Lesson%203.1%20Part%201%20UN%20Values%20and%20Behaviors.zip",
+  "order": 301,
+  "sections": [
+    {
+      "id": "CORE-13-01",
+      "title": {
+        "vi": "1. Bốn giá trị trong quyết định hằng ngày",
+        "en": "1. Four values in everyday decisions"
+      },
+      "body": {
+        "vi": "### 1.1. Giá trị phải nhìn thấy qua việc làm\nGiá trị là nguyên tắc định hướng lựa chọn; hành vi là cách những nguyên tắc đó thể hiện trong công việc và quan hệ. Văn hóa đơn vị hình thành từ điều được làm, được khen, bị bỏ qua hoặc được sửa. Một khẩu hiệu đúng không bù được việc báo cáo sai hoặc đối xử thiếu tôn trọng.\n\nKhung UN Values and Behaviours gồm bốn giá trị: Inclusion, Integrity, Humility và Humanity; cùng năm nhóm hành vi liên kết. Người thực hiện cần dùng khung để xem lại quyết định, không chỉ học thuộc tên. Một lựa chọn có thể liên quan nhiều giá trị cùng lúc.\n\n### 1.2. Inclusion: Bao trùm và tôn trọng khác biệt\nBao trùm là tạo cơ hội để những tiếng nói khác nhau được tham gia và được xem xét nghiêm túc. Trong cuộc họp, phân công hoặc tiếp xúc cộng đồng, hỏi ai chưa được nghe và rào cản nào đang tồn tại. Đừng coi cách làm quen thuộc với số đông là phù hợp cho mọi người.\n\nBao trùm không có nghĩa mọi ý kiến đều đúng hoặc bỏ tiêu chuẩn công việc. Cần tiêu chí rõ, cơ hội công bằng và phản hồi có căn cứ. Không loại một người khỏi nhiệm vụ chỉ vì giới, xuất thân hoặc cách nói khi họ có đủ điều kiện vai trò.\n\n### 1.3. Integrity: Liêm chính trong cả việc nhỏ\nLiêm chính thể hiện ở trung thực, nhất quán, tôn trọng quy định và không lợi dụng chức trách. Báo đúng tình trạng thiết bị, ghi đủ việc đã làm, thừa nhận sai và khai báo xung đột lợi ích qua cơ chế áp dụng. Không sửa số liệu để báo cáo đẹp hoặc dùng vật tư công phục vụ lợi ích riêng trái phép.\n\nKhi nhận đề nghị quà, ưu tiên hoặc việc riêng liên quan chức vụ, cần dừng, xác định quy định và báo người có trách nhiệm. Cảm giác mình không bị ảnh hưởng chưa đủ để loại rủi ro xung đột lợi ích. Cách xử lý phải có thể giải thích và kiểm tra.\n\n### 1.4. Humility và Humanity: Khiêm tốn, nhân văn\nKhiêm tốn là nhận ra giới hạn, lắng nghe và sẵn sàng học, không phải thiếu tự tin hoặc né quyết định. Người chỉ huy có thể nói chưa biết, xin chuyên môn và sửa lựa chọn khi có dữ kiện mới. Không bảo vệ một sai sót chỉ vì mình đã ra lệnh.\n\nNhân văn đặt phẩm giá và nhu cầu người được phục vụ ở trung tâm. Người làm nhiệm vụ vẫn cần kiên quyết theo pháp luật, nhưng không làm nhục, đổ lỗi hoặc dùng đau khổ của người khác để thuận tiện công việc. Khi phải lựa chọn, xem ai có thể bị hại và cách giảm điều đó.",
+        "en": "### 1.1. Make values observable\nValues guide choices; behaviours express them in work and relationships. Unit culture reflects what is practised, rewarded, ignored and corrected. Slogans do not compensate for false reporting or disrespect.\n\nThe UN framework connects Inclusion, Integrity, Humility and Humanity with five behaviour areas. Use it to examine decisions rather than memorize labels alone.\n\n### 1.2. Inclusion\nEnable different perspectives and serious consideration. Ask who is unheard and which barriers exist. Familiarity for the majority does not establish accessibility for everyone.\n\nInclusion preserves role standards and evidence-based decisions while ensuring fair opportunity. Do not exclude qualified people through identity-based assumptions.\n\n### 1.3. Integrity\nBe honest, consistent and accountable. Report actual equipment status, record work accurately, acknowledge errors and disclose conflicts through applicable arrangements. Do not manipulate results or misuse public resources.\n\nCheck rules and seek responsible guidance on gifts, favours and private interests. Feeling impartial does not eliminate a conflict risk. Decisions should withstand explanation and review.\n\n### 1.4. Humility and Humanity\nHumility means recognizing limits, listening and learning, not avoiding responsibility. Seek expertise and revise decisions when facts change rather than defending errors.\n\nHumanity puts dignity and people’s needs at the centre. Lawful firmness does not justify humiliation or treating suffering as an administrative inconvenience. Examine who may be harmed and how to reduce it."
+      },
+      "sourceIds": [
+        "C20"
+      ]
+    },
+    {
+      "id": "CORE-13-02",
+      "title": {
+        "vi": "2. Năm nhóm hành vi để thực hiện nhiệm vụ",
+        "en": "2. Five behaviour areas for effective work"
+      },
+      "body": {
+        "vi": "### 2.1. Kết nối và hợp tác\nConnect and Collaborate đòi hỏi trao đổi rõ, hiểu vai trò, tôn trọng chuyên môn và làm việc qua khác biệt. Phối hợp không phải gửi cùng một văn bản tới nhiều nơi rồi mặc định có người xử lý. Phải biết ai nhận trách nhiệm, thông tin nào cần chuyển và khi nào cần cập nhật.\n\nTrong đơn vị đa quốc gia hoặc khi làm với thành phần khác, kiểm tra thuật ngữ và sự hiểu thống nhất. Không dùng khác biệt ngôn ngữ để đánh giá thấp năng lực. Thực hiện phần việc đã cam kết và báo sớm nếu không thể hoàn thành.\n\n### 2.2. Phân tích và lập kế hoạch\nAnalyse and Plan yêu cầu xác định vấn đề, dữ kiện, điều chưa biết, lựa chọn và hệ quả. Tránh chỉ tìm thông tin củng cố ý kiến có sẵn. Kế hoạch cần mục tiêu, nguồn lực, phân công và điều kiện đánh giá lại; dự kiến một nguồn hỗ trợ không đồng nghĩa nguồn đó đã sẵn sàng.\n\nKhi tình hình đổi, cập nhật và giải thích thay đổi. Một kế hoạch nhiều trang nhưng không ai hiểu việc mình phải làm chưa thể coi là tốt. Hỏi người nhận hiểu gì là phần của trách nhiệm lập kế hoạch.\n\n### 2.3. Tạo kết quả có tác động tích cực\nDeliver Results with Positive Impact chú ý điều công việc cải thiện cho người được phục vụ. Hoàn thành số lượt hoặc đủ hồ sơ là đầu ra; khả năng tiếp cận, mức an toàn hoặc chất lượng dịch vụ là những kết quả cần xem. Không đạt chỉ tiêu bằng cách bỏ qua tác động gây hại.\n\nBáo cả hạn chế và kết quả ngoài dự kiến. Việc chưa đạt mục tiêu cần được phân tích, không che bằng con số hoạt động. Người quản lý phải tạo điều kiện để cán bộ nêu khó khăn thật thay vì chỉ nhận tin tốt.\n\n### 2.4. Học hỏi, phát triển, thích ứng và đổi mới\nLearn and Develop là chủ động tìm phản hồi, nâng năng lực và chuyển bài học thành thay đổi cụ thể. Adapt and Innovate là điều chỉnh có căn cứ, thử cách tốt hơn và học từ kết quả. Đổi mới không phải tự bỏ quy trình bảo mật hoặc thử công cụ mới với dữ liệu nhạy cảm khi chưa được phép.\n\nSau nhiệm vụ, chọn lỗi cần sửa, giao người và kiểm chứng lại. Khi áp dụng công nghệ, xác định mục đích, dữ liệu, giới hạn và người chịu trách nhiệm. Mới hơn không tự tốt hơn; giải pháp phải phù hợp người sử dụng và nhiệm vụ.",
+        "en": "### 2.1. Connect and collaborate\nCommunicate clearly, understand roles and respect expertise. Broad circulation does not establish action: Identify ownership, necessary information and updates.\n\nCheck terminology across languages and components. Do not equate language differences with incompetence. Keep commitments and report foreseeable failure early.\n\n### 2.2. Analyse and plan\nDefine problems, evidence, uncertainty, options and effects. Check confirmation bias. Assign objectives, resources, responsibilities and review conditions; proposed support is not confirmed readiness.\n\nUpdate changed assumptions and verify recipients’ understanding. Length does not establish plan quality.\n\n### 2.3. Deliver results with positive impact\nDistinguish completed activities from improved access, safety and service quality. Targets do not justify harmful shortcuts.\n\nReport limitations and unintended effects. Managers need honest information rather than activity counts concealing unmet objectives.\n\n### 2.4. Learn, develop, adapt and innovate\nSeek feedback, build competence and translate lessons into corrections. Adapt through evidence and accountable testing. Innovation does not authorize bypassing privacy or using sensitive information in unapproved tools.\n\nAssign corrective work and verification. Newer solutions must still suit users, safeguards and tasks."
+      },
+      "sourceIds": [
+        "C21"
+      ]
+    },
+    {
+      "id": "CORE-13-03",
+      "title": {
+        "vi": "3. Chuẩn mực ứng xử và kỷ luật",
+        "en": "3. Conduct standards and discipline"
+      },
+      "body": {
+        "vi": "### 3.1. Trách nhiệm không chỉ trong giờ làm\nNhân sự phục vụ với UN phải tuân thủ chuẩn mực liên quan cả công vụ và hành vi cá nhân trong phạm vi áp dụng. Không coi ngoài doanh trại hoặc hết ca là hết trách nhiệm. Sử dụng xe, thiết bị, thông tin, quan hệ với cộng đồng và cách hành xử trên mạng đều có thể ảnh hưởng người khác và nhiệm vụ.\n\nCần biết quy định phái bộ về an ninh, đi lại, tài sản, hành vi và báo cáo. Quy định khác nhau về mục đích hoặc phạm vi nên phải đọc đúng, không truyền lại một lời đồn như chỉ thị. Khi chưa rõ, hỏi đầu mối có thẩm quyền thay vì tự chọn cách thuận tiện.\n\n### 3.2. Vi phạm được đánh giá theo hành vi và cơ chế\nMisconduct là không thực hiện nghĩa vụ hoặc không tuân chuẩn mực, quy định áp dụng. Một hành vi có thể dẫn tới trách nhiệm hành chính, kỷ luật hoặc hình sự tùy tính chất, địa vị pháp lý và cơ chế có thẩm quyền. Không mặc định mọi loại nhân sự chịu cùng một quy trình hoặc cùng một hình thức xử lý.\n\nQuyền ưu đãi và miễn trừ không phải quyền được vi phạm. Những vấn đề pháp lý phải được xử lý qua cơ quan có trách nhiệm, không dùng cách nói miễn trừ để ngăn tiếp nhận phản ánh hoặc từ chối hợp tác với cơ chế được phép.\n\n### 3.3. Tôn trọng đồng nghiệp và người dân\nKhông phân biệt đối xử, quấy rối, lạm dụng quyền hoặc trả đũa. Một lời đùa, tin nhắn hoặc cách phân việc có thể gây hại dù người thực hiện nói không có ý. Cần nghe tác động và xử lý theo căn cứ, không buộc người bị ảnh hưởng chịu đựng để giữ đoàn kết.\n\nKhông công khai hồ sơ, ảnh riêng hoặc cáo buộc trong nhóm rộng để răn đe. Thông tin liên quan phản ánh cần tới đúng nơi và được bảo vệ. Môi trường làm việc tôn trọng giúp người phát hiện lỗi báo sớm và hỗ trợ nhiệm vụ an toàn hơn.\n\n### 3.4. Biết cách báo một vấn đề\nPhân biệt tình huống khẩn cần bảo vệ ngay với quy trình gửi phản ánh, nhưng không để một việc làm mất việc kia. Dùng đầu mối conduct and discipline, tuyến chỉ huy hoặc cơ chế phù hợp; khi tuyến gần có xung đột, sử dụng lựa chọn được quy định khác.\n\nBáo trung thực điều biết và điều chưa biết. Không tự điều tra để quyết định người khác có xứng đáng được tiếp nhận không. Người báo thiện chí cần được bảo vệ theo cơ chế áp dụng; kết quả chưa chứng minh cáo buộc không tự có nghĩa báo sai có ác ý.",
+        "en": "### 3.1. Responsibilities extend beyond duty hours\nApplicable UN conduct obligations include relevant personal behaviour as well as official work. Off-duty status does not remove all responsibilities. Vehicles, equipment, information, community relationships and online conduct can affect others and the mission.\n\nKnow actual mission instructions. Verify uncertainty through responsible contacts rather than treating rumours as orders.\n\n### 3.2. Assess conduct through proper mechanisms\nMisconduct involves failures of obligations or applicable standards. Administrative, disciplinary and criminal responsibility depend on conduct, status and competent processes. Different personnel categories do not necessarily share one procedure.\n\nPrivileges and immunities do not authorize wrongdoing. Refer legal questions properly rather than using immunity to obstruct complaints or authorized cooperation.\n\n### 3.3. Respect colleagues and communities\nPrevent discrimination, harassment, abuse and retaliation. Claimed good intentions do not erase effects of jokes, messages or assignments. Do not demand silence for unit cohesion.\n\nProtect complaints and private records from public circulation. Respectful environments encourage early reporting and safer work.\n\n### 3.4. Report responsibly\nActivate urgent protection and appropriate reporting without substituting one for the other. Use designated conduct channels, command or permitted alternatives where conflicts exist.\n\nDistinguish known information and uncertainty. Do not pre-investigate eligibility to report. An unsubstantiated allegation does not itself prove bad-faith reporting."
+      },
+      "sourceIds": [
+        "C22"
+      ]
+    },
+    {
+      "id": "CORE-13-04",
+      "title": {
+        "vi": "4. SEA: Nhận diện và các hành vi bị cấm",
+        "en": "4. SEA: Recognition and prohibited conduct"
+      },
+      "body": {
+        "vi": "### 4.1. Bóc lột và xâm hại tình dục\nSexual exploitation là lợi dụng hoặc tìm cách lợi dụng tình trạng dễ bị tổn thương, chênh lệch quyền lực hoặc lòng tin cho mục đích tình dục, kể cả thu lợi cho mình hoặc người khác. Sexual abuse là xâm phạm tình dục thực tế hoặc đe dọa, bằng sức mạnh hoặc trong điều kiện bất bình đẳng hay cưỡng ép. Không chỉ nhìn có sử dụng bạo lực thể chất hay không.\n\nNhân sự UN có thể nắm nguồn lực, khả năng giúp hoặc vị thế người khác phụ thuộc. Câu trả lời có vẻ đồng ý không tự loại bỏ việc lợi dụng quan hệ quyền lực. Không dùng ý định giúp đỡ để biện minh hành vi khai thác sự lệ thuộc.\n\n### 4.2. Trẻ em và giao dịch đổi tình dục\nHoạt động tình dục với người dưới 18 tuổi bị cấm theo chuẩn mực UN được học trong chương trình. Tuổi đồng thuận thấp hơn ở địa bàn không làm hành vi được phép; nhầm tuổi không phải căn cứ bào chữa. Không dùng người lớn hoặc trẻ em để tìm người cung cấp tình dục cho mình hay người khác.\n\nKhông đổi tiền, việc làm, hàng hóa, lương thực, trợ giúp hoặc dịch vụ lấy tình dục hay ưu đãi tình dục. Không mua dâm, kể cả nơi dung thứ hoặc cho phép. Đổi tên khoản tiền thành quà hoặc dùng trung gian không làm thay đổi tính chất hành vi.\n\n### 4.3. Quan hệ với người thụ hưởng và quy định về quan hệ cá nhân\nQuan hệ với người nhận hỗ trợ chứa chênh lệch quyền lực và có thể làm suy yếu sự liêm chính, tin cậy. Với nhân sự mặc đồng phục, quan hệ tình dục với người thụ hưởng trợ giúp bị cấm theo quy định không kết giao áp dụng; không lấy cách diễn đạt khuyến cáo cho một nhóm nhân sự khác để tự cho mình ngoại lệ.\n\nKhi cần làm rõ phạm vi quan hệ cá nhân, hỏi đầu mối conduct and discipline về quy định đang áp dụng cho mình. Việc khai báo quan hệ không tự tạo chấp thuận cho hành vi bị cấm. Không tự đặt thỏa thuận riêng nhằm bỏ qua tiêu chuẩn UN.\n\n### 4.4. Không dung thứ và thủ tục công bằng\nKhông dung thứ nghĩa hành vi SEA không được chấp nhận và cáo buộc phải được tiếp nhận, xử lý có trách nhiệm. Không có nghĩa mọi cáo buộc tự là kết luận có tội, hoặc người tiếp nhận có thể công khai danh tính và tự áp hình phạt.\n\nCần hỗ trợ người bị ảnh hưởng, bảo toàn thông tin, báo qua kênh đúng và hợp tác với cơ chế được phép. Không hoãn trợ giúp cho tới khi kết thúc điều tra. Trách nhiệm bảo vệ và yêu cầu xác minh công bằng cùng phải được duy trì.",
+        "en": "### 4.1. Exploitation and abuse\nSexual exploitation abuses or attempts to abuse vulnerability, unequal power or trust for sexual purposes, including benefit to others. Sexual abuse involves actual or threatened sexual intrusion through force or unequal or coercive conditions. Physical violence is not the only consideration.\n\nUN personnel can control resources and opportunities. Apparent agreement does not eliminate exploitation of dependency. Claimed helpful intentions cannot justify abuse of power.\n\n### 4.2. Children and transactional sex\nUN training standards prohibit sexual activity with anyone under 18; lower local consent ages and mistaken age beliefs do not excuse it. Never use adults or children to procure sex for anyone.\n\nDo not exchange money, jobs, goods, food, assistance or services for sex or sexual favours. Sex with sex workers is prohibited even where locally tolerated or legal. Gifts and intermediaries do not change the nature of a transaction.\n\n### 4.3. Beneficiaries and personal relationships\nRelationships with assistance beneficiaries carry unequal power and credibility risks. For uniformed personnel, sexual relationships with assistance beneficiaries are prohibited under applicable non-fraternization rules. Do not borrow advice addressed to another personnel category.\n\nSeek conduct guidance on rules applying to your status. Disclosure cannot authorize prohibited conduct or replace UN standards with private agreements.\n\n### 4.4. Zero tolerance and fair process\nSEA is unacceptable and allegations require responsible handling. Zero tolerance does not establish automatic guilt, authorize publication of identities or permit improvised punishment.\n\nAssist affected people, preserve information, report properly and cooperate with authorized processes. Care must not wait for completed investigation. Protection and fair examination must both continue."
+      },
+      "sourceIds": [
+        "C23"
+      ]
+    },
+    {
+      "id": "CORE-13-05",
+      "title": {
+        "vi": "5. Khi biết hoặc nghi có SEA",
+        "en": "5. When SEA is known or suspected"
+      },
+      "body": {
+        "vi": "### 5.1. Báo ngay, không tự xác minh trước\nNhân sự UN có nghĩa vụ báo nghi ngờ, quan ngại hoặc thông tin về SEA qua cơ chế áp dụng. Không chờ có chứng cứ hoàn chỉnh hoặc đợi người bị phản ánh tự giải thích. Vai trò tiếp nhận không bao gồm quyết định cáo buộc đủ mạnh mới được chuyển.\n\nBáo điều đã biết, nguồn và điều chưa rõ. Khi có thể, nêu ai, việc gì, ở đâu và khi nào; không cần ép người kể bổ sung mọi chi tiết mới gửi. Không đối chất hoặc cảnh báo người bị nghi theo sáng kiến cá nhân vì có thể làm tăng nguy cơ và ảnh hưởng xác minh.\n\n### 5.2. Dùng đúng kênh và lựa chọn thay thế\nTrong phái bộ, conduct and discipline team hoặc focal point là đầu mối quan trọng. Tuyến chỉ huy phù hợp, lãnh đạo có trách nhiệm hoặc OIOS là các kênh theo cơ chế được quy định. Cần biết đường báo hiện hành trước nhiệm vụ; không sao chép số điện thoại của một phái bộ khác thành đầu mối cho đơn vị mình.\n\nNếu người trong tuyến gần bị phản ánh hoặc không xử lý, dùng kênh thay thế được phép. Không bắt người báo xin chấp thuận của chính người bị phản ánh. Báo cáo có thể theo hình thức ẩn danh trong cơ chế hỗ trợ; điều đó không cho phép bịa thông tin hoặc hứa mọi dữ liệu sẽ tuyệt đối không thể lộ.\n\n### 5.3. Tiếp nhận tôn trọng và trợ giúp kịp thời\nKiểm tra nhu cầu an toàn, y tế hoặc hỗ trợ cấp thiết và kết nối dịch vụ phù hợp. Giải thích vai trò, nghĩa vụ báo, cách dùng thông tin cùng giới hạn bảo mật. Không hứa giữ kín với mọi người khi có nghĩa vụ chuyển cho người có trách nhiệm.\n\nTrợ giúp không được đặt điều kiện phải cung cấp đủ bằng chứng, đối chất hoặc đồng ý công bố câu chuyện. Với trẻ em, phối hợp chuyên môn bảo vệ trẻ, lợi ích tốt nhất và quy trình áp dụng. Không ép hòa giải, xin lỗi riêng hoặc bồi thường không chính thức để thay báo cáo.\n\n### 5.4. Bảo vệ dữ liệu và chống trả đũa\nChỉ chuyển thông tin cần thiết tới người có quyền nhận; bảo vệ ghi chép, ảnh và hồ sơ. Không đưa cáo buộc vào nhóm rộng, không dùng ảnh người bị ảnh hưởng cho truyền thông nội bộ. Giữ vật, dữ liệu liên quan theo hướng dẫn có trách nhiệm, không tự sửa hoặc xóa.\n\nBáo đe dọa hoặc trả đũa qua cơ chế áp dụng. Không gây bất lợi về phân công, đánh giá, cơ hội học hoặc quan hệ tập thể vì một người báo thiện chí. Bảo vệ người báo và nhân chứng là phần của trách nhiệm quản lý, không phải việc tùy chọn sau điều tra.",
+        "en": "### 5.1. Report promptly without self-verification\nUN personnel must report concerns or information through applicable mechanisms. Do not wait for complete proof or the alleged perpetrator’s explanation. Reception does not authorize screening out allegations through personal investigation.\n\nState known facts, sources and uncertainty, including who, what, where and when if available. Do not compel extra detail before reporting or independently confront suspects.\n\n### 5.2. Use established and alternative channels\nConduct and discipline teams or focal points, appropriate command and authorized oversight channels such as OIOS have relevant roles. Know current local routes; another mission’s contact details are not your unit’s mechanism.\n\nUse permitted alternatives where immediate command is implicated or fails to act. Never require approval from the subject of a complaint. Anonymous reporting mechanisms do not authorize fabricated information or promises of absolute secrecy.\n\n### 5.3. Receive respectfully and connect care\nAddress urgent safety and care needs. Explain roles, reporting obligations, information use and confidentiality limits. Do not promise secrecy inconsistent with duties.\n\nDo not condition assistance on proof, confrontation or publicity. Use child-protection expertise where needed. Private apologies, mediation or unofficial settlements cannot replace reporting.\n\n### 5.4. Protect data and prevent retaliation\nShare only necessary information with authorized recipients. Protect records and preserve relevant material under instructions. Do not publicize allegations or survivor images in broad groups.\n\nReport threats and retaliation through appropriate mechanisms. Do not penalize good-faith reporting through assignments, assessments, training access or social exclusion. Protection is an ongoing leadership duty."
+      },
+      "sourceIds": [
+        "C23"
+      ]
+    },
+    {
+      "id": "CORE-13-06",
+      "title": {
+        "vi": "6. Người quản lý và văn hóa trách nhiệm",
+        "en": "6. Leadership and an accountable culture"
+      },
+      "body": {
+        "vi": "### 6.1. Làm rõ chuẩn mực trước khi có vi phạm\nPhổ biến quy định, đầu mối, giới hạn hành vi và trách nhiệm báo cho mọi người, kể cả khi luân chuyển hoặc đổi ca. Kiểm tra hiểu bằng câu hỏi thực tế, không chỉ chữ ký đã nghe. Cán bộ cần biết làm gì khi chính người có cấp bậc cao bị phản ánh.\n\nNgười quản lý phải nêu gương về tài sản, dữ liệu, quan hệ và cách ứng xử. Nếu quy định được nhắc nhưng hành vi trái vẫn được bỏ qua cho người quen, thông điệp thực tế sẽ là quy định có ngoại lệ theo vị trí. Văn hóa trách nhiệm đòi hỏi nhất quán.\n\n### 6.2. Nhận diện điều kiện làm tăng nguy cơ\nXem các quan hệ nắm nguồn lực, tiếp xúc phụ thuộc, thiếu giám sát hoặc kênh báo không an toàn. Điều chỉnh quản lý dựa trên căn cứ mà không giám sát đời tư vô hạn hoặc phân biệt đối xử. Biện pháp phòng ngừa phải bảo vệ người dân và nhân sự, không chỉ bảo vệ hình ảnh đơn vị.\n\nKhông lấy việc chưa có đơn làm chứng cứ chắc chắn đơn vị không có vấn đề. Có thể người dân không biết báo, không tin sẽ được nghe hoặc sợ hậu quả. Cần kiểm tra khả năng tiếp cận và phản hồi qua cơ chế phù hợp.\n\n### 6.3. Theo dõi việc xử lý trong phạm vi vai trò\nKhi có phản ánh, bảo đảm thông tin tới đầu mối, người cần giúp được kết nối và việc chống trả đũa được duy trì. Người chỉ huy không tự đòi mọi chi tiết điều tra hoặc hồ sơ y tế để kiểm soát tiến trình. Tôn trọng ranh giới chuyên môn và quyền tiếp cận dữ liệu.\n\nHợp tác với điều tra hoặc kiểm tra được phép; không thống nhất lời khai, gây áp lực nhân chứng hoặc xóa dấu vết. Báo trung thực phần đơn vị biết và thực hiện yêu cầu có thẩm quyền. Không dùng thành tích trước đây để thay đánh giá hành vi đang được phản ánh.\n\n### 6.4. Biến bài học thành hành động\nNếu một lỗi phát hiện muộn vì đầu mối không rõ, sửa hướng dẫn và kiểm chứng người trực biết dùng. Nếu người báo bị cô lập, xem trách nhiệm quản lý và môi trường, không chỉ nhắc mọi người đoàn kết. Giao việc cụ thể và theo dõi kết quả.\n\nGiá trị, hành vi, ứng xử và kỷ luật là một hệ thống: Nguyên tắc định hướng; hành động thể hiện; cơ chế trách nhiệm bảo đảm chúng được thực hiện. Người học phải nêu được cách lựa chọn trung thực, tôn trọng và báo đúng trong công việc hằng ngày.",
+        "en": "### 6.1. Establish standards before violations\nBrief rules, contacts, limits and reporting duties across rotations and shifts. Verify practical understanding, including complaints involving senior personnel.\n\nModel standards in resources, data, relationships and conduct. Selective enforcement teaches that rank or familiarity creates exceptions. Accountability requires consistency.\n\n### 6.2. Address risk conditions\nReview resource dependency, unequal power, weak oversight and unsafe reporting. Use proportionate prevention without unlimited intrusion or discrimination. Protect people rather than appearances alone.\n\nAbsence of complaints does not prove absence of problems. Examine awareness, trust, safety and accessible channels.\n\n### 6.3. Follow up within your role\nEnsure responsible receipt, assistance and retaliation safeguards. Commanders do not need every investigative or clinical detail. Respect professional and information boundaries.\n\nCooperate with authorized inquiries without aligning testimony, pressuring witnesses or destroying records. Prior achievements do not determine the truth of a current allegation.\n\n### 6.4. Turn findings into correction\nRepair unclear contacts and verify use. Address exclusion of complainants through management responsibility rather than cohesion slogans. Assign concrete actions and monitor results.\n\nValues guide, behaviours express and accountability mechanisms sustain standards. Demonstrate honest, respectful choices and proper reporting in daily work."
+      },
+      "sourceIds": [
+        "C20",
+        "C21",
+        "C22",
+        "C23"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "C20",
+      "title": "3.1 UN Values and Behaviours, Part 1",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-425%20Lesson%203.1%20Part%201%20UN%20Values%20and%20Behaviors.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 19,
+      "pdf_name": "2025 - Lesson 3.1 UN V-B Part 1 - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-29"
+    },
+    {
+      "id": "C21",
+      "title": "3.1 UN Values and Behaviours, Part 2",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-426%20Lesson%203.1%20Part%202%20UN%20Values%20and%20Behaviors.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 22,
+      "pdf_name": "2025 - Lesson 3.1 UN V-B Part 2 - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-29"
+    },
+    {
+      "id": "C22",
+      "title": "3.2 Conduct and Discipline",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-427%20Lesson%203.2%20Conduct%20and%20Discipline.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 23,
+      "pdf_name": "2025 - Lesson 3.2 Conduct and Discipline - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-29"
+    },
+    {
+      "id": "C23",
+      "title": "3.3 Sexual Exploitation and Abuse",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-428%20Lesson%203.3%20Sexual%20Exploitation%20and%20Abuse.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 32,
+      "pdf_name": "2025 - Lesson 3.3 Sexual Exploitation and Abuse - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-29"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Liêm chính thể hiện thế nào khi thiết bị chưa sẵn sàng?",
+        "en": "How is integrity shown when equipment is not ready?"
+      },
+      "options": [
+        {
+          "vi": "Giấu lỗi vì chưa gây sự cố.",
+          "en": "Hide defects until an incident occurs."
+        },
+        {
+          "vi": "Sửa số liệu để đạt kế hoạch chung.",
+          "en": "Alter figures to meet the plan."
+        },
+        {
+          "vi": "Báo đúng tình trạng và giới hạn thực tế.",
+          "en": "Report actual condition and limitations."
+        }
+      ],
+      "correct": 2,
+      "chapter": 0,
+      "explanation": {
+        "vi": "Trung thực cho phép quyết định đúng và kiểm tra trách nhiệm. Xem mục 1.",
+        "en": "Honesty enables informed decisions and accountability. See section 1."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khiêm tốn trong chỉ huy có nghĩa gì?",
+        "en": "What does humility mean in command?"
+      },
+      "options": [
+        {
+          "vi": "Không ra quyết định nào để tránh sai.",
+          "en": "Avoid all decisions to prevent error."
+        },
+        {
+          "vi": "Nhận giới hạn, nghe chuyên môn và sửa khi có căn cứ.",
+          "en": "Recognize limits, listen to expertise and revise on evidence."
+        },
+        {
+          "vi": "Giữ lệnh cũ vì sửa làm mất uy tín.",
+          "en": "Retain old orders because revision harms status."
+        }
+      ],
+      "correct": 1,
+      "chapter": 0,
+      "explanation": {
+        "vi": "Khiêm tốn hỗ trợ học hỏi và trách nhiệm, không thay bằng né tránh. Xem mục 1.",
+        "en": "Humility supports learning and responsibility rather than avoidance. See section 1."
+      }
+    },
+    {
+      "question": {
+        "vi": "Gửi văn bản cho nhiều đơn vị có chứng minh đã phối hợp không?",
+        "en": "Does broad circulation prove coordination?"
+      },
+      "options": [
+        {
+          "vi": "Có; ai không làm thì tự chịu hoàn toàn.",
+          "en": "Yes; non-responders bear all responsibility."
+        },
+        {
+          "vi": "Có; số người nhận đủ thay phản hồi.",
+          "en": "Yes; recipient counts replace feedback."
+        },
+        {
+          "vi": "Chưa; cần người nhận trách nhiệm và xác nhận phần việc.",
+          "en": "No; establish accepted ownership and tasks."
+        }
+      ],
+      "correct": 2,
+      "chapter": 1,
+      "explanation": {
+        "vi": "Phối hợp là liên kết hành động, không chỉ truyền văn bản. Xem mục 2.",
+        "en": "Coordination connects action, not document transmission alone. See section 2."
+      }
+    },
+    {
+      "question": {
+        "vi": "Đổi mới bằng AI có cho phép đưa dữ liệu nhạy cảm vào công cụ bất kỳ không?",
+        "en": "Does AI innovation authorize sensitive data in any tool?"
+      },
+      "options": [
+        {
+          "vi": "Có; chỉ cần kết quả nhanh hơn.",
+          "en": "Yes; faster results suffice."
+        },
+        {
+          "vi": "Không; cần công cụ, dữ liệu và phạm vi được phép.",
+          "en": "No; use authorized tools, data and scope."
+        },
+        {
+          "vi": "Có; công nghệ mới luôn có lợi.",
+          "en": "Yes; new technology is always beneficial."
+        }
+      ],
+      "correct": 1,
+      "chapter": 1,
+      "explanation": {
+        "vi": "Thích ứng vẫn phải tuân bảo mật và trách nhiệm. Xem mục 2.",
+        "en": "Adaptation remains subject to confidentiality and accountability. See section 2."
+      }
+    },
+    {
+      "question": {
+        "vi": "Hết ca có nghĩa hết mọi nghĩa vụ ứng xử không?",
+        "en": "Does going off duty end all conduct obligations?"
+      },
+      "options": [
+        {
+          "vi": "Có; chỉ quân phục mới tạo trách nhiệm.",
+          "en": "Yes; responsibility exists only in uniform."
+        },
+        {
+          "vi": "Có; ngoài giờ không liên quan nhiệm vụ.",
+          "en": "Yes; off-duty actions never concern the mission."
+        },
+        {
+          "vi": "Không; các chuẩn mực áp dụng vẫn có thể điều chỉnh hành vi cá nhân.",
+          "en": "No; applicable standards can still govern personal behaviour."
+        }
+      ],
+      "correct": 2,
+      "chapter": 2,
+      "explanation": {
+        "vi": "Hành vi ngoài giờ vẫn có thể gây hại và thuộc quy định áp dụng. Xem mục 3.",
+        "en": "Off-duty conduct can still cause harm and fall under applicable rules. See section 3."
+      }
+    },
+    {
+      "question": {
+        "vi": "Cáo buộc chưa được chứng minh có tự là báo cáo ác ý không?",
+        "en": "Is an unsubstantiated allegation automatically malicious reporting?"
+      },
+      "options": [
+        {
+          "vi": "Không; cần phân biệt thiện chí với cố ý báo điều biết là sai.",
+          "en": "No; distinguish good faith from knowingly false reporting."
+        },
+        {
+          "vi": "Có; chưa chứng minh nghĩa người báo phải bị phạt.",
+          "en": "Yes; lack of proof requires punishing the reporter."
+        },
+        {
+          "vi": "Có; để tránh số báo cáo tăng.",
+          "en": "Yes; to discourage increased reporting."
+        }
+      ],
+      "correct": 0,
+      "chapter": 2,
+      "explanation": {
+        "vi": "Kết quả xác minh khác ý định và căn cứ của người báo lúc báo. Xem mục 3.",
+        "en": "Investigative outcomes differ from the reporter’s intent and grounds. See section 3."
+      }
+    },
+    {
+      "question": {
+        "vi": "Tuổi đồng thuận địa phương thấp hơn 18 có làm hoạt động tình dục với trẻ được phép không?",
+        "en": "Does a local consent age below 18 make sexual activity with a child permissible?"
+      },
+      "options": [
+        {
+          "vi": "Không; chuẩn mực UN cấm và nhầm tuổi không bào chữa.",
+          "en": "No; UN standards prohibit it and mistaken age is no defence."
+        },
+        {
+          "vi": "Có; nếu có người trung gian xác nhận tuổi.",
+          "en": "Yes; if an intermediary confirms age."
+        },
+        {
+          "vi": "Có; chỉ luật địa phương quyết định.",
+          "en": "Yes; local law alone governs."
+        }
+      ],
+      "correct": 0,
+      "chapter": 3,
+      "explanation": {
+        "vi": "Nhân sự phải tuân chuẩn mực UN về trẻ em, không tự dùng chuẩn thấp hơn. Xem mục 4.",
+        "en": "Personnel must follow UN child standards rather than substitute lower thresholds. See section 4."
+      }
+    },
+    {
+      "question": {
+        "vi": "Không dung thứ SEA có nghĩa kết tội tự động không?",
+        "en": "Does zero tolerance for SEA mean automatic guilt?"
+      },
+      "options": [
+        {
+          "vi": "Có; công khai danh tính giúp chứng minh nghiêm túc.",
+          "en": "Yes; publishing identities demonstrates seriousness."
+        },
+        {
+          "vi": "Có; người tiếp nhận tự công bố hình phạt.",
+          "en": "Yes; recipients may announce punishment."
+        },
+        {
+          "vi": "Không; phải tiếp nhận, trợ giúp và xử lý theo thủ tục có trách nhiệm.",
+          "en": "No; receive, assist and handle through accountable processes."
+        }
+      ],
+      "correct": 2,
+      "chapter": 3,
+      "explanation": {
+        "vi": "Không chấp nhận hành vi vẫn đi cùng bảo vệ người và xác minh công bằng. Xem mục 4.",
+        "en": "Prohibiting conduct coexists with protection and fair examination. See section 4."
+      }
+    },
+    {
+      "question": {
+        "vi": "Biết nghi ngờ SEA nhưng chưa đủ mọi chi tiết, cần gì?",
+        "en": "SEA is suspected but details are incomplete. What is needed?"
+      },
+      "options": [
+        {
+          "vi": "Báo ngay điều biết và điều chưa rõ qua kênh quy định.",
+          "en": "Report known information and uncertainty promptly through required channels."
+        },
+        {
+          "vi": "Chờ kết luận của đồng nghiệp rồi tính.",
+          "en": "Wait for colleagues to decide."
+        },
+        {
+          "vi": "Tự đối chất để có đủ bằng chứng trước.",
+          "en": "Confront the suspect to complete evidence first."
+        }
+      ],
+      "correct": 0,
+      "chapter": 4,
+      "explanation": {
+        "vi": "Nghĩa vụ báo không yêu cầu người tiếp nhận tự điều tra trước. Xem mục 5.",
+        "en": "Reporting duties do not require prior personal investigation. See section 5."
+      }
+    },
+    {
+      "question": {
+        "vi": "Người trong tuyến chỉ huy gần bị phản ánh, xử lý báo cáo thế nào?",
+        "en": "The immediate chain is implicated. How should reporting proceed?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ được báo khi người đó đồng ý.",
+          "en": "Report only with that person’s consent."
+        },
+        {
+          "vi": "Dùng kênh thay thế được phép, không xin người bị phản ánh duyệt.",
+          "en": "Use permitted alternatives without the subject’s approval."
+        },
+        {
+          "vi": "Chuyển cáo buộc lên nhóm chung để bỏ phiếu.",
+          "en": "Post allegations for a group vote."
+        }
+      ],
+      "correct": 1,
+      "chapter": 4,
+      "explanation": {
+        "vi": "Cần khả năng tiếp cận đầu mối có trách nhiệm và tránh xung đột. Xem mục 5.",
+        "en": "Reporting needs accountable access and conflict avoidance. See section 5."
+      }
+    },
+    {
+      "question": {
+        "vi": "Không có đơn phản ánh có chắc là đơn vị không có vấn đề không?",
+        "en": "Does no complaint prove a unit has no problems?"
+      },
+      "options": [
+        {
+          "vi": "Có; giảm phổ biến kênh báo để giữ kết quả.",
+          "en": "Yes; reduce reporting information to preserve results."
+        },
+        {
+          "vi": "Không; cần xem nhận biết, khả năng tiếp cận và an toàn khi báo.",
+          "en": "No; examine awareness, access and reporting safety."
+        },
+        {
+          "vi": "Có; không cần rà văn hóa đơn vị.",
+          "en": "Yes; culture needs no review."
+        }
+      ],
+      "correct": 1,
+      "chapter": 5,
+      "explanation": {
+        "vi": "Im lặng có nhiều cách giải thích, cần kiểm tra thay vì tự hài lòng. Xem mục 6.",
+        "en": "Silence has multiple explanations and requires examination. See section 6."
+      }
+    },
+    {
+      "question": {
+        "vi": "Người báo thiện chí bị loại khỏi cơ hội học, chỉ huy nên làm gì?",
+        "en": "A good-faith reporter loses training opportunities. What should leadership do?"
+      },
+      "options": [
+        {
+          "vi": "Xem dấu hiệu trả đũa và kích hoạt cơ chế bảo vệ phù hợp.",
+          "en": "Assess possible retaliation and activate appropriate safeguards."
+        },
+        {
+          "vi": "Bỏ qua vì chưa có kết luận vụ gốc.",
+          "en": "Ignore it until the original case ends."
+        },
+        {
+          "vi": "Coi là cách giữ đoàn kết nội bộ.",
+          "en": "Treat it as preserving cohesion."
+        }
+      ],
+      "correct": 0,
+      "chapter": 5,
+      "explanation": {
+        "vi": "Chống trả đũa là trách nhiệm đang diễn ra, không phụ thuộc kết quả cáo buộc. Xem mục 6.",
+        "en": "Retaliation prevention is ongoing and not dependent on the allegation’s outcome. See section 6."
+      }
+    }
+  ],
+  "updated": "2026-10-29",
+  "moduleId": "CORE-M3",
+  "moduleOrder": 3,
+  "lessonOrder": 1,
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "CORE-13-01",
+      "title": {
+        "vi": "1. Bốn giá trị trong quyết định hằng ngày",
+        "en": "1. Four values in everyday decisions"
+      },
+      "body": {
+        "vi": "### 1.1. Giá trị phải nhìn thấy qua việc làm\nGiá trị là nguyên tắc định hướng lựa chọn; hành vi là cách những nguyên tắc đó thể hiện trong công việc và quan hệ. Văn hóa đơn vị hình thành từ điều được làm, được khen, bị bỏ qua hoặc được sửa. Một khẩu hiệu đúng không bù được việc báo cáo sai hoặc đối xử thiếu tôn trọng.\n\nKhung UN Values and Behaviours gồm bốn giá trị: Inclusion, Integrity, Humility và Humanity; cùng năm nhóm hành vi liên kết. Người thực hiện cần dùng khung để xem lại quyết định, không chỉ học thuộc tên. Một lựa chọn có thể liên quan nhiều giá trị cùng lúc.\n\n### 1.2. Inclusion: Bao trùm và tôn trọng khác biệt\nBao trùm là tạo cơ hội để những tiếng nói khác nhau được tham gia và được xem xét nghiêm túc. Trong cuộc họp, phân công hoặc tiếp xúc cộng đồng, hỏi ai chưa được nghe và rào cản nào đang tồn tại. Đừng coi cách làm quen thuộc với số đông là phù hợp cho mọi người.\n\nBao trùm không có nghĩa mọi ý kiến đều đúng hoặc bỏ tiêu chuẩn công việc. Cần tiêu chí rõ, cơ hội công bằng và phản hồi có căn cứ. Không loại một người khỏi nhiệm vụ chỉ vì giới, xuất thân hoặc cách nói khi họ có đủ điều kiện vai trò.\n\n### 1.3. Integrity: Liêm chính trong cả việc nhỏ\nLiêm chính thể hiện ở trung thực, nhất quán, tôn trọng quy định và không lợi dụng chức trách. Báo đúng tình trạng thiết bị, ghi đủ việc đã làm, thừa nhận sai và khai báo xung đột lợi ích qua cơ chế áp dụng. Không sửa số liệu để báo cáo đẹp hoặc dùng vật tư công phục vụ lợi ích riêng trái phép.\n\nKhi nhận đề nghị quà, ưu tiên hoặc việc riêng liên quan chức vụ, cần dừng, xác định quy định và báo người có trách nhiệm. Cảm giác mình không bị ảnh hưởng chưa đủ để loại rủi ro xung đột lợi ích. Cách xử lý phải có thể giải thích và kiểm tra.\n\n### 1.4. Humility và Humanity: Khiêm tốn, nhân văn\nKhiêm tốn là nhận ra giới hạn, lắng nghe và sẵn sàng học, không phải thiếu tự tin hoặc né quyết định. Người chỉ huy có thể nói chưa biết, xin chuyên môn và sửa lựa chọn khi có dữ kiện mới. Không bảo vệ một sai sót chỉ vì mình đã ra lệnh.\n\nNhân văn đặt phẩm giá và nhu cầu người được phục vụ ở trung tâm. Người làm nhiệm vụ vẫn cần kiên quyết theo pháp luật, nhưng không làm nhục, đổ lỗi hoặc dùng đau khổ của người khác để thuận tiện công việc. Khi phải lựa chọn, xem ai có thể bị hại và cách giảm điều đó.",
+        "en": "### 1.1. Make values observable\nValues guide choices; behaviours express them in work and relationships. Unit culture reflects what is practised, rewarded, ignored and corrected. Slogans do not compensate for false reporting or disrespect.\n\nThe UN framework connects Inclusion, Integrity, Humility and Humanity with five behaviour areas. Use it to examine decisions rather than memorize labels alone.\n\n### 1.2. Inclusion\nEnable different perspectives and serious consideration. Ask who is unheard and which barriers exist. Familiarity for the majority does not establish accessibility for everyone.\n\nInclusion preserves role standards and evidence-based decisions while ensuring fair opportunity. Do not exclude qualified people through identity-based assumptions.\n\n### 1.3. Integrity\nBe honest, consistent and accountable. Report actual equipment status, record work accurately, acknowledge errors and disclose conflicts through applicable arrangements. Do not manipulate results or misuse public resources.\n\nCheck rules and seek responsible guidance on gifts, favours and private interests. Feeling impartial does not eliminate a conflict risk. Decisions should withstand explanation and review.\n\n### 1.4. Humility and Humanity\nHumility means recognizing limits, listening and learning, not avoiding responsibility. Seek expertise and revise decisions when facts change rather than defending errors.\n\nHumanity puts dignity and people’s needs at the centre. Lawful firmness does not justify humiliation or treating suffering as an administrative inconvenience. Examine who may be harmed and how to reduce it."
+      },
+      "sourceIds": [
+        "C20"
+      ]
+    },
+    {
+      "id": "CORE-13-02",
+      "title": {
+        "vi": "2. Năm nhóm hành vi để thực hiện nhiệm vụ",
+        "en": "2. Five behaviour areas for effective work"
+      },
+      "body": {
+        "vi": "### 2.1. Kết nối và hợp tác\nConnect and Collaborate đòi hỏi trao đổi rõ, hiểu vai trò, tôn trọng chuyên môn và làm việc qua khác biệt. Phối hợp không phải gửi cùng một văn bản tới nhiều nơi rồi mặc định có người xử lý. Phải biết ai nhận trách nhiệm, thông tin nào cần chuyển và khi nào cần cập nhật.\n\nTrong đơn vị đa quốc gia hoặc khi làm với thành phần khác, kiểm tra thuật ngữ và sự hiểu thống nhất. Không dùng khác biệt ngôn ngữ để đánh giá thấp năng lực. Thực hiện phần việc đã cam kết và báo sớm nếu không thể hoàn thành.\n\n### 2.2. Phân tích và lập kế hoạch\nAnalyse and Plan yêu cầu xác định vấn đề, dữ kiện, điều chưa biết, lựa chọn và hệ quả. Tránh chỉ tìm thông tin củng cố ý kiến có sẵn. Kế hoạch cần mục tiêu, nguồn lực, phân công và điều kiện đánh giá lại; dự kiến một nguồn hỗ trợ không đồng nghĩa nguồn đó đã sẵn sàng.\n\nKhi tình hình đổi, cập nhật và giải thích thay đổi. Một kế hoạch nhiều trang nhưng không ai hiểu việc mình phải làm chưa thể coi là tốt. Hỏi người nhận hiểu gì là phần của trách nhiệm lập kế hoạch.\n\n### 2.3. Tạo kết quả có tác động tích cực\nDeliver Results with Positive Impact chú ý điều công việc cải thiện cho người được phục vụ. Hoàn thành số lượt hoặc đủ hồ sơ là đầu ra; khả năng tiếp cận, mức an toàn hoặc chất lượng dịch vụ là những kết quả cần xem. Không đạt chỉ tiêu bằng cách bỏ qua tác động gây hại.\n\nBáo cả hạn chế và kết quả ngoài dự kiến. Việc chưa đạt mục tiêu cần được phân tích, không che bằng con số hoạt động. Người quản lý phải tạo điều kiện để cán bộ nêu khó khăn thật thay vì chỉ nhận tin tốt.\n\n### 2.4. Học hỏi, phát triển, thích ứng và đổi mới\nLearn and Develop là chủ động tìm phản hồi, nâng năng lực và chuyển bài học thành thay đổi cụ thể. Adapt and Innovate là điều chỉnh có căn cứ, thử cách tốt hơn và học từ kết quả. Đổi mới không phải tự bỏ quy trình bảo mật hoặc thử công cụ mới với dữ liệu nhạy cảm khi chưa được phép.\n\nSau nhiệm vụ, chọn lỗi cần sửa, giao người và kiểm chứng lại. Khi áp dụng công nghệ, xác định mục đích, dữ liệu, giới hạn và người chịu trách nhiệm. Mới hơn không tự tốt hơn; giải pháp phải phù hợp người sử dụng và nhiệm vụ.",
+        "en": "### 2.1. Connect and collaborate\nCommunicate clearly, understand roles and respect expertise. Broad circulation does not establish action: Identify ownership, necessary information and updates.\n\nCheck terminology across languages and components. Do not equate language differences with incompetence. Keep commitments and report foreseeable failure early.\n\n### 2.2. Analyse and plan\nDefine problems, evidence, uncertainty, options and effects. Check confirmation bias. Assign objectives, resources, responsibilities and review conditions; proposed support is not confirmed readiness.\n\nUpdate changed assumptions and verify recipients’ understanding. Length does not establish plan quality.\n\n### 2.3. Deliver results with positive impact\nDistinguish completed activities from improved access, safety and service quality. Targets do not justify harmful shortcuts.\n\nReport limitations and unintended effects. Managers need honest information rather than activity counts concealing unmet objectives.\n\n### 2.4. Learn, develop, adapt and innovate\nSeek feedback, build competence and translate lessons into corrections. Adapt through evidence and accountable testing. Innovation does not authorize bypassing privacy or using sensitive information in unapproved tools.\n\nAssign corrective work and verification. Newer solutions must still suit users, safeguards and tasks."
+      },
+      "sourceIds": [
+        "C21"
+      ]
+    },
+    {
+      "id": "CORE-13-03",
+      "title": {
+        "vi": "3. Chuẩn mực ứng xử và kỷ luật",
+        "en": "3. Conduct standards and discipline"
+      },
+      "body": {
+        "vi": "### 3.1. Trách nhiệm không chỉ trong giờ làm\nNhân sự phục vụ với UN phải tuân thủ chuẩn mực liên quan cả công vụ và hành vi cá nhân trong phạm vi áp dụng. Không coi ngoài doanh trại hoặc hết ca là hết trách nhiệm. Sử dụng xe, thiết bị, thông tin, quan hệ với cộng đồng và cách hành xử trên mạng đều có thể ảnh hưởng người khác và nhiệm vụ.\n\nCần biết quy định phái bộ về an ninh, đi lại, tài sản, hành vi và báo cáo. Quy định khác nhau về mục đích hoặc phạm vi nên phải đọc đúng, không truyền lại một lời đồn như chỉ thị. Khi chưa rõ, hỏi đầu mối có thẩm quyền thay vì tự chọn cách thuận tiện.\n\n### 3.2. Vi phạm được đánh giá theo hành vi và cơ chế\nMisconduct là không thực hiện nghĩa vụ hoặc không tuân chuẩn mực, quy định áp dụng. Một hành vi có thể dẫn tới trách nhiệm hành chính, kỷ luật hoặc hình sự tùy tính chất, địa vị pháp lý và cơ chế có thẩm quyền. Không mặc định mọi loại nhân sự chịu cùng một quy trình hoặc cùng một hình thức xử lý.\n\nQuyền ưu đãi và miễn trừ không phải quyền được vi phạm. Những vấn đề pháp lý phải được xử lý qua cơ quan có trách nhiệm, không dùng cách nói miễn trừ để ngăn tiếp nhận phản ánh hoặc từ chối hợp tác với cơ chế được phép.\n\n### 3.3. Tôn trọng đồng nghiệp và người dân\nKhông phân biệt đối xử, quấy rối, lạm dụng quyền hoặc trả đũa. Một lời đùa, tin nhắn hoặc cách phân việc có thể gây hại dù người thực hiện nói không có ý. Cần nghe tác động và xử lý theo căn cứ, không buộc người bị ảnh hưởng chịu đựng để giữ đoàn kết.\n\nKhông công khai hồ sơ, ảnh riêng hoặc cáo buộc trong nhóm rộng để răn đe. Thông tin liên quan phản ánh cần tới đúng nơi và được bảo vệ. Môi trường làm việc tôn trọng giúp người phát hiện lỗi báo sớm và hỗ trợ nhiệm vụ an toàn hơn.\n\n### 3.4. Biết cách báo một vấn đề\nPhân biệt tình huống khẩn cần bảo vệ ngay với quy trình gửi phản ánh, nhưng không để một việc làm mất việc kia. Dùng đầu mối conduct and discipline, tuyến chỉ huy hoặc cơ chế phù hợp; khi tuyến gần có xung đột, sử dụng lựa chọn được quy định khác.\n\nBáo trung thực điều biết và điều chưa biết. Không tự điều tra để quyết định người khác có xứng đáng được tiếp nhận không. Người báo thiện chí cần được bảo vệ theo cơ chế áp dụng; kết quả chưa chứng minh cáo buộc không tự có nghĩa báo sai có ác ý.",
+        "en": "### 3.1. Responsibilities extend beyond duty hours\nApplicable UN conduct obligations include relevant personal behaviour as well as official work. Off-duty status does not remove all responsibilities. Vehicles, equipment, information, community relationships and online conduct can affect others and the mission.\n\nKnow actual mission instructions. Verify uncertainty through responsible contacts rather than treating rumours as orders.\n\n### 3.2. Assess conduct through proper mechanisms\nMisconduct involves failures of obligations or applicable standards. Administrative, disciplinary and criminal responsibility depend on conduct, status and competent processes. Different personnel categories do not necessarily share one procedure.\n\nPrivileges and immunities do not authorize wrongdoing. Refer legal questions properly rather than using immunity to obstruct complaints or authorized cooperation.\n\n### 3.3. Respect colleagues and communities\nPrevent discrimination, harassment, abuse and retaliation. Claimed good intentions do not erase effects of jokes, messages or assignments. Do not demand silence for unit cohesion.\n\nProtect complaints and private records from public circulation. Respectful environments encourage early reporting and safer work.\n\n### 3.4. Report responsibly\nActivate urgent protection and appropriate reporting without substituting one for the other. Use designated conduct channels, command or permitted alternatives where conflicts exist.\n\nDistinguish known information and uncertainty. Do not pre-investigate eligibility to report. An unsubstantiated allegation does not itself prove bad-faith reporting."
+      },
+      "sourceIds": [
+        "C22"
+      ]
+    },
+    {
+      "id": "CORE-13-04",
+      "title": {
+        "vi": "4. SEA: Nhận diện và các hành vi bị cấm",
+        "en": "4. SEA: Recognition and prohibited conduct"
+      },
+      "body": {
+        "vi": "### 4.1. Bóc lột và xâm hại tình dục\nSexual exploitation là lợi dụng hoặc tìm cách lợi dụng tình trạng dễ bị tổn thương, chênh lệch quyền lực hoặc lòng tin cho mục đích tình dục, kể cả thu lợi cho mình hoặc người khác. Sexual abuse là xâm phạm tình dục thực tế hoặc đe dọa, bằng sức mạnh hoặc trong điều kiện bất bình đẳng hay cưỡng ép. Không chỉ nhìn có sử dụng bạo lực thể chất hay không.\n\nNhân sự UN có thể nắm nguồn lực, khả năng giúp hoặc vị thế người khác phụ thuộc. Câu trả lời có vẻ đồng ý không tự loại bỏ việc lợi dụng quan hệ quyền lực. Không dùng ý định giúp đỡ để biện minh hành vi khai thác sự lệ thuộc.\n\n### 4.2. Trẻ em và giao dịch đổi tình dục\nHoạt động tình dục với người dưới 18 tuổi bị cấm theo chuẩn mực UN được học trong chương trình. Tuổi đồng thuận thấp hơn ở địa bàn không làm hành vi được phép; nhầm tuổi không phải căn cứ bào chữa. Không dùng người lớn hoặc trẻ em để tìm người cung cấp tình dục cho mình hay người khác.\n\nKhông đổi tiền, việc làm, hàng hóa, lương thực, trợ giúp hoặc dịch vụ lấy tình dục hay ưu đãi tình dục. Không mua dâm, kể cả nơi dung thứ hoặc cho phép. Đổi tên khoản tiền thành quà hoặc dùng trung gian không làm thay đổi tính chất hành vi.\n\n### 4.3. Quan hệ với người thụ hưởng và quy định về quan hệ cá nhân\nQuan hệ với người nhận hỗ trợ chứa chênh lệch quyền lực và có thể làm suy yếu sự liêm chính, tin cậy. Với nhân sự mặc đồng phục, quan hệ tình dục với người thụ hưởng trợ giúp bị cấm theo quy định không kết giao áp dụng; không lấy cách diễn đạt khuyến cáo cho một nhóm nhân sự khác để tự cho mình ngoại lệ.\n\nKhi cần làm rõ phạm vi quan hệ cá nhân, hỏi đầu mối conduct and discipline về quy định đang áp dụng cho mình. Việc khai báo quan hệ không tự tạo chấp thuận cho hành vi bị cấm. Không tự đặt thỏa thuận riêng nhằm bỏ qua tiêu chuẩn UN.\n\n### 4.4. Không dung thứ và thủ tục công bằng\nKhông dung thứ nghĩa hành vi SEA không được chấp nhận và cáo buộc phải được tiếp nhận, xử lý có trách nhiệm. Không có nghĩa mọi cáo buộc tự là kết luận có tội, hoặc người tiếp nhận có thể công khai danh tính và tự áp hình phạt.\n\nCần hỗ trợ người bị ảnh hưởng, bảo toàn thông tin, báo qua kênh đúng và hợp tác với cơ chế được phép. Không hoãn trợ giúp cho tới khi kết thúc điều tra. Trách nhiệm bảo vệ và yêu cầu xác minh công bằng cùng phải được duy trì.",
+        "en": "### 4.1. Exploitation and abuse\nSexual exploitation abuses or attempts to abuse vulnerability, unequal power or trust for sexual purposes, including benefit to others. Sexual abuse involves actual or threatened sexual intrusion through force or unequal or coercive conditions. Physical violence is not the only consideration.\n\nUN personnel can control resources and opportunities. Apparent agreement does not eliminate exploitation of dependency. Claimed helpful intentions cannot justify abuse of power.\n\n### 4.2. Children and transactional sex\nUN training standards prohibit sexual activity with anyone under 18; lower local consent ages and mistaken age beliefs do not excuse it. Never use adults or children to procure sex for anyone.\n\nDo not exchange money, jobs, goods, food, assistance or services for sex or sexual favours. Sex with sex workers is prohibited even where locally tolerated or legal. Gifts and intermediaries do not change the nature of a transaction.\n\n### 4.3. Beneficiaries and personal relationships\nRelationships with assistance beneficiaries carry unequal power and credibility risks. For uniformed personnel, sexual relationships with assistance beneficiaries are prohibited under applicable non-fraternization rules. Do not borrow advice addressed to another personnel category.\n\nSeek conduct guidance on rules applying to your status. Disclosure cannot authorize prohibited conduct or replace UN standards with private agreements.\n\n### 4.4. Zero tolerance and fair process\nSEA is unacceptable and allegations require responsible handling. Zero tolerance does not establish automatic guilt, authorize publication of identities or permit improvised punishment.\n\nAssist affected people, preserve information, report properly and cooperate with authorized processes. Care must not wait for completed investigation. Protection and fair examination must both continue."
+      },
+      "sourceIds": [
+        "C23"
+      ]
+    },
+    {
+      "id": "CORE-13-05",
+      "title": {
+        "vi": "5. Khi biết hoặc nghi có SEA",
+        "en": "5. When SEA is known or suspected"
+      },
+      "body": {
+        "vi": "### 5.1. Báo ngay, không tự xác minh trước\nNhân sự UN có nghĩa vụ báo nghi ngờ, quan ngại hoặc thông tin về SEA qua cơ chế áp dụng. Không chờ có chứng cứ hoàn chỉnh hoặc đợi người bị phản ánh tự giải thích. Vai trò tiếp nhận không bao gồm quyết định cáo buộc đủ mạnh mới được chuyển.\n\nBáo điều đã biết, nguồn và điều chưa rõ. Khi có thể, nêu ai, việc gì, ở đâu và khi nào; không cần ép người kể bổ sung mọi chi tiết mới gửi. Không đối chất hoặc cảnh báo người bị nghi theo sáng kiến cá nhân vì có thể làm tăng nguy cơ và ảnh hưởng xác minh.\n\n### 5.2. Dùng đúng kênh và lựa chọn thay thế\nTrong phái bộ, conduct and discipline team hoặc focal point là đầu mối quan trọng. Tuyến chỉ huy phù hợp, lãnh đạo có trách nhiệm hoặc OIOS là các kênh theo cơ chế được quy định. Cần biết đường báo hiện hành trước nhiệm vụ; không sao chép số điện thoại của một phái bộ khác thành đầu mối cho đơn vị mình.\n\nNếu người trong tuyến gần bị phản ánh hoặc không xử lý, dùng kênh thay thế được phép. Không bắt người báo xin chấp thuận của chính người bị phản ánh. Báo cáo có thể theo hình thức ẩn danh trong cơ chế hỗ trợ; điều đó không cho phép bịa thông tin hoặc hứa mọi dữ liệu sẽ tuyệt đối không thể lộ.\n\n### 5.3. Tiếp nhận tôn trọng và trợ giúp kịp thời\nKiểm tra nhu cầu an toàn, y tế hoặc hỗ trợ cấp thiết và kết nối dịch vụ phù hợp. Giải thích vai trò, nghĩa vụ báo, cách dùng thông tin cùng giới hạn bảo mật. Không hứa giữ kín với mọi người khi có nghĩa vụ chuyển cho người có trách nhiệm.\n\nTrợ giúp không được đặt điều kiện phải cung cấp đủ bằng chứng, đối chất hoặc đồng ý công bố câu chuyện. Với trẻ em, phối hợp chuyên môn bảo vệ trẻ, lợi ích tốt nhất và quy trình áp dụng. Không ép hòa giải, xin lỗi riêng hoặc bồi thường không chính thức để thay báo cáo.\n\n### 5.4. Bảo vệ dữ liệu và chống trả đũa\nChỉ chuyển thông tin cần thiết tới người có quyền nhận; bảo vệ ghi chép, ảnh và hồ sơ. Không đưa cáo buộc vào nhóm rộng, không dùng ảnh người bị ảnh hưởng cho truyền thông nội bộ. Giữ vật, dữ liệu liên quan theo hướng dẫn có trách nhiệm, không tự sửa hoặc xóa.\n\nBáo đe dọa hoặc trả đũa qua cơ chế áp dụng. Không gây bất lợi về phân công, đánh giá, cơ hội học hoặc quan hệ tập thể vì một người báo thiện chí. Bảo vệ người báo và nhân chứng là phần của trách nhiệm quản lý, không phải việc tùy chọn sau điều tra.",
+        "en": "### 5.1. Report promptly without self-verification\nUN personnel must report concerns or information through applicable mechanisms. Do not wait for complete proof or the alleged perpetrator’s explanation. Reception does not authorize screening out allegations through personal investigation.\n\nState known facts, sources and uncertainty, including who, what, where and when if available. Do not compel extra detail before reporting or independently confront suspects.\n\n### 5.2. Use established and alternative channels\nConduct and discipline teams or focal points, appropriate command and authorized oversight channels such as OIOS have relevant roles. Know current local routes; another mission’s contact details are not your unit’s mechanism.\n\nUse permitted alternatives where immediate command is implicated or fails to act. Never require approval from the subject of a complaint. Anonymous reporting mechanisms do not authorize fabricated information or promises of absolute secrecy.\n\n### 5.3. Receive respectfully and connect care\nAddress urgent safety and care needs. Explain roles, reporting obligations, information use and confidentiality limits. Do not promise secrecy inconsistent with duties.\n\nDo not condition assistance on proof, confrontation or publicity. Use child-protection expertise where needed. Private apologies, mediation or unofficial settlements cannot replace reporting.\n\n### 5.4. Protect data and prevent retaliation\nShare only necessary information with authorized recipients. Protect records and preserve relevant material under instructions. Do not publicize allegations or survivor images in broad groups.\n\nReport threats and retaliation through appropriate mechanisms. Do not penalize good-faith reporting through assignments, assessments, training access or social exclusion. Protection is an ongoing leadership duty."
+      },
+      "sourceIds": [
+        "C23"
+      ]
+    },
+    {
+      "id": "CORE-13-06",
+      "title": {
+        "vi": "6. Người quản lý và văn hóa trách nhiệm",
+        "en": "6. Leadership and an accountable culture"
+      },
+      "body": {
+        "vi": "### 6.1. Làm rõ chuẩn mực trước khi có vi phạm\nPhổ biến quy định, đầu mối, giới hạn hành vi và trách nhiệm báo cho mọi người, kể cả khi luân chuyển hoặc đổi ca. Kiểm tra hiểu bằng câu hỏi thực tế, không chỉ chữ ký đã nghe. Cán bộ cần biết làm gì khi chính người có cấp bậc cao bị phản ánh.\n\nNgười quản lý phải nêu gương về tài sản, dữ liệu, quan hệ và cách ứng xử. Nếu quy định được nhắc nhưng hành vi trái vẫn được bỏ qua cho người quen, thông điệp thực tế sẽ là quy định có ngoại lệ theo vị trí. Văn hóa trách nhiệm đòi hỏi nhất quán.\n\n### 6.2. Nhận diện điều kiện làm tăng nguy cơ\nXem các quan hệ nắm nguồn lực, tiếp xúc phụ thuộc, thiếu giám sát hoặc kênh báo không an toàn. Điều chỉnh quản lý dựa trên căn cứ mà không giám sát đời tư vô hạn hoặc phân biệt đối xử. Biện pháp phòng ngừa phải bảo vệ người dân và nhân sự, không chỉ bảo vệ hình ảnh đơn vị.\n\nKhông lấy việc chưa có đơn làm chứng cứ chắc chắn đơn vị không có vấn đề. Có thể người dân không biết báo, không tin sẽ được nghe hoặc sợ hậu quả. Cần kiểm tra khả năng tiếp cận và phản hồi qua cơ chế phù hợp.\n\n### 6.3. Theo dõi việc xử lý trong phạm vi vai trò\nKhi có phản ánh, bảo đảm thông tin tới đầu mối, người cần giúp được kết nối và việc chống trả đũa được duy trì. Người chỉ huy không tự đòi mọi chi tiết điều tra hoặc hồ sơ y tế để kiểm soát tiến trình. Tôn trọng ranh giới chuyên môn và quyền tiếp cận dữ liệu.\n\nHợp tác với điều tra hoặc kiểm tra được phép; không thống nhất lời khai, gây áp lực nhân chứng hoặc xóa dấu vết. Báo trung thực phần đơn vị biết và thực hiện yêu cầu có thẩm quyền. Không dùng thành tích trước đây để thay đánh giá hành vi đang được phản ánh.\n\n### 6.4. Biến bài học thành hành động\nNếu một lỗi phát hiện muộn vì đầu mối không rõ, sửa hướng dẫn và kiểm chứng người trực biết dùng. Nếu người báo bị cô lập, xem trách nhiệm quản lý và môi trường, không chỉ nhắc mọi người đoàn kết. Giao việc cụ thể và theo dõi kết quả.\n\nGiá trị, hành vi, ứng xử và kỷ luật là một hệ thống: Nguyên tắc định hướng; hành động thể hiện; cơ chế trách nhiệm bảo đảm chúng được thực hiện. Người học phải nêu được cách lựa chọn trung thực, tôn trọng và báo đúng trong công việc hằng ngày.",
+        "en": "### 6.1. Establish standards before violations\nBrief rules, contacts, limits and reporting duties across rotations and shifts. Verify practical understanding, including complaints involving senior personnel.\n\nModel standards in resources, data, relationships and conduct. Selective enforcement teaches that rank or familiarity creates exceptions. Accountability requires consistency.\n\n### 6.2. Address risk conditions\nReview resource dependency, unequal power, weak oversight and unsafe reporting. Use proportionate prevention without unlimited intrusion or discrimination. Protect people rather than appearances alone.\n\nAbsence of complaints does not prove absence of problems. Examine awareness, trust, safety and accessible channels.\n\n### 6.3. Follow up within your role\nEnsure responsible receipt, assistance and retaliation safeguards. Commanders do not need every investigative or clinical detail. Respect professional and information boundaries.\n\nCooperate with authorized inquiries without aligning testimony, pressuring witnesses or destroying records. Prior achievements do not determine the truth of a current allegation.\n\n### 6.4. Turn findings into correction\nRepair unclear contacts and verify use. Address exclusion of complainants through management responsibility rather than cohesion slogans. Assign concrete actions and monitor results.\n\nValues guide, behaviours express and accountability mechanisms sustain standards. Demonstrate honest, respectful choices and proper reporting in daily work."
+      },
+      "sourceIds": [
+        "C20",
+        "C21",
+        "C22",
+        "C23"
+      ]
+    }
+  ],
+  "source_ids": [
+    "C20",
+    "C21",
+    "C22",
+    "C23"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "Inclusion / Integrity",
+      "definition": {
+        "vi": "Bao trùm / liêm chính.",
+        "en": "Inclusion / integrity in action."
+      }
+    },
+    {
+      "term": "Humility / Humanity",
+      "definition": {
+        "vi": "Khiêm tốn / nhân văn.",
+        "en": "Humility / humanity in action."
+      }
+    },
+    {
+      "term": "SEA",
+      "definition": {
+        "vi": "Bóc lột và xâm hại tình dục.",
+        "en": "Sexual exploitation and abuse."
+      }
+    },
+    {
+      "term": "CDT / OIOS",
+      "definition": {
+        "vi": "Đầu mối ứng xử, kỷ luật / Văn phòng Dịch vụ Giám sát Nội bộ UN.",
+        "en": "Conduct and Discipline Team / Office of Internal Oversight Services."
+      }
+    },
+    {
+      "term": "Retaliation",
+      "definition": {
+        "vi": "Trả đũa liên quan báo thiện chí hoặc hợp tác cơ chế được phép.",
+        "en": "Retaliation connected with good-faith reporting or authorized cooperation."
+      }
+    }
+  ],
+  "diagram": null,
+  "contentVersion": "batch-07-expanded-v1-2026-10-29",
+  "sourceIntro": {
+    "vi": "Tài liệu nền, đối chiếu theo mục và ghi chú phiên bản. Lời giảng, bản Anh, câu hỏi và chú thích được biên soạn cho Handbook. Mã bài là cách tổ chức của Handbook.",
+    "en": "Foundational materials, section mapping and edition notes. Teaching, English text, questions and commentary are authored for the Handbook. Lesson numbering belongs to the Handbook."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Bản biên soạn đợt 7 ngày 29/10/2026, chờ người dùng duyệt; không phải ấn phẩm hoặc bản dịch chính thức UN. Mã bài thuộc cách tổ chức Handbook, không phải số bài CPTM.",
+      "Nền chính là giáo án CPTM UN 2025 đã đọc trực tiếp từ PDF trong gói chính thức. Ánh xạ chỉ cơ sở kiến thức theo mục, không phải mọi câu là trích nguyên văn. Hình là vùng slide gốc có tên tài liệu, trang PDF và lời giảng riêng Việt–Anh.",
+      "Giữ bốn tab, Tahoma 14px, giãn dòng 1.75 và căn đều phần thân theo mẫu. Nội dung không thay quy định, mandate, SOP và hướng dẫn áp dụng tại phái bộ; không xác nhận chuyên môn hoặc thay huấn luyện thực hành.",
+      "Dùng bốn giá trị và năm nhóm hành vi trong khung được CPTM 2025 giảng; không nhầm với danh sách giá trị/năng lực cũ. Các cấm SEA theo CPTM 3.3, gồm quy định với nhân sự mặc đồng phục; không coi hợp pháp địa phương là ngoại lệ. Không dung thứ không thay thủ tục công bằng. Đầu mối báo phải xác nhận tại phái bộ, không dùng danh sách một phái bộ khác làm đường báo chung."
+    ],
+    "en": [
+      "Batch 7 authored on 29 October 2026 for user review; not an official UN publication or translation. Handbook identifiers are not CPTM lesson numbers.",
+      "The main foundation is UN CPTM 2025 lesson PDFs read from official packages. Mapping identifies section foundations rather than verbatim support for every sentence. Figures are original slide regions with source, PDF page and separate bilingual teaching.",
+      "The four-tab Tahoma 14px interface, 1.75 line height and justified body follow the sample. Content does not replace applicable rules, mandate, SOPs or mission guidance and provides no specialist certification.",
+      "The four-value, five-behaviour framework follows CPTM 2025 rather than mixing older lists. SEA prohibitions follow CPTM 3.3, including uniformed-personnel rules; local legality is not an exception. Zero tolerance does not replace fair process. Verify mission reporting contacts rather than universalize another mission’s directory."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bài học đặt giá trị và hành vi UN vào quyết định hằng ngày, nối với chuẩn mực ứng xử, kỷ luật, phòng ngừa SEA và trách nhiệm báo cáo, bảo vệ, quản lý.",
+      "en": "Apply UN values and behaviours to everyday decisions, conduct, discipline, SEA prevention, reporting, protection and leadership."
+    },
+    "subtitle": {
+      "vi": "Giá trị thành hành động · Báo đúng · Bảo vệ có trách nhiệm",
+      "en": "Values into action · Proper reporting · Accountable protection"
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích bốn giá trị và năm nhóm hành vi qua việc làm cụ thể.",
+        "Nhận diện chuẩn mực và cơ chế ứng xử, kỷ luật.",
+        "Giải thích SEA, chênh lệch quyền lực và hành vi bị cấm.",
+        "Báo nghi ngờ qua kênh phù hợp, bảo vệ người và dữ liệu.",
+        "Phân biệt không dung thứ, thủ tục công bằng và trách nhiệm quản lý."
+      ],
+      "en": [
+        "Explain four values and five behaviour areas through actions.",
+        "Identify conduct standards and accountability mechanisms.",
+        "Explain SEA, unequal power and prohibited conduct.",
+        "Report concerns appropriately and protect people and data.",
+        "Distinguish zero tolerance, fair process and leadership duties."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc sáu mục trong tab Nội dung bài học và lời giảng kèm hình; bấm hình để xem lớn. Làm 12 câu kiểm tra nhận thức, đọc giải thích và trở lại mục liên quan. VI/EN giữ lựa chọn trong phiên; tải lại trang bắt đầu lại.",
+      "en": "Read six content sections and figure commentary; click figures to enlarge. Complete 12 knowledge questions, review explanations and revisit relevant sections. VI/EN retains selections in the session; reloading starts again."
+    }
+  },
+  "figures": [
+    {
+      "chapter": 0,
+      "image": "assets/lesson-figures/batch-07/C20-p7.png",
+      "caption": {
+        "vi": "Hình 1. Khung giá trị và hành vi UN",
+        "en": "Figure 1. UN values and behaviours framework"
+      },
+      "alt": {
+        "vi": "Hình 1. Khung giá trị và hành vi UN",
+        "en": "Figure 1. UN values and behaviours framework"
+      },
+      "explanation": {
+        "vi": "Bốn giá trị nằm trong vòng hành vi vì chúng cần được thể hiện khi hợp tác, phân tích, tạo kết quả, học và thích ứng. Hãy chọn một việc như báo thiếu trang bị: Trung thực tình trạng, nghe chuyên môn và giao khắc phục cho thấy nhiều giá trị cùng hoạt động.",
+        "en": "Values sit within the behaviour framework because collaboration, analysis, delivery, learning and adaptation express them. Honest readiness reporting, specialist listening and assigned correction demonstrate several values together."
+      },
+      "sourceLabel": "UN CPTM 2025 · 3.1 UN Values and Behaviours, Part 1",
+      "pdfPage": 7
+    },
+    {
+      "chapter": 3,
+      "image": "assets/lesson-figures/batch-07/C23-p9.png",
+      "caption": {
+        "vi": "Hình 2. Những hành vi SEA bị cấm",
+        "en": "Figure 2. Prohibited SEA conduct"
+      },
+      "alt": {
+        "vi": "Hình 2. Những hành vi SEA bị cấm",
+        "en": "Figure 2. Prohibited SEA conduct"
+      },
+      "explanation": {
+        "vi": "Các ý là giới hạn bắt buộc, không phải lựa chọn tùy văn hóa địa bàn. Đổi tiền thành quà hoặc nhờ trung gian không làm hành vi được phép. Khi có nghi ngờ phải báo đúng kênh, đồng thời bảo vệ người bị ảnh hưởng; hình không cho phép người tiếp nhận tự kết tội.",
+        "en": "These are binding boundaries, not local cultural options. Gifts and intermediaries do not legalize prohibited conduct. Report concerns properly while protecting affected people; the slide does not authorize recipients to determine guilt."
+      },
+      "sourceLabel": "UN CPTM 2025 · 3.3 Sexual Exploitation and Abuse",
+      "pdfPage": 9
+    }
+  ],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft",
+  "figureZoom": true
+}

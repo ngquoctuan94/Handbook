@@ -1,0 +1,653 @@
+{
+  "schemaVersion": 2,
+  "id": "CORE-14",
+  "area": "core",
+  "groupKey": "CORE-M2",
+  "group": {
+    "vi": "Mandate, bảo vệ và các ưu tiên",
+    "en": "Mandates, protection and priorities"
+  },
+  "title": {
+    "vi": "Truyền thông chiến lược và tính toàn vẹn thông tin",
+    "en": "Strategic communications and information integrity"
+  },
+  "summary": {
+    "vi": "Bài học kết nối mục tiêu truyền thông, kiểm chứng dữ kiện, nhận diện thông tin gây hại, chọn phản hồi và đánh giá tác động. Tính chính xác đi cùng quyền, bảo mật và trách nhiệm sửa sai.",
+    "en": "Connect communication objectives, verification, information-harm assessment, response and evaluation. Accuracy works with rights, confidentiality and correction."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "C18",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-422%20Lesson%202.9%20Strategic%20Communication%20and%20Information%20Integrity.zip",
+  "order": 207,
+  "sections": [
+    {
+      "id": "CORE-14-01",
+      "title": {
+        "vi": "1. Truyền thông chiến lược phục vụ nhiệm vụ",
+        "en": "1. Strategic communication serves the mission"
+      },
+      "body": {
+        "vi": "### 1.1. Bắt đầu từ kết quả cần tạo\nTruyền thông chiến lược kết nối mục tiêu nhiệm vụ, người cần tiếp cận, nội dung, hành động và phản hồi. Không chỉ là đăng tin hoạt động hoặc làm hình ảnh đẹp. Trong gìn giữ hòa bình, người dân cần hiểu phái bộ có thể làm gì, giới hạn nào tồn tại và cách tiếp cận trợ giúp hoặc phản ánh.\n\nMột mục tiêu rõ có thể là giúp cư dân biết đầu mối dịch vụ đã xác nhận hoặc hiểu thay đổi an toàn liên quan hoạt động. Số lượt đăng là đầu ra; người nhận hiểu và sử dụng được thông tin mới gần với kết quả cần đạt. Chọn chỉ số theo mục tiêu trước khi chọn định dạng bài viết hay video.\n\n### 1.2. Việc làm và thông điệp phải nhất quán\nLời nói về tôn trọng không tạo tin cậy nếu cách tiếp xúc thực tế thô lỗ. Hứa vượt khả năng có thể tạo kỳ vọng rồi làm mất niềm tin. Mọi thành viên góp phần vào truyền thông qua hành vi, việc giữ cam kết và cách giải thích vai trò.\n\nKhi đơn vị có sai sót, ưu tiên báo trung thực qua cơ chế và xử lý hậu quả. Không dùng truyền thông để che một vấn đề cần sửa. Đính chính và hành động khắc phục có trách nhiệm thường có ý nghĩa hơn việc chỉ lặp lại thông điệp tích cực.\n\n### 1.3. Hiểu người nhận và rào cản tiếp cận\nXác định ngôn ngữ, mức hiểu, kênh tin cậy, khả năng đọc, thiết bị và điều kiện an toàn. Người có điện thoại chưa chắc có dữ liệu mạng; người có mặt chưa chắc nghe loa; một ngôn ngữ chính thức chưa chắc được mọi nhóm hiểu. Không lấy kênh đơn vị tiện dùng làm kênh duy nhất.\n\nLắng nghe câu hỏi và phản ánh để biết thông tin nào đang thiếu. Người dân có thể không cần biết tên một hoạt động nội bộ mà cần biết dịch vụ ở đâu, khi nào và điều kiện gì. Trình bày theo nhu cầu sử dụng, không theo thứ tự tổ chức của đơn vị.\n\n### 1.4. Phối hợp toàn phái bộ\nBộ phận truyền thông, các thành phần nhiệm vụ và lãnh đạo có trách nhiệm khác nhau. Nhân sự cảnh sát cần biết thông tin nào được chia sẻ, ai phát ngôn và cách chuyển câu hỏi ngoài vai trò. Không tự đưa một nhận định cá nhân thành lập trường UN.\n\nPhối hợp không có nghĩa mọi người đều im lặng trước nhu cầu an toàn khẩn. Cần cơ chế đã thống nhất để báo và chuyển thông tin kịp thời. Một lời nhắn “đang xác minh” đúng phạm vi có thể tốt hơn kết luận vội hoặc lời hứa không có căn cứ.",
+        "en": "### 1.1. Begin with intended outcomes\nStrategic communication connects mission objectives, audiences, messages, actions and feedback. It is more than activity publicity. People need understandable roles, limits and routes to assistance or complaints.\n\nDefine outcomes before formats. Posts are outputs; understanding and appropriate use of information are closer to results.\n\n### 1.2. Align conduct and messages\nRespectful claims fail when behaviour contradicts them. Unconfirmed promises undermine trust. Every member communicates through conduct, explanations and reliable commitments.\n\nReport errors and address consequences through proper mechanisms rather than using publicity to conceal them. Accountable correction matters more than repeated positive claims.\n\n### 1.3. Understand audience access\nAssess language, comprehension, trusted channels, literacy, devices and safety. Phone ownership does not establish internet access; presence does not establish hearing. Do not rely solely on organizational convenience.\n\nListen for missing information and communicate according to practical needs rather than internal organizational order.\n\n### 1.4. Coordinate across the mission\nKnow disclosure rules, spokesperson roles and referral contacts. Personal opinions are not UN positions.\n\nCoordination must enable timely safety information. An accurate statement that verification continues can be preferable to unsupported certainty or promises."
+      },
+      "sourceIds": [
+        "C18"
+      ]
+    },
+    {
+      "id": "CORE-14-02",
+      "title": {
+        "vi": "2. Nhận diện vấn đề thông tin mà không gán ý định",
+        "en": "2. Identify information problems without assuming intent"
+      },
+      "body": {
+        "vi": "### 2.1. Misinformation và disinformation\nMisinformation là thông tin không chính xác được chia sẻ bởi người không biết nó sai. Disinformation là thông tin sai hoặc bị thao túng được tạo hoặc truyền có chủ ý đánh lừa. Cùng một nội dung có thể bắt đầu từ người cố ý rồi được người khác tin thật và chia lại.\n\nVì vậy, xác định nội dung sai khác với chứng minh ý định người chia sẻ. Khi chưa đủ căn cứ về ý định, mô tả điều chưa chính xác, bằng chứng và mức xác minh. Không gọi người hỏi lại một tin là kẻ phát tán có ác ý chỉ vì câu hỏi gây khó chịu.\n\n### 2.2. Hate speech liên quan tấn công căn tính\nTheo cách tiếp cận UN, ngôn từ kích động thù hận có thể xuất hiện qua lời nói, chữ viết hoặc hành vi tấn công, dùng ngôn ngữ miệt thị hay phân biệt đối xử dựa vào căn tính như tôn giáo, dân tộc, quốc tịch, chủng tộc hoặc giới. Cần xem nội dung, bối cảnh và tác động, không chỉ một từ tách rời.\n\nKhái niệm thông tin gây hại và kết luận hành vi vi phạm pháp luật không đồng nhất. Nhận định pháp lý cần cơ quan có thẩm quyền. Người làm nhiệm vụ ghi và báo theo cơ chế, không tự dùng nhãn hate speech để hạn chế mọi ý kiến trái chiều.\n\n### 2.3. Phê bình không tự là thông tin sai lệch\nMột phản ánh tiêu cực có thể đúng, sai một phần, thiếu bối cảnh hoặc là ý kiến. Cần phân biệt mệnh đề kiểm chứng được với đánh giá và cảm xúc. Người dân không đồng ý với phái bộ không chứng minh họ bị điều khiển hoặc có ý định thù địch.\n\nNếu phản ánh cho thấy dịch vụ chưa tới hoặc hành vi ứng xử chưa đúng, phải chuyển xử lý phần thực chất. Không chỉ tìm cách thay hình ảnh trong khi vấn đề gây bất mãn vẫn còn. Bảo vệ quyền biểu đạt và tiếp cận thông tin là phần của cách ứng phó có trách nhiệm.\n\n### 2.4. Thông tin thật vẫn có thể gây hại\nMột danh sách thật, ảnh thật hoặc vị trí thật có thể làm lộ người cần bảo vệ, dữ liệu cá nhân hoặc hoạt động nhạy cảm. Tính chính xác là điều kiện quan trọng nhưng không tự là quyền công bố. Cần xét mục đích, thẩm quyền, người nhận và mức cần thiết.\n\nThông tin cũ đúng ở thời điểm trước cũng có thể gây hiểu sai nếu dùng như hiện tại. Chia một đoạn phát biểu thiếu phần quan trọng có thể làm thay đổi ý nghĩa. Kiểm tra cả tính đúng và cách nội dung được đặt trong bối cảnh.",
+        "en": "### 2.1. Misinformation and disinformation\nMisinformation is inaccurate information shared without awareness of its inaccuracy. Disinformation involves deliberate deception through false or manipulated content. Intentional creation can be followed by sincere resharing.\n\nProving inaccuracy differs from proving a sharer’s intent. Describe evidence and uncertainty rather than assigning malice to difficult questions.\n\n### 2.2. Hate speech and identity attacks\nThe UN approach includes communication attacking or using discriminatory language against people based on identity. Assess content, context and effects rather than isolated words.\n\nAn information-harm category is not automatically a legal offence. Refer legal assessment appropriately; do not use labels to suppress dissent.\n\n### 2.3. Criticism is not automatically harmful falsehood\nNegative claims can be true, partly inaccurate, incomplete or opinion. Separate verifiable propositions from feelings and judgment. Disagreement with the mission does not establish hostility or manipulation.\n\nRefer substantive service or conduct problems for correction. Changing publicity does not solve underlying grievances. Respect expression and access to information.\n\n### 2.4. Truth can still harm\nAccurate lists, images and locations can expose people, private data or sensitive operations. Accuracy does not authorize publication. Check purpose, authority, recipients and necessity.\n\nOld facts presented as current or selectively edited statements can also mislead. Verify context as well as factual content."
+      },
+      "sourceIds": [
+        "C18"
+      ]
+    },
+    {
+      "id": "CORE-14-03",
+      "title": {
+        "vi": "3. Kiểm chứng trước khi sử dụng hoặc chia sẻ",
+        "en": "3. Verify before using or sharing"
+      },
+      "body": {
+        "vi": "### 3.1. Nêu rõ điều cần kiểm chứng\nTách một nội dung thành các mệnh đề: Sự kiện gì, ai liên quan, ở đâu, khi nào và căn cứ nào. Không coi toàn bộ bài viết là đúng hoặc sai vì một chi tiết. Ghi rõ câu nào đã kiểm tra, câu nào chưa và việc chưa rõ có ảnh hưởng quyết định không.\n\nĐừng dùng số lần một tin xuất hiện làm bằng chứng độc lập. Nhiều trang có thể chép cùng một nguồn hoặc cùng hình. Tìm nguồn ban đầu và dữ kiện xác nhận thực chất, không chỉ đếm tài khoản chia sẻ.\n\n### 3.2. Xác định nguồn và bối cảnh\nKiểm tra người hoặc cơ quan phát, thời gian đăng và thời gian sự kiện, địa điểm, bản đầy đủ cùng phạm vi nguồn biết. Một nguồn chính thức cũng có thể đang cập nhật hoặc đã sửa nội dung; cần đọc bản và thời điểm liên quan. Dấu xác nhận tài khoản không thay kiểm tra mệnh đề.\n\nKhi có dữ kiện nội bộ cần đối chiếu, liên hệ đầu mối được phép thay vì phát tán thông tin để nhờ mạng xã hội xác minh. Không gửi danh sách nhân sự, tài liệu có hạn chế hoặc hồ sơ người dân vào công cụ ngoài phạm vi cho phép.\n\n### 3.3. Ảnh, âm thanh và video cần kiểm tra riêng\nHình có thể thật nhưng từ nơi khác; âm thanh có thể cắt ghép; video có thể thiếu đoạn trước hoặc sau. Tìm bản gốc, thời gian, địa điểm và đối chiếu dữ kiện phù hợp qua quy trình được phép. Không kết luận chỉ vì nội dung trông chân thật hoặc có chi tiết gây xúc động.\n\nNội dung do AI tạo hoặc chỉnh sửa làm việc nhìn bằng mắt càng không đủ. Công cụ phát hiện có thể hỗ trợ nhưng không phải máy quyết định sự thật. Cần người có trách nhiệm đánh giá bằng chứng, giới hạn công cụ và điều chưa biết. Không tự dựng hình minh họa rồi trình bày như ảnh hiện trường.\n\n### 3.4. Thống nhất trạng thái xác minh\nCó thể dùng trạng thái rõ như đã xác nhận, xác nhận một phần, chưa xác minh hoặc đã phát hiện chi tiết sai, theo cơ chế đơn vị. Nêu thời điểm và nguồn phù hợp; không dùng từ chắc chắn khi mới có một lời kể. Khi thông tin thay đổi, cập nhật người đã nhận để bản cũ không tiếp tục dẫn quyết định.\n\nNếu nguy cơ khẩn cần báo trước khi đủ thông tin, báo điều quan sát được cùng giới hạn xác minh. Kiểm chứng không phải lý do trì hoãn cảnh báo sinh mạng, nhưng sự khẩn cũng không cho phép biến giả định thành sự kiện.",
+        "en": "### 3.1. Specify the claim\nSeparate what happened, who, where, when and supporting evidence. One error does not settle every claim. Record verified and unresolved parts and their decision relevance.\n\nRepetition is not independent corroboration. Multiple outlets may copy one source. Seek original material and substantive confirmation.\n\n### 3.2. Verify sources and context\nCheck origin, publication and event dates, location, complete versions and what a source actually knows. Official sources can update or correct information; account verification does not verify every claim.\n\nUse authorized internal contacts. Do not publish restricted information or upload personnel and community records to external verification tools.\n\n### 3.3. Check media separately\nAuthentic images can come from another place; audio and video can omit decisive context. Seek originals and appropriate corroboration. Emotional realism does not establish truth.\n\nAI-generated or edited content increases uncertainty. Detection tools support but do not replace accountable assessment. Do not present generated illustration as documentary evidence.\n\n### 3.4. Communicate verification status\nDistinguish confirmed, partly confirmed, unverified and identified inaccuracies under applicable arrangements. Include relevant timing and limitations and update previous recipients when facts change.\n\nUrgent life-safety reporting may precede complete verification. Report observations and uncertainty together rather than delaying warnings or inventing certainty."
+      },
+      "sourceIds": [
+        "C18"
+      ]
+    },
+    {
+      "id": "CORE-14-04",
+      "title": {
+        "vi": "4. Đánh giá tác động và chọn phản hồi",
+        "en": "4. Assess effects and select a response"
+      },
+      "body": {
+        "vi": "### 4.1. Xác định nguy cơ với người và nhiệm vụ\nĐánh giá nội dung đang tới nhóm nào, lan qua kênh nào và có thể ảnh hưởng hành vi hoặc an toàn thế nào. Lượt tương tác cao chưa chắc tương đương nguy cơ cao; một tin trong nhóm nhỏ nhưng liên quan đe dọa cụ thể vẫn có thể khẩn. Phân biệt mức lan, độ tin và hậu quả dự kiến.\n\nXem người bị nhắm tới, khả năng bị kỳ thị, nguy cơ bạo lực hoặc mất tiếp cận trợ giúp. Phụ nữ tham gia lãnh đạo hoặc người thuộc nhóm bị phân biệt có thể chịu kiểu công kích khác nhau; phân tích cần nhận ra điều đó mà không lặp lại nội dung gây hại không cần thiết.\n\n### 4.2. Báo đúng nơi với dữ liệu cần thiết\nChuyển quan sát và đánh giá qua đầu mối truyền thông, phân tích, nhân quyền hoặc an ninh phù hợp tính chất. Nêu nội dung, thời điểm, phạm vi biết, mức xác minh và nguy cơ cần xử lý. Không gom mọi phản ánh tiêu cực thành một báo cáo đe dọa.\n\nBảo toàn liên kết hoặc thông tin cần thiết bằng phương tiện được phép, tránh tải hay chia rộng nội dung nhạy cảm. Không tự công khai danh sách người chia sẻ để gây áp lực. Việc theo dõi môi trường thông tin phải tôn trọng quyền riêng tư và phạm vi được giao.\n\n### 4.3. Chọn phản hồi theo mục tiêu\nCó thể cần cung cấp thông tin đã xác nhận, trả lời câu hỏi, sửa một hướng dẫn, tiếp xúc qua kênh tin cậy hoặc chuyển một nguy cơ cho đầu mối bảo vệ. Người có thẩm quyền quyết định cách công bố và thông điệp. Không tự tranh luận bằng tài khoản cá nhân như người phát ngôn phái bộ.\n\nCân nhắc việc nhắc lại có làm tin sai tới nhiều người hơn không. Khi đính chính, đặt dữ kiện cần biết lên trước, giải thích ngắn phần sai và chỉ nguồn phù hợp; không cần chép lại mọi chi tiết kích động. Khi có lỗi thật, nêu đúng phần đã biết và bước xử lý được phép thông tin.\n\n### 4.4. Theo dõi sau phản hồi\nKiểm tra người cần biết có nhận và hiểu không, câu hỏi nào vẫn tồn tại và vấn đề thực chất đã được sửa chưa. Một phản hồi được đăng chưa đồng nghĩa khôi phục niềm tin. Nếu thông điệp không tới nhóm bị ảnh hưởng, xem lại kênh và ngôn ngữ thay vì chỉ tăng số lần đăng cùng nội dung.\n\nPhản hồi công khai không thay điều tra, chăm sóc hoặc bảo vệ cần thiết. Phần hành động thực tế phải có người phụ trách và được theo dõi bằng cơ chế phù hợp.",
+        "en": "### 4.1. Assess people and mission effects\nIdentify audiences, channels and plausible consequences. High engagement is not automatically high risk; a small-group message containing a concrete threat can be urgent. Separate reach, belief and harm.\n\nConsider targeting, discrimination, violence and disrupted access. Gendered and identity-based attacks can create different effects without requiring unnecessary repetition of abusive content.\n\n### 4.2. Report proportionately\nRefer observations to appropriate communication, analysis, human rights or security contacts. Describe timing, verification, scope and action needs. Negative feedback is not automatically a threat.\n\nPreserve necessary material through authorized tools. Do not publish sharer lists or conduct intrusive monitoring beyond your role.\n\n### 4.3. Match responses to objectives\nOptions include confirmed facts, answers, corrected instructions, trusted engagement and protection referrals. Authorized personnel determine public messages. Do not become a self-appointed spokesperson through personal accounts.\n\nAvoid amplifying false claims. Lead corrections with useful facts and concise explanations. Where problems are real, acknowledge confirmed information and communicable corrective steps.\n\n### 4.4. Follow actual outcomes\nCheck receipt, understanding, unresolved questions and practical correction. Posting does not establish restored trust. Review channels and language rather than repeating inaccessible messages.\n\nPublic communication does not replace required investigation, care or protection. Assign and follow practical action separately."
+      },
+      "sourceIds": [
+        "C18"
+      ]
+    },
+    {
+      "id": "CORE-14-05",
+      "title": {
+        "vi": "5. Hành vi cá nhân, dữ liệu và trách nhiệm phát ngôn",
+        "en": "5. Personal conduct, data and spokesperson boundaries"
+      },
+      "body": {
+        "vi": "### 5.1. Tài khoản cá nhân vẫn có thể gây tác động\nNgười khác có thể liên hệ phát biểu cá nhân với vai trò UN, nhất là khi thấy quân phục, chức danh hoặc hình đơn vị. Câu ghi quan điểm riêng không tự xóa nghĩa vụ ứng xử, bảo mật và yêu cầu phê duyệt. Trước khi đăng, kiểm tra nội dung thuộc phạm vi mình được phép công bố không.\n\nKhông đưa lịch, vị trí, danh sách, cấu hình an ninh hoặc thông tin người cần bảo vệ lên mạng vì muốn chia sẻ công việc. Hình nền, thẻ tên, biển xe và dữ liệu gắn vị trí có thể làm lộ hơn dự định. Xin hướng dẫn qua cơ chế phù hợp khi chưa rõ.\n\n### 5.2. Phân biệt đồng ý chụp và đồng ý công bố\nMột người cho chụp ảnh không tự đồng ý dùng trong mọi bối cảnh, nền tảng và thời gian. Giải thích mục đích, phạm vi, rủi ro và lựa chọn phù hợp; đặc biệt thận trọng với trẻ em, người sống sót hoặc người có nguy cơ bị nhận diện. Sự đồng ý không thay yêu cầu bảo vệ và chính sách áp dụng.\n\nKhông lấy việc người dân nhận trợ giúp làm lý do buộc xuất hiện trong truyền thông. Nếu không có cách sử dụng an toàn và được phép, chọn nội dung khác. Hình ảnh phục vụ báo cáo không cần phải phơi bày danh tính để chứng minh đã làm việc.\n\n### 5.3. Bảy nguyên tắc cho cách tiếp cận MDH trong nhiệm vụ\nCách tiếp cận cần đa chuyên môn; phối hợp toàn phái bộ và UN; chủ động phòng ngừa; lấy người dân làm trung tâm; đáp ứng giới và tuổi; minh bạch trong hoạt động, tôn trọng quyền; cùng bảo vệ dữ liệu và riêng tư. Các nguyên tắc này hướng việc phân tích và phản ứng, không cấp quyền kiểm soát mọi nội dung.\n\nTrong thực hiện, kiểm tra ai chịu tác động, ai cần phối hợp, điều gì được phép theo dõi và cách giải thích hoạt động. Không dùng việc chống tin sai làm lý do che giấu hoạt động không phù hợp hoặc thu dữ liệu vô hạn.\n\n### 5.4. Công cụ số và AI cần ranh giới rõ\nChỉ dùng công cụ được phép với loại dữ liệu phù hợp. Nội dung do AI hỗ trợ phải được người có trách nhiệm kiểm tra tên, số liệu, diễn biến và nguồn. Không tạo lời chứng, trích dẫn hoặc hình hiện trường không có thật để thông điệp có vẻ thuyết phục.\n\nNếu phát hiện đã chia sai hoặc lộ dữ liệu, báo ngay qua cơ chế để đánh giá và xử lý, lưu thông tin cần thiết. Không tự xóa mọi dấu vết rồi coi sự cố đã hết. Việc sửa cần phù hợp quyền lưu, chứng cứ và bảo vệ người liên quan.",
+        "en": "### 5.1. Personal accounts have consequences\nUniforms, roles and unit imagery can associate personal posts with the UN. Personal-opinion disclaimers do not erase conduct, confidentiality or approval duties.\n\nProtect schedules, locations, personnel lists, security details and vulnerable people. Backgrounds, badges and metadata can reveal more than intended. Seek guidance when unsure.\n\n### 5.2. Consent to photography is not universal publication consent\nExplain purpose, use, risks and choices. Be particularly careful with children, survivors and identifiable people at risk. Consent does not override protection duties or applicable policy.\n\nAssistance must not depend on appearing in publicity. Choose safer material where authorized, safe use cannot be established.\n\n### 5.3. Seven operational principles\nAddress MDH through multidisciplinary expertise; integrated mission and UN action; proactive prevention; people-centred work; gender- and age-responsiveness; open, rights-respecting activity; and data protection and privacy.\n\nThese guide assessment rather than grant unlimited content-control or surveillance powers. Clarify affected people, coordination, monitoring limits and accountability.\n\n### 5.4. Set digital and AI boundaries\nUse approved tools with suitable data. Humans remain responsible for checking generated names, figures, events and sources. Never invent testimony, quotations or documentary images.\n\nReport inaccurate sharing or exposure through applicable incident mechanisms. Do not erase all traces and assume resolution; correction must respect evidence, retention and protection duties."
+      },
+      "sourceIds": [
+        "C18"
+      ]
+    },
+    {
+      "id": "CORE-14-06",
+      "title": {
+        "vi": "6. Lập kế hoạch và đánh giá tính toàn vẹn thông tin",
+        "en": "6. Plan and evaluate information integrity"
+      },
+      "body": {
+        "vi": "### 6.1. Kết nối mục tiêu, bằng chứng và phân công\nMột kế hoạch cần vấn đề được xác định, người cần tiếp cận, kết quả mong muốn, thông điệp đã xác nhận, kênh, người phê duyệt, người thực hiện và phản hồi. Tính nguồn lực, phiên dịch, hỗ trợ kỹ thuật và cập nhật khi thông tin đổi. Không bắt đầu bằng chỉ tiêu phải có một số lượng bài đăng rồi mới tìm lý do.\n\nThông tin liên quan an toàn hoặc dịch vụ cần người xác nhận tính hiện hành. Khi một đầu mối đổi, phải có cách sửa bản đã phát và báo người dùng. Bài đăng đúng lúc xuất bản vẫn có thể trở nên sai nếu đơn vị không quản lý cập nhật.\n\n### 6.2. Phân biệt đầu ra và tác động\nLượt xem, lượt thích và số người theo dõi cho biết một phần mức tiếp cận, không tự chứng minh hiểu, tin hoặc thay đổi hành vi. Cần kết hợp dữ liệu phù hợp, câu hỏi phản hồi, mức sử dụng hướng dẫn và kết quả thực tế theo mục tiêu.\n\nĐừng chỉ thu phản hồi từ người thuận tiện hoặc người đã đồng ý với phái bộ. Xem nhóm nào không được tiếp cận và điều gì khiến họ không trả lời. Bảo vệ quyền riêng tư; không thu hồ sơ cá nhân quá mức để làm bảng đánh giá đẹp hơn.\n\n### 6.3. Học từ tin sai và lời phê bình\nKhi có hiểu sai, xem thông điệp có mơ hồ, kênh có phù hợp hoặc dịch vụ có khác điều đã hứa không. Khi có thao túng có căn cứ, phối hợp phân tích và ứng phó theo cơ chế. Hai việc có thể cùng tồn tại; không cần phủ nhận lỗi thật để nhận diện một chiến dịch thông tin gây hại.\n\nSửa lỗi hệ thống bằng hành động: Cập nhật đầu mối, đổi cách giải thích, bổ sung kênh hoặc cải thiện dịch vụ. Giao người và kiểm tra lại. Không kết luận người dân thiếu hiểu biết khi chính thông tin cung cấp khó dùng.\n\n### 6.4. Bàn giao và duy trì nhất quán\nChuyển phiên bản thông điệp, trạng thái xác minh, cam kết phản hồi và vấn đề chưa xử lý cho người có trách nhiệm. Bảo vệ tài liệu nhạy cảm, không gửi toàn bộ dữ liệu chỉ vì đổi ca. Khi có đính chính, giữ cách truy vết phù hợp để các bên biết phiên bản nào còn hiệu lực.\n\nTính toàn vẹn thông tin được duy trì khi dữ kiện được kiểm tra, quyền được tôn trọng, thông điệp nhất quán với hành động và có khả năng sửa sai. Người học cần biết điều gì có thể nói, điều gì phải kiểm chứng và điều gì phải chuyển đúng đầu mối trước khi công bố.",
+        "en": "### 6.1. Connect objectives and ownership\nDefine the problem, audience, outcomes, verified messages, channels, approval, delivery and feedback. Resource translation, technical support and updates. Do not start with posting quotas and invent purposes afterwards.\n\nService and safety information needs current confirmation and correction arrangements. Accurate publication can become inaccurate without maintenance.\n\n### 6.2. Distinguish outputs and impact\nViews and reactions measure aspects of reach, not necessarily understanding, trust or action. Combine suitable data, questions and practical outcomes.\n\nSeek perspectives beyond convenient supporters and identify excluded groups. Respect privacy instead of collecting excessive profiles for evaluation.\n\n### 6.3. Learn from falsehoods and criticism\nCheck ambiguity, inaccessible channels and broken promises. Coordinate evidence-based responses to manipulation while addressing real errors. Both can exist together.\n\nAssign concrete changes to contacts, explanations, channels or services and verify improvement. Do not blame users for unusable information.\n\n### 6.4. Maintain continuity\nTransfer current messages, verification status, commitments and unresolved matters securely. Preserve appropriate correction history and active versions.\n\nInformation integrity connects checked facts, rights, reliable conduct and correction. Know what can be shared, what requires verification and what needs responsible referral before publication."
+      },
+      "sourceIds": [
+        "C18"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "C18",
+      "title": "2.9 Strategic Communication and Information Integrity",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-422%20Lesson%202.9%20Strategic%20Communication%20and%20Information%20Integrity.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 29,
+      "pdf_name": "2025 - Lesson 2.9 Strategic Communication and Information Integrity - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-29"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Chỉ số nào gần kết quả truyền thông hơn số bài đăng?",
+        "en": "Which measure is closer to a communication outcome than post counts?"
+      },
+      "options": [
+        {
+          "vi": "Số từ trong bản tin hoạt động.",
+          "en": "Word count of the activity bulletin."
+        },
+        {
+          "vi": "Số lần dùng biểu tượng UN trong ảnh.",
+          "en": "Number of UN symbols in images."
+        },
+        {
+          "vi": "Người cần biết hiểu và sử dụng được thông tin.",
+          "en": "Intended audiences understand and use the information."
+        }
+      ],
+      "correct": 2,
+      "chapter": 0,
+      "explanation": {
+        "vi": "Đầu ra nội dung khác tác động tới người nhận theo mục tiêu. Xem mục 1.",
+        "en": "Content outputs differ from intended audience effects. See section 1."
+      }
+    },
+    {
+      "question": {
+        "vi": "Thông điệp tôn trọng nhưng ứng xử thực tế thô lỗ, cần gì?",
+        "en": "Respectful messages conflict with rude behaviour. What is needed?"
+      },
+      "options": [
+        {
+          "vi": "Yêu cầu người dân ngừng phản ánh.",
+          "en": "Require communities to stop complaining."
+        },
+        {
+          "vi": "Sửa hành vi và giữ thông điệp nhất quán với việc làm.",
+          "en": "Correct conduct and align messages with action."
+        },
+        {
+          "vi": "Tăng số bài tích cực để che bất cập.",
+          "en": "Increase positive posts to conceal problems."
+        }
+      ],
+      "correct": 1,
+      "chapter": 0,
+      "explanation": {
+        "vi": "Niềm tin phụ thuộc trải nghiệm và hành động, không chỉ lời nói. Xem mục 1.",
+        "en": "Trust depends on experience and action, not words alone. See section 1."
+      }
+    },
+    {
+      "question": {
+        "vi": "Một nội dung sai có đủ chứng minh người chia sẻ cố ý đánh lừa không?",
+        "en": "Does an inaccurate post prove deliberate deception by its sharer?"
+      },
+      "options": [
+        {
+          "vi": "Có; nếu nội dung làm phái bộ khó chịu.",
+          "en": "Yes; if it embarrasses the mission."
+        },
+        {
+          "vi": "Có; ai chia sai đều có ác ý.",
+          "en": "Yes; all inaccurate sharing is malicious."
+        },
+        {
+          "vi": "Không; tính sai và ý định là hai vấn đề cần đánh giá riêng.",
+          "en": "No; inaccuracy and intent require separate assessment."
+        }
+      ],
+      "correct": 2,
+      "chapter": 1,
+      "explanation": {
+        "vi": "Misinformation có thể được chia bởi người tin là thật. Xem mục 2.",
+        "en": "Misinformation can be shared by someone believing it true. See section 2."
+      }
+    },
+    {
+      "question": {
+        "vi": "Lời phê bình phái bộ có tự là MDH không?",
+        "en": "Is criticism of the mission automatically MDH?"
+      },
+      "options": [
+        {
+          "vi": "Có; người phản đối phải chứng minh thiện chí trước.",
+          "en": "Yes; critics must first prove good faith."
+        },
+        {
+          "vi": "Không; phân biệt dữ kiện, ý kiến và nội dung thực chất.",
+          "en": "No; distinguish facts, opinions and substantive concerns."
+        },
+        {
+          "vi": "Có; mọi ý kiến tiêu cực đều gây hại như nhau.",
+          "en": "Yes; all negative views are equally harmful."
+        }
+      ],
+      "correct": 1,
+      "chapter": 1,
+      "explanation": {
+        "vi": "Phê bình hợp pháp cần được tôn trọng và có thể chỉ ra lỗi thật. Xem mục 2.",
+        "en": "Legitimate criticism deserves respect and can reveal real problems. See section 2."
+      }
+    },
+    {
+      "question": {
+        "vi": "Mười trang đăng cùng tin có chắc là mười nguồn độc lập không?",
+        "en": "Do ten pages carrying a story establish ten independent sources?"
+      },
+      "options": [
+        {
+          "vi": "Có; nếu các trang có giao diện khác nhau.",
+          "en": "Yes; if the sites look different."
+        },
+        {
+          "vi": "Có; số lượng trang thay được kiểm chứng.",
+          "en": "Yes; quantity replaces verification."
+        },
+        {
+          "vi": "Không; có thể đều chép một nguồn, cần truy nguồn và đối chiếu.",
+          "en": "No; they may copy one source; trace and corroborate."
+        }
+      ],
+      "correct": 2,
+      "chapter": 2,
+      "explanation": {
+        "vi": "Sự lặp lại không tự tạo xác nhận độc lập. Xem mục 3.",
+        "en": "Repetition does not establish independent corroboration. See section 3."
+      }
+    },
+    {
+      "question": {
+        "vi": "Một video trông thật nhưng chưa rõ thời gian, địa điểm. Cần gì?",
+        "en": "A realistic video lacks verified time and place. What is needed?"
+      },
+      "options": [
+        {
+          "vi": "Dùng ngay vì mắt thường không thấy sửa.",
+          "en": "Use it because editing is not visible."
+        },
+        {
+          "vi": "Để công cụ AI quyết định hoàn toàn sự thật.",
+          "en": "Let an AI tool determine truth alone."
+        },
+        {
+          "vi": "Xác minh bối cảnh và nêu rõ trạng thái chưa chắc.",
+          "en": "Verify context and communicate uncertainty."
+        }
+      ],
+      "correct": 2,
+      "chapter": 2,
+      "explanation": {
+        "vi": "Nội dung trực quan và công cụ hỗ trợ không thay đánh giá có trách nhiệm. Xem mục 3.",
+        "en": "Visual realism and tools do not replace accountable assessment. See section 3."
+      }
+    },
+    {
+      "question": {
+        "vi": "Tin trong nhóm nhỏ có đe dọa cụ thể, nên đánh giá sao?",
+        "en": "A small-group message contains a specific threat. How should it be assessed?"
+      },
+      "options": [
+        {
+          "vi": "Theo nguy cơ và hậu quả, không chỉ số lượt xem.",
+          "en": "By risk and consequences, not views alone."
+        },
+        {
+          "vi": "Bỏ qua vì chưa lan rộng.",
+          "en": "Ignore it because reach is small."
+        },
+        {
+          "vi": "Chỉ phản hồi khi đủ một mức lượt thích.",
+          "en": "Respond only after a like threshold."
+        }
+      ],
+      "correct": 0,
+      "chapter": 3,
+      "explanation": {
+        "vi": "Mức lan và mức nguy hiểm không phải một chỉ số. Xem mục 4.",
+        "en": "Reach and danger are different dimensions. See section 4."
+      }
+    },
+    {
+      "question": {
+        "vi": "Đính chính có nên chép lại mọi chi tiết kích động không?",
+        "en": "Should a correction repeat every inflammatory detail?"
+      },
+      "options": [
+        {
+          "vi": "Không; nêu dữ kiện cần biết và cân nhắc nguy cơ khuếch đại.",
+          "en": "No; lead with useful facts and consider amplification."
+        },
+        {
+          "vi": "Có; càng lặp nhiều càng chắc mọi người nhớ.",
+          "en": "Yes; maximum repetition improves recall."
+        },
+        {
+          "vi": "Có; không cần xem người bị ảnh hưởng.",
+          "en": "Yes; affected people are irrelevant."
+        }
+      ],
+      "correct": 0,
+      "chapter": 3,
+      "explanation": {
+        "vi": "Phản hồi phải phục vụ mục tiêu và hạn chế phát tán thêm nội dung gây hại. Xem mục 4.",
+        "en": "Responses should serve objectives without unnecessarily spreading harm. See section 4."
+      }
+    },
+    {
+      "question": {
+        "vi": "Đồng ý chụp ảnh có tự là đồng ý công bố mọi nơi không?",
+        "en": "Does permission to photograph authorize publication everywhere?"
+      },
+      "options": [
+        {
+          "vi": "Có; nếu người đó đã nhận trợ giúp.",
+          "en": "Yes; if the person received assistance."
+        },
+        {
+          "vi": "Không; cần phạm vi, mục đích và bảo vệ phù hợp.",
+          "en": "No; establish scope, purpose and safeguards."
+        },
+        {
+          "vi": "Có; ảnh đã chụp thuộc quyền dùng vô hạn.",
+          "en": "Yes; taking it grants unlimited use."
+        }
+      ],
+      "correct": 1,
+      "chapter": 4,
+      "explanation": {
+        "vi": "Quyền sử dụng và rủi ro cần được xem riêng, trợ giúp không mua quyền hình ảnh. Xem mục 5.",
+        "en": "Use and risks require separate assessment; assistance does not buy image rights. See section 5."
+      }
+    },
+    {
+      "question": {
+        "vi": "Ghi “quan điểm cá nhân” có xóa nghĩa vụ bảo mật không?",
+        "en": "Does a personal-opinion disclaimer remove confidentiality duties?"
+      },
+      "options": [
+        {
+          "vi": "Không; chuẩn mực, dữ liệu và phê duyệt vẫn áp dụng.",
+          "en": "No; conduct, data and approval rules still apply."
+        },
+        {
+          "vi": "Có; tài khoản riêng không liên quan UN.",
+          "en": "Yes; personal accounts never concern the UN."
+        },
+        {
+          "vi": "Có; nếu đăng ngoài giờ.",
+          "en": "Yes; if posted off duty."
+        }
+      ],
+      "correct": 0,
+      "chapter": 4,
+      "explanation": {
+        "vi": "Tuyên bố cá nhân không thay các nghĩa vụ áp dụng. Xem mục 5.",
+        "en": "Disclaimers do not override applicable obligations. See section 5."
+      }
+    },
+    {
+      "question": {
+        "vi": "Lượt xem tăng có tự chứng minh niềm tin tăng không?",
+        "en": "Do more views automatically prove greater trust?"
+      },
+      "options": [
+        {
+          "vi": "Có; mọi lượt xem đều đồng ý.",
+          "en": "Yes; every viewer agrees."
+        },
+        {
+          "vi": "Không; cần đánh giá hiểu, phản hồi và kết quả theo mục tiêu.",
+          "en": "No; assess understanding, feedback and intended outcomes."
+        },
+        {
+          "vi": "Có; chỉ cần so tổng số với tháng trước.",
+          "en": "Yes; only compare monthly totals."
+        }
+      ],
+      "correct": 1,
+      "chapter": 5,
+      "explanation": {
+        "vi": "Tiếp cận, hiểu và tin là các khía cạnh khác nhau. Xem mục 6.",
+        "en": "Reach, understanding and trust are different dimensions. See section 6."
+      }
+    },
+    {
+      "question": {
+        "vi": "Thông tin dịch vụ từng đúng nhưng đầu mối đã đổi. Cần gì?",
+        "en": "Service information was correct but the contact changed. What is needed?"
+      },
+      "options": [
+        {
+          "vi": "Cập nhật bản đã phát và báo người liên quan qua kênh phù hợp.",
+          "en": "Update published versions and notify relevant audiences appropriately."
+        },
+        {
+          "vi": "Chỉ sửa tài liệu riêng không báo ai.",
+          "en": "Only amend a private file without notification."
+        },
+        {
+          "vi": "Giữ nguyên vì lúc đăng không sai.",
+          "en": "Keep it because it was initially correct."
+        }
+      ],
+      "correct": 0,
+      "chapter": 5,
+      "explanation": {
+        "vi": "Tính toàn vẹn thông tin cần quản lý phiên bản và cập nhật, không chỉ kiểm tra lúc đăng. Xem mục 6.",
+        "en": "Information integrity requires maintenance and version control, not initial checks alone. See section 6."
+      }
+    }
+  ],
+  "updated": "2026-10-29",
+  "moduleId": "CORE-M2",
+  "moduleOrder": 2,
+  "lessonOrder": 7,
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "CORE-14-01",
+      "title": {
+        "vi": "1. Truyền thông chiến lược phục vụ nhiệm vụ",
+        "en": "1. Strategic communication serves the mission"
+      },
+      "body": {
+        "vi": "### 1.1. Bắt đầu từ kết quả cần tạo\nTruyền thông chiến lược kết nối mục tiêu nhiệm vụ, người cần tiếp cận, nội dung, hành động và phản hồi. Không chỉ là đăng tin hoạt động hoặc làm hình ảnh đẹp. Trong gìn giữ hòa bình, người dân cần hiểu phái bộ có thể làm gì, giới hạn nào tồn tại và cách tiếp cận trợ giúp hoặc phản ánh.\n\nMột mục tiêu rõ có thể là giúp cư dân biết đầu mối dịch vụ đã xác nhận hoặc hiểu thay đổi an toàn liên quan hoạt động. Số lượt đăng là đầu ra; người nhận hiểu và sử dụng được thông tin mới gần với kết quả cần đạt. Chọn chỉ số theo mục tiêu trước khi chọn định dạng bài viết hay video.\n\n### 1.2. Việc làm và thông điệp phải nhất quán\nLời nói về tôn trọng không tạo tin cậy nếu cách tiếp xúc thực tế thô lỗ. Hứa vượt khả năng có thể tạo kỳ vọng rồi làm mất niềm tin. Mọi thành viên góp phần vào truyền thông qua hành vi, việc giữ cam kết và cách giải thích vai trò.\n\nKhi đơn vị có sai sót, ưu tiên báo trung thực qua cơ chế và xử lý hậu quả. Không dùng truyền thông để che một vấn đề cần sửa. Đính chính và hành động khắc phục có trách nhiệm thường có ý nghĩa hơn việc chỉ lặp lại thông điệp tích cực.\n\n### 1.3. Hiểu người nhận và rào cản tiếp cận\nXác định ngôn ngữ, mức hiểu, kênh tin cậy, khả năng đọc, thiết bị và điều kiện an toàn. Người có điện thoại chưa chắc có dữ liệu mạng; người có mặt chưa chắc nghe loa; một ngôn ngữ chính thức chưa chắc được mọi nhóm hiểu. Không lấy kênh đơn vị tiện dùng làm kênh duy nhất.\n\nLắng nghe câu hỏi và phản ánh để biết thông tin nào đang thiếu. Người dân có thể không cần biết tên một hoạt động nội bộ mà cần biết dịch vụ ở đâu, khi nào và điều kiện gì. Trình bày theo nhu cầu sử dụng, không theo thứ tự tổ chức của đơn vị.\n\n### 1.4. Phối hợp toàn phái bộ\nBộ phận truyền thông, các thành phần nhiệm vụ và lãnh đạo có trách nhiệm khác nhau. Nhân sự cảnh sát cần biết thông tin nào được chia sẻ, ai phát ngôn và cách chuyển câu hỏi ngoài vai trò. Không tự đưa một nhận định cá nhân thành lập trường UN.\n\nPhối hợp không có nghĩa mọi người đều im lặng trước nhu cầu an toàn khẩn. Cần cơ chế đã thống nhất để báo và chuyển thông tin kịp thời. Một lời nhắn “đang xác minh” đúng phạm vi có thể tốt hơn kết luận vội hoặc lời hứa không có căn cứ.",
+        "en": "### 1.1. Begin with intended outcomes\nStrategic communication connects mission objectives, audiences, messages, actions and feedback. It is more than activity publicity. People need understandable roles, limits and routes to assistance or complaints.\n\nDefine outcomes before formats. Posts are outputs; understanding and appropriate use of information are closer to results.\n\n### 1.2. Align conduct and messages\nRespectful claims fail when behaviour contradicts them. Unconfirmed promises undermine trust. Every member communicates through conduct, explanations and reliable commitments.\n\nReport errors and address consequences through proper mechanisms rather than using publicity to conceal them. Accountable correction matters more than repeated positive claims.\n\n### 1.3. Understand audience access\nAssess language, comprehension, trusted channels, literacy, devices and safety. Phone ownership does not establish internet access; presence does not establish hearing. Do not rely solely on organizational convenience.\n\nListen for missing information and communicate according to practical needs rather than internal organizational order.\n\n### 1.4. Coordinate across the mission\nKnow disclosure rules, spokesperson roles and referral contacts. Personal opinions are not UN positions.\n\nCoordination must enable timely safety information. An accurate statement that verification continues can be preferable to unsupported certainty or promises."
+      },
+      "sourceIds": [
+        "C18"
+      ]
+    },
+    {
+      "id": "CORE-14-02",
+      "title": {
+        "vi": "2. Nhận diện vấn đề thông tin mà không gán ý định",
+        "en": "2. Identify information problems without assuming intent"
+      },
+      "body": {
+        "vi": "### 2.1. Misinformation và disinformation\nMisinformation là thông tin không chính xác được chia sẻ bởi người không biết nó sai. Disinformation là thông tin sai hoặc bị thao túng được tạo hoặc truyền có chủ ý đánh lừa. Cùng một nội dung có thể bắt đầu từ người cố ý rồi được người khác tin thật và chia lại.\n\nVì vậy, xác định nội dung sai khác với chứng minh ý định người chia sẻ. Khi chưa đủ căn cứ về ý định, mô tả điều chưa chính xác, bằng chứng và mức xác minh. Không gọi người hỏi lại một tin là kẻ phát tán có ác ý chỉ vì câu hỏi gây khó chịu.\n\n### 2.2. Hate speech liên quan tấn công căn tính\nTheo cách tiếp cận UN, ngôn từ kích động thù hận có thể xuất hiện qua lời nói, chữ viết hoặc hành vi tấn công, dùng ngôn ngữ miệt thị hay phân biệt đối xử dựa vào căn tính như tôn giáo, dân tộc, quốc tịch, chủng tộc hoặc giới. Cần xem nội dung, bối cảnh và tác động, không chỉ một từ tách rời.\n\nKhái niệm thông tin gây hại và kết luận hành vi vi phạm pháp luật không đồng nhất. Nhận định pháp lý cần cơ quan có thẩm quyền. Người làm nhiệm vụ ghi và báo theo cơ chế, không tự dùng nhãn hate speech để hạn chế mọi ý kiến trái chiều.\n\n### 2.3. Phê bình không tự là thông tin sai lệch\nMột phản ánh tiêu cực có thể đúng, sai một phần, thiếu bối cảnh hoặc là ý kiến. Cần phân biệt mệnh đề kiểm chứng được với đánh giá và cảm xúc. Người dân không đồng ý với phái bộ không chứng minh họ bị điều khiển hoặc có ý định thù địch.\n\nNếu phản ánh cho thấy dịch vụ chưa tới hoặc hành vi ứng xử chưa đúng, phải chuyển xử lý phần thực chất. Không chỉ tìm cách thay hình ảnh trong khi vấn đề gây bất mãn vẫn còn. Bảo vệ quyền biểu đạt và tiếp cận thông tin là phần của cách ứng phó có trách nhiệm.\n\n### 2.4. Thông tin thật vẫn có thể gây hại\nMột danh sách thật, ảnh thật hoặc vị trí thật có thể làm lộ người cần bảo vệ, dữ liệu cá nhân hoặc hoạt động nhạy cảm. Tính chính xác là điều kiện quan trọng nhưng không tự là quyền công bố. Cần xét mục đích, thẩm quyền, người nhận và mức cần thiết.\n\nThông tin cũ đúng ở thời điểm trước cũng có thể gây hiểu sai nếu dùng như hiện tại. Chia một đoạn phát biểu thiếu phần quan trọng có thể làm thay đổi ý nghĩa. Kiểm tra cả tính đúng và cách nội dung được đặt trong bối cảnh.",
+        "en": "### 2.1. Misinformation and disinformation\nMisinformation is inaccurate information shared without awareness of its inaccuracy. Disinformation involves deliberate deception through false or manipulated content. Intentional creation can be followed by sincere resharing.\n\nProving inaccuracy differs from proving a sharer’s intent. Describe evidence and uncertainty rather than assigning malice to difficult questions.\n\n### 2.2. Hate speech and identity attacks\nThe UN approach includes communication attacking or using discriminatory language against people based on identity. Assess content, context and effects rather than isolated words.\n\nAn information-harm category is not automatically a legal offence. Refer legal assessment appropriately; do not use labels to suppress dissent.\n\n### 2.3. Criticism is not automatically harmful falsehood\nNegative claims can be true, partly inaccurate, incomplete or opinion. Separate verifiable propositions from feelings and judgment. Disagreement with the mission does not establish hostility or manipulation.\n\nRefer substantive service or conduct problems for correction. Changing publicity does not solve underlying grievances. Respect expression and access to information.\n\n### 2.4. Truth can still harm\nAccurate lists, images and locations can expose people, private data or sensitive operations. Accuracy does not authorize publication. Check purpose, authority, recipients and necessity.\n\nOld facts presented as current or selectively edited statements can also mislead. Verify context as well as factual content."
+      },
+      "sourceIds": [
+        "C18"
+      ]
+    },
+    {
+      "id": "CORE-14-03",
+      "title": {
+        "vi": "3. Kiểm chứng trước khi sử dụng hoặc chia sẻ",
+        "en": "3. Verify before using or sharing"
+      },
+      "body": {
+        "vi": "### 3.1. Nêu rõ điều cần kiểm chứng\nTách một nội dung thành các mệnh đề: Sự kiện gì, ai liên quan, ở đâu, khi nào và căn cứ nào. Không coi toàn bộ bài viết là đúng hoặc sai vì một chi tiết. Ghi rõ câu nào đã kiểm tra, câu nào chưa và việc chưa rõ có ảnh hưởng quyết định không.\n\nĐừng dùng số lần một tin xuất hiện làm bằng chứng độc lập. Nhiều trang có thể chép cùng một nguồn hoặc cùng hình. Tìm nguồn ban đầu và dữ kiện xác nhận thực chất, không chỉ đếm tài khoản chia sẻ.\n\n### 3.2. Xác định nguồn và bối cảnh\nKiểm tra người hoặc cơ quan phát, thời gian đăng và thời gian sự kiện, địa điểm, bản đầy đủ cùng phạm vi nguồn biết. Một nguồn chính thức cũng có thể đang cập nhật hoặc đã sửa nội dung; cần đọc bản và thời điểm liên quan. Dấu xác nhận tài khoản không thay kiểm tra mệnh đề.\n\nKhi có dữ kiện nội bộ cần đối chiếu, liên hệ đầu mối được phép thay vì phát tán thông tin để nhờ mạng xã hội xác minh. Không gửi danh sách nhân sự, tài liệu có hạn chế hoặc hồ sơ người dân vào công cụ ngoài phạm vi cho phép.\n\n### 3.3. Ảnh, âm thanh và video cần kiểm tra riêng\nHình có thể thật nhưng từ nơi khác; âm thanh có thể cắt ghép; video có thể thiếu đoạn trước hoặc sau. Tìm bản gốc, thời gian, địa điểm và đối chiếu dữ kiện phù hợp qua quy trình được phép. Không kết luận chỉ vì nội dung trông chân thật hoặc có chi tiết gây xúc động.\n\nNội dung do AI tạo hoặc chỉnh sửa làm việc nhìn bằng mắt càng không đủ. Công cụ phát hiện có thể hỗ trợ nhưng không phải máy quyết định sự thật. Cần người có trách nhiệm đánh giá bằng chứng, giới hạn công cụ và điều chưa biết. Không tự dựng hình minh họa rồi trình bày như ảnh hiện trường.\n\n### 3.4. Thống nhất trạng thái xác minh\nCó thể dùng trạng thái rõ như đã xác nhận, xác nhận một phần, chưa xác minh hoặc đã phát hiện chi tiết sai, theo cơ chế đơn vị. Nêu thời điểm và nguồn phù hợp; không dùng từ chắc chắn khi mới có một lời kể. Khi thông tin thay đổi, cập nhật người đã nhận để bản cũ không tiếp tục dẫn quyết định.\n\nNếu nguy cơ khẩn cần báo trước khi đủ thông tin, báo điều quan sát được cùng giới hạn xác minh. Kiểm chứng không phải lý do trì hoãn cảnh báo sinh mạng, nhưng sự khẩn cũng không cho phép biến giả định thành sự kiện.",
+        "en": "### 3.1. Specify the claim\nSeparate what happened, who, where, when and supporting evidence. One error does not settle every claim. Record verified and unresolved parts and their decision relevance.\n\nRepetition is not independent corroboration. Multiple outlets may copy one source. Seek original material and substantive confirmation.\n\n### 3.2. Verify sources and context\nCheck origin, publication and event dates, location, complete versions and what a source actually knows. Official sources can update or correct information; account verification does not verify every claim.\n\nUse authorized internal contacts. Do not publish restricted information or upload personnel and community records to external verification tools.\n\n### 3.3. Check media separately\nAuthentic images can come from another place; audio and video can omit decisive context. Seek originals and appropriate corroboration. Emotional realism does not establish truth.\n\nAI-generated or edited content increases uncertainty. Detection tools support but do not replace accountable assessment. Do not present generated illustration as documentary evidence.\n\n### 3.4. Communicate verification status\nDistinguish confirmed, partly confirmed, unverified and identified inaccuracies under applicable arrangements. Include relevant timing and limitations and update previous recipients when facts change.\n\nUrgent life-safety reporting may precede complete verification. Report observations and uncertainty together rather than delaying warnings or inventing certainty."
+      },
+      "sourceIds": [
+        "C18"
+      ]
+    },
+    {
+      "id": "CORE-14-04",
+      "title": {
+        "vi": "4. Đánh giá tác động và chọn phản hồi",
+        "en": "4. Assess effects and select a response"
+      },
+      "body": {
+        "vi": "### 4.1. Xác định nguy cơ với người và nhiệm vụ\nĐánh giá nội dung đang tới nhóm nào, lan qua kênh nào và có thể ảnh hưởng hành vi hoặc an toàn thế nào. Lượt tương tác cao chưa chắc tương đương nguy cơ cao; một tin trong nhóm nhỏ nhưng liên quan đe dọa cụ thể vẫn có thể khẩn. Phân biệt mức lan, độ tin và hậu quả dự kiến.\n\nXem người bị nhắm tới, khả năng bị kỳ thị, nguy cơ bạo lực hoặc mất tiếp cận trợ giúp. Phụ nữ tham gia lãnh đạo hoặc người thuộc nhóm bị phân biệt có thể chịu kiểu công kích khác nhau; phân tích cần nhận ra điều đó mà không lặp lại nội dung gây hại không cần thiết.\n\n### 4.2. Báo đúng nơi với dữ liệu cần thiết\nChuyển quan sát và đánh giá qua đầu mối truyền thông, phân tích, nhân quyền hoặc an ninh phù hợp tính chất. Nêu nội dung, thời điểm, phạm vi biết, mức xác minh và nguy cơ cần xử lý. Không gom mọi phản ánh tiêu cực thành một báo cáo đe dọa.\n\nBảo toàn liên kết hoặc thông tin cần thiết bằng phương tiện được phép, tránh tải hay chia rộng nội dung nhạy cảm. Không tự công khai danh sách người chia sẻ để gây áp lực. Việc theo dõi môi trường thông tin phải tôn trọng quyền riêng tư và phạm vi được giao.\n\n### 4.3. Chọn phản hồi theo mục tiêu\nCó thể cần cung cấp thông tin đã xác nhận, trả lời câu hỏi, sửa một hướng dẫn, tiếp xúc qua kênh tin cậy hoặc chuyển một nguy cơ cho đầu mối bảo vệ. Người có thẩm quyền quyết định cách công bố và thông điệp. Không tự tranh luận bằng tài khoản cá nhân như người phát ngôn phái bộ.\n\nCân nhắc việc nhắc lại có làm tin sai tới nhiều người hơn không. Khi đính chính, đặt dữ kiện cần biết lên trước, giải thích ngắn phần sai và chỉ nguồn phù hợp; không cần chép lại mọi chi tiết kích động. Khi có lỗi thật, nêu đúng phần đã biết và bước xử lý được phép thông tin.\n\n### 4.4. Theo dõi sau phản hồi\nKiểm tra người cần biết có nhận và hiểu không, câu hỏi nào vẫn tồn tại và vấn đề thực chất đã được sửa chưa. Một phản hồi được đăng chưa đồng nghĩa khôi phục niềm tin. Nếu thông điệp không tới nhóm bị ảnh hưởng, xem lại kênh và ngôn ngữ thay vì chỉ tăng số lần đăng cùng nội dung.\n\nPhản hồi công khai không thay điều tra, chăm sóc hoặc bảo vệ cần thiết. Phần hành động thực tế phải có người phụ trách và được theo dõi bằng cơ chế phù hợp.",
+        "en": "### 4.1. Assess people and mission effects\nIdentify audiences, channels and plausible consequences. High engagement is not automatically high risk; a small-group message containing a concrete threat can be urgent. Separate reach, belief and harm.\n\nConsider targeting, discrimination, violence and disrupted access. Gendered and identity-based attacks can create different effects without requiring unnecessary repetition of abusive content.\n\n### 4.2. Report proportionately\nRefer observations to appropriate communication, analysis, human rights or security contacts. Describe timing, verification, scope and action needs. Negative feedback is not automatically a threat.\n\nPreserve necessary material through authorized tools. Do not publish sharer lists or conduct intrusive monitoring beyond your role.\n\n### 4.3. Match responses to objectives\nOptions include confirmed facts, answers, corrected instructions, trusted engagement and protection referrals. Authorized personnel determine public messages. Do not become a self-appointed spokesperson through personal accounts.\n\nAvoid amplifying false claims. Lead corrections with useful facts and concise explanations. Where problems are real, acknowledge confirmed information and communicable corrective steps.\n\n### 4.4. Follow actual outcomes\nCheck receipt, understanding, unresolved questions and practical correction. Posting does not establish restored trust. Review channels and language rather than repeating inaccessible messages.\n\nPublic communication does not replace required investigation, care or protection. Assign and follow practical action separately."
+      },
+      "sourceIds": [
+        "C18"
+      ]
+    },
+    {
+      "id": "CORE-14-05",
+      "title": {
+        "vi": "5. Hành vi cá nhân, dữ liệu và trách nhiệm phát ngôn",
+        "en": "5. Personal conduct, data and spokesperson boundaries"
+      },
+      "body": {
+        "vi": "### 5.1. Tài khoản cá nhân vẫn có thể gây tác động\nNgười khác có thể liên hệ phát biểu cá nhân với vai trò UN, nhất là khi thấy quân phục, chức danh hoặc hình đơn vị. Câu ghi quan điểm riêng không tự xóa nghĩa vụ ứng xử, bảo mật và yêu cầu phê duyệt. Trước khi đăng, kiểm tra nội dung thuộc phạm vi mình được phép công bố không.\n\nKhông đưa lịch, vị trí, danh sách, cấu hình an ninh hoặc thông tin người cần bảo vệ lên mạng vì muốn chia sẻ công việc. Hình nền, thẻ tên, biển xe và dữ liệu gắn vị trí có thể làm lộ hơn dự định. Xin hướng dẫn qua cơ chế phù hợp khi chưa rõ.\n\n### 5.2. Phân biệt đồng ý chụp và đồng ý công bố\nMột người cho chụp ảnh không tự đồng ý dùng trong mọi bối cảnh, nền tảng và thời gian. Giải thích mục đích, phạm vi, rủi ro và lựa chọn phù hợp; đặc biệt thận trọng với trẻ em, người sống sót hoặc người có nguy cơ bị nhận diện. Sự đồng ý không thay yêu cầu bảo vệ và chính sách áp dụng.\n\nKhông lấy việc người dân nhận trợ giúp làm lý do buộc xuất hiện trong truyền thông. Nếu không có cách sử dụng an toàn và được phép, chọn nội dung khác. Hình ảnh phục vụ báo cáo không cần phải phơi bày danh tính để chứng minh đã làm việc.\n\n### 5.3. Bảy nguyên tắc cho cách tiếp cận MDH trong nhiệm vụ\nCách tiếp cận cần đa chuyên môn; phối hợp toàn phái bộ và UN; chủ động phòng ngừa; lấy người dân làm trung tâm; đáp ứng giới và tuổi; minh bạch trong hoạt động, tôn trọng quyền; cùng bảo vệ dữ liệu và riêng tư. Các nguyên tắc này hướng việc phân tích và phản ứng, không cấp quyền kiểm soát mọi nội dung.\n\nTrong thực hiện, kiểm tra ai chịu tác động, ai cần phối hợp, điều gì được phép theo dõi và cách giải thích hoạt động. Không dùng việc chống tin sai làm lý do che giấu hoạt động không phù hợp hoặc thu dữ liệu vô hạn.\n\n### 5.4. Công cụ số và AI cần ranh giới rõ\nChỉ dùng công cụ được phép với loại dữ liệu phù hợp. Nội dung do AI hỗ trợ phải được người có trách nhiệm kiểm tra tên, số liệu, diễn biến và nguồn. Không tạo lời chứng, trích dẫn hoặc hình hiện trường không có thật để thông điệp có vẻ thuyết phục.\n\nNếu phát hiện đã chia sai hoặc lộ dữ liệu, báo ngay qua cơ chế để đánh giá và xử lý, lưu thông tin cần thiết. Không tự xóa mọi dấu vết rồi coi sự cố đã hết. Việc sửa cần phù hợp quyền lưu, chứng cứ và bảo vệ người liên quan.",
+        "en": "### 5.1. Personal accounts have consequences\nUniforms, roles and unit imagery can associate personal posts with the UN. Personal-opinion disclaimers do not erase conduct, confidentiality or approval duties.\n\nProtect schedules, locations, personnel lists, security details and vulnerable people. Backgrounds, badges and metadata can reveal more than intended. Seek guidance when unsure.\n\n### 5.2. Consent to photography is not universal publication consent\nExplain purpose, use, risks and choices. Be particularly careful with children, survivors and identifiable people at risk. Consent does not override protection duties or applicable policy.\n\nAssistance must not depend on appearing in publicity. Choose safer material where authorized, safe use cannot be established.\n\n### 5.3. Seven operational principles\nAddress MDH through multidisciplinary expertise; integrated mission and UN action; proactive prevention; people-centred work; gender- and age-responsiveness; open, rights-respecting activity; and data protection and privacy.\n\nThese guide assessment rather than grant unlimited content-control or surveillance powers. Clarify affected people, coordination, monitoring limits and accountability.\n\n### 5.4. Set digital and AI boundaries\nUse approved tools with suitable data. Humans remain responsible for checking generated names, figures, events and sources. Never invent testimony, quotations or documentary images.\n\nReport inaccurate sharing or exposure through applicable incident mechanisms. Do not erase all traces and assume resolution; correction must respect evidence, retention and protection duties."
+      },
+      "sourceIds": [
+        "C18"
+      ]
+    },
+    {
+      "id": "CORE-14-06",
+      "title": {
+        "vi": "6. Lập kế hoạch và đánh giá tính toàn vẹn thông tin",
+        "en": "6. Plan and evaluate information integrity"
+      },
+      "body": {
+        "vi": "### 6.1. Kết nối mục tiêu, bằng chứng và phân công\nMột kế hoạch cần vấn đề được xác định, người cần tiếp cận, kết quả mong muốn, thông điệp đã xác nhận, kênh, người phê duyệt, người thực hiện và phản hồi. Tính nguồn lực, phiên dịch, hỗ trợ kỹ thuật và cập nhật khi thông tin đổi. Không bắt đầu bằng chỉ tiêu phải có một số lượng bài đăng rồi mới tìm lý do.\n\nThông tin liên quan an toàn hoặc dịch vụ cần người xác nhận tính hiện hành. Khi một đầu mối đổi, phải có cách sửa bản đã phát và báo người dùng. Bài đăng đúng lúc xuất bản vẫn có thể trở nên sai nếu đơn vị không quản lý cập nhật.\n\n### 6.2. Phân biệt đầu ra và tác động\nLượt xem, lượt thích và số người theo dõi cho biết một phần mức tiếp cận, không tự chứng minh hiểu, tin hoặc thay đổi hành vi. Cần kết hợp dữ liệu phù hợp, câu hỏi phản hồi, mức sử dụng hướng dẫn và kết quả thực tế theo mục tiêu.\n\nĐừng chỉ thu phản hồi từ người thuận tiện hoặc người đã đồng ý với phái bộ. Xem nhóm nào không được tiếp cận và điều gì khiến họ không trả lời. Bảo vệ quyền riêng tư; không thu hồ sơ cá nhân quá mức để làm bảng đánh giá đẹp hơn.\n\n### 6.3. Học từ tin sai và lời phê bình\nKhi có hiểu sai, xem thông điệp có mơ hồ, kênh có phù hợp hoặc dịch vụ có khác điều đã hứa không. Khi có thao túng có căn cứ, phối hợp phân tích và ứng phó theo cơ chế. Hai việc có thể cùng tồn tại; không cần phủ nhận lỗi thật để nhận diện một chiến dịch thông tin gây hại.\n\nSửa lỗi hệ thống bằng hành động: Cập nhật đầu mối, đổi cách giải thích, bổ sung kênh hoặc cải thiện dịch vụ. Giao người và kiểm tra lại. Không kết luận người dân thiếu hiểu biết khi chính thông tin cung cấp khó dùng.\n\n### 6.4. Bàn giao và duy trì nhất quán\nChuyển phiên bản thông điệp, trạng thái xác minh, cam kết phản hồi và vấn đề chưa xử lý cho người có trách nhiệm. Bảo vệ tài liệu nhạy cảm, không gửi toàn bộ dữ liệu chỉ vì đổi ca. Khi có đính chính, giữ cách truy vết phù hợp để các bên biết phiên bản nào còn hiệu lực.\n\nTính toàn vẹn thông tin được duy trì khi dữ kiện được kiểm tra, quyền được tôn trọng, thông điệp nhất quán với hành động và có khả năng sửa sai. Người học cần biết điều gì có thể nói, điều gì phải kiểm chứng và điều gì phải chuyển đúng đầu mối trước khi công bố.",
+        "en": "### 6.1. Connect objectives and ownership\nDefine the problem, audience, outcomes, verified messages, channels, approval, delivery and feedback. Resource translation, technical support and updates. Do not start with posting quotas and invent purposes afterwards.\n\nService and safety information needs current confirmation and correction arrangements. Accurate publication can become inaccurate without maintenance.\n\n### 6.2. Distinguish outputs and impact\nViews and reactions measure aspects of reach, not necessarily understanding, trust or action. Combine suitable data, questions and practical outcomes.\n\nSeek perspectives beyond convenient supporters and identify excluded groups. Respect privacy instead of collecting excessive profiles for evaluation.\n\n### 6.3. Learn from falsehoods and criticism\nCheck ambiguity, inaccessible channels and broken promises. Coordinate evidence-based responses to manipulation while addressing real errors. Both can exist together.\n\nAssign concrete changes to contacts, explanations, channels or services and verify improvement. Do not blame users for unusable information.\n\n### 6.4. Maintain continuity\nTransfer current messages, verification status, commitments and unresolved matters securely. Preserve appropriate correction history and active versions.\n\nInformation integrity connects checked facts, rights, reliable conduct and correction. Know what can be shared, what requires verification and what needs responsible referral before publication."
+      },
+      "sourceIds": [
+        "C18"
+      ]
+    }
+  ],
+  "source_ids": [
+    "C18"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "Strategic communication",
+      "definition": {
+        "vi": "Truyền thông gắn mục tiêu, người nhận, hành động và phản hồi.",
+        "en": "Communication connecting objectives, audiences, actions and feedback."
+      }
+    },
+    {
+      "term": "Misinformation",
+      "definition": {
+        "vi": "Thông tin không chính xác được chia khi người chia không biết sai.",
+        "en": "Inaccurate information shared without awareness of its inaccuracy."
+      }
+    },
+    {
+      "term": "Disinformation",
+      "definition": {
+        "vi": "Thông tin sai hoặc thao túng có chủ ý đánh lừa.",
+        "en": "False or manipulated information used deliberately to deceive."
+      }
+    },
+    {
+      "term": "Hate speech",
+      "definition": {
+        "vi": "Giao tiếp tấn công hoặc phân biệt đối xử dựa vào căn tính.",
+        "en": "Communication attacking or discriminating on identity grounds."
+      }
+    },
+    {
+      "term": "Information integrity",
+      "definition": {
+        "vi": "Môi trường thông tin đáng tin, tôn trọng quyền và cho phép quyết định có thông tin.",
+        "en": "A reliable, rights-respecting information environment enabling informed decisions."
+      }
+    }
+  ],
+  "diagram": null,
+  "contentVersion": "batch-07-expanded-v1-2026-10-29",
+  "sourceIntro": {
+    "vi": "Tài liệu nền, đối chiếu theo mục và ghi chú phiên bản. Lời giảng, bản Anh, câu hỏi và chú thích được biên soạn cho Handbook. Mã bài là cách tổ chức của Handbook.",
+    "en": "Foundational materials, section mapping and edition notes. Teaching, English text, questions and commentary are authored for the Handbook. Lesson numbering belongs to the Handbook."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Bản biên soạn đợt 7 ngày 29/10/2026, chờ người dùng duyệt; không phải ấn phẩm hoặc bản dịch chính thức UN. Mã bài thuộc cách tổ chức Handbook, không phải số bài CPTM.",
+      "Nền chính là giáo án CPTM UN 2025 đã đọc trực tiếp từ PDF trong gói chính thức. Ánh xạ chỉ cơ sở kiến thức theo mục, không phải mọi câu là trích nguyên văn. Hình là vùng slide gốc có tên tài liệu, trang PDF và lời giảng riêng Việt–Anh.",
+      "Giữ bốn tab, Tahoma 14px, giãn dòng 1.75 và căn đều phần thân theo mẫu. Nội dung không thay quy định, mandate, SOP và hướng dẫn áp dụng tại phái bộ; không xác nhận chuyên môn hoặc thay huấn luyện thực hành.",
+      "Phần bảy nguyên tắc là cách tiếp cận MDH trong nhiệm vụ theo CPTM 2.9, không đồng nhất với năm nguyên tắc toàn cầu về information integrity. Không coi phê bình là MDH, không suy ý định chỉ từ tính sai. Không cho phép giám sát, kiểm duyệt, công bố hoặc sử dụng dữ liệu ngoài thẩm quyền."
+    ],
+    "en": [
+      "Batch 7 authored on 29 October 2026 for user review; not an official UN publication or translation. Handbook identifiers are not CPTM lesson numbers.",
+      "The main foundation is UN CPTM 2025 lesson PDFs read from official packages. Mapping identifies section foundations rather than verbatim support for every sentence. Figures are original slide regions with source, PDF page and separate bilingual teaching.",
+      "The four-tab Tahoma 14px interface, 1.75 line height and justified body follow the sample. Content does not replace applicable rules, mandate, SOPs or mission guidance and provides no specialist certification.",
+      "The seven principles are the mission MDH approach in CPTM 2.9, distinct from the five Global Principles for Information Integrity. Criticism is not automatically MDH; inaccuracy alone does not prove intent. No unauthorized surveillance, censorship, publication or data use is permitted."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bài học kết nối mục tiêu truyền thông, kiểm chứng dữ kiện, nhận diện thông tin gây hại, chọn phản hồi và đánh giá tác động. Tính chính xác đi cùng quyền, bảo mật và trách nhiệm sửa sai.",
+      "en": "Connect communication objectives, verification, information-harm assessment, response and evaluation. Accuracy works with rights, confidentiality and correction."
+    },
+    "subtitle": {
+      "vi": "Kiểm chứng · Hiểu người nhận · Phản hồi có căn cứ",
+      "en": "Verify · Understand audiences · Respond with evidence"
+    },
+    "objectives": {
+      "vi": [
+        "Xác định mục tiêu, người nhận và vai trò truyền thông.",
+        "Phân biệt misinformation, disinformation, hate speech và phê bình.",
+        "Kiểm chứng nguồn, bối cảnh và nội dung trực quan.",
+        "Đánh giá nguy cơ, chọn phản hồi trong thẩm quyền.",
+        "Bảo vệ dữ liệu, quản lý phiên bản và đánh giá tác động."
+      ],
+      "en": [
+        "Define communication objectives, audiences and roles.",
+        "Distinguish misinformation, disinformation, hate speech and criticism.",
+        "Verify sources, context and media.",
+        "Assess risk and select authorized responses.",
+        "Protect data, manage versions and assess effects."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc sáu mục trong tab Nội dung bài học và lời giảng kèm hình; bấm hình để xem lớn. Làm 12 câu kiểm tra nhận thức, đọc giải thích và trở lại mục liên quan. VI/EN giữ lựa chọn trong phiên; tải lại trang bắt đầu lại.",
+      "en": "Read six content sections and figure commentary; click figures to enlarge. Complete 12 knowledge questions, review explanations and revisit relevant sections. VI/EN retains selections in the session; reloading starts again."
+    }
+  },
+  "figures": [
+    {
+      "chapter": 3,
+      "image": "assets/lesson-figures/batch-07/C18-p26.png",
+      "caption": {
+        "vi": "Hình 1. Chu trình theo dõi, phân tích, phản hồi và đánh giá",
+        "en": "Figure 1. Monitoring, analysis, response and evaluation cycle"
+      },
+      "alt": {
+        "vi": "Hình 1. Chu trình theo dõi, phân tích, phản hồi và đánh giá",
+        "en": "Figure 1. Monitoring, analysis, response and evaluation cycle"
+      },
+      "explanation": {
+        "vi": "Đọc vòng lặp theo câu hỏi quyết định: Điều gì đang xảy ra, có căn cứ gì, cần làm gì và tác động thực ra sao? Báo cáo đi cùng mọi bước. Khi phản hồi không tới đúng người hoặc chưa giải quyết vấn đề, quay lại phân tích thay vì chỉ đăng thêm cùng nội dung.",
+        "en": "Ask what is happening, what evidence exists, what action is needed and what actually changed. Reporting supports every step. Reassess ineffective responses instead of merely repeating more posts."
+      },
+      "sourceLabel": "UN CPTM 2025 · 2.9 Strategic Communication and Information Integrity",
+      "pdfPage": 26
+    }
+  ],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft",
+  "figureZoom": true
+}

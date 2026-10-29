@@ -1,0 +1,636 @@
+{
+  "schemaVersion": 2,
+  "id": "FPU-18",
+  "area": "fpu",
+  "groupKey": "FPU-M5",
+  "group": {
+    "vi": "Quản lý trật tự công cộng",
+    "en": "Public order management"
+  },
+  "title": {
+    "vi": "Tổ chức lực lượng, trang bị và phương tiện POM",
+    "en": "Public order personnel, equipment and vehicles"
+  },
+  "summary": {
+    "vi": "Bài học FPU-18 tập trung vào chủ đề: Tổ chức lực lượng, trang bị và phương tiện POM. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+    "en": "Lesson FPU-18 covers the following topic: Public order personnel, equipment and vehicles. It connects concepts with professional responsibilities."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "EQUIP",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-041%20Equipment%20familiarisation.pdf",
+  "order": 305,
+  "sections": [
+    {
+      "id": "FPU-18-01",
+      "title": {
+        "vi": "1. Chọn năng lực theo nhiệm vụ",
+        "en": "1. Select capability for the task"
+      },
+      "body": {
+        "vi": "Chọn trang bị theo nhiệm vụ hợp pháp, nguy cơ và người đã được huấn luyện. Phân biệt trang bị bảo vệ với phương tiện sử dụng vũ lực. Ít gây sát thương không có nghĩa vô hại; vẫn có thể gây thương tích nặng hoặc tử vong. Phương tiện chuyên dụng phải theo đào tạo, hướng dẫn sản phẩm và chỉ thị áp dụng.",
+        "en": "Choose equipment for an authorized task, its risks and trained users. Distinguish protective equipment from means of force. Less-lethal does not mean harmless: Serious injury and death remain possible. Specialized use requires approved training, product instructions and applicable directives."
+      },
+      "sourceIds": [
+        "EQUIP",
+        "LESS",
+        "ORG",
+        "LLW"
+      ]
+    },
+    {
+      "id": "FPU-18-02",
+      "title": {
+        "vi": "2. Phân công chức năng, không chỉ chia trang bị",
+        "en": "2. Assign functions as well as equipment"
+      },
+      "body": {
+        "vi": "Cần xác định ai chỉ huy, ai liên lạc/giao tiếp, ai thực hiện phần việc được giao, ai bảo đảm y tế và ai theo dõi vật tư. Nếu cấp đủ trang bị nhưng không xác định người phụ trách, vẫn có thể xảy ra bỏ trống nhiệm vụ.\n\nVí dụ: Cả tổ có thiết bị ghi hình nhưng không ai được phân công quản lý dữ liệu sau nhiệm vụ. Kết quả có thể là nhiều đoạn ghi rời rạc, không rõ thời gian và người lưu giữ. Năng lực ghi nhận phải được tổ chức từ khâu sử dụng tới bảo quản.",
+        "en": "Allocate command, engagement, communications, task execution, medical support, supply and recording responsibilities. Equipment without assigned operators leaves capability gaps. Recording includes use, time identification, transfer and authorized storage; several cameras do not automatically produce a usable record."
+      },
+      "sourceIds": [
+        "EQUIP",
+        "LESS",
+        "ORG",
+        "LLW"
+      ]
+    },
+    {
+      "id": "FPU-18-03",
+      "title": {
+        "vi": "3. Trang bị bảo vệ cá nhân",
+        "en": "3. Personal protective equipment"
+      },
+      "body": {
+        "vi": "Kiểm tra loại nguy cơ thiết bị được thiết kế để bảo vệ, tình trạng, hạn áp dụng, độ phù hợp người dùng, năng lực sử dụng và khả năng kết hợp với liên lạc. Trang bị chống va đập không tự có khả năng chống đạn. Không tự sửa cấu tạo hoặc thêm vật liệu chưa được phê duyệt; đọc hướng dẫn của đúng sản phẩm được cấp.\n\n### 3.1. Đúng thiết kế, đúng người\n\nTrang bị phải phù hợp nguy cơ, kích cỡ, tình trạng và phần việc. Kiểm sự kết hợp mũ, bảo vệ cơ thể, liên lạc để không cản chức năng thiết yếu. Hư hỏng hoặc thay bộ phận cần người có trách nhiệm đánh giá, không tự sửa để trông đủ. Người dùng phải biết giới hạn; biểu tượng, hình dáng hoặc tên gọi chung chưa chứng minh tiêu chuẩn bảo vệ.",
+        "en": "Check the hazard rating, condition, expiry where applicable, fit, user competence and compatibility with communications and the task. Impact protection is not automatically ballistic protection. Do not alter protective construction or add unapproved materials. Follow instructions for the actual issued product.\n\n### 3.1. Match design and user\n\nCheck hazard rating, fit, condition and assigned work. Assess how helmet, body protection and communications function together. Defects and replacement parts require responsible assessment rather than improvised repairs that merely look complete. Users need to understand limits. Appearance, symbols or a generic equipment name do not establish protection standards or interchangeability with another issued product."
+      },
+      "sourceIds": [
+        "EQUIP",
+        "LESS",
+        "ORG",
+        "LLW"
+      ]
+    },
+    {
+      "id": "FPU-18-04",
+      "title": {
+        "vi": "4. Phương tiện ít gây sát thương",
+        "en": "4. Less-lethal means"
+      },
+      "body": {
+        "vi": "Nguy cơ và hiệu quả phụ thuộc loại phương tiện, điều kiện và năng lực người dùng. Có thiết bị không phải lý do đủ để sử dụng. Phân biệt quyền mang, điều kiện dùng và trách nhiệm báo cáo sau sử dụng. Cấp cho vị trí theo nhiệm vụ, năng lực, không chỉ theo số lượng còn trong kho.",
+        "en": "Risk and effect depend on the device, conditions and operator competence. Equipment availability is not enough to justify use. Distinguish authorization to carry, conditions for use and post-use reporting. Assign devices by task and competence rather than remaining stock."
+      },
+      "sourceIds": [
+        "EQUIP",
+        "LESS",
+        "ORG",
+        "LLW"
+      ]
+    },
+    {
+      "id": "FPU-18-05",
+      "title": {
+        "vi": "5. Y tế và ghi nhận đi cùng khả năng sử dụng",
+        "en": "5. Medical care and recording"
+      },
+      "body": {
+        "vi": "Kế hoạch phải dự kiến người bị ảnh hưởng có thể cần trợ giúp và việc chuyển thông tin y tế không được trì hoãn bởi thủ tục báo cáo. Không lấy mức thương tích nhìn thấy ban đầu để tự kết luận rằng không cần hỗ trợ.\n\nKhi lập hồ sơ, cần ghi dữ kiện, quyết định, phương tiện liên quan và kết quả quan sát; không sửa mô tả để khớp một kết luận định trước. Việc rà soát sau nhiệm vụ cần giữ khả năng truy vết dữ liệu và người phụ trách.\n\n### 5.1. Chuẩn bị trách nhiệm sau dùng\n\nXác định y tế, báo cáo, thu hồi vật tư và bảo quản ghi nhận trước nhiệm vụ. Theo dõi dấu hiệu và nhu cầu người bị ảnh hưởng, không chỉ mức thương tích nhìn thấy. Ghi dữ kiện, quyết định, phương tiện và thay đổi; giữ người phụ trách dữ liệu. Khả năng giải trình cần được tổ chức từ đầu, không chờ có phản ánh mới đi tìm đoạn ghi, tên thiết bị hoặc ai sử dụng.",
+        "en": "Plan access to assistance for affected people without delaying care for paperwork. Visible initial injury does not reliably establish the full harm. Record facts, decisions, equipment and observed outcomes. Preserve traceability and avoid editing descriptions to fit a predetermined conclusion.\n\n### 5.1. Prepare post-use responsibilities\n\nIdentify medical care, reporting, supply recovery and record preservation before deployment. Attend to affected people’s signs and needs rather than visible injury alone. Record facts, decisions, means and developments, with data responsibility clear. Organize accountability from the start instead of waiting for a complaint before looking for recordings, equipment identification or the person who used it."
+      },
+      "sourceIds": [
+        "EQUIP",
+        "LESS",
+        "ORG",
+        "LLW"
+      ]
+    },
+    {
+      "id": "FPU-18-06",
+      "title": {
+        "vi": "6. Trang bị chưa sẵn sàng",
+        "en": "6. Identify actual unavailability"
+      },
+      "body": {
+        "vi": "Thiết bị có đủ nhưng thiếu người được huấn luyện, hoặc người có năng lực chưa làm quen mẫu được cấp, đều là hạn chế thực tế. Báo rõ khoảng thiếu và trình phương án thay người, thay thiết bị hoặc điều chỉnh nhiệm vụ. Cùng nhóm phương tiện chưa bảo đảm khả năng thay thế tương đương.",
+        "en": "A device without a trained operator, or an operator unfamiliar with the issued model, is a real limitation even when quantities are complete. Report the gap and propose authorized reassignment, replacement or task adjustment. Similar equipment categories do not guarantee equivalence."
+      },
+      "sourceIds": [
+        "EQUIP",
+        "LESS",
+        "ORG",
+        "LLW"
+      ]
+    },
+    {
+      "id": "FPU-18-07",
+      "title": {
+        "vi": "7. Các nhóm trang bị và giới hạn",
+        "en": "7. Equipment groups and compatibility"
+      },
+      "body": {
+        "vi": "Tách bảo vệ cá nhân, liên lạc/quan sát/ghi nhận, phương tiện vận chuyển, y tế/cháy và phương tiện sử dụng vũ lực. Kiểm tra tính tương thích và người sử dụng, không chỉ số lượng. Không đồng nhất mũ chống bạo loạn với mũ đạn đạo hoặc khiên chống va đập với khiên đạn đạo. Hạn sử dụng, cấu tạo và tiêu chuẩn phải kiểm tra từ sản phẩm được cấp.",
+        "en": "Distinguish personal protection; communications, observation and recording; transport; medical and fire equipment; and means of force. Assess compatibility and operators. Riot helmets and shields are not automatically ballistic items. Product standards, design and service life require verification for the actual equipment."
+      },
+      "sourceIds": [
+        "EQUIP",
+        "LESS",
+        "ORG",
+        "LLW"
+      ]
+    },
+    {
+      "id": "FPU-18-08",
+      "title": {
+        "vi": "8. Trách nhiệm sau sử dụng",
+        "en": "8. Responsibilities after use"
+      },
+      "body": {
+        "vi": "Theo dõi người bị ảnh hưởng, chuyển y tế khi cần, ghi nhận phương tiện và bảo quản dữ kiện; không lấy nhãn ít gây sát thương để suy không cần hậu kiểm. Đối với phương tiện chuyên dụng, điều kiện và giới hạn dùng theo đào tạo, chỉ dẫn nhà sản xuất và chỉ thị áp dụng. Bài này không cung cấp cự ly, cách ngắm hoặc quy trình triển khai vũ khí qua tự học.",
+        "en": "Check affected people, arrange medical care where needed, record the means used and preserve evidence. The less-lethal label does not remove review obligations. Specialized devices remain subject to training, manufacturer instructions and mission restrictions."
+      },
+      "sourceIds": [
+        "EQUIP",
+        "LESS",
+        "ORG",
+        "LLW"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "EQUIP",
+      "title": "Equipment Familiarisation",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-041%20Equipment%20familiarisation.pdf",
+      "format": "pdf",
+      "pages": 14,
+      "reading": "7–11",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "LESS",
+      "title": "Less Than Lethal Weapons",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-044%20Less%20Than%20Lethal%20Weapons.pdf",
+      "format": "pdf",
+      "pages": 49,
+      "reading": "7–10",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "ORG",
+      "title": "Organization of an FPU",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-046%20Organization%20of%20an%20FPU.pdf",
+      "year": "2015",
+      "publisher": "United Nations FPU STM",
+      "format": "pdf",
+      "pages": 21,
+      "reading": "Định nghĩa, tổ chức và chức năng; đối chiếu chính sách 2024.14"
+    },
+    {
+      "id": "LLW",
+      "title": "United Nations Human Rights Guidance on Less-Lethal Weapons in Law Enforcement",
+      "publisher": "OHCHR",
+      "year": "2020",
+      "url": "https://www.ohchr.org/Documents/HRBodies/CCPR/LLW_Guidance.pdf",
+      "format": "pdf",
+      "pages": 58,
+      "reading": "Đối chiếu thuật ngữ, giới hạn và không gian kín; số trang theo bản công bố",
+      "checked": "2026-10-24"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Ít gây sát thương có nghĩa không thể gây chết người.",
+        "en": "Less-lethal means unable to cause death."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Vẫn có nguy cơ thương tích nặng và tử vong.",
+        "en": "Serious injury and death remain possible."
+      }
+    },
+    {
+      "question": {
+        "vi": "Trang bị và người được huấn luyện phải phù hợp nhau.",
+        "en": "Equipment and trained users must match."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Đủ số lượng chưa chứng minh sẵn sàng.",
+        "en": "Quantity alone does not prove readiness."
+      }
+    },
+    {
+      "question": {
+        "vi": "Mũ chống bạo loạn luôn tương đương mũ đạn đạo.",
+        "en": "A riot helmet is always equivalent to a ballistic helmet."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Thiết kế, tiêu chuẩn bảo vệ khác nhau.",
+        "en": "Design and protection ratings differ."
+      }
+    },
+    {
+      "question": {
+        "vi": "Ghi hình cần cả quản lý dữ liệu sau nhiệm vụ.",
+        "en": "Recording also needs post-task data management."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Phải giữ thời gian, trách nhiệm và truy vết.",
+        "en": "Preserve timing, responsibility and traceability."
+      }
+    },
+    {
+      "question": {
+        "vi": "Có thiết bị là đủ lý do sử dụng.",
+        "en": "Having a device is sufficient justification to use it."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Cần thẩm quyền, điều kiện và tính cần thiết.",
+        "en": "Authority, conditions and necessity are required."
+      }
+    },
+    {
+      "question": {
+        "vi": "Sau sử dụng vẫn phải chăm sóc và rà soát.",
+        "en": "Care and review remain necessary after use."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Nhãn ít gây sát thương không xóa trách nhiệm.",
+        "en": "The less-lethal label does not remove responsibility."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Trang bị bảo vệ cá nhân?",
+        "en": "Which concept matches: Personal protective equipment?"
+      },
+      "options": [
+        {
+          "vi": "PPE",
+          "en": "PPE"
+        },
+        {
+          "vi": "Less-lethal",
+          "en": "Less-lethal"
+        },
+        {
+          "vi": "Harmless",
+          "en": "Harmless"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "PPE: Trang bị bảo vệ cá nhân.",
+        "en": "PPE: Personal protective equipment."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Phương tiện ít gây sát thương nhưng vẫn có nguy cơ gây hại nghiêm trọng?",
+        "en": "Which concept matches: Less-lethal means that can still cause serious harm?"
+      },
+      "options": [
+        {
+          "vi": "Harmless",
+          "en": "Harmless"
+        },
+        {
+          "vi": "Less-lethal",
+          "en": "Less-lethal"
+        },
+        {
+          "vi": "PPE",
+          "en": "PPE"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Less-lethal: Phương tiện ít gây sát thương nhưng vẫn có nguy cơ gây hại nghiêm trọng.",
+        "en": "Less-lethal: Less-lethal means that can still cause serious harm."
+      }
+    }
+  ],
+  "updated": "2026-10-26",
+  "moduleId": "FPU-M5",
+  "moduleOrder": 3,
+  "lessonOrder": 5,
+  "sourceModule": {
+    "programme": "STM-FPU",
+    "number": 5,
+    "title": "Public order management"
+  },
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "FPU-18-01",
+      "title": {
+        "vi": "1. Chọn năng lực theo nhiệm vụ",
+        "en": "1. Select capability for the task"
+      },
+      "body": {
+        "vi": "Chọn trang bị theo nhiệm vụ hợp pháp, nguy cơ và người đã được huấn luyện. Phân biệt trang bị bảo vệ với phương tiện sử dụng vũ lực. Ít gây sát thương không có nghĩa vô hại; vẫn có thể gây thương tích nặng hoặc tử vong. Phương tiện chuyên dụng phải theo đào tạo, hướng dẫn sản phẩm và chỉ thị áp dụng.",
+        "en": "Choose equipment for an authorized task, its risks and trained users. Distinguish protective equipment from means of force. Less-lethal does not mean harmless: Serious injury and death remain possible. Specialized use requires approved training, product instructions and applicable directives."
+      },
+      "sourceIds": [
+        "EQUIP",
+        "LESS",
+        "ORG",
+        "LLW"
+      ]
+    },
+    {
+      "id": "FPU-18-02",
+      "title": {
+        "vi": "2. Phân công chức năng, không chỉ chia trang bị",
+        "en": "2. Assign functions as well as equipment"
+      },
+      "body": {
+        "vi": "Cần xác định ai chỉ huy, ai liên lạc/giao tiếp, ai thực hiện phần việc được giao, ai bảo đảm y tế và ai theo dõi vật tư. Nếu cấp đủ trang bị nhưng không xác định người phụ trách, vẫn có thể xảy ra bỏ trống nhiệm vụ.\n\nVí dụ: Cả tổ có thiết bị ghi hình nhưng không ai được phân công quản lý dữ liệu sau nhiệm vụ. Kết quả có thể là nhiều đoạn ghi rời rạc, không rõ thời gian và người lưu giữ. Năng lực ghi nhận phải được tổ chức từ khâu sử dụng tới bảo quản.",
+        "en": "Allocate command, engagement, communications, task execution, medical support, supply and recording responsibilities. Equipment without assigned operators leaves capability gaps. Recording includes use, time identification, transfer and authorized storage; several cameras do not automatically produce a usable record."
+      },
+      "sourceIds": [
+        "EQUIP",
+        "LESS",
+        "ORG",
+        "LLW"
+      ]
+    },
+    {
+      "id": "FPU-18-03",
+      "title": {
+        "vi": "3. Trang bị bảo vệ cá nhân",
+        "en": "3. Personal protective equipment"
+      },
+      "body": {
+        "vi": "Kiểm tra loại nguy cơ thiết bị được thiết kế để bảo vệ, tình trạng, hạn áp dụng, độ phù hợp người dùng, năng lực sử dụng và khả năng kết hợp với liên lạc. Trang bị chống va đập không tự có khả năng chống đạn. Không tự sửa cấu tạo hoặc thêm vật liệu chưa được phê duyệt; đọc hướng dẫn của đúng sản phẩm được cấp.\n\n### 3.1. Đúng thiết kế, đúng người\n\nTrang bị phải phù hợp nguy cơ, kích cỡ, tình trạng và phần việc. Kiểm sự kết hợp mũ, bảo vệ cơ thể, liên lạc để không cản chức năng thiết yếu. Hư hỏng hoặc thay bộ phận cần người có trách nhiệm đánh giá, không tự sửa để trông đủ. Người dùng phải biết giới hạn; biểu tượng, hình dáng hoặc tên gọi chung chưa chứng minh tiêu chuẩn bảo vệ.",
+        "en": "Check the hazard rating, condition, expiry where applicable, fit, user competence and compatibility with communications and the task. Impact protection is not automatically ballistic protection. Do not alter protective construction or add unapproved materials. Follow instructions for the actual issued product.\n\n### 3.1. Match design and user\n\nCheck hazard rating, fit, condition and assigned work. Assess how helmet, body protection and communications function together. Defects and replacement parts require responsible assessment rather than improvised repairs that merely look complete. Users need to understand limits. Appearance, symbols or a generic equipment name do not establish protection standards or interchangeability with another issued product."
+      },
+      "sourceIds": [
+        "EQUIP",
+        "LESS",
+        "ORG",
+        "LLW"
+      ]
+    },
+    {
+      "id": "FPU-18-04",
+      "title": {
+        "vi": "4. Phương tiện ít gây sát thương",
+        "en": "4. Less-lethal means"
+      },
+      "body": {
+        "vi": "Nguy cơ và hiệu quả phụ thuộc loại phương tiện, điều kiện và năng lực người dùng. Có thiết bị không phải lý do đủ để sử dụng. Phân biệt quyền mang, điều kiện dùng và trách nhiệm báo cáo sau sử dụng. Cấp cho vị trí theo nhiệm vụ, năng lực, không chỉ theo số lượng còn trong kho.",
+        "en": "Risk and effect depend on the device, conditions and operator competence. Equipment availability is not enough to justify use. Distinguish authorization to carry, conditions for use and post-use reporting. Assign devices by task and competence rather than remaining stock."
+      },
+      "sourceIds": [
+        "EQUIP",
+        "LESS",
+        "ORG",
+        "LLW"
+      ]
+    },
+    {
+      "id": "FPU-18-05",
+      "title": {
+        "vi": "5. Y tế và ghi nhận đi cùng khả năng sử dụng",
+        "en": "5. Medical care and recording"
+      },
+      "body": {
+        "vi": "Kế hoạch phải dự kiến người bị ảnh hưởng có thể cần trợ giúp và việc chuyển thông tin y tế không được trì hoãn bởi thủ tục báo cáo. Không lấy mức thương tích nhìn thấy ban đầu để tự kết luận rằng không cần hỗ trợ.\n\nKhi lập hồ sơ, cần ghi dữ kiện, quyết định, phương tiện liên quan và kết quả quan sát; không sửa mô tả để khớp một kết luận định trước. Việc rà soát sau nhiệm vụ cần giữ khả năng truy vết dữ liệu và người phụ trách.\n\n### 5.1. Chuẩn bị trách nhiệm sau dùng\n\nXác định y tế, báo cáo, thu hồi vật tư và bảo quản ghi nhận trước nhiệm vụ. Theo dõi dấu hiệu và nhu cầu người bị ảnh hưởng, không chỉ mức thương tích nhìn thấy. Ghi dữ kiện, quyết định, phương tiện và thay đổi; giữ người phụ trách dữ liệu. Khả năng giải trình cần được tổ chức từ đầu, không chờ có phản ánh mới đi tìm đoạn ghi, tên thiết bị hoặc ai sử dụng.",
+        "en": "Plan access to assistance for affected people without delaying care for paperwork. Visible initial injury does not reliably establish the full harm. Record facts, decisions, equipment and observed outcomes. Preserve traceability and avoid editing descriptions to fit a predetermined conclusion.\n\n### 5.1. Prepare post-use responsibilities\n\nIdentify medical care, reporting, supply recovery and record preservation before deployment. Attend to affected people’s signs and needs rather than visible injury alone. Record facts, decisions, means and developments, with data responsibility clear. Organize accountability from the start instead of waiting for a complaint before looking for recordings, equipment identification or the person who used it."
+      },
+      "sourceIds": [
+        "EQUIP",
+        "LESS",
+        "ORG",
+        "LLW"
+      ]
+    },
+    {
+      "id": "FPU-18-06",
+      "title": {
+        "vi": "6. Trang bị chưa sẵn sàng",
+        "en": "6. Identify actual unavailability"
+      },
+      "body": {
+        "vi": "Thiết bị có đủ nhưng thiếu người được huấn luyện, hoặc người có năng lực chưa làm quen mẫu được cấp, đều là hạn chế thực tế. Báo rõ khoảng thiếu và trình phương án thay người, thay thiết bị hoặc điều chỉnh nhiệm vụ. Cùng nhóm phương tiện chưa bảo đảm khả năng thay thế tương đương.",
+        "en": "A device without a trained operator, or an operator unfamiliar with the issued model, is a real limitation even when quantities are complete. Report the gap and propose authorized reassignment, replacement or task adjustment. Similar equipment categories do not guarantee equivalence."
+      },
+      "sourceIds": [
+        "EQUIP",
+        "LESS",
+        "ORG",
+        "LLW"
+      ]
+    },
+    {
+      "id": "FPU-18-07",
+      "title": {
+        "vi": "7. Các nhóm trang bị và giới hạn",
+        "en": "7. Equipment groups and compatibility"
+      },
+      "body": {
+        "vi": "Tách bảo vệ cá nhân, liên lạc/quan sát/ghi nhận, phương tiện vận chuyển, y tế/cháy và phương tiện sử dụng vũ lực. Kiểm tra tính tương thích và người sử dụng, không chỉ số lượng. Không đồng nhất mũ chống bạo loạn với mũ đạn đạo hoặc khiên chống va đập với khiên đạn đạo. Hạn sử dụng, cấu tạo và tiêu chuẩn phải kiểm tra từ sản phẩm được cấp.",
+        "en": "Distinguish personal protection; communications, observation and recording; transport; medical and fire equipment; and means of force. Assess compatibility and operators. Riot helmets and shields are not automatically ballistic items. Product standards, design and service life require verification for the actual equipment."
+      },
+      "sourceIds": [
+        "EQUIP",
+        "LESS",
+        "ORG",
+        "LLW"
+      ]
+    },
+    {
+      "id": "FPU-18-08",
+      "title": {
+        "vi": "8. Trách nhiệm sau sử dụng",
+        "en": "8. Responsibilities after use"
+      },
+      "body": {
+        "vi": "Theo dõi người bị ảnh hưởng, chuyển y tế khi cần, ghi nhận phương tiện và bảo quản dữ kiện; không lấy nhãn ít gây sát thương để suy không cần hậu kiểm. Đối với phương tiện chuyên dụng, điều kiện và giới hạn dùng theo đào tạo, chỉ dẫn nhà sản xuất và chỉ thị áp dụng. Bài này không cung cấp cự ly, cách ngắm hoặc quy trình triển khai vũ khí qua tự học.",
+        "en": "Check affected people, arrange medical care where needed, record the means used and preserve evidence. The less-lethal label does not remove review obligations. Specialized devices remain subject to training, manufacturer instructions and mission restrictions."
+      },
+      "sourceIds": [
+        "EQUIP",
+        "LESS",
+        "ORG",
+        "LLW"
+      ]
+    }
+  ],
+  "source_ids": [
+    "EQUIP",
+    "LESS",
+    "ORG",
+    "LLW"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "PPE",
+      "definition": {
+        "vi": "Trang bị bảo vệ cá nhân",
+        "en": "Personal protective equipment"
+      }
+    },
+    {
+      "term": "Less-lethal",
+      "definition": {
+        "vi": "Phương tiện ít gây sát thương nhưng vẫn có nguy cơ gây hại nghiêm trọng",
+        "en": "Less-lethal means that can still cause serious harm"
+      }
+    }
+  ],
+  "diagram": {
+    "type": "parallel",
+    "items": [
+      {
+        "vi": "Đúng nguy cơ",
+        "en": "Right hazard"
+      },
+      {
+        "vi": "Đúng người dùng",
+        "en": "Trained user"
+      },
+      {
+        "vi": "Hoạt động được",
+        "en": "Serviceable"
+      },
+      {
+        "vi": "Đúng thẩm quyền",
+        "en": "Authorized"
+      }
+    ],
+    "chapter": 1
+  },
+  "contentVersion": "4tab-2026-10-26",
+  "sourceIntro": {
+    "vi": "Các tài liệu dưới đây là nền tảng kiến thức của bài. Mở nguồn để đọc nội dung gốc; phần giải thích, sơ đồ học tập và câu hỏi được biên soạn cho Handbook.",
+    "en": "The materials below provide the lesson’s knowledge base. Open them for the original teaching material; explanations, instructional diagrams and questions are developed for the Handbook."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Hai bản Việt–Anh phục vụ học tập, không phải bản dịch chính thức của UN. Danh mục và thứ tự 48 bài là cách tổ chức học liệu của Handbook, không phải số bài chính thức của UN.",
+      "Bảng đối chiếu xác định tài liệu nền theo mục; không khẳng định mọi câu diễn giải là trích nguyên văn. Hình gốc ghi rõ tài liệu và trang PDF; sơ đồ học tập được ghi là biên soạn.",
+      "STM–FPU 2015 được sử dụng cho nền tảng huấn luyện. Các vai trò và cơ chế tổ chức liên quan được đọc cùng Policy 2024.14. Không dùng số tiền COE, lịch đánh giá, quân số, cự ly hoặc tốc độ mẫu năm 2015 như quy định hiện hành. Các SOP, SUR, MOU và chỉ thị phái bộ áp dụng cần được xác nhận khi triển khai."
+    ],
+    "en": [
+      "The Vietnamese and English texts are for learning and are not official UN translations. The 48-lesson catalogue and numbering are the Handbook’s organization, not the official UN lesson count.",
+      "The mapping identifies source materials by section and does not present every explanation as a verbatim quotation. Original illustrations identify the material and PDF page; instructional diagrams are labelled as developed for the lesson.",
+      "STM–FPU 2015 supplies training foundations. Relevant roles and organizational arrangements are read with Policy 2024.14. Reimbursement rates, assessment schedules, staffing, distances and speeds from old examples are not treated as current universal rules. Applicable mission SOPs, SUR, MOU and directives require confirmation for deployment."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bài học FPU-18 tập trung vào chủ đề: Tổ chức lực lượng, trang bị và phương tiện POM. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+      "en": "Lesson FPU-18 covers the following topic: Public order personnel, equipment and vehicles. It connects concepts with professional responsibilities."
+    },
+    "subtitle": {
+      "vi": "Học kiến thức, hiểu trách nhiệm và kiểm tra nhận thức.",
+      "en": "Learn the concepts, understand responsibilities and check your knowledge."
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích: Chọn năng lực theo nhiệm vụ; Phân công chức năng, không chỉ chia trang bị.",
+        "Giải thích: Trang bị bảo vệ cá nhân; Phương tiện ít gây sát thương.",
+        "Giải thích: Y tế và ghi nhận đi cùng khả năng sử dụng; Trang bị chưa sẵn sàng; Các nhóm trang bị và giới hạn; Trách nhiệm sau sử dụng.",
+        "Nhận diện cách hiểu sai và chọn nhận định có căn cứ trong kiểm tra nhận thức."
+      ],
+      "en": [
+        "Explain: Select capability for the task; Assign functions as well as equipment.",
+        "Explain: Personal protective equipment; Less-lethal means.",
+        "Explain: Medical care and recording; Identify actual unavailability; Equipment groups and compatibility; Responsibilities after use.",
+        "Recognize misconceptions and select evidence-based statements in the knowledge check."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc các mục theo thứ tự trong tab nội dung, quan sát sơ đồ và hình, sau đó hoàn thành kiểm tra nhận thức. Chọn VI/EN để đổi ngôn ngữ; đáp án được giữ khi đổi ngôn ngữ trong phiên mở trang. Tải lại trang sẽ bắt đầu lại.",
+      "en": "Read the sections in order, study diagrams and illustrations, then complete the knowledge check. Use VI/EN to switch languages; answers are retained across language changes during the session. Reloading starts a new session."
+    }
+  },
+  "figures": [],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft"
+}

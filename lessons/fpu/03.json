@@ -1,0 +1,704 @@
+{
+  "schemaVersion": 2,
+  "id": "FPU-03",
+  "area": "fpu",
+  "groupKey": "FPU-M6",
+  "group": {
+    "vi": "Chỉ huy và tham mưu",
+    "en": "Command staff training"
+  },
+  "title": {
+    "vi": "Huấn luyện, bảo dưỡng và duy trì khả năng sẵn sàng",
+    "en": "Training, maintenance and sustained readiness"
+  },
+  "summary": {
+    "vi": "Sẵn sàng là năng lực thực hiện nhiệm vụ trong điều kiện hiện tại. Bài học nối huấn luyện trước triển khai, nhập phái bộ, tập luyện phối hợp, bảo dưỡng, PAER và PIP thành chu kỳ cải thiện.",
+    "en": "Readiness is task capability under current conditions. Connect pre-deployment preparation, induction, interoperability, maintenance, PAER and PIP in continuing improvement."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "TRAIN",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-054%20FPU%20Training%20%26%20maintenance.pdf",
+  "order": 403,
+  "sections": [
+    {
+      "id": "FPU-03-01",
+      "title": {
+        "vi": "1. Hiểu đúng khả năng sẵn sàng",
+        "en": "1. Understanding operational readiness"
+      },
+      "body": {
+        "vi": "### 1.1. Sẵn sàng cho nhiệm vụ nào\nKhả năng sẵn sàng là khả năng thực hiện nhiệm vụ được giao, trong điều kiện cụ thể, bằng nhân sự, tổ chức, trang bị và bảo đảm phù hợp. Không thể trả lời đầy đủ bằng một chữ “đủ” hoặc một tỷ lệ quân số chung. Đơn vị có thể đủ người cho nhiệm vụ bảo vệ cơ sở nhưng thiếu lái xe hoặc thông tin liên lạc cho một nhiệm vụ cơ động.\n\nVì vậy, mỗi đánh giá cần gắn với yêu cầu: Nhiệm vụ, thời gian có thể triển khai, thời gian duy trì, nguy cơ và giới hạn. Người giao lệnh cần biết đơn vị có thể làm gì, điều kiện nào phải được đáp ứng và phần nào đang bị hạn chế. Báo cáo rõ giới hạn giúp tổ chức đáp ứng đúng; che thiếu sót có thể đưa cả đơn vị và dân thường vào nguy hiểm.\n\n### 1.2. Các yếu tố phải đi cùng nhau\nNhân sự cần có mặt, đủ điều kiện và được giao đúng vai trò. Chỉ huy cần hiểu thẩm quyền, tổ chức quyết định và duy trì thông tin. Trang bị phải sử dụng được, tương thích và phù hợp nhiệm vụ. Bảo đảm phải duy trì được vận chuyển, y tế, tiếp tế và phục hồi. Huấn luyện cần kết nối những yếu tố đó trong hành động tập thể.\n\nCó thể tự hỏi: Nếu thiếu một mắt xích, nhiệm vụ nào bị ảnh hưởng? Chẳng hạn, bộ đàm hỏng không chỉ là thiếu tài sản; nó có thể làm chỉ huy không nhận được cảnh báo, phân đội không nhận lệnh đổi nhiệm vụ và hỗ trợ y tế đến chậm. Cách nhìn theo hệ quả giúp chọn ưu tiên khắc phục.\n\n### 1.3. Bằng chứng của sẵn sàng\nHồ sơ học tập chứng minh đã tham gia; kết quả đánh giá và quan sát thực hành giúp chứng minh năng lực. Nhật ký bảo dưỡng cho thấy công việc đã làm; kiểm tra chức năng giúp xác định trang bị thực sự hoạt động. Bằng chứng phải gần thời điểm sử dụng và phù hợp nhiệm vụ, không chỉ dựa vào thành tích trước triển khai.\n\n### 1.4. Trách nhiệm liên tục\nQuốc gia đóng góp chịu trách nhiệm chuẩn bị trước triển khai. Tại phái bộ, HoPC, cơ chế điều phối FPU, huấn luyện và chỉ huy đơn vị phối hợp duy trì, đánh giá và xử lý thiếu sót theo chức trách. Vượt qua một kỳ đánh giá là mốc xác nhận, không phải trạng thái được bảo đảm cho cả nhiệm kỳ. Người, phương tiện và môi trường đều thay đổi; cách quản lý phải theo dõi được sự thay đổi ấy.",
+        "en": "### 1.1. Ready for which task?\nReadiness is the ability to perform an assigned task in specific conditions with suitable personnel, organization, equipment and support. A general staffing percentage is insufficient. A unit ready for static protection may lack drivers or communications for mobile operations.\n\nAssess the task, deployment time, sustainment duration, threats and limitations. Tasking authorities need to know what is feasible, required conditions and current gaps. Accurate limitations enable an appropriate response; concealed weaknesses endanger personnel and civilians.\n\n### 1.2. Interdependent elements\nPersonnel must be present, qualified and correctly assigned. Command must understand authority, make decisions and maintain information flow. Equipment must be functional, interoperable and suitable. Support must sustain transport, medical care, supply and recovery. Training connects these elements in collective action.\n\nExamine consequences of each missing element. A defective radio is more than an inventory shortage: Warnings, revised orders and medical support may all be delayed. Consequence-based analysis helps prioritize correction.\n\n### 1.3. Evidence of readiness\nAttendance records establish participation; assessment and practical observation help establish competence. Maintenance records document work; functional checks establish actual performance. Evidence must suit the task and remain sufficiently current, rather than rely only on pre-deployment achievements.\n\n### 1.4. Continuing responsibility\nThe contributor prepares the unit before deployment. In mission, the HoPC, FPU coordination and training mechanisms and unit command sustain and assess capability within their responsibilities. Passing an assessment is a milestone, not a guarantee for the whole tour. People, equipment and operating conditions change, and readiness management must detect those changes."
+      },
+      "sourceIds": [
+        "POLICY",
+        "CSC004"
+      ]
+    },
+    {
+      "id": "FPU-03-02",
+      "title": {
+        "vi": "2. Chuẩn bị, huấn luyện và đánh giá trước triển khai",
+        "en": "2. Pre-deployment preparation, training and assessment"
+      },
+      "body": {
+        "vi": "### 2.1. Huấn luyện theo chuẩn và nhiệm vụ\nHuấn luyện trước triển khai phải dựa trên chuẩn UN áp dụng, nhiệm vụ dự kiến và trang bị sẽ sử dụng. Kiến thức nền về hòa bình, nhân quyền, hành vi và kỷ luật cần được gắn với chuyên môn FPU. Những nhóm năng lực quan trọng gồm kỹ thuật cảnh sát, quản lý trật tự công cộng và giảm hại dân sự, vũ lực và vũ khí ít gây chết người, nhận biết hiểm họa nổ, phòng ngừa SEA và chuẩn mực pháp lý.\n\nKhông nên tách chuẩn mực thành một bài lý thuyết rồi chỉ đánh giá kỹ thuật ở buổi thực hành. Trong mỗi hoạt động tập thể, cần quan sát cách nhận diện nguy cơ, giải thích lệnh, giao tiếp, bảo vệ người dễ bị hại và báo cáo. Kỹ thuật thực hiện đúng nhưng mục tiêu không hợp pháp vẫn là một thiếu sót nghiêm trọng.\n\n### 2.2. Chuẩn bị cùng nhau\nNhân sự chỉ huy và tác nghiệp cần huấn luyện, tập luyện cùng đơn vị để hình thành khả năng phối hợp. Huấn luyện trên loại vũ khí, phương tiện và trang bị khác với những gì sẽ dùng tạo khoảng trống chuyển giao. Cần chuẩn bị người thay thế cho vị trí trọng yếu và kiểm tra khả năng hiểu ngôn ngữ công tác, thay vì dựa hoàn toàn vào một người dịch lệnh.\n\nChính sách 2024.14 dành tối thiểu tám tuần riêng cho nội dung chuẩn huấn luyện trước triển khai FPU. Thời lượng là điều kiện tổ chức, không thay thế yêu cầu đạt năng lực. Không cộng thời gian có tên trong danh sách để suy rằng nội dung thực hành đã được hoàn thành.\n\n### 2.3. AOC và FPAT\nAOC là đánh giá khả năng tác nghiệp trước triển khai; FPAT là đội đánh giá FPU của UN. AOC bắt buộc và việc được thông qua là điều kiện để đơn vị phục vụ tại phái bộ. Đơn vị phải tự kiểm tra, sàng lọc và khắc phục trước khi đội đánh giá đến, đồng thời cung cấp hồ sơ thật về năng lực và điều kiện nhân sự.\n\n### 2.4. Khắc phục trước khi xác nhận\nNếu không đạt, cần huấn luyện lại, sửa thiếu sót và đánh giá lại theo cơ chế áp dụng. Không dùng người ngoài đơn vị để thể hiện năng lực thay cho người sẽ triển khai. Kiểm tra giấy tờ, sức khỏe, tiêm chủng và điều kiện lái xe cần được tổ chức đúng trách nhiệm với người có chuyên môn; chỉ huy không tự kết luận y khoa thay bác sĩ.",
+        "en": "### 2.1. Train against standards and tasks\nPre-deployment training follows applicable UN standards, expected tasks and deployed equipment. Core peacekeeping, human rights, conduct and discipline must connect with FPU skills: Police techniques, POM and civilian harm mitigation, force and less-lethal equipment, explosive-hazard awareness, SEA prevention and legal standards.\n\nDo not isolate standards in theory while assessing only technique in practice. Observe risk recognition, orders, communication, safeguards and reporting throughout collective exercises. Technical proficiency cannot validate an unlawful objective.\n\n### 2.2. Prepare cohesively\nCommand and operational personnel must train together. Different training and deployed equipment creates transition gaps. Develop qualified replacements for critical roles and working-language competence rather than dependence on a single interpreter.\n\nPolicy 2024.14 provides a minimum of eight weeks devoted exclusively to FPU pre-deployment training standards. Time allocation supports preparation but does not replace demonstrated competence or prove that practical content was completed.\n\n### 2.3. AOC and FPAT\nThe Assessment of Operational Capability is conducted before deployment by a UN Formed Police Assessment Team. AOC clearance is mandatory for service. Units must conduct internal checks, screening and correction beforehand and provide truthful records of personnel and capability.\n\n### 2.4. Correct before certification\nUnsuccessful units require remedial training and reassessment under applicable procedures. Personnel outside the deploying unit must not demonstrate substitute capability. Organize documentation, medical clearance, vaccination and driving requirements through competent actors. Commanders do not replace medical judgment."
+      },
+      "sourceIds": [
+        "POLICY",
+        "CSC004"
+      ]
+    },
+    {
+      "id": "FPU-03-03",
+      "title": {
+        "vi": "3. Huấn luyện trong phái bộ và khả năng phối hợp",
+        "en": "3. In-mission training and interoperability"
+      },
+      "body": {
+        "vi": "### 3.1. Nhập phái bộ là bước chuyển nhiệm vụ\nHuấn luyện nhập phái bộ giúp đơn vị hiểu địa bàn, mandate, DUF, SOP, cơ chế báo cáo, y tế, an ninh và các yêu cầu tại nơi triển khai. Theo chính sách FPU, giai đoạn này có thời lượng ít nhất một tuần và thực hiện trong tháng đầu. Chỉ có kinh nghiệm trong nước hoặc đã đi phái bộ khác chưa đủ để bỏ qua quá trình này.\n\nCần phân biệt hiểu tên tài liệu với hiểu cách thực hiện. Người làm nhiệm vụ phải biết tìm lệnh nào, báo đầu mối nào và làm gì khi tình hình thay đổi. Kiểm tra hiểu bằng trao đổi và thực hành ngắn sẽ phát hiện khoảng trống sớm hơn một bản ký xác nhận đã đọc.\n\n### 3.2. Chu kỳ huấn luyện duy trì\nKế hoạch duy trì nên xuất phát từ nhiệm vụ sắp tới, kết quả đánh giá, lỗi thực tế và thay đổi quân số, trang bị. Tổ chức từ kỹ năng cá nhân tới phân đội, rồi phối hợp tập thể. Kế hoạch phải có mục tiêu quan sát được, người hướng dẫn đủ năng lực, khu vực an toàn, phương tiện và thời gian phục hồi.\n\nVí dụ, mục tiêu “cải thiện báo cáo” còn rộng. Mục tiêu cụ thể hơn là người nhận nhiệm vụ phân biệt được quan sát với nhận định, báo đủ thông tin cần cho quyết định và xác nhận người nhận. Đây là cách chuyển một nhu cầu thành hành vi có thể đánh giá, không phải thêm một buổi học chỉ để đủ số giờ.\n\n### 3.3. Tập luyện phối hợp\nCác FPU khác quốc gia cần hiểu cách liên lạc, tuyến chỉ huy và quy ước phối hợp của nhau. Tập luyện với thành phần quân sự và đối tác theo cơ chế phái bộ giúp kiểm tra giao diện công việc, thẩm quyền, hỗ trợ và chuyển thông tin. Đứng chung đội hình không tự chứng minh khả năng phối hợp.\n\nTrong diễn tập, cần quan sát việc xác nhận lệnh, báo cáo thay đổi và duy trì trách nhiệm của từng thành phần. Không dùng diễn tập để tự tạo một tuyến chỉ huy khác cơ chế đã được phê chuẩn. Mọi khác biệt phát hiện cần được sửa trong SOP, tổ chức hoặc huấn luyện tương ứng.\n\n### 3.4. An toàn trong huấn luyện\nĐánh giá nguy cơ, kiểm tra trang bị, phân biệt rõ phương tiện tập với phương tiện sử dụng thực tế và có hỗ trợ y tế phù hợp. Người tham gia phải biết tín hiệu dừng và cách báo một điều kiện không an toàn. Áp lực hoàn thành lịch không được dùng để bỏ qua dấu hiệu chấn thương, quá tải nhiệt hoặc lỗi kỹ thuật.",
+        "en": "### 3.1. Induction connects capability to the mission\nMission induction covers the area, mandate, DUF, SOPs, reporting, medical and security arrangements. FPU policy specifies at least one week within the first month. Domestic experience or service in another mission does not replace this preparation.\n\nKnowing a document's title differs from knowing how to act. Members need to locate instructions, identify reporting contacts and respond to changed conditions. Discussion and short practical checks reveal gaps earlier than acknowledgement signatures alone.\n\n### 3.2. Sustainment training\nBuild training around upcoming tasks, assessments, observed errors and personnel or equipment changes. Progress from individual skills to sub-unit and collective competence. Specify observable objectives, qualified instructors, a safe location, equipment and recovery time.\n\n“Improve reporting” is vague. A more useful objective requires members to distinguish observation from assessment, communicate decision-relevant facts and confirm receipt. This translates a need into assessable behaviour rather than merely adding training hours.\n\n### 3.3. Interoperability exercises\nFPUs of different nationalities need compatible communications and shared understanding of command arrangements. Mission-authorized exercises with military and other partners test interfaces, authority, support and information transfer. Standing together does not demonstrate interoperability.\n\nObserve acknowledgement, updates and continuing accountability. Exercises cannot create an alternative command chain. Correct identified differences through appropriate SOPs, organization or training.\n\n### 3.4. Training safety\nAssess risk, check equipment, clearly distinguish training from operational items and arrange suitable medical support. Participants must know stop signals and how to report unsafe conditions. Schedule pressure does not justify ignoring injury, heat strain or technical faults."
+      },
+      "sourceIds": [
+        "POLICY",
+        "TRAIN"
+      ]
+    },
+    {
+      "id": "FPU-03-04",
+      "title": {
+        "vi": "4. Bảo dưỡng và kiểm tra trước nhiệm vụ",
+        "en": "4. Maintenance and pre-task checks"
+      },
+      "body": {
+        "vi": "### 4.1. Bảo dưỡng là một phần của sẵn sàng\nBảo dưỡng giữ trang bị đáp ứng chức năng trong suốt vòng đời sử dụng. Cần phân biệt chăm sóc thường xuyên của người dùng, bảo dưỡng phòng ngừa và sửa chữa do người có năng lực thực hiện. Không tự mở, chỉnh hoặc thay đổi hệ thống vượt trình độ và thẩm quyền. Việc thấy thiết bị hoạt động ở một thời điểm chưa loại trừ lỗi tiềm ẩn cần kiểm tra kỹ thuật.\n\nĐơn vị cần dành thời gian, công cụ và vật tư cho bảo dưỡng trong kế hoạch chung. Nếu lịch tác nghiệp sử dụng mọi xe hoặc mọi kíp liên tục mà không có thời gian duy trì, khả năng sẵn sàng sẽ giảm dần dù báo cáo ban đầu tốt. Tạm rút một phương tiện để bảo dưỡng đúng lịch có thể bảo vệ năng lực lâu dài.\n\n### 4.2. Kiểm tra gắn với yêu cầu nhiệm vụ\nTrước nhiệm vụ, kiểm tra quân số và vai trò, trang bị bảo vệ phù hợp, liên lạc, phương tiện, y tế và bảo đảm. Người chỉ huy cần xác nhận thành viên hiểu nhiệm vụ, giới hạn và cách báo cáo. Chỉ kiểm tra đã phát đủ vật dụng mà không kiểm tra tương thích, tình trạng hoặc người sử dụng có thể bỏ sót rủi ro quan trọng.\n\nKiểm tra phải phù hợp vai trò: Người lái xác nhận điều kiện vận hành xe; người phụ trách liên lạc kiểm tra chức năng và phương án dự phòng; người phụ trách y tế xác nhận nguồn lực và cơ chế tiếp nhận. Mọi bên báo kết quả về đầu mối để chỉ huy có bức tranh thống nhất.\n\n### 4.3. Kiểm soát lỗi và sử dụng trở lại\nLỗi ảnh hưởng an toàn cần được báo, đánh dấu và ngăn sử dụng nhầm. Hồ sơ phải cho thấy đã làm gì, ai thực hiện và cách xác nhận khắc phục. Không tự bỏ dấu hạn chế chỉ vì nhiệm vụ cần gấp. Nếu phải dùng giải pháp thay thế, cần có đánh giá, cho phép và giới hạn phù hợp.\n\n### 4.4. Sau nhiệm vụ\nThu hồi và kiểm tra giúp phát hiện hư hỏng, thiếu vật tư, vấn đề vệ sinh, nhu cầu sửa và tình trạng sức khỏe quân số. Kết quả cần cập nhật ngay vào bức tranh sẵn sàng cho nhiệm vụ tiếp theo. Kết thúc một nhiệm vụ không đồng nghĩa đơn vị có thể lập tức nhận nhiệm vụ khác với cùng năng lực; phải tính việc phục hồi, tiếp tế và bảo dưỡng thực tế.",
+        "en": "### 4.1. Maintenance is readiness work\nDistinguish operator care, preventive servicing and qualified corrective repair. Members must not dismantle or modify systems beyond competence and authority. Successful operation at one moment does not exclude latent faults requiring technical examination.\n\nProtect maintenance time, tools and supplies in the operational schedule. Continuous employment without servicing gradually erodes capability. Temporarily withdrawing an asset for planned maintenance can preserve longer-term readiness.\n\n### 4.2. Task-specific checks\nBefore deployment, verify personnel and roles, suitable protection, communications, vehicles, medical support and sustainment. Confirm that members understand tasks, limits and reporting. Issuing the expected quantity of equipment is insufficient when compatibility, condition or operator competence is missing.\n\nAllocate checks to competent roles: Drivers confirm vehicle readiness, communications personnel test function and alternatives, and medical personnel confirm resources and receiving arrangements. Consolidate results for a shared command picture.\n\n### 4.3. Control and restoration\nReport, identify and isolate unsafe equipment. Record work, responsible personnel and verification of correction. Urgency does not authorize removal of a safety restriction. Alternatives require assessment, authorization and explicit limits.\n\n### 4.4. Post-task recovery\nReturn checks identify damage, consumed supplies, hygiene needs, repairs and personnel health concerns. Update the next readiness assessment promptly. Completion of one task does not establish immediate readiness for another: Account for actual recovery, replenishment and maintenance."
+      },
+      "sourceIds": [
+        "POLICY",
+        "TRAIN"
+      ]
+    },
+    {
+      "id": "FPU-03-05",
+      "title": {
+        "vi": "5. PAER và kế hoạch cải thiện PIP",
+        "en": "5. PAER and performance improvement plans"
+      },
+      "body": {
+        "vi": "### 5.1. Đánh giá để cải thiện liên tục\nPAER là báo cáo đánh giá kết quả thực hiện nhiệm vụ FPU trong phái bộ. Công cụ này bổ sung cho kiểm tra thường xuyên và xem cả hiểu mandate, chỉ huy, bảo vệ dân thường, năng lực tác nghiệp, quản trị, bảo đảm, huấn luyện, kỷ luật, sức khỏe và phúc lợi. Không đồng nhất PAER với chỉ kiểm tra tài sản hoặc chỉ kiểm tra kỹ thuật đội hình.\n\nĐánh giá cần kết nối mục tiêu, hoạt động thực hiện và kết quả tạo ra. Số buổi huấn luyện là đầu ra; khả năng thực hiện nhiệm vụ đúng chuẩn mới cho thấy thay đổi về năng lực. Những nhận xét phải có căn cứ đủ để đơn vị hiểu mình đạt gì và cần cải thiện gì.\n\n### 5.2. Chu kỳ và sự kế thừa\nPAER được thực hiện theo quý, các lần đánh giá cần kế thừa kết quả trước. Kỳ cuối hỗ trợ đánh giá cuối nhiệm kỳ. Thiếu sót xuất hiện ngay trong giai đoạn đầu cần được nhận diện và xử lý sớm; không đợi hết quý mới báo một nguy cơ nghiêm trọng. Lịch cụ thể, biểu mẫu và trách nhiệm được xác định qua cơ chế của HoPC và hướng dẫn áp dụng.\n\nTrong quá trình đánh giá, chỉ huy cung cấp hồ sơ, giải thích điều kiện thực hiện và trao đổi bằng chứng. Đơn vị cần phân biệt điểm chưa thống nhất về nhận định với một lỗi thực tế đã rõ. Bất đồng không làm mất nghĩa vụ áp dụng biện pháp bảo vệ trước mắt.\n\n### 5.3. PIP phải có việc và cách kiểm chứng\nPIP là kế hoạch cải thiện kết quả thực hiện nhiệm vụ, được thống nhất trong quá trình đánh giá. Kế hoạch cần chỉ rõ vấn đề, chuẩn phải đạt, hành động, trách nhiệm, nguồn lực, thời hạn, rủi ro và cách đánh giá lại. Mục đích là đưa năng lực về mức yêu cầu và tốt hơn; không chỉ tạo thêm hồ sơ.\n\nVí dụ, nếu thiếu năng lực báo cáo bằng ngôn ngữ công tác, một hành động có thể là huấn luyện có hướng dẫn kết hợp kiểm tra thực hành đúng vai trò. “Tăng cường nhận thức” không đủ nếu không xác định người học phải làm được gì và ai kiểm tra.\n\n### 5.4. Theo dõi đến kết quả\nChỉ huy tổ chức thực hiện, báo tiến độ và nêu trở ngại qua tuyến chỉ huy. Hoàn thành một hoạt động trong PIP chưa chắc đã đóng được thiếu sót; cần đánh giá lại hiệu quả. Thiếu sót nghiêm trọng hoặc không thực hiện cải thiện có thể dẫn tới hành động tiếp theo theo thẩm quyền HoPC và UNHQ, không phải vấn đề đơn vị tự quyết định bỏ qua.",
+        "en": "### 5.1. Assessment for continuous improvement\nThe Performance Assessment and Evaluation Report supplements routine inspections. It considers mandate understanding, command, civilian protection, operational capability, administration, sustainment, training, discipline, health and welfare. It is broader than equipment verification or formation technique.\n\nConnect objectives, outputs and outcomes. Training sessions are outputs; improved competent performance demonstrates capability change. Findings require evidence sufficient to explain achievements and gaps.\n\n### 5.2. A cumulative cycle\nQuarterly PAERs build on previous assessments, with the final quarter informing end-of-mission evaluation. Identify early shortcomings promptly; serious risk cannot wait for a quarterly deadline. The HoPC's arrangements and applicable instructions establish schedules, forms and responsibilities.\n\nCommanders provide records, explain conditions and discuss evidence. Distinguish a disputed interpretation from an established defect. Disagreement does not remove immediate protective obligations.\n\n### 5.3. Actionable PIPs\nA Performance Improvement Plan identifies the gap, required standard, action, owner, resources, deadline, risks and reassessment method. It aims to restore and improve performance rather than merely increase documentation.\n\nFor working-language reporting gaps, guided instruction combined with role-specific practical assessment may be appropriate. “Raise awareness” is insufficient without specifying what members must demonstrate and who verifies it.\n\n### 5.4. Follow through to capability\nCommanders implement actions, report progress and elevate obstacles. Completing an activity does not necessarily close the original gap; reassess results. Serious deficiencies or failed improvement may require further action by the HoPC and UNHQ under their authority rather than unilateral dismissal by the unit."
+      },
+      "sourceIds": [
+        "CSC019"
+      ]
+    },
+    {
+      "id": "FPU-03-06",
+      "title": {
+        "vi": "6. Tổ chức chu kỳ duy trì sẵn sàng",
+        "en": "6. Organizing a sustained-readiness cycle"
+      },
+      "body": {
+        "vi": "### 6.1. Kế hoạch kết nối các nguồn thông tin\nKế hoạch đơn vị cần kết nối lịch nhiệm vụ, huấn luyện, bảo dưỡng, nghỉ phục hồi và đánh giá. Dữ liệu phải phản ánh cùng một thực tế, tránh việc bảng huấn luyện ghi đủ người trong khi bảng trực đã phân công họ ở nơi khác. Một thay đổi lớn về quân số hoặc trang bị phải được cập nhật tới các bên chịu ảnh hưởng.\n\nChỉ huy nên sử dụng báo cáo định kỳ gọn, có thể truy lại hồ sơ chi tiết. Cần làm rõ năng lực hiện có, hạn chế, ảnh hưởng nhiệm vụ, biện pháp đang làm và yêu cầu quyết định. Những trạng thái nội bộ do đơn vị sử dụng phải có định nghĩa; không để “sẵn sàng có điều kiện” mang nghĩa khác nhau giữa tác nghiệp và hậu cần.\n\n### 6.2. Ưu tiên theo nguy cơ và khoảng trống\nKhi nguồn lực hạn chế, ưu tiên thiếu sót liên quan sinh mạng, quyền con người, nhiệm vụ bảo vệ và khả năng chỉ huy, sau đó sắp xếp các công việc còn lại theo đánh giá. Không chỉ ưu tiên lỗi dễ sửa để tăng số lượng hoàn thành. Cần xem một biện pháp có chuyển rủi ro sang bộ phận khác hoặc làm mất dự phòng không.\n\nNếu người chỉ huy phân đội vắng, cần xác nhận người thay có năng lực và hiểu nhiệm vụ. Nếu thiết bị được thay, người sử dụng phải được hướng dẫn và kiểm tra phù hợp. Một thay đổi nhỏ trên danh sách có thể cần tập luyện lại giao diện công việc trước khi sử dụng thực tế.\n\n### 6.3. Bài học phải đi vào lần thực hiện sau\nSau nhiệm vụ hoặc diễn tập, ghi nhận điều giữ lại, điều sửa và nguyên nhân. Cập nhật huấn luyện, kiểm tra, SOP hoặc bảo đảm theo trách nhiệm; xác định lần kiểm chứng tiếp theo. Nếu cùng một lỗi lặp qua nhiều cuộc rút kinh nghiệm, phải xem vì sao quyết định cải thiện chưa được thực hiện hoặc chưa có tác dụng.\n\n### 6.4. Bàn giao năng lực, không chỉ bàn giao hồ sơ\nTrước luân phiên, đơn vị chuyển giao bài học địa bàn, lịch bảo dưỡng, lỗi tồn, hồ sơ huấn luyện, hạn chế và quan hệ phối hợp. Đơn vị đến cần kiểm tra năng lực thực tế, hoàn thành nhập phái bộ và khắc phục khoảng trống. Mục tiêu cuối là giữ liên tục khả năng bảo vệ và thực hiện mandate, dù con người thay đổi. Sẵn sàng bền vững là kết quả của chu kỳ kiểm tra, thực hiện, học và sửa được duy trì hằng ngày.",
+        "en": "### 6.1. Connect information and schedules\nIntegrate operational commitments, training, servicing, recovery and evaluation. Records must describe the same reality: Members cannot simultaneously attend training and fulfil another assignment elsewhere. Communicate significant personnel or equipment changes to affected actors.\n\nUse concise reports linked to detailed records, establishing capability, limits, task impact, corrective action and decisions needed. Define internal status labels so operations and logistics interpret them consistently.\n\n### 6.2. Prioritize risk and gaps\nPrioritize threats to life, rights, protection tasks and command capability, then arrange other work through assessment. Do not select only easily closed defects to improve completion counts. Check whether mitigation transfers risk elsewhere or removes reserves.\n\nA replacement commander must be competent and understand the assignment. New equipment requires suitable familiarization and checks. A small roster change can require renewed collective rehearsal before operational use.\n\n### 6.3. Make lessons affect subsequent performance\nAfter tasks or exercises, identify what to retain, what to change and why. Update training, checks, SOPs or support and specify the next verification point. Recurring findings require examination of failed implementation or ineffective remedies.\n\n### 6.4. Transfer capability, not only documents\nRotation handover must transfer local lessons, servicing schedules, defects, training records, limitations and coordination arrangements. Incoming units verify actual capability, complete induction and close gaps. The objective is continuity of protection and mandate delivery despite changing personnel. Sustained readiness comes from daily checking, action, learning and correction."
+      },
+      "sourceIds": [
+        "CSC019",
+        "TRAIN"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "POLICY",
+      "title": "Policy 2024.14: Formed Police Units in United Nations Peace Operations",
+      "publisher": "United Nations DPO",
+      "year": "2024",
+      "url": "https://resourcehub01.blob.core.windows.net/$web/Policy%20and%20Guidance/corepeacekeepingguidance/Thematic%20Operational%20Activities/Police%20and%20Law%20Enforcement/2024.14%20Formed%20Police%20Units%20in%20United%20Nations%20Peace%20Operations.pdf",
+      "format": "pdf",
+      "pages": 34,
+      "reading": "Nguồn chính sách nền; hiệu lực 01/12/2024",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "CSC004",
+      "title": "FPU Command Staff Course 2026 · Lesson 4: Preparing for Deployment: AOC/FPAT",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-004%20Lesson%204%20Preparing%20for%20Deployment%20AOC%20FPAT%20(LP).pdf",
+      "year": "2026",
+      "publisher": "United Nations Police / DPO",
+      "format": "pdf"
+    },
+    {
+      "id": "TRAIN",
+      "title": "FPU Training & Maintenance",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-054%20FPU%20Training%20%26%20maintenance.pdf",
+      "format": "pdf",
+      "pages": 13,
+      "reading": "6–13",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "CSC019",
+      "title": "FPU Command Staff Course 2026 · Lesson 19: SOP on PAER",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-019%20Lesson%2019%20SOP%20on%20PAER%20(LP).pdf",
+      "year": "2026",
+      "publisher": "United Nations Police / DPO",
+      "format": "pdf"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Phát biểu sẵn sàng nào hữu ích nhất cho giao nhiệm vụ?",
+        "en": "Which readiness statement best supports tasking?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ nhắc kết quả tốt ở lần đánh giá trước.",
+          "en": "Refer only to a previous successful assessment."
+        },
+        {
+          "vi": "Nêu nhiệm vụ có thể làm, thời gian, khả năng duy trì và giới hạn.",
+          "en": "Specify feasible tasks, timing, sustainment and limitations."
+        },
+        {
+          "vi": "Chỉ ghi đủ quân số.",
+          "en": "State full staffing only."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Sẵn sàng phải gắn nhiệm vụ và điều kiện hiện tại, không chỉ quân số hoặc thành tích cũ. Xem mục 1.",
+        "en": "Readiness is task- and condition-specific, not merely staffing or past achievement. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Hồ sơ đã dự học có tự chứng minh năng lực thực hành không?",
+        "en": "Does attendance alone establish practical competence?"
+      },
+      "options": [
+        {
+          "vi": "Có, nếu buổi học kéo dài.",
+          "en": "Yes, if the session was long."
+        },
+        {
+          "vi": "Có, nếu đủ chữ ký.",
+          "en": "Yes, with sufficient signatures."
+        },
+        {
+          "vi": "Không; cần đánh giá và bằng chứng thực hiện phù hợp.",
+          "en": "No; suitable assessment and performance evidence are needed."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Tham gia là đầu vào; năng lực cần được thể hiện và đánh giá. Xem mục 1.",
+        "en": "Participation is an input; competence requires demonstration and assessment. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Mục đích chuẩn bị trước AOC là gì?",
+        "en": "What is the purpose of preparation before AOC?"
+      },
+      "options": [
+        {
+          "vi": "Dùng người ngoài đơn vị biểu diễn thay.",
+          "en": "Use outsiders to demonstrate substitute capability."
+        },
+        {
+          "vi": "Tự kiểm tra, huấn luyện và khắc phục để đơn vị thực sự đạt yêu cầu.",
+          "en": "Internally check, train and correct gaps so the deploying unit meets requirements."
+        },
+        {
+          "vi": "Chờ FPAT đến mới biết phải chuẩn bị gì.",
+          "en": "Wait for FPAT to identify all preparation needs."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "AOC xác nhận năng lực đơn vị sẽ triển khai; chuẩn bị phải có thực và hồ sơ trung thực. Xem mục 2.",
+        "en": "AOC concerns the deploying unit’s real capability and requires truthful preparation and records. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Tối thiểu tám tuần huấn luyện riêng theo chính sách có nghĩa gì?",
+        "en": "What does the policy’s minimum eight weeks of dedicated training mean?"
+      },
+      "options": [
+        {
+          "vi": "Tự động đạt AOC khi đủ ngày.",
+          "en": "AOC is automatically passed after enough days."
+        },
+        {
+          "vi": "Có thể thay mọi thực hành bằng ký danh sách.",
+          "en": "Signatures can replace all practice."
+        },
+        {
+          "vi": "Là yêu cầu tổ chức thời lượng, vẫn phải đạt chuẩn năng lực.",
+          "en": "It establishes dedicated time while competence standards still apply."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Thời lượng hỗ trợ chuẩn bị, không thay kết quả học và kiểm tra. Xem mục 2.",
+        "en": "Time supports preparation without replacing learning and assessment. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Huấn luyện nhập phái bộ giúp gì dù người học đã có kinh nghiệm?",
+        "en": "Why is induction needed despite prior experience?"
+      },
+      "options": [
+        {
+          "vi": "Không cần nếu đã ở một phái bộ khác.",
+          "en": "It is unnecessary after service in another mission."
+        },
+        {
+          "vi": "Kết nối năng lực với mandate, địa bàn, DUF và cơ chế cụ thể.",
+          "en": "It connects competence to the specific mandate, area, DUF and arrangements."
+        },
+        {
+          "vi": "Chỉ để nhắc kiến thức trong nước.",
+          "en": "Only to repeat domestic knowledge."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Kinh nghiệm không bảo đảm biết yêu cầu nơi triển khai hiện tại. Xem mục 3.",
+        "en": "Experience does not establish knowledge of the current deployment setting. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Mục tiêu tập luyện phối hợp nào phù hợp?",
+        "en": "Which interoperability objective is appropriate?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ đứng chung để chụp ảnh.",
+          "en": "Stand together for a photograph."
+        },
+        {
+          "vi": "Tự tạo một tuyến chỉ huy mới trong diễn tập.",
+          "en": "Create a new command chain during the exercise."
+        },
+        {
+          "vi": "Kiểm tra hiểu tuyến chỉ huy, liên lạc và giao diện hỗ trợ chung.",
+          "en": "Test shared understanding of command, communications and support interfaces."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Phối hợp cần được chứng minh bằng thực hiện đúng cơ chế đã được cho phép. Xem mục 3.",
+        "en": "Interoperability must be demonstrated within authorized arrangements. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Vì sao bảo dưỡng phải có chỗ trong lịch nhiệm vụ?",
+        "en": "Why must maintenance be protected in the duty schedule?"
+      },
+      "options": [
+        {
+          "vi": "Sử dụng liên tục không duy trì sẽ làm giảm năng lực và an toàn.",
+          "en": "Continuous employment without servicing erodes capability and safety."
+        },
+        {
+          "vi": "Để tránh mọi hoạt động tác nghiệp.",
+          "en": "To avoid all operational work."
+        },
+        {
+          "vi": "Chỉ để có thêm hồ sơ.",
+          "en": "Only to create records."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Bảo dưỡng là điều kiện duy trì năng lực, không phải hoạt động tách khỏi nhiệm vụ. Xem mục 4.",
+        "en": "Maintenance enables sustained capability rather than being separate from mission delivery. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Sau một nhiệm vụ dài, trước khi giao nhiệm vụ tiếp cần kiểm tra gì?",
+        "en": "What needs checking after prolonged duty before retasking?"
+      },
+      "options": [
+        {
+          "vi": "Phục hồi quân số, tiếp tế, trang bị và điều kiện thực hiện tiếp.",
+          "en": "Personnel recovery, replenishment, equipment and conditions for further duty."
+        },
+        {
+          "vi": "Không cần vì nhiệm vụ trước đã hoàn thành.",
+          "en": "Nothing because the previous task was completed."
+        },
+        {
+          "vi": "Chỉ xe đã về cổng chưa.",
+          "en": "Only whether vehicles returned to the gate."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Hoàn thành một nhiệm vụ không bảo đảm cùng năng lực có thể dùng ngay cho nhiệm vụ khác. Xem mục 4.",
+        "en": "Completion does not establish immediate readiness for another task. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "PAER khác kiểm tra trang bị đơn thuần ở đâu?",
+        "en": "How is PAER broader than equipment inspection?"
+      },
+      "options": [
+        {
+          "vi": "Xem nhiều mặt thực hiện nhiệm vụ, chỉ huy, bảo vệ, kỷ luật và phúc lợi.",
+          "en": "It examines multiple aspects of performance, command, protection, discipline and welfare."
+        },
+        {
+          "vi": "Chỉ đếm số xe.",
+          "en": "It only counts vehicles."
+        },
+        {
+          "vi": "Chỉ xếp hạng hình thức đội hình.",
+          "en": "It only rates formation appearance."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "PAER đánh giá kết quả và cải thiện tổng thể, bổ sung các cơ chế kiểm tra khác. Xem mục 5.",
+        "en": "PAER addresses overall performance and improvement, complementing other inspections. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Một PIP có thể kiểm chứng cần nội dung nào?",
+        "en": "What makes a PIP verifiable?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ ghi đã quán triệt.",
+          "en": "Only record that instructions were circulated."
+        },
+        {
+          "vi": "Chỉ viết nâng cao tinh thần trách nhiệm.",
+          "en": "Only state that responsibility should improve."
+        },
+        {
+          "vi": "Khoảng trống, chuẩn, hành động, người phụ trách, thời hạn và cách đánh giá lại.",
+          "en": "Gap, standard, actions, owners, deadline and reassessment."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Hoàn thành hoạt động phải được liên kết với việc phục hồi năng lực thiếu. Xem mục 5.",
+        "en": "Completed activities must be linked to restoration of the missing capability. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Hai bảng phân công cùng dùng một người tại hai nơi cùng giờ cho thấy gì?",
+        "en": "What does assigning one person to two places simultaneously indicate?"
+      },
+      "options": [
+        {
+          "vi": "Đã tăng gấp đôi năng lực.",
+          "en": "Capability has doubled."
+        },
+        {
+          "vi": "Dữ liệu và kế hoạch cần được thống nhất lại.",
+          "en": "Records and schedules require reconciliation."
+        },
+        {
+          "vi": "Không ảnh hưởng nếu có đủ chữ ký.",
+          "en": "There is no effect if documents are signed."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Kế hoạch huấn luyện, trực và bảo dưỡng phải phản ánh cùng nguồn lực thực. Xem mục 6.",
+        "en": "Training, duty and maintenance plans must reflect the same actual resources. See section 6."
+      },
+      "chapter": 5
+    },
+    {
+      "question": {
+        "vi": "Lỗi lặp nhiều lần sau rút kinh nghiệm cần xử lý thế nào?",
+        "en": "How should recurring failures after reviews be addressed?"
+      },
+      "options": [
+        {
+          "vi": "Kiểm tra việc thực hiện và hiệu quả biện pháp, điều chỉnh rồi xác minh.",
+          "en": "Examine implementation and effectiveness, revise action and verify."
+        },
+        {
+          "vi": "Lặp nguyên kết luận cũ.",
+          "en": "Repeat the same conclusion unchanged."
+        },
+        {
+          "vi": "Bỏ ghi lỗi để tránh ảnh hưởng đánh giá.",
+          "en": "Stop recording it to protect ratings."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Bài học chỉ tạo giá trị khi làm thay đổi lần thực hiện sau. Xem mục 6.",
+        "en": "Learning has value when it improves subsequent performance. See section 6."
+      },
+      "chapter": 5
+    }
+  ],
+  "updated": "2026-10-28",
+  "moduleId": "FPU-M6",
+  "moduleOrder": 4,
+  "lessonOrder": 3,
+  "sourceModule": {
+    "programme": "STM-FPU",
+    "number": 6,
+    "title": "Command staff training"
+  },
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "FPU-03-01",
+      "title": {
+        "vi": "1. Hiểu đúng khả năng sẵn sàng",
+        "en": "1. Understanding operational readiness"
+      },
+      "body": {
+        "vi": "### 1.1. Sẵn sàng cho nhiệm vụ nào\nKhả năng sẵn sàng là khả năng thực hiện nhiệm vụ được giao, trong điều kiện cụ thể, bằng nhân sự, tổ chức, trang bị và bảo đảm phù hợp. Không thể trả lời đầy đủ bằng một chữ “đủ” hoặc một tỷ lệ quân số chung. Đơn vị có thể đủ người cho nhiệm vụ bảo vệ cơ sở nhưng thiếu lái xe hoặc thông tin liên lạc cho một nhiệm vụ cơ động.\n\nVì vậy, mỗi đánh giá cần gắn với yêu cầu: Nhiệm vụ, thời gian có thể triển khai, thời gian duy trì, nguy cơ và giới hạn. Người giao lệnh cần biết đơn vị có thể làm gì, điều kiện nào phải được đáp ứng và phần nào đang bị hạn chế. Báo cáo rõ giới hạn giúp tổ chức đáp ứng đúng; che thiếu sót có thể đưa cả đơn vị và dân thường vào nguy hiểm.\n\n### 1.2. Các yếu tố phải đi cùng nhau\nNhân sự cần có mặt, đủ điều kiện và được giao đúng vai trò. Chỉ huy cần hiểu thẩm quyền, tổ chức quyết định và duy trì thông tin. Trang bị phải sử dụng được, tương thích và phù hợp nhiệm vụ. Bảo đảm phải duy trì được vận chuyển, y tế, tiếp tế và phục hồi. Huấn luyện cần kết nối những yếu tố đó trong hành động tập thể.\n\nCó thể tự hỏi: Nếu thiếu một mắt xích, nhiệm vụ nào bị ảnh hưởng? Chẳng hạn, bộ đàm hỏng không chỉ là thiếu tài sản; nó có thể làm chỉ huy không nhận được cảnh báo, phân đội không nhận lệnh đổi nhiệm vụ và hỗ trợ y tế đến chậm. Cách nhìn theo hệ quả giúp chọn ưu tiên khắc phục.\n\n### 1.3. Bằng chứng của sẵn sàng\nHồ sơ học tập chứng minh đã tham gia; kết quả đánh giá và quan sát thực hành giúp chứng minh năng lực. Nhật ký bảo dưỡng cho thấy công việc đã làm; kiểm tra chức năng giúp xác định trang bị thực sự hoạt động. Bằng chứng phải gần thời điểm sử dụng và phù hợp nhiệm vụ, không chỉ dựa vào thành tích trước triển khai.\n\n### 1.4. Trách nhiệm liên tục\nQuốc gia đóng góp chịu trách nhiệm chuẩn bị trước triển khai. Tại phái bộ, HoPC, cơ chế điều phối FPU, huấn luyện và chỉ huy đơn vị phối hợp duy trì, đánh giá và xử lý thiếu sót theo chức trách. Vượt qua một kỳ đánh giá là mốc xác nhận, không phải trạng thái được bảo đảm cho cả nhiệm kỳ. Người, phương tiện và môi trường đều thay đổi; cách quản lý phải theo dõi được sự thay đổi ấy.",
+        "en": "### 1.1. Ready for which task?\nReadiness is the ability to perform an assigned task in specific conditions with suitable personnel, organization, equipment and support. A general staffing percentage is insufficient. A unit ready for static protection may lack drivers or communications for mobile operations.\n\nAssess the task, deployment time, sustainment duration, threats and limitations. Tasking authorities need to know what is feasible, required conditions and current gaps. Accurate limitations enable an appropriate response; concealed weaknesses endanger personnel and civilians.\n\n### 1.2. Interdependent elements\nPersonnel must be present, qualified and correctly assigned. Command must understand authority, make decisions and maintain information flow. Equipment must be functional, interoperable and suitable. Support must sustain transport, medical care, supply and recovery. Training connects these elements in collective action.\n\nExamine consequences of each missing element. A defective radio is more than an inventory shortage: Warnings, revised orders and medical support may all be delayed. Consequence-based analysis helps prioritize correction.\n\n### 1.3. Evidence of readiness\nAttendance records establish participation; assessment and practical observation help establish competence. Maintenance records document work; functional checks establish actual performance. Evidence must suit the task and remain sufficiently current, rather than rely only on pre-deployment achievements.\n\n### 1.4. Continuing responsibility\nThe contributor prepares the unit before deployment. In mission, the HoPC, FPU coordination and training mechanisms and unit command sustain and assess capability within their responsibilities. Passing an assessment is a milestone, not a guarantee for the whole tour. People, equipment and operating conditions change, and readiness management must detect those changes."
+      },
+      "sourceIds": [
+        "POLICY",
+        "CSC004"
+      ]
+    },
+    {
+      "id": "FPU-03-02",
+      "title": {
+        "vi": "2. Chuẩn bị, huấn luyện và đánh giá trước triển khai",
+        "en": "2. Pre-deployment preparation, training and assessment"
+      },
+      "body": {
+        "vi": "### 2.1. Huấn luyện theo chuẩn và nhiệm vụ\nHuấn luyện trước triển khai phải dựa trên chuẩn UN áp dụng, nhiệm vụ dự kiến và trang bị sẽ sử dụng. Kiến thức nền về hòa bình, nhân quyền, hành vi và kỷ luật cần được gắn với chuyên môn FPU. Những nhóm năng lực quan trọng gồm kỹ thuật cảnh sát, quản lý trật tự công cộng và giảm hại dân sự, vũ lực và vũ khí ít gây chết người, nhận biết hiểm họa nổ, phòng ngừa SEA và chuẩn mực pháp lý.\n\nKhông nên tách chuẩn mực thành một bài lý thuyết rồi chỉ đánh giá kỹ thuật ở buổi thực hành. Trong mỗi hoạt động tập thể, cần quan sát cách nhận diện nguy cơ, giải thích lệnh, giao tiếp, bảo vệ người dễ bị hại và báo cáo. Kỹ thuật thực hiện đúng nhưng mục tiêu không hợp pháp vẫn là một thiếu sót nghiêm trọng.\n\n### 2.2. Chuẩn bị cùng nhau\nNhân sự chỉ huy và tác nghiệp cần huấn luyện, tập luyện cùng đơn vị để hình thành khả năng phối hợp. Huấn luyện trên loại vũ khí, phương tiện và trang bị khác với những gì sẽ dùng tạo khoảng trống chuyển giao. Cần chuẩn bị người thay thế cho vị trí trọng yếu và kiểm tra khả năng hiểu ngôn ngữ công tác, thay vì dựa hoàn toàn vào một người dịch lệnh.\n\nChính sách 2024.14 dành tối thiểu tám tuần riêng cho nội dung chuẩn huấn luyện trước triển khai FPU. Thời lượng là điều kiện tổ chức, không thay thế yêu cầu đạt năng lực. Không cộng thời gian có tên trong danh sách để suy rằng nội dung thực hành đã được hoàn thành.\n\n### 2.3. AOC và FPAT\nAOC là đánh giá khả năng tác nghiệp trước triển khai; FPAT là đội đánh giá FPU của UN. AOC bắt buộc và việc được thông qua là điều kiện để đơn vị phục vụ tại phái bộ. Đơn vị phải tự kiểm tra, sàng lọc và khắc phục trước khi đội đánh giá đến, đồng thời cung cấp hồ sơ thật về năng lực và điều kiện nhân sự.\n\n### 2.4. Khắc phục trước khi xác nhận\nNếu không đạt, cần huấn luyện lại, sửa thiếu sót và đánh giá lại theo cơ chế áp dụng. Không dùng người ngoài đơn vị để thể hiện năng lực thay cho người sẽ triển khai. Kiểm tra giấy tờ, sức khỏe, tiêm chủng và điều kiện lái xe cần được tổ chức đúng trách nhiệm với người có chuyên môn; chỉ huy không tự kết luận y khoa thay bác sĩ.",
+        "en": "### 2.1. Train against standards and tasks\nPre-deployment training follows applicable UN standards, expected tasks and deployed equipment. Core peacekeeping, human rights, conduct and discipline must connect with FPU skills: Police techniques, POM and civilian harm mitigation, force and less-lethal equipment, explosive-hazard awareness, SEA prevention and legal standards.\n\nDo not isolate standards in theory while assessing only technique in practice. Observe risk recognition, orders, communication, safeguards and reporting throughout collective exercises. Technical proficiency cannot validate an unlawful objective.\n\n### 2.2. Prepare cohesively\nCommand and operational personnel must train together. Different training and deployed equipment creates transition gaps. Develop qualified replacements for critical roles and working-language competence rather than dependence on a single interpreter.\n\nPolicy 2024.14 provides a minimum of eight weeks devoted exclusively to FPU pre-deployment training standards. Time allocation supports preparation but does not replace demonstrated competence or prove that practical content was completed.\n\n### 2.3. AOC and FPAT\nThe Assessment of Operational Capability is conducted before deployment by a UN Formed Police Assessment Team. AOC clearance is mandatory for service. Units must conduct internal checks, screening and correction beforehand and provide truthful records of personnel and capability.\n\n### 2.4. Correct before certification\nUnsuccessful units require remedial training and reassessment under applicable procedures. Personnel outside the deploying unit must not demonstrate substitute capability. Organize documentation, medical clearance, vaccination and driving requirements through competent actors. Commanders do not replace medical judgment."
+      },
+      "sourceIds": [
+        "POLICY",
+        "CSC004"
+      ]
+    },
+    {
+      "id": "FPU-03-03",
+      "title": {
+        "vi": "3. Huấn luyện trong phái bộ và khả năng phối hợp",
+        "en": "3. In-mission training and interoperability"
+      },
+      "body": {
+        "vi": "### 3.1. Nhập phái bộ là bước chuyển nhiệm vụ\nHuấn luyện nhập phái bộ giúp đơn vị hiểu địa bàn, mandate, DUF, SOP, cơ chế báo cáo, y tế, an ninh và các yêu cầu tại nơi triển khai. Theo chính sách FPU, giai đoạn này có thời lượng ít nhất một tuần và thực hiện trong tháng đầu. Chỉ có kinh nghiệm trong nước hoặc đã đi phái bộ khác chưa đủ để bỏ qua quá trình này.\n\nCần phân biệt hiểu tên tài liệu với hiểu cách thực hiện. Người làm nhiệm vụ phải biết tìm lệnh nào, báo đầu mối nào và làm gì khi tình hình thay đổi. Kiểm tra hiểu bằng trao đổi và thực hành ngắn sẽ phát hiện khoảng trống sớm hơn một bản ký xác nhận đã đọc.\n\n### 3.2. Chu kỳ huấn luyện duy trì\nKế hoạch duy trì nên xuất phát từ nhiệm vụ sắp tới, kết quả đánh giá, lỗi thực tế và thay đổi quân số, trang bị. Tổ chức từ kỹ năng cá nhân tới phân đội, rồi phối hợp tập thể. Kế hoạch phải có mục tiêu quan sát được, người hướng dẫn đủ năng lực, khu vực an toàn, phương tiện và thời gian phục hồi.\n\nVí dụ, mục tiêu “cải thiện báo cáo” còn rộng. Mục tiêu cụ thể hơn là người nhận nhiệm vụ phân biệt được quan sát với nhận định, báo đủ thông tin cần cho quyết định và xác nhận người nhận. Đây là cách chuyển một nhu cầu thành hành vi có thể đánh giá, không phải thêm một buổi học chỉ để đủ số giờ.\n\n### 3.3. Tập luyện phối hợp\nCác FPU khác quốc gia cần hiểu cách liên lạc, tuyến chỉ huy và quy ước phối hợp của nhau. Tập luyện với thành phần quân sự và đối tác theo cơ chế phái bộ giúp kiểm tra giao diện công việc, thẩm quyền, hỗ trợ và chuyển thông tin. Đứng chung đội hình không tự chứng minh khả năng phối hợp.\n\nTrong diễn tập, cần quan sát việc xác nhận lệnh, báo cáo thay đổi và duy trì trách nhiệm của từng thành phần. Không dùng diễn tập để tự tạo một tuyến chỉ huy khác cơ chế đã được phê chuẩn. Mọi khác biệt phát hiện cần được sửa trong SOP, tổ chức hoặc huấn luyện tương ứng.\n\n### 3.4. An toàn trong huấn luyện\nĐánh giá nguy cơ, kiểm tra trang bị, phân biệt rõ phương tiện tập với phương tiện sử dụng thực tế và có hỗ trợ y tế phù hợp. Người tham gia phải biết tín hiệu dừng và cách báo một điều kiện không an toàn. Áp lực hoàn thành lịch không được dùng để bỏ qua dấu hiệu chấn thương, quá tải nhiệt hoặc lỗi kỹ thuật.",
+        "en": "### 3.1. Induction connects capability to the mission\nMission induction covers the area, mandate, DUF, SOPs, reporting, medical and security arrangements. FPU policy specifies at least one week within the first month. Domestic experience or service in another mission does not replace this preparation.\n\nKnowing a document's title differs from knowing how to act. Members need to locate instructions, identify reporting contacts and respond to changed conditions. Discussion and short practical checks reveal gaps earlier than acknowledgement signatures alone.\n\n### 3.2. Sustainment training\nBuild training around upcoming tasks, assessments, observed errors and personnel or equipment changes. Progress from individual skills to sub-unit and collective competence. Specify observable objectives, qualified instructors, a safe location, equipment and recovery time.\n\n“Improve reporting” is vague. A more useful objective requires members to distinguish observation from assessment, communicate decision-relevant facts and confirm receipt. This translates a need into assessable behaviour rather than merely adding training hours.\n\n### 3.3. Interoperability exercises\nFPUs of different nationalities need compatible communications and shared understanding of command arrangements. Mission-authorized exercises with military and other partners test interfaces, authority, support and information transfer. Standing together does not demonstrate interoperability.\n\nObserve acknowledgement, updates and continuing accountability. Exercises cannot create an alternative command chain. Correct identified differences through appropriate SOPs, organization or training.\n\n### 3.4. Training safety\nAssess risk, check equipment, clearly distinguish training from operational items and arrange suitable medical support. Participants must know stop signals and how to report unsafe conditions. Schedule pressure does not justify ignoring injury, heat strain or technical faults."
+      },
+      "sourceIds": [
+        "POLICY",
+        "TRAIN"
+      ]
+    },
+    {
+      "id": "FPU-03-04",
+      "title": {
+        "vi": "4. Bảo dưỡng và kiểm tra trước nhiệm vụ",
+        "en": "4. Maintenance and pre-task checks"
+      },
+      "body": {
+        "vi": "### 4.1. Bảo dưỡng là một phần của sẵn sàng\nBảo dưỡng giữ trang bị đáp ứng chức năng trong suốt vòng đời sử dụng. Cần phân biệt chăm sóc thường xuyên của người dùng, bảo dưỡng phòng ngừa và sửa chữa do người có năng lực thực hiện. Không tự mở, chỉnh hoặc thay đổi hệ thống vượt trình độ và thẩm quyền. Việc thấy thiết bị hoạt động ở một thời điểm chưa loại trừ lỗi tiềm ẩn cần kiểm tra kỹ thuật.\n\nĐơn vị cần dành thời gian, công cụ và vật tư cho bảo dưỡng trong kế hoạch chung. Nếu lịch tác nghiệp sử dụng mọi xe hoặc mọi kíp liên tục mà không có thời gian duy trì, khả năng sẵn sàng sẽ giảm dần dù báo cáo ban đầu tốt. Tạm rút một phương tiện để bảo dưỡng đúng lịch có thể bảo vệ năng lực lâu dài.\n\n### 4.2. Kiểm tra gắn với yêu cầu nhiệm vụ\nTrước nhiệm vụ, kiểm tra quân số và vai trò, trang bị bảo vệ phù hợp, liên lạc, phương tiện, y tế và bảo đảm. Người chỉ huy cần xác nhận thành viên hiểu nhiệm vụ, giới hạn và cách báo cáo. Chỉ kiểm tra đã phát đủ vật dụng mà không kiểm tra tương thích, tình trạng hoặc người sử dụng có thể bỏ sót rủi ro quan trọng.\n\nKiểm tra phải phù hợp vai trò: Người lái xác nhận điều kiện vận hành xe; người phụ trách liên lạc kiểm tra chức năng và phương án dự phòng; người phụ trách y tế xác nhận nguồn lực và cơ chế tiếp nhận. Mọi bên báo kết quả về đầu mối để chỉ huy có bức tranh thống nhất.\n\n### 4.3. Kiểm soát lỗi và sử dụng trở lại\nLỗi ảnh hưởng an toàn cần được báo, đánh dấu và ngăn sử dụng nhầm. Hồ sơ phải cho thấy đã làm gì, ai thực hiện và cách xác nhận khắc phục. Không tự bỏ dấu hạn chế chỉ vì nhiệm vụ cần gấp. Nếu phải dùng giải pháp thay thế, cần có đánh giá, cho phép và giới hạn phù hợp.\n\n### 4.4. Sau nhiệm vụ\nThu hồi và kiểm tra giúp phát hiện hư hỏng, thiếu vật tư, vấn đề vệ sinh, nhu cầu sửa và tình trạng sức khỏe quân số. Kết quả cần cập nhật ngay vào bức tranh sẵn sàng cho nhiệm vụ tiếp theo. Kết thúc một nhiệm vụ không đồng nghĩa đơn vị có thể lập tức nhận nhiệm vụ khác với cùng năng lực; phải tính việc phục hồi, tiếp tế và bảo dưỡng thực tế.",
+        "en": "### 4.1. Maintenance is readiness work\nDistinguish operator care, preventive servicing and qualified corrective repair. Members must not dismantle or modify systems beyond competence and authority. Successful operation at one moment does not exclude latent faults requiring technical examination.\n\nProtect maintenance time, tools and supplies in the operational schedule. Continuous employment without servicing gradually erodes capability. Temporarily withdrawing an asset for planned maintenance can preserve longer-term readiness.\n\n### 4.2. Task-specific checks\nBefore deployment, verify personnel and roles, suitable protection, communications, vehicles, medical support and sustainment. Confirm that members understand tasks, limits and reporting. Issuing the expected quantity of equipment is insufficient when compatibility, condition or operator competence is missing.\n\nAllocate checks to competent roles: Drivers confirm vehicle readiness, communications personnel test function and alternatives, and medical personnel confirm resources and receiving arrangements. Consolidate results for a shared command picture.\n\n### 4.3. Control and restoration\nReport, identify and isolate unsafe equipment. Record work, responsible personnel and verification of correction. Urgency does not authorize removal of a safety restriction. Alternatives require assessment, authorization and explicit limits.\n\n### 4.4. Post-task recovery\nReturn checks identify damage, consumed supplies, hygiene needs, repairs and personnel health concerns. Update the next readiness assessment promptly. Completion of one task does not establish immediate readiness for another: Account for actual recovery, replenishment and maintenance."
+      },
+      "sourceIds": [
+        "POLICY",
+        "TRAIN"
+      ]
+    },
+    {
+      "id": "FPU-03-05",
+      "title": {
+        "vi": "5. PAER và kế hoạch cải thiện PIP",
+        "en": "5. PAER and performance improvement plans"
+      },
+      "body": {
+        "vi": "### 5.1. Đánh giá để cải thiện liên tục\nPAER là báo cáo đánh giá kết quả thực hiện nhiệm vụ FPU trong phái bộ. Công cụ này bổ sung cho kiểm tra thường xuyên và xem cả hiểu mandate, chỉ huy, bảo vệ dân thường, năng lực tác nghiệp, quản trị, bảo đảm, huấn luyện, kỷ luật, sức khỏe và phúc lợi. Không đồng nhất PAER với chỉ kiểm tra tài sản hoặc chỉ kiểm tra kỹ thuật đội hình.\n\nĐánh giá cần kết nối mục tiêu, hoạt động thực hiện và kết quả tạo ra. Số buổi huấn luyện là đầu ra; khả năng thực hiện nhiệm vụ đúng chuẩn mới cho thấy thay đổi về năng lực. Những nhận xét phải có căn cứ đủ để đơn vị hiểu mình đạt gì và cần cải thiện gì.\n\n### 5.2. Chu kỳ và sự kế thừa\nPAER được thực hiện theo quý, các lần đánh giá cần kế thừa kết quả trước. Kỳ cuối hỗ trợ đánh giá cuối nhiệm kỳ. Thiếu sót xuất hiện ngay trong giai đoạn đầu cần được nhận diện và xử lý sớm; không đợi hết quý mới báo một nguy cơ nghiêm trọng. Lịch cụ thể, biểu mẫu và trách nhiệm được xác định qua cơ chế của HoPC và hướng dẫn áp dụng.\n\nTrong quá trình đánh giá, chỉ huy cung cấp hồ sơ, giải thích điều kiện thực hiện và trao đổi bằng chứng. Đơn vị cần phân biệt điểm chưa thống nhất về nhận định với một lỗi thực tế đã rõ. Bất đồng không làm mất nghĩa vụ áp dụng biện pháp bảo vệ trước mắt.\n\n### 5.3. PIP phải có việc và cách kiểm chứng\nPIP là kế hoạch cải thiện kết quả thực hiện nhiệm vụ, được thống nhất trong quá trình đánh giá. Kế hoạch cần chỉ rõ vấn đề, chuẩn phải đạt, hành động, trách nhiệm, nguồn lực, thời hạn, rủi ro và cách đánh giá lại. Mục đích là đưa năng lực về mức yêu cầu và tốt hơn; không chỉ tạo thêm hồ sơ.\n\nVí dụ, nếu thiếu năng lực báo cáo bằng ngôn ngữ công tác, một hành động có thể là huấn luyện có hướng dẫn kết hợp kiểm tra thực hành đúng vai trò. “Tăng cường nhận thức” không đủ nếu không xác định người học phải làm được gì và ai kiểm tra.\n\n### 5.4. Theo dõi đến kết quả\nChỉ huy tổ chức thực hiện, báo tiến độ và nêu trở ngại qua tuyến chỉ huy. Hoàn thành một hoạt động trong PIP chưa chắc đã đóng được thiếu sót; cần đánh giá lại hiệu quả. Thiếu sót nghiêm trọng hoặc không thực hiện cải thiện có thể dẫn tới hành động tiếp theo theo thẩm quyền HoPC và UNHQ, không phải vấn đề đơn vị tự quyết định bỏ qua.",
+        "en": "### 5.1. Assessment for continuous improvement\nThe Performance Assessment and Evaluation Report supplements routine inspections. It considers mandate understanding, command, civilian protection, operational capability, administration, sustainment, training, discipline, health and welfare. It is broader than equipment verification or formation technique.\n\nConnect objectives, outputs and outcomes. Training sessions are outputs; improved competent performance demonstrates capability change. Findings require evidence sufficient to explain achievements and gaps.\n\n### 5.2. A cumulative cycle\nQuarterly PAERs build on previous assessments, with the final quarter informing end-of-mission evaluation. Identify early shortcomings promptly; serious risk cannot wait for a quarterly deadline. The HoPC's arrangements and applicable instructions establish schedules, forms and responsibilities.\n\nCommanders provide records, explain conditions and discuss evidence. Distinguish a disputed interpretation from an established defect. Disagreement does not remove immediate protective obligations.\n\n### 5.3. Actionable PIPs\nA Performance Improvement Plan identifies the gap, required standard, action, owner, resources, deadline, risks and reassessment method. It aims to restore and improve performance rather than merely increase documentation.\n\nFor working-language reporting gaps, guided instruction combined with role-specific practical assessment may be appropriate. “Raise awareness” is insufficient without specifying what members must demonstrate and who verifies it.\n\n### 5.4. Follow through to capability\nCommanders implement actions, report progress and elevate obstacles. Completing an activity does not necessarily close the original gap; reassess results. Serious deficiencies or failed improvement may require further action by the HoPC and UNHQ under their authority rather than unilateral dismissal by the unit."
+      },
+      "sourceIds": [
+        "CSC019"
+      ]
+    },
+    {
+      "id": "FPU-03-06",
+      "title": {
+        "vi": "6. Tổ chức chu kỳ duy trì sẵn sàng",
+        "en": "6. Organizing a sustained-readiness cycle"
+      },
+      "body": {
+        "vi": "### 6.1. Kế hoạch kết nối các nguồn thông tin\nKế hoạch đơn vị cần kết nối lịch nhiệm vụ, huấn luyện, bảo dưỡng, nghỉ phục hồi và đánh giá. Dữ liệu phải phản ánh cùng một thực tế, tránh việc bảng huấn luyện ghi đủ người trong khi bảng trực đã phân công họ ở nơi khác. Một thay đổi lớn về quân số hoặc trang bị phải được cập nhật tới các bên chịu ảnh hưởng.\n\nChỉ huy nên sử dụng báo cáo định kỳ gọn, có thể truy lại hồ sơ chi tiết. Cần làm rõ năng lực hiện có, hạn chế, ảnh hưởng nhiệm vụ, biện pháp đang làm và yêu cầu quyết định. Những trạng thái nội bộ do đơn vị sử dụng phải có định nghĩa; không để “sẵn sàng có điều kiện” mang nghĩa khác nhau giữa tác nghiệp và hậu cần.\n\n### 6.2. Ưu tiên theo nguy cơ và khoảng trống\nKhi nguồn lực hạn chế, ưu tiên thiếu sót liên quan sinh mạng, quyền con người, nhiệm vụ bảo vệ và khả năng chỉ huy, sau đó sắp xếp các công việc còn lại theo đánh giá. Không chỉ ưu tiên lỗi dễ sửa để tăng số lượng hoàn thành. Cần xem một biện pháp có chuyển rủi ro sang bộ phận khác hoặc làm mất dự phòng không.\n\nNếu người chỉ huy phân đội vắng, cần xác nhận người thay có năng lực và hiểu nhiệm vụ. Nếu thiết bị được thay, người sử dụng phải được hướng dẫn và kiểm tra phù hợp. Một thay đổi nhỏ trên danh sách có thể cần tập luyện lại giao diện công việc trước khi sử dụng thực tế.\n\n### 6.3. Bài học phải đi vào lần thực hiện sau\nSau nhiệm vụ hoặc diễn tập, ghi nhận điều giữ lại, điều sửa và nguyên nhân. Cập nhật huấn luyện, kiểm tra, SOP hoặc bảo đảm theo trách nhiệm; xác định lần kiểm chứng tiếp theo. Nếu cùng một lỗi lặp qua nhiều cuộc rút kinh nghiệm, phải xem vì sao quyết định cải thiện chưa được thực hiện hoặc chưa có tác dụng.\n\n### 6.4. Bàn giao năng lực, không chỉ bàn giao hồ sơ\nTrước luân phiên, đơn vị chuyển giao bài học địa bàn, lịch bảo dưỡng, lỗi tồn, hồ sơ huấn luyện, hạn chế và quan hệ phối hợp. Đơn vị đến cần kiểm tra năng lực thực tế, hoàn thành nhập phái bộ và khắc phục khoảng trống. Mục tiêu cuối là giữ liên tục khả năng bảo vệ và thực hiện mandate, dù con người thay đổi. Sẵn sàng bền vững là kết quả của chu kỳ kiểm tra, thực hiện, học và sửa được duy trì hằng ngày.",
+        "en": "### 6.1. Connect information and schedules\nIntegrate operational commitments, training, servicing, recovery and evaluation. Records must describe the same reality: Members cannot simultaneously attend training and fulfil another assignment elsewhere. Communicate significant personnel or equipment changes to affected actors.\n\nUse concise reports linked to detailed records, establishing capability, limits, task impact, corrective action and decisions needed. Define internal status labels so operations and logistics interpret them consistently.\n\n### 6.2. Prioritize risk and gaps\nPrioritize threats to life, rights, protection tasks and command capability, then arrange other work through assessment. Do not select only easily closed defects to improve completion counts. Check whether mitigation transfers risk elsewhere or removes reserves.\n\nA replacement commander must be competent and understand the assignment. New equipment requires suitable familiarization and checks. A small roster change can require renewed collective rehearsal before operational use.\n\n### 6.3. Make lessons affect subsequent performance\nAfter tasks or exercises, identify what to retain, what to change and why. Update training, checks, SOPs or support and specify the next verification point. Recurring findings require examination of failed implementation or ineffective remedies.\n\n### 6.4. Transfer capability, not only documents\nRotation handover must transfer local lessons, servicing schedules, defects, training records, limitations and coordination arrangements. Incoming units verify actual capability, complete induction and close gaps. The objective is continuity of protection and mandate delivery despite changing personnel. Sustained readiness comes from daily checking, action, learning and correction."
+      },
+      "sourceIds": [
+        "CSC019",
+        "TRAIN"
+      ]
+    }
+  ],
+  "source_ids": [
+    "POLICY",
+    "CSC004",
+    "TRAIN",
+    "CSC019"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "AOC",
+      "definition": {
+        "vi": "Đánh giá khả năng tác nghiệp trước triển khai.",
+        "en": "Assessment of Operational Capability before deployment."
+      }
+    },
+    {
+      "term": "FPAT",
+      "definition": {
+        "vi": "Đội đánh giá FPU của UN.",
+        "en": "UN Formed Police Assessment Team."
+      }
+    },
+    {
+      "term": "Induction",
+      "definition": {
+        "vi": "Huấn luyện nhập phái bộ theo điều kiện, cơ chế địa bàn.",
+        "en": "Mission induction for the local operating setting and arrangements."
+      }
+    },
+    {
+      "term": "PAER",
+      "definition": {
+        "vi": "Báo cáo đánh giá kết quả thực hiện nhiệm vụ.",
+        "en": "Performance Assessment and Evaluation Report."
+      }
+    },
+    {
+      "term": "PIP",
+      "definition": {
+        "vi": "Kế hoạch cải thiện kết quả thực hiện nhiệm vụ.",
+        "en": "Performance Improvement Plan."
+      }
+    },
+    {
+      "term": "Interoperability",
+      "definition": {
+        "vi": "Khả năng phối hợp hiệu quả giữa các đơn vị, thành phần.",
+        "en": "Ability of units and components to work together effectively."
+      }
+    }
+  ],
+  "diagram": null,
+  "contentVersion": "batch-03-expanded-v1-2026-10-28",
+  "sourceIntro": {
+    "vi": "Nguồn nền theo từng mục và tài liệu đối chiếu. Lời giảng, bản Anh và câu hỏi biên soạn riêng cho Handbook; hình gốc có ghi tài liệu, trang PDF và giải thích.",
+    "en": "Primary materials mapped to sections and supplementary checks. Teaching, English text and questions are authored for the Handbook; original figures identify source, PDF page and commentary."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Bản biên soạn đợt 3, ngày 28/10/2026, để người dùng duyệt. Không phải ấn phẩm hoặc bản dịch chính thức UN. Mã bài là cách tổ chức của Handbook, khác số bài của UN.",
+      "Giữ giao diện 4 tab của các bài mẫu. Hình giữ tiếng Anh gốc và có giải thích Việt–Anh. Nguồn theo mục nêu nền kiến thức, không coi mọi câu là trích nguyên văn.",
+      "Bài học chung không thay mandate, DUF, SUR, MOU hoặc SOP áp dụng tại phái bộ; không tự trao quyền hoặc chứng nhận năng lực thực hành.",
+      "Đã đọc trực tiếp chính sách FPU Ref. 2024.14, hiệu lực 01/12/2024; bộ CSC 2026 dùng để cập nhật chỉ huy, chuẩn bị và PAER. Không dùng biên chế 140 người hoặc các mốc trong tài liệu 2015 để thay quy định 2024.14."
+    ],
+    "en": [
+      "Batch 3 authored on 28 October 2026 for user review. Not an official UN publication or translation. Handbook numbering differs from UN lesson numbering.",
+      "The four-tab sample interface is retained. Figures preserve original English with bilingual commentary. Section mapping identifies the knowledge base rather than verbatim sourcing for every sentence.",
+      "General study does not replace applicable mandates, DUF, SUR, MOU or mission SOPs and confers neither authority nor practical certification.",
+      "FPU Policy Ref. 2024.14, effective 1 December 2024, was read directly, together with CSC 2026 materials. Older 140-person structures or 2015 timings are not substituted for the 2024.14 policy."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Sẵn sàng là năng lực thực hiện nhiệm vụ trong điều kiện hiện tại. Bài học nối huấn luyện trước triển khai, nhập phái bộ, tập luyện phối hợp, bảo dưỡng, PAER và PIP thành chu kỳ cải thiện.",
+      "en": "Readiness is task capability under current conditions. Connect pre-deployment preparation, induction, interoperability, maintenance, PAER and PIP in continuing improvement."
+    },
+    "subtitle": {
+      "vi": "Huấn luyện đúng chuẩn · Kiểm tra thực chất · Duy trì liên tục",
+      "en": "Train to standards · Verify capability · Sustain readiness"
+    },
+    "objectives": {
+      "vi": [
+        "Đánh giá sẵn sàng theo nhiệm vụ, nguồn lực và giới hạn hiện tại.",
+        "Giải thích trách nhiệm chuẩn bị, AOC và FPAT.",
+        "Tổ chức mục tiêu huấn luyện quan sát được, nhập phái bộ và phối hợp.",
+        "Kết nối bảo dưỡng, kiểm tra trước nhiệm vụ và phục hồi sau nhiệm vụ.",
+        "Giải thích PAER, PIP và theo dõi đến cải thiện năng lực."
+      ],
+      "en": [
+        "Assess readiness against tasks, resources and current limits.",
+        "Explain preparation responsibilities, AOC and FPAT.",
+        "Explain observable training objectives, induction and interoperability.",
+        "Connect maintenance, pre-task checks and post-task recovery.",
+        "Explain PAER, PIP and follow-through to capability improvement."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc 6 mục trong tab Nội dung bài học; bấm hình để xem lớn và đọc lời giảng kèm. Làm 12 câu kiểm tra, đọc giải thích và trở lại mục liên quan. VI/EN giữ lựa chọn trong phiên; tải lại trang bắt đầu lại.",
+      "en": "Read all sections and the figure commentary; click figures to enlarge. Complete 12 questions, review explanations and revisit relevant sections. VI/EN retains selections during the session; reloading starts again."
+    }
+  },
+  "figures": [
+    {
+      "chapter": 4,
+      "image": "assets/lesson-figures/batch-03/CSC019-p16.png",
+      "alt": {
+        "vi": "Hình 1. Chu kỳ PAER và theo dõi cải thiện",
+        "en": "Figure 1. PAER and improvement follow-up"
+      },
+      "caption": {
+        "vi": "Hình 1. Chu kỳ PAER và theo dõi cải thiện",
+        "en": "Figure 1. PAER and improvement follow-up"
+      },
+      "explanation": {
+        "vi": "Hãy lần theo đánh giá, trao đổi và kế hoạch cải thiện đến rà lại ở quý sau. Điểm học chính là không dừng ở ký báo cáo: Cần người thực hiện, theo dõi và kiểm chứng. Các mốc thủ tục trong hình cần được đọc cùng SOP và chỉ đạo áp dụng của HoPC.",
+        "en": "Follow assessment, agreement and improvement into the next quarterly review. Signing the report is not the endpoint: Action, ownership and verification matter. Read procedural timing in the figure with applicable SOPs and HoPC instructions."
+      },
+      "sourceLabel": "UN FPU Command Staff Course 2026 · Lesson 19",
+      "pdfPage": 16
+    }
+  ],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft",
+  "figureZoom": true
+}

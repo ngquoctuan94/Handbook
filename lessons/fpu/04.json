@@ -1,0 +1,705 @@
+{
+  "schemaVersion": 2,
+  "id": "FPU-04",
+  "area": "fpu",
+  "groupKey": "FPU-M6",
+  "group": {
+    "vi": "Chỉ huy và tham mưu",
+    "en": "Command staff training"
+  },
+  "title": {
+    "vi": "Quản lý căng thẳng",
+    "en": "Managing stress in unit operations"
+  },
+  "summary": {
+    "vi": "Bài học giúp nhận biết căng thẳng, phòng ngừa quá tải, hỗ trợ đồng đội và kết nối chăm sóc. Trách nhiệm cá nhân được đặt cùng tổ chức nhiệm vụ, văn hóa chỉ huy và hỗ trợ chuyên môn.",
+    "en": "Recognize stress, prevent overload, support colleagues and connect care. Individual action works alongside duty organization, command culture and professional support."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "STRESS",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-059%20Stress%20Awareness.pdf",
+  "order": 404,
+  "sections": [
+    {
+      "id": "FPU-04-01",
+      "title": {
+        "vi": "1. Căng thẳng trong môi trường phái bộ",
+        "en": "1. Stress in the mission environment"
+      },
+      "body": {
+        "vi": "### 1.1. Hiểu phản ứng trước yêu cầu\nCăng thẳng là phản ứng của cơ thể và tâm trí trước thay đổi, yêu cầu hoặc đe dọa. Một mức kích hoạt phù hợp có thể giúp tập trung và hành động. Khi yêu cầu quá mạnh, lặp lại quá thường xuyên hoặc kéo dài hơn khả năng phục hồi, phản ứng có thể làm giảm sức khỏe, khả năng quyết định và hiệu quả công việc.\n\nKhông phải mọi người phản ứng giống nhau trước cùng một sự việc. Kinh nghiệm, sức khỏe, giấc ngủ, điều kiện gia đình, cảm giác kiểm soát và hỗ trợ sẵn có đều có thể ảnh hưởng. Không thể kết luận một người yếu chỉ vì họ phản ứng khác đồng đội; cũng không thể suy người ít nói là không chịu tác động.\n\n### 1.2. Những nguồn áp lực của FPU\nMôi trường phái bộ có thể kết hợp khí hậu khắc nghiệt, nguy cơ bạo lực, xa gia đình, khó giao tiếp, thiếu riêng tư và chứng kiến đau khổ. Áp lực tổ chức như lệnh không rõ, lịch làm việc khó dự đoán, xung đột và cảm giác không được lắng nghe có thể cộng thêm vào nguy cơ bên ngoài. Việc chỉ dạy cá nhân thư giãn mà bỏ qua tổ chức ca trực sẽ không xử lý được toàn bộ vấn đề.\n\nHãy phân biệt yếu tố có thể điều chỉnh ngay với yếu tố cần báo lên hoặc cần hỗ trợ chuyên môn. Chẳng hạn, một cán bộ có thể chủ động nghỉ ngắn phù hợp; chỉ huy mới có thể điều chỉnh phân công để bảo vệ thời gian phục hồi của cả kíp. Hai mức hành động cần hỗ trợ nhau.\n\n### 1.3. Tác động tới nhiệm vụ\nCăng thẳng quá mức có thể làm giảm tập trung, trí nhớ làm việc, giao tiếp và kiểm soát cảm xúc. Trong nhiệm vụ cảnh sát, những thay đổi này có thể ảnh hưởng cách hiểu lệnh, đánh giá đe dọa hoặc tiếp xúc cộng đồng. Quản lý căng thẳng vì vậy liên quan trực tiếp đến an toàn và chuẩn mực hành vi.\n\n### 1.4. Nhận biết sớm, không tự chẩn đoán\nBài học giúp nhận biết thay đổi và tổ chức hỗ trợ. Danh sách dấu hiệu không phải công cụ kết luận bệnh. Một triệu chứng như đau đầu hoặc mất ngủ có thể có nhiều nguyên nhân cần nhân viên y tế đánh giá. Nhận biết sớm có nghĩa tìm hiểu và hỗ trợ phù hợp, không dán nhãn trước tập thể hoặc buộc người gặp khó khăn phải tự chứng minh mình ổn.",
+        "en": "### 1.1. Responding to demands\nStress is a physical and psychological response to change, demand or threat. Manageable activation can support focus and action. Excessive intensity, frequency or duration without recovery can impair health, judgment and performance.\n\nPeople respond differently to the same event. Experience, health, sleep, family circumstances, perceived control and available support influence reactions. Different responses do not establish weakness, and silence does not establish an absence of distress.\n\n### 1.2. FPU stressors\nMission life may combine harsh climate, violence risks, family separation, communication difficulties, limited privacy and exposure to suffering. Organizational stressors include unclear orders, unpredictable schedules, conflict and feeling unheard. Relaxation advice alone cannot correct an unsustainable duty roster.\n\nDistinguish individual adjustments, command action and professional support. An officer may take an authorized short break; command must organize recovery across a team. These levels should reinforce each other.\n\n### 1.3. Operational effects\nExcessive stress can affect attention, working memory, communication and emotional regulation. In policing, these changes may affect order comprehension, threat assessment and community interaction. Stress management therefore contributes directly to safety and professional conduct.\n\n### 1.4. Recognition without diagnosis\nThis lesson supports recognition and appropriate assistance. Symptom lists are not diagnostic tools. Headache or insomnia can have several causes requiring medical assessment. Early recognition means supportive enquiry, rather than public labelling or requiring distressed colleagues to prove that they are fine."
+      },
+      "sourceIds": [
+        "CSC018",
+        "WHO"
+      ]
+    },
+    {
+      "id": "FPU-04-02",
+      "title": {
+        "vi": "2. Dạng căng thẳng và dấu hiệu cần chú ý",
+        "en": "2. Stress patterns and warning signs"
+      },
+      "body": {
+        "vi": "### 2.1. Căng thẳng thường ngày và tích lũy\nCăng thẳng thường ngày có thể xuất hiện khi thích nghi lịch trực, môi trường hoặc công việc mới. Nếu có hỗ trợ và phục hồi phù hợp, nhiều phản ứng sẽ giảm. Căng thẳng tích lũy phát triển khi các yêu cầu nối tiếp nhau mà nguồn lực phục hồi không đủ. Người gặp khó khăn có thể không chỉ ra một sự kiện duy nhất, vì vấn đề đến từ nhiều yếu tố nhỏ kéo dài.\n\nKiệt sức nghề nghiệp có thể liên quan tình trạng căng thẳng công việc kéo dài chưa được quản lý hiệu quả, với cảm giác cạn năng lượng, xa cách hoặc tiêu cực với công việc và giảm hiệu quả nghề nghiệp. Không dùng thuật ngữ này cho mọi trường hợp mệt sau một ca trực; cũng không xem nó như bằng chứng người đó thiếu trách nhiệm.\n\n### 2.2. Phản ứng sau sự kiện gây sang chấn\nSự kiện đe dọa sinh mạng, thương vong nghiêm trọng hoặc chứng kiến hại lớn có thể gây phản ứng mạnh ngay hoặc về sau. Một người có thể run, khó tập trung, bất động, khó ngủ, nhớ lại sự việc hoặc tránh điều nhắc nhớ. Những phản ứng ban đầu không tự xác định PTSD và không chứng minh mọi người sẽ phát triển một rối loạn.\n\nPTSD là vấn đề cần đánh giá và chăm sóc chuyên môn. Không nên tự chẩn đoán dựa trên một phản ứng, một cuộc trò chuyện hoặc một hình trong bài. Mức độ, thời gian kéo dài, ảnh hưởng chức năng và hoàn cảnh cá nhân đều cần được người có chuyên môn xem xét.\n\n### 2.3. Quan sát nhiều nhóm dấu hiệu\nCó thể nhận biết thay đổi ở ba nhóm:\n- **Cơ thể:** Mệt kéo dài, đau đầu, căng cơ, rối loạn giấc ngủ hoặc thay đổi ăn uống.\n- **Suy nghĩ và cảm xúc:** Khó tập trung, lo lắng, dễ kích động, giảm tự tin hoặc cảm giác quá tải.\n- **Hành vi và quan hệ:** Thu mình, xung đột tăng, lỗi công việc lặp lại, dùng rượu hoặc chất khác để đối phó.\n\nMột dấu hiệu riêng lẻ chưa đủ kết luận nguyên nhân. Hãy chú ý thay đổi so với mức thông thường, sự kết hợp nhiều dấu hiệu và ảnh hưởng an toàn, sinh hoạt hoặc nhiệm vụ.\n\n### 2.4. Ngưỡng cần hỗ trợ\nKhông cần đợi biểu hiện “đủ nặng” mới tìm hỗ trợ. Khi dấu hiệu kéo dài, tăng lên, ảnh hưởng hoạt động hoặc khiến cá nhân lo lắng, nên kết nối y tế hoặc chuyên gia phù hợp. Bất kỳ nguy cơ tức thời đối với bản thân hay người khác đều cần hỗ trợ khẩn cấp theo cơ chế phái bộ, không chờ lịch tư vấn thông thường.",
+        "en": "### 2.1. Everyday and cumulative stress\nEveryday stress may accompany new duties, schedules or surroundings and often reduces with support and recovery. Cumulative stress develops when demands repeatedly exceed opportunities to recover. There may be no single identifiable incident.\n\nOccupational burnout can involve exhaustion, distance or negativity towards work and reduced professional effectiveness in the context of inadequately managed chronic workplace stress. Do not apply the label to every tiring shift or treat it as evidence of irresponsibility.\n\n### 2.2. Responses to potentially traumatic events\nThreats to life, serious casualties or witnessing severe harm may produce immediate or delayed reactions: Shaking, poor concentration, freezing, disturbed sleep, intrusive recollections or avoidance. Early reactions do not establish PTSD or predict that everyone will develop a disorder.\n\nPTSD requires professional assessment and care. A single reaction, conversation or teaching image cannot establish a diagnosis. Severity, duration, functional effects and individual circumstances require competent evaluation.\n\n### 2.3. Observe several domains\nNotice changes in:\n- **Physical functioning:** Persistent fatigue, headaches, muscle tension, sleep or appetite changes.\n- **Thinking and emotion:** Poor concentration, anxiety, irritability, reduced confidence or overwhelm.\n- **Behaviour and relationships:** Withdrawal, conflict, repeated errors or substance use to cope.\n\nAn isolated sign does not determine its cause. Consider change from the person's usual functioning, combined signs and effects on safety, life or work.\n\n### 2.4. Accessing support\nMembers need not wait for severe symptoms. Seek appropriate medical or professional support when difficulties persist, worsen, impair functioning or cause concern. Immediate danger to self or others requires urgent mission emergency support rather than a routine counselling appointment."
+      },
+      "sourceIds": [
+        "CSC018",
+        "WHOBURN"
+      ]
+    },
+    {
+      "id": "FPU-04-03",
+      "title": {
+        "vi": "3. Phòng ngừa và phục hồi hằng ngày",
+        "en": "3. Everyday prevention and recovery"
+      },
+      "body": {
+        "vi": "### 3.1. Bảo vệ nền tảng sức khỏe\nGiấc ngủ, dinh dưỡng, nước uống, vận động phù hợp và khoảng nghỉ là nguồn lực phục hồi cơ bản. Cần tổ chức phù hợp lịch nhiệm vụ, khí hậu và tình trạng sức khỏe. Không dùng một khẩu hiệu “tự chăm sóc” để yêu cầu cá nhân giải quyết tình trạng thiếu nghỉ do lịch phân công của đơn vị.\n\nTrước một đợt nhiệm vụ, nên xác định thời gian làm việc, cơ hội nghỉ, người thay, khả năng ăn uống và liên lạc với gia đình. Sau nhiệm vụ kéo dài, cần kiểm tra mệt mỏi thực tế trước khi giao việc cần tập trung cao. Một người có mặt không đồng nghĩa họ đã phục hồi đầy đủ để lái xe hoặc đảm nhiệm một vị trí có nguy cơ cao.\n\n### 3.2. Cách đối phó hữu ích\nCá nhân có thể nhận biết điều đang gây áp lực, chia nhỏ việc trong phạm vi kiểm soát, nhờ làm rõ ưu tiên và kết nối người tin cậy. Hoạt động thư giãn nhẹ hoặc chú ý hơi thở tự nhiên có thể hỗ trợ bình tĩnh nếu bản thân thấy phù hợp. Không ép người đang khó chịu phải thực hiện một kỹ thuật khiến họ khó chịu hơn.\n\nHãy duy trì hoạt động có ý nghĩa ngoài nhiệm vụ trong điều kiện cho phép: Vận động vừa sức, sinh hoạt văn hóa, giao tiếp gia đình hoặc sở thích. Mục tiêu là phục hồi và kết nối, không phải buộc mọi người tham gia cùng một hoạt động hay biến lịch giải trí thành nguồn áp lực mới.\n\n### 3.3. Tránh cách đối phó gây thêm hại\nRượu, chất kích thích, tự dùng thuốc an thần hoặc cố làm việc liên tục để né cảm xúc có thể tạo cảm giác nhẹ tức thời nhưng làm tăng vấn đề về sau. Khi có nhu cầu dùng thuốc hoặc triệu chứng ảnh hưởng sức khỏe, cần trao đổi với nhân viên y tế. Không chia thuốc cho đồng đội và không dùng chất để chuẩn bị cho một nhiệm vụ đòi hỏi sự tỉnh táo.\n\n### 3.4. Theo dõi thay đổi nhỏ\nCó thể tự hỏi định kỳ: Tôi ngủ và hồi phục thế nào; khả năng tập trung có thay đổi không; quan hệ với đồng đội ra sao; có tăng dùng rượu hoặc né tránh không; tôi cần giúp ở đâu. Câu trả lời phục vụ điều chỉnh và tìm hỗ trợ, không phải bảng tự chấm đạt hay không đạt. Nếu điều chỉnh thông thường không giúp, hãy tìm hỗ trợ sớm thay vì tăng tự trách mình.",
+        "en": "### 3.1. Protect basic recovery resources\nSleep, nutrition, hydration, suitable movement and breaks support recovery. Arrange them around duty, climate and health. “Self-care” cannot make individuals responsible for rest deprivation created by unit scheduling.\n\nBefore intensive duties, establish working periods, relief, food, water and family contact opportunities. After prolonged work, assess fatigue before assigning demanding tasks. Presence on a roster does not prove fitness for driving or other safety-critical roles.\n\n### 3.2. Helpful coping\nIdentify stressors, divide manageable tasks, clarify priorities and contact trusted people. Gentle relaxation or attending to natural breathing may help when comfortable. Do not force a technique that increases distress.\n\nMaintain meaningful activities where feasible: Appropriate exercise, cultural activities, family contact or personal interests. Recreation should restore connection rather than become compulsory pressure to participate in the same activity.\n\n### 3.3. Avoid harmful coping\nAlcohol, stimulants, unsupervised sedatives or continuous work to avoid feelings can offer short-term relief while worsening later difficulties. Discuss medication and health symptoms with medical personnel. Do not share medicines or use substances to prepare for duties requiring alertness.\n\n### 3.4. Monitor small changes\nPeriodically consider sleep, recovery, concentration, relationships, avoidance and substance use, and identify assistance needed. Reflection supports adjustment and access to care rather than a pass-or-fail self-test. If ordinary changes do not help, seek support instead of increasing self-blame."
+      },
+      "sourceIds": [
+        "CSC018",
+        "WHO"
+      ]
+    },
+    {
+      "id": "FPU-04-04",
+      "title": {
+        "vi": "4. Hỗ trợ đồng đội theo nguyên tắc sơ cứu tâm lý",
+        "en": "4. Supporting colleagues through psychological first aid"
+      },
+      "body": {
+        "vi": "### 4.1. Sự giúp đỡ thực tế và tôn trọng\nSơ cứu tâm lý là hỗ trợ nhân ái, thiết thực cho người đang đau khổ sau khủng hoảng, tôn trọng phẩm giá, văn hóa và năng lực của họ. Đây không phải liệu pháp do đồng đội tự thực hiện, không yêu cầu người được giúp kể lại chi tiết và không hứa rằng một cuộc nói chuyện sẽ ngăn được mọi hậu quả tâm lý.\n\nTrước khi hỗ trợ, xem nơi đó có an toàn không, bản thân có đủ bình tĩnh không và có đầu mối nào cần gọi. Không tiếp cận theo cách làm tăng cảm giác bị kiểm soát; tự giới thiệu, nói ngắn gọn và hỏi người đó cần gì. Tôn trọng việc họ chưa muốn nói, đồng thời vẫn chú ý nhu cầu an toàn.\n\n### 4.2. Quan sát — Lắng nghe — Kết nối\n**Quan sát:** Nhận biết nguy hiểm, thương tích, nhu cầu cơ bản và người cần giúp ngay. Đừng giải thích một triệu chứng có thể nguy hiểm như đau ngực, khó thở hoặc lú lẫn chỉ bằng “căng thẳng”. Cần gọi y tế khi có dấu hiệu cấp cứu.\n\n**Lắng nghe:** Hỏi nhu cầu, nghe điều họ muốn chia sẻ, không ngắt lời, phán xét hoặc ép diễn giải sự kiện. Dùng lời rõ ràng và bình tĩnh, chấp nhận khoảng im lặng. Tránh nói “không có gì đâu” hoặc so sánh với người chịu hoàn cảnh nặng hơn.\n\n**Kết nối:** Giúp tiếp cận nơi an toàn, nước uống hoặc nhu cầu phù hợp, người thân và dịch vụ hỗ trợ. Cung cấp thông tin đã kiểm chứng, nói rõ điều chưa biết. Thống nhất bước tiếp theo và xem họ có thực sự tiếp cận được người giúp hay không.\n\n### 4.3. Bảo mật có giới hạn an toàn\nGiữ riêng tư và chỉ chia sẻ thông tin cần thiết với người có trách nhiệm. Không đem câu chuyện của đồng đội làm ví dụ trước tập thể hoặc đưa lên nhóm trao đổi. Cũng không hứa giữ bí mật tuyệt đối khi có nguy cơ nghiêm trọng đối với sinh mạng; giải thích cần kết nối người có thể bảo vệ an toàn.\n\n### 4.4. Giới hạn của người hỗ trợ\nKhông chẩn đoán, kê thuốc, điều tra sự kiện hoặc ép người được giúp thực hiện một phương pháp. Khi nhu cầu vượt khả năng, hãy kết nối chuyên môn và duy trì hỗ trợ thực tế phù hợp. Người hỗ trợ cũng cần nghỉ, chia sẻ khó khăn qua kênh thích hợp và nhận giúp đỡ khi bản thân bị ảnh hưởng.",
+        "en": "### 4.1. Practical, respectful assistance\nPsychological first aid offers humane, practical support after crisis while respecting dignity, culture and abilities. It is not peer-delivered therapy, compulsory recounting or a promise to prevent all psychological consequences.\n\nCheck safety, your own capacity and available contacts. Introduce yourself calmly, explain your role and ask about needs. Respect reluctance to talk while remaining attentive to safety.\n\n### 4.2. Look — Listen — Link\n**Look:** Identify danger, injury, basic needs and urgent assistance. Do not assume chest pain, breathing difficulty or confusion is merely stress. Obtain medical help for emergency signs.\n\n**Listen:** Ask about needs and hear what the person chooses to share. Avoid interruption, judgment and pressure for details. Communicate calmly, allow silence and avoid dismissive reassurance or comparisons with others.\n\n**Link:** Connect people with safety, practical necessities, trusted contacts and appropriate services. Give verified information, acknowledge uncertainty and agree a next step. Check whether assistance was actually reached.\n\n### 4.3. Privacy with safety limits\nProtect privacy and share only necessary information with responsible helpers. Do not circulate a colleague's story in group discussions. Do not promise absolute secrecy when serious danger to life requires protective assistance; explain the need to involve appropriate support.\n\n### 4.4. Limits of the helper's role\nDo not diagnose, prescribe, investigate or compel a technique. Refer needs beyond your competence while continuing suitable practical support. Helpers also need rest, appropriate consultation and support for their own reactions."
+      },
+      "sourceIds": [
+        "WHO",
+        "CSC018"
+      ]
+    },
+    {
+      "id": "FPU-04-05",
+      "title": {
+        "vi": "5. Trách nhiệm chỉ huy và hỗ trợ sau sự kiện",
+        "en": "5. Command responsibility and post-incident support"
+      },
+      "body": {
+        "vi": "### 5.1. Giảm nguồn áp lực có thể phòng ngừa\nChỉ huy có thể giảm căng thẳng bằng lệnh rõ, phân công công bằng, lịch có thể dự đoán trong khả năng, điều kiện ăn nghỉ và kênh phản ánh. Cần chủ động tìm hiểu dấu hiệu quá tải của cả nhóm thay vì chỉ chú ý người biểu hiện mạnh. Khi nhiệm vụ tăng, phải xem lại nguồn lực và phục hồi; không coi chịu đựng không giới hạn là thước đo tinh thần.\n\nVăn hóa hỗ trợ bắt đầu từ cách phản ứng khi có người báo khó khăn. Nghe nghiêm túc, xử lý riêng tư và tránh chế giễu giúp cán bộ tìm hỗ trợ sớm. Một cơ chế tư vấn được thông báo nhưng khiến người sử dụng bị gán nhãn sẽ khó có hiệu quả.\n\n### 5.2. Sau sự kiện nghiêm trọng\nƯu tiên bảo đảm an toàn, đánh giá y tế khi cần, nhu cầu thiết yếu, thông tin xác thực và liên hệ người hỗ trợ. Phản ứng có thể xuất hiện muộn; cần có cơ hội tiếp cận chăm sóc về sau, không chỉ một cuộc hỏi thăm ngay sau sự kiện. Cán bộ chưa muốn nói vẫn cần được biết nơi tìm giúp khi sẵn sàng.\n\nQuyết định giao lại nhiệm vụ cần xét sức khỏe và khả năng thực hiện an toàn qua cơ chế có chuyên môn. Không dùng sự im lặng, cấp bậc hoặc mong muốn quay lại việc ngay để thay đánh giá cần thiết. Đồng thời tránh tự loại người khỏi mọi công việc khi chưa có căn cứ và chưa trao đổi phù hợp.\n\n### 5.3. Rút kinh nghiệm và chăm sóc tâm lý\nRút kinh nghiệm tác nghiệp tập trung sự kiện, quyết định, phối hợp và bài học để cải thiện. Chăm sóc tâm lý tập trung nhu cầu của con người, cần riêng tư và chuyên môn tương ứng. Có thể cần cả hai, nhưng không nên gộp thành buổi bắt mọi người kể cảm xúc hoặc chi tiết đau buồn trước tập thể.\n\nKhông tổ chức psychological debriefing như một can thiệp bắt buộc nhằm ngăn PTSD. Hỗ trợ ban đầu nên theo nhu cầu, tự nguyện trong phần chia sẻ và có chuyển tuyến phù hợp. Các nghĩa vụ báo cáo sự kiện vẫn phải thực hiện đúng cơ chế, tách khỏi việc ép bộc lộ cảm xúc.\n\n### 5.4. Theo dõi có trách nhiệm\nChỉ huy cần biết đã kết nối hỗ trợ chưa, có cần điều chỉnh nhiệm vụ không và khi nào rà lại. Thông tin sức khỏe chi tiết chỉ chia sẻ theo phạm vi cần thiết và quy định. Mục tiêu là bảo vệ người, giữ khả năng làm việc an toàn và tạo điều kiện phục hồi, không thu thập câu chuyện riêng tư để quản lý thành tích.",
+        "en": "### 5.1. Reduce preventable organizational stress\nClear orders, fair assignments, reasonably predictable schedules, suitable living conditions and accessible reporting channels reduce avoidable stress. Monitor teams as well as visibly distressed individuals. Increased demand requires review of resources and recovery; unlimited endurance is not a performance standard.\n\nRespond seriously and privately when someone seeks help. Ridicule and stigma undermine access even when services exist. Command behaviour establishes whether support is credible.\n\n### 5.2. After serious incidents\nPrioritize safety, necessary medical assessment, essentials, reliable information and support contacts. Reactions may emerge later, so maintain opportunities for follow-up. People who do not wish to talk immediately should still know where assistance is available.\n\nReturn-to-duty decisions must consider safe functioning through appropriate professional arrangements. Silence, rank or eagerness to resume work cannot replace needed assessment. Equally, avoid unsupported exclusion from all duties.\n\n### 5.3. Operational learning and psychological care\nOperational review examines events, decisions, coordination and learning. Psychological support addresses personal needs with suitable privacy and competence. Both may be needed without compelling public emotional disclosure.\n\nDo not use compulsory psychological debriefing as a preventive intervention for PTSD. Initial support should be needs-based, allow voluntary sharing and facilitate referral. Event-reporting duties remain applicable and distinct from forced emotional recounting.\n\n### 5.4. Accountable follow-up\nEstablish whether support was accessed, duties require adjustment and review is needed. Share health details only as necessary and permitted. The purpose is protection, safe functioning and recovery rather than collecting private narratives for performance management."
+      },
+      "sourceIds": [
+        "CSC018",
+        "WHODEB"
+      ]
+    },
+    {
+      "id": "FPU-04-06",
+      "title": {
+        "vi": "6. Khi cần chuyển tuyến và chuẩn bị của đơn vị",
+        "en": "6. Referral and unit preparedness"
+      },
+      "body": {
+        "vi": "### 6.1. Hỗ trợ thường quy và hỗ trợ khẩn\nVấn đề kéo dài, nặng lên hoặc ảnh hưởng công việc, quan hệ, ăn ngủ cần được trao đổi với nhân viên y tế hoặc chuyên gia tâm lý phù hợp. Việc tìm giúp sớm không yêu cầu phải có chẩn đoán trước. Đồng đội có thể hỗ trợ đặt liên hệ, đi cùng nếu người đó muốn và giảm những rào cản thực tế.\n\nKhi có nguy cơ tức thời gây hại bản thân hay người khác, mất kiểm soát nghiêm trọng hoặc không thể giữ an toàn, cần gọi hỗ trợ khẩn cấp tại phái bộ. Ở cùng người đó nếu an toàn, huy động người có trách nhiệm và giảm tiếp cận phương tiện nguy hiểm theo quy trình an ninh, không tự đối đầu hoặc xử trí vượt năng lực. Không để lời hứa giữ bí mật cản trở bảo vệ sinh mạng.\n\n### 6.2. Chuyển tuyến phải có điểm đến\nMột lời dặn “hãy đi tư vấn” có thể chưa đủ. Cần biết nơi tiếp nhận, cách liên hệ, giờ hoạt động, hỗ trợ ngôn ngữ và phương án ngoài giờ. Khi có nguy cơ, phải xác nhận người có trách nhiệm đã nhận thông tin và tổ chức hỗ trợ; không chỉ gửi một tin nhắn rồi coi đã bàn giao.\n\nBác sĩ, chuyên gia tư vấn, cơ chế hỗ trợ nhân viên và tuyến chỉ huy có vai trò khác nhau. Chia sẻ thông tin phù hợp mục đích, tôn trọng quyền riêng tư và tuân thủ nghĩa vụ bảo vệ an toàn. Cán bộ nên được giải thích những giới hạn ấy trước khi trao đổi sâu khi hoàn cảnh cho phép.\n\n### 6.3. Chuẩn bị trước khi có sự cố\nĐơn vị cần có danh bạ hỗ trợ đã xác minh tại địa bàn, phương án ngoài giờ, người phụ trách và cách tiếp cận kín đáo. Cập nhật khi đầu mối hoặc khu vực triển khai thay đổi. Không dùng số liên hệ trong tài liệu mẫu của một phái bộ khác để giả định có thể trợ giúp tại nơi đang phục vụ.\n\n### 6.4. Tự kiểm tra mức hiểu bài\nNgười học cần phân biệt được phản ứng căng thẳng với chẩn đoán, hỗ trợ thực tế với trị liệu, riêng tư với bí mật tuyệt đối và nghỉ phục hồi với né trách nhiệm. Năng lực cần đạt là nhận biết thay đổi, phản ứng tôn trọng và đưa người cần giúp tới đúng hỗ trợ. Không ai phải tự giải quyết mọi khó khăn; đơn vị cũng không thể giao toàn bộ trách nhiệm phục hồi cho cá nhân.",
+        "en": "### 6.1. Routine and urgent support\nPersistent, worsening or impairing difficulties warrant appropriate medical or psychological help. A diagnosis is not required before seeking assistance. Colleagues can help arrange contact, accompany the person if wanted and reduce practical barriers.\n\nImmediate danger to self or others, severe loss of control or inability to remain safe requires mission emergency assistance. Stay with the person when safe, involve responsible support and manage access to dangerous means through security procedures. Avoid confrontation or action beyond competence. Promises of secrecy must not obstruct protection of life.\n\n### 6.2. Referral needs a destination\n“Seek counselling” may be insufficient. Establish the receiving service, contact method, opening hours, language support and out-of-hours arrangements. In urgent cases, confirm that responsible helpers have received the concern and arranged care rather than assuming a message completed handover.\n\nMedical staff, counsellors, staff-support mechanisms and command have different roles. Share information according to purpose, privacy and safety obligations, explaining limits where circumstances allow.\n\n### 6.3. Prepare before an incident\nMaintain verified local support contacts, out-of-hours arrangements, responsible personnel and discreet access. Update them when locations or providers change. Contacts in another mission's training example cannot be assumed to provide local assistance.\n\n### 6.4. Check understanding\nDistinguish stress reactions from diagnosis, practical assistance from therapy, privacy from absolute secrecy and recovery from avoiding responsibility. The intended competence is recognizing change, responding respectfully and connecting people with appropriate help. Individuals need not solve every difficulty alone, and units cannot transfer all responsibility for recovery to them."
+      },
+      "sourceIds": [
+        "CSC018",
+        "WHO"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "CSC018",
+      "title": "FPU Command Staff Course 2026 · Lesson 18: Stress Management and Welfare",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-018%20Lesson%2018%20Stress%20Management%20and%20Welfare%20(LP).pdf",
+      "year": "2026",
+      "publisher": "United Nations Police / DPO",
+      "format": "pdf"
+    },
+    {
+      "id": "WHO",
+      "title": "Psychological first aid: Guide for field workers",
+      "publisher": "World Health Organization",
+      "year": "2011",
+      "url": "https://www.who.int/publications/i/item/9789241548205",
+      "format": "web",
+      "pages": null,
+      "reading": "Khái niệm và cách hỗ trợ ban đầu",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "WHOBURN",
+      "title": "Burn-out: An occupational phenomenon (ICD-11)",
+      "url": "https://www.who.int/standards/classifications/frequently-asked-questions/burn-out-an-occupational-phenomenon",
+      "year": "2019",
+      "publisher": "World Health Organization",
+      "format": "web",
+      "checked": "2026-10-28"
+    },
+    {
+      "id": "WHODEB",
+      "title": "Psychological debriefing in people exposed to a recent traumatic event",
+      "url": "https://www.who.int/teams/mental-health-and-substance-use/treatment-care/mental-health-gap-action-programme/evidence-centre/other-significant-emotional-and-medical-unexplained-somatic-complaints/psychological-debriefing-in-people-exposed-to-a-recent-traumatic-event",
+      "year": "2012",
+      "publisher": "World Health Organization",
+      "format": "web",
+      "checked": "2026-10-28"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Vì sao cùng một sự việc có thể gây phản ứng khác nhau?",
+        "en": "Why can the same event produce different reactions?"
+      },
+      "options": [
+        {
+          "vi": "Người im lặng chắc chắn không bị ảnh hưởng.",
+          "en": "Silent people are certainly unaffected."
+        },
+        {
+          "vi": "Người phản ứng mạnh hơn luôn thiếu kỷ luật.",
+          "en": "Stronger reactions always indicate poor discipline."
+        },
+        {
+          "vi": "Hoàn cảnh, sức khỏe, kinh nghiệm và hỗ trợ mỗi người khác nhau.",
+          "en": "Individual circumstances, health, experience and support differ."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Phản ứng khác nhau không tự chứng minh yếu hay khỏe; cần tìm hiểu và hỗ trợ. Xem mục 1.",
+        "en": "Different reactions do not establish weakness or wellness; supportive enquiry is needed. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Thiếu nghỉ do lịch trực quá tải cần xử lý ở mức nào?",
+        "en": "At what level should roster-driven rest deprivation be addressed?"
+      },
+      "options": [
+        {
+          "vi": "Bỏ qua vì mọi căng thẳng đều có lợi.",
+          "en": "Ignore it because all stress is beneficial."
+        },
+        {
+          "vi": "Chỉ yêu cầu cá nhân tự thư giãn.",
+          "en": "Only require individual relaxation."
+        },
+        {
+          "vi": "Có điều chỉnh tổ chức và hỗ trợ cá nhân phù hợp.",
+          "en": "Through organizational changes together with suitable individual support."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Nguồn áp lực tổ chức không thể giao hoàn toàn cho cá nhân giải quyết. Xem mục 1.",
+        "en": "Organizational stressors cannot be left entirely to individuals. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Một người khó ngủ ngay sau sự kiện có tự xác định PTSD không?",
+        "en": "Does disturbed sleep immediately after an incident establish PTSD?"
+      },
+      "options": [
+        {
+          "vi": "Không; cần đánh giá chuyên môn, mức độ, thời gian và ảnh hưởng.",
+          "en": "No; professional assessment considers severity, duration and impairment."
+        },
+        {
+          "vi": "Không bao giờ cần hỗ trợ nếu chưa có chẩn đoán.",
+          "en": "Support is never needed without a diagnosis."
+        },
+        {
+          "vi": "Có, chỉ cần một dấu hiệu.",
+          "en": "Yes, one sign is sufficient."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Phản ứng ban đầu không đồng nghĩa rối loạn; hỗ trợ sớm không cần chờ chẩn đoán. Xem mục 2.",
+        "en": "Early reactions do not establish a disorder; early help does not require a diagnosis. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Khi nhận biết dấu hiệu, nên chú ý gì?",
+        "en": "What should recognition of warning signs consider?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ một biểu hiện rồi kết luận nguyên nhân.",
+          "en": "One sign followed by a definite causal conclusion."
+        },
+        {
+          "vi": "Thay đổi so với thường ngày, kết hợp dấu hiệu và ảnh hưởng chức năng.",
+          "en": "Change from usual functioning, combined signs and functional effects."
+        },
+        {
+          "vi": "Chỉ biểu hiện bên ngoài trước tập thể.",
+          "en": "Only public outward behaviour."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Nhiều triệu chứng có nhiều nguyên nhân; quan sát hỗ trợ chuyển tuyến chứ không tự chẩn đoán. Xem mục 2.",
+        "en": "Symptoms have multiple possible causes; observation supports referral rather than diagnosis. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Trước khi giao lái xe sau ca dài, điều gì cần xem?",
+        "en": "Before assigning driving after a long shift, what matters?"
+      },
+      "options": [
+        {
+          "vi": "Tình trạng mệt và khả năng làm việc an toàn, cùng phương án thay.",
+          "en": "Fatigue, safe functioning and possible relief."
+        },
+        {
+          "vi": "Chỉ hỏi họ có muốn hoàn thành chỉ tiêu không.",
+          "en": "Only whether they want to meet a target."
+        },
+        {
+          "vi": "Chỉ cần người đó có mặt.",
+          "en": "Presence alone."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Có mặt không đồng nghĩa đã phục hồi đủ cho nhiệm vụ có nguy cơ cao. Xem mục 3.",
+        "en": "Presence does not prove recovery for safety-critical work. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Cách đối phó nào cần tránh?",
+        "en": "Which coping strategy should be avoided?"
+      },
+      "options": [
+        {
+          "vi": "Sắp xếp nghỉ và hoạt động phù hợp.",
+          "en": "Arranging rest and suitable activity."
+        },
+        {
+          "vi": "Nhờ làm rõ ưu tiên và tìm hỗ trợ.",
+          "en": "Clarifying priorities and seeking support."
+        },
+        {
+          "vi": "Tự dùng rượu hoặc thuốc an thần để đối phó và tiếp tục nhiệm vụ.",
+          "en": "Self-medicating with alcohol or sedatives while continuing duty."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Chất có thể che khó chịu tức thời nhưng làm tăng nguy cơ; vấn đề thuốc cần trao đổi y tế. Xem mục 3.",
+        "en": "Substances can mask distress while increasing risk; medication issues require medical advice. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Đồng đội chưa muốn kể sự việc. Cách hỗ trợ nào phù hợp?",
+        "en": "A colleague does not want to recount the event. What is appropriate?"
+      },
+      "options": [
+        {
+          "vi": "Ép kể đủ chi tiết mới giúp.",
+          "en": "Require a detailed account before helping."
+        },
+        {
+          "vi": "Tôn trọng, hỏi nhu cầu thực tế và cung cấp lựa chọn hỗ trợ.",
+          "en": "Respect this, ask about practical needs and offer support options."
+        },
+        {
+          "vi": "Đánh giá họ thiếu hợp tác trước tập thể.",
+          "en": "Publicly label them uncooperative."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Sơ cứu tâm lý không yêu cầu ép kể; an toàn, lắng nghe và kết nối theo nhu cầu là trọng tâm. Xem mục 4.",
+        "en": "PFA does not require forced disclosure; safety, listening and needs-based connection matter. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Hứa bảo mật nên hiểu thế nào khi có nguy cơ sinh mạng?",
+        "en": "How should confidentiality be handled when life is at risk?"
+      },
+      "options": [
+        {
+          "vi": "Bảo vệ riêng tư nhưng kết nối người có trách nhiệm để giữ an toàn.",
+          "en": "Protect privacy while involving responsible help for safety."
+        },
+        {
+          "vi": "Chia sẻ toàn bộ lên nhóm đơn vị.",
+          "en": "Share everything in the unit chat."
+        },
+        {
+          "vi": "Giữ bí mật tuyệt đối dù nguy hiểm tức thời.",
+          "en": "Maintain absolute secrecy despite immediate danger."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Thông tin cần được chia sẻ tối thiểu, đúng người; bí mật tuyệt đối không thể cản cứu giúp. Xem mục 4.",
+        "en": "Share necessary information appropriately; absolute secrecy must not obstruct lifesaving help. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Rút kinh nghiệm tác nghiệp có nên bắt mọi người kể cảm xúc sang chấn không?",
+        "en": "Should operational reviews compel trauma-related emotional disclosure?"
+      },
+      "options": [
+        {
+          "vi": "Có, để phòng PTSD cho mọi người.",
+          "en": "Yes, to prevent PTSD in everyone."
+        },
+        {
+          "vi": "Không; tách học tác nghiệp với hỗ trợ tâm lý phù hợp, tự nguyện trong chia sẻ.",
+          "en": "No; distinguish operational learning from appropriate support with voluntary sharing."
+        },
+        {
+          "vi": "Có, nếu người chủ trì có cấp bậc cao.",
+          "en": "Yes, if the facilitator is senior."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Không dùng psychological debriefing bắt buộc như can thiệp ngăn PTSD; nghĩa vụ báo sự kiện vẫn theo cơ chế riêng. Xem mục 5.",
+        "en": "Do not use compulsory psychological debriefing to prevent PTSD; factual reporting obligations remain separate. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Chỉ huy hỗ trợ phục hồi bằng cách nào?",
+        "en": "How can commanders support recovery?"
+      },
+      "options": [
+        {
+          "vi": "Điều chỉnh nguồn áp lực, tạo tiếp cận hỗ trợ và theo dõi an toàn với riêng tư.",
+          "en": "Address stressors, enable support and follow up safely with privacy."
+        },
+        {
+          "vi": "Coi im lặng là đủ điều kiện quay lại mọi nhiệm vụ.",
+          "en": "Treat silence as clearance for every duty."
+        },
+        {
+          "vi": "Chỉ khuyên mạnh mẽ lên.",
+          "en": "Only tell people to be stronger."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Tổ chức và văn hóa chỉ huy quyết định khả năng tìm giúp; quay lại nhiệm vụ cần xét chức năng an toàn. Xem mục 5.",
+        "en": "Organization and command culture affect help-seeking; duty decisions require consideration of safe functioning. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Một chuyển tuyến khẩn có trách nhiệm cần gì?",
+        "en": "What makes an urgent referral responsible?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ gửi một tin rồi thôi.",
+          "en": "Send a message and stop."
+        },
+        {
+          "vi": "Xác nhận đúng đầu mối đã nhận và tổ chức hỗ trợ.",
+          "en": "Confirm the responsible service received the concern and arranged help."
+        },
+        {
+          "vi": "Chỉ dùng số trong tài liệu mẫu phái bộ khác.",
+          "en": "Use a contact from another mission’s sample only."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Chuyển tuyến phải có điểm đến thực và xác nhận; tiếp cận chậm có thể gây mất an toàn. Xem mục 6.",
+        "en": "Referral requires a real destination and confirmation; delay can threaten safety. See section 6."
+      },
+      "chapter": 5
+    },
+    {
+      "question": {
+        "vi": "Khi có nguy cơ tức thời gây hại, nên làm gì?",
+        "en": "What is required with immediate danger of harm?"
+      },
+      "options": [
+        {
+          "vi": "Tự đối đầu để buộc người đó bình tĩnh.",
+          "en": "Confront the person to force calm."
+        },
+        {
+          "vi": "Đợi lịch tư vấn thường quy.",
+          "en": "Wait for a routine appointment."
+        },
+        {
+          "vi": "Gọi hỗ trợ khẩn, ở cùng nếu an toàn và huy động người có trách nhiệm.",
+          "en": "Activate emergency help, remain if safe and involve responsible support."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Nguy cơ tức thời cần bảo vệ và chăm sóc khẩn; không xử trí vượt năng lực. Xem mục 6.",
+        "en": "Immediate risk requires urgent protection and care within competence. See section 6."
+      },
+      "chapter": 5
+    }
+  ],
+  "updated": "2026-10-28",
+  "moduleId": "FPU-M6",
+  "moduleOrder": 4,
+  "lessonOrder": 4,
+  "sourceModule": {
+    "programme": "STM-FPU",
+    "number": 6,
+    "title": "Command staff training"
+  },
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "FPU-04-01",
+      "title": {
+        "vi": "1. Căng thẳng trong môi trường phái bộ",
+        "en": "1. Stress in the mission environment"
+      },
+      "body": {
+        "vi": "### 1.1. Hiểu phản ứng trước yêu cầu\nCăng thẳng là phản ứng của cơ thể và tâm trí trước thay đổi, yêu cầu hoặc đe dọa. Một mức kích hoạt phù hợp có thể giúp tập trung và hành động. Khi yêu cầu quá mạnh, lặp lại quá thường xuyên hoặc kéo dài hơn khả năng phục hồi, phản ứng có thể làm giảm sức khỏe, khả năng quyết định và hiệu quả công việc.\n\nKhông phải mọi người phản ứng giống nhau trước cùng một sự việc. Kinh nghiệm, sức khỏe, giấc ngủ, điều kiện gia đình, cảm giác kiểm soát và hỗ trợ sẵn có đều có thể ảnh hưởng. Không thể kết luận một người yếu chỉ vì họ phản ứng khác đồng đội; cũng không thể suy người ít nói là không chịu tác động.\n\n### 1.2. Những nguồn áp lực của FPU\nMôi trường phái bộ có thể kết hợp khí hậu khắc nghiệt, nguy cơ bạo lực, xa gia đình, khó giao tiếp, thiếu riêng tư và chứng kiến đau khổ. Áp lực tổ chức như lệnh không rõ, lịch làm việc khó dự đoán, xung đột và cảm giác không được lắng nghe có thể cộng thêm vào nguy cơ bên ngoài. Việc chỉ dạy cá nhân thư giãn mà bỏ qua tổ chức ca trực sẽ không xử lý được toàn bộ vấn đề.\n\nHãy phân biệt yếu tố có thể điều chỉnh ngay với yếu tố cần báo lên hoặc cần hỗ trợ chuyên môn. Chẳng hạn, một cán bộ có thể chủ động nghỉ ngắn phù hợp; chỉ huy mới có thể điều chỉnh phân công để bảo vệ thời gian phục hồi của cả kíp. Hai mức hành động cần hỗ trợ nhau.\n\n### 1.3. Tác động tới nhiệm vụ\nCăng thẳng quá mức có thể làm giảm tập trung, trí nhớ làm việc, giao tiếp và kiểm soát cảm xúc. Trong nhiệm vụ cảnh sát, những thay đổi này có thể ảnh hưởng cách hiểu lệnh, đánh giá đe dọa hoặc tiếp xúc cộng đồng. Quản lý căng thẳng vì vậy liên quan trực tiếp đến an toàn và chuẩn mực hành vi.\n\n### 1.4. Nhận biết sớm, không tự chẩn đoán\nBài học giúp nhận biết thay đổi và tổ chức hỗ trợ. Danh sách dấu hiệu không phải công cụ kết luận bệnh. Một triệu chứng như đau đầu hoặc mất ngủ có thể có nhiều nguyên nhân cần nhân viên y tế đánh giá. Nhận biết sớm có nghĩa tìm hiểu và hỗ trợ phù hợp, không dán nhãn trước tập thể hoặc buộc người gặp khó khăn phải tự chứng minh mình ổn.",
+        "en": "### 1.1. Responding to demands\nStress is a physical and psychological response to change, demand or threat. Manageable activation can support focus and action. Excessive intensity, frequency or duration without recovery can impair health, judgment and performance.\n\nPeople respond differently to the same event. Experience, health, sleep, family circumstances, perceived control and available support influence reactions. Different responses do not establish weakness, and silence does not establish an absence of distress.\n\n### 1.2. FPU stressors\nMission life may combine harsh climate, violence risks, family separation, communication difficulties, limited privacy and exposure to suffering. Organizational stressors include unclear orders, unpredictable schedules, conflict and feeling unheard. Relaxation advice alone cannot correct an unsustainable duty roster.\n\nDistinguish individual adjustments, command action and professional support. An officer may take an authorized short break; command must organize recovery across a team. These levels should reinforce each other.\n\n### 1.3. Operational effects\nExcessive stress can affect attention, working memory, communication and emotional regulation. In policing, these changes may affect order comprehension, threat assessment and community interaction. Stress management therefore contributes directly to safety and professional conduct.\n\n### 1.4. Recognition without diagnosis\nThis lesson supports recognition and appropriate assistance. Symptom lists are not diagnostic tools. Headache or insomnia can have several causes requiring medical assessment. Early recognition means supportive enquiry, rather than public labelling or requiring distressed colleagues to prove that they are fine."
+      },
+      "sourceIds": [
+        "CSC018",
+        "WHO"
+      ]
+    },
+    {
+      "id": "FPU-04-02",
+      "title": {
+        "vi": "2. Dạng căng thẳng và dấu hiệu cần chú ý",
+        "en": "2. Stress patterns and warning signs"
+      },
+      "body": {
+        "vi": "### 2.1. Căng thẳng thường ngày và tích lũy\nCăng thẳng thường ngày có thể xuất hiện khi thích nghi lịch trực, môi trường hoặc công việc mới. Nếu có hỗ trợ và phục hồi phù hợp, nhiều phản ứng sẽ giảm. Căng thẳng tích lũy phát triển khi các yêu cầu nối tiếp nhau mà nguồn lực phục hồi không đủ. Người gặp khó khăn có thể không chỉ ra một sự kiện duy nhất, vì vấn đề đến từ nhiều yếu tố nhỏ kéo dài.\n\nKiệt sức nghề nghiệp có thể liên quan tình trạng căng thẳng công việc kéo dài chưa được quản lý hiệu quả, với cảm giác cạn năng lượng, xa cách hoặc tiêu cực với công việc và giảm hiệu quả nghề nghiệp. Không dùng thuật ngữ này cho mọi trường hợp mệt sau một ca trực; cũng không xem nó như bằng chứng người đó thiếu trách nhiệm.\n\n### 2.2. Phản ứng sau sự kiện gây sang chấn\nSự kiện đe dọa sinh mạng, thương vong nghiêm trọng hoặc chứng kiến hại lớn có thể gây phản ứng mạnh ngay hoặc về sau. Một người có thể run, khó tập trung, bất động, khó ngủ, nhớ lại sự việc hoặc tránh điều nhắc nhớ. Những phản ứng ban đầu không tự xác định PTSD và không chứng minh mọi người sẽ phát triển một rối loạn.\n\nPTSD là vấn đề cần đánh giá và chăm sóc chuyên môn. Không nên tự chẩn đoán dựa trên một phản ứng, một cuộc trò chuyện hoặc một hình trong bài. Mức độ, thời gian kéo dài, ảnh hưởng chức năng và hoàn cảnh cá nhân đều cần được người có chuyên môn xem xét.\n\n### 2.3. Quan sát nhiều nhóm dấu hiệu\nCó thể nhận biết thay đổi ở ba nhóm:\n- **Cơ thể:** Mệt kéo dài, đau đầu, căng cơ, rối loạn giấc ngủ hoặc thay đổi ăn uống.\n- **Suy nghĩ và cảm xúc:** Khó tập trung, lo lắng, dễ kích động, giảm tự tin hoặc cảm giác quá tải.\n- **Hành vi và quan hệ:** Thu mình, xung đột tăng, lỗi công việc lặp lại, dùng rượu hoặc chất khác để đối phó.\n\nMột dấu hiệu riêng lẻ chưa đủ kết luận nguyên nhân. Hãy chú ý thay đổi so với mức thông thường, sự kết hợp nhiều dấu hiệu và ảnh hưởng an toàn, sinh hoạt hoặc nhiệm vụ.\n\n### 2.4. Ngưỡng cần hỗ trợ\nKhông cần đợi biểu hiện “đủ nặng” mới tìm hỗ trợ. Khi dấu hiệu kéo dài, tăng lên, ảnh hưởng hoạt động hoặc khiến cá nhân lo lắng, nên kết nối y tế hoặc chuyên gia phù hợp. Bất kỳ nguy cơ tức thời đối với bản thân hay người khác đều cần hỗ trợ khẩn cấp theo cơ chế phái bộ, không chờ lịch tư vấn thông thường.",
+        "en": "### 2.1. Everyday and cumulative stress\nEveryday stress may accompany new duties, schedules or surroundings and often reduces with support and recovery. Cumulative stress develops when demands repeatedly exceed opportunities to recover. There may be no single identifiable incident.\n\nOccupational burnout can involve exhaustion, distance or negativity towards work and reduced professional effectiveness in the context of inadequately managed chronic workplace stress. Do not apply the label to every tiring shift or treat it as evidence of irresponsibility.\n\n### 2.2. Responses to potentially traumatic events\nThreats to life, serious casualties or witnessing severe harm may produce immediate or delayed reactions: Shaking, poor concentration, freezing, disturbed sleep, intrusive recollections or avoidance. Early reactions do not establish PTSD or predict that everyone will develop a disorder.\n\nPTSD requires professional assessment and care. A single reaction, conversation or teaching image cannot establish a diagnosis. Severity, duration, functional effects and individual circumstances require competent evaluation.\n\n### 2.3. Observe several domains\nNotice changes in:\n- **Physical functioning:** Persistent fatigue, headaches, muscle tension, sleep or appetite changes.\n- **Thinking and emotion:** Poor concentration, anxiety, irritability, reduced confidence or overwhelm.\n- **Behaviour and relationships:** Withdrawal, conflict, repeated errors or substance use to cope.\n\nAn isolated sign does not determine its cause. Consider change from the person's usual functioning, combined signs and effects on safety, life or work.\n\n### 2.4. Accessing support\nMembers need not wait for severe symptoms. Seek appropriate medical or professional support when difficulties persist, worsen, impair functioning or cause concern. Immediate danger to self or others requires urgent mission emergency support rather than a routine counselling appointment."
+      },
+      "sourceIds": [
+        "CSC018",
+        "WHOBURN"
+      ]
+    },
+    {
+      "id": "FPU-04-03",
+      "title": {
+        "vi": "3. Phòng ngừa và phục hồi hằng ngày",
+        "en": "3. Everyday prevention and recovery"
+      },
+      "body": {
+        "vi": "### 3.1. Bảo vệ nền tảng sức khỏe\nGiấc ngủ, dinh dưỡng, nước uống, vận động phù hợp và khoảng nghỉ là nguồn lực phục hồi cơ bản. Cần tổ chức phù hợp lịch nhiệm vụ, khí hậu và tình trạng sức khỏe. Không dùng một khẩu hiệu “tự chăm sóc” để yêu cầu cá nhân giải quyết tình trạng thiếu nghỉ do lịch phân công của đơn vị.\n\nTrước một đợt nhiệm vụ, nên xác định thời gian làm việc, cơ hội nghỉ, người thay, khả năng ăn uống và liên lạc với gia đình. Sau nhiệm vụ kéo dài, cần kiểm tra mệt mỏi thực tế trước khi giao việc cần tập trung cao. Một người có mặt không đồng nghĩa họ đã phục hồi đầy đủ để lái xe hoặc đảm nhiệm một vị trí có nguy cơ cao.\n\n### 3.2. Cách đối phó hữu ích\nCá nhân có thể nhận biết điều đang gây áp lực, chia nhỏ việc trong phạm vi kiểm soát, nhờ làm rõ ưu tiên và kết nối người tin cậy. Hoạt động thư giãn nhẹ hoặc chú ý hơi thở tự nhiên có thể hỗ trợ bình tĩnh nếu bản thân thấy phù hợp. Không ép người đang khó chịu phải thực hiện một kỹ thuật khiến họ khó chịu hơn.\n\nHãy duy trì hoạt động có ý nghĩa ngoài nhiệm vụ trong điều kiện cho phép: Vận động vừa sức, sinh hoạt văn hóa, giao tiếp gia đình hoặc sở thích. Mục tiêu là phục hồi và kết nối, không phải buộc mọi người tham gia cùng một hoạt động hay biến lịch giải trí thành nguồn áp lực mới.\n\n### 3.3. Tránh cách đối phó gây thêm hại\nRượu, chất kích thích, tự dùng thuốc an thần hoặc cố làm việc liên tục để né cảm xúc có thể tạo cảm giác nhẹ tức thời nhưng làm tăng vấn đề về sau. Khi có nhu cầu dùng thuốc hoặc triệu chứng ảnh hưởng sức khỏe, cần trao đổi với nhân viên y tế. Không chia thuốc cho đồng đội và không dùng chất để chuẩn bị cho một nhiệm vụ đòi hỏi sự tỉnh táo.\n\n### 3.4. Theo dõi thay đổi nhỏ\nCó thể tự hỏi định kỳ: Tôi ngủ và hồi phục thế nào; khả năng tập trung có thay đổi không; quan hệ với đồng đội ra sao; có tăng dùng rượu hoặc né tránh không; tôi cần giúp ở đâu. Câu trả lời phục vụ điều chỉnh và tìm hỗ trợ, không phải bảng tự chấm đạt hay không đạt. Nếu điều chỉnh thông thường không giúp, hãy tìm hỗ trợ sớm thay vì tăng tự trách mình.",
+        "en": "### 3.1. Protect basic recovery resources\nSleep, nutrition, hydration, suitable movement and breaks support recovery. Arrange them around duty, climate and health. “Self-care” cannot make individuals responsible for rest deprivation created by unit scheduling.\n\nBefore intensive duties, establish working periods, relief, food, water and family contact opportunities. After prolonged work, assess fatigue before assigning demanding tasks. Presence on a roster does not prove fitness for driving or other safety-critical roles.\n\n### 3.2. Helpful coping\nIdentify stressors, divide manageable tasks, clarify priorities and contact trusted people. Gentle relaxation or attending to natural breathing may help when comfortable. Do not force a technique that increases distress.\n\nMaintain meaningful activities where feasible: Appropriate exercise, cultural activities, family contact or personal interests. Recreation should restore connection rather than become compulsory pressure to participate in the same activity.\n\n### 3.3. Avoid harmful coping\nAlcohol, stimulants, unsupervised sedatives or continuous work to avoid feelings can offer short-term relief while worsening later difficulties. Discuss medication and health symptoms with medical personnel. Do not share medicines or use substances to prepare for duties requiring alertness.\n\n### 3.4. Monitor small changes\nPeriodically consider sleep, recovery, concentration, relationships, avoidance and substance use, and identify assistance needed. Reflection supports adjustment and access to care rather than a pass-or-fail self-test. If ordinary changes do not help, seek support instead of increasing self-blame."
+      },
+      "sourceIds": [
+        "CSC018",
+        "WHO"
+      ]
+    },
+    {
+      "id": "FPU-04-04",
+      "title": {
+        "vi": "4. Hỗ trợ đồng đội theo nguyên tắc sơ cứu tâm lý",
+        "en": "4. Supporting colleagues through psychological first aid"
+      },
+      "body": {
+        "vi": "### 4.1. Sự giúp đỡ thực tế và tôn trọng\nSơ cứu tâm lý là hỗ trợ nhân ái, thiết thực cho người đang đau khổ sau khủng hoảng, tôn trọng phẩm giá, văn hóa và năng lực của họ. Đây không phải liệu pháp do đồng đội tự thực hiện, không yêu cầu người được giúp kể lại chi tiết và không hứa rằng một cuộc nói chuyện sẽ ngăn được mọi hậu quả tâm lý.\n\nTrước khi hỗ trợ, xem nơi đó có an toàn không, bản thân có đủ bình tĩnh không và có đầu mối nào cần gọi. Không tiếp cận theo cách làm tăng cảm giác bị kiểm soát; tự giới thiệu, nói ngắn gọn và hỏi người đó cần gì. Tôn trọng việc họ chưa muốn nói, đồng thời vẫn chú ý nhu cầu an toàn.\n\n### 4.2. Quan sát — Lắng nghe — Kết nối\n**Quan sát:** Nhận biết nguy hiểm, thương tích, nhu cầu cơ bản và người cần giúp ngay. Đừng giải thích một triệu chứng có thể nguy hiểm như đau ngực, khó thở hoặc lú lẫn chỉ bằng “căng thẳng”. Cần gọi y tế khi có dấu hiệu cấp cứu.\n\n**Lắng nghe:** Hỏi nhu cầu, nghe điều họ muốn chia sẻ, không ngắt lời, phán xét hoặc ép diễn giải sự kiện. Dùng lời rõ ràng và bình tĩnh, chấp nhận khoảng im lặng. Tránh nói “không có gì đâu” hoặc so sánh với người chịu hoàn cảnh nặng hơn.\n\n**Kết nối:** Giúp tiếp cận nơi an toàn, nước uống hoặc nhu cầu phù hợp, người thân và dịch vụ hỗ trợ. Cung cấp thông tin đã kiểm chứng, nói rõ điều chưa biết. Thống nhất bước tiếp theo và xem họ có thực sự tiếp cận được người giúp hay không.\n\n### 4.3. Bảo mật có giới hạn an toàn\nGiữ riêng tư và chỉ chia sẻ thông tin cần thiết với người có trách nhiệm. Không đem câu chuyện của đồng đội làm ví dụ trước tập thể hoặc đưa lên nhóm trao đổi. Cũng không hứa giữ bí mật tuyệt đối khi có nguy cơ nghiêm trọng đối với sinh mạng; giải thích cần kết nối người có thể bảo vệ an toàn.\n\n### 4.4. Giới hạn của người hỗ trợ\nKhông chẩn đoán, kê thuốc, điều tra sự kiện hoặc ép người được giúp thực hiện một phương pháp. Khi nhu cầu vượt khả năng, hãy kết nối chuyên môn và duy trì hỗ trợ thực tế phù hợp. Người hỗ trợ cũng cần nghỉ, chia sẻ khó khăn qua kênh thích hợp và nhận giúp đỡ khi bản thân bị ảnh hưởng.",
+        "en": "### 4.1. Practical, respectful assistance\nPsychological first aid offers humane, practical support after crisis while respecting dignity, culture and abilities. It is not peer-delivered therapy, compulsory recounting or a promise to prevent all psychological consequences.\n\nCheck safety, your own capacity and available contacts. Introduce yourself calmly, explain your role and ask about needs. Respect reluctance to talk while remaining attentive to safety.\n\n### 4.2. Look — Listen — Link\n**Look:** Identify danger, injury, basic needs and urgent assistance. Do not assume chest pain, breathing difficulty or confusion is merely stress. Obtain medical help for emergency signs.\n\n**Listen:** Ask about needs and hear what the person chooses to share. Avoid interruption, judgment and pressure for details. Communicate calmly, allow silence and avoid dismissive reassurance or comparisons with others.\n\n**Link:** Connect people with safety, practical necessities, trusted contacts and appropriate services. Give verified information, acknowledge uncertainty and agree a next step. Check whether assistance was actually reached.\n\n### 4.3. Privacy with safety limits\nProtect privacy and share only necessary information with responsible helpers. Do not circulate a colleague's story in group discussions. Do not promise absolute secrecy when serious danger to life requires protective assistance; explain the need to involve appropriate support.\n\n### 4.4. Limits of the helper's role\nDo not diagnose, prescribe, investigate or compel a technique. Refer needs beyond your competence while continuing suitable practical support. Helpers also need rest, appropriate consultation and support for their own reactions."
+      },
+      "sourceIds": [
+        "WHO",
+        "CSC018"
+      ]
+    },
+    {
+      "id": "FPU-04-05",
+      "title": {
+        "vi": "5. Trách nhiệm chỉ huy và hỗ trợ sau sự kiện",
+        "en": "5. Command responsibility and post-incident support"
+      },
+      "body": {
+        "vi": "### 5.1. Giảm nguồn áp lực có thể phòng ngừa\nChỉ huy có thể giảm căng thẳng bằng lệnh rõ, phân công công bằng, lịch có thể dự đoán trong khả năng, điều kiện ăn nghỉ và kênh phản ánh. Cần chủ động tìm hiểu dấu hiệu quá tải của cả nhóm thay vì chỉ chú ý người biểu hiện mạnh. Khi nhiệm vụ tăng, phải xem lại nguồn lực và phục hồi; không coi chịu đựng không giới hạn là thước đo tinh thần.\n\nVăn hóa hỗ trợ bắt đầu từ cách phản ứng khi có người báo khó khăn. Nghe nghiêm túc, xử lý riêng tư và tránh chế giễu giúp cán bộ tìm hỗ trợ sớm. Một cơ chế tư vấn được thông báo nhưng khiến người sử dụng bị gán nhãn sẽ khó có hiệu quả.\n\n### 5.2. Sau sự kiện nghiêm trọng\nƯu tiên bảo đảm an toàn, đánh giá y tế khi cần, nhu cầu thiết yếu, thông tin xác thực và liên hệ người hỗ trợ. Phản ứng có thể xuất hiện muộn; cần có cơ hội tiếp cận chăm sóc về sau, không chỉ một cuộc hỏi thăm ngay sau sự kiện. Cán bộ chưa muốn nói vẫn cần được biết nơi tìm giúp khi sẵn sàng.\n\nQuyết định giao lại nhiệm vụ cần xét sức khỏe và khả năng thực hiện an toàn qua cơ chế có chuyên môn. Không dùng sự im lặng, cấp bậc hoặc mong muốn quay lại việc ngay để thay đánh giá cần thiết. Đồng thời tránh tự loại người khỏi mọi công việc khi chưa có căn cứ và chưa trao đổi phù hợp.\n\n### 5.3. Rút kinh nghiệm và chăm sóc tâm lý\nRút kinh nghiệm tác nghiệp tập trung sự kiện, quyết định, phối hợp và bài học để cải thiện. Chăm sóc tâm lý tập trung nhu cầu của con người, cần riêng tư và chuyên môn tương ứng. Có thể cần cả hai, nhưng không nên gộp thành buổi bắt mọi người kể cảm xúc hoặc chi tiết đau buồn trước tập thể.\n\nKhông tổ chức psychological debriefing như một can thiệp bắt buộc nhằm ngăn PTSD. Hỗ trợ ban đầu nên theo nhu cầu, tự nguyện trong phần chia sẻ và có chuyển tuyến phù hợp. Các nghĩa vụ báo cáo sự kiện vẫn phải thực hiện đúng cơ chế, tách khỏi việc ép bộc lộ cảm xúc.\n\n### 5.4. Theo dõi có trách nhiệm\nChỉ huy cần biết đã kết nối hỗ trợ chưa, có cần điều chỉnh nhiệm vụ không và khi nào rà lại. Thông tin sức khỏe chi tiết chỉ chia sẻ theo phạm vi cần thiết và quy định. Mục tiêu là bảo vệ người, giữ khả năng làm việc an toàn và tạo điều kiện phục hồi, không thu thập câu chuyện riêng tư để quản lý thành tích.",
+        "en": "### 5.1. Reduce preventable organizational stress\nClear orders, fair assignments, reasonably predictable schedules, suitable living conditions and accessible reporting channels reduce avoidable stress. Monitor teams as well as visibly distressed individuals. Increased demand requires review of resources and recovery; unlimited endurance is not a performance standard.\n\nRespond seriously and privately when someone seeks help. Ridicule and stigma undermine access even when services exist. Command behaviour establishes whether support is credible.\n\n### 5.2. After serious incidents\nPrioritize safety, necessary medical assessment, essentials, reliable information and support contacts. Reactions may emerge later, so maintain opportunities for follow-up. People who do not wish to talk immediately should still know where assistance is available.\n\nReturn-to-duty decisions must consider safe functioning through appropriate professional arrangements. Silence, rank or eagerness to resume work cannot replace needed assessment. Equally, avoid unsupported exclusion from all duties.\n\n### 5.3. Operational learning and psychological care\nOperational review examines events, decisions, coordination and learning. Psychological support addresses personal needs with suitable privacy and competence. Both may be needed without compelling public emotional disclosure.\n\nDo not use compulsory psychological debriefing as a preventive intervention for PTSD. Initial support should be needs-based, allow voluntary sharing and facilitate referral. Event-reporting duties remain applicable and distinct from forced emotional recounting.\n\n### 5.4. Accountable follow-up\nEstablish whether support was accessed, duties require adjustment and review is needed. Share health details only as necessary and permitted. The purpose is protection, safe functioning and recovery rather than collecting private narratives for performance management."
+      },
+      "sourceIds": [
+        "CSC018",
+        "WHODEB"
+      ]
+    },
+    {
+      "id": "FPU-04-06",
+      "title": {
+        "vi": "6. Khi cần chuyển tuyến và chuẩn bị của đơn vị",
+        "en": "6. Referral and unit preparedness"
+      },
+      "body": {
+        "vi": "### 6.1. Hỗ trợ thường quy và hỗ trợ khẩn\nVấn đề kéo dài, nặng lên hoặc ảnh hưởng công việc, quan hệ, ăn ngủ cần được trao đổi với nhân viên y tế hoặc chuyên gia tâm lý phù hợp. Việc tìm giúp sớm không yêu cầu phải có chẩn đoán trước. Đồng đội có thể hỗ trợ đặt liên hệ, đi cùng nếu người đó muốn và giảm những rào cản thực tế.\n\nKhi có nguy cơ tức thời gây hại bản thân hay người khác, mất kiểm soát nghiêm trọng hoặc không thể giữ an toàn, cần gọi hỗ trợ khẩn cấp tại phái bộ. Ở cùng người đó nếu an toàn, huy động người có trách nhiệm và giảm tiếp cận phương tiện nguy hiểm theo quy trình an ninh, không tự đối đầu hoặc xử trí vượt năng lực. Không để lời hứa giữ bí mật cản trở bảo vệ sinh mạng.\n\n### 6.2. Chuyển tuyến phải có điểm đến\nMột lời dặn “hãy đi tư vấn” có thể chưa đủ. Cần biết nơi tiếp nhận, cách liên hệ, giờ hoạt động, hỗ trợ ngôn ngữ và phương án ngoài giờ. Khi có nguy cơ, phải xác nhận người có trách nhiệm đã nhận thông tin và tổ chức hỗ trợ; không chỉ gửi một tin nhắn rồi coi đã bàn giao.\n\nBác sĩ, chuyên gia tư vấn, cơ chế hỗ trợ nhân viên và tuyến chỉ huy có vai trò khác nhau. Chia sẻ thông tin phù hợp mục đích, tôn trọng quyền riêng tư và tuân thủ nghĩa vụ bảo vệ an toàn. Cán bộ nên được giải thích những giới hạn ấy trước khi trao đổi sâu khi hoàn cảnh cho phép.\n\n### 6.3. Chuẩn bị trước khi có sự cố\nĐơn vị cần có danh bạ hỗ trợ đã xác minh tại địa bàn, phương án ngoài giờ, người phụ trách và cách tiếp cận kín đáo. Cập nhật khi đầu mối hoặc khu vực triển khai thay đổi. Không dùng số liên hệ trong tài liệu mẫu của một phái bộ khác để giả định có thể trợ giúp tại nơi đang phục vụ.\n\n### 6.4. Tự kiểm tra mức hiểu bài\nNgười học cần phân biệt được phản ứng căng thẳng với chẩn đoán, hỗ trợ thực tế với trị liệu, riêng tư với bí mật tuyệt đối và nghỉ phục hồi với né trách nhiệm. Năng lực cần đạt là nhận biết thay đổi, phản ứng tôn trọng và đưa người cần giúp tới đúng hỗ trợ. Không ai phải tự giải quyết mọi khó khăn; đơn vị cũng không thể giao toàn bộ trách nhiệm phục hồi cho cá nhân.",
+        "en": "### 6.1. Routine and urgent support\nPersistent, worsening or impairing difficulties warrant appropriate medical or psychological help. A diagnosis is not required before seeking assistance. Colleagues can help arrange contact, accompany the person if wanted and reduce practical barriers.\n\nImmediate danger to self or others, severe loss of control or inability to remain safe requires mission emergency assistance. Stay with the person when safe, involve responsible support and manage access to dangerous means through security procedures. Avoid confrontation or action beyond competence. Promises of secrecy must not obstruct protection of life.\n\n### 6.2. Referral needs a destination\n“Seek counselling” may be insufficient. Establish the receiving service, contact method, opening hours, language support and out-of-hours arrangements. In urgent cases, confirm that responsible helpers have received the concern and arranged care rather than assuming a message completed handover.\n\nMedical staff, counsellors, staff-support mechanisms and command have different roles. Share information according to purpose, privacy and safety obligations, explaining limits where circumstances allow.\n\n### 6.3. Prepare before an incident\nMaintain verified local support contacts, out-of-hours arrangements, responsible personnel and discreet access. Update them when locations or providers change. Contacts in another mission's training example cannot be assumed to provide local assistance.\n\n### 6.4. Check understanding\nDistinguish stress reactions from diagnosis, practical assistance from therapy, privacy from absolute secrecy and recovery from avoiding responsibility. The intended competence is recognizing change, responding respectfully and connecting people with appropriate help. Individuals need not solve every difficulty alone, and units cannot transfer all responsibility for recovery to them."
+      },
+      "sourceIds": [
+        "CSC018",
+        "WHO"
+      ]
+    }
+  ],
+  "source_ids": [
+    "CSC018",
+    "WHO",
+    "WHOBURN",
+    "WHODEB"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "Stressor",
+      "definition": {
+        "vi": "Yếu tố tạo yêu cầu hoặc áp lực.",
+        "en": "A demand or pressure producing stress."
+      }
+    },
+    {
+      "term": "Cumulative stress",
+      "definition": {
+        "vi": "Căng thẳng tích lũy khi yêu cầu nối tiếp, thiếu phục hồi.",
+        "en": "Stress accumulating through continuing demands and insufficient recovery."
+      }
+    },
+    {
+      "term": "PTSD",
+      "definition": {
+        "vi": "Rối loạn stress sau sang chấn, cần đánh giá chuyên môn.",
+        "en": "Post-traumatic stress disorder requiring professional assessment."
+      }
+    },
+    {
+      "term": "PFA",
+      "definition": {
+        "vi": "Sơ cứu tâm lý: Hỗ trợ nhân ái, thực tế, tôn trọng.",
+        "en": "Psychological first aid: Humane, practical, respectful assistance."
+      }
+    },
+    {
+      "term": "Look — Listen — Link",
+      "definition": {
+        "vi": "Quan sát — Lắng nghe — Kết nối.",
+        "en": "Look — Listen — Link."
+      }
+    },
+    {
+      "term": "Referral",
+      "definition": {
+        "vi": "Kết nối tới dịch vụ hỗ trợ phù hợp, có điểm tiếp nhận.",
+        "en": "Connection to appropriate services with an identified receiving point."
+      }
+    }
+  ],
+  "diagram": null,
+  "contentVersion": "batch-03-expanded-v1-2026-10-28",
+  "sourceIntro": {
+    "vi": "Nguồn nền theo từng mục và tài liệu đối chiếu. Lời giảng, bản Anh và câu hỏi biên soạn riêng cho Handbook; hình gốc có ghi tài liệu, trang PDF và giải thích.",
+    "en": "Primary materials mapped to sections and supplementary checks. Teaching, English text and questions are authored for the Handbook; original figures identify source, PDF page and commentary."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Bản biên soạn đợt 3, ngày 28/10/2026, để người dùng duyệt. Không phải ấn phẩm hoặc bản dịch chính thức UN. Mã bài là cách tổ chức của Handbook, khác số bài của UN.",
+      "Giữ giao diện 4 tab của các bài mẫu. Hình giữ tiếng Anh gốc và có giải thích Việt–Anh. Nguồn theo mục nêu nền kiến thức, không coi mọi câu là trích nguyên văn.",
+      "Bài học chung không thay mandate, DUF, SUR, MOU hoặc SOP áp dụng tại phái bộ; không tự trao quyền hoặc chứng nhận năng lực thực hành.",
+      "Đối chiếu CSC Lesson 18 (2026), WHO PFA, mô tả burnout và khuyến nghị không dùng psychological debriefing để phòng PTSD. Một số phần giảng UN rút gọn mô tả PTSD; bài giữ ranh giới chẩn đoán chuyên môn, không khẳng định mọi phản ứng sẽ trở thành rối loạn. WHO được đọc qua nguồn web chính thức; toàn bộ PDF PFA không tải được trong phiên."
+    ],
+    "en": [
+      "Batch 3 authored on 28 October 2026 for user review. Not an official UN publication or translation. Handbook numbering differs from UN lesson numbering.",
+      "The four-tab sample interface is retained. Figures preserve original English with bilingual commentary. Section mapping identifies the knowledge base rather than verbatim sourcing for every sentence.",
+      "General study does not replace applicable mandates, DUF, SUR, MOU or mission SOPs and confers neither authority nor practical certification.",
+      "Compared CSC Lesson 18 (2026), WHO PFA, burnout definitions and the recommendation against psychological debriefing to prevent PTSD. Simplified PTSD descriptions are not used to infer inevitable disorder. Professional diagnostic boundaries are retained. WHO checks used official web content; the full PFA PDF could not be downloaded during this session."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bài học giúp nhận biết căng thẳng, phòng ngừa quá tải, hỗ trợ đồng đội và kết nối chăm sóc. Trách nhiệm cá nhân được đặt cùng tổ chức nhiệm vụ, văn hóa chỉ huy và hỗ trợ chuyên môn.",
+      "en": "Recognize stress, prevent overload, support colleagues and connect care. Individual action works alongside duty organization, command culture and professional support."
+    },
+    "subtitle": {
+      "vi": "Nhận biết sớm · Hỗ trợ tôn trọng · Kết nối đúng nơi",
+      "en": "Recognize early · Support respectfully · Connect appropriate care"
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích nguồn áp lực, tác động và khác biệt phản ứng cá nhân.",
+        "Phân biệt dạng căng thẳng, dấu hiệu và giới hạn tự chẩn đoán.",
+        "Kết nối phục hồi cá nhân với điều kiện và phân công của đơn vị.",
+        "Giải thích Quan sát — Lắng nghe — Kết nối và ranh giới hỗ trợ.",
+        "Phân biệt học tác nghiệp, chăm sóc tâm lý và chuyển tuyến khẩn."
+      ],
+      "en": [
+        "Explain stressors, effects and individual differences.",
+        "Distinguish stress patterns, signs and diagnostic limits.",
+        "Connect individual recovery with unit conditions and scheduling.",
+        "Explain Look — Listen — Link and helper boundaries.",
+        "Distinguish operational learning, psychological care and urgent referral."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc 6 mục trong tab Nội dung bài học; bấm hình để xem lớn và đọc lời giảng kèm. Làm 12 câu kiểm tra, đọc giải thích và trở lại mục liên quan. VI/EN giữ lựa chọn trong phiên; tải lại trang bắt đầu lại.",
+      "en": "Read all sections and the figure commentary; click figures to enlarge. Complete 12 questions, review explanations and revisit relevant sections. VI/EN retains selections during the session; reloading starts again."
+    }
+  },
+  "figures": [
+    {
+      "chapter": 1,
+      "image": "assets/lesson-figures/batch-03/CSC018-p11.png",
+      "alt": {
+        "vi": "Hình 1. Dấu hiệu căng thẳng ở cơ thể, tâm lý và hành vi",
+        "en": "Figure 1. Physical, psychological and behavioural stress signs"
+      },
+      "caption": {
+        "vi": "Hình 1. Dấu hiệu căng thẳng ở cơ thể, tâm lý và hành vi",
+        "en": "Figure 1. Physical, psychological and behavioural stress signs"
+      },
+      "explanation": {
+        "vi": "Hình nhóm các dấu hiệu để hỗ trợ quan sát và trò chuyện, không dùng để chẩn đoán. Một biểu hiện có thể có nhiều nguyên nhân. Hãy xem thay đổi so với thường ngày, ảnh hưởng chức năng và nhu cầu hỗ trợ, tránh dán nhãn đồng đội.",
+        "en": "Use the domains to support observation and conversation rather than diagnosis. A sign may have several causes. Consider changes from usual functioning, functional effects and support needs without labelling colleagues."
+      },
+      "sourceLabel": "UN FPU Command Staff Course 2026 · Lesson 18",
+      "pdfPage": 11
+    }
+  ],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft",
+  "figureZoom": true
+}

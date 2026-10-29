@@ -1,0 +1,646 @@
+{
+  "schemaVersion": 1,
+  "id": "CORE-01",
+  "area": "core",
+  "groupKey": "CORE-M1",
+  "group": {
+    "vi": "UN và hoạt động gìn giữ hòa bình",
+    "en": "UN and peacekeeping"
+  },
+  "title": {
+    "vi": "UN, hòa bình–an ninh và các nguyên tắc gìn giữ hòa bình",
+    "en": "The UN, peace and security, and peacekeeping principles"
+  },
+  "summary": {
+    "vi": "Hiểu tổ chức, nắm thẩm quyền, giữ vững nguyên tắc.",
+    "en": "Understand the organization, know your authority, uphold the principles."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 15,
+  "sourceKey": "C1",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-404%20Lesson%201.1%20UN%20Peacekeeping%20-%20Strategic%20Level.zip",
+  "order": 101,
+  "sections": [
+    {
+      "id": "core01-01",
+      "title": {
+        "vi": "1. UN và nền tảng của gìn giữ hòa bình",
+        "en": "1. The UN and the foundations of peacekeeping"
+      },
+      "body": {
+        "vi": "<p>Khi thực hiện nhiệm vụ gìn giữ hòa bình, anh/chị đại diện cho Liên hợp quốc (UN). Tác phong, lời nói và quyết định của mỗi người đều ảnh hưởng đến lòng tin của cộng đồng đối với phái bộ. Vì vậy, trước khi học kỹ thuật nghiệp vụ, chúng ta cần hiểu UN được lập ra để làm gì và nhiệm vụ của mình nằm ở đâu trong nỗ lực chung ấy.</p>\n<h3>1.1. Vì sao cần gìn giữ hòa bình?</h3><p>Xung đột bạo lực gây thiệt hại vượt xa chiến trường: Người dân bị thương vong, gia đình phải di dời, trường học và cơ sở y tế ngừng hoạt động, sinh kế đổ vỡ, lòng tin giữa các cộng đồng suy giảm. Phụ nữ, trẻ em và những người dễ bị tổn thương có thể chịu tác động đặc biệt nghiêm trọng. Việc ngừng tiếng súng mới chỉ tạo ra cơ hội; hòa bình cần được giữ vững bằng một tiến trình chính trị và những thay đổi lâu dài.</p><p>Gìn giữ hòa bình hỗ trợ duy trì hòa bình đã đạt được và giúp thực hiện các thỏa thuận hòa bình. Một phái bộ có thể tạo môi trường an toàn hơn để các bên đối thoại, người dân tiếp cận hỗ trợ và các cơ quan quốc gia khôi phục hoạt động, trong phạm vi nhiệm vụ được giao.</p>\n<h3>1.2. Hiến chương UN và bốn mục đích</h3><p>Hiến chương UN là văn kiện thành lập tổ chức, đồng thời là điều ước quốc tế quy định các mục đích, nguyên tắc, quyền và nghĩa vụ của các quốc gia thành viên. Bốn mục đích chính là:</p><ol><li>Duy trì hòa bình và an ninh quốc tế.</li><li>Phát triển quan hệ hữu nghị giữa các dân tộc.</li><li>Hợp tác giải quyết các vấn đề quốc tế và thúc đẩy tôn trọng quyền con người, các quyền tự do cơ bản.</li><li>Làm trung tâm điều hòa hành động của các quốc gia để đạt các mục tiêu chung.</li></ol>\n<h3>1.3. Tính phổ quát và sự không thiên vị</h3><p>Tính phổ quát thể hiện phạm vi đại diện rộng khắp của UN. Sự không thiên vị đòi hỏi tổ chức thực hiện trách nhiệm theo Hiến chương và các tiêu chuẩn chung. Hai yếu tố này góp phần tạo nên tính chính danh và uy tín của UN. Ở cấp cá nhân, chúng được thể hiện qua việc tôn trọng mọi cộng đồng, không phân biệt đối xử và thực hiện nhiệm vụ đúng thẩm quyền.</p><aside>Ghi nhớ: Gìn giữ hòa bình phục vụ một giải pháp chính trị bền vững. Hoạt động quân sự, cảnh sát và dân sự phải cùng hướng tới mục tiêu ấy.</aside>",
+        "en": "<p>As a peacekeeper, you represent the United Nations (UN). Your conduct, words and decisions influence the community’s trust in the mission. Before learning operational skills, you need to understand why the UN exists and how your responsibilities contribute to its wider work.</p>\n<h3>1.1. Why is peacekeeping needed?</h3><p>Violent conflict causes harm far beyond the battlefield. People are killed or injured, families are displaced, schools and health facilities close, livelihoods collapse and trust between communities deteriorates. Women, children and people in vulnerable situations may face particularly severe consequences. The end of fighting creates an opportunity; sustaining peace requires a political process and lasting change.</p><p>Peacekeeping helps preserve peace and implement peace agreements. Within its mandate, a mission can help create safer conditions for dialogue, access to assistance and the restoration of national institutions.</p>\n<h3>1.2. The UN Charter and its four purposes</h3><p>The UN Charter is the organization’s founding document and an international treaty establishing its purposes, principles and Member States’ rights and obligations. Its four main purposes are:</p><ol><li>To maintain international peace and security.</li><li>To develop friendly relations among nations.</li><li>To cooperate in solving international problems and promote respect for human rights and fundamental freedoms.</li><li>To harmonize the actions of nations towards these common goals.</li></ol>\n<h3>1.3. Universality and impartiality</h3><p>Universality reflects the UN’s broad international representation. Impartiality requires the organization to fulfil its responsibilities under the Charter and common standards. Both contribute to its legitimacy and credibility. For individual personnel, this means respecting all communities, avoiding discrimination and acting within their authority.</p><aside>Remember: Peacekeeping serves a sustainable political solution. Military, police and civilian activities must contribute to that shared purpose.</aside>"
+      }
+    },
+    {
+      "id": "core01-02",
+      "title": {
+        "vi": "2. Ai quyết định và ai tổ chức thực hiện?",
+        "en": "2. Who decides and who implements?"
+      },
+      "body": {
+        "vi": "<h3>2.1. Sáu cơ quan chính của UN</h3><p>Hiến chương thiết lập sáu cơ quan chính: Đại hội đồng; Hội đồng Bảo an; Hội đồng Kinh tế và Xã hội; Hội đồng Quản thác; Tòa án Công lý Quốc tế; Ban Thư ký. Trong gìn giữ hòa bình, cần nắm rõ vai trò của Đại hội đồng, Hội đồng Bảo an và Ban Thư ký.</p><div class=\"flow\"><div><b>Hội đồng Bảo an</b><span>Quyết định thành lập, gia hạn và giao nhiệm vụ phái bộ.</span></div><div><b>Đại hội đồng</b><span>Xem xét, phê chuẩn ngân sách và các vấn đề nguồn lực thuộc thẩm quyền.</span></div><div><b>Ban Thư ký</b><span>Lập kế hoạch, chỉ đạo và hỗ trợ tổ chức thực hiện.</span></div></div><p class=\"caption\">Sơ đồ vai trò: Ba cơ quan có chức năng khác nhau và phối hợp với nhau; đây không phải một chuỗi chỉ huy tuyến tính.</p>\n<h3>2.2. Ba đầu mối cần nhận biết trong Ban Thư ký</h3><ul><li><b>DPO — Department of Peace Operations:</b> Cung cấp chỉ đạo chính trị và điều hành đối với các hoạt động gìn giữ hòa bình.</li><li><b>DOS — Department of Operational Support:</b> Cung cấp hỗ trợ hoạt động, bao gồm các lĩnh vực bảo đảm cần thiết để phái bộ thực hiện nhiệm vụ.</li><li><b>DPPA — Department of Political and Peacebuilding Affairs:</b> Hỗ trợ phòng ngừa xung đột, trung gian hòa giải và xây dựng hòa bình; chỉ đạo các phái bộ chính trị đặc biệt.</li></ul><p>Tổng Thư ký đứng đầu Ban Thư ký và lãnh đạo công việc của các bộ phận thuộc Ban Thư ký. Ở thực địa, mọi hoạt động phải tuân theo cơ chế chỉ huy, quản lý và báo cáo đã được xác lập cho phái bộ và từng thành phần.</p>\n<h3>2.3. Phái bộ và các đối tác</h3><p>Phái bộ phối hợp với Nhóm UN tại quốc gia (UNCT), gồm các cơ quan, quỹ và chương trình UN hoạt động tại quốc gia đó. Các đối tác có chức năng riêng; phối hợp không có nghĩa là tất cả thuộc cùng một tuyến chỉ huy. Ủy ban Chữ thập đỏ Quốc tế (ICRC) là một đối tác nhân đạo độc lập, không phải cơ quan UN.</p>",
+        "en": "<h3>2.1. The six principal organs</h3><p>The Charter establishes six principal organs: The General Assembly, Security Council, Economic and Social Council, Trusteeship Council, International Court of Justice and Secretariat. For peacekeeping, understand the distinct roles of the General Assembly, Security Council and Secretariat.</p><div class=\"flow\"><div><b>Security Council</b><span>Establishes and renews missions and sets their mandates.</span></div><div><b>General Assembly</b><span>Considers and approves budgets and resource matters within its authority.</span></div><div><b>Secretariat</b><span>Plans, directs and supports implementation.</span></div></div><p class=\"caption\">Role diagram: The three organs have different, complementary functions. This is not a linear chain of command.</p>\n<h3>2.2. Three relevant Secretariat departments</h3><ul><li><b>DPO — Department of Peace Operations:</b> Provides political and executive direction to UN peacekeeping operations.</li><li><b>DOS — Department of Operational Support:</b> Provides operational support needed for missions to perform their tasks.</li><li><b>DPPA — Department of Political and Peacebuilding Affairs:</b> Supports conflict prevention, mediation and peacebuilding, and directs special political missions.</li></ul><p>The Secretary-General heads the Secretariat and leads the work of its departments. In the field, personnel follow the command, management and reporting arrangements established for their mission and component.</p>\n<h3>2.3. The mission and its partners</h3><p>A mission works with the UN Country Team (UNCT), comprising UN agencies, funds and programmes operating in the country. Partners have distinct responsibilities; coordination does not put everyone in the same chain of command. The International Committee of the Red Cross (ICRC) is an independent humanitarian partner, not a UN agency.</p>"
+      }
+    },
+    {
+      "id": "core01-03",
+      "title": {
+        "vi": "3. Mandate: Căn cứ và giới hạn nhiệm vụ",
+        "en": "3. Mandate: Authority and limits"
+      },
+      "body": {
+        "vi": "<p><b>Mandate</b> là sự giao nhiệm vụ và trao thẩm quyền để thực hiện các hành động cụ thể. Đối với phái bộ gìn giữ hòa bình, nhiệm vụ được xác lập trong nghị quyết của Hội đồng Bảo an. Đây là căn cứ để phái bộ tổ chức hoạt động, xác định ưu tiên và giới hạn trách nhiệm.</p><h3>3.1. Từ nghị quyết đến nhiệm vụ cá nhân</h3><ol><li><b>Cấp chiến lược:</b> Hội đồng Bảo an xác định nhiệm vụ của phái bộ.</li><li><b>Cấp phái bộ:</b> Lãnh đạo cụ thể hóa nhiệm vụ thành kế hoạch và chỉ đạo thực hiện.</li><li><b>Cấp đơn vị, bộ phận và cá nhân:</b> Thực hiện phần việc được phân công theo mệnh lệnh, quy trình và thẩm quyền tương ứng.</li></ol><p>Không phải mọi phái bộ đều có cùng nhiệm vụ. Bảo vệ thường dân, hỗ trợ tiến trình chính trị, hỗ trợ cơ quan quốc gia hoặc giám sát ngừng bắn phải được hiểu theo nội dung được giao cho từng phái bộ. Một cá nhân không được tự mở rộng thẩm quyền chỉ vì cho rằng hành động đó có ích.</p><h3>3.2. Bốn câu hỏi trước khi thực hiện nhiệm vụ</h3><ul><li>Nhiệm vụ này phục vụ mục tiêu nào trong mandate?</li><li>Đơn vị và cá nhân được giao phần việc gì?</li><li>Những quy định, giới hạn và yêu cầu phối hợp nào áp dụng?</li><li>Khi thiếu thông tin hoặc phát sinh vấn đề vượt thẩm quyền, phải báo cáo ai?</li></ul><aside>Ghi nhớ: Mandate giao nhiệm vụ cho phái bộ. Thẩm quyền của từng cá nhân còn phụ thuộc vào phân công, hệ thống chỉ huy và các văn bản hướng dẫn thực hiện.</aside>",
+        "en": "<p>A <b>mandate</b> authorizes and directs specific action. A peacekeeping mission’s mandate is established in Security Council resolutions. It provides the basis for the mission’s activities, priorities and limits.</p><h3>3.1. From a resolution to individual tasks</h3><ol><li><b>Strategic level:</b> The Security Council determines the mission’s mandate.</li><li><b>Mission level:</b> Mission leadership translates the mandate into plans and direction.</li><li><b>Unit, section and individual level:</b> Personnel carry out assigned tasks under applicable orders, procedures and authority.</li></ol><p>Missions do not all have identical mandates. Protection of civilians, support to political processes, support to national institutions or ceasefire monitoring must be understood in the context of the specific mission. Personnel cannot expand their authority simply because they consider an action helpful.</p><h3>3.2. Four questions before a task</h3><ul><li>Which mandated objective does this task support?</li><li>What has my unit or section, and I personally, been assigned to do?</li><li>Which rules, limits and coordination requirements apply?</li><li>Who must receive a report when information is missing or a matter exceeds my authority?</li></ul><aside>Remember: The mandate assigns responsibilities to the mission. Individual authority also depends on tasking, command arrangements and implementing guidance.</aside>"
+      }
+    },
+    {
+      "id": "core01-04",
+      "title": {
+        "vi": "4. Năm hoạt động hòa bình–an ninh",
+        "en": "4. Five peace and security activities"
+      },
+      "body": {
+        "vi": "<p>UN sử dụng nhiều công cụ trước, trong và sau xung đột. Hãy hiểu chức năng của từng hoạt động, đồng thời nhận ra chúng có thể diễn ra đồng thời và hỗ trợ lẫn nhau.</p><h3>4.1. Phòng ngừa xung đột — Conflict prevention</h3><p>Ngăn bất đồng, căng thẳng phát triển thành bạo lực hoặc ngăn xung đột tái diễn. Các biện pháp gồm đối thoại chính trị, đàm phán, trung gian hòa giải và ngoại giao phòng ngừa. Phát hiện sớm và xử lý nguyên nhân căng thẳng giúp bảo vệ những thành quả hòa bình đã có.</p><h3>4.2. Kiến tạo hòa bình — Peacemaking</h3><p>Giải quyết một cuộc xung đột đang tồn tại, chủ yếu bằng biện pháp ngoại giao để đưa các bên đến một thỏa thuận được thương lượng. Trung gian hòa giải và vai trò hỗ trợ đối thoại của Tổng Thư ký có thể góp phần thúc đẩy tiến trình này.</p><h3>4.3. Cưỡng chế hòa bình — Peace enforcement</h3><p>Sử dụng các biện pháp cưỡng chế được Hội đồng Bảo an cho phép nhằm xử lý đe dọa đối với hòa bình và an ninh quốc tế. Các biện pháp có thể gồm trừng phạt, phong tỏa và, như giải pháp cuối cùng, sử dụng lực lượng vũ trang. Hoạt động này có thể được cho phép mà không cần sự đồng thuận của các bên xung đột.</p><h3>4.4. Gìn giữ hòa bình — Peacekeeping</h3><p>Duy trì hòa bình đã đạt được và hỗ trợ thực hiện các thỏa thuận. Việc triển khai dựa trên sự đồng thuận và cam kết với một tiến trình hòa bình; các nhiệm vụ cụ thể được quy định trong mandate. Môi trường triển khai vẫn có thể còn bạo lực, nguy cơ tái xung đột và các mối đe dọa đối với dân thường.</p><h3>4.5. Xây dựng hòa bình — Peacebuilding</h3><p>Tạo điều kiện cho hòa bình bền vững bằng cách giải quyết nguyên nhân gốc rễ của xung đột và tăng năng lực của xã hội, thể chế quốc gia. Đây là quá trình lâu dài; các chủ thể quốc gia giữ vai trò trung tâm, UN hỗ trợ thay vì làm thay quyền quyết định của họ.</p><figure><img src=\"lessons/core/CORE-01/assets/peace-security-spectrum.jpeg\" alt=\"Sơ đồ UN thể hiện sự liên kết và chồng lấn giữa năm hoạt động hòa bình–an ninh\"><figcaption>Phổ hoạt động hòa bình–an ninh — CPTM 2025, Bài 1.2, trang PDF 16, hình slide 13.</figcaption></figure><p>Đọc hình từ trên xuống để nhận biết bối cảnh trước xung đột, xung đột, ngừng bắn và sau xung đột. Các vùng chồng lấn nhắc chúng ta rằng đây không phải năm bước bắt buộc theo một chiều. Gìn giữ hòa bình có thể cùng hỗ trợ đối thoại, phòng ngừa tái xung đột và xây dựng hòa bình ban đầu. Tiến trình chính trị xuyên suốt các hoạt động.</p>",
+        "en": "<p>The UN uses several tools before, during and after conflict. Understand each activity’s purpose and how activities may operate simultaneously and reinforce each other.</p><h3>4.1. Conflict prevention</h3><p>Prevention seeks to stop disputes and tensions from becoming violent, or to prevent a relapse into conflict. Measures include political dialogue, negotiation, mediation and preventive diplomacy. Early warning and action on sources of tension help protect gains already made.</p><h3>4.2. Peacemaking</h3><p>Peacemaking addresses an existing conflict, mainly through diplomatic action to bring hostile parties to a negotiated agreement. Mediation and the Secretary-General’s good offices can help advance this process.</p><h3>4.3. Peace enforcement</h3><p>Peace enforcement uses coercive measures authorized by the Security Council to address threats to international peace and security. Measures may include sanctions, blockades and, as a last resort, armed force. Such action may be authorized without the consent of the parties to the conflict.</p><h3>4.4. Peacekeeping</h3><p>Peacekeeping preserves peace already achieved and supports the implementation of agreements. Deployment rests on consent and commitment to a peace process, with specific tasks set out in the mandate. The operating environment may still contain violence, risks of renewed conflict and threats to civilians.</p><h3>4.5. Peacebuilding</h3><p>Peacebuilding creates conditions for sustainable peace by addressing root causes of conflict and strengthening national institutions and society. It is a long-term process centred on national actors. The UN supports them rather than replacing their ownership of decisions.</p><figure><img src=\"lessons/core/CORE-01/assets/peace-security-spectrum.jpeg\" alt=\"UN diagram showing linkages and overlaps among five peace and security activities\"><figcaption>The spectrum of peace and security activities — CPTM 2025, Lesson 1.2, PDF page 16, slide 13 illustration.</figcaption></figure><p>Read the diagram from top to bottom to identify pre-conflict, conflict, ceasefire and post-conflict contexts. Its overlapping areas show that these are not five compulsory steps in a fixed sequence. Peacekeeping may also support dialogue, prevent renewed conflict and contribute to early peacebuilding. A political process connects these activities.</p>"
+      }
+    },
+    {
+      "id": "core01-05",
+      "title": {
+        "vi": "5. Các loại hình phái bộ",
+        "en": "5. Types of missions"
+      },
+      "body": {
+        "vi": "<h3>5.1. Gìn giữ hòa bình truyền thống</h3><p>Thường tập trung giám sát ngừng bắn, theo dõi thực hiện thỏa thuận và tạo điều kiện để các bên duy trì ổn định. Thành phần quân sự giữ vai trò nổi bật; nhiệm vụ cụ thể phụ thuộc mandate. Việc tạo môi trường ổn định giúp các nỗ lực chính trị tiếp tục.</p><h3>5.2. Gìn giữ hòa bình đa chiều</h3><p>Kết hợp thành phần quân sự, cảnh sát và dân sự để hỗ trợ một tiến trình hòa bình phức tạp. Nhiệm vụ có thể bao gồm bảo vệ thường dân, hỗ trợ tiến trình chính trị, quyền con người, pháp quyền hoặc củng cố thể chế. Các thành phần cần phối hợp để đạt mục tiêu chung, đồng thời giữ đúng chức năng và thẩm quyền của mình.</p><h3>5.3. Chính quyền chuyển tiếp</h3><p>Là hình thức hiếm gặp của hoạt động đa chiều, trong đó UN tạm thời thực hiện một số chức năng quản lý nhà nước theo mandate. Không được suy ra rằng mọi phái bộ đều có quyền quản trị hoặc thay thế chính quyền sở tại.</p><h3>5.4. Phái bộ chính trị đặc biệt — SPM</h3><p>SPM hỗ trợ các mục tiêu chính trị như phòng ngừa xung đột, hòa giải và xây dựng hòa bình, dưới sự chỉ đạo của DPPA. SPM không phải phái bộ gìn giữ hòa bình. Khi làm việc với một hiện diện UN tại thực địa, trước hết cần xác định đúng loại hình, nhiệm vụ và đối tác phối hợp.</p>",
+        "en": "<h3>5.1. Traditional peacekeeping</h3><p>Traditional operations commonly monitor ceasefires, observe implementation of agreements and help the parties maintain stability. The military component has a prominent role, with specific tasks determined by the mandate. A more stable environment allows political efforts to continue.</p><h3>5.2. Multidimensional peacekeeping</h3><p>These operations combine military, police and civilian components to support a complex peace process. Mandated tasks may include civilian protection, political support, human rights, the rule of law or institution-building. Components coordinate towards shared objectives while respecting their distinct functions and authority.</p><h3>5.3. Transitional authority</h3><p>This is a rare form of multidimensional operation in which the UN temporarily performs certain State functions under a specific mandate. It does not mean that every mission has authority to govern or replace the host government.</p><h3>5.4. Special political missions — SPMs</h3><p>SPMs support political objectives such as conflict prevention, mediation and peacebuilding under DPPA’s direction. They are not peacekeeping operations. When engaging with a UN field presence, first identify its type, mandate and relevant coordination partners.</p>"
+      }
+    },
+    {
+      "id": "core01-06",
+      "title": {
+        "vi": "6. Đồng thuận và không thiên vị",
+        "en": "6. Consent and impartiality"
+      },
+      "body": {
+        "vi": "<p>Ba nguyên tắc cơ bản gắn bó với nhau: Sự đồng thuận của các bên; không thiên vị; không sử dụng vũ lực trừ khi tự vệ và bảo vệ nhiệm vụ. Chúng định hướng cách phái bộ hiện diện, ứng xử và thực hiện mandate.</p><h3>6.1. Sự đồng thuận — Consent</h3><p>Gìn giữ hòa bình triển khai với sự đồng thuận của các bên chính trong xung đột. Trong những bối cảnh mà không thể có sự đồng thuận của tất cả các bên, sự đồng ý của chính quyền quốc gia tiếp nhận là nền tảng thiết yếu, nhưng khó khăn về sự chấp nhận của các bên khác vẫn phải được nhận diện. Đồng thuận ở cấp quốc gia không bảo đảm mọi nhóm hoặc cộng đồng tại địa phương đều hợp tác.</p><p>Đồng thuận có thể suy giảm trong quá trình hoạt động. Những biểu hiện như cản trở tiếp cận, hạn chế di chuyển hoặc phản đối ngày càng mạnh cần được ghi nhận, xác minh và báo cáo qua kênh phái bộ. Mỗi thành viên góp phần duy trì sự hợp tác bằng hành vi đúng mực, trao đổi rõ ràng và quan hệ tôn trọng với cộng đồng.</p><h3>6.2. Không thiên vị — Impartiality</h3><p>Không thiên vị nghĩa là thực hiện mandate một cách công bằng và nhất quán, không ưu ái một bên vì quan hệ chính trị, dân tộc, tôn giáo hay lợi ích cá nhân. Nguyên tắc này không đòi hỏi phái bộ đứng ngoài trước hành vi vi phạm hoặc không hành động khi mandate yêu cầu hành động.</p><ul><li>Đánh giá hành vi và thông tin theo cùng một tiêu chuẩn.</li><li>Duy trì quan hệ làm việc phù hợp với các bên và cộng đồng.</li><li>Giải thích rõ mục đích hoạt động trong phạm vi được phép công bố.</li><li>Tránh phát ngôn, biểu tượng hoặc lợi ích cá nhân làm tổn hại hình ảnh công bằng của phái bộ.</li></ul><aside>Ghi nhớ: Có thể xử lý hành vi vi phạm của một bên mà vẫn giữ nguyên tắc không thiên vị, nếu hành động đúng mandate và áp dụng tiêu chuẩn nhất quán.</aside>",
+        "en": "<p>The three basic principles are interlinked: Consent of the parties; impartiality; and non-use of force except in self-defence and defence of the mandate. They guide the mission’s presence, conduct and implementation of its responsibilities.</p><h3>6.1. Consent</h3><p>Peacekeeping deploys with the consent of the main parties to the conflict. Where consent from all parties cannot be secured, the consent of the national host authority remains an essential foundation, while the challenges posed by other parties’ lack of acceptance must still be recognized. National-level consent does not guarantee cooperation from every local group or community.</p><p>Consent can deteriorate during an operation. Obstruction of access, restrictions on movement or growing opposition should be recorded, verified and reported through mission channels. Personnel help sustain cooperation through professional conduct, clear communication and respectful community relations.</p><h3>6.2. Impartiality</h3><p>Impartiality means implementing the mandate fairly and consistently, without favouring a party because of political, ethnic, religious or personal interests. It does not require the mission to ignore violations or refrain from action required by its mandate.</p><ul><li>Assess conduct and information against consistent standards.</li><li>Maintain appropriate working relations with parties and communities.</li><li>Explain the purpose of activities within authorized disclosure limits.</li><li>Avoid statements, symbols or personal interests that undermine the mission’s reputation for fairness.</li></ul><aside>Remember: Addressing a party’s violations can be consistent with impartiality when action follows the mandate and applies consistent standards.</aside>"
+      }
+    },
+    {
+      "id": "core01-07",
+      "title": {
+        "vi": "7. Không sử dụng vũ lực: Hiểu đúng ngoại lệ",
+        "en": "7. Non-use of force: Understanding the exceptions"
+      },
+      "body": {
+        "vi": "<h3>7.1. Nguyên tắc và thẩm quyền</h3><p>Nguyên tắc đầy đủ là: <b>Không sử dụng vũ lực, trừ khi tự vệ và bảo vệ nhiệm vụ.</b> Vì vậy, gìn giữ hòa bình không đồng nghĩa với việc tuyệt đối không được sử dụng vũ lực. Việc sử dụng vũ lực phải có căn cứ, đúng thẩm quyền và tuân thủ các quy định áp dụng.</p><p>Đối với thành phần quân sự, cần nắm quy tắc giao chiến (ROE). Đối với thành phần cảnh sát, cần nắm chỉ thị về sử dụng vũ lực (DUF) và hướng dẫn liên quan. Các văn bản này cụ thể hóa việc thực hiện thẩm quyền; một nhận thức chung về mandate không thay thế được chúng.</p><h3>7.2. Kiềm chế và giảm leo thang</h3><p>Khi sử dụng vũ lực theo thẩm quyền, phải kiềm chế, bảo đảm tính cần thiết và tương xứng với mục tiêu hợp pháp, lựa chọn mức độ phù hợp với tình hình, chú ý bảo vệ người không tham gia bạo lực. Cần giảm leo thang sớm và trở lại các biện pháp thuyết phục không bạo lực khi điều kiện cho phép. Việc báo cáo và trách nhiệm giải trình vẫn phải được thực hiện theo quy định.</p><h3>7.3. Gìn giữ hòa bình mạnh mẽ và cưỡng chế hòa bình</h3><p>Gìn giữ hòa bình mạnh mẽ (robust peacekeeping) có thể sử dụng vũ lực ở cấp chiến thuật khi được Hội đồng Bảo an cho phép, trong khuôn khổ đồng thuận chiến lược và để bảo vệ mandate. Cưỡng chế hòa bình có thể sử dụng vũ lực ở cấp chiến lược mà không cần sự đồng thuận của các bên. Việc một nghị quyết viện dẫn Chương VII không tự động biến phái bộ gìn giữ hòa bình thành hoạt động cưỡng chế hòa bình.</p><aside>Ghi nhớ: Bài học này giải thích nguyên tắc. Quyết định và hành động thực tế phải theo mandate, ROE/DUF, pháp luật áp dụng và hệ thống chỉ huy của nhiệm vụ cụ thể.</aside>",
+        "en": "<h3>7.1. Principle and authority</h3><p>The full principle is: <b>Non-use of force except in self-defence and defence of the mandate.</b> Peacekeeping therefore does not mean an absolute prohibition on force. Any use of force requires a valid basis, proper authority and compliance with applicable rules.</p><p>Military personnel must understand their rules of engagement (ROE). Police personnel must understand the directive on the use of force (DUF) and relevant guidance. These instruments guide the exercise of authority; general knowledge of the mandate does not replace them.</p><h3>7.2. Restraint and de-escalation</h3><p>When authorized force is used, personnel must exercise restraint, ensure necessity and proportionality to the legitimate objective, and act appropriately to the context while taking care to protect people not participating in violence. Seek early de-escalation and return to non-violent persuasion when conditions allow. Reporting and accountability obligations continue to apply.</p><h3>7.3. Robust peacekeeping and peace enforcement</h3><p>Robust peacekeeping may use force at the tactical level when authorized by the Security Council, within strategic consent and to defend the mandate. Peace enforcement may use force at the strategic level without the parties’ consent. Reference to Chapter VII in a resolution does not automatically turn a peacekeeping mission into a peace enforcement operation.</p><aside>Remember: This lesson explains principles. Actual decisions and actions must follow the specific mandate, ROE/DUF, applicable law and command arrangements.</aside>"
+      }
+    },
+    {
+      "id": "core01-08",
+      "title": {
+        "vi": "8. Tính chính danh, uy tín và vai trò sở tại",
+        "en": "8. Legitimacy, credibility and ownership"
+      },
+      "body": {
+        "vi": "<h3>8.1. Tính chính danh — Legitimacy</h3><p>Tính chính danh thể hiện cơ sở hợp pháp và sự chấp nhận đối với phái bộ. Hiến chương, luật pháp quốc tế và thẩm quyền được trao tạo nền tảng; hành vi của từng thành viên ảnh hưởng đến cách nền tảng ấy được cộng đồng nhìn nhận. Vi phạm kỷ luật hoặc lạm dụng quyền hạn làm suy yếu lòng tin vào cả phái bộ.</p><h3>8.2. Uy tín — Credibility</h3><p>Uy tín hình thành khi người dân và các bên tin rằng phái bộ có năng lực, đáng tin cậy và thực hiện được nhiệm vụ. Uy tín đòi hỏi sẵn sàng, phối hợp thống nhất, thông tin trung thực và thực hiện đúng cam kết. Không hứa những việc nằm ngoài mandate, nguồn lực hoặc quyền quyết định của mình.</p><h3>8.3. Vai trò làm chủ của quốc gia và địa phương</h3><p>Hòa bình bền vững cần sự tham gia thực chất của người dân và các chủ thể sở tại. Phái bộ cần lắng nghe nhiều nhóm, chú ý tiếng nói của phụ nữ, thanh niên và những cộng đồng dễ bị gạt ra ngoài. Tham vấn giúp hiểu ưu tiên thực tế và tránh áp đặt một giải pháp không phù hợp. Hỗ trợ phải góp phần tăng năng lực sở tại, không tạo sự lệ thuộc lâu dài.</p><h3>8.4. Những điểm phải mang theo sau bài học</h3><ol><li>Biết UN hoạt động vì mục đích gì và cơ quan nào quyết định nhiệm vụ phái bộ.</li><li>Hiểu mandate trước khi thực hiện phần việc được giao.</li><li>Nhận biết năm hoạt động hòa bình–an ninh và sự liên kết giữa chúng.</li><li>Giữ ba nguyên tắc cơ bản trong mọi hoạt động.</li><li>Bảo vệ tính chính danh và uy tín bằng hành vi chuyên nghiệp.</li><li>Tôn trọng vai trò làm chủ của quốc gia và cộng đồng sở tại.</li></ol>",
+        "en": "<h3>8.1. Legitimacy</h3><p>Legitimacy concerns the mission’s lawful basis and acceptance. The Charter, international law and authorized mandate provide a foundation; each person’s conduct affects how communities perceive it. Misconduct and abuse of authority undermine trust in the entire mission.</p><h3>8.2. Credibility</h3><p>Credibility exists when communities and parties believe the mission is capable, trustworthy and able to perform its mandate. It requires readiness, coordinated action, truthful communication and delivery on commitments. Do not promise outcomes beyond the mandate, available resources or your authority.</p><h3>8.3. National and local ownership</h3><p>Sustainable peace requires meaningful participation by people and institutions in the host country. Missions should listen to diverse groups, including women, young people and communities at risk of exclusion. Consultation reveals actual priorities and helps avoid imposing unsuitable solutions. Support should strengthen local capacity rather than create lasting dependence.</p><h3>8.4. What to take away</h3><ol><li>Know the UN’s purposes and which organ determines a peacekeeping mandate.</li><li>Understand the mandate before carrying out assigned tasks.</li><li>Recognize the five peace and security activities and their connections.</li><li>Uphold the three basic principles throughout your work.</li><li>Protect legitimacy and credibility through professional conduct.</li><li>Respect national and local ownership.</li></ol>"
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Văn kiện nào đặt nền tảng cho các mục đích và nguyên tắc của UN?",
+        "en": "Which document establishes the UN’s purposes and principles?"
+      },
+      "options": [
+        {
+          "vi": "Hiến chương UN",
+          "en": "UN Charter"
+        },
+        {
+          "vi": "Kế hoạch tuần tra",
+          "en": "Patrol plan"
+        },
+        {
+          "vi": "Báo cáo đơn vị",
+          "en": "Unit report"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Hiến chương là văn kiện thành lập UN và là điều ước quốc tế.",
+        "en": "The Charter is the UN’s founding document and an international treaty."
+      }
+    },
+    {
+      "question": {
+        "vi": "Cơ quan nào giao mandate cho phái bộ gìn giữ hòa bình?",
+        "en": "Which organ gives a peacekeeping mission its mandate?"
+      },
+      "options": [
+        {
+          "vi": "DOS",
+          "en": "DOS"
+        },
+        {
+          "vi": "Hội đồng Bảo an",
+          "en": "Security Council"
+        },
+        {
+          "vi": "UNCT",
+          "en": "UNCT"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Hội đồng Bảo an xác lập nhiệm vụ qua nghị quyết.",
+        "en": "The Security Council establishes the mandate through resolutions."
+      }
+    },
+    {
+      "question": {
+        "vi": "Vai trò nổi bật của Đại hội đồng trong gìn giữ hòa bình là gì?",
+        "en": "What is a major General Assembly role in peacekeeping?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ huy từng cuộc tuần tra",
+          "en": "Commanding each patrol"
+        },
+        {
+          "vi": "Ban hành DUF cho từng cá nhân",
+          "en": "Issuing each individual’s DUF"
+        },
+        {
+          "vi": "Xem xét và phê chuẩn ngân sách",
+          "en": "Considering and approving budgets"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Đại hội đồng có vai trò ngân sách; không chỉ huy hoạt động chiến thuật tại thực địa.",
+        "en": "The General Assembly has a budgetary role; it does not command tactical field activities."
+      }
+    },
+    {
+      "question": {
+        "vi": "Bộ phận nào cung cấp chỉ đạo chính trị và điều hành cho gìn giữ hòa bình?",
+        "en": "Which department provides political and executive direction to peacekeeping?"
+      },
+      "options": [
+        {
+          "vi": "DPO",
+          "en": "DPO"
+        },
+        {
+          "vi": "ICRC",
+          "en": "ICRC"
+        },
+        {
+          "vi": "UNCT",
+          "en": "UNCT"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "DPO chỉ đạo các hoạt động gìn giữ hòa bình; DOS cung cấp hỗ trợ hoạt động.",
+        "en": "DPO directs peacekeeping operations; DOS provides operational support."
+      }
+    },
+    {
+      "question": {
+        "vi": "Hiểu đúng mandate dẫn đến cách làm nào?",
+        "en": "What follows from understanding a mandate?"
+      },
+      "options": [
+        {
+          "vi": "Tự mở rộng nhiệm vụ nếu có ý tốt",
+          "en": "Expand tasks whenever intentions are good"
+        },
+        {
+          "vi": "Làm đúng phần việc, thẩm quyền và quy định áp dụng",
+          "en": "Follow assigned tasks, authority and applicable rules"
+        },
+        {
+          "vi": "Áp dụng nguyên nhiệm vụ của một phái bộ khác",
+          "en": "Copy another mission’s mandate"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Mandate không phải sự cho phép vô hạn; cá nhân phải theo phân công và thẩm quyền.",
+        "en": "A mandate is not unlimited permission; individuals must follow their tasking and authority."
+      }
+    },
+    {
+      "question": {
+        "vi": "Hoạt động nào chủ yếu đưa các bên đang xung đột đến thỏa thuận qua ngoại giao?",
+        "en": "Which activity mainly brings conflicting parties to agreement through diplomacy?"
+      },
+      "options": [
+        {
+          "vi": "Cưỡng chế hòa bình",
+          "en": "Peace enforcement"
+        },
+        {
+          "vi": "Bảo đảm hậu cần",
+          "en": "Logistics support"
+        },
+        {
+          "vi": "Kiến tạo hòa bình",
+          "en": "Peacemaking"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Kiến tạo hòa bình xử lý xung đột đang tồn tại bằng nỗ lực ngoại giao và thương lượng.",
+        "en": "Peacemaking addresses existing conflict through diplomacy and negotiation."
+      }
+    },
+    {
+      "question": {
+        "vi": "Năm hoạt động hòa bình–an ninh có quan hệ thế nào?",
+        "en": "How do the five peace and security activities relate?"
+      },
+      "options": [
+        {
+          "vi": "Có thể chồng lấn và hỗ trợ nhau",
+          "en": "They can overlap and reinforce each other"
+        },
+        {
+          "vi": "Luôn theo năm bước cố định",
+          "en": "They always follow five fixed steps"
+        },
+        {
+          "vi": "Không liên quan đến nhau",
+          "en": "They are unrelated"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Không có một thứ tự bắt buộc; nhiều công cụ có thể được sử dụng đồng thời.",
+        "en": "There is no compulsory sequence; several tools may be used together."
+      }
+    },
+    {
+      "question": {
+        "vi": "Xây dựng hòa bình hướng chủ yếu tới điều gì?",
+        "en": "What is the main aim of peacebuilding?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ giám sát một chốt kiểm soát",
+          "en": "Only monitoring one checkpoint"
+        },
+        {
+          "vi": "Giải quyết nguyên nhân gốc rễ và tạo điều kiện cho hòa bình lâu dài",
+          "en": "Addressing root causes and creating conditions for lasting peace"
+        },
+        {
+          "vi": "Thay vĩnh viễn các thể chế quốc gia",
+          "en": "Permanently replacing national institutions"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Xây dựng hòa bình là quá trình lâu dài, đặt các chủ thể quốc gia ở vị trí trung tâm.",
+        "en": "Peacebuilding is a long-term process centred on national actors."
+      }
+    },
+    {
+      "question": {
+        "vi": "SPM được hiểu đúng là gì?",
+        "en": "What is an SPM?"
+      },
+      "options": [
+        {
+          "vi": "Tên khác của mọi phái bộ quân sự",
+          "en": "Another name for every military mission"
+        },
+        {
+          "vi": "Một bộ phận của ICRC",
+          "en": "Part of the ICRC"
+        },
+        {
+          "vi": "Phái bộ chính trị đặc biệt, không phải phái bộ gìn giữ hòa bình",
+          "en": "A special political mission, not a peacekeeping operation"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "SPM có tính chất và nhiệm vụ riêng, dưới sự chỉ đạo của DPPA.",
+        "en": "SPMs have distinct purposes and mandates under DPPA’s direction."
+      }
+    },
+    {
+      "question": {
+        "vi": "Đồng thuận cấp quốc gia bảo đảm điều gì ở cấp địa phương?",
+        "en": "What does national-level consent guarantee locally?"
+      },
+      "options": [
+        {
+          "vi": "Không tự động bảo đảm sự hợp tác của mọi nhóm",
+          "en": "It does not automatically guarantee every group’s cooperation"
+        },
+        {
+          "vi": "Mọi nhóm chắc chắn hợp tác",
+          "en": "Every group will certainly cooperate"
+        },
+        {
+          "vi": "Không cần duy trì quan hệ cộng đồng",
+          "en": "Community engagement is unnecessary"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Phải tiếp tục theo dõi dấu hiệu suy giảm đồng thuận và báo cáo qua kênh phái bộ.",
+        "en": "Personnel must continue monitoring signs of deteriorating consent and report through mission channels."
+      }
+    },
+    {
+      "question": {
+        "vi": "Không thiên vị yêu cầu điều gì?",
+        "en": "What does impartiality require?"
+      },
+      "options": [
+        {
+          "vi": "Bỏ qua mọi vi phạm để tránh mất lòng",
+          "en": "Ignore all violations to avoid displeasing anyone"
+        },
+        {
+          "vi": "Thực hiện mandate công bằng theo tiêu chuẩn nhất quán",
+          "en": "Implement the mandate fairly using consistent standards"
+        },
+        {
+          "vi": "Ủng hộ bên có quan hệ gần gũi hơn",
+          "en": "Support the party with closer personal ties"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Không thiên vị không ngăn việc xử lý vi phạm theo mandate.",
+        "en": "Impartiality does not prevent action on violations under the mandate."
+      }
+    },
+    {
+      "question": {
+        "vi": "Nguyên tắc về vũ lực được phát biểu đầy đủ thế nào?",
+        "en": "What is the complete principle on force?"
+      },
+      "options": [
+        {
+          "vi": "Không dùng vũ lực trong mọi hoàn cảnh",
+          "en": "Never use force under any circumstances"
+        },
+        {
+          "vi": "Dùng vũ lực bất kỳ khi nào thuận tiện",
+          "en": "Use force whenever convenient"
+        },
+        {
+          "vi": "Không dùng vũ lực, trừ tự vệ và bảo vệ nhiệm vụ",
+          "en": "Non-use of force except in self-defence and defence of the mandate"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Ngoại lệ phải được thực hiện theo thẩm quyền và các quy định áp dụng.",
+        "en": "The exceptions must be exercised within authority and applicable rules."
+      }
+    },
+    {
+      "question": {
+        "vi": "Một nghị quyết viện dẫn Chương VII có tự động biến phái bộ thành cưỡng chế hòa bình không?",
+        "en": "Does a Chapter VII reference automatically make a mission peace enforcement?"
+      },
+      "options": [
+        {
+          "vi": "Không; còn phải xét mandate, đồng thuận và tính chất hoạt động",
+          "en": "No; consider the mandate, consent and nature of the operation"
+        },
+        {
+          "vi": "Có, trong mọi trường hợp",
+          "en": "Yes, in every case"
+        },
+        {
+          "vi": "Chỉ phụ thuộc số lượng xe của phái bộ",
+          "en": "It depends only on the mission’s vehicle numbers"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Robust peacekeeping và peace enforcement khác nhau về đồng thuận và cấp độ sử dụng vũ lực.",
+        "en": "Robust peacekeeping and peace enforcement differ in consent and the level at which force is used."
+      }
+    },
+    {
+      "question": {
+        "vi": "Cách làm nào giúp bảo vệ uy tín phái bộ?",
+        "en": "Which practice protects mission credibility?"
+      },
+      "options": [
+        {
+          "vi": "Hứa mọi điều cộng đồng mong muốn",
+          "en": "Promise everything communities request"
+        },
+        {
+          "vi": "Thông tin trung thực, thực hiện cam kết trong thẩm quyền",
+          "en": "Communicate truthfully and deliver commitments within authority"
+        },
+        {
+          "vi": "Che giấu các hạn chế để tạo ấn tượng mạnh",
+          "en": "Hide limitations to appear stronger"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Uy tín dựa trên năng lực và sự đáng tin cậy; cần quản lý kỳ vọng thực tế.",
+        "en": "Credibility rests on capability and trustworthiness; expectations must remain realistic."
+      }
+    },
+    {
+      "question": {
+        "vi": "Vai trò làm chủ của sở tại được thúc đẩy bằng cách nào?",
+        "en": "How is national and local ownership promoted?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ tham vấn một nhóm thuận tiện",
+          "en": "Consult only one convenient group"
+        },
+        {
+          "vi": "Làm thay mọi quyết định lâu dài",
+          "en": "Take over all long-term decisions"
+        },
+        {
+          "vi": "Tham vấn rộng rãi và tăng năng lực sở tại",
+          "en": "Consult inclusively and strengthen local capacity"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Quốc gia và cộng đồng sở tại giữ vai trò trung tâm trong xây dựng hòa bình bền vững.",
+        "en": "National and local actors are central to building sustainable peace."
+      }
+    }
+  ],
+  "updated": "2026-10-26",
+  "moduleId": "CORE-M1",
+  "moduleOrder": 1,
+  "lessonOrder": 1,
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "version": "1.0-review",
+  "tabs": [
+    "overview",
+    "content",
+    "quiz",
+    "sources"
+  ],
+  "chapters": [
+    {
+      "id": "core01-01",
+      "title": {
+        "vi": "1. UN và nền tảng của gìn giữ hòa bình",
+        "en": "1. The UN and the foundations of peacekeeping"
+      },
+      "body": {
+        "vi": "<p>Khi thực hiện nhiệm vụ gìn giữ hòa bình, anh/chị đại diện cho Liên hợp quốc (UN). Tác phong, lời nói và quyết định của mỗi người đều ảnh hưởng đến lòng tin của cộng đồng đối với phái bộ. Vì vậy, trước khi học kỹ thuật nghiệp vụ, chúng ta cần hiểu UN được lập ra để làm gì và nhiệm vụ của mình nằm ở đâu trong nỗ lực chung ấy.</p>\n<h3>1.1. Vì sao cần gìn giữ hòa bình?</h3><p>Xung đột bạo lực gây thiệt hại vượt xa chiến trường: Người dân bị thương vong, gia đình phải di dời, trường học và cơ sở y tế ngừng hoạt động, sinh kế đổ vỡ, lòng tin giữa các cộng đồng suy giảm. Phụ nữ, trẻ em và những người dễ bị tổn thương có thể chịu tác động đặc biệt nghiêm trọng. Việc ngừng tiếng súng mới chỉ tạo ra cơ hội; hòa bình cần được giữ vững bằng một tiến trình chính trị và những thay đổi lâu dài.</p><p>Gìn giữ hòa bình hỗ trợ duy trì hòa bình đã đạt được và giúp thực hiện các thỏa thuận hòa bình. Một phái bộ có thể tạo môi trường an toàn hơn để các bên đối thoại, người dân tiếp cận hỗ trợ và các cơ quan quốc gia khôi phục hoạt động, trong phạm vi nhiệm vụ được giao.</p>\n<h3>1.2. Hiến chương UN và bốn mục đích</h3><p>Hiến chương UN là văn kiện thành lập tổ chức, đồng thời là điều ước quốc tế quy định các mục đích, nguyên tắc, quyền và nghĩa vụ của các quốc gia thành viên. Bốn mục đích chính là:</p><ol><li>Duy trì hòa bình và an ninh quốc tế.</li><li>Phát triển quan hệ hữu nghị giữa các dân tộc.</li><li>Hợp tác giải quyết các vấn đề quốc tế và thúc đẩy tôn trọng quyền con người, các quyền tự do cơ bản.</li><li>Làm trung tâm điều hòa hành động của các quốc gia để đạt các mục tiêu chung.</li></ol>\n<h3>1.3. Tính phổ quát và sự không thiên vị</h3><p>Tính phổ quát thể hiện phạm vi đại diện rộng khắp của UN. Sự không thiên vị đòi hỏi tổ chức thực hiện trách nhiệm theo Hiến chương và các tiêu chuẩn chung. Hai yếu tố này góp phần tạo nên tính chính danh và uy tín của UN. Ở cấp cá nhân, chúng được thể hiện qua việc tôn trọng mọi cộng đồng, không phân biệt đối xử và thực hiện nhiệm vụ đúng thẩm quyền.</p><aside>Ghi nhớ: Gìn giữ hòa bình phục vụ một giải pháp chính trị bền vững. Hoạt động quân sự, cảnh sát và dân sự phải cùng hướng tới mục tiêu ấy.</aside>",
+        "en": "<p>As a peacekeeper, you represent the United Nations (UN). Your conduct, words and decisions influence the community’s trust in the mission. Before learning operational skills, you need to understand why the UN exists and how your responsibilities contribute to its wider work.</p>\n<h3>1.1. Why is peacekeeping needed?</h3><p>Violent conflict causes harm far beyond the battlefield. People are killed or injured, families are displaced, schools and health facilities close, livelihoods collapse and trust between communities deteriorates. Women, children and people in vulnerable situations may face particularly severe consequences. The end of fighting creates an opportunity; sustaining peace requires a political process and lasting change.</p><p>Peacekeeping helps preserve peace and implement peace agreements. Within its mandate, a mission can help create safer conditions for dialogue, access to assistance and the restoration of national institutions.</p>\n<h3>1.2. The UN Charter and its four purposes</h3><p>The UN Charter is the organization’s founding document and an international treaty establishing its purposes, principles and Member States’ rights and obligations. Its four main purposes are:</p><ol><li>To maintain international peace and security.</li><li>To develop friendly relations among nations.</li><li>To cooperate in solving international problems and promote respect for human rights and fundamental freedoms.</li><li>To harmonize the actions of nations towards these common goals.</li></ol>\n<h3>1.3. Universality and impartiality</h3><p>Universality reflects the UN’s broad international representation. Impartiality requires the organization to fulfil its responsibilities under the Charter and common standards. Both contribute to its legitimacy and credibility. For individual personnel, this means respecting all communities, avoiding discrimination and acting within their authority.</p><aside>Remember: Peacekeeping serves a sustainable political solution. Military, police and civilian activities must contribute to that shared purpose.</aside>"
+      }
+    },
+    {
+      "id": "core01-02",
+      "title": {
+        "vi": "2. Ai quyết định và ai tổ chức thực hiện?",
+        "en": "2. Who decides and who implements?"
+      },
+      "body": {
+        "vi": "<h3>2.1. Sáu cơ quan chính của UN</h3><p>Hiến chương thiết lập sáu cơ quan chính: Đại hội đồng; Hội đồng Bảo an; Hội đồng Kinh tế và Xã hội; Hội đồng Quản thác; Tòa án Công lý Quốc tế; Ban Thư ký. Trong gìn giữ hòa bình, cần nắm rõ vai trò của Đại hội đồng, Hội đồng Bảo an và Ban Thư ký.</p><div class=\"flow\"><div><b>Hội đồng Bảo an</b><span>Quyết định thành lập, gia hạn và giao nhiệm vụ phái bộ.</span></div><div><b>Đại hội đồng</b><span>Xem xét, phê chuẩn ngân sách và các vấn đề nguồn lực thuộc thẩm quyền.</span></div><div><b>Ban Thư ký</b><span>Lập kế hoạch, chỉ đạo và hỗ trợ tổ chức thực hiện.</span></div></div><p class=\"caption\">Sơ đồ vai trò: Ba cơ quan có chức năng khác nhau và phối hợp với nhau; đây không phải một chuỗi chỉ huy tuyến tính.</p>\n<h3>2.2. Ba đầu mối cần nhận biết trong Ban Thư ký</h3><ul><li><b>DPO — Department of Peace Operations:</b> Cung cấp chỉ đạo chính trị và điều hành đối với các hoạt động gìn giữ hòa bình.</li><li><b>DOS — Department of Operational Support:</b> Cung cấp hỗ trợ hoạt động, bao gồm các lĩnh vực bảo đảm cần thiết để phái bộ thực hiện nhiệm vụ.</li><li><b>DPPA — Department of Political and Peacebuilding Affairs:</b> Hỗ trợ phòng ngừa xung đột, trung gian hòa giải và xây dựng hòa bình; chỉ đạo các phái bộ chính trị đặc biệt.</li></ul><p>Tổng Thư ký đứng đầu Ban Thư ký và lãnh đạo công việc của các bộ phận thuộc Ban Thư ký. Ở thực địa, mọi hoạt động phải tuân theo cơ chế chỉ huy, quản lý và báo cáo đã được xác lập cho phái bộ và từng thành phần.</p>\n<h3>2.3. Phái bộ và các đối tác</h3><p>Phái bộ phối hợp với Nhóm UN tại quốc gia (UNCT), gồm các cơ quan, quỹ và chương trình UN hoạt động tại quốc gia đó. Các đối tác có chức năng riêng; phối hợp không có nghĩa là tất cả thuộc cùng một tuyến chỉ huy. Ủy ban Chữ thập đỏ Quốc tế (ICRC) là một đối tác nhân đạo độc lập, không phải cơ quan UN.</p>",
+        "en": "<h3>2.1. The six principal organs</h3><p>The Charter establishes six principal organs: The General Assembly, Security Council, Economic and Social Council, Trusteeship Council, International Court of Justice and Secretariat. For peacekeeping, understand the distinct roles of the General Assembly, Security Council and Secretariat.</p><div class=\"flow\"><div><b>Security Council</b><span>Establishes and renews missions and sets their mandates.</span></div><div><b>General Assembly</b><span>Considers and approves budgets and resource matters within its authority.</span></div><div><b>Secretariat</b><span>Plans, directs and supports implementation.</span></div></div><p class=\"caption\">Role diagram: The three organs have different, complementary functions. This is not a linear chain of command.</p>\n<h3>2.2. Three relevant Secretariat departments</h3><ul><li><b>DPO — Department of Peace Operations:</b> Provides political and executive direction to UN peacekeeping operations.</li><li><b>DOS — Department of Operational Support:</b> Provides operational support needed for missions to perform their tasks.</li><li><b>DPPA — Department of Political and Peacebuilding Affairs:</b> Supports conflict prevention, mediation and peacebuilding, and directs special political missions.</li></ul><p>The Secretary-General heads the Secretariat and leads the work of its departments. In the field, personnel follow the command, management and reporting arrangements established for their mission and component.</p>\n<h3>2.3. The mission and its partners</h3><p>A mission works with the UN Country Team (UNCT), comprising UN agencies, funds and programmes operating in the country. Partners have distinct responsibilities; coordination does not put everyone in the same chain of command. The International Committee of the Red Cross (ICRC) is an independent humanitarian partner, not a UN agency.</p>"
+      }
+    },
+    {
+      "id": "core01-03",
+      "title": {
+        "vi": "3. Mandate: Căn cứ và giới hạn nhiệm vụ",
+        "en": "3. Mandate: Authority and limits"
+      },
+      "body": {
+        "vi": "<p><b>Mandate</b> là sự giao nhiệm vụ và trao thẩm quyền để thực hiện các hành động cụ thể. Đối với phái bộ gìn giữ hòa bình, nhiệm vụ được xác lập trong nghị quyết của Hội đồng Bảo an. Đây là căn cứ để phái bộ tổ chức hoạt động, xác định ưu tiên và giới hạn trách nhiệm.</p><h3>3.1. Từ nghị quyết đến nhiệm vụ cá nhân</h3><ol><li><b>Cấp chiến lược:</b> Hội đồng Bảo an xác định nhiệm vụ của phái bộ.</li><li><b>Cấp phái bộ:</b> Lãnh đạo cụ thể hóa nhiệm vụ thành kế hoạch và chỉ đạo thực hiện.</li><li><b>Cấp đơn vị, bộ phận và cá nhân:</b> Thực hiện phần việc được phân công theo mệnh lệnh, quy trình và thẩm quyền tương ứng.</li></ol><p>Không phải mọi phái bộ đều có cùng nhiệm vụ. Bảo vệ thường dân, hỗ trợ tiến trình chính trị, hỗ trợ cơ quan quốc gia hoặc giám sát ngừng bắn phải được hiểu theo nội dung được giao cho từng phái bộ. Một cá nhân không được tự mở rộng thẩm quyền chỉ vì cho rằng hành động đó có ích.</p><h3>3.2. Bốn câu hỏi trước khi thực hiện nhiệm vụ</h3><ul><li>Nhiệm vụ này phục vụ mục tiêu nào trong mandate?</li><li>Đơn vị và cá nhân được giao phần việc gì?</li><li>Những quy định, giới hạn và yêu cầu phối hợp nào áp dụng?</li><li>Khi thiếu thông tin hoặc phát sinh vấn đề vượt thẩm quyền, phải báo cáo ai?</li></ul><aside>Ghi nhớ: Mandate giao nhiệm vụ cho phái bộ. Thẩm quyền của từng cá nhân còn phụ thuộc vào phân công, hệ thống chỉ huy và các văn bản hướng dẫn thực hiện.</aside>",
+        "en": "<p>A <b>mandate</b> authorizes and directs specific action. A peacekeeping mission’s mandate is established in Security Council resolutions. It provides the basis for the mission’s activities, priorities and limits.</p><h3>3.1. From a resolution to individual tasks</h3><ol><li><b>Strategic level:</b> The Security Council determines the mission’s mandate.</li><li><b>Mission level:</b> Mission leadership translates the mandate into plans and direction.</li><li><b>Unit, section and individual level:</b> Personnel carry out assigned tasks under applicable orders, procedures and authority.</li></ol><p>Missions do not all have identical mandates. Protection of civilians, support to political processes, support to national institutions or ceasefire monitoring must be understood in the context of the specific mission. Personnel cannot expand their authority simply because they consider an action helpful.</p><h3>3.2. Four questions before a task</h3><ul><li>Which mandated objective does this task support?</li><li>What has my unit or section, and I personally, been assigned to do?</li><li>Which rules, limits and coordination requirements apply?</li><li>Who must receive a report when information is missing or a matter exceeds my authority?</li></ul><aside>Remember: The mandate assigns responsibilities to the mission. Individual authority also depends on tasking, command arrangements and implementing guidance.</aside>"
+      }
+    },
+    {
+      "id": "core01-04",
+      "title": {
+        "vi": "4. Năm hoạt động hòa bình–an ninh",
+        "en": "4. Five peace and security activities"
+      },
+      "body": {
+        "vi": "<p>UN sử dụng nhiều công cụ trước, trong và sau xung đột. Hãy hiểu chức năng của từng hoạt động, đồng thời nhận ra chúng có thể diễn ra đồng thời và hỗ trợ lẫn nhau.</p><h3>4.1. Phòng ngừa xung đột — Conflict prevention</h3><p>Ngăn bất đồng, căng thẳng phát triển thành bạo lực hoặc ngăn xung đột tái diễn. Các biện pháp gồm đối thoại chính trị, đàm phán, trung gian hòa giải và ngoại giao phòng ngừa. Phát hiện sớm và xử lý nguyên nhân căng thẳng giúp bảo vệ những thành quả hòa bình đã có.</p><h3>4.2. Kiến tạo hòa bình — Peacemaking</h3><p>Giải quyết một cuộc xung đột đang tồn tại, chủ yếu bằng biện pháp ngoại giao để đưa các bên đến một thỏa thuận được thương lượng. Trung gian hòa giải và vai trò hỗ trợ đối thoại của Tổng Thư ký có thể góp phần thúc đẩy tiến trình này.</p><h3>4.3. Cưỡng chế hòa bình — Peace enforcement</h3><p>Sử dụng các biện pháp cưỡng chế được Hội đồng Bảo an cho phép nhằm xử lý đe dọa đối với hòa bình và an ninh quốc tế. Các biện pháp có thể gồm trừng phạt, phong tỏa và, như giải pháp cuối cùng, sử dụng lực lượng vũ trang. Hoạt động này có thể được cho phép mà không cần sự đồng thuận của các bên xung đột.</p><h3>4.4. Gìn giữ hòa bình — Peacekeeping</h3><p>Duy trì hòa bình đã đạt được và hỗ trợ thực hiện các thỏa thuận. Việc triển khai dựa trên sự đồng thuận và cam kết với một tiến trình hòa bình; các nhiệm vụ cụ thể được quy định trong mandate. Môi trường triển khai vẫn có thể còn bạo lực, nguy cơ tái xung đột và các mối đe dọa đối với dân thường.</p><h3>4.5. Xây dựng hòa bình — Peacebuilding</h3><p>Tạo điều kiện cho hòa bình bền vững bằng cách giải quyết nguyên nhân gốc rễ của xung đột và tăng năng lực của xã hội, thể chế quốc gia. Đây là quá trình lâu dài; các chủ thể quốc gia giữ vai trò trung tâm, UN hỗ trợ thay vì làm thay quyền quyết định của họ.</p><figure><img src=\"lessons/core/CORE-01/assets/peace-security-spectrum.jpeg\" alt=\"Sơ đồ UN thể hiện sự liên kết và chồng lấn giữa năm hoạt động hòa bình–an ninh\"><figcaption>Phổ hoạt động hòa bình–an ninh — CPTM 2025, Bài 1.2, trang PDF 16, hình slide 13.</figcaption></figure><p>Đọc hình từ trên xuống để nhận biết bối cảnh trước xung đột, xung đột, ngừng bắn và sau xung đột. Các vùng chồng lấn nhắc chúng ta rằng đây không phải năm bước bắt buộc theo một chiều. Gìn giữ hòa bình có thể cùng hỗ trợ đối thoại, phòng ngừa tái xung đột và xây dựng hòa bình ban đầu. Tiến trình chính trị xuyên suốt các hoạt động.</p>",
+        "en": "<p>The UN uses several tools before, during and after conflict. Understand each activity’s purpose and how activities may operate simultaneously and reinforce each other.</p><h3>4.1. Conflict prevention</h3><p>Prevention seeks to stop disputes and tensions from becoming violent, or to prevent a relapse into conflict. Measures include political dialogue, negotiation, mediation and preventive diplomacy. Early warning and action on sources of tension help protect gains already made.</p><h3>4.2. Peacemaking</h3><p>Peacemaking addresses an existing conflict, mainly through diplomatic action to bring hostile parties to a negotiated agreement. Mediation and the Secretary-General’s good offices can help advance this process.</p><h3>4.3. Peace enforcement</h3><p>Peace enforcement uses coercive measures authorized by the Security Council to address threats to international peace and security. Measures may include sanctions, blockades and, as a last resort, armed force. Such action may be authorized without the consent of the parties to the conflict.</p><h3>4.4. Peacekeeping</h3><p>Peacekeeping preserves peace already achieved and supports the implementation of agreements. Deployment rests on consent and commitment to a peace process, with specific tasks set out in the mandate. The operating environment may still contain violence, risks of renewed conflict and threats to civilians.</p><h3>4.5. Peacebuilding</h3><p>Peacebuilding creates conditions for sustainable peace by addressing root causes of conflict and strengthening national institutions and society. It is a long-term process centred on national actors. The UN supports them rather than replacing their ownership of decisions.</p><figure><img src=\"lessons/core/CORE-01/assets/peace-security-spectrum.jpeg\" alt=\"UN diagram showing linkages and overlaps among five peace and security activities\"><figcaption>The spectrum of peace and security activities — CPTM 2025, Lesson 1.2, PDF page 16, slide 13 illustration.</figcaption></figure><p>Read the diagram from top to bottom to identify pre-conflict, conflict, ceasefire and post-conflict contexts. Its overlapping areas show that these are not five compulsory steps in a fixed sequence. Peacekeeping may also support dialogue, prevent renewed conflict and contribute to early peacebuilding. A political process connects these activities.</p>"
+      }
+    },
+    {
+      "id": "core01-05",
+      "title": {
+        "vi": "5. Các loại hình phái bộ",
+        "en": "5. Types of missions"
+      },
+      "body": {
+        "vi": "<h3>5.1. Gìn giữ hòa bình truyền thống</h3><p>Thường tập trung giám sát ngừng bắn, theo dõi thực hiện thỏa thuận và tạo điều kiện để các bên duy trì ổn định. Thành phần quân sự giữ vai trò nổi bật; nhiệm vụ cụ thể phụ thuộc mandate. Việc tạo môi trường ổn định giúp các nỗ lực chính trị tiếp tục.</p><h3>5.2. Gìn giữ hòa bình đa chiều</h3><p>Kết hợp thành phần quân sự, cảnh sát và dân sự để hỗ trợ một tiến trình hòa bình phức tạp. Nhiệm vụ có thể bao gồm bảo vệ thường dân, hỗ trợ tiến trình chính trị, quyền con người, pháp quyền hoặc củng cố thể chế. Các thành phần cần phối hợp để đạt mục tiêu chung, đồng thời giữ đúng chức năng và thẩm quyền của mình.</p><h3>5.3. Chính quyền chuyển tiếp</h3><p>Là hình thức hiếm gặp của hoạt động đa chiều, trong đó UN tạm thời thực hiện một số chức năng quản lý nhà nước theo mandate. Không được suy ra rằng mọi phái bộ đều có quyền quản trị hoặc thay thế chính quyền sở tại.</p><h3>5.4. Phái bộ chính trị đặc biệt — SPM</h3><p>SPM hỗ trợ các mục tiêu chính trị như phòng ngừa xung đột, hòa giải và xây dựng hòa bình, dưới sự chỉ đạo của DPPA. SPM không phải phái bộ gìn giữ hòa bình. Khi làm việc với một hiện diện UN tại thực địa, trước hết cần xác định đúng loại hình, nhiệm vụ và đối tác phối hợp.</p>",
+        "en": "<h3>5.1. Traditional peacekeeping</h3><p>Traditional operations commonly monitor ceasefires, observe implementation of agreements and help the parties maintain stability. The military component has a prominent role, with specific tasks determined by the mandate. A more stable environment allows political efforts to continue.</p><h3>5.2. Multidimensional peacekeeping</h3><p>These operations combine military, police and civilian components to support a complex peace process. Mandated tasks may include civilian protection, political support, human rights, the rule of law or institution-building. Components coordinate towards shared objectives while respecting their distinct functions and authority.</p><h3>5.3. Transitional authority</h3><p>This is a rare form of multidimensional operation in which the UN temporarily performs certain State functions under a specific mandate. It does not mean that every mission has authority to govern or replace the host government.</p><h3>5.4. Special political missions — SPMs</h3><p>SPMs support political objectives such as conflict prevention, mediation and peacebuilding under DPPA’s direction. They are not peacekeeping operations. When engaging with a UN field presence, first identify its type, mandate and relevant coordination partners.</p>"
+      }
+    },
+    {
+      "id": "core01-06",
+      "title": {
+        "vi": "6. Đồng thuận và không thiên vị",
+        "en": "6. Consent and impartiality"
+      },
+      "body": {
+        "vi": "<p>Ba nguyên tắc cơ bản gắn bó với nhau: Sự đồng thuận của các bên; không thiên vị; không sử dụng vũ lực trừ khi tự vệ và bảo vệ nhiệm vụ. Chúng định hướng cách phái bộ hiện diện, ứng xử và thực hiện mandate.</p><h3>6.1. Sự đồng thuận — Consent</h3><p>Gìn giữ hòa bình triển khai với sự đồng thuận của các bên chính trong xung đột. Trong những bối cảnh mà không thể có sự đồng thuận của tất cả các bên, sự đồng ý của chính quyền quốc gia tiếp nhận là nền tảng thiết yếu, nhưng khó khăn về sự chấp nhận của các bên khác vẫn phải được nhận diện. Đồng thuận ở cấp quốc gia không bảo đảm mọi nhóm hoặc cộng đồng tại địa phương đều hợp tác.</p><p>Đồng thuận có thể suy giảm trong quá trình hoạt động. Những biểu hiện như cản trở tiếp cận, hạn chế di chuyển hoặc phản đối ngày càng mạnh cần được ghi nhận, xác minh và báo cáo qua kênh phái bộ. Mỗi thành viên góp phần duy trì sự hợp tác bằng hành vi đúng mực, trao đổi rõ ràng và quan hệ tôn trọng với cộng đồng.</p><h3>6.2. Không thiên vị — Impartiality</h3><p>Không thiên vị nghĩa là thực hiện mandate một cách công bằng và nhất quán, không ưu ái một bên vì quan hệ chính trị, dân tộc, tôn giáo hay lợi ích cá nhân. Nguyên tắc này không đòi hỏi phái bộ đứng ngoài trước hành vi vi phạm hoặc không hành động khi mandate yêu cầu hành động.</p><ul><li>Đánh giá hành vi và thông tin theo cùng một tiêu chuẩn.</li><li>Duy trì quan hệ làm việc phù hợp với các bên và cộng đồng.</li><li>Giải thích rõ mục đích hoạt động trong phạm vi được phép công bố.</li><li>Tránh phát ngôn, biểu tượng hoặc lợi ích cá nhân làm tổn hại hình ảnh công bằng của phái bộ.</li></ul><aside>Ghi nhớ: Có thể xử lý hành vi vi phạm của một bên mà vẫn giữ nguyên tắc không thiên vị, nếu hành động đúng mandate và áp dụng tiêu chuẩn nhất quán.</aside>",
+        "en": "<p>The three basic principles are interlinked: Consent of the parties; impartiality; and non-use of force except in self-defence and defence of the mandate. They guide the mission’s presence, conduct and implementation of its responsibilities.</p><h3>6.1. Consent</h3><p>Peacekeeping deploys with the consent of the main parties to the conflict. Where consent from all parties cannot be secured, the consent of the national host authority remains an essential foundation, while the challenges posed by other parties’ lack of acceptance must still be recognized. National-level consent does not guarantee cooperation from every local group or community.</p><p>Consent can deteriorate during an operation. Obstruction of access, restrictions on movement or growing opposition should be recorded, verified and reported through mission channels. Personnel help sustain cooperation through professional conduct, clear communication and respectful community relations.</p><h3>6.2. Impartiality</h3><p>Impartiality means implementing the mandate fairly and consistently, without favouring a party because of political, ethnic, religious or personal interests. It does not require the mission to ignore violations or refrain from action required by its mandate.</p><ul><li>Assess conduct and information against consistent standards.</li><li>Maintain appropriate working relations with parties and communities.</li><li>Explain the purpose of activities within authorized disclosure limits.</li><li>Avoid statements, symbols or personal interests that undermine the mission’s reputation for fairness.</li></ul><aside>Remember: Addressing a party’s violations can be consistent with impartiality when action follows the mandate and applies consistent standards.</aside>"
+      }
+    },
+    {
+      "id": "core01-07",
+      "title": {
+        "vi": "7. Không sử dụng vũ lực: Hiểu đúng ngoại lệ",
+        "en": "7. Non-use of force: Understanding the exceptions"
+      },
+      "body": {
+        "vi": "<h3>7.1. Nguyên tắc và thẩm quyền</h3><p>Nguyên tắc đầy đủ là: <b>Không sử dụng vũ lực, trừ khi tự vệ và bảo vệ nhiệm vụ.</b> Vì vậy, gìn giữ hòa bình không đồng nghĩa với việc tuyệt đối không được sử dụng vũ lực. Việc sử dụng vũ lực phải có căn cứ, đúng thẩm quyền và tuân thủ các quy định áp dụng.</p><p>Đối với thành phần quân sự, cần nắm quy tắc giao chiến (ROE). Đối với thành phần cảnh sát, cần nắm chỉ thị về sử dụng vũ lực (DUF) và hướng dẫn liên quan. Các văn bản này cụ thể hóa việc thực hiện thẩm quyền; một nhận thức chung về mandate không thay thế được chúng.</p><h3>7.2. Kiềm chế và giảm leo thang</h3><p>Khi sử dụng vũ lực theo thẩm quyền, phải kiềm chế, bảo đảm tính cần thiết và tương xứng với mục tiêu hợp pháp, lựa chọn mức độ phù hợp với tình hình, chú ý bảo vệ người không tham gia bạo lực. Cần giảm leo thang sớm và trở lại các biện pháp thuyết phục không bạo lực khi điều kiện cho phép. Việc báo cáo và trách nhiệm giải trình vẫn phải được thực hiện theo quy định.</p><h3>7.3. Gìn giữ hòa bình mạnh mẽ và cưỡng chế hòa bình</h3><p>Gìn giữ hòa bình mạnh mẽ (robust peacekeeping) có thể sử dụng vũ lực ở cấp chiến thuật khi được Hội đồng Bảo an cho phép, trong khuôn khổ đồng thuận chiến lược và để bảo vệ mandate. Cưỡng chế hòa bình có thể sử dụng vũ lực ở cấp chiến lược mà không cần sự đồng thuận của các bên. Việc một nghị quyết viện dẫn Chương VII không tự động biến phái bộ gìn giữ hòa bình thành hoạt động cưỡng chế hòa bình.</p><aside>Ghi nhớ: Bài học này giải thích nguyên tắc. Quyết định và hành động thực tế phải theo mandate, ROE/DUF, pháp luật áp dụng và hệ thống chỉ huy của nhiệm vụ cụ thể.</aside>",
+        "en": "<h3>7.1. Principle and authority</h3><p>The full principle is: <b>Non-use of force except in self-defence and defence of the mandate.</b> Peacekeeping therefore does not mean an absolute prohibition on force. Any use of force requires a valid basis, proper authority and compliance with applicable rules.</p><p>Military personnel must understand their rules of engagement (ROE). Police personnel must understand the directive on the use of force (DUF) and relevant guidance. These instruments guide the exercise of authority; general knowledge of the mandate does not replace them.</p><h3>7.2. Restraint and de-escalation</h3><p>When authorized force is used, personnel must exercise restraint, ensure necessity and proportionality to the legitimate objective, and act appropriately to the context while taking care to protect people not participating in violence. Seek early de-escalation and return to non-violent persuasion when conditions allow. Reporting and accountability obligations continue to apply.</p><h3>7.3. Robust peacekeeping and peace enforcement</h3><p>Robust peacekeeping may use force at the tactical level when authorized by the Security Council, within strategic consent and to defend the mandate. Peace enforcement may use force at the strategic level without the parties’ consent. Reference to Chapter VII in a resolution does not automatically turn a peacekeeping mission into a peace enforcement operation.</p><aside>Remember: This lesson explains principles. Actual decisions and actions must follow the specific mandate, ROE/DUF, applicable law and command arrangements.</aside>"
+      }
+    },
+    {
+      "id": "core01-08",
+      "title": {
+        "vi": "8. Tính chính danh, uy tín và vai trò sở tại",
+        "en": "8. Legitimacy, credibility and ownership"
+      },
+      "body": {
+        "vi": "<h3>8.1. Tính chính danh — Legitimacy</h3><p>Tính chính danh thể hiện cơ sở hợp pháp và sự chấp nhận đối với phái bộ. Hiến chương, luật pháp quốc tế và thẩm quyền được trao tạo nền tảng; hành vi của từng thành viên ảnh hưởng đến cách nền tảng ấy được cộng đồng nhìn nhận. Vi phạm kỷ luật hoặc lạm dụng quyền hạn làm suy yếu lòng tin vào cả phái bộ.</p><h3>8.2. Uy tín — Credibility</h3><p>Uy tín hình thành khi người dân và các bên tin rằng phái bộ có năng lực, đáng tin cậy và thực hiện được nhiệm vụ. Uy tín đòi hỏi sẵn sàng, phối hợp thống nhất, thông tin trung thực và thực hiện đúng cam kết. Không hứa những việc nằm ngoài mandate, nguồn lực hoặc quyền quyết định của mình.</p><h3>8.3. Vai trò làm chủ của quốc gia và địa phương</h3><p>Hòa bình bền vững cần sự tham gia thực chất của người dân và các chủ thể sở tại. Phái bộ cần lắng nghe nhiều nhóm, chú ý tiếng nói của phụ nữ, thanh niên và những cộng đồng dễ bị gạt ra ngoài. Tham vấn giúp hiểu ưu tiên thực tế và tránh áp đặt một giải pháp không phù hợp. Hỗ trợ phải góp phần tăng năng lực sở tại, không tạo sự lệ thuộc lâu dài.</p><h3>8.4. Những điểm phải mang theo sau bài học</h3><ol><li>Biết UN hoạt động vì mục đích gì và cơ quan nào quyết định nhiệm vụ phái bộ.</li><li>Hiểu mandate trước khi thực hiện phần việc được giao.</li><li>Nhận biết năm hoạt động hòa bình–an ninh và sự liên kết giữa chúng.</li><li>Giữ ba nguyên tắc cơ bản trong mọi hoạt động.</li><li>Bảo vệ tính chính danh và uy tín bằng hành vi chuyên nghiệp.</li><li>Tôn trọng vai trò làm chủ của quốc gia và cộng đồng sở tại.</li></ol>",
+        "en": "<h3>8.1. Legitimacy</h3><p>Legitimacy concerns the mission’s lawful basis and acceptance. The Charter, international law and authorized mandate provide a foundation; each person’s conduct affects how communities perceive it. Misconduct and abuse of authority undermine trust in the entire mission.</p><h3>8.2. Credibility</h3><p>Credibility exists when communities and parties believe the mission is capable, trustworthy and able to perform its mandate. It requires readiness, coordinated action, truthful communication and delivery on commitments. Do not promise outcomes beyond the mandate, available resources or your authority.</p><h3>8.3. National and local ownership</h3><p>Sustainable peace requires meaningful participation by people and institutions in the host country. Missions should listen to diverse groups, including women, young people and communities at risk of exclusion. Consultation reveals actual priorities and helps avoid imposing unsuitable solutions. Support should strengthen local capacity rather than create lasting dependence.</p><h3>8.4. What to take away</h3><ol><li>Know the UN’s purposes and which organ determines a peacekeeping mandate.</li><li>Understand the mandate before carrying out assigned tasks.</li><li>Recognize the five peace and security activities and their connections.</li><li>Uphold the three basic principles throughout your work.</li><li>Protect legitimacy and credibility through professional conduct.</li><li>Respect national and local ownership.</li></ol>"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "C1",
+      "title": "CPTM 2025 · Lesson 1.1 · UN Peacekeeping – Strategic Level",
+      "file": "lessons/core/CORE-01/sources/C1.pdf",
+      "pages": "4–19"
+    },
+    {
+      "id": "C2",
+      "title": "CPTM 2025 · Lesson 1.2 · Peace and Security Activities",
+      "file": "lessons/core/CORE-01/sources/C2.pdf",
+      "pages": "4–27"
+    },
+    {
+      "id": "C3",
+      "title": "CPTM 2025 · Lesson 1.3 · Principles of UN Peacekeeping",
+      "file": "lessons/core/CORE-01/sources/C3.pdf",
+      "pages": "4–21"
+    }
+  ],
+  "coverage": [
+    {
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "source": "C1"
+    },
+    {
+      "chapters": [
+        4,
+        5
+      ],
+      "source": "C2"
+    },
+    {
+      "chapters": [
+        6,
+        7,
+        8
+      ],
+      "source": "C3"
+    }
+  ],
+  "reader": "core01-four-tabs",
+  "bodyFormat": "html"
+}

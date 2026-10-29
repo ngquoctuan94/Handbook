@@ -1,0 +1,734 @@
+{
+  "schemaVersion": 2,
+  "id": "CORE-08",
+  "area": "core",
+  "groupKey": "CORE-M4",
+  "group": {
+    "vi": "Nền tảng nghiệp vụ cảnh sát UN",
+    "en": "UN policing foundations"
+  },
+  "title": {
+    "vi": "Sử dụng vũ lực, súng và bắt giữ, tạm giữ",
+    "en": "Use of force, firearms, arrest and detention"
+  },
+  "summary": {
+    "vi": "Sử dụng vũ lực và tước tự do đòi hỏi thẩm quyền, mục tiêu và bảo đảm rõ ràng. Bài học giải thích nguyên tắc quyết định, ngưỡng sử dụng súng, thủ tục, điều kiện giữ người và trách nhiệm bàn giao, báo cáo.",
+    "en": "Force and deprivation of liberty require clear authority, purpose and safeguards. Examine decision principles, firearm thresholds, procedures, custody conditions, handover and accountability."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "U41",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-020%20UNPOL%20STM%20Lesson%2010%20Use%20of%20Force%20and%20Firearms%20by%20UN%20Police.pdf",
+  "order": 403,
+  "sections": [
+    {
+      "id": "CORE-08-01",
+      "title": {
+        "vi": "1. Thẩm quyền và mục tiêu hợp pháp đi trước biện pháp",
+        "en": "1. Authority and lawful objectives come before measures"
+      },
+      "body": {
+        "vi": "### 1.1. Có năng lực không đồng nghĩa có quyền\nSử dụng vũ lực, bắt giữ và tạm giữ tác động trực tiếp đến tính mạng, thân thể và tự do. Vì vậy, cán bộ cần xác định căn cứ, mục tiêu và giới hạn trước khi lựa chọn biện pháp. Có trang bị, được huấn luyện hoặc được địa phương đề nghị không tự tạo thẩm quyền. Hoạt động phải nằm trong mandate, văn bản triển khai và pháp luật áp dụng.\n\nUNPOL thực hiện chức năng cảnh sát theo cách tiếp cận thực thi pháp luật. Không vì địa bàn có xung đột mà mọi hoạt động trở thành tác chiến quân sự hoặc có thể áp dụng quy tắc quân sự thay DUF. Cần hiểu chỉ thị sử dụng vũ lực của thành phần và phái bộ mình; không dùng kinh nghiệm một nơi khác thay văn bản áp dụng.\n\n### 1.2. Ba khái niệm dễ lẫn\n**Arrest** thường chỉ việc bắt theo cơ chế tư pháp, pháp luật có thẩm quyền. **Apprehension** trong thuật ngữ nhiệm vụ UN là đưa một người vào sự kiểm soát hoặc lưu giữ thực tế của nhân sự UN theo căn cứ được phép. **Detention** là tình trạng bị tước tự do, không được tự rời đi. Tên gọi không làm mất nghĩa vụ bảo vệ khi UN đã kiểm soát người đó, kể cả trong thời gian ngắn.\n\nCần phân biệt UNPOL hỗ trợ, giám sát cảnh sát sở tại với chính UN trực tiếp giữ người. Cán bộ không tự mang quyền bắt của quốc gia mình sang nhiệm vụ. SOP về xử lý người bị giữ hướng dẫn trách nhiệm và thủ tục; bản thân SOP không trao quyền bắt hoặc tạm giữ.\n\n### 1.3. Mục tiêu phải chính đáng và tiếp tục được kiểm tra\nBiện pháp phải phục vụ mục tiêu thực thi pháp luật hợp pháp, không nhằm trừng phạt tại chỗ, trả đũa, ép cung hoặc tạo uy thế. Thẩm quyền ban đầu không cho phép mọi biện pháp tiếp theo. Khi tình hình thay đổi, cần xem lại sự cần thiết, mức độ và căn cứ tiếp tục giữ người hoặc sử dụng vũ lực.\n\nKhông đồng nhất thận trọng với không hành động. Cán bộ vẫn phải thực hiện trách nhiệm bảo vệ và mệnh lệnh hợp pháp trong phạm vi được giao, đồng thời báo điểm chưa rõ và xin hướng dẫn đúng nơi. **Điểm cần nhớ:** Hành động có trách nhiệm bắt đầu bằng quyền được làm, mục tiêu cần đạt và giới hạn phải giữ.",
+        "en": "### 1.1. Capability does not create authority\nForce, arrest and detention affect life, bodily integrity and liberty. Establish authority, purpose and limits before selecting measures. Equipment, training or a local request does not independently confer powers. Actions must fit the mandate, implementing instruments and applicable law.\n\nUNPOL uses a law-enforcement approach. Conflict in the area does not convert every police activity into military operations or justify replacing police DUF with military rules. Know the directive applicable to your component and mission instead of substituting experience from elsewhere.\n\n### 1.2. Three distinct concepts\n**Arrest** generally concerns apprehension under competent legal or judicial authority. **Apprehension** in UN mission terminology places a person under effective UN control or custody on an authorized basis. **Detention** is deprivation of liberty without freedom to leave. Terminology does not remove safeguards when the UN exercises control, even briefly.\n\nDistinguish support to or monitoring of host-State arrests from direct UN custody. Domestic powers do not automatically transfer to the mission. Detention SOPs regulate procedures and responsibilities; they do not themselves confer apprehension or detention authority.\n\n### 1.3. Keep testing the lawful objective\nMeasures must serve a lawful policing purpose, not immediate punishment, revenge, coercive interrogation or displays of power. Initial authority does not authorize every subsequent measure. Reassess necessity, degree of force and continued custody as circumstances change.\n\nCaution does not justify abandoning authorized protection duties or lawful orders. Perform assigned responsibilities while raising uncertainties through competent channels. **Remember:** Accountable action begins with authority, a legitimate objective and defined limits."
+      },
+      "sourceIds": [
+        "U41",
+        "U42",
+        "DET2020"
+      ]
+    },
+    {
+      "id": "CORE-08-02",
+      "title": {
+        "vi": "2. Sáu nguyên tắc khi xem xét sử dụng vũ lực",
+        "en": "2. Six principles governing force"
+      },
+      "body": {
+        "vi": "### 2.1. Hợp pháp, cần thiết và tương xứng\n**Hợp pháp:** Phải có căn cứ cho phép, phù hợp pháp luật quốc tế và nhằm mục tiêu hợp pháp. Một yêu cầu trái pháp luật không được hợp pháp hóa bằng tên chiến dịch hoặc mệnh lệnh. **Cần thiết:** Cân nhắc biện pháp không dùng vũ lực khi có thể đạt mục tiêu; nếu vũ lực thực sự cần, chỉ dùng mức cần để đạt mục tiêu đó.\n\n**Tương xứng:** Xem mức độ gây hại của biện pháp có phù hợp với mục tiêu và nguy cơ thực tế hay không. Không hiểu là đáp trả cùng loại công cụ hoặc làm cho người kia chịu thiệt tương đương. Một biện pháp có khả năng đạt mục tiêu vẫn có thể không được phép nếu hại gây ra vượt giới hạn tương xứng.\n\n### 2.2. Không phân biệt, phòng ngừa và trách nhiệm\n**Không phân biệt đối xử:** Không lựa chọn người hoặc mức độ vũ lực theo định kiến dân tộc, giới, tôn giáo hoặc tình trạng xã hội. Phải căn cứ hành vi và nguy cơ của tình huống. **Phòng ngừa:** Chuẩn bị để tránh hoặc giảm nhu cầu sử dụng vũ lực và giảm hại, gồm thông tin, trao đổi, nhân sự đủ năng lực, trang bị phù hợp và hỗ trợ y tế.\n\n**Trách nhiệm giải trình:** Quyết định, hành động và hậu quả phải được ghi nhận, báo cáo và xem xét theo cơ chế. Người chỉ huy phải giao việc rõ, huấn luyện, kiểm tra và xử lý thông tin về sai phạm. Cán bộ phải báo đúng sự thật, kể cả khi thông tin bất lợi cho đơn vị.\n\n### 2.3. Đánh giá liên tục, không tăng mức theo quán tính\nKhông có một thang biện pháp cho phép cứ không được đáp lời là tự động tăng mức. Mức độ nguy hiểm, khả năng đạt mục tiêu bằng cách khác và người xung quanh có thể thay đổi rất nhanh. Phải đánh giá lại để giảm hoặc chấm dứt vũ lực khi không còn cần thiết; không tiếp tục chỉ vì đã bắt đầu.\n\nBiện pháp ít sát thương vẫn có thể gây chết người hoặc thương tích nghiêm trọng. Cần huấn luyện, điều kiện sử dụng và giám sát phù hợp; nhãn trang bị không thay thế đánh giá nguy cơ. Người đã bị kiểm soát không mất quyền; vũ lực không được dùng để trừng phạt họ. **Điểm cần nhớ:** Sáu nguyên tắc áp dụng đồng thời, không chọn nguyên tắc thuận lợi rồi bỏ các giới hạn khác.",
+        "en": "### 2.1. Legality, necessity and proportionality\n**Legality:** Force requires an adequate legal basis, compliance with international law and a lawful objective. A campaign title or order cannot legalize unlawful conduct. **Necessity:** Use non-violent means where they can achieve the objective; if force is necessary, limit it to what is required.\n\n**Proportionality:** Consider the relationship between likely harm, the legitimate objective and the actual threat. It is not matching weapons or inflicting equivalent suffering. An effective measure may still be impermissible because its harmful effects exceed proportionality limits.\n\n### 2.2. Non-discrimination, precaution and accountability\n**Non-discrimination:** Decisions must follow conduct and actual risks rather than ethnic, gender, religious or social prejudice. **Precaution:** Plan to avoid or reduce force and harm through information, engagement, competent personnel, suitable equipment and medical support.\n\n**Accountability:** Decisions, conduct and consequences require recording, reporting and review. Commanders must task, train and supervise clearly and address misconduct. Personnel must report honestly even when findings are unfavorable to the unit.\n\n### 2.3. Reassess rather than escalate mechanically\nNo fixed ladder authorizes automatic escalation when someone fails to respond. Threats, alternatives and bystander risks change. Reduce or stop force when it is no longer necessary rather than continuing because it has begun.\n\nLess-lethal equipment can still kill or cause serious injury. Training, authorized conditions and supervision remain essential. Persons under control retain rights; force cannot punish them. **Remember:** The six principles operate together, not selectively."
+      },
+      "sourceIds": [
+        "U41"
+      ]
+    },
+    {
+      "id": "CORE-08-03",
+      "title": {
+        "vi": "3. Súng và yêu cầu bảo vệ tính mạng",
+        "en": "3. Firearms and protection of life"
+      },
+      "body": {
+        "vi": "### 3.1. Ngưỡng sử dụng súng đối với người\nSúng luôn có khả năng gây chết người. Sử dụng súng đối với người chỉ được xem xét trong các điều kiện nghiêm ngặt: Tự vệ hoặc bảo vệ người khác trước nguy cơ sắp xảy ra gây chết người hoặc thương tích nghiêm trọng; ngăn tội phạm đặc biệt nghiêm trọng gây đe dọa lớn đến tính mạng; hoặc bắt, ngăn trốn đối với người tạo ra nguy cơ như vậy và chống lại thẩm quyền, khi biện pháp ít nghiêm trọng hơn không đủ.\n\nCần phân biệt việc sử dụng vũ lực có khả năng gây chết người với cố ý dùng súng gây chết người. Trường hợp cố ý gây chết người chỉ được phép khi thực sự không thể tránh để bảo vệ tính mạng. Đây là ngưỡng đặc biệt chặt chẽ, không phải quyền bắn vì người bị nghi phạm tội nghiêm trọng hoặc không chấp hành yêu cầu.\n\n### 3.2. Những suy luận không được sử dụng\nKhông dùng súng chỉ để bảo vệ tài sản, chỉ để buộc chấp hành, trừng phạt hoặc ngăn một người bỏ chạy không tạo nguy cơ tương ứng đối với tính mạng hay thương tích nghiêm trọng. Sự có mặt trong một đám đông có bạo lực cũng không tự khiến mọi người thành đối tượng được phép sử dụng súng.\n\nPhải xem nguy cơ do hành vi cụ thể, kể cả đối với người xung quanh. Nhãn “đối tượng nguy hiểm” không thay thế thông tin về khả năng, ý định và mức độ tức thời của đe dọa trong tình huống. Khi nguy cơ làm căn cứ sử dụng súng không còn, việc tiếp tục phải được đánh giá lại theo đúng điều kiện pháp lý.\n\n### 3.3. Cảnh báo và trách nhiệm sau hành động\nTrong điều kiện áp dụng, phải nhận diện là người thực thi pháp luật và cảnh báo rõ ý định sử dụng súng, cho thời gian đáp ứng phù hợp. Ngoại lệ chỉ trong những hoàn cảnh như cảnh báo làm tăng nguy cơ không thích đáng đối với cán bộ, gây nguy cơ chết người hoặc hại nghiêm trọng cho người khác, hoặc rõ ràng không phù hợp, vô ích. Không biến ngoại lệ thành thói quen.\n\nKhi có người bị thương, phải bảo đảm trợ giúp và y tế sớm nhất có thể, đồng thời xử lý an toàn, báo cáo và bảo toàn thông tin theo nhiệm vụ. **Điểm cần nhớ:** Bài học giải thích chuẩn mực quyết định; khả năng sử dụng trang bị an toàn còn đòi hỏi huấn luyện thực hành, kiểm tra và DUF áp dụng.",
+        "en": "### 3.1. The threshold for firearms against persons\nFirearms are always potentially lethal. Their use against persons is restricted to strict conditions: Defence of self or others against imminent death or serious injury; prevention of a particularly serious crime gravely threatening life; or arresting or preventing escape of a person presenting such danger and resisting authority, where less extreme means are insufficient.\n\nDistinguish potentially lethal force from intentionally lethal firearm use. Intentional lethal use is permitted only when strictly unavoidable to protect life. Suspicion of a serious offence or non-compliance alone does not meet that threshold.\n\n### 3.2. Invalid inferences\nDo not use firearms solely to protect property, secure obedience, punish or stop a fleeing person who does not present the relevant danger. Presence in a violent crowd does not make every participant a permissible target of firearm use.\n\nAssess specific conduct and risks, including bystanders. A dangerous-person label cannot replace an assessment of capability, intent and immediacy. Reassess when the threat underpinning firearm use ends.\n\n### 3.3. Warnings and subsequent duties\nWhere applicable, identify as law enforcement and clearly warn of the intention to use firearms, allowing adequate time for compliance. Exceptions concern circumstances such as undue danger to officers, danger of death or serious harm to others, or a warning being clearly inappropriate or pointless. Exceptions must not become routine.\n\nProvide assistance and medical aid as soon as possible, alongside scene safety, reporting and preservation of information under tasking. **Remember:** This lesson addresses decision standards; safe equipment use also requires practical training, assessment and applicable DUF."
+      },
+      "sourceIds": [
+        "U41",
+        "BPUFF"
+      ]
+    },
+    {
+      "id": "CORE-08-04",
+      "title": {
+        "vi": "4. Bắt, kiểm soát người và bảo đảm thủ tục",
+        "en": "4. Arrest, apprehension and due process"
+      },
+      "body": {
+        "vi": "### 4.1. Căn cứ cụ thể, không giữ để cho tiện\nTrước khi tước tự do, cần xác định thẩm quyền, căn cứ và mục đích. Không giữ người chỉ vì thuận tiện xác minh, vì thuộc một nhóm xã hội hoặc để gây sức ép cho người khác. Bắt hoặc kiểm soát người không đồng nghĩa đã kết tội; phải tôn trọng suy đoán vô tội và các quyền áp dụng.\n\nSự cần thiết và tương xứng còn liên quan bản thân quyết định tước tự do. Không mặc định mọi người bị nghi có vi phạm đều cần bị giữ, hoặc cứ đã kiểm soát là phải kéo dài. Cần xem biện pháp phù hợp và xem xét lại căn cứ theo pháp luật, SOP và thẩm quyền.\n\n### 4.2. Người bị giữ cần biết và hiểu\nThông báo lý do và quyền theo yêu cầu áp dụng bằng ngôn ngữ người đó hiểu, có hỗ trợ phiên dịch phù hợp khi cần. Một câu đọc nhanh bằng ngôn ngữ họ không hiểu chưa thực hiện được mục đích bảo đảm thủ tục. Không dùng sự im lặng hoặc khó khăn ngôn ngữ làm bằng chứng có tội.\n\nGhi nhận danh tính hoặc thông tin nhận dạng đang có, thời điểm bắt đầu kiểm soát, nơi, lý do, người thực hiện, tình trạng sức khỏe và tài sản tiếp nhận. Nếu có điều chưa rõ, ghi đúng trạng thái; không tự sửa tuổi hoặc nhận dạng cho khớp hồ sơ. Trẻ em và người cần hỗ trợ có yêu cầu bảo vệ riêng.\n\n### 4.3. Kiểm tra, tài sản và trợ giúp\nViệc kiểm tra người, tiếp nhận tài sản và sử dụng công cụ phải có căn cứ, phù hợp nhu cầu an toàn, nhân phẩm và quy trình. Bài này không thay huấn luyện kỹ thuật; cán bộ chỉ thực hiện phần việc được giao và đủ năng lực. Lập danh mục, bảo quản tài sản, ghi nhận chuyển giao để tránh mất mát hoặc tranh chấp.\n\nNgười bị giữ cần được tiếp cận trợ giúp pháp lý, kiểm tra tính hợp pháp của việc tước tự do và các bảo đảm liên quan theo cơ chế áp dụng. Liên hệ gia đình hoặc người được chỉ định cần thực hiện theo quyền, sự đồng ý và quy định, có cân nhắc bảo vệ. **Điểm cần nhớ:** Thủ tục và hồ sơ bắt đầu từ lúc kiểm soát thực tế, không đợi đưa tới nơi giữ mới tính trách nhiệm.",
+        "en": "### 4.1. A specific basis, not convenience\nBefore depriving liberty, establish authority, grounds and purpose. Do not detain merely for convenient verification, group identity or pressure on another person. Arrest or apprehension is not conviction; presumption of innocence and applicable rights remain.\n\nNecessity and proportionality also govern the decision to deprive liberty. Not every suspected breach requires custody, and initial apprehension does not justify continued detention. Review grounds and alternatives under applicable law, SOPs and authority.\n\n### 4.2. Ensure understanding\nCommunicate reasons and rights in a language the person understands, with suitable interpretation when needed. Rapidly reading an incomprehensible notice does not fulfil its purpose. Silence or language difficulties do not establish guilt.\n\nRecord available identity, the start of effective control, location, reasons, personnel, health and property. Mark uncertainty rather than altering age or identity to fit a form. Children and persons needing assistance require additional safeguards.\n\n### 4.3. Searches, property and assistance\nSearches, property handling and restraints require authority, safety justification, dignity and proper procedures. Perform only assigned tasks within competence; this lesson does not replace practical training. Inventory and safeguard property and document transfers.\n\nProvide applicable access to legal assistance, review of detention legality and related safeguards. Family or designated-person notification follows rights, consent, rules and protection considerations. **Remember:** Duties and records begin at effective control, not only at arrival in a holding facility."
+      },
+      "sourceIds": [
+        "U42",
+        "DET2020"
+      ]
+    },
+    {
+      "id": "CORE-08-05",
+      "title": {
+        "vi": "5. Điều kiện giữ người và thời hạn",
+        "en": "5. Custody conditions and time limits"
+      },
+      "body": {
+        "vi": "### 5.1. Nhân đạo trong toàn bộ thời gian kiểm soát\nNgười bị giữ phải được bảo vệ khỏi tra tấn, đối xử tàn nhẫn, làm nhục, bạo lực và bóc lột. Không có tình trạng khẩn cấp, yêu cầu thông tin hoặc mệnh lệnh nào cho phép tra tấn. Nước, thức ăn, vệ sinh, y tế và điều kiện phù hợp là trách nhiệm cần được tổ chức, không phải quyền lợi phụ thuộc thái độ hợp tác.\n\nCần theo dõi tình trạng sức khỏe và nhu cầu riêng, bố trí tách biệt phù hợp tiêu chuẩn và bảo vệ khỏi hại giữa những người bị giữ. Trẻ em phải có bảo đảm riêng; không coi việc nhốt chung là giải pháp thuận tiện. Cần báo sớm khi điều kiện không đáp ứng, không giấu vấn đề để tiếp tục giữ.\n\n### 5.2. Tạm thời và khẩn trương xử lý\nĐối với việc giữ người bởi phái bộ UN trong khuôn khổ SOP về xử lý tạm giữ, phải tổ chức bàn giao hợp lệ hoặc trả tự do sớm nhất có thể. Thời hạn chung trong SOP 2020.13 là không quá **96 giờ** từ khi bắt đầu kiểm soát. Với **trẻ em, phải nỗ lực bàn giao chăm sóc an toàn trong 48 giờ** theo phụ lục riêng; phụ lục cũng quy định trường hợp ngoại lệ bảo vệ rất chặt, do người đứng đầu phái bộ xử lý cùng đầu mối bảo vệ trẻ em. Cán bộ không được tự gia hạn. Đây không phải thời gian được mặc nhiên giữ đủ trước khi xem xét xử lý.\n\nCác mốc này thuộc cơ chế giữ người của phái bộ, không phải quy định chung cho mọi cảnh sát quốc gia hoặc mọi thủ tục tố tụng. Cán bộ phải biết văn bản và đầu mối áp dụng cho vị trí; không tự gia hạn, chuyển nơi giữ để tính lại giờ hoặc chờ hết hạn mới báo khó khăn. Nếu chưa đủ điều kiện bàn giao, phải kích hoạt xử lý có thẩm quyền ngay.\n\n### 5.3. Hồ sơ và kiểm tra liên tục\nDuy trì thông tin về người bị giữ ở đâu, tình trạng ra sao, ai chịu trách nhiệm, căn cứ, thời điểm và các lần di chuyển. Không giữ bí mật ngoài sổ. Việc chuyển giữa cơ sở UN không xóa trách nhiệm hoặc bắt đầu lại thời hạn ban đầu.\n\nKhi giám sát, cố vấn cảnh sát sở tại, cần xem hồ sơ, điều kiện, quyền và dấu hiệu sai phạm trong phạm vi được giao; phối hợp chuyên môn khi cần. Không dùng việc người bị giữ không khiếu nại làm bằng chứng mọi điều kiện đều tốt. **Điểm cần nhớ:** Kiểm soát con người kéo theo trách nhiệm về an toàn, nhân đạo và thủ tục trong từng giờ, không chỉ ở thời điểm bắt đầu.",
+        "en": "### 5.1. Humane treatment throughout control\nProtect detainees from torture, cruel or degrading treatment, violence and exploitation. Emergencies, information needs and orders cannot justify torture. Water, food, hygiene, medical care and appropriate conditions are responsibilities, not rewards for cooperation.\n\nMonitor health and specific needs, ensure appropriate separation and prevent harm between detainees. Children require distinct safeguards. Report inadequate conditions early instead of concealing them to prolong custody.\n\n### 5.2. Temporary custody requires prompt action\nUnder the UN field-mission detention framework, arrange lawful handover or release as soon as possible. **SOP 2020.13** sets a general maximum of **96 hours** from initial apprehension. For **children, every effort must secure safe care handover within 48 hours**. The child annex provides narrowly defined protective exceptions, addressed by the Head of Mission with the child-protection adviser or focal point, not independent extensions by officers. These periods are not permissions to delay earlier action.\n\nThese limits concern UN mission custody, not universal national police or criminal-procedure deadlines. Know the instruments and contacts applicable to your post. Do not independently extend custody, reset time through relocation or wait until expiry to report obstacles. Escalate handover problems promptly.\n\n### 5.3. Maintain records and review\nKeep traceable records of location, condition, responsible personnel, grounds, timing and movements. Secret or unregistered custody is impermissible. Transfer between UN facilities does not erase responsibility or restart the original clock.\n\nWhen monitoring or advising host-State police, examine records, conditions, rights and concerns within tasking, involving specialists as needed. Lack of complaints does not prove adequate treatment. **Remember:** Effective control creates continuing safety, humane-treatment and procedural responsibilities, hour by hour."
+      },
+      "sourceIds": [
+        "U42",
+        "DET2020"
+      ]
+    },
+    {
+      "id": "CORE-08-06",
+      "title": {
+        "vi": "6. Chuyển giao không làm kết thúc trách nhiệm bảo vệ",
+        "en": "6. Handover and continuing protection duties"
+      },
+      "body": {
+        "vi": "### 6.1. Kiểm tra tính hợp lệ và nguy cơ từng trường hợp\nBàn giao phải theo thẩm quyền, cơ chế và thỏa thuận áp dụng, có người tiếp nhận rõ, hồ sơ và điều kiện bảo đảm. Không chỉ gọi một đơn vị tới nhận rồi coi trách nhiệm đã xong. Cần đánh giá nguy cơ đối với từng người khi bàn giao, với thông tin và khuyến nghị chuyên môn cần thiết.\n\nKhông bàn giao khi có nguy cơ thực sự dẫn đến tra tấn, đối xử tàn nhẫn, mất tích, hành quyết tùy tiện hoặc các hại nghiêm trọng thuộc giới hạn pháp lý và chính sách UN. Một lời cam kết chung không tự khắc phục được nguy cơ có căn cứ. Đồng thời, nguy cơ không cho phép cá nhân tự giữ vô thời hạn; phải báo sớm để cấp có thẩm quyền quyết định hợp pháp.\n\n### 6.2. Đầu mối và quyết định\nChỉ huy, đầu mối tạm giữ, pháp lý, nhân quyền và các bộ phận liên quan có trách nhiệm theo SOP. Quyết định bàn giao từng trường hợp thuộc cơ chế lãnh đạo được quy định; cán bộ cấp thực hiện không tự tạo tuyến phê duyệt riêng. Với trẻ em, phải phối hợp bảo vệ trẻ em và đối tác thích hợp, không mặc định đưa vào hệ thống giữ người lớn.\n\nNếu cơ quan sở tại không tiếp nhận đúng điều kiện hoặc nguy cơ không được giải quyết, cần báo ngay qua đầu mối để có quyết định, bao gồm trả tự do khi quy định yêu cầu. Mục tiêu là xử lý hợp pháp và an toàn trong thời hạn, không tìm cách đẩy trách nhiệm sang nơi khác.\n\n### 6.3. Ghi nhận và theo dõi sau bàn giao\nHồ sơ cần cho biết người được chuyển, căn cứ, thời gian, nơi, người giao nhận, tình trạng, tài sản và nội dung bảo đảm liên quan. Thông tin nhạy cảm chỉ chuyển theo mục đích và quyền truy cập. Theo dõi sau bàn giao giúp phát hiện việc thực hiện bảo đảm và nhu cầu can thiệp; một chữ ký nhận chưa chứng minh người đó tiếp tục được đối xử đúng.\n\n**Điểm cần nhớ:** Bàn giao là một quyết định bảo vệ có căn cứ pháp lý và nguy cơ, không chỉ một bước vận chuyển. Nhận diện khó khăn sớm giúp xử lý đúng hạn mà không đánh đổi nhân quyền.",
+        "en": "### 6.1. Assess legality and individual risk\nHandover requires authorized arrangements, an identified recipient, records and safeguards. Summoning another unit does not end responsibility. Assess each person’s handover risks using relevant information and specialist advice.\n\nDo not hand over where a real risk of torture, ill-treatment, disappearance, arbitrary execution or other prohibited serious harm exists. General assurances do not automatically resolve credible risk. Risk also does not authorize individuals to detain indefinitely: Escalate early for a lawful decision.\n\n### 6.2. Contacts and decisions\nCommanders, detention focal points, legal, human rights and other personnel have SOP-defined responsibilities. Individual handovers follow the prescribed leadership decision mechanism, not a locally invented approval route. Child cases require child-protection coordination and appropriate partners rather than default transfer to adult detention.\n\nReport refusal of proper conditions or unresolved risks promptly for an authorized decision, including release where required. Aim for lawful, safe resolution within time limits, not transfer of responsibility elsewhere.\n\n### 6.3. Records and post-handover monitoring\nDocument identity, grounds, timing, location, responsible parties, condition, property and relevant safeguards. Transfer sensitive information only for authorized purposes. Follow-up checks safeguard implementation; a receipt alone does not establish continued proper treatment.\n\n**Remember:** Handover is a legal and protection decision, not merely transport. Early identification of obstacles supports timely action without trading away rights."
+      },
+      "sourceIds": [
+        "U42",
+        "DET2020"
+      ]
+    },
+    {
+      "id": "CORE-08-07",
+      "title": {
+        "vi": "7. Báo cáo, xem xét và phòng ngừa tái diễn",
+        "en": "7. Reporting, review and prevention"
+      },
+      "body": {
+        "vi": "### 7.1. Sau sử dụng vũ lực vẫn còn nhiệm vụ\nCần bảo đảm hỗ trợ người bị ảnh hưởng, xử lý an toàn, báo cáo và bảo toàn thông tin theo phân công. Báo cáo nêu điều đã quan sát, căn cứ quyết định, biện pháp, thời điểm, thay đổi tình hình, thương tích đã biết và trợ giúp đã thực hiện. Phân biệt quan sát với thông tin người khác cung cấp hoặc điều chưa xác minh.\n\nKhông bỏ tình tiết bất lợi, thống nhất một câu chuyện để bảo vệ nhau hoặc ghi thương tích theo suy đoán. Việc xem xét cần khả năng truy nguyên; tài sản và thông tin liên quan phải được bảo vệ. Không đưa hình người bị giữ hoặc người bị thương lên mạng để minh họa thành tích hoặc làm nhục.\n\n### 7.2. Trách nhiệm cá nhân và chỉ huy\nCán bộ chịu trách nhiệm về hành động và việc báo cáo đúng. Người chỉ huy chịu trách nhiệm tổ chức, giao việc, huấn luyện, giám sát và phản ứng trước thông tin sai phạm trong phạm vi áp dụng. Thực hiện mệnh lệnh không xóa mọi trách nhiệm; mệnh lệnh rõ ràng trái pháp luật không được thi hành.\n\nKhi thấy dấu hiệu sai phạm của đồng nghiệp hoặc lực lượng sở tại, cần thực hiện trách nhiệm bảo vệ, báo và phối hợp theo thẩm quyền. Trong hỗ trợ lực lượng ngoài UN, xem cả nghĩa vụ HRDDP; không tiếp tục hỗ trợ như cũ khi nguy cơ đã thay đổi mà không đưa vào rà soát. Không trả đũa người báo cáo hoặc người cung cấp thông tin.\n\n### 7.3. Học từ sự cố và kiểm tra khả năng sẵn sàng\nRà soát cần tìm cả nguyên nhân tổ chức: Thông tin chưa đủ, kế hoạch yếu, giao việc mơ hồ, trang bị không phù hợp, thiếu y tế hoặc huấn luyện chưa đáp ứng. Xác định biện pháp, người thực hiện và cách kiểm tra cải thiện; không chỉ yêu cầu rút kinh nghiệm chung.\n\nCán bộ cần biết văn bản áp dụng, giới hạn vị trí, kênh báo khẩn và yêu cầu thực hành. **Kết thúc bài:** Chuyên nghiệp không đồng nghĩa dùng vũ lực nhanh hoặc tránh mọi can thiệp. Chuyên nghiệp là thực hiện mục tiêu hợp pháp bằng biện pháp cần thiết, tương xứng, có bảo vệ và chịu trách nhiệm từ quyết định ban đầu đến xử lý sau cùng.",
+        "en": "### 7.1. Duties continue after force\nAssist affected people, secure safety, report and preserve relevant information within tasking. Explain observations, decision grounds, measures, timing, changed circumstances, known injuries and assistance. Separate direct knowledge from others’ accounts and uncertainty.\n\nDo not omit adverse facts, coordinate a false account or invent injury explanations. Preserve traceability, property and information. Publishing images of detainees or injured people for humiliation or publicity is unacceptable.\n\n### 7.2. Individual and command responsibility\nOfficers remain responsible for conduct and honest reporting. Commanders must organize, task, train, supervise and respond to misconduct information under applicable rules. Orders do not erase all responsibility; manifestly unlawful orders must not be obeyed.\n\nAddress concerns about colleagues or host-State personnel through authorized protection and reporting arrangements. Support to non-UN forces also requires relevant HRDDP review when risk changes. Do not retaliate against reporters or sources.\n\n### 7.3. Learn and check readiness\nReview organizational causes as well as individual conduct: Information gaps, weak plans, unclear tasking, unsuitable equipment, insufficient medical support or training. Assign corrective action, responsibility and verification rather than generic reminders alone.\n\nKnow applicable instruments, role limits, urgent contacts and practical requirements. **Retain:** Professionalism is neither rapid force nor avoidance of every intervention. It means pursuing lawful objectives through necessary, proportionate, safeguarded action with accountability throughout."
+      },
+      "sourceIds": [
+        "U41",
+        "U42"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "U41",
+      "title": "Lesson 10 Use of Force and Firearms by UN Police",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-020%20UNPOL%20STM%20Lesson%2010%20Use%20of%20Force%20and%20Firearms%20by%20UN%20Police.pdf",
+      "year": "2021",
+      "publisher": "United Nations UNPOL STM",
+      "format": "pdf",
+      "pages": 45,
+      "pdf_name": "U41.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "U42",
+      "title": "Lesson 11 Apprehension, Arrest and Detention in UN Peace Operations",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-022%20UNPOL%20STM%20Lesson%2011%20Apprehension,%20Arrest%20and%20Detention%20in%20UN%20Peace%20Operations.pdf",
+      "year": "2021",
+      "publisher": "United Nations UNPOL STM",
+      "format": "pdf",
+      "pages": 37,
+      "pdf_name": "U42.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "DET2020",
+      "title": "SOP 2020.13: Handling of Detention, including Annex B on children",
+      "url": "https://resourcehub01.blob.core.windows.net/$web/Policy%20and%20Guidance/corepeacekeepingguidance/Security/Safety%20and%20Security%20Management/2020.13%20Handling%20of%20Detention%20in%20United%20Nations%20Peacekeeping%20Operations%20and%20Special%20Political%20Missions%20(SOP).pdf",
+      "year": "2020 / effective 2021",
+      "publisher": "United Nations DPO / DPPA / DSS",
+      "format": "pdf",
+      "pages": 47
+    },
+    {
+      "id": "BPUFF",
+      "title": "Basic Principles on the Use of Force and Firearms by Law Enforcement Officials",
+      "url": "https://www.ohchr.org/sites/default/files/Documents/ProfessionalInterest/firearms.pdf",
+      "year": "1990",
+      "publisher": "United Nations / OHCHR",
+      "format": "pdf"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "SOP xử lý người bị giữ có tự trao quyền bắt người không?",
+        "en": "Does a detention-handling SOP independently grant apprehension powers?"
+      },
+      "options": [
+        {
+          "vi": "Không; thẩm quyền phải có căn cứ riêng trong cơ chế áp dụng.",
+          "en": "No; authority requires its own applicable legal basis."
+        },
+        {
+          "vi": "Có, nếu có nơi giữ và đủ quân số.",
+          "en": "Yes, if facilities and staffing are available."
+        },
+        {
+          "vi": "Có, nếu cán bộ biết thủ tục.",
+          "en": "Yes, if officers know the procedure."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "SOP tổ chức cách xử lý khi đã có thẩm quyền; năng lực và quy trình không tự tạo quyền. Xem mục 1.",
+        "en": "SOPs regulate handling under existing authority; capability and procedure do not create powers. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Khi UN kiểm soát thực tế một người trong thời gian ngắn, nghĩa vụ bảo vệ có phát sinh không?",
+        "en": "Do safeguards apply during brief effective UN control of a person?"
+      },
+      "options": [
+        {
+          "vi": "Có; tên gọi và thời gian ngắn không xóa trách nhiệm.",
+          "en": "Yes; terminology and brief duration do not remove duties."
+        },
+        {
+          "vi": "Chỉ khi đã đưa vào cơ sở giữ.",
+          "en": "Only after arrival at a holding facility."
+        },
+        {
+          "vi": "Chỉ khi hồ sơ dùng từ detention.",
+          "en": "Only if records use the term detention."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Nghĩa vụ liên quan thực tế tước tự do, không chỉ nhãn hành chính. Xem mục 1.",
+        "en": "Duties follow actual deprivation of liberty, not administrative labels alone. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Tương xứng trong sử dụng vũ lực có nghĩa gì?",
+        "en": "What does proportionality in force mean?"
+      },
+      "options": [
+        {
+          "vi": "Dùng mọi biện pháp có khả năng đạt mục tiêu.",
+          "en": "Use any measure capable of achieving the objective."
+        },
+        {
+          "vi": "Đáp trả bằng đúng loại công cụ bên kia sử dụng.",
+          "en": "Respond with the same type of instrument."
+        },
+        {
+          "vi": "Đánh giá mức hại so với mục tiêu hợp pháp và nguy cơ thực tế.",
+          "en": "Assess harm in relation to the lawful objective and actual threat."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Hiệu quả không đủ chứng minh hợp pháp; mức hại vẫn phải trong giới hạn tương xứng. Xem mục 2.",
+        "en": "Effectiveness alone does not establish legality; harm must remain proportionate. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Khi tình hình thay đổi, mức vũ lực phải được xem thế nào?",
+        "en": "How should force be treated when circumstances change?"
+      },
+      "options": [
+        {
+          "vi": "Tiếp tục mức đã chọn để giữ nhất quán.",
+          "en": "Continue the original level for consistency."
+        },
+        {
+          "vi": "Đánh giá lại và giảm hoặc dừng khi không còn cần thiết.",
+          "en": "Reassess and reduce or stop when no longer necessary."
+        },
+        {
+          "vi": "Tăng tự động nếu người đó chưa đáp lời.",
+          "en": "Escalate automatically if no reply is received."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Không có thang tăng mức tự động; nguyên tắc cần thiết áp dụng liên tục. Xem mục 2.",
+        "en": "There is no automatic escalation ladder; necessity is continuous. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Chỉ có nguy cơ mất tài sản có đủ căn cứ dùng súng đối với người không?",
+        "en": "Does risk to property alone justify firearms against a person?"
+      },
+      "options": [
+        {
+          "vi": "Có nếu tài sản thuộc UN.",
+          "en": "Yes, if the property belongs to the UN."
+        },
+        {
+          "vi": "Có nếu trước đó đã cảnh báo.",
+          "en": "Yes, if a warning was given."
+        },
+        {
+          "vi": "Không; phải đáp ứng ngưỡng nghiêm ngặt bảo vệ tính mạng và điều kiện liên quan.",
+          "en": "No; strict life-protection thresholds and related conditions apply."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Cảnh báo hoặc sở hữu tài sản không thay thế ngưỡng pháp lý sử dụng súng. Xem mục 3.",
+        "en": "A warning or ownership does not replace the legal firearm threshold. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Cố ý sử dụng súng gây chết người chịu điều kiện nào?",
+        "en": "What condition governs intentional lethal firearm use?"
+      },
+      "options": [
+        {
+          "vi": "Khi người bị nghi có tiền án nghiêm trọng.",
+          "en": "When the suspect has a serious criminal record."
+        },
+        {
+          "vi": "Khi thuận tiện hơn các biện pháp khác.",
+          "en": "When more convenient than alternatives."
+        },
+        {
+          "vi": "Chỉ khi thực sự không thể tránh để bảo vệ tính mạng.",
+          "en": "Only when strictly unavoidable to protect life."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Đây là ngưỡng cao hơn việc dùng vũ lực có khả năng gây chết người; nhãn đối tượng không đủ. Xem mục 3.",
+        "en": "This threshold is higher than potentially lethal force; a suspect label is insufficient. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Đọc lý do bắt bằng ngôn ngữ người đó không hiểu đã đủ chưa?",
+        "en": "Is reading arrest reasons in an incomprehensible language sufficient?"
+      },
+      "options": [
+        {
+          "vi": "Đủ nếu người đó không phản đối.",
+          "en": "Yes, if the person did not object."
+        },
+        {
+          "vi": "Chưa; cần truyền đạt dễ hiểu và hỗ trợ phù hợp.",
+          "en": "No; communicate understandably with suitable assistance."
+        },
+        {
+          "vi": "Đủ nếu đã đọc hết biểu mẫu.",
+          "en": "Yes, if the entire form was read."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Bảo đảm thủ tục đòi hỏi thực chất hiểu, không chỉ hoàn thành thao tác. Xem mục 4.",
+        "en": "Due process requires meaningful understanding rather than formal completion alone. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Mốc 96 giờ trong SOP 2020.13 áp dụng như thế nào?",
+        "en": "How should the 96-hour period in SOP 2020.13 be understood?"
+      },
+      "options": [
+        {
+          "vi": "Là quyền giữ đủ thời gian mọi người bị nghi.",
+          "en": "As permission to hold every suspect for the full period."
+        },
+        {
+          "vi": "Là giới hạn chung của giữ người bởi phái bộ; phải xử lý sớm hơn khi có thể.",
+          "en": "As the general field-mission custody limit, with earlier resolution wherever possible."
+        },
+        {
+          "vi": "Là thời hạn chung cho mọi cảnh sát quốc gia.",
+          "en": "As a universal deadline for all national police."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Không chuyển cơ chế phái bộ thành quy tắc tố tụng quốc gia; không đợi hết hạn mới báo khó khăn. Xem mục 5.",
+        "en": "Do not confuse mission custody with national procedure or delay escalation until expiry. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Chuyển người giữa hai cơ sở UN có làm tính lại thời hạn không?",
+        "en": "Does transfer between UN facilities restart custody time?"
+      },
+      "options": [
+        {
+          "vi": "Không; vẫn tính từ lúc kiểm soát ban đầu.",
+          "en": "No; time runs from initial apprehension."
+        },
+        {
+          "vi": "Có nếu đổi đơn vị chịu trách nhiệm.",
+          "en": "Yes, if the responsible unit changes."
+        },
+        {
+          "vi": "Có nếu lập sổ mới ở nơi đến.",
+          "en": "Yes, if a new register is opened."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Di chuyển hoặc hồ sơ mới không xóa thời gian đã bị tước tự do. Xem mục 5.",
+        "en": "Relocation or new records do not erase prior deprivation of liberty. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Một cam kết bàn giao chung đã đủ khi có nguy cơ tra tấn có căn cứ chưa?",
+        "en": "Are general handover assurances sufficient where credible torture risk exists?"
+      },
+      "options": [
+        {
+          "vi": "Đủ nếu đơn vị sắp hết giờ trực.",
+          "en": "Yes, if the unit’s duty shift is ending."
+        },
+        {
+          "vi": "Đủ nếu người nhận ký biên bản.",
+          "en": "Yes, if the recipient signs a receipt."
+        },
+        {
+          "vi": "Chưa; phải đánh giá từng người và xử lý qua cơ chế có thẩm quyền.",
+          "en": "No; assess individual risk and seek competent resolution."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Thủ tục bàn giao không thay đánh giá nguy cơ; cũng không cho phép giữ vô thời hạn. Xem mục 6.",
+        "en": "Handover paperwork does not replace risk assessment or authorize indefinite detention. See section 6."
+      },
+      "chapter": 5
+    },
+    {
+      "question": {
+        "vi": "Mốc bàn giao trẻ 48 giờ có cho cán bộ tự gia hạn không?",
+        "en": "Does the child 48-hour handover framework allow officers to extend custody themselves?"
+      },
+      "options": [
+        {
+          "vi": "Có nếu ghi là vì an toàn.",
+          "en": "Yes, if recorded as a safety reason."
+        },
+        {
+          "vi": "Không; ngoại lệ bảo vệ chỉ theo phụ lục và cơ chế HOM cùng CPA/đầu mối.",
+          "en": "No; protective exceptions follow the annex and HOM consultation with the CPA or focal point."
+        },
+        {
+          "vi": "Có nếu chuyển trẻ sang nơi giữ khác.",
+          "en": "Yes, if the child is moved to another facility."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Trẻ có bảo đảm riêng; ngoại lệ hẹp không phải quyết định tùy ý của cán bộ. Xem mục 6.",
+        "en": "Children have special safeguards; narrow exceptions are not discretionary officer extensions. See section 6."
+      },
+      "chapter": 5
+    },
+    {
+      "question": {
+        "vi": "Rà soát sau sử dụng vũ lực cần xem gì?",
+        "en": "What should post-force review examine?"
+      },
+      "options": [
+        {
+          "vi": "Hành động, căn cứ, hậu quả và cả nguyên nhân tổ chức.",
+          "en": "Conduct, grounds, consequences and organizational causes."
+        },
+        {
+          "vi": "Chỉ lỗi cá nhân, không cần kế hoạch và huấn luyện.",
+          "en": "Only individual mistakes, not planning or training."
+        },
+        {
+          "vi": "Chỉ kết quả đạt mục tiêu, không cần thương tích.",
+          "en": "Only achievement, not injuries."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Trách nhiệm gồm báo trung thực, hỗ trợ người bị ảnh hưởng và sửa điều kiện dẫn tới sai phạm. Xem mục 7.",
+        "en": "Accountability includes truthful reporting, assistance and correction of contributing conditions. See section 7."
+      },
+      "chapter": 6
+    }
+  ],
+  "updated": "2026-10-28",
+  "moduleId": "CORE-M4",
+  "moduleOrder": 4,
+  "lessonOrder": 3,
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "CORE-08-01",
+      "title": {
+        "vi": "1. Thẩm quyền và mục tiêu hợp pháp đi trước biện pháp",
+        "en": "1. Authority and lawful objectives come before measures"
+      },
+      "body": {
+        "vi": "### 1.1. Có năng lực không đồng nghĩa có quyền\nSử dụng vũ lực, bắt giữ và tạm giữ tác động trực tiếp đến tính mạng, thân thể và tự do. Vì vậy, cán bộ cần xác định căn cứ, mục tiêu và giới hạn trước khi lựa chọn biện pháp. Có trang bị, được huấn luyện hoặc được địa phương đề nghị không tự tạo thẩm quyền. Hoạt động phải nằm trong mandate, văn bản triển khai và pháp luật áp dụng.\n\nUNPOL thực hiện chức năng cảnh sát theo cách tiếp cận thực thi pháp luật. Không vì địa bàn có xung đột mà mọi hoạt động trở thành tác chiến quân sự hoặc có thể áp dụng quy tắc quân sự thay DUF. Cần hiểu chỉ thị sử dụng vũ lực của thành phần và phái bộ mình; không dùng kinh nghiệm một nơi khác thay văn bản áp dụng.\n\n### 1.2. Ba khái niệm dễ lẫn\n**Arrest** thường chỉ việc bắt theo cơ chế tư pháp, pháp luật có thẩm quyền. **Apprehension** trong thuật ngữ nhiệm vụ UN là đưa một người vào sự kiểm soát hoặc lưu giữ thực tế của nhân sự UN theo căn cứ được phép. **Detention** là tình trạng bị tước tự do, không được tự rời đi. Tên gọi không làm mất nghĩa vụ bảo vệ khi UN đã kiểm soát người đó, kể cả trong thời gian ngắn.\n\nCần phân biệt UNPOL hỗ trợ, giám sát cảnh sát sở tại với chính UN trực tiếp giữ người. Cán bộ không tự mang quyền bắt của quốc gia mình sang nhiệm vụ. SOP về xử lý người bị giữ hướng dẫn trách nhiệm và thủ tục; bản thân SOP không trao quyền bắt hoặc tạm giữ.\n\n### 1.3. Mục tiêu phải chính đáng và tiếp tục được kiểm tra\nBiện pháp phải phục vụ mục tiêu thực thi pháp luật hợp pháp, không nhằm trừng phạt tại chỗ, trả đũa, ép cung hoặc tạo uy thế. Thẩm quyền ban đầu không cho phép mọi biện pháp tiếp theo. Khi tình hình thay đổi, cần xem lại sự cần thiết, mức độ và căn cứ tiếp tục giữ người hoặc sử dụng vũ lực.\n\nKhông đồng nhất thận trọng với không hành động. Cán bộ vẫn phải thực hiện trách nhiệm bảo vệ và mệnh lệnh hợp pháp trong phạm vi được giao, đồng thời báo điểm chưa rõ và xin hướng dẫn đúng nơi. **Điểm cần nhớ:** Hành động có trách nhiệm bắt đầu bằng quyền được làm, mục tiêu cần đạt và giới hạn phải giữ.",
+        "en": "### 1.1. Capability does not create authority\nForce, arrest and detention affect life, bodily integrity and liberty. Establish authority, purpose and limits before selecting measures. Equipment, training or a local request does not independently confer powers. Actions must fit the mandate, implementing instruments and applicable law.\n\nUNPOL uses a law-enforcement approach. Conflict in the area does not convert every police activity into military operations or justify replacing police DUF with military rules. Know the directive applicable to your component and mission instead of substituting experience from elsewhere.\n\n### 1.2. Three distinct concepts\n**Arrest** generally concerns apprehension under competent legal or judicial authority. **Apprehension** in UN mission terminology places a person under effective UN control or custody on an authorized basis. **Detention** is deprivation of liberty without freedom to leave. Terminology does not remove safeguards when the UN exercises control, even briefly.\n\nDistinguish support to or monitoring of host-State arrests from direct UN custody. Domestic powers do not automatically transfer to the mission. Detention SOPs regulate procedures and responsibilities; they do not themselves confer apprehension or detention authority.\n\n### 1.3. Keep testing the lawful objective\nMeasures must serve a lawful policing purpose, not immediate punishment, revenge, coercive interrogation or displays of power. Initial authority does not authorize every subsequent measure. Reassess necessity, degree of force and continued custody as circumstances change.\n\nCaution does not justify abandoning authorized protection duties or lawful orders. Perform assigned responsibilities while raising uncertainties through competent channels. **Remember:** Accountable action begins with authority, a legitimate objective and defined limits."
+      },
+      "sourceIds": [
+        "U41",
+        "U42",
+        "DET2020"
+      ]
+    },
+    {
+      "id": "CORE-08-02",
+      "title": {
+        "vi": "2. Sáu nguyên tắc khi xem xét sử dụng vũ lực",
+        "en": "2. Six principles governing force"
+      },
+      "body": {
+        "vi": "### 2.1. Hợp pháp, cần thiết và tương xứng\n**Hợp pháp:** Phải có căn cứ cho phép, phù hợp pháp luật quốc tế và nhằm mục tiêu hợp pháp. Một yêu cầu trái pháp luật không được hợp pháp hóa bằng tên chiến dịch hoặc mệnh lệnh. **Cần thiết:** Cân nhắc biện pháp không dùng vũ lực khi có thể đạt mục tiêu; nếu vũ lực thực sự cần, chỉ dùng mức cần để đạt mục tiêu đó.\n\n**Tương xứng:** Xem mức độ gây hại của biện pháp có phù hợp với mục tiêu và nguy cơ thực tế hay không. Không hiểu là đáp trả cùng loại công cụ hoặc làm cho người kia chịu thiệt tương đương. Một biện pháp có khả năng đạt mục tiêu vẫn có thể không được phép nếu hại gây ra vượt giới hạn tương xứng.\n\n### 2.2. Không phân biệt, phòng ngừa và trách nhiệm\n**Không phân biệt đối xử:** Không lựa chọn người hoặc mức độ vũ lực theo định kiến dân tộc, giới, tôn giáo hoặc tình trạng xã hội. Phải căn cứ hành vi và nguy cơ của tình huống. **Phòng ngừa:** Chuẩn bị để tránh hoặc giảm nhu cầu sử dụng vũ lực và giảm hại, gồm thông tin, trao đổi, nhân sự đủ năng lực, trang bị phù hợp và hỗ trợ y tế.\n\n**Trách nhiệm giải trình:** Quyết định, hành động và hậu quả phải được ghi nhận, báo cáo và xem xét theo cơ chế. Người chỉ huy phải giao việc rõ, huấn luyện, kiểm tra và xử lý thông tin về sai phạm. Cán bộ phải báo đúng sự thật, kể cả khi thông tin bất lợi cho đơn vị.\n\n### 2.3. Đánh giá liên tục, không tăng mức theo quán tính\nKhông có một thang biện pháp cho phép cứ không được đáp lời là tự động tăng mức. Mức độ nguy hiểm, khả năng đạt mục tiêu bằng cách khác và người xung quanh có thể thay đổi rất nhanh. Phải đánh giá lại để giảm hoặc chấm dứt vũ lực khi không còn cần thiết; không tiếp tục chỉ vì đã bắt đầu.\n\nBiện pháp ít sát thương vẫn có thể gây chết người hoặc thương tích nghiêm trọng. Cần huấn luyện, điều kiện sử dụng và giám sát phù hợp; nhãn trang bị không thay thế đánh giá nguy cơ. Người đã bị kiểm soát không mất quyền; vũ lực không được dùng để trừng phạt họ. **Điểm cần nhớ:** Sáu nguyên tắc áp dụng đồng thời, không chọn nguyên tắc thuận lợi rồi bỏ các giới hạn khác.",
+        "en": "### 2.1. Legality, necessity and proportionality\n**Legality:** Force requires an adequate legal basis, compliance with international law and a lawful objective. A campaign title or order cannot legalize unlawful conduct. **Necessity:** Use non-violent means where they can achieve the objective; if force is necessary, limit it to what is required.\n\n**Proportionality:** Consider the relationship between likely harm, the legitimate objective and the actual threat. It is not matching weapons or inflicting equivalent suffering. An effective measure may still be impermissible because its harmful effects exceed proportionality limits.\n\n### 2.2. Non-discrimination, precaution and accountability\n**Non-discrimination:** Decisions must follow conduct and actual risks rather than ethnic, gender, religious or social prejudice. **Precaution:** Plan to avoid or reduce force and harm through information, engagement, competent personnel, suitable equipment and medical support.\n\n**Accountability:** Decisions, conduct and consequences require recording, reporting and review. Commanders must task, train and supervise clearly and address misconduct. Personnel must report honestly even when findings are unfavorable to the unit.\n\n### 2.3. Reassess rather than escalate mechanically\nNo fixed ladder authorizes automatic escalation when someone fails to respond. Threats, alternatives and bystander risks change. Reduce or stop force when it is no longer necessary rather than continuing because it has begun.\n\nLess-lethal equipment can still kill or cause serious injury. Training, authorized conditions and supervision remain essential. Persons under control retain rights; force cannot punish them. **Remember:** The six principles operate together, not selectively."
+      },
+      "sourceIds": [
+        "U41"
+      ]
+    },
+    {
+      "id": "CORE-08-03",
+      "title": {
+        "vi": "3. Súng và yêu cầu bảo vệ tính mạng",
+        "en": "3. Firearms and protection of life"
+      },
+      "body": {
+        "vi": "### 3.1. Ngưỡng sử dụng súng đối với người\nSúng luôn có khả năng gây chết người. Sử dụng súng đối với người chỉ được xem xét trong các điều kiện nghiêm ngặt: Tự vệ hoặc bảo vệ người khác trước nguy cơ sắp xảy ra gây chết người hoặc thương tích nghiêm trọng; ngăn tội phạm đặc biệt nghiêm trọng gây đe dọa lớn đến tính mạng; hoặc bắt, ngăn trốn đối với người tạo ra nguy cơ như vậy và chống lại thẩm quyền, khi biện pháp ít nghiêm trọng hơn không đủ.\n\nCần phân biệt việc sử dụng vũ lực có khả năng gây chết người với cố ý dùng súng gây chết người. Trường hợp cố ý gây chết người chỉ được phép khi thực sự không thể tránh để bảo vệ tính mạng. Đây là ngưỡng đặc biệt chặt chẽ, không phải quyền bắn vì người bị nghi phạm tội nghiêm trọng hoặc không chấp hành yêu cầu.\n\n### 3.2. Những suy luận không được sử dụng\nKhông dùng súng chỉ để bảo vệ tài sản, chỉ để buộc chấp hành, trừng phạt hoặc ngăn một người bỏ chạy không tạo nguy cơ tương ứng đối với tính mạng hay thương tích nghiêm trọng. Sự có mặt trong một đám đông có bạo lực cũng không tự khiến mọi người thành đối tượng được phép sử dụng súng.\n\nPhải xem nguy cơ do hành vi cụ thể, kể cả đối với người xung quanh. Nhãn “đối tượng nguy hiểm” không thay thế thông tin về khả năng, ý định và mức độ tức thời của đe dọa trong tình huống. Khi nguy cơ làm căn cứ sử dụng súng không còn, việc tiếp tục phải được đánh giá lại theo đúng điều kiện pháp lý.\n\n### 3.3. Cảnh báo và trách nhiệm sau hành động\nTrong điều kiện áp dụng, phải nhận diện là người thực thi pháp luật và cảnh báo rõ ý định sử dụng súng, cho thời gian đáp ứng phù hợp. Ngoại lệ chỉ trong những hoàn cảnh như cảnh báo làm tăng nguy cơ không thích đáng đối với cán bộ, gây nguy cơ chết người hoặc hại nghiêm trọng cho người khác, hoặc rõ ràng không phù hợp, vô ích. Không biến ngoại lệ thành thói quen.\n\nKhi có người bị thương, phải bảo đảm trợ giúp và y tế sớm nhất có thể, đồng thời xử lý an toàn, báo cáo và bảo toàn thông tin theo nhiệm vụ. **Điểm cần nhớ:** Bài học giải thích chuẩn mực quyết định; khả năng sử dụng trang bị an toàn còn đòi hỏi huấn luyện thực hành, kiểm tra và DUF áp dụng.",
+        "en": "### 3.1. The threshold for firearms against persons\nFirearms are always potentially lethal. Their use against persons is restricted to strict conditions: Defence of self or others against imminent death or serious injury; prevention of a particularly serious crime gravely threatening life; or arresting or preventing escape of a person presenting such danger and resisting authority, where less extreme means are insufficient.\n\nDistinguish potentially lethal force from intentionally lethal firearm use. Intentional lethal use is permitted only when strictly unavoidable to protect life. Suspicion of a serious offence or non-compliance alone does not meet that threshold.\n\n### 3.2. Invalid inferences\nDo not use firearms solely to protect property, secure obedience, punish or stop a fleeing person who does not present the relevant danger. Presence in a violent crowd does not make every participant a permissible target of firearm use.\n\nAssess specific conduct and risks, including bystanders. A dangerous-person label cannot replace an assessment of capability, intent and immediacy. Reassess when the threat underpinning firearm use ends.\n\n### 3.3. Warnings and subsequent duties\nWhere applicable, identify as law enforcement and clearly warn of the intention to use firearms, allowing adequate time for compliance. Exceptions concern circumstances such as undue danger to officers, danger of death or serious harm to others, or a warning being clearly inappropriate or pointless. Exceptions must not become routine.\n\nProvide assistance and medical aid as soon as possible, alongside scene safety, reporting and preservation of information under tasking. **Remember:** This lesson addresses decision standards; safe equipment use also requires practical training, assessment and applicable DUF."
+      },
+      "sourceIds": [
+        "U41",
+        "BPUFF"
+      ]
+    },
+    {
+      "id": "CORE-08-04",
+      "title": {
+        "vi": "4. Bắt, kiểm soát người và bảo đảm thủ tục",
+        "en": "4. Arrest, apprehension and due process"
+      },
+      "body": {
+        "vi": "### 4.1. Căn cứ cụ thể, không giữ để cho tiện\nTrước khi tước tự do, cần xác định thẩm quyền, căn cứ và mục đích. Không giữ người chỉ vì thuận tiện xác minh, vì thuộc một nhóm xã hội hoặc để gây sức ép cho người khác. Bắt hoặc kiểm soát người không đồng nghĩa đã kết tội; phải tôn trọng suy đoán vô tội và các quyền áp dụng.\n\nSự cần thiết và tương xứng còn liên quan bản thân quyết định tước tự do. Không mặc định mọi người bị nghi có vi phạm đều cần bị giữ, hoặc cứ đã kiểm soát là phải kéo dài. Cần xem biện pháp phù hợp và xem xét lại căn cứ theo pháp luật, SOP và thẩm quyền.\n\n### 4.2. Người bị giữ cần biết và hiểu\nThông báo lý do và quyền theo yêu cầu áp dụng bằng ngôn ngữ người đó hiểu, có hỗ trợ phiên dịch phù hợp khi cần. Một câu đọc nhanh bằng ngôn ngữ họ không hiểu chưa thực hiện được mục đích bảo đảm thủ tục. Không dùng sự im lặng hoặc khó khăn ngôn ngữ làm bằng chứng có tội.\n\nGhi nhận danh tính hoặc thông tin nhận dạng đang có, thời điểm bắt đầu kiểm soát, nơi, lý do, người thực hiện, tình trạng sức khỏe và tài sản tiếp nhận. Nếu có điều chưa rõ, ghi đúng trạng thái; không tự sửa tuổi hoặc nhận dạng cho khớp hồ sơ. Trẻ em và người cần hỗ trợ có yêu cầu bảo vệ riêng.\n\n### 4.3. Kiểm tra, tài sản và trợ giúp\nViệc kiểm tra người, tiếp nhận tài sản và sử dụng công cụ phải có căn cứ, phù hợp nhu cầu an toàn, nhân phẩm và quy trình. Bài này không thay huấn luyện kỹ thuật; cán bộ chỉ thực hiện phần việc được giao và đủ năng lực. Lập danh mục, bảo quản tài sản, ghi nhận chuyển giao để tránh mất mát hoặc tranh chấp.\n\nNgười bị giữ cần được tiếp cận trợ giúp pháp lý, kiểm tra tính hợp pháp của việc tước tự do và các bảo đảm liên quan theo cơ chế áp dụng. Liên hệ gia đình hoặc người được chỉ định cần thực hiện theo quyền, sự đồng ý và quy định, có cân nhắc bảo vệ. **Điểm cần nhớ:** Thủ tục và hồ sơ bắt đầu từ lúc kiểm soát thực tế, không đợi đưa tới nơi giữ mới tính trách nhiệm.",
+        "en": "### 4.1. A specific basis, not convenience\nBefore depriving liberty, establish authority, grounds and purpose. Do not detain merely for convenient verification, group identity or pressure on another person. Arrest or apprehension is not conviction; presumption of innocence and applicable rights remain.\n\nNecessity and proportionality also govern the decision to deprive liberty. Not every suspected breach requires custody, and initial apprehension does not justify continued detention. Review grounds and alternatives under applicable law, SOPs and authority.\n\n### 4.2. Ensure understanding\nCommunicate reasons and rights in a language the person understands, with suitable interpretation when needed. Rapidly reading an incomprehensible notice does not fulfil its purpose. Silence or language difficulties do not establish guilt.\n\nRecord available identity, the start of effective control, location, reasons, personnel, health and property. Mark uncertainty rather than altering age or identity to fit a form. Children and persons needing assistance require additional safeguards.\n\n### 4.3. Searches, property and assistance\nSearches, property handling and restraints require authority, safety justification, dignity and proper procedures. Perform only assigned tasks within competence; this lesson does not replace practical training. Inventory and safeguard property and document transfers.\n\nProvide applicable access to legal assistance, review of detention legality and related safeguards. Family or designated-person notification follows rights, consent, rules and protection considerations. **Remember:** Duties and records begin at effective control, not only at arrival in a holding facility."
+      },
+      "sourceIds": [
+        "U42",
+        "DET2020"
+      ]
+    },
+    {
+      "id": "CORE-08-05",
+      "title": {
+        "vi": "5. Điều kiện giữ người và thời hạn",
+        "en": "5. Custody conditions and time limits"
+      },
+      "body": {
+        "vi": "### 5.1. Nhân đạo trong toàn bộ thời gian kiểm soát\nNgười bị giữ phải được bảo vệ khỏi tra tấn, đối xử tàn nhẫn, làm nhục, bạo lực và bóc lột. Không có tình trạng khẩn cấp, yêu cầu thông tin hoặc mệnh lệnh nào cho phép tra tấn. Nước, thức ăn, vệ sinh, y tế và điều kiện phù hợp là trách nhiệm cần được tổ chức, không phải quyền lợi phụ thuộc thái độ hợp tác.\n\nCần theo dõi tình trạng sức khỏe và nhu cầu riêng, bố trí tách biệt phù hợp tiêu chuẩn và bảo vệ khỏi hại giữa những người bị giữ. Trẻ em phải có bảo đảm riêng; không coi việc nhốt chung là giải pháp thuận tiện. Cần báo sớm khi điều kiện không đáp ứng, không giấu vấn đề để tiếp tục giữ.\n\n### 5.2. Tạm thời và khẩn trương xử lý\nĐối với việc giữ người bởi phái bộ UN trong khuôn khổ SOP về xử lý tạm giữ, phải tổ chức bàn giao hợp lệ hoặc trả tự do sớm nhất có thể. Thời hạn chung trong SOP 2020.13 là không quá **96 giờ** từ khi bắt đầu kiểm soát. Với **trẻ em, phải nỗ lực bàn giao chăm sóc an toàn trong 48 giờ** theo phụ lục riêng; phụ lục cũng quy định trường hợp ngoại lệ bảo vệ rất chặt, do người đứng đầu phái bộ xử lý cùng đầu mối bảo vệ trẻ em. Cán bộ không được tự gia hạn. Đây không phải thời gian được mặc nhiên giữ đủ trước khi xem xét xử lý.\n\nCác mốc này thuộc cơ chế giữ người của phái bộ, không phải quy định chung cho mọi cảnh sát quốc gia hoặc mọi thủ tục tố tụng. Cán bộ phải biết văn bản và đầu mối áp dụng cho vị trí; không tự gia hạn, chuyển nơi giữ để tính lại giờ hoặc chờ hết hạn mới báo khó khăn. Nếu chưa đủ điều kiện bàn giao, phải kích hoạt xử lý có thẩm quyền ngay.\n\n### 5.3. Hồ sơ và kiểm tra liên tục\nDuy trì thông tin về người bị giữ ở đâu, tình trạng ra sao, ai chịu trách nhiệm, căn cứ, thời điểm và các lần di chuyển. Không giữ bí mật ngoài sổ. Việc chuyển giữa cơ sở UN không xóa trách nhiệm hoặc bắt đầu lại thời hạn ban đầu.\n\nKhi giám sát, cố vấn cảnh sát sở tại, cần xem hồ sơ, điều kiện, quyền và dấu hiệu sai phạm trong phạm vi được giao; phối hợp chuyên môn khi cần. Không dùng việc người bị giữ không khiếu nại làm bằng chứng mọi điều kiện đều tốt. **Điểm cần nhớ:** Kiểm soát con người kéo theo trách nhiệm về an toàn, nhân đạo và thủ tục trong từng giờ, không chỉ ở thời điểm bắt đầu.",
+        "en": "### 5.1. Humane treatment throughout control\nProtect detainees from torture, cruel or degrading treatment, violence and exploitation. Emergencies, information needs and orders cannot justify torture. Water, food, hygiene, medical care and appropriate conditions are responsibilities, not rewards for cooperation.\n\nMonitor health and specific needs, ensure appropriate separation and prevent harm between detainees. Children require distinct safeguards. Report inadequate conditions early instead of concealing them to prolong custody.\n\n### 5.2. Temporary custody requires prompt action\nUnder the UN field-mission detention framework, arrange lawful handover or release as soon as possible. **SOP 2020.13** sets a general maximum of **96 hours** from initial apprehension. For **children, every effort must secure safe care handover within 48 hours**. The child annex provides narrowly defined protective exceptions, addressed by the Head of Mission with the child-protection adviser or focal point, not independent extensions by officers. These periods are not permissions to delay earlier action.\n\nThese limits concern UN mission custody, not universal national police or criminal-procedure deadlines. Know the instruments and contacts applicable to your post. Do not independently extend custody, reset time through relocation or wait until expiry to report obstacles. Escalate handover problems promptly.\n\n### 5.3. Maintain records and review\nKeep traceable records of location, condition, responsible personnel, grounds, timing and movements. Secret or unregistered custody is impermissible. Transfer between UN facilities does not erase responsibility or restart the original clock.\n\nWhen monitoring or advising host-State police, examine records, conditions, rights and concerns within tasking, involving specialists as needed. Lack of complaints does not prove adequate treatment. **Remember:** Effective control creates continuing safety, humane-treatment and procedural responsibilities, hour by hour."
+      },
+      "sourceIds": [
+        "U42",
+        "DET2020"
+      ]
+    },
+    {
+      "id": "CORE-08-06",
+      "title": {
+        "vi": "6. Chuyển giao không làm kết thúc trách nhiệm bảo vệ",
+        "en": "6. Handover and continuing protection duties"
+      },
+      "body": {
+        "vi": "### 6.1. Kiểm tra tính hợp lệ và nguy cơ từng trường hợp\nBàn giao phải theo thẩm quyền, cơ chế và thỏa thuận áp dụng, có người tiếp nhận rõ, hồ sơ và điều kiện bảo đảm. Không chỉ gọi một đơn vị tới nhận rồi coi trách nhiệm đã xong. Cần đánh giá nguy cơ đối với từng người khi bàn giao, với thông tin và khuyến nghị chuyên môn cần thiết.\n\nKhông bàn giao khi có nguy cơ thực sự dẫn đến tra tấn, đối xử tàn nhẫn, mất tích, hành quyết tùy tiện hoặc các hại nghiêm trọng thuộc giới hạn pháp lý và chính sách UN. Một lời cam kết chung không tự khắc phục được nguy cơ có căn cứ. Đồng thời, nguy cơ không cho phép cá nhân tự giữ vô thời hạn; phải báo sớm để cấp có thẩm quyền quyết định hợp pháp.\n\n### 6.2. Đầu mối và quyết định\nChỉ huy, đầu mối tạm giữ, pháp lý, nhân quyền và các bộ phận liên quan có trách nhiệm theo SOP. Quyết định bàn giao từng trường hợp thuộc cơ chế lãnh đạo được quy định; cán bộ cấp thực hiện không tự tạo tuyến phê duyệt riêng. Với trẻ em, phải phối hợp bảo vệ trẻ em và đối tác thích hợp, không mặc định đưa vào hệ thống giữ người lớn.\n\nNếu cơ quan sở tại không tiếp nhận đúng điều kiện hoặc nguy cơ không được giải quyết, cần báo ngay qua đầu mối để có quyết định, bao gồm trả tự do khi quy định yêu cầu. Mục tiêu là xử lý hợp pháp và an toàn trong thời hạn, không tìm cách đẩy trách nhiệm sang nơi khác.\n\n### 6.3. Ghi nhận và theo dõi sau bàn giao\nHồ sơ cần cho biết người được chuyển, căn cứ, thời gian, nơi, người giao nhận, tình trạng, tài sản và nội dung bảo đảm liên quan. Thông tin nhạy cảm chỉ chuyển theo mục đích và quyền truy cập. Theo dõi sau bàn giao giúp phát hiện việc thực hiện bảo đảm và nhu cầu can thiệp; một chữ ký nhận chưa chứng minh người đó tiếp tục được đối xử đúng.\n\n**Điểm cần nhớ:** Bàn giao là một quyết định bảo vệ có căn cứ pháp lý và nguy cơ, không chỉ một bước vận chuyển. Nhận diện khó khăn sớm giúp xử lý đúng hạn mà không đánh đổi nhân quyền.",
+        "en": "### 6.1. Assess legality and individual risk\nHandover requires authorized arrangements, an identified recipient, records and safeguards. Summoning another unit does not end responsibility. Assess each person’s handover risks using relevant information and specialist advice.\n\nDo not hand over where a real risk of torture, ill-treatment, disappearance, arbitrary execution or other prohibited serious harm exists. General assurances do not automatically resolve credible risk. Risk also does not authorize individuals to detain indefinitely: Escalate early for a lawful decision.\n\n### 6.2. Contacts and decisions\nCommanders, detention focal points, legal, human rights and other personnel have SOP-defined responsibilities. Individual handovers follow the prescribed leadership decision mechanism, not a locally invented approval route. Child cases require child-protection coordination and appropriate partners rather than default transfer to adult detention.\n\nReport refusal of proper conditions or unresolved risks promptly for an authorized decision, including release where required. Aim for lawful, safe resolution within time limits, not transfer of responsibility elsewhere.\n\n### 6.3. Records and post-handover monitoring\nDocument identity, grounds, timing, location, responsible parties, condition, property and relevant safeguards. Transfer sensitive information only for authorized purposes. Follow-up checks safeguard implementation; a receipt alone does not establish continued proper treatment.\n\n**Remember:** Handover is a legal and protection decision, not merely transport. Early identification of obstacles supports timely action without trading away rights."
+      },
+      "sourceIds": [
+        "U42",
+        "DET2020"
+      ]
+    },
+    {
+      "id": "CORE-08-07",
+      "title": {
+        "vi": "7. Báo cáo, xem xét và phòng ngừa tái diễn",
+        "en": "7. Reporting, review and prevention"
+      },
+      "body": {
+        "vi": "### 7.1. Sau sử dụng vũ lực vẫn còn nhiệm vụ\nCần bảo đảm hỗ trợ người bị ảnh hưởng, xử lý an toàn, báo cáo và bảo toàn thông tin theo phân công. Báo cáo nêu điều đã quan sát, căn cứ quyết định, biện pháp, thời điểm, thay đổi tình hình, thương tích đã biết và trợ giúp đã thực hiện. Phân biệt quan sát với thông tin người khác cung cấp hoặc điều chưa xác minh.\n\nKhông bỏ tình tiết bất lợi, thống nhất một câu chuyện để bảo vệ nhau hoặc ghi thương tích theo suy đoán. Việc xem xét cần khả năng truy nguyên; tài sản và thông tin liên quan phải được bảo vệ. Không đưa hình người bị giữ hoặc người bị thương lên mạng để minh họa thành tích hoặc làm nhục.\n\n### 7.2. Trách nhiệm cá nhân và chỉ huy\nCán bộ chịu trách nhiệm về hành động và việc báo cáo đúng. Người chỉ huy chịu trách nhiệm tổ chức, giao việc, huấn luyện, giám sát và phản ứng trước thông tin sai phạm trong phạm vi áp dụng. Thực hiện mệnh lệnh không xóa mọi trách nhiệm; mệnh lệnh rõ ràng trái pháp luật không được thi hành.\n\nKhi thấy dấu hiệu sai phạm của đồng nghiệp hoặc lực lượng sở tại, cần thực hiện trách nhiệm bảo vệ, báo và phối hợp theo thẩm quyền. Trong hỗ trợ lực lượng ngoài UN, xem cả nghĩa vụ HRDDP; không tiếp tục hỗ trợ như cũ khi nguy cơ đã thay đổi mà không đưa vào rà soát. Không trả đũa người báo cáo hoặc người cung cấp thông tin.\n\n### 7.3. Học từ sự cố và kiểm tra khả năng sẵn sàng\nRà soát cần tìm cả nguyên nhân tổ chức: Thông tin chưa đủ, kế hoạch yếu, giao việc mơ hồ, trang bị không phù hợp, thiếu y tế hoặc huấn luyện chưa đáp ứng. Xác định biện pháp, người thực hiện và cách kiểm tra cải thiện; không chỉ yêu cầu rút kinh nghiệm chung.\n\nCán bộ cần biết văn bản áp dụng, giới hạn vị trí, kênh báo khẩn và yêu cầu thực hành. **Kết thúc bài:** Chuyên nghiệp không đồng nghĩa dùng vũ lực nhanh hoặc tránh mọi can thiệp. Chuyên nghiệp là thực hiện mục tiêu hợp pháp bằng biện pháp cần thiết, tương xứng, có bảo vệ và chịu trách nhiệm từ quyết định ban đầu đến xử lý sau cùng.",
+        "en": "### 7.1. Duties continue after force\nAssist affected people, secure safety, report and preserve relevant information within tasking. Explain observations, decision grounds, measures, timing, changed circumstances, known injuries and assistance. Separate direct knowledge from others’ accounts and uncertainty.\n\nDo not omit adverse facts, coordinate a false account or invent injury explanations. Preserve traceability, property and information. Publishing images of detainees or injured people for humiliation or publicity is unacceptable.\n\n### 7.2. Individual and command responsibility\nOfficers remain responsible for conduct and honest reporting. Commanders must organize, task, train, supervise and respond to misconduct information under applicable rules. Orders do not erase all responsibility; manifestly unlawful orders must not be obeyed.\n\nAddress concerns about colleagues or host-State personnel through authorized protection and reporting arrangements. Support to non-UN forces also requires relevant HRDDP review when risk changes. Do not retaliate against reporters or sources.\n\n### 7.3. Learn and check readiness\nReview organizational causes as well as individual conduct: Information gaps, weak plans, unclear tasking, unsuitable equipment, insufficient medical support or training. Assign corrective action, responsibility and verification rather than generic reminders alone.\n\nKnow applicable instruments, role limits, urgent contacts and practical requirements. **Retain:** Professionalism is neither rapid force nor avoidance of every intervention. It means pursuing lawful objectives through necessary, proportionate, safeguarded action with accountability throughout."
+      },
+      "sourceIds": [
+        "U41",
+        "U42"
+      ]
+    }
+  ],
+  "source_ids": [
+    "U41",
+    "U42",
+    "DET2020",
+    "BPUFF"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "Legality / Necessity / Proportionality",
+      "definition": {
+        "vi": "Hợp pháp / cần thiết / tương xứng.",
+        "en": "Legality / necessity / proportionality."
+      }
+    },
+    {
+      "term": "Precaution / Accountability",
+      "definition": {
+        "vi": "Phòng ngừa hại / trách nhiệm giải trình.",
+        "en": "Precaution / accountability."
+      }
+    },
+    {
+      "term": "DUF",
+      "definition": {
+        "vi": "Chỉ thị sử dụng vũ lực áp dụng cho thành phần cảnh sát.",
+        "en": "Directive on the Use of Force for the police component."
+      }
+    },
+    {
+      "term": "Apprehension / Detention",
+      "definition": {
+        "vi": "Đưa vào kiểm soát thực tế UN / tình trạng bị tước tự do.",
+        "en": "Placement under effective UN control / deprivation of liberty."
+      }
+    },
+    {
+      "term": "Detention Focal Point",
+      "definition": {
+        "vi": "Đầu mối xử lý tạm giữ theo SOP và cơ chế phái bộ.",
+        "en": "Detention focal point under SOP and mission arrangements."
+      }
+    },
+    {
+      "term": "Handover risk assessment",
+      "definition": {
+        "vi": "Đánh giá nguy cơ đối với từng người trước bàn giao.",
+        "en": "Individual risk assessment before handover."
+      }
+    }
+  ],
+  "diagram": null,
+  "contentVersion": "batch-02-expanded-v1-2026-10-28",
+  "sourceIntro": {
+    "vi": "Tài liệu nền và đọc bổ sung để đối chiếu. Lời giảng Việt–Anh và câu hỏi được biên soạn cho Handbook; hình gốc ghi rõ tài liệu, trang PDF và có lời giải thích riêng.",
+    "en": "Primary and supplementary reading for comparison. Bilingual teaching and questions are authored for the Handbook; original figures identify materials and PDF pages and have separate explanations."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Bản biên soạn đợt 2 ngày 28/10/2026. Hai ngôn ngữ phục vụ học tập, không phải bản dịch chính thức UN. Danh mục CORE là cách tổ chức của Handbook, không phải thứ tự bài chính thức của UN.",
+      "Bài dạy kiến thức và chuẩn mực chung, không tự trao thẩm quyền hoặc thay mandate, DUF/ROE và hướng dẫn phái bộ áp dụng cho vị trí. Học trực tuyến không thay thế huấn luyện thực hành và đánh giá năng lực.",
+      "Nguồn theo mục xác định tài liệu nền, không coi mọi câu là trích nguyên văn. Ví dụ ngắn là phần giảng biên soạn. Hình giữ tiếng Anh gốc, có chú giải Việt–Anh; số trang PDF có thể khác số slide.",
+      "Thời hạn và bảo đảm khi UN giữ người được đối chiếu trực tiếp SOP Ref. 2020.13, hiệu lực 01/01/2021, bản công khai có dấu 21/10/2022. Mục D, đoạn 13–14 nêu giới hạn chung 96 giờ. Annex B, đoạn 7–8, 16–21 quy định bàn giao chăm sóc trẻ trong 48 giờ, ngoại lệ bảo vệ và HOM cùng CPA/đầu mối rà mỗi 48 giờ. Không đọc mốc trẻ em tách khỏi ngoại lệ hoặc biến thành quyền tự gia hạn."
+    ],
+    "en": [
+      "Batch 2 authored on 28 October 2026. The bilingual text is learning material, not an official UN translation. CORE numbering belongs to the Handbook rather than official UN lesson numbering.",
+      "The lesson teaches general knowledge and standards. It does not confer powers or replace applicable mandates, DUF/ROE and mission instructions. Online study does not replace practical training and competence assessment.",
+      "Section mapping identifies the knowledge base, not a verbatim source for every sentence. Short examples are authored explanations. Figures retain original English with bilingual commentary; PDF pages may differ from slide numbers.",
+      "UN custody timing and safeguards were checked against SOP Ref. 2020.13, effective 1 January 2021, publicly released with a 21 October 2022 stamp. Section D paragraphs 13–14 establish the general 96-hour limit. Annex B paragraphs 7–8 and 16–21 govern child care handover within 48 hours and protective exceptions reviewed by HOM with CPA/focal-point consultation every 48 hours. Do not detach the child timeframe from safeguards or infer independent extension powers."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Sử dụng vũ lực và tước tự do đòi hỏi thẩm quyền, mục tiêu và bảo đảm rõ ràng. Bài học giải thích nguyên tắc quyết định, ngưỡng sử dụng súng, thủ tục, điều kiện giữ người và trách nhiệm bàn giao, báo cáo.",
+      "en": "Force and deprivation of liberty require clear authority, purpose and safeguards. Examine decision principles, firearm thresholds, procedures, custody conditions, handover and accountability."
+    },
+    "subtitle": {
+      "vi": "Đúng thẩm quyền · Cần thiết, tương xứng · Bảo vệ trong toàn bộ quá trình",
+      "en": "Act within authority · Necessity and proportionality · Safeguards throughout"
+    },
+    "objectives": {
+      "vi": [
+        "Phân biệt thẩm quyền, SOP và các khái niệm arrest, apprehension, detention.",
+        "Giải thích sáu nguyên tắc và đánh giá liên tục khi sử dụng vũ lực.",
+        "Nhận diện ngưỡng nghiêm ngặt sử dụng súng và cố ý gây chết người.",
+        "Trình bày bảo đảm thủ tục, điều kiện giữ người, thời hạn và quy định riêng cho trẻ.",
+        "Giải thích đánh giá nguy cơ bàn giao, theo dõi và trách nhiệm cá nhân, chỉ huy."
+      ],
+      "en": [
+        "Distinguish authority, SOPs, arrest, apprehension and detention.",
+        "Explain six force principles and continuous reassessment.",
+        "Identify strict firearm and intentional-lethal-force thresholds.",
+        "Explain due process, custody conditions, timing and child-specific provisions.",
+        "Explain handover risk assessment, follow-up and individual and command responsibility."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc 7 mục trong tab Nội dung bài học; xem hình và lời giải thích ở mục liên quan. Làm 12 câu kiểm tra, đọc phản hồi và quay lại mục được chỉ ra. VI/EN giữ đáp án trong phiên mở trang; tải lại trang bắt đầu lại. Bấm hình để xem lớn.",
+      "en": "Read the lesson sections and figures with their explanations. Complete 12 questions, review feedback and revisit indicated sections. VI/EN retains answers during the session; reloading starts again. Click figures to enlarge them."
+    }
+  },
+  "figures": [
+    {
+      "chapter": 1,
+      "image": "assets/lesson-figures/batch-02/U41-p14.png",
+      "alt": {
+        "vi": "Hình 1. Sáu nguyên tắc sử dụng vũ lực trong thực thi pháp luật",
+        "en": "Figure 1. Six principles governing law-enforcement force"
+      },
+      "caption": {
+        "vi": "Hình 1. Sáu nguyên tắc sử dụng vũ lực trong thực thi pháp luật",
+        "en": "Figure 1. Six principles governing law-enforcement force"
+      },
+      "explanation": {
+        "vi": "Đọc cùng lúc hai nhóm trong hình: Hợp pháp, cần thiết, tương xứng; không phân biệt, phòng ngừa, trách nhiệm. Một biện pháp không được cho phép chỉ vì có hiệu quả hoặc vì đã có cảnh báo. Phải kiểm tra đầy đủ các giới hạn và thay đổi tình hình.",
+        "en": "Read both groups together: Legality, necessity, proportionality, non-discrimination, precaution and accountability. Effectiveness or a prior warning alone does not authorize a measure. Reassess all limits and changing conditions."
+      },
+      "sourceLabel": "UNPOL STM 2021 · Lesson 10",
+      "pdfPage": 14
+    }
+  ],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft",
+  "figureZoom": true
+}

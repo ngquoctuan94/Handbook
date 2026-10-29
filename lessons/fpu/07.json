@@ -1,0 +1,731 @@
+{
+  "schemaVersion": 2,
+  "id": "FPU-07",
+  "area": "fpu",
+  "groupKey": "FPU-M6",
+  "group": {
+    "vi": "Chỉ huy và tham mưu",
+    "en": "Command staff training"
+  },
+  "title": {
+    "vi": "Ra quyết định, lập kế hoạch và ban hành mệnh lệnh",
+    "en": "Decision-making, planning and orders"
+  },
+  "summary": {
+    "vi": "Bài học đi từ xác định vấn đề và thẩm quyền tới thông tin, giả định, lựa chọn, lệnh SMEAC và theo dõi hiệu quả. Các ví dụ ngắn giúp nhận ra khác biệt giữa hoạt động và kết quả.",
+    "en": "Move from problem and authority through information, assumptions, alternatives, SMEAC orders and effects monitoring, distinguishing activity from outcomes."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "PLAN",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-056%20Decision%20making%20process.pdf",
+  "order": 405,
+  "sections": [
+    {
+      "id": "FPU-07-01",
+      "title": {
+        "vi": "1. Quyết định bắt đầu từ vấn đề và thẩm quyền",
+        "en": "1. Decisions start with the problem and authority"
+      },
+      "body": {
+        "vi": "### 1.1. Ra quyết định là trách nhiệm chỉ huy\nRa quyết định là xác định và lựa chọn cách hành động để đạt mục tiêu, sau khi xem xét thông tin, phương án và hệ quả. Trong FPU, quyết định tốt phải kịp thời, hợp pháp, phù hợp nhiệm vụ và có thể thực hiện. Một kế hoạch chi tiết nhưng không có căn cứ thẩm quyền không trở thành hợp lệ nhờ được trình bày đẹp; một hành động nhanh nhưng không xét nguy cơ cũng không tự là quyết đoán đúng.\n\nChỉ huy cần phân biệt triệu chứng với vấn đề. “Có nhiều cuộc gọi phản ánh” là thông tin đầu vào; vấn đề có thể là nguy cơ chưa được đáp ứng, kênh báo trùng hoặc người dân chưa nhận phản hồi. Nếu xác định sai, đơn vị có thể tăng hoạt động mà không làm giảm hại thực tế.\n\n### 1.2. Liên kết các cấp kế hoạch\nMandate xác định nhiệm vụ và phạm vi thẩm quyền của phái bộ. CONOPS nối nhiệm vụ với cách sử dụng năng lực; OPLAN cụ thể hóa ở cấp tác nghiệp; OpsOrder hướng dẫn thực hiện ở cấp đơn vị và hoạt động. Người lập kế hoạch cần biết quyết định của mình đóng góp mục tiêu nào, chịu giới hạn nào và phải trình cấp nào.\n\nKhông sao chép một lệnh từ phái bộ hoặc cuộc diễn tập khác rồi chỉ đổi địa danh. Cấu trúc có thể dùng làm khung, nhưng nguy cơ, đối tác, quyền hạn và nguồn lực phải được xây dựng từ tình hình thực. Tên biểu mẫu giống nhau không có nghĩa nội dung áp dụng giống nhau.\n\n### 1.3. Xác định việc phải quyết\nMột câu hỏi quyết định tốt nêu rõ người cần bảo vệ, vấn đề cần thay đổi, thời gian và giới hạn. Thay vì “triển khai thêm lực lượng”, hãy làm rõ đơn vị cần đạt hiệu quả gì, ở đâu, bằng năng lực nào và trong khoảng nào. Phương tiện không được thay thế mục tiêu.\n\nNếu chưa rõ thẩm quyền, cần hỏi đúng đầu mối đồng thời thực hiện những việc bảo vệ, báo cáo và chuẩn bị thuộc phạm vi được giao. Không dùng yêu cầu hoàn hảo mọi thông tin để trì hoãn trách nhiệm; cũng không dùng tình trạng khẩn để tự mở rộng quyền.\n\n### 1.4. Trách nhiệm có thể truy lại\nQuyết định cần thể hiện căn cứ thông tin, lý do lựa chọn, giới hạn và người chịu trách nhiệm. Ghi nhận cả điều chưa biết và điều kiện cần rà lại. Hồ sơ không chỉ phục vụ đánh giá sau này mà giúp cấp dưới và người phối hợp hiểu cùng một quyết định trong lúc thực hiện.",
+        "en": "### 1.1. A command responsibility\nDecision-making selects action towards an objective after considering information, alternatives and consequences. FPU decisions must be timely, lawful, task-relevant and feasible. Detailed presentation cannot cure missing authority, and speed alone does not establish sound judgment.\n\nDistinguish symptoms from problems. Numerous calls may reflect unmet protection needs, duplicate reporting or absent feedback. Misdiagnosis can increase activity without reducing harm.\n\n### 1.2. Connected planning levels\nThe mandate establishes responsibilities and authority. CONOPS links these with capability employment; OPLAN develops operational direction; OpsOrders guide unit execution. Planners must understand the objective supported, applicable limits and approval level.\n\nDo not merely rename locations in another mission's order. Templates organize information, while threats, partners, authority and resources require actual analysis.\n\n### 1.3. Define the decision\nIdentify people at risk, the change required, timing and constraints. “Deploy more officers” states a means rather than a protective objective. Establish the intended effect and capability needed.\n\nSeek authoritative clarification while undertaking permitted protective, reporting and preparatory work. Incomplete information does not justify indefinite delay, and urgency does not create powers.\n\n### 1.4. Traceable responsibility\nRecord information, reasons, limits, ownership, uncertainties and review conditions. This supports accountability and a common understanding during implementation, not only retrospective assessment."
+      },
+      "sourceIds": [
+        "POLICY",
+        "CSC008"
+      ]
+    },
+    {
+      "id": "FPU-07-02",
+      "title": {
+        "vi": "2. Thông tin, giả định và thiên kiến",
+        "en": "2. Information, assumptions and bias"
+      },
+      "body": {
+        "vi": "### 2.1. Thông tin phải phục vụ câu hỏi\nThu thập những gì giúp hiểu vấn đề và lựa chọn hành động: Sự kiện, thời gian, địa điểm, người có nguy cơ, tác nhân, năng lực đang có và việc các bên đã làm. Phân biệt quan sát trực tiếp, thông tin được báo và nhận định. Một bản đồ đẹp hoặc bản tin dài vẫn có thể thiếu dữ liệu cần cho quyết định cụ thể.\n\nNguồn phải được đánh giá về khả năng biết, độ tin cậy và tính cập nhật. Nhiều báo cáo cùng bắt nguồn từ một lời kể không phải nhiều xác nhận độc lập. Thông tin trên mạng xã hội có thể gợi nhu cầu kiểm tra, nhưng không tự thành sự thật đã xác minh hoặc căn cứ đủ cho biện pháp cưỡng chế.\n\n### 2.2. Nêu giả định để có thể kiểm tra\nKhi chưa có đủ dữ kiện, kế hoạch có thể cần giả định hợp lý. Phải ghi rõ đó là giả định, vì sao cần, ai kiểm tra và khi nào quyết định phải đổi. Ví dụ, nếu kế hoạch phụ thuộc tuyến đường có thể sử dụng, cần xác định cách xác nhận và phương án khi điều kiện đó không còn đúng.\n\nMột giả định chưa được kiểm tra không được âm thầm chuyển thành kết luận chắc chắn trong lệnh. Cấp dưới cần biết điểm nào đã xác nhận và điểm nào có thể thay đổi để không tiếp tục thực hiện khi căn cứ đã mất.\n\n### 2.3. Những thiên kiến dễ gặp\nThiên kiến xác nhận khiến người chỉ tìm thông tin ủng hộ phương án đã thích. Neo vào bản tin đầu có thể làm bỏ qua diễn biến mới. Áp lực tập thể có thể khiến người biết rủi ro không nói ra. Chi phí đã bỏ ra có thể khiến chỉ huy tiếp tục một phương án không còn phù hợp chỉ để tránh cảm giác phải làm lại.\n\nKhắc phục bằng câu hỏi cụ thể: Điều gì phản bác nhận định này; ai chưa được nghe; nếu nguồn đầu sai thì sao; có đang đánh giá cả cộng đồng từ hành vi một số người không. Cần tạo điều kiện để cấp dưới nêu thông tin bất lợi cho kế hoạch mà không bị coi là chống đối.\n\n### 2.4. Khoảng trống và quyết định trong bất định\nKhông phải khoảng trống nào cũng cần chờ lấp đầy. Hãy xác định thông tin nào có thể làm thay đổi quyết định quan trọng, thông tin nào có thể cập nhật khi thực hiện và rủi ro của việc chờ. Ghi mức chắc chắn phù hợp thay vì thêm độ chính xác giả. Bảo vệ dữ liệu và nguồn tin trong suốt quá trình chia sẻ.",
+        "en": "### 2.1. Collect for a question\nSeek events, timing, location, people at risk, relevant actors, available capability and action already taken. Separate observation, reporting and assessment. A detailed briefing may still omit decision-critical information.\n\nEvaluate source access, reliability and freshness. Repeated circulation of one account is not independent corroboration. Social-media material can prompt verification without becoming established fact or sufficient grounds for coercion.\n\n### 2.2. Make assumptions testable\nAn incomplete picture may require reasonable assumptions. Label them, explain their necessity, assign verification and identify conditions requiring revision. If access depends on a usable route, establish confirmation and an alternative.\n\nAn unverified assumption must not quietly become certainty in the order. Subordinates need to understand which conditions are confirmed and which may change.\n\n### 2.3. Common biases\nConfirmation bias favours supporting evidence. Anchoring on an initial report can obscure developments. Group pressure suppresses concerns. Sunk costs can encourage continuation of a failing option.\n\nAsk what contradicts the assessment, whose perspective is missing, what happens if the initial source is wrong and whether individuals' conduct is being generalized to a community. Encourage evidence-based disagreement without treating it as disloyalty.\n\n### 2.4. Decide under uncertainty\nNot every gap warrants delay. Identify information that could change a critical decision, what can be updated during action and the risk of waiting. Express uncertainty honestly and protect data and contributors throughout sharing."
+      },
+      "sourceIds": [
+        "CSC008",
+        "PLAN"
+      ]
+    },
+    {
+      "id": "FPU-07-03",
+      "title": {
+        "vi": "3. Sáu bước và lựa chọn phương án",
+        "en": "3. Six steps and option selection"
+      },
+      "body": {
+        "vi": "### 3.1. Chu trình quyết định\nMột chu trình hữu ích gồm: Xác định vấn đề; xác định mục tiêu; xây dựng và phân tích phương án; chọn phương án; tổ chức thực hiện; theo dõi hiệu quả. Thông tin được thu thập và phân tích xuyên suốt, không chỉ ở đầu. Có thể quay lại bước trước khi dữ kiện hoặc điều kiện thay đổi.\n\nKhông nên biến sáu bước thành sáu biểu mẫu phải hoàn tất dù tình hình đang khẩn. Giá trị nằm ở các câu hỏi được trả lời và chất lượng quyết định, không phải số ô đã điền. Trong điều kiện có thời gian, phân tích cần sâu và có trao đổi; khi gấp, cần rút gọn nhưng vẫn giữ thẩm quyền, nguy cơ sinh mạng và mục tiêu.\n\n### 3.2. Mục tiêu đủ rõ để đánh giá\nMục tiêu cần nêu kết quả mong muốn và cách nhận biết đã đạt. “Tăng tuần tra” là hoạt động; “cải thiện tiếp cận an toàn tại khu vực đang có đe dọa” mô tả hướng kết quả cần làm rõ hơn bằng địa bàn, thời gian và chỉ báo. Chỉ báo có thể gồm thông tin cộng đồng, diễn biến hại và khả năng đáp ứng, không chỉ số lần triển khai.\n\n### 3.3. So sánh những lựa chọn thực sự khác nhau\nMỗi phương án cần được xem về tính hợp pháp, khả năng đạt mục tiêu, nguồn lực, thời gian, khả năng duy trì và hại có thể gây ra. Không trình ba phương án chỉ khác tên để dẫn người duyệt tới lựa chọn đã định. Cũng phải đánh giá hệ quả nếu không hành động hoặc chậm hành động, thay vì coi chờ luôn là phương án không có rủi ro.\n\nXem cả diễn biến có khả năng cao và diễn biến nguy hiểm có cơ sở. Điều này giúp chuẩn bị thay đổi, không phải lấy kịch bản tệ nhất để hợp thức hóa mọi mức cưỡng chế. Biện pháp phòng ngừa hại và điều kiện dừng phải nằm trong phương án từ đầu.\n\n### 3.4. Chọn, giao và kiểm chứng\nChọn phương án phù hợp nhất trong giới hạn, nêu lý do và rủi ro còn lại, trình cấp quyết định nếu vượt thẩm quyền. Giao nhiệm vụ, người phụ trách, thời hạn, bảo đảm và cơ chế báo. Theo dõi xem hành động có tạo hiệu quả mong muốn không; khi không đạt, phân tích nguyên nhân và điều chỉnh. Đã ban hành lệnh chưa phải kết thúc chu trình.",
+        "en": "### 3.1. A continuing cycle\nA useful cycle identifies the problem, sets the goal, develops and analyses options, selects an option, implements it and monitors effectiveness. Information collection and analysis continue throughout, with returns to earlier stages when needed.\n\nDo not turn the stages into mandatory paperwork that obstructs urgent protection. Their value lies in answered questions. Use deeper analysis when time permits and a disciplined shorter process under pressure, retaining authority, life-safety and purpose checks.\n\n### 3.2. Assessable goals\nDefine the intended result and how progress will be recognized. Increased patrols describe activity; improved safe access describes an outcome requiring location, timing and indicators. Consider community information, harm trends and response capability as well as deployment counts.\n\n### 3.3. Compare genuine alternatives\nAssess legality, effectiveness, resources, timing, sustainment and potential harm. Avoid nominally different options designed to validate a predetermined answer. Assess inaction and delay as well; waiting is not inherently risk-free.\n\nConsider plausible likely and dangerous developments. This supports preparation without using a worst case to justify unrestricted coercion. Include harm prevention and stopping conditions from the outset.\n\n### 3.4. Select, assign and verify\nExplain the chosen option, residual risk and approval needs. Assign tasks, owners, timing, support and reporting. Monitor actual effects and revise when the objective is not achieved. Issuing an order does not complete decision-making."
+      },
+      "sourceIds": [
+        "CSC008"
+      ]
+    },
+    {
+      "id": "FPU-07-04",
+      "title": {
+        "vi": "4. Chuyển quyết định thành lệnh SMEAC",
+        "en": "4. Translating decisions into SMEAC orders"
+      },
+      "body": {
+        "vi": "### 4.1. Tình hình và nhiệm vụ\n**Situation — Tình hình** trình bày bối cảnh liên quan, nguy cơ, lực lượng, đối tác, dân thường và những điều kiện ảnh hưởng. Chỉ đưa thông tin có ý nghĩa với nhiệm vụ, nêu rõ khoảng trống. Sao chép mọi bản tin vào lệnh có thể che mất điều cấp dưới cần biết nhất.\n\n**Mission — Nhiệm vụ** trả lời ai làm gì, ở đâu, khi nào và vì mục đích gì. Câu nhiệm vụ phải đủ rõ để người thực hiện hiểu kết quả cần tạo ra. Nếu hai người đọc hiểu hai mục tiêu khác nhau, phần này chưa đạt dù đã có đầy đủ tên đơn vị và giờ xuất phát.\n\n### 4.2. Thực hiện\n**Execution — Thực hiện** giải thích ý định, phân công, phối hợp, giới hạn, điều kiện điều chỉnh và kết thúc. Nêu đóng góp của từng bộ phận cùng quan hệ phụ thuộc. Đơn vị cần biết khi điều kiện đổi thì ai được điều chỉnh gì và khi nào phải xin quyết định mới.\n\nBiện pháp bảo vệ dân thường, xử lý thương tích, ghi nhận sử dụng vũ lực và chuyển tuyến phải được tính trong kế hoạch theo nhiệm vụ. Không để phần bảo đảm quyền con người thành một câu cuối chung chung không gắn trách nhiệm thực hiện.\n\n### 4.3. Hành chính, hậu cần và chỉ huy\n**Administration and logistics — Hành chính và hậu cần** xác định người, phương tiện, tiếp tế, y tế, khả năng duy trì và phục hồi. Kiểm tra nguồn lực đã bị phân cho nhiệm vụ khác, thời gian tới nơi và giới hạn sử dụng. Bảng trang bị không có tình trạng thực tế có thể làm kế hoạch thiếu khả thi.\n\n**Command and control — Chỉ huy và kiểm soát** xác định trách nhiệm, kế nhiệm, liên lạc, xác nhận và báo cáo. Người phối hợp cần biết đầu mối thực tế và phương án khi liên lạc không hoạt động. Không ghi thông tin liên hệ nhạy cảm vào bản phát rộng ngoài phạm vi cần biết.\n\n### 4.4. Kiểm tra chất lượng lệnh\nĐọc lại theo góc nhìn cấp dưới: Có hiểu mục đích và phần việc không; có đủ điều kiện làm không; biết giới hạn và cách xin hỗ trợ không. Kiểm tra mâu thuẫn về giờ, lực lượng và địa điểm giữa các phần. Phụ lục phải cùng phiên bản và thực sự tới người cần dùng. Một lệnh đầy đủ về cấu trúc vẫn cần được phổ biến và kiểm tra hiểu.",
+        "en": "### 4.1. Situation and mission\n**Situation** presents relevant context, threats, forces, partners, civilians and operating conditions, with explicit gaps. Excessive copied reporting can hide essential information.\n\n**Mission** establishes who does what, where, when and why. It must communicate the intended result. Correct unit names and departure times cannot compensate for conflicting interpretations of purpose.\n\n### 4.2. Execution\n**Execution** explains intent, assignments, coordination, limits, adjustment and termination conditions. Establish dependencies and who may revise which elements when circumstances change.\n\nInclude task-relevant civilian safeguards, casualty arrangements, force reporting and referral responsibilities. Human rights cannot be reduced to an unassigned closing statement.\n\n### 4.3. Support and control\n**Administration and logistics** establishes personnel, transport, supply, medical care, sustainment and recovery. Check competing commitments, arrival times and equipment limitations.\n\n**Command and control** defines responsibilities, succession, communications, acknowledgement and reporting, including failures. Restrict sensitive contact information to those who need it.\n\n### 4.4. Test the order\nRead as a subordinate: Is the purpose clear, is the task feasible, and are limits and help routes understood? Reconcile times, people and locations across sections. Ensure annexes use the same version and reach their users. A complete structure still requires effective briefing and comprehension checks."
+      },
+      "sourceIds": [
+        "CSC009",
+        "ORDER"
+      ]
+    },
+    {
+      "id": "FPU-07-05",
+      "title": {
+        "vi": "5. Phổ biến, xác nhận và quyết định nhanh",
+        "en": "5. Briefing, confirmation and rapid decisions"
+      },
+      "body": {
+        "vi": "### 5.1. Phổ biến để thực hiện được\nPhổ biến lệnh cần ngôn ngữ người nghe hiểu, trình tự rõ và cơ hội hỏi những điểm ảnh hưởng an toàn. Người nghe không chỉ nhớ thời gian; phải hiểu mục tiêu, phần việc, giới hạn, phối hợp và báo cáo. Có thể yêu cầu nhắc lại nhiệm vụ bằng lời của mình để phát hiện hiểu nhầm.\n\nKhông coi im lặng là xác nhận hiểu, nhất là khi có khác biệt ngôn ngữ hoặc cấp bậc. Câu hỏi ngắn như “khi điều kiện này thay đổi, anh báo ai và làm gì?” hữu ích hơn chỉ hỏi cả nhóm đã rõ chưa. Người vắng cần được phổ biến trước khi nhận việc, không dựa vào đồng đội kể lại không kiểm soát.\n\n### 5.2. Quản lý phiên bản và thay đổi\nKhi có lệnh mới hoặc sửa đổi, xác định thời gian, người ban hành, nội dung thay và người nhận. Nêu rõ phần nào còn hiệu lực để tránh hai phiên bản cùng được dùng. Với chỉ thị miệng trong tình huống gấp, xác nhận nội dung và ghi lại theo yêu cầu; chính sách FPU yêu cầu lệnh miệng được xác nhận bằng Police OpsOrder bằng văn bản khi tình hình cho phép, trong vòng 24 giờ.\n\nMốc xác nhận không phải quyền bỏ mọi ghi nhận trong một ngày hoặc chờ hết thời gian mới báo sự kiện. Nghĩa vụ báo khẩn, báo vũ lực, thương vong và thông tin bảo vệ tiếp tục theo cơ chế tương ứng.\n\n### 5.3. Quyết định nhanh vẫn có cấu trúc\nKhi thời gian ngắn, xác định điều đang xảy ra, nguy cơ nghiêm trọng, mục tiêu được phép, nguồn lực có ngay và hành động bảo vệ khả thi. Nêu rõ điều gì chưa biết, giao việc ngắn, xác nhận và rà ngay khi có thông tin mới. Kinh nghiệm giúp nhận mẫu nhưng cũng có thể khiến áp một cách làm cũ vào bối cảnh khác.\n\n### 5.4. Chuẩn bị phương án dự phòng\nDự phòng cần điểm kích hoạt, người quyết định và nguồn lực, không chỉ câu “nếu cần sẽ điều chỉnh”. Phân biệt tình huống đã dự kiến với sự cố cần phối hợp khẩn. Không chuẩn bị một phương án chỉ trên giấy khi phương tiện hoặc nhân sự dự phòng đã được sử dụng cho việc khác. Tập luyện các điểm nối giúp quyết định nhanh bớt phụ thuộc trí nhớ cá nhân.",
+        "en": "### 5.1. Brief for execution\nUse understandable language, a clear sequence and opportunities to clarify safety-critical issues. Members need purpose, tasks, limits, coordination and reporting, not only timing. Ask them to explain responsibilities in their own words.\n\nSilence is not proof of understanding, especially across rank and language differences. Specific questions about changed conditions reveal more than a general “understood?” Brief absent personnel before assignment.\n\n### 5.2. Control revisions\nIdentify the issuing authority, time, changes and recipients. Clarify what remains in force so incompatible versions do not circulate. For urgent verbal orders, confirm and record as required. FPU policy requires written Police OpsOrder confirmation as conditions allow, within 24 hours.\n\nThis limit does not suspend urgent incident, force, casualty or protection reporting, nor authorize a day without records.\n\n### 5.3. Structured rapid decisions\nIdentify current events, serious risks, authorized objectives, immediately available capability and feasible protective action. State uncertainties, assign concise tasks, confirm and reassess promptly. Experience supports pattern recognition but can also misapply old solutions.\n\n### 5.4. Real contingencies\nSpecify triggers, decision-makers and resources. Distinguish anticipated alternatives from emergencies requiring coordination. A paper reserve already committed elsewhere is not available. Rehearsed interfaces reduce dependence on individual memory under pressure."
+      },
+      "sourceIds": [
+        "POLICY",
+        "CSC008",
+        "CSC009"
+      ]
+    },
+    {
+      "id": "FPU-07-06",
+      "title": {
+        "vi": "6. Theo dõi hiệu quả và điều chỉnh có trách nhiệm",
+        "en": "6. Monitoring effects and accountable adjustment"
+      },
+      "body": {
+        "vi": "### 6.1. Biết điều gì cần theo dõi\nKế hoạch phải xác định thông tin chỉ huy cần: Tiến độ, thay đổi nguy cơ, tình trạng dân thường, quân số, trang bị, sử dụng vũ lực, thương tích và nhu cầu hỗ trợ theo nhiệm vụ. Không yêu cầu mọi bộ phận gửi mọi dữ liệu với cùng tần suất. Hệ thống quá tải có thể làm chìm một cảnh báo quan trọng giữa các báo cáo thường lệ.\n\nPhân biệt việc đã làm với hiệu quả. Đã có mặt ở địa điểm không chứng minh nguy cơ đã được kiểm soát; đã gửi cảnh báo không chứng minh người có trách nhiệm đã nhận và hành động. Cần theo dõi cả điểm nối giữa thông tin, quyết định và thực hiện.\n\n### 6.2. Điều kiện rà lại quyết định\nThay đổi thẩm quyền, thông tin quan trọng sai, nguy cơ sinh mạng tăng, mất năng lực hoặc phát sinh hại ngoài dự kiến đều có thể yêu cầu rà. Người thực hiện cần báo sớm thay vì chỉ cố bám lịch. Chỉ huy xem tiếp tục, điều chỉnh, tạm dừng hoặc đề nghị năng lực khác trong giới hạn.\n\nKhông tiếp tục chỉ vì đã đầu tư nhiều công sức. Cũng không đổi kế hoạch liên tục theo mọi tin chưa kiểm chứng. Cần đánh giá ý nghĩa của thông tin mới, độ tin cậy và hệ quả của việc đổi đối với các lực lượng liên quan.\n\n### 6.3. Ghi lý do và bảo toàn thông tin\nBáo cáo cần phân biệt điều biết tại thời điểm quyết định với điều chỉ biết sau đó. Điều này giúp đánh giá công bằng, đồng thời vẫn chỉ rõ thiếu sót trong thu thập hoặc xử lý thông tin. Không sửa hồ sơ cũ để tạo ấn tượng mọi diễn biến đã được dự đoán. Lưu các phiên bản và cập nhật đúng cơ chế.\n\n### 6.4. Rút kinh nghiệm để quyết định tốt hơn\nĐối chiếu mục tiêu, kết quả, hại phát sinh và lý do; nghe cả người thực hiện lẫn người bị ảnh hưởng qua kênh phù hợp. Chuyển nhận xét thành việc, người phụ trách, mốc và cách kiểm chứng. Nếu sai do giả định không được cập nhật, cần sửa cơ chế xác minh; nếu lệnh không tới nơi, cần sửa kênh và xác nhận. Một cuộc họp rút kinh nghiệm chỉ có giá trị khi làm quyết định và thực hiện lần sau tốt hơn.",
+        "en": "### 6.1. Monitor what decisions need\nIdentify required information on progress, threats, civilians, personnel, equipment, force, casualties and support. Avoid indiscriminate reporting demands that bury urgent warnings.\n\nDistinguish activity from effect. Presence does not prove protection, and transmission does not prove receipt or response. Monitor the links between information, decisions and action.\n\n### 6.2. Review conditions\nChanged authority, disproved critical information, increasing life risk, lost capability or unexpected harm can require review. Report early rather than merely follow the schedule. Consider continuation, adjustment, pause or alternative capability within authority.\n\nNeither sunk effort nor every unverified rumour should determine change. Assess significance, reliability and coordination consequences.\n\n### 6.3. Preserve decision context\nDistinguish what was known at the time from later knowledge. This supports fair assessment while exposing collection or analysis failures. Do not rewrite old records to make every development appear predicted. Preserve versions through appropriate systems.\n\n### 6.4. Learn for subsequent decisions\nCompare objectives, results, harm and causes, hearing implementers and affected people through appropriate channels. Assign corrective actions, owners, dates and verification. Failed assumptions require better validation; unreceived orders require communication repair. Reviews matter when subsequent decisions and performance improve."
+      },
+      "sourceIds": [
+        "CSC008",
+        "CSC009"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "POLICY",
+      "title": "Policy 2024.14: Formed Police Units in United Nations Peace Operations",
+      "publisher": "United Nations DPO",
+      "year": "2024",
+      "url": "https://resourcehub01.blob.core.windows.net/$web/Policy%20and%20Guidance/corepeacekeepingguidance/Thematic%20Operational%20Activities/Police%20and%20Law%20Enforcement/2024.14%20Formed%20Police%20Units%20in%20United%20Nations%20Peace%20Operations.pdf",
+      "format": "pdf",
+      "pages": 34,
+      "reading": "Nguồn chính sách nền; hiệu lực 01/12/2024",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "CSC008",
+      "title": "FPU Command Staff Course 2026 · Lesson 8: Decision-Making",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-008%20Lesson%208%20Decision-Making%20(LP).pdf",
+      "year": "2026",
+      "publisher": "United Nations Police / DPO",
+      "format": "pdf"
+    },
+    {
+      "id": "PLAN",
+      "title": "Decision Making Process",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-056%20Decision%20making%20process.pdf",
+      "format": "pdf",
+      "pages": 71,
+      "reading": "7–19; phần quá trình ra quyết định",
+      "checked": "2026-10-24"
+    },
+    {
+      "id": "CSC009",
+      "title": "FPU Command Staff Course 2026 · Lesson 9: Police Operations Orders",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/058%20STM-CSC/058-009%20Lesson%209%20Police%20Ops%20Orders%20(LP).pdf",
+      "year": "2026",
+      "publisher": "United Nations Police / DPO",
+      "format": "pdf"
+    },
+    {
+      "id": "ORDER",
+      "title": "Operational Crowd Control Orders",
+      "publisher": "United Nations, FPU STM",
+      "year": "2015",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/025%20STM-FPU/025-045%20Crowd%20Control%20Orders.pdf",
+      "format": "pdf",
+      "pages": 26,
+      "reading": "7–10",
+      "checked": "2026-10-24"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Đâu là câu hỏi đúng trước khi chọn phương tiện?",
+        "en": "What should be established before selecting means?"
+      },
+      "options": [
+        {
+          "vi": "Cách làm nào đã quen dù khác nhiệm vụ.",
+          "en": "Which familiar method to repeat despite a different task."
+        },
+        {
+          "vi": "Kết quả cần đạt, thẩm quyền và giới hạn.",
+          "en": "The intended result, authority and limits."
+        },
+        {
+          "vi": "Phương tiện nào đang dư để sử dụng hết.",
+          "en": "Which resources are spare so all are employed."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Phương tiện phục vụ mục tiêu; không được thay mục tiêu hoặc tạo quyền. Xem mục 1.",
+        "en": "Means serve the objective without replacing it or creating authority. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Có nên sao chép lệnh phái bộ khác rồi đổi tên địa điểm?",
+        "en": "Should another mission’s order be copied with renamed locations?"
+      },
+      "options": [
+        {
+          "vi": "Có, vì mọi mandate như nhau.",
+          "en": "Yes, because all mandates are identical."
+        },
+        {
+          "vi": "Có, nếu bản mẫu trình bày đẹp.",
+          "en": "Yes, if the template looks professional."
+        },
+        {
+          "vi": "Chỉ có thể dùng khung; nội dung phải phân tích theo bối cảnh thực.",
+          "en": "Use the structure only; analyse actual context and requirements."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Cùng biểu mẫu không có nghĩa cùng thẩm quyền, nguy cơ và nguồn lực. Xem mục 1.",
+        "en": "A common format does not establish identical authority, threats or resources. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Năm báo cáo cùng bắt nguồn từ một lời kể nên hiểu thế nào?",
+        "en": "How should five reports derived from one account be understood?"
+      },
+      "options": [
+        {
+          "vi": "Có thể là nguồn lặp, chưa phải năm kiểm chứng độc lập.",
+          "en": "They may repeat one source rather than provide five independent confirmations."
+        },
+        {
+          "vi": "Tự đủ căn cứ cưỡng chế.",
+          "en": "They automatically justify coercion."
+        },
+        {
+          "vi": "Chắc chắn chính xác gấp năm lần.",
+          "en": "They are certainly five times more accurate."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Cần đánh giá nguồn và mức độc lập, không chỉ số lần xuất hiện. Xem mục 2.",
+        "en": "Assess provenance and independence rather than repetition counts. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Một giả định quan trọng cần được quản lý thế nào?",
+        "en": "How should a critical assumption be managed?"
+      },
+      "options": [
+        {
+          "vi": "Ghi rõ, giao kiểm tra và xác định điều kiện phải rà quyết định.",
+          "en": "Label it, assign verification and set review conditions."
+        },
+        {
+          "vi": "Không cần nhắc lại khi điều kiện đổi.",
+          "en": "Do not revisit it when conditions change."
+        },
+        {
+          "vi": "Viết như sự thật để cấp dưới yên tâm.",
+          "en": "Present it as fact to reassure subordinates."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Giả định chỉ hữu ích khi có thể kiểm tra và cập nhật. Xem mục 2.",
+        "en": "Assumptions are useful when testable and revisable. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "Bước nào tiếp nối tổ chức thực hiện trong chu trình sáu bước?",
+        "en": "What follows implementation in the six-step cycle?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ lưu một bản lệnh.",
+          "en": "Only archive the order."
+        },
+        {
+          "vi": "Kết thúc mọi đánh giá.",
+          "en": "End all assessment."
+        },
+        {
+          "vi": "Theo dõi hiệu quả và điều chỉnh từ thông tin mới.",
+          "en": "Monitor effectiveness and adjust using new information."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Ra quyết định là chu trình, không kết thúc khi đã giao việc. Xem mục 3.",
+        "en": "Decision-making continues beyond task assignment. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Tại sao cần xem hệ quả của không hành động?",
+        "en": "Why assess consequences of inaction?"
+      },
+      "options": [
+        {
+          "vi": "Để luôn chọn vũ lực mạnh hơn.",
+          "en": "To always select stronger force."
+        },
+        {
+          "vi": "Vì chờ hoặc không làm cũng có thể tạo nguy cơ và hại.",
+          "en": "Because waiting or inaction can also create risk and harm."
+        },
+        {
+          "vi": "Để bỏ qua thẩm quyền khi gấp.",
+          "en": "To disregard authority under pressure."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "So sánh đầy đủ phải xét các lựa chọn, kể cả chậm; quyền và giới hạn vẫn áp dụng. Xem mục 3.",
+        "en": "Complete comparison includes delay while retaining authority and limits. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Câu nhiệm vụ cần trả lời những gì?",
+        "en": "What should a mission statement establish?"
+      },
+      "options": [
+        {
+          "vi": "Ai làm gì, ở đâu, khi nào và vì mục đích gì.",
+          "en": "Who does what, where, when and why."
+        },
+        {
+          "vi": "Chỉ giờ xuất phát.",
+          "en": "Departure time only."
+        },
+        {
+          "vi": "Chỉ danh sách trang bị.",
+          "en": "Equipment lists only."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Mục đích giúp cấp dưới hiểu kết quả cần tạo, không chỉ hoạt động. Xem mục 4.",
+        "en": "Purpose communicates the intended result rather than activity alone. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Phần chỉ huy và kiểm soát cần làm rõ gì?",
+        "en": "What belongs in command and control?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ tình hình thời tiết.",
+          "en": "Weather only."
+        },
+        {
+          "vi": "Trách nhiệm, kế nhiệm, liên lạc, xác nhận và báo cáo.",
+          "en": "Responsibilities, succession, communications, acknowledgement and reporting."
+        },
+        {
+          "vi": "Chỉ số suất ăn.",
+          "en": "Meal quantities only."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Người thực hiện cần biết ai quyết, báo đâu và cách duy trì khi có thay đổi. Xem mục 4.",
+        "en": "Members need decision authority, reporting routes and continuity arrangements. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Im lặng khi phổ biến lệnh có chứng minh hiểu không?",
+        "en": "Does silence during a briefing prove understanding?"
+      },
+      "options": [
+        {
+          "vi": "Có, nếu đã gửi tài liệu trước đó.",
+          "en": "Yes, if documents were sent beforehand."
+        },
+        {
+          "vi": "Không; cần kiểm tra phần việc và phản ứng khi điều kiện đổi.",
+          "en": "No; verify tasks and responses to changed conditions."
+        },
+        {
+          "vi": "Có, nhất là khi chỉ huy cấp cao phổ biến.",
+          "en": "Yes, especially with a senior briefer."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Ngôn ngữ và cấp bậc có thể che hiểu nhầm; câu hỏi cụ thể giúp phát hiện. Xem mục 5.",
+        "en": "Language and rank can conceal misunderstanding; specific checks reveal it. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Mốc xác nhận lệnh miệng bằng văn bản trong 24 giờ có bỏ báo khẩn không?",
+        "en": "Does written confirmation within 24 hours suspend urgent reporting?"
+      },
+      "options": [
+        {
+          "vi": "Có, được chờ hết một ngày.",
+          "en": "Yes, reporting may wait a full day."
+        },
+        {
+          "vi": "Có, nếu chưa có bản lệnh đẹp.",
+          "en": "Yes, until a polished order is available."
+        },
+        {
+          "vi": "Không; nghĩa vụ báo khẩn và sự kiện vẫn theo cơ chế riêng.",
+          "en": "No; urgent and incident reporting duties continue."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Xác nhận lệnh và báo nguy cơ phục vụ trách nhiệm khác nhau. Xem mục 5.",
+        "en": "Order confirmation and threat reporting serve distinct responsibilities. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Đã triển khai đủ lượt có chứng minh mục tiêu bảo vệ đạt không?",
+        "en": "Do completed deployments prove protection success?"
+      },
+      "options": [
+        {
+          "vi": "Chưa; cần xem thay đổi nguy cơ và tác động thực.",
+          "en": "No; assess threat changes and actual effects."
+        },
+        {
+          "vi": "Có, đủ đầu ra là đủ kết quả.",
+          "en": "Yes, outputs equal outcomes."
+        },
+        {
+          "vi": "Có, nếu không ai phàn nàn trực tiếp.",
+          "en": "Yes, if no direct complaint was received."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Hoạt động và hiệu quả không đồng nghĩa; khoảng trống phản hồi cũng cần xem. Xem mục 6.",
+        "en": "Activity and effect differ; feedback gaps also matter. See section 6."
+      },
+      "chapter": 5
+    },
+    {
+      "question": {
+        "vi": "Khi đã bỏ nhiều công nhưng căn cứ kế hoạch không còn đúng, cần làm gì?",
+        "en": "After substantial effort, the plan’s basis is disproved. What is required?"
+      },
+      "options": [
+        {
+          "vi": "Tiếp tục để tránh mất công.",
+          "en": "Continue to avoid wasted effort."
+        },
+        {
+          "vi": "Sửa hồ sơ cũ như thể đã dự báo hết.",
+          "en": "Rewrite old records as if everything was predicted."
+        },
+        {
+          "vi": "Rà lại và điều chỉnh theo căn cứ, báo ảnh hưởng phối hợp.",
+          "en": "Review and adjust on evidence, communicating coordination effects."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Chi phí đã bỏ không biện minh tiếp tục sai; phải giữ hồ sơ và trách nhiệm. Xem mục 6.",
+        "en": "Sunk effort does not justify continuation; preserve records and accountability. See section 6."
+      },
+      "chapter": 5
+    }
+  ],
+  "updated": "2026-10-28",
+  "moduleId": "FPU-M6",
+  "moduleOrder": 4,
+  "lessonOrder": 5,
+  "sourceModule": {
+    "programme": "STM-FPU",
+    "number": 6,
+    "title": "Command staff training"
+  },
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "FPU-07-01",
+      "title": {
+        "vi": "1. Quyết định bắt đầu từ vấn đề và thẩm quyền",
+        "en": "1. Decisions start with the problem and authority"
+      },
+      "body": {
+        "vi": "### 1.1. Ra quyết định là trách nhiệm chỉ huy\nRa quyết định là xác định và lựa chọn cách hành động để đạt mục tiêu, sau khi xem xét thông tin, phương án và hệ quả. Trong FPU, quyết định tốt phải kịp thời, hợp pháp, phù hợp nhiệm vụ và có thể thực hiện. Một kế hoạch chi tiết nhưng không có căn cứ thẩm quyền không trở thành hợp lệ nhờ được trình bày đẹp; một hành động nhanh nhưng không xét nguy cơ cũng không tự là quyết đoán đúng.\n\nChỉ huy cần phân biệt triệu chứng với vấn đề. “Có nhiều cuộc gọi phản ánh” là thông tin đầu vào; vấn đề có thể là nguy cơ chưa được đáp ứng, kênh báo trùng hoặc người dân chưa nhận phản hồi. Nếu xác định sai, đơn vị có thể tăng hoạt động mà không làm giảm hại thực tế.\n\n### 1.2. Liên kết các cấp kế hoạch\nMandate xác định nhiệm vụ và phạm vi thẩm quyền của phái bộ. CONOPS nối nhiệm vụ với cách sử dụng năng lực; OPLAN cụ thể hóa ở cấp tác nghiệp; OpsOrder hướng dẫn thực hiện ở cấp đơn vị và hoạt động. Người lập kế hoạch cần biết quyết định của mình đóng góp mục tiêu nào, chịu giới hạn nào và phải trình cấp nào.\n\nKhông sao chép một lệnh từ phái bộ hoặc cuộc diễn tập khác rồi chỉ đổi địa danh. Cấu trúc có thể dùng làm khung, nhưng nguy cơ, đối tác, quyền hạn và nguồn lực phải được xây dựng từ tình hình thực. Tên biểu mẫu giống nhau không có nghĩa nội dung áp dụng giống nhau.\n\n### 1.3. Xác định việc phải quyết\nMột câu hỏi quyết định tốt nêu rõ người cần bảo vệ, vấn đề cần thay đổi, thời gian và giới hạn. Thay vì “triển khai thêm lực lượng”, hãy làm rõ đơn vị cần đạt hiệu quả gì, ở đâu, bằng năng lực nào và trong khoảng nào. Phương tiện không được thay thế mục tiêu.\n\nNếu chưa rõ thẩm quyền, cần hỏi đúng đầu mối đồng thời thực hiện những việc bảo vệ, báo cáo và chuẩn bị thuộc phạm vi được giao. Không dùng yêu cầu hoàn hảo mọi thông tin để trì hoãn trách nhiệm; cũng không dùng tình trạng khẩn để tự mở rộng quyền.\n\n### 1.4. Trách nhiệm có thể truy lại\nQuyết định cần thể hiện căn cứ thông tin, lý do lựa chọn, giới hạn và người chịu trách nhiệm. Ghi nhận cả điều chưa biết và điều kiện cần rà lại. Hồ sơ không chỉ phục vụ đánh giá sau này mà giúp cấp dưới và người phối hợp hiểu cùng một quyết định trong lúc thực hiện.",
+        "en": "### 1.1. A command responsibility\nDecision-making selects action towards an objective after considering information, alternatives and consequences. FPU decisions must be timely, lawful, task-relevant and feasible. Detailed presentation cannot cure missing authority, and speed alone does not establish sound judgment.\n\nDistinguish symptoms from problems. Numerous calls may reflect unmet protection needs, duplicate reporting or absent feedback. Misdiagnosis can increase activity without reducing harm.\n\n### 1.2. Connected planning levels\nThe mandate establishes responsibilities and authority. CONOPS links these with capability employment; OPLAN develops operational direction; OpsOrders guide unit execution. Planners must understand the objective supported, applicable limits and approval level.\n\nDo not merely rename locations in another mission's order. Templates organize information, while threats, partners, authority and resources require actual analysis.\n\n### 1.3. Define the decision\nIdentify people at risk, the change required, timing and constraints. “Deploy more officers” states a means rather than a protective objective. Establish the intended effect and capability needed.\n\nSeek authoritative clarification while undertaking permitted protective, reporting and preparatory work. Incomplete information does not justify indefinite delay, and urgency does not create powers.\n\n### 1.4. Traceable responsibility\nRecord information, reasons, limits, ownership, uncertainties and review conditions. This supports accountability and a common understanding during implementation, not only retrospective assessment."
+      },
+      "sourceIds": [
+        "POLICY",
+        "CSC008"
+      ]
+    },
+    {
+      "id": "FPU-07-02",
+      "title": {
+        "vi": "2. Thông tin, giả định và thiên kiến",
+        "en": "2. Information, assumptions and bias"
+      },
+      "body": {
+        "vi": "### 2.1. Thông tin phải phục vụ câu hỏi\nThu thập những gì giúp hiểu vấn đề và lựa chọn hành động: Sự kiện, thời gian, địa điểm, người có nguy cơ, tác nhân, năng lực đang có và việc các bên đã làm. Phân biệt quan sát trực tiếp, thông tin được báo và nhận định. Một bản đồ đẹp hoặc bản tin dài vẫn có thể thiếu dữ liệu cần cho quyết định cụ thể.\n\nNguồn phải được đánh giá về khả năng biết, độ tin cậy và tính cập nhật. Nhiều báo cáo cùng bắt nguồn từ một lời kể không phải nhiều xác nhận độc lập. Thông tin trên mạng xã hội có thể gợi nhu cầu kiểm tra, nhưng không tự thành sự thật đã xác minh hoặc căn cứ đủ cho biện pháp cưỡng chế.\n\n### 2.2. Nêu giả định để có thể kiểm tra\nKhi chưa có đủ dữ kiện, kế hoạch có thể cần giả định hợp lý. Phải ghi rõ đó là giả định, vì sao cần, ai kiểm tra và khi nào quyết định phải đổi. Ví dụ, nếu kế hoạch phụ thuộc tuyến đường có thể sử dụng, cần xác định cách xác nhận và phương án khi điều kiện đó không còn đúng.\n\nMột giả định chưa được kiểm tra không được âm thầm chuyển thành kết luận chắc chắn trong lệnh. Cấp dưới cần biết điểm nào đã xác nhận và điểm nào có thể thay đổi để không tiếp tục thực hiện khi căn cứ đã mất.\n\n### 2.3. Những thiên kiến dễ gặp\nThiên kiến xác nhận khiến người chỉ tìm thông tin ủng hộ phương án đã thích. Neo vào bản tin đầu có thể làm bỏ qua diễn biến mới. Áp lực tập thể có thể khiến người biết rủi ro không nói ra. Chi phí đã bỏ ra có thể khiến chỉ huy tiếp tục một phương án không còn phù hợp chỉ để tránh cảm giác phải làm lại.\n\nKhắc phục bằng câu hỏi cụ thể: Điều gì phản bác nhận định này; ai chưa được nghe; nếu nguồn đầu sai thì sao; có đang đánh giá cả cộng đồng từ hành vi một số người không. Cần tạo điều kiện để cấp dưới nêu thông tin bất lợi cho kế hoạch mà không bị coi là chống đối.\n\n### 2.4. Khoảng trống và quyết định trong bất định\nKhông phải khoảng trống nào cũng cần chờ lấp đầy. Hãy xác định thông tin nào có thể làm thay đổi quyết định quan trọng, thông tin nào có thể cập nhật khi thực hiện và rủi ro của việc chờ. Ghi mức chắc chắn phù hợp thay vì thêm độ chính xác giả. Bảo vệ dữ liệu và nguồn tin trong suốt quá trình chia sẻ.",
+        "en": "### 2.1. Collect for a question\nSeek events, timing, location, people at risk, relevant actors, available capability and action already taken. Separate observation, reporting and assessment. A detailed briefing may still omit decision-critical information.\n\nEvaluate source access, reliability and freshness. Repeated circulation of one account is not independent corroboration. Social-media material can prompt verification without becoming established fact or sufficient grounds for coercion.\n\n### 2.2. Make assumptions testable\nAn incomplete picture may require reasonable assumptions. Label them, explain their necessity, assign verification and identify conditions requiring revision. If access depends on a usable route, establish confirmation and an alternative.\n\nAn unverified assumption must not quietly become certainty in the order. Subordinates need to understand which conditions are confirmed and which may change.\n\n### 2.3. Common biases\nConfirmation bias favours supporting evidence. Anchoring on an initial report can obscure developments. Group pressure suppresses concerns. Sunk costs can encourage continuation of a failing option.\n\nAsk what contradicts the assessment, whose perspective is missing, what happens if the initial source is wrong and whether individuals' conduct is being generalized to a community. Encourage evidence-based disagreement without treating it as disloyalty.\n\n### 2.4. Decide under uncertainty\nNot every gap warrants delay. Identify information that could change a critical decision, what can be updated during action and the risk of waiting. Express uncertainty honestly and protect data and contributors throughout sharing."
+      },
+      "sourceIds": [
+        "CSC008",
+        "PLAN"
+      ]
+    },
+    {
+      "id": "FPU-07-03",
+      "title": {
+        "vi": "3. Sáu bước và lựa chọn phương án",
+        "en": "3. Six steps and option selection"
+      },
+      "body": {
+        "vi": "### 3.1. Chu trình quyết định\nMột chu trình hữu ích gồm: Xác định vấn đề; xác định mục tiêu; xây dựng và phân tích phương án; chọn phương án; tổ chức thực hiện; theo dõi hiệu quả. Thông tin được thu thập và phân tích xuyên suốt, không chỉ ở đầu. Có thể quay lại bước trước khi dữ kiện hoặc điều kiện thay đổi.\n\nKhông nên biến sáu bước thành sáu biểu mẫu phải hoàn tất dù tình hình đang khẩn. Giá trị nằm ở các câu hỏi được trả lời và chất lượng quyết định, không phải số ô đã điền. Trong điều kiện có thời gian, phân tích cần sâu và có trao đổi; khi gấp, cần rút gọn nhưng vẫn giữ thẩm quyền, nguy cơ sinh mạng và mục tiêu.\n\n### 3.2. Mục tiêu đủ rõ để đánh giá\nMục tiêu cần nêu kết quả mong muốn và cách nhận biết đã đạt. “Tăng tuần tra” là hoạt động; “cải thiện tiếp cận an toàn tại khu vực đang có đe dọa” mô tả hướng kết quả cần làm rõ hơn bằng địa bàn, thời gian và chỉ báo. Chỉ báo có thể gồm thông tin cộng đồng, diễn biến hại và khả năng đáp ứng, không chỉ số lần triển khai.\n\n### 3.3. So sánh những lựa chọn thực sự khác nhau\nMỗi phương án cần được xem về tính hợp pháp, khả năng đạt mục tiêu, nguồn lực, thời gian, khả năng duy trì và hại có thể gây ra. Không trình ba phương án chỉ khác tên để dẫn người duyệt tới lựa chọn đã định. Cũng phải đánh giá hệ quả nếu không hành động hoặc chậm hành động, thay vì coi chờ luôn là phương án không có rủi ro.\n\nXem cả diễn biến có khả năng cao và diễn biến nguy hiểm có cơ sở. Điều này giúp chuẩn bị thay đổi, không phải lấy kịch bản tệ nhất để hợp thức hóa mọi mức cưỡng chế. Biện pháp phòng ngừa hại và điều kiện dừng phải nằm trong phương án từ đầu.\n\n### 3.4. Chọn, giao và kiểm chứng\nChọn phương án phù hợp nhất trong giới hạn, nêu lý do và rủi ro còn lại, trình cấp quyết định nếu vượt thẩm quyền. Giao nhiệm vụ, người phụ trách, thời hạn, bảo đảm và cơ chế báo. Theo dõi xem hành động có tạo hiệu quả mong muốn không; khi không đạt, phân tích nguyên nhân và điều chỉnh. Đã ban hành lệnh chưa phải kết thúc chu trình.",
+        "en": "### 3.1. A continuing cycle\nA useful cycle identifies the problem, sets the goal, develops and analyses options, selects an option, implements it and monitors effectiveness. Information collection and analysis continue throughout, with returns to earlier stages when needed.\n\nDo not turn the stages into mandatory paperwork that obstructs urgent protection. Their value lies in answered questions. Use deeper analysis when time permits and a disciplined shorter process under pressure, retaining authority, life-safety and purpose checks.\n\n### 3.2. Assessable goals\nDefine the intended result and how progress will be recognized. Increased patrols describe activity; improved safe access describes an outcome requiring location, timing and indicators. Consider community information, harm trends and response capability as well as deployment counts.\n\n### 3.3. Compare genuine alternatives\nAssess legality, effectiveness, resources, timing, sustainment and potential harm. Avoid nominally different options designed to validate a predetermined answer. Assess inaction and delay as well; waiting is not inherently risk-free.\n\nConsider plausible likely and dangerous developments. This supports preparation without using a worst case to justify unrestricted coercion. Include harm prevention and stopping conditions from the outset.\n\n### 3.4. Select, assign and verify\nExplain the chosen option, residual risk and approval needs. Assign tasks, owners, timing, support and reporting. Monitor actual effects and revise when the objective is not achieved. Issuing an order does not complete decision-making."
+      },
+      "sourceIds": [
+        "CSC008"
+      ]
+    },
+    {
+      "id": "FPU-07-04",
+      "title": {
+        "vi": "4. Chuyển quyết định thành lệnh SMEAC",
+        "en": "4. Translating decisions into SMEAC orders"
+      },
+      "body": {
+        "vi": "### 4.1. Tình hình và nhiệm vụ\n**Situation — Tình hình** trình bày bối cảnh liên quan, nguy cơ, lực lượng, đối tác, dân thường và những điều kiện ảnh hưởng. Chỉ đưa thông tin có ý nghĩa với nhiệm vụ, nêu rõ khoảng trống. Sao chép mọi bản tin vào lệnh có thể che mất điều cấp dưới cần biết nhất.\n\n**Mission — Nhiệm vụ** trả lời ai làm gì, ở đâu, khi nào và vì mục đích gì. Câu nhiệm vụ phải đủ rõ để người thực hiện hiểu kết quả cần tạo ra. Nếu hai người đọc hiểu hai mục tiêu khác nhau, phần này chưa đạt dù đã có đầy đủ tên đơn vị và giờ xuất phát.\n\n### 4.2. Thực hiện\n**Execution — Thực hiện** giải thích ý định, phân công, phối hợp, giới hạn, điều kiện điều chỉnh và kết thúc. Nêu đóng góp của từng bộ phận cùng quan hệ phụ thuộc. Đơn vị cần biết khi điều kiện đổi thì ai được điều chỉnh gì và khi nào phải xin quyết định mới.\n\nBiện pháp bảo vệ dân thường, xử lý thương tích, ghi nhận sử dụng vũ lực và chuyển tuyến phải được tính trong kế hoạch theo nhiệm vụ. Không để phần bảo đảm quyền con người thành một câu cuối chung chung không gắn trách nhiệm thực hiện.\n\n### 4.3. Hành chính, hậu cần và chỉ huy\n**Administration and logistics — Hành chính và hậu cần** xác định người, phương tiện, tiếp tế, y tế, khả năng duy trì và phục hồi. Kiểm tra nguồn lực đã bị phân cho nhiệm vụ khác, thời gian tới nơi và giới hạn sử dụng. Bảng trang bị không có tình trạng thực tế có thể làm kế hoạch thiếu khả thi.\n\n**Command and control — Chỉ huy và kiểm soát** xác định trách nhiệm, kế nhiệm, liên lạc, xác nhận và báo cáo. Người phối hợp cần biết đầu mối thực tế và phương án khi liên lạc không hoạt động. Không ghi thông tin liên hệ nhạy cảm vào bản phát rộng ngoài phạm vi cần biết.\n\n### 4.4. Kiểm tra chất lượng lệnh\nĐọc lại theo góc nhìn cấp dưới: Có hiểu mục đích và phần việc không; có đủ điều kiện làm không; biết giới hạn và cách xin hỗ trợ không. Kiểm tra mâu thuẫn về giờ, lực lượng và địa điểm giữa các phần. Phụ lục phải cùng phiên bản và thực sự tới người cần dùng. Một lệnh đầy đủ về cấu trúc vẫn cần được phổ biến và kiểm tra hiểu.",
+        "en": "### 4.1. Situation and mission\n**Situation** presents relevant context, threats, forces, partners, civilians and operating conditions, with explicit gaps. Excessive copied reporting can hide essential information.\n\n**Mission** establishes who does what, where, when and why. It must communicate the intended result. Correct unit names and departure times cannot compensate for conflicting interpretations of purpose.\n\n### 4.2. Execution\n**Execution** explains intent, assignments, coordination, limits, adjustment and termination conditions. Establish dependencies and who may revise which elements when circumstances change.\n\nInclude task-relevant civilian safeguards, casualty arrangements, force reporting and referral responsibilities. Human rights cannot be reduced to an unassigned closing statement.\n\n### 4.3. Support and control\n**Administration and logistics** establishes personnel, transport, supply, medical care, sustainment and recovery. Check competing commitments, arrival times and equipment limitations.\n\n**Command and control** defines responsibilities, succession, communications, acknowledgement and reporting, including failures. Restrict sensitive contact information to those who need it.\n\n### 4.4. Test the order\nRead as a subordinate: Is the purpose clear, is the task feasible, and are limits and help routes understood? Reconcile times, people and locations across sections. Ensure annexes use the same version and reach their users. A complete structure still requires effective briefing and comprehension checks."
+      },
+      "sourceIds": [
+        "CSC009",
+        "ORDER"
+      ]
+    },
+    {
+      "id": "FPU-07-05",
+      "title": {
+        "vi": "5. Phổ biến, xác nhận và quyết định nhanh",
+        "en": "5. Briefing, confirmation and rapid decisions"
+      },
+      "body": {
+        "vi": "### 5.1. Phổ biến để thực hiện được\nPhổ biến lệnh cần ngôn ngữ người nghe hiểu, trình tự rõ và cơ hội hỏi những điểm ảnh hưởng an toàn. Người nghe không chỉ nhớ thời gian; phải hiểu mục tiêu, phần việc, giới hạn, phối hợp và báo cáo. Có thể yêu cầu nhắc lại nhiệm vụ bằng lời của mình để phát hiện hiểu nhầm.\n\nKhông coi im lặng là xác nhận hiểu, nhất là khi có khác biệt ngôn ngữ hoặc cấp bậc. Câu hỏi ngắn như “khi điều kiện này thay đổi, anh báo ai và làm gì?” hữu ích hơn chỉ hỏi cả nhóm đã rõ chưa. Người vắng cần được phổ biến trước khi nhận việc, không dựa vào đồng đội kể lại không kiểm soát.\n\n### 5.2. Quản lý phiên bản và thay đổi\nKhi có lệnh mới hoặc sửa đổi, xác định thời gian, người ban hành, nội dung thay và người nhận. Nêu rõ phần nào còn hiệu lực để tránh hai phiên bản cùng được dùng. Với chỉ thị miệng trong tình huống gấp, xác nhận nội dung và ghi lại theo yêu cầu; chính sách FPU yêu cầu lệnh miệng được xác nhận bằng Police OpsOrder bằng văn bản khi tình hình cho phép, trong vòng 24 giờ.\n\nMốc xác nhận không phải quyền bỏ mọi ghi nhận trong một ngày hoặc chờ hết thời gian mới báo sự kiện. Nghĩa vụ báo khẩn, báo vũ lực, thương vong và thông tin bảo vệ tiếp tục theo cơ chế tương ứng.\n\n### 5.3. Quyết định nhanh vẫn có cấu trúc\nKhi thời gian ngắn, xác định điều đang xảy ra, nguy cơ nghiêm trọng, mục tiêu được phép, nguồn lực có ngay và hành động bảo vệ khả thi. Nêu rõ điều gì chưa biết, giao việc ngắn, xác nhận và rà ngay khi có thông tin mới. Kinh nghiệm giúp nhận mẫu nhưng cũng có thể khiến áp một cách làm cũ vào bối cảnh khác.\n\n### 5.4. Chuẩn bị phương án dự phòng\nDự phòng cần điểm kích hoạt, người quyết định và nguồn lực, không chỉ câu “nếu cần sẽ điều chỉnh”. Phân biệt tình huống đã dự kiến với sự cố cần phối hợp khẩn. Không chuẩn bị một phương án chỉ trên giấy khi phương tiện hoặc nhân sự dự phòng đã được sử dụng cho việc khác. Tập luyện các điểm nối giúp quyết định nhanh bớt phụ thuộc trí nhớ cá nhân.",
+        "en": "### 5.1. Brief for execution\nUse understandable language, a clear sequence and opportunities to clarify safety-critical issues. Members need purpose, tasks, limits, coordination and reporting, not only timing. Ask them to explain responsibilities in their own words.\n\nSilence is not proof of understanding, especially across rank and language differences. Specific questions about changed conditions reveal more than a general “understood?” Brief absent personnel before assignment.\n\n### 5.2. Control revisions\nIdentify the issuing authority, time, changes and recipients. Clarify what remains in force so incompatible versions do not circulate. For urgent verbal orders, confirm and record as required. FPU policy requires written Police OpsOrder confirmation as conditions allow, within 24 hours.\n\nThis limit does not suspend urgent incident, force, casualty or protection reporting, nor authorize a day without records.\n\n### 5.3. Structured rapid decisions\nIdentify current events, serious risks, authorized objectives, immediately available capability and feasible protective action. State uncertainties, assign concise tasks, confirm and reassess promptly. Experience supports pattern recognition but can also misapply old solutions.\n\n### 5.4. Real contingencies\nSpecify triggers, decision-makers and resources. Distinguish anticipated alternatives from emergencies requiring coordination. A paper reserve already committed elsewhere is not available. Rehearsed interfaces reduce dependence on individual memory under pressure."
+      },
+      "sourceIds": [
+        "POLICY",
+        "CSC008",
+        "CSC009"
+      ]
+    },
+    {
+      "id": "FPU-07-06",
+      "title": {
+        "vi": "6. Theo dõi hiệu quả và điều chỉnh có trách nhiệm",
+        "en": "6. Monitoring effects and accountable adjustment"
+      },
+      "body": {
+        "vi": "### 6.1. Biết điều gì cần theo dõi\nKế hoạch phải xác định thông tin chỉ huy cần: Tiến độ, thay đổi nguy cơ, tình trạng dân thường, quân số, trang bị, sử dụng vũ lực, thương tích và nhu cầu hỗ trợ theo nhiệm vụ. Không yêu cầu mọi bộ phận gửi mọi dữ liệu với cùng tần suất. Hệ thống quá tải có thể làm chìm một cảnh báo quan trọng giữa các báo cáo thường lệ.\n\nPhân biệt việc đã làm với hiệu quả. Đã có mặt ở địa điểm không chứng minh nguy cơ đã được kiểm soát; đã gửi cảnh báo không chứng minh người có trách nhiệm đã nhận và hành động. Cần theo dõi cả điểm nối giữa thông tin, quyết định và thực hiện.\n\n### 6.2. Điều kiện rà lại quyết định\nThay đổi thẩm quyền, thông tin quan trọng sai, nguy cơ sinh mạng tăng, mất năng lực hoặc phát sinh hại ngoài dự kiến đều có thể yêu cầu rà. Người thực hiện cần báo sớm thay vì chỉ cố bám lịch. Chỉ huy xem tiếp tục, điều chỉnh, tạm dừng hoặc đề nghị năng lực khác trong giới hạn.\n\nKhông tiếp tục chỉ vì đã đầu tư nhiều công sức. Cũng không đổi kế hoạch liên tục theo mọi tin chưa kiểm chứng. Cần đánh giá ý nghĩa của thông tin mới, độ tin cậy và hệ quả của việc đổi đối với các lực lượng liên quan.\n\n### 6.3. Ghi lý do và bảo toàn thông tin\nBáo cáo cần phân biệt điều biết tại thời điểm quyết định với điều chỉ biết sau đó. Điều này giúp đánh giá công bằng, đồng thời vẫn chỉ rõ thiếu sót trong thu thập hoặc xử lý thông tin. Không sửa hồ sơ cũ để tạo ấn tượng mọi diễn biến đã được dự đoán. Lưu các phiên bản và cập nhật đúng cơ chế.\n\n### 6.4. Rút kinh nghiệm để quyết định tốt hơn\nĐối chiếu mục tiêu, kết quả, hại phát sinh và lý do; nghe cả người thực hiện lẫn người bị ảnh hưởng qua kênh phù hợp. Chuyển nhận xét thành việc, người phụ trách, mốc và cách kiểm chứng. Nếu sai do giả định không được cập nhật, cần sửa cơ chế xác minh; nếu lệnh không tới nơi, cần sửa kênh và xác nhận. Một cuộc họp rút kinh nghiệm chỉ có giá trị khi làm quyết định và thực hiện lần sau tốt hơn.",
+        "en": "### 6.1. Monitor what decisions need\nIdentify required information on progress, threats, civilians, personnel, equipment, force, casualties and support. Avoid indiscriminate reporting demands that bury urgent warnings.\n\nDistinguish activity from effect. Presence does not prove protection, and transmission does not prove receipt or response. Monitor the links between information, decisions and action.\n\n### 6.2. Review conditions\nChanged authority, disproved critical information, increasing life risk, lost capability or unexpected harm can require review. Report early rather than merely follow the schedule. Consider continuation, adjustment, pause or alternative capability within authority.\n\nNeither sunk effort nor every unverified rumour should determine change. Assess significance, reliability and coordination consequences.\n\n### 6.3. Preserve decision context\nDistinguish what was known at the time from later knowledge. This supports fair assessment while exposing collection or analysis failures. Do not rewrite old records to make every development appear predicted. Preserve versions through appropriate systems.\n\n### 6.4. Learn for subsequent decisions\nCompare objectives, results, harm and causes, hearing implementers and affected people through appropriate channels. Assign corrective actions, owners, dates and verification. Failed assumptions require better validation; unreceived orders require communication repair. Reviews matter when subsequent decisions and performance improve."
+      },
+      "sourceIds": [
+        "CSC008",
+        "CSC009"
+      ]
+    }
+  ],
+  "source_ids": [
+    "POLICY",
+    "CSC008",
+    "PLAN",
+    "CSC009",
+    "ORDER"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "CONOPS / OPLAN",
+      "definition": {
+        "vi": "Ý niệm tác nghiệp / kế hoạch tác nghiệp.",
+        "en": "Concept of Operations / operational plan."
+      }
+    },
+    {
+      "term": "OpsOrder",
+      "definition": {
+        "vi": "Lệnh tổ chức thực hiện hoạt động.",
+        "en": "Order directing operational execution."
+      }
+    },
+    {
+      "term": "Assumption",
+      "definition": {
+        "vi": "Giả định cần nêu rõ, kiểm tra và rà lại.",
+        "en": "An explicit, testable and revisable assumption."
+      }
+    },
+    {
+      "term": "SMEAC",
+      "definition": {
+        "vi": "Tình hình; nhiệm vụ; thực hiện; hành chính, hậu cần; chỉ huy, kiểm soát.",
+        "en": "Situation; mission; execution; administration and logistics; command and control."
+      }
+    },
+    {
+      "term": "Contingency",
+      "definition": {
+        "vi": "Phương án dự phòng có điều kiện kích hoạt và nguồn lực.",
+        "en": "A contingency with triggers and resources."
+      }
+    }
+  ],
+  "diagram": null,
+  "contentVersion": "batch-04-expanded-v1-2026-10-28",
+  "sourceIntro": {
+    "vi": "Nguồn theo mục và tài liệu đối chiếu. Lời giảng, bản Anh và câu hỏi được biên soạn cho Handbook. Hình gốc có tài liệu, trang PDF và lời giải thích riêng.",
+    "en": "Section-level sources and supplementary reading. Teaching, English text and questions are authored for the Handbook. Original figures identify source, PDF page and separate commentary."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Bản biên soạn đợt 4, ngày 28/10/2026, chờ người dùng duyệt; không phải ấn phẩm hoặc bản dịch chính thức UN. Mã bài là cách tổ chức của Handbook.",
+      "Giao diện giữ bốn tab, Tahoma, cỡ chữ và bố cục mẫu. Hình giữ chữ gốc, có lời giảng Việt–Anh. Nguồn theo mục chỉ nền kiến thức, không coi mọi câu là trích nguyên văn.",
+      "Nội dung chung không thay mandate, DUF hoặc SOP phái bộ, không tự trao quyền hoặc chứng nhận năng lực thực hành. Phần thực hành cần người hướng dẫn đủ năng lực và điều kiện phù hợp.",
+      "Nguồn chính CSC 2026 Lessons 8–9 và chính sách 2024.14. Chu trình sáu bước giữ thông tin xuyên suốt; SMEAC giữ năm phần. Mốc 24 giờ xác nhận lệnh miệng đọc theo đoạn 28 chính sách, không thay nghĩa vụ báo khẩn.",
+      "Giải thích thiên kiến và ví dụ ngắn được biên soạn để giảng, không phải tình huống thật hoặc thủ tục tác nghiệp mới. Các ví dụ Carana trong nguồn không được dùng như mandate hiện hành."
+    ],
+    "en": [
+      "Batch 4 authored on 28 October 2026 for user review, not an official UN publication or translation. Lesson numbering belongs to the Handbook.",
+      "The four-tab Tahoma interface, sizes and sample layout are retained. Figures preserve original text with bilingual commentary. Mapping identifies knowledge foundations, not verbatim sourcing for every sentence.",
+      "General content does not replace applicable mandates, DUF or mission SOPs and confers neither powers nor practical certification. Practical learning requires competent instruction and suitable conditions.",
+      "CSC 2026 Lessons 8–9 and Policy 2024.14 are principal sources. The six-step cycle retains continuing analysis and the five SMEAC elements. The 24-hour verbal-order confirmation is read with policy paragraph 28, without suspending urgent reporting.",
+      "Bias explanations and short examples are authored teaching, not reported incidents or new operational procedures. Source Carana scenarios are not presented as current mandates."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bài học đi từ xác định vấn đề và thẩm quyền tới thông tin, giả định, lựa chọn, lệnh SMEAC và theo dõi hiệu quả. Các ví dụ ngắn giúp nhận ra khác biệt giữa hoạt động và kết quả.",
+      "en": "Move from problem and authority through information, assumptions, alternatives, SMEAC orders and effects monitoring, distinguishing activity from outcomes."
+    },
+    "subtitle": {
+      "vi": "Rõ vấn đề · Có căn cứ · Lệnh hiểu được · Rà hiệu quả",
+      "en": "Define the problem · Assess evidence · Communicate orders · Review effects"
+    },
+    "objectives": {
+      "vi": [
+        "Liên kết quyết định đơn vị với mandate, CONOPS, OPLAN và OpsOrder.",
+        "Đánh giá nguồn, giả định và thiên kiến khi chưa đủ dữ kiện.",
+        "Giải thích sáu bước và so sánh phương án, kể cả chậm hoặc không hành động.",
+        "Tổ chức SMEAC, phổ biến và xác nhận hiểu.",
+        "Quản lý thay đổi, quyết định nhanh, theo dõi và sửa."
+      ],
+      "en": [
+        "Connect unit decisions with mandate, CONOPS, OPLAN and OpsOrders.",
+        "Assess sources, assumptions and bias under uncertainty.",
+        "Explain six steps and compare alternatives, including delay and inaction.",
+        "Explain SMEAC, briefing and comprehension checks.",
+        "Manage revisions, rapid decisions, monitoring and correction."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc sáu mục trong tab Nội dung bài học; bấm hình để xem lớn và đọc lời giảng kèm. Làm 12 câu kiểm tra, đọc giải thích và trở lại mục liên quan. VI/EN giữ đáp án trong phiên; tải lại trang bắt đầu lại.",
+      "en": "Read six sections and figure commentary; click figures to enlarge. Complete 12 questions, review explanations and revisit relevant sections. VI/EN retains selections during the session; reloading starts again."
+    }
+  },
+  "figures": [
+    {
+      "chapter": 2,
+      "image": "assets/lesson-figures/batch-04/CSC008-p12.png",
+      "alt": {
+        "vi": "Hình 1. Chu trình sáu bước ra quyết định",
+        "en": "Figure 1. Six-step decision-making cycle"
+      },
+      "caption": {
+        "vi": "Hình 1. Chu trình sáu bước ra quyết định",
+        "en": "Figure 1. Six-step decision-making cycle"
+      },
+      "explanation": {
+        "vi": "Thông tin nằm giữa và tiếp tục nuôi cả chu trình. Sau thực hiện phải theo dõi hiệu quả, cập nhật vấn đề và mục tiêu khi cần. Các bước giúp kiểm tra tư duy, không phải sáu biểu mẫu làm chậm đáp ứng khẩn.",
+        "en": "Information continues throughout the cycle. Monitor effects after implementation and revise the problem or goal where needed. The stages guide judgment rather than impose six delay-producing forms."
+      },
+      "sourceLabel": "UN FPU Command Staff Course 2026 · Lesson 8",
+      "pdfPage": 12
+    },
+    {
+      "chapter": 3,
+      "image": "assets/lesson-figures/batch-04/CSC009-p11.png",
+      "alt": {
+        "vi": "Hình 2. Năm phần Police OpsOrder",
+        "en": "Figure 2. Five Police OpsOrder elements"
+      },
+      "caption": {
+        "vi": "Hình 2. Năm phần Police OpsOrder",
+        "en": "Figure 2. Five Police OpsOrder elements"
+      },
+      "explanation": {
+        "vi": "Đọc năm phần cùng nhau: Tình hình, nhiệm vụ, thực hiện, bảo đảm và chỉ huy. Người nhận cần biết mục đích, phần việc, nguồn lực và nơi báo; một lệnh có đủ tiêu đề chưa chắc đã đủ để thực hiện.",
+        "en": "Read situation, mission, execution, support and control together. Recipients need purpose, assignments, resources and reporting; complete headings alone do not establish an executable order."
+      },
+      "sourceLabel": "UN FPU Command Staff Course 2026 · Lesson 9",
+      "pdfPage": 11
+    }
+  ],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft",
+  "figureZoom": true
+}

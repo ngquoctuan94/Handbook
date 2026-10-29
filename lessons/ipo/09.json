@@ -1,0 +1,562 @@
+{
+  "schemaVersion": 2,
+  "id": "IPO-09",
+  "area": "ipo",
+  "groupKey": "IPO-M4",
+  "group": {
+    "vi": "Chuẩn bị đánh giá tuyển chọn",
+    "en": "Selection assessment preparation"
+  },
+  "title": {
+    "vi": "Chuẩn bị đánh giá kỹ năng lái xe",
+    "en": "Preparing for a driving assessment"
+  },
+  "summary": {
+    "vi": "Bài học IPO-09 tập trung vào chủ đề: Chuẩn bị đánh giá kỹ năng lái xe. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+    "en": "Lesson IPO-09 covers the following topic: Preparing for a driving assessment. It connects concepts with professional responsibilities."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "AMS2024",
+  "sourceUrl": "https://unmiss.unmissions.org/sites/default/files/2026-02/SOP%20on%20Assessment%20for%20Mission%20Service%20of%20Individual%20Police%20Officers%20%282024%29.pdf",
+  "order": 403,
+  "sections": [
+    {
+      "id": "IPO-09-01",
+      "title": {
+        "vi": "1. Kiểm chứng yêu cầu",
+        "en": "1. Confirm the actual requirements"
+      },
+      "body": {
+        "vi": "Lấy tiêu chuẩn và bài thi từ cơ quan đánh giá của đợt dự kiến. Không áp số phút, số lần thử hoặc sơ đồ từ video/bản SOP cũ như quy tắc hiện hành. Kiểm tra giấy phép và điều kiện với loại xe; không coi biết lái một xe là đủ mọi phương tiện.",
+        "en": "Obtain the test and standards from the responsible assessment authority. Do not treat timings, attempts or diagrams from old material as current rules. Check licence and vehicle conditions; competence with one vehicle is not competence with every type."
+      },
+      "sourceIds": [
+        "C27",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-09-02",
+      "title": {
+        "vi": "2. Làm quen trước vận hành",
+        "en": "2. Familiarize before moving"
+      },
+      "body": {
+        "vi": "Nhận biết điều khiển, vị trí số, phanh, đèn, gương và đặc điểm xe dưới hướng dẫn. Kiểm tra tình trạng và an toàn, điều chỉnh ghế/gương, dùng dây an toàn. Nếu không hiểu yêu cầu hoặc thấy bất thường, báo người phụ trách trước khi di chuyển.\n\n### 2.1. Sẵn sàng trước khi xe chạy\n\nViệc làm quen cần giúp người lái tìm đúng điều khiển mà không phải mò trong lúc di chuyển. Xác nhận tư thế, tầm nhìn, gương, dây an toàn và khả năng dùng phanh, số theo hướng dẫn của mẫu xe. Người hướng dẫn cần biết hạn chế hoặc điều chưa rõ của học viên. Nếu phương tiện có bất thường, xử lý qua người phụ trách; việc muốn tận dụng thời gian không thay yêu cầu an toàn.",
+        "en": "Identify controls, gears, brakes, lights, mirrors and vehicle characteristics under instruction. Check condition and safety, adjust the seat and mirrors and wear the seat belt. Report unclear requirements or abnormalities before moving.\n\n### 2.1. Be ready before the vehicle moves\n\nFamiliarization should let the driver locate controls without searching while moving. Confirm seating, visibility, mirrors, restraints and use of brakes and gears under model-specific instruction. Tell the instructor about limitations or unclear controls. Refer vehicle abnormalities to the responsible person rather than using valuable practice time as a reason to continue. The objective is predictable, controlled operation, not simply recognition of the dashboard labels."
+      },
+      "sourceIds": [
+        "C27",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-09-03",
+      "title": {
+        "vi": "3. Thực hành có giám sát",
+        "en": "3. Practise under supervision"
+      },
+      "body": {
+        "vi": "Ôn quan sát, điều khiển tốc độ, rẽ, lùi, đỗ và phối hợp trong không gian được phép. Không tự tập bài khó nơi công cộng hoặc dùng người đứng sát làm mốc. Mục tiêu là kiểm soát ổn định và an toàn, không chỉ hoàn thành nhanh.\n\n### 3.1. Luyện từ ổn định đến phối hợp\n\nNgười hướng dẫn chọn nội dung phù hợp khả năng ban đầu, quan sát và phản hồi từng lỗi. Khi thao tác riêng ổn định, mới kết hợp quan sát, điều khiển và yêu cầu của bài. Dùng không gian được phê duyệt, không tự dựng bài ngoài đường. Trong mọi phần, giữ khả năng dừng khi cần và làm theo lệnh. Tăng độ khó phải theo biểu hiện, không theo áp lực hoàn thành đủ số vòng.",
+        "en": "Practise observation, speed control, turning, reversing, parking and coordination in an authorized area. Avoid difficult unsupervised practice in public or using people standing close as markers. Stable, safe control matters more than speed alone.\n\n### 3.1. Develop stable performance before complexity\n\nThe instructor selects work for the learner’s starting competence, observes and corrects specific errors. Once individual tasks are stable, combine observation, control and the exercise requirements. Use an approved area rather than constructing an improvised public-road test. Maintain the ability to stop appropriately and follow instructions throughout. Increase complexity according to demonstrated performance, not pressure to complete a number of repetitions. Consistency under supervision is more useful than one hurried successful attempt."
+      },
+      "sourceIds": [
+        "C27",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-09-04",
+      "title": {
+        "vi": "4. Trong đánh giá",
+        "en": "4. During the assessment"
+      },
+      "body": {
+        "vi": "Nghe đủ hướng dẫn, xác nhận điểm chưa rõ và duy trì quan sát. Một lỗi không được xử lý bằng hành động vội vàng tạo nguy cơ khác. Không suy rằng chưa chạm vật cản nghĩa mọi tiêu chí đều đạt; đánh giá có thể gồm quy trình an toàn và hành vi điều khiển.",
+        "en": "Listen to all instructions, clarify uncertainty and maintain observation. Do not compensate for one error with a rushed unsafe action. Avoiding contact with an obstacle does not prove all criteria were met; safe procedure and control behaviour may also be assessed."
+      },
+      "sourceIds": [
+        "C27",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-09-05",
+      "title": {
+        "vi": "5. Phân tích lỗi",
+        "en": "5. Analyse mistakes"
+      },
+      "body": {
+        "vi": "Ghi điều kiện xảy ra lỗi, nguyên nhân có bằng chứng và nội dung luyện lại. Phân biệt hiểu sai hướng dẫn với thiếu kỹ năng hoặc chưa quen xe. Luyện có mục tiêu hiệu quả hơn chỉ lặp cùng bài mà không biết lỗi ở đâu.\n\n### 5.1. Nhật ký sửa lỗi\n\nGhi yêu cầu, lỗi quan sát, điều kiện, phản hồi và kết quả thực hiện lại. Với mỗi lỗi, xem do chưa hiểu, chưa quen xe hay thiếu kỹ năng; không dùng một nhãn chung như mất bình tĩnh thay phân tích. Chọn bài sửa đúng nguyên nhân, rồi kiểm tra trong điều kiện tương đương. Hồ sơ luyện tập giúp thấy tiến bộ và nội dung còn thiếu, nhưng không được gọi là kết quả đánh giá chính thức.",
+        "en": "Record conditions, evidenced causes and what needs practice. Distinguish misunderstanding, skill limitations and unfamiliarity with the vehicle. Targeted correction is more useful than repeating the same exercise without knowing the cause.\n\n### 5.1. Keep an error-correction record\n\nRecord the requirement, observed error, conditions, feedback and performance on repetition. Separate misunderstanding, vehicle unfamiliarity and skill gaps instead of using a general label such as panic. Select correction for the cause, then verify under comparable conditions. The log shows progress and remaining needs, but is not an official assessment result. It should support an honest discussion with the instructor rather than encourage avoidance of difficult criteria or reliance on imagined examiner preferences."
+      },
+      "sourceIds": [
+        "C27",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-09-06",
+      "title": {
+        "vi": "6. Quản lý chất lượng luyện tập",
+        "en": "6. Manage practice quality"
+      },
+      "body": {
+        "vi": "Mỗi buổi chọn lỗi cụ thể và điều kiện kiểm tra. Người hướng dẫn quan sát an toàn, khả năng làm theo yêu cầu và kiểm soát xe. Sau sửa lỗi phải thực hiện lại có giám sát để xác nhận, không chỉ giải thích miệng. Áp lực thời gian chỉ đưa vào trong điều kiện được phép, không làm mất ưu tiên an toàn.",
+        "en": "Select a specific weakness and verification conditions for each session. The instructor should observe safety, response to instructions and control. Reperform under supervision after correction; a verbal explanation alone does not establish improvement. Time pressure belongs only in authorized safe conditions."
+      },
+      "sourceIds": [
+        "C27",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-09-07",
+      "title": {
+        "vi": "7. Sau kết quả chưa đạt",
+        "en": "7. After an unsuccessful result"
+      },
+      "body": {
+        "vi": "Xác định tiêu chí chưa đạt từ người đánh giá, ghi điều kiện và lập luyện bổ sung. Không tìm “mẹo” dựa trên suy đoán về giám khảo. Đủ điều kiện đánh giá và giấy phép vận hành tại phái bộ là các việc cần đọc theo quy định, không suy đỗ một bài nghĩa được điều khiển mọi xe.",
+        "en": "Obtain the failed criterion from the assessor, record conditions and plan remedial practice. Avoid imagined tricks based on guesses about the examiner. Assessment eligibility and mission driving authorization are separate matters; passing one exercise does not authorize every vehicle."
+      },
+      "sourceIds": [
+        "C27",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "C27",
+      "title": "3.7 Road Safety",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-432%20Lesson%203.7%20Road%20Safety.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 26,
+      "pdf_name": "2025 - Lesson 3.7 Road Safety - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "AMS-GUIDE",
+      "title": "UN Police — Information for individual police officers",
+      "url": "https://police.un.org/en/information-for-individual-police-officers",
+      "year": "2026"
+    },
+    {
+      "id": "EASP",
+      "title": "Electronic Application for Seconded Police",
+      "url": "https://police.un.org/sites/default/files/easp_english_0.pdf"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Sơ đồ bài thi cũ luôn là quy tắc hiện hành.",
+        "en": "An old test diagram is always the current rule."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Cần hướng dẫn chính thức của đợt đánh giá.",
+        "en": "Use official instructions for the assessment."
+      }
+    },
+    {
+      "question": {
+        "vi": "Làm quen xe cần trước khi di chuyển.",
+        "en": "Vehicle familiarization precedes movement."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Nhận biết điều khiển và kiểm tra an toàn.",
+        "en": "Know controls and complete safety checks."
+      }
+    },
+    {
+      "question": {
+        "vi": "Không chạm cọc chứng minh đạt mọi tiêu chí.",
+        "en": "Avoiding cones proves every criterion is met."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Còn có quan sát, quy trình và kiểm soát.",
+        "en": "Observation, procedures and control also matter."
+      }
+    },
+    {
+      "question": {
+        "vi": "Lỗi cần phân tích theo điều kiện và nguyên nhân.",
+        "en": "Errors need analysis of conditions and causes."
+      },
+      "options": [
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        },
+        {
+          "vi": "Đúng",
+          "en": "True"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Luyện có mục tiêu giúp sửa đúng chỗ.",
+        "en": "Targeted practice addresses the actual gap."
+      }
+    },
+    {
+      "question": {
+        "vi": "Đạt một bài lái tự cho phép điều khiển mọi xe phái bộ.",
+        "en": "Passing one exercise authorizes every mission vehicle."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Giấy phép, loại xe và quyền vận hành là yêu cầu riêng.",
+        "en": "Licensing, vehicle type and authorization are separate."
+      }
+    },
+    {
+      "question": {
+        "vi": "Sửa lỗi cần thực hiện lại dưới giám sát.",
+        "en": "Correction should be verified by supervised repetition."
+      },
+      "options": [
+        {
+          "vi": "Đúng",
+          "en": "True"
+        },
+        {
+          "vi": "Chưa đúng",
+          "en": "False"
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Giải thích miệng chưa chứng minh kỹ năng.",
+        "en": "Verbal explanation alone does not demonstrate skill."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Luyện tập nhằm sửa điểm yếu đã xác định?",
+        "en": "Which concept matches: Practice addressing an identified weakness?"
+      },
+      "options": [
+        {
+          "vi": "Làm quen xe / Vehicle familiarization",
+          "en": "Vehicle familiarization"
+        },
+        {
+          "vi": "Pass score",
+          "en": "Pass score"
+        },
+        {
+          "vi": "Luyện có mục tiêu / Targeted practice",
+          "en": "Targeted practice"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Luyện có mục tiêu / Targeted practice: Luyện tập nhằm sửa điểm yếu đã xác định.",
+        "en": "Targeted practice: Practice addressing an identified weakness."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khái niệm nào phù hợp với mô tả: Nhận biết điều khiển và đặc điểm xe trước vận hành?",
+        "en": "Which concept matches: Learning vehicle controls and characteristics before operation?"
+      },
+      "options": [
+        {
+          "vi": "Luyện có mục tiêu / Targeted practice",
+          "en": "Targeted practice"
+        },
+        {
+          "vi": "Pass score",
+          "en": "Pass score"
+        },
+        {
+          "vi": "Làm quen xe / Vehicle familiarization",
+          "en": "Vehicle familiarization"
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Làm quen xe / Vehicle familiarization: Nhận biết điều khiển và đặc điểm xe trước vận hành.",
+        "en": "Vehicle familiarization: Learning vehicle controls and characteristics before operation."
+      }
+    }
+  ],
+  "updated": "2026-10-26",
+  "moduleId": "IPO-M4",
+  "moduleOrder": 4,
+  "lessonOrder": 3,
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "IPO-09-01",
+      "title": {
+        "vi": "1. Kiểm chứng yêu cầu",
+        "en": "1. Confirm the actual requirements"
+      },
+      "body": {
+        "vi": "Lấy tiêu chuẩn và bài thi từ cơ quan đánh giá của đợt dự kiến. Không áp số phút, số lần thử hoặc sơ đồ từ video/bản SOP cũ như quy tắc hiện hành. Kiểm tra giấy phép và điều kiện với loại xe; không coi biết lái một xe là đủ mọi phương tiện.",
+        "en": "Obtain the test and standards from the responsible assessment authority. Do not treat timings, attempts or diagrams from old material as current rules. Check licence and vehicle conditions; competence with one vehicle is not competence with every type."
+      },
+      "sourceIds": [
+        "C27",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-09-02",
+      "title": {
+        "vi": "2. Làm quen trước vận hành",
+        "en": "2. Familiarize before moving"
+      },
+      "body": {
+        "vi": "Nhận biết điều khiển, vị trí số, phanh, đèn, gương và đặc điểm xe dưới hướng dẫn. Kiểm tra tình trạng và an toàn, điều chỉnh ghế/gương, dùng dây an toàn. Nếu không hiểu yêu cầu hoặc thấy bất thường, báo người phụ trách trước khi di chuyển.\n\n### 2.1. Sẵn sàng trước khi xe chạy\n\nViệc làm quen cần giúp người lái tìm đúng điều khiển mà không phải mò trong lúc di chuyển. Xác nhận tư thế, tầm nhìn, gương, dây an toàn và khả năng dùng phanh, số theo hướng dẫn của mẫu xe. Người hướng dẫn cần biết hạn chế hoặc điều chưa rõ của học viên. Nếu phương tiện có bất thường, xử lý qua người phụ trách; việc muốn tận dụng thời gian không thay yêu cầu an toàn.",
+        "en": "Identify controls, gears, brakes, lights, mirrors and vehicle characteristics under instruction. Check condition and safety, adjust the seat and mirrors and wear the seat belt. Report unclear requirements or abnormalities before moving.\n\n### 2.1. Be ready before the vehicle moves\n\nFamiliarization should let the driver locate controls without searching while moving. Confirm seating, visibility, mirrors, restraints and use of brakes and gears under model-specific instruction. Tell the instructor about limitations or unclear controls. Refer vehicle abnormalities to the responsible person rather than using valuable practice time as a reason to continue. The objective is predictable, controlled operation, not simply recognition of the dashboard labels."
+      },
+      "sourceIds": [
+        "C27",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-09-03",
+      "title": {
+        "vi": "3. Thực hành có giám sát",
+        "en": "3. Practise under supervision"
+      },
+      "body": {
+        "vi": "Ôn quan sát, điều khiển tốc độ, rẽ, lùi, đỗ và phối hợp trong không gian được phép. Không tự tập bài khó nơi công cộng hoặc dùng người đứng sát làm mốc. Mục tiêu là kiểm soát ổn định và an toàn, không chỉ hoàn thành nhanh.\n\n### 3.1. Luyện từ ổn định đến phối hợp\n\nNgười hướng dẫn chọn nội dung phù hợp khả năng ban đầu, quan sát và phản hồi từng lỗi. Khi thao tác riêng ổn định, mới kết hợp quan sát, điều khiển và yêu cầu của bài. Dùng không gian được phê duyệt, không tự dựng bài ngoài đường. Trong mọi phần, giữ khả năng dừng khi cần và làm theo lệnh. Tăng độ khó phải theo biểu hiện, không theo áp lực hoàn thành đủ số vòng.",
+        "en": "Practise observation, speed control, turning, reversing, parking and coordination in an authorized area. Avoid difficult unsupervised practice in public or using people standing close as markers. Stable, safe control matters more than speed alone.\n\n### 3.1. Develop stable performance before complexity\n\nThe instructor selects work for the learner’s starting competence, observes and corrects specific errors. Once individual tasks are stable, combine observation, control and the exercise requirements. Use an approved area rather than constructing an improvised public-road test. Maintain the ability to stop appropriately and follow instructions throughout. Increase complexity according to demonstrated performance, not pressure to complete a number of repetitions. Consistency under supervision is more useful than one hurried successful attempt."
+      },
+      "sourceIds": [
+        "C27",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-09-04",
+      "title": {
+        "vi": "4. Trong đánh giá",
+        "en": "4. During the assessment"
+      },
+      "body": {
+        "vi": "Nghe đủ hướng dẫn, xác nhận điểm chưa rõ và duy trì quan sát. Một lỗi không được xử lý bằng hành động vội vàng tạo nguy cơ khác. Không suy rằng chưa chạm vật cản nghĩa mọi tiêu chí đều đạt; đánh giá có thể gồm quy trình an toàn và hành vi điều khiển.",
+        "en": "Listen to all instructions, clarify uncertainty and maintain observation. Do not compensate for one error with a rushed unsafe action. Avoiding contact with an obstacle does not prove all criteria were met; safe procedure and control behaviour may also be assessed."
+      },
+      "sourceIds": [
+        "C27",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-09-05",
+      "title": {
+        "vi": "5. Phân tích lỗi",
+        "en": "5. Analyse mistakes"
+      },
+      "body": {
+        "vi": "Ghi điều kiện xảy ra lỗi, nguyên nhân có bằng chứng và nội dung luyện lại. Phân biệt hiểu sai hướng dẫn với thiếu kỹ năng hoặc chưa quen xe. Luyện có mục tiêu hiệu quả hơn chỉ lặp cùng bài mà không biết lỗi ở đâu.\n\n### 5.1. Nhật ký sửa lỗi\n\nGhi yêu cầu, lỗi quan sát, điều kiện, phản hồi và kết quả thực hiện lại. Với mỗi lỗi, xem do chưa hiểu, chưa quen xe hay thiếu kỹ năng; không dùng một nhãn chung như mất bình tĩnh thay phân tích. Chọn bài sửa đúng nguyên nhân, rồi kiểm tra trong điều kiện tương đương. Hồ sơ luyện tập giúp thấy tiến bộ và nội dung còn thiếu, nhưng không được gọi là kết quả đánh giá chính thức.",
+        "en": "Record conditions, evidenced causes and what needs practice. Distinguish misunderstanding, skill limitations and unfamiliarity with the vehicle. Targeted correction is more useful than repeating the same exercise without knowing the cause.\n\n### 5.1. Keep an error-correction record\n\nRecord the requirement, observed error, conditions, feedback and performance on repetition. Separate misunderstanding, vehicle unfamiliarity and skill gaps instead of using a general label such as panic. Select correction for the cause, then verify under comparable conditions. The log shows progress and remaining needs, but is not an official assessment result. It should support an honest discussion with the instructor rather than encourage avoidance of difficult criteria or reliance on imagined examiner preferences."
+      },
+      "sourceIds": [
+        "C27",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-09-06",
+      "title": {
+        "vi": "6. Quản lý chất lượng luyện tập",
+        "en": "6. Manage practice quality"
+      },
+      "body": {
+        "vi": "Mỗi buổi chọn lỗi cụ thể và điều kiện kiểm tra. Người hướng dẫn quan sát an toàn, khả năng làm theo yêu cầu và kiểm soát xe. Sau sửa lỗi phải thực hiện lại có giám sát để xác nhận, không chỉ giải thích miệng. Áp lực thời gian chỉ đưa vào trong điều kiện được phép, không làm mất ưu tiên an toàn.",
+        "en": "Select a specific weakness and verification conditions for each session. The instructor should observe safety, response to instructions and control. Reperform under supervision after correction; a verbal explanation alone does not establish improvement. Time pressure belongs only in authorized safe conditions."
+      },
+      "sourceIds": [
+        "C27",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    },
+    {
+      "id": "IPO-09-07",
+      "title": {
+        "vi": "7. Sau kết quả chưa đạt",
+        "en": "7. After an unsuccessful result"
+      },
+      "body": {
+        "vi": "Xác định tiêu chí chưa đạt từ người đánh giá, ghi điều kiện và lập luyện bổ sung. Không tìm “mẹo” dựa trên suy đoán về giám khảo. Đủ điều kiện đánh giá và giấy phép vận hành tại phái bộ là các việc cần đọc theo quy định, không suy đỗ một bài nghĩa được điều khiển mọi xe.",
+        "en": "Obtain the failed criterion from the assessor, record conditions and plan remedial practice. Avoid imagined tricks based on guesses about the examiner. Assessment eligibility and mission driving authorization are separate matters; passing one exercise does not authorize every vehicle."
+      },
+      "sourceIds": [
+        "C27",
+        "AMS-GUIDE",
+        "EASP"
+      ]
+    }
+  ],
+  "source_ids": [
+    "C27",
+    "AMS-GUIDE",
+    "EASP"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "Luyện có mục tiêu / Targeted practice",
+      "definition": {
+        "vi": "Luyện tập nhằm sửa điểm yếu đã xác định",
+        "en": "Practice addressing an identified weakness"
+      }
+    },
+    {
+      "term": "Làm quen xe / Vehicle familiarization",
+      "definition": {
+        "vi": "Nhận biết điều khiển và đặc điểm xe trước vận hành",
+        "en": "Learning vehicle controls and characteristics before operation"
+      }
+    }
+  ],
+  "diagram": {
+    "type": "seq",
+    "items": [
+      {
+        "vi": "Yêu cầu chính thức",
+        "en": "Official requirements"
+      },
+      {
+        "vi": "Làm quen",
+        "en": "Familiarize"
+      },
+      {
+        "vi": "Luyện có giám sát",
+        "en": "Supervised practice"
+      },
+      {
+        "vi": "Sửa, kiểm lại",
+        "en": "Correct and verify"
+      }
+    ],
+    "chapter": 1
+  },
+  "contentVersion": "4tab-2026-10-26",
+  "sourceIntro": {
+    "vi": "Các tài liệu dưới đây là nền tảng kiến thức của bài. Mở nguồn để đọc nội dung gốc; phần giải thích, sơ đồ học tập và câu hỏi được biên soạn cho Handbook.",
+    "en": "The materials below provide the lesson’s knowledge base. Open them for the original teaching material; explanations, instructional diagrams and questions are developed for the Handbook."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Hai bản Việt–Anh phục vụ học tập, không phải bản dịch chính thức của UN. Danh mục và thứ tự 48 bài là cách tổ chức học liệu của Handbook, không phải số bài chính thức của UN.",
+      "Bảng đối chiếu xác định tài liệu nền theo mục; không khẳng định mọi câu diễn giải là trích nguyên văn. Hình gốc ghi rõ tài liệu và trang PDF; sơ đồ học tập được ghi là biên soạn.",
+      "Không trích tiêu chí chi tiết từ SOP AMS 2024 khi chưa xác minh được toàn văn. Bài cung cấp phương pháp chuẩn bị; thời lượng, điểm đạt, cự ly, số đạn, lần thử và hiệu lực phải theo thông báo chính thức của đợt đánh giá. Ví dụ câu và số liệu trong phần báo cáo chỉ dùng luyện ngôn ngữ."
+    ],
+    "en": [
+      "The Vietnamese and English texts are for learning and are not official UN translations. The 48-lesson catalogue and numbering are the Handbook’s organization, not the official UN lesson count.",
+      "The mapping identifies source materials by section and does not present every explanation as a verbatim quotation. Original illustrations identify the material and PDF page; instructional diagrams are labelled as developed for the lesson.",
+      "Detailed AMS 2024 criteria are not quoted without verified full text. These lessons teach preparation methods; timing, pass scores, distances, ammunition, attempts and validity must follow official instructions for the assessment. Sentence and numerical examples in reporting are language practice only."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bài học IPO-09 tập trung vào chủ đề: Chuẩn bị đánh giá kỹ năng lái xe. Nội dung kết nối khái niệm với yêu cầu thực hiện công việc.",
+      "en": "Lesson IPO-09 covers the following topic: Preparing for a driving assessment. It connects concepts with professional responsibilities."
+    },
+    "subtitle": {
+      "vi": "Học kiến thức, hiểu trách nhiệm và kiểm tra nhận thức.",
+      "en": "Learn the concepts, understand responsibilities and check your knowledge."
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích: Kiểm chứng yêu cầu; Làm quen trước vận hành.",
+        "Giải thích: Thực hành có giám sát; Trong đánh giá.",
+        "Giải thích: Phân tích lỗi; Quản lý chất lượng luyện tập; Sau kết quả chưa đạt.",
+        "Nhận diện cách hiểu sai và chọn nhận định có căn cứ trong kiểm tra nhận thức."
+      ],
+      "en": [
+        "Explain: Confirm the actual requirements; Familiarize before moving.",
+        "Explain: Practise under supervision; During the assessment.",
+        "Explain: Analyse mistakes; Manage practice quality; After an unsuccessful result.",
+        "Recognize misconceptions and select evidence-based statements in the knowledge check."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc các mục theo thứ tự trong tab nội dung, quan sát sơ đồ và hình, sau đó hoàn thành kiểm tra nhận thức. Chọn VI/EN để đổi ngôn ngữ; đáp án được giữ khi đổi ngôn ngữ trong phiên mở trang. Tải lại trang sẽ bắt đầu lại.",
+      "en": "Read the sections in order, study diagrams and illustrations, then complete the knowledge check. Use VI/EN to switch languages; answers are retained across language changes during the session. Reloading starts a new session."
+    }
+  },
+  "figures": [],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft"
+}

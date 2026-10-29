@@ -1,0 +1,750 @@
+{
+  "schemaVersion": 2,
+  "id": "CORE-02",
+  "area": "core",
+  "groupKey": "CORE-M1",
+  "group": {
+    "vi": "UN và hoạt động gìn giữ hòa bình",
+    "en": "UN and peacekeeping"
+  },
+  "title": {
+    "vi": "Khuôn khổ pháp lý, mandate và nhiệm vụ phái bộ",
+    "en": "Legal framework, mandates and mission tasks"
+  },
+  "summary": {
+    "vi": "Hiểu căn cứ pháp lý để biết phái bộ được giao làm gì, cán bộ có quyền gì và phải chịu trách nhiệm thế nào. Bài học đi từ Hiến chương, mandate và quan hệ với nước sở tại đến phân công, quyết định và báo cáo trong công việc FPU/IPO.",
+    "en": "Understand the legal foundation for mission tasks, individual authority and accountability. The lesson connects the Charter, mandate and host-State arrangements with FPU/IPO assignments, decisions and reporting."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 10,
+  "sourceKey": "C4",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-407%20Lesson%201.4%20Legal%20Framework%20for%20UN%20Peacekeeping.zip",
+  "order": 102,
+  "sections": [
+    {
+      "id": "CORE-02-01",
+      "title": {
+        "vi": "1. Hiến chương và pháp luật áp dụng",
+        "en": "1. The Charter and applicable law"
+      },
+      "body": {
+        "vi": "### 1.1. Vì sao người làm nhiệm vụ phải hiểu khuôn khổ pháp lý?\nKhi tham gia gìn giữ hòa bình, anh/chị đại diện cho UN và quốc gia cử mình. Một việc có ích, một yêu cầu khẩn cấp hoặc một mệnh lệnh đều cần được xem xét trong khuôn khổ pháp lý. Khuôn khổ này trả lời ba câu hỏi: Phái bộ có mặt dựa trên cơ sở nào? Được giao làm gì? Phải tuân thủ những giới hạn nào khi thực hiện?\n\nHiểu pháp lý giúp cán bộ hành động có căn cứ, bảo vệ người dân và nhận ra yêu cầu vượt thẩm quyền. Không cần ghi nhớ mọi điều khoản như chuyên gia pháp luật; cần hiểu các nguyên tắc, nhận biết văn bản phải tra cứu và biết đầu mối xin hướng dẫn. Thiếu hiểu biết dễ dẫn đến hai thái cực: Làm quá quyền hoặc không thực hiện trách nhiệm đã được giao.\n\n### 1.2. Hiến chương là nền tảng\nHiến chương UN đặt mục tiêu duy trì hòa bình, an ninh quốc tế và xác định trách nhiệm chính của Hội đồng Bảo an trong lĩnh vực này. Thuật ngữ gìn giữ hòa bình không được quy định thành một chương riêng. Hoạt động này phát triển trong thực tiễn UN, trên cơ sở Hiến chương và các quyết định có liên quan.\n\n- **Chương VI:** Các biện pháp giải quyết hòa bình tranh chấp, như đàm phán, trung gian, hòa giải và giải quyết bằng tư pháp.\n- **Chương VII:** Hành động liên quan đến đe dọa hòa bình, phá hoại hòa bình và hành vi xâm lược; bao gồm biện pháp không sử dụng vũ lực và, khi được cho phép, biện pháp sử dụng vũ lực.\n- **Chương VIII:** Vai trò của các thỏa thuận và tổ chức khu vực trong duy trì hòa bình, an ninh quốc tế.\n\nKhông nên gắn nhãn đơn giản “phái bộ Chương VI” hay “phái bộ Chương VII” rồi suy ra toàn bộ quyền hạn. Cần đọc chính nội dung được Hội đồng Bảo an cho phép. Một mandate có viện dẫn Chương VII không tự biến hoạt động thành cưỡng chế hòa bình, cũng không trao quyền sử dụng vũ lực không giới hạn.\n\n### 1.3. Nhân quyền và luật nhân đạo\n**Luật nhân quyền quốc tế** bảo vệ quyền của mọi người, trong hòa bình và cả xung đột vũ trang. Với cán bộ cảnh sát, điều đó thể hiện ở việc tôn trọng tính mạng, nhân phẩm, không phân biệt đối xử, không tra tấn và bảo đảm các quyền của người bị tác động bởi hoạt động cảnh sát.\n\n**Luật nhân đạo quốc tế** chủ yếu điều chỉnh tình huống xung đột vũ trang, bảo vệ người không hoặc không còn tham gia chiến sự, đồng thời hạn chế phương tiện và phương pháp tiến hành chiến tranh. Không phải mọi cuộc biểu tình, bạo loạn hay vụ bạo lực đều là xung đột vũ trang. Việc phân loại pháp lý phải dựa trên điều kiện thực tế và đánh giá có thẩm quyền.\n\nHai lĩnh vực pháp luật có thể cùng liên quan trong một bối cảnh. Vì vậy, không được hiểu rằng có xung đột thì nhân quyền ngừng áp dụng, hoặc cứ triển khai ở địa bàn xung đột là mọi hoạt động cảnh sát đều theo phương thức tác chiến quân sự. **Điểm cần nhớ:** Nhiệm vụ, hoàn cảnh pháp lý và tính chất hành động phải được xem xét cùng nhau.",
+        "en": "### 1.1. Why does the legal framework matter?\nAs a peacekeeper, you represent the UN and your contributing country. A useful activity, an urgent request or an order must still be considered within the legal framework. That framework answers three questions: What supports the mission’s presence? What has it been tasked to do? What limits govern its actions?\n\nLegal understanding helps personnel act with authority, protect people and identify requests beyond their powers. You do not need to memorize every provision as a lawyer would. You do need to understand principles, recognize the documents to consult and know where to obtain guidance. Poor understanding can lead either to exceeding authority or to failing to carry out an assigned responsibility.\n\n### 1.2. The Charter as the foundation\nThe UN Charter establishes the maintenance of international peace and security as a purpose of the organization and gives the Security Council primary responsibility in this field. Peacekeeping does not have its own Charter chapter. It developed through UN practice, grounded in the Charter and relevant decisions.\n\n- **Chapter VI:** Peaceful settlement of disputes through measures such as negotiation, mediation, conciliation and judicial settlement.\n- **Chapter VII:** Action concerning threats to peace, breaches of peace and aggression, including measures without armed force and, when authorized, measures involving force.\n- **Chapter VIII:** The contribution of regional arrangements and organizations to international peace and security.\n\nAvoid deriving a mission’s powers from a simple Chapter VI or Chapter VII label. Read what the Council actually authorizes. A Chapter VII reference does not automatically turn peacekeeping into peace enforcement or permit unlimited force.\n\n### 1.3. Human rights and humanitarian law\n**International human rights law** protects everyone in peace and during armed conflict. In policing, this includes respect for life and dignity, non-discrimination, the prohibition of torture and safeguards for people affected by police action.\n\n**International humanitarian law** primarily applies in armed conflict. It protects people who are not, or are no longer, participating in hostilities and restricts means and methods of warfare. A demonstration, riot or isolated violent incident is not automatically an armed conflict. Classification requires the relevant factual conditions and competent assessment.\n\nBoth bodies of law can be relevant in the same setting. Armed conflict does not make human rights disappear, and deployment to a conflict area does not turn every police activity into a military operation. **Remember:** Consider the mission’s task, the applicable legal context and the nature of the proposed action together."
+      },
+      "sourceIds": [
+        "C4",
+        "CHARTER"
+      ]
+    },
+    {
+      "id": "CORE-02-02",
+      "title": {
+        "vi": "2. Đọc và hiểu mandate",
+        "en": "2. Reading and understanding a mandate"
+      },
+      "body": {
+        "vi": "### 2.1. Mandate nghĩa là gì?\nTrong bài này, **mandate** được hiểu là nhiệm vụ và phạm vi thẩm quyền Hội đồng Bảo an giao cho phái bộ thông qua nghị quyết. Mandate xác định phái bộ cần góp phần đạt mục tiêu gì, thực hiện những nhiệm vụ nào và trong những giới hạn nào. Đây vừa là căn cứ pháp lý vừa thể hiện định hướng chính trị đối với hoạt động của phái bộ.\n\nMandate được xây dựng phù hợp với bối cảnh xung đột, tiến trình chính trị và sự thống nhất đạt được trong Hội đồng Bảo an. Vì vậy, không có một danh sách nhiệm vụ giống hệt cho mọi phái bộ. Hai phái bộ cùng có cảnh sát UN nhưng có thể khác nhau về đối tượng hỗ trợ, địa bàn, ưu tiên và quyền thực thi pháp luật.\n\n### 2.2. Đọc nghị quyết theo cấu trúc\nMột nghị quyết thường có phần mở đầu nêu bối cảnh, các căn cứ và quan ngại; tiếp đến là các đoạn quyết nghị thể hiện quyết định, yêu cầu, lời kêu gọi hoặc thẩm quyền được trao. Không nên chỉ đọc bản tóm tắt hoặc một câu có từ “bảo vệ”. Cần đặt câu đó trong đoạn liên quan và toàn bộ nghị quyết.\n\nHãy dùng sáu câu hỏi khi đọc:\n\n1. **Chủ thể:** Đoạn này nói với phái bộ, Tổng Thư ký, nước sở tại hay các bên xung đột?\n2. **Hành động:** Được giao hỗ trợ, giám sát, bảo vệ, tư vấn hay trực tiếp thực hiện?\n3. **Phạm vi:** Tại địa bàn nào, đối với đối tượng nào và trong thời hạn nào?\n4. **Điều kiện:** Có giới hạn về năng lực, khu vực triển khai hoặc điều kiện phối hợp không?\n5. **Ưu tiên:** Nhiệm vụ nào cần được ưu tiên khi nguồn lực không đáp ứng đồng thời?\n6. **Theo dõi:** Ai báo cáo, báo cáo nội dung gì và kết quả được đánh giá thế nào?\n\nCác động từ như “quyết định”, “cho phép”, “yêu cầu” hay “kêu gọi” giúp nhận biết chức năng của đoạn văn; không thể chỉ dựa vào một từ để kết luận toàn bộ hiệu lực pháp lý. Cũng cần xem chủ thể được nhắc đến, nội dung và bối cảnh quyết nghị.\n\n### 2.3. Phân biệt nhiệm vụ, thẩm quyền và năng lực\n**Nhiệm vụ** là việc phải thực hiện. **Thẩm quyền** là quyền được sử dụng để thực hiện việc đó. **Năng lực** là nhân sự, trang bị, kỹ năng và điều kiện bảo đảm. Ba yếu tố liên quan nhưng không thay thế nhau. Có xe, vũ khí và cán bộ được đào tạo không tự tạo quyền khám xét hoặc bắt giữ.\n\nVí dụ để hiểu khái niệm: “Hỗ trợ cảnh sát sở tại duy trì trật tự” chưa đủ để kết luận cán bộ UN được tự mở cuộc điều tra hình sự theo luật sở tại. Cần xác định hình thức hỗ trợ, quyền hạn được giao và quy định triển khai. Tương tự, nhiệm vụ bảo vệ dân thường phải được đọc cùng thẩm quyền và điều kiện trong mandate, không hiểu thành quyền tùy ý lựa chọn mọi biện pháp.\n\n**Điểm cần nhớ:** Sau khi đọc mandate, anh/chị phải giải thích được mục tiêu, phần việc và giới hạn của phái bộ; sau đó mới xác định mình đóng góp ở đâu trong phần việc đó.",
+        "en": "### 2.1. What does mandate mean?\nIn this lesson, a **mandate** means the responsibilities and scope of authority assigned to a mission by the Security Council through a resolution. It establishes the objectives to which the mission should contribute, the tasks it should undertake and relevant limits. It provides both legal authority and political direction.\n\nA mandate reflects the conflict, the political process and agreement reached within the Council. Missions therefore do not all have identical tasks. Two missions with UN police may differ in the partners supported, geographic scope, priorities and executive law-enforcement authority.\n\n### 2.2. Read the resolution’s structure\nA resolution normally begins with preambular paragraphs describing context, relevant instruments and concerns. Operative paragraphs then express decisions, requests, calls for action and authorizations. Do not rely only on a summary or a sentence containing the word protection. Read the relevant paragraph and the resolution as a whole.\n\nUse six questions:\n\n1. **Actor:** Is the paragraph addressed to the mission, the Secretary-General, the host State or parties to the conflict?\n2. **Action:** Does it require support, monitoring, protection, advice or direct performance of a task?\n3. **Scope:** Which area, population and period does it cover?\n4. **Conditions:** Are there qualifications concerning capacity, deployment areas or coordination?\n5. **Priority:** Which task takes precedence when resources cannot meet all requirements at once?\n6. **Review:** Who reports, on what matters and against which results?\n\nVerbs such as decides, authorizes, requests and calls upon help identify a paragraph’s function. A single verb does not settle its entire legal effect. Consider the addressee, substance and context as well.\n\n### 2.3. Distinguish task, authority and capability\nA **task** is the work to be performed. **Authority** concerns the powers available to perform it. **Capability** concerns personnel, equipment, skills and support. These elements are connected but are not interchangeable. Vehicles, weapons and trained officers do not independently create powers of search or arrest.\n\nFor conceptual illustration, a task to support host-State police in maintaining public order does not establish that UN officers may independently launch criminal investigations under local law. Identify the form of support, assigned powers and implementing rules. Likewise, a protection-of-civilians task must be read with its authorization and conditions, rather than as permission to choose any measure.\n\n**Remember:** First identify the mission’s objective, task and limits; then identify your contribution within them."
+      },
+      "sourceIds": [
+        "C5"
+      ]
+    },
+    {
+      "id": "CORE-02-03",
+      "title": {
+        "vi": "3. Quan hệ với nước sở tại và trách nhiệm",
+        "en": "3. Host-State arrangements and accountability"
+      },
+      "body": {
+        "vi": "### 3.1. Đồng thuận và hợp tác có ý nghĩa gì?\nGìn giữ hòa bình UN dựa trên sự đồng thuận của các bên chính trong xung đột. Đồng thuận tạo điều kiện chính trị và thực tế để phái bộ triển khai nhiệm vụ. Tuy nhiên, sự đồng thuận ở cấp quốc gia không có nghĩa mọi nhóm hoặc mọi người tại địa phương đều hợp tác. Cán bộ cần hiểu bối cảnh, giải thích đúng vai trò và báo cáo những cản trở khi làm nhiệm vụ.\n\nTôn trọng chủ quyền và trách nhiệm của nước sở tại là yêu cầu quan trọng. Phái bộ phối hợp với cơ quan chức năng theo mandate và cơ chế được thiết lập. Quan hệ hợp tác không biến UN thành công cụ phục vụ lợi ích của một bên. Tính không thiên vị đòi hỏi thực hiện nhiệm vụ theo các nguyên tắc và căn cứ khách quan; không đồng nghĩa đứng ngoài khi có vi phạm thuộc phạm vi trách nhiệm.\n\n### 3.2. SOFA/SOMA điều chỉnh những gì?\n**SOFA** là thỏa thuận về quy chế lực lượng; **SOMA** là thỏa thuận về quy chế phái bộ. Tùy cơ chế áp dụng, các thỏa thuận này xác định quy chế pháp lý và điều kiện hoạt động giữa UN với nước tiếp nhận. Nội dung có thể bao gồm quyền đi lại, cơ sở và phương tiện, thông tin liên lạc, ưu đãi và miễn trừ, cũng như cách xử lý những vấn đề phát sinh.\n\nKhông nên hiểu SOFA chỉ dành cho quân đội hoặc coi mọi điều khoản giống nhau giữa các phái bộ. Cán bộ cần được phổ biến những nội dung tác động đến công việc của mình. Ví dụ, bộ phận thông tin cần biết cơ chế liên quan đến liên lạc và phối hợp kỹ thuật; người thực hiện nhiệm vụ di chuyển cần biết quy định và đầu mối xử lý cản trở. Khi có bất đồng, ghi nhận và báo cáo qua tuyến có thẩm quyền, tránh tự giải quyết bằng suy đoán về miễn trừ.\n\n### 3.3. Ưu đãi, miễn trừ và trách nhiệm\nƯu đãi và miễn trừ nhằm bảo đảm tổ chức, nhân sự thực hiện chức năng độc lập. Phạm vi áp dụng phụ thuộc quy chế nhân sự và văn bản liên quan; không thể khẳng định mọi quân nhân, thành viên FPU, IPO và nhân viên dân sự đều có cùng chế độ. Cũng không được hiểu miễn trừ là quyền vi phạm pháp luật hoặc quyền cản trở việc xác minh sai phạm.\n\nCán bộ phải tôn trọng pháp luật nước sở tại, tuân thủ chuẩn mực UN và chịu cơ chế trách nhiệm phù hợp. Khi có cáo buộc, cần báo cáo trung thực, bảo toàn thông tin liên quan và hợp tác theo quy trình. Việc xác định thẩm quyền tài phán hoặc xử lý miễn trừ thuộc cơ quan có thẩm quyền; cá nhân không tự kết luận rằng mình “không bị xử lý”.\n\n### 3.4. Yêu cầu của địa phương không tự mở rộng mandate\nHợp tác tốt bao gồm biết tiếp nhận và chuyển yêu cầu đúng nơi. Một đề nghị miệng của chính quyền hoặc cảnh sát sở tại không tự trao thêm quyền cho đơn vị UN. Cần kiểm tra yêu cầu với mandate, phân công, điều kiện pháp lý và hướng dẫn chỉ huy. **Điểm cần nhớ:** Hợp tác có trách nhiệm là hỗ trợ đúng chức năng, bảo vệ quyền con người và giữ được trách nhiệm giải trình.",
+        "en": "### 3.1. Consent and cooperation\nUN peacekeeping rests on the consent of the main parties to the conflict. Consent provides political and practical space for implementation. National-level consent does not mean that every local group or individual will cooperate. Personnel must understand the setting, explain their role accurately and report obstacles.\n\nRespect for sovereignty and the host State’s responsibilities is essential. The mission coordinates with national authorities within its mandate and established arrangements. Cooperation does not make the UN an instrument of one party. Impartiality requires principled, objective implementation; it does not require inactivity when violations fall within mission responsibilities.\n\n### 3.2. What do SOFA/SOMA arrangements address?\nA **SOFA** is a status-of-forces agreement; a **SOMA** is a status-of-mission agreement. Depending on the applicable arrangement, these instruments establish legal status and operating conditions between the UN and the host State. They may cover movement, premises, facilities, communications, privileges and immunities, and arrangements for resolving issues.\n\nDo not assume that a SOFA concerns only military personnel or that all missions have identical provisions. Personnel need briefings on provisions relevant to their work. Communications personnel, for example, need the applicable liaison and technical arrangements; personnel travelling on duty need relevant movement provisions and reporting contacts. Record and report disputes through authorized channels rather than relying on personal assumptions about immunity.\n\n### 3.3. Privileges, immunities and responsibility\nPrivileges and immunities protect the independent performance of organizational functions. Their scope depends on personnel status and the applicable instruments. Military personnel, FPU members, IPOs and civilians cannot simply be assumed to have identical arrangements. Immunity is neither permission to break the law nor a basis for obstructing the examination of misconduct.\n\nPersonnel must respect host-State law, comply with UN standards and remain subject to applicable accountability mechanisms. Allegations require accurate reporting, preservation of relevant information and cooperation through established procedures. Competent authorities determine jurisdiction and immunity issues; individuals cannot declare themselves beyond accountability.\n\n### 3.4. Local requests do not expand the mandate\nEffective cooperation includes receiving requests and referring them to the proper authority. An oral request from local authorities or police does not itself confer additional powers on a UN unit. Assess the request against the mandate, tasking, legal conditions and command guidance. **Remember:** Responsible cooperation means supporting within assigned functions while protecting rights and remaining accountable."
+      },
+      "sourceIds": [
+        "C4",
+        "PRINCIPLES"
+      ]
+    },
+    {
+      "id": "CORE-02-04",
+      "title": {
+        "vi": "4. Từ mục tiêu chiến lược đến phần việc cụ thể",
+        "en": "4. From strategic objectives to assigned work"
+      },
+      "body": {
+        "vi": "### 4.1. Vì sao mandate chưa phải kế hoạch công tác?\nMandate xác định định hướng và nhiệm vụ ở cấp phái bộ; không mô tả chi tiết từng ca trực, chuyến tuần tra hoặc lớp huấn luyện. Để triển khai, lãnh đạo phái bộ phải chuyển định hướng thành ưu tiên, kế hoạch và phân công. Quá trình này cần căn cứ đánh giá xung đột, nhu cầu người dân, năng lực đối tác và nguồn lực được bố trí.\n\n**Mission Concept** cụ thể hóa ý định chính trị và tầm nhìn lãnh đạo thành định hướng chung cho các thành phần. **CONOPS**, tức khái niệm hoạt động của thành phần quân sự hoặc cảnh sát, xác định cách tổ chức đóng góp của thành phần đó. Kế hoạch và chỉ thị tiếp tục chuyển thành nhiệm vụ cho bộ phận, đơn vị và cán bộ. Đây là mối liên hệ trong triển khai nhiệm vụ; không phải sơ đồ thay thế toàn bộ thứ bậc pháp lý.\n\n### 4.2. Phối hợp toàn phái bộ\nMột mục tiêu thường cần nhiều thành phần cùng đóng góp. Bảo vệ dân thường có thể liên quan đối thoại chính trị, cảnh báo sớm, hoạt động cảnh sát, quân sự, nhân quyền và phối hợp với các chủ thể nhân đạo theo vai trò của họ. Không một đơn vị nào được tự nhận toàn bộ trách nhiệm hoặc mặc nhiên cho rằng việc của thành phần khác không liên quan mình.\n\nPhối hợp hiệu quả cần xác định: Ai chủ trì; ai hỗ trợ; thông tin nào cần chia sẻ; quyết định thuộc cấp nào; và kết quả được báo cáo ra sao. Chia sẻ thông tin phải bảo vệ người cung cấp, nạn nhân và dữ liệu nhạy cảm. Phối hợp không đồng nghĩa chuyển mọi thông tin cho mọi người hoặc xóa ranh giới chức năng giữa các tổ chức.\n\n### 4.3. FPU và IPO đóng góp như thế nào?\n**FPU** cung cấp năng lực cảnh sát được tổ chức theo đơn vị, có chỉ huy và sự phối hợp nội bộ. **IPO** được bố trí vào vị trí cá nhân, có thể làm tư vấn, hướng dẫn, giám sát, đào tạo hoặc công việc chuyên môn khác tùy nhiệm vụ được giao. Không nên dùng cách phân biệt cứng rằng FPU chỉ làm trật tự công cộng còn IPO chỉ tư vấn; phải đọc mandate và vị trí thực tế.\n\nQuyền trực tiếp thực thi pháp luật của UNPOL phụ thuộc cơ chế cụ thể của phái bộ. Trong nhiệm vụ hỗ trợ, trách nhiệm của cảnh sát sở tại vẫn phải được nhận diện rõ. Kinh nghiệm công tác trong nước giúp cán bộ thực hiện nhiệm vụ tốt hơn, nhưng không tự mang theo toàn bộ quyền hạn quốc gia sang địa bàn UN.\n\n### 4.4. Kiểm tra một phân công đã đủ rõ chưa\nTrước khi nhận việc, cần làm rõ sáu nội dung: Mục đích; người chỉ huy; phạm vi thẩm quyền; cách phối hợp; nguồn lực và rủi ro; yêu cầu báo cáo. Với cán bộ thông tin hoặc hậu cần, đóng góp có thể là bảo đảm liên lạc, khả năng cơ động và duy trì hoạt động. Đây là điều kiện để đơn vị hoàn thành nhiệm vụ, không phải công việc tách rời mandate.\n\nNguồn lực thiếu phải được báo cáo để điều chỉnh ưu tiên và phương án. Không báo “đủ năng lực” khi thực tế chưa đáp ứng; cũng không tự bỏ nhiệm vụ chỉ vì gặp khó khăn. **Điểm cần nhớ:** Hiểu phần việc của mình luôn đi cùng hiểu phần việc của các thành phần liên quan.",
+        "en": "### 4.1. Why is a mandate not a work plan?\nA mandate defines mission-level direction and tasks. It does not specify every duty shift, patrol or training session. Mission leadership translates it into priorities, plans and assignments, informed by conflict analysis, community needs, partner capacity and available resources.\n\nThe **Mission Concept** translates political intent and leadership vision into common direction for mission components. A military or police **concept of operations (CONOPS)** develops how that component will contribute. Plans and directives then assign work to sections, units and individuals. This is an implementation relationship, not a substitute for a complete legal hierarchy.\n\n### 4.2. A whole-of-mission approach\nAn objective usually requires several contributions. Civilian protection may involve political engagement, early warning, policing, military action, human rights work and coordination with humanitarian actors according to their roles. No unit should claim the entire responsibility or assume that other components’ work is irrelevant to its own.\n\nEffective coordination identifies the lead, supporting actors, information requirements, decision authority and reporting arrangements. Information sharing must protect sources, victims and sensitive data. Coordination does not mean giving all information to everyone or removing functional distinctions between organizations.\n\n### 4.3. FPU and IPO contributions\nAn **FPU** provides organized unit-based police capability with command and internal coordination. An **IPO** occupies an individual post that may involve advice, mentoring, monitoring, training or other specialist work. Avoid the rigid assumption that FPUs only perform public-order tasks while IPOs only advise. Examine actual mandates and assignments.\n\nUNPOL executive law-enforcement powers depend on the mission’s specific arrangements. In a support role, the responsibilities of host-State police remain important. National experience supports professional performance, but officers do not automatically bring all their domestic legal powers into a UN mission.\n\n### 4.4. Is the assignment sufficiently clear?\nBefore accepting a task, clarify its purpose, command arrangements, scope of authority, coordination, resources and risks, and reporting requirements. Communications and logistics personnel may contribute through reliable communications, mobility and operational continuity. Their work enables mandate delivery rather than sitting outside it.\n\nReport resource gaps so that priorities and plans can be adjusted. Do not declare readiness that does not exist, and do not independently abandon tasks merely because difficulties arise. **Remember:** Understanding your own contribution includes understanding the related responsibilities of others."
+      },
+      "sourceIds": [
+        "C5",
+        "C9"
+      ]
+    },
+    {
+      "id": "CORE-02-05",
+      "title": {
+        "vi": "5. Văn bản thực hiện và quyết định hợp pháp",
+        "en": "5. Implementing instruments and lawful decisions"
+      },
+      "body": {
+        "vi": "### 5.1. Mỗi văn bản trả lời một loại câu hỏi\nKhi tra cứu, cần phân biệt chức năng của các văn bản. Hiến chương và pháp luật quốc tế xác lập nền tảng, nguyên tắc và nghĩa vụ. Nghị quyết chứa mandate xác định nhiệm vụ và thẩm quyền của phái bộ. SOFA/SOMA điều chỉnh quy chế và điều kiện hoạt động. Chính sách UN, kế hoạch, chỉ thị và SOP hướng dẫn cách tổ chức công việc trong phạm vi được phép.\n\nMOU giữa UN và quốc gia đóng góp có thể liên quan nhân sự, trang bị và trách nhiệm bảo đảm theo thỏa thuận. MOU không tự trao cho đơn vị quyền thực thi pháp luật đối với người dân. Tương tự, một SOP nội bộ không thể biến hành vi bị cấm thành hợp pháp. Muốn đọc đúng, cần biết văn bản do ai ban hành, áp dụng cho ai và đang có hiệu lực hay đã được thay thế.\n\n### 5.2. ROE và DUF\n**ROE** là quy tắc giao chiến, dùng cho thành phần quân sự theo cơ chế áp dụng. **DUF** là chỉ thị về sử dụng vũ lực đối với thành phần cảnh sát. Các văn bản này cụ thể hóa thẩm quyền và giới hạn sử dụng vũ lực trong nhiệm vụ. Cán bộ cần được huấn luyện về văn bản của chính phái bộ và thành phần mình, không lấy một tài liệu chung trên mạng thay thế.\n\nTrong hoạt động thực thi pháp luật, phải hiểu và áp dụng tính hợp pháp, cần thiết, tương xứng và trách nhiệm giải trình. Cần thiết đòi hỏi đánh giá liệu mục tiêu hợp pháp có thể đạt bằng biện pháp ít gây hại hơn hay không. Tương xứng không có nghĩa đáp trả cùng loại công cụ; phải xem mức độ vũ lực có phù hợp mục tiêu hợp pháp và nguy cơ thực tế không. Quy định cụ thể còn tùy hoàn cảnh pháp lý và chỉ thị đang áp dụng.\n\nCụm từ cho phép dùng mọi biện pháp cần thiết trong một nghị quyết không gỡ bỏ nghĩa vụ pháp lý, điều kiện mandate hoặc quy tắc sử dụng vũ lực. Vũ lực không được dùng để trừng phạt, trả đũa hoặc thể hiện uy thế. Yêu cầu báo cáo và xem xét sau việc sử dụng vũ lực là một phần của trách nhiệm nghề nghiệp.\n\n### 5.3. Làm gì khi hướng dẫn chưa rõ hoặc có mâu thuẫn?\nTrước hết, xác định điểm chưa rõ bằng câu hỏi cụ thể: Chưa rõ quyền nào, phạm vi nào, đối tượng nào hay cấp phê duyệt nào? Sau đó báo cáo qua tuyến chỉ huy và xin hướng dẫn pháp lý khi cần. Cung cấp đúng sự kiện, văn bản và mức độ khẩn cấp để cơ quan có thẩm quyền quyết định; tránh chỉ hỏi chung rằng “có được làm không”.\n\nYêu cầu làm rõ không phải lý do trì hoãn mọi hành động khẩn cấp đã nằm trong thẩm quyền. Ngược lại, tính khẩn cấp cũng không tự tạo thêm quyền. Đối với mệnh lệnh rõ ràng trái pháp luật, như tra tấn, cán bộ không được thực hiện và phải báo cáo theo cơ chế áp dụng. **Điểm cần nhớ:** Tuân thủ chỉ huy đi cùng tuân thủ pháp luật và trách nhiệm cá nhân; không thể dùng câu “tôi chỉ làm theo lệnh” để xóa mọi trách nhiệm.",
+        "en": "### 5.1. Different instruments answer different questions\nThe Charter and international law establish foundations, principles and obligations. The Security Council resolution containing the mandate establishes mission tasks and authority. SOFA/SOMA arrangements address status and operating conditions. UN policies, plans, directives and standard operating procedures organize work within authorized limits.\n\nAn MOU between the UN and a contributing country may address personnel, equipment and support responsibilities. It does not independently confer law-enforcement powers over the population. An internal SOP likewise cannot make a prohibited act lawful. Check who issued each instrument, to whom it applies and whether it remains in force or has been replaced.\n\n### 5.2. ROE and DUF\n**Rules of engagement (ROE)** apply to the military component under relevant arrangements. The **directive on the use of force (DUF)** applies to the police component. These instruments develop the authority and limits governing force in the mission. Personnel need training on the documents applicable to their own mission and component, rather than substituting a generic online document.\n\nLaw-enforcement activities require attention to legality, necessity, proportionality and accountability. Necessity involves considering whether a legitimate objective can be achieved by less harmful means. Proportionality is not simply matching the other person’s tool: it requires assessing the relationship between the degree of force, the legitimate objective and the actual threat. Detailed rules depend on the legal context and applicable directives.\n\nAuthorization to use all necessary means does not remove legal obligations, mandate conditions or use-of-force rules. Force must not serve punishment, retaliation or displays of power. Reporting and review after force are part of professional accountability.\n\n### 5.3. Unclear or conflicting guidance\nIdentify the precise uncertainty: Which power, area, category of person or approval level is unclear? Raise it through the chain of command and seek legal advice where required. Supply accurate facts, relevant documents and the urgency of the issue so that authorized personnel can decide.\n\nClarification should not become a reason to delay every urgent action already within assigned authority. Equally, urgency does not itself create additional powers. Manifestly unlawful orders, such as an order to torture, must not be carried out and must be reported through applicable mechanisms. **Remember:** Obedience to command operates alongside legal obligations and individual responsibility. Following orders does not erase all accountability."
+      },
+      "sourceIds": [
+        "C4",
+        "C5"
+      ]
+    },
+    {
+      "id": "CORE-02-06",
+      "title": {
+        "vi": "6. Báo cáo, rà soát và cập nhật nhiệm vụ",
+        "en": "6. Reporting, review and changing priorities"
+      },
+      "body": {
+        "vi": "### 6.1. Báo cáo là một phần của thực hiện mandate\nPhái bộ cần biết việc gì đã làm, kết quả ra sao, người dân chịu tác động thế nào và điều gì còn cản trở. Thông tin thực địa giúp chỉ huy điều chỉnh hoạt động, lãnh đạo đánh giá tiến độ và hỗ trợ quá trình Tổng Thư ký báo cáo Hội đồng Bảo an. Báo cáo không chỉ nhằm chứng minh đơn vị đã bận rộn hoặc hoàn thành đủ đầu việc.\n\nCần phân biệt **đầu ra hoạt động** với **kết quả đóng góp cho mục tiêu**. Số chuyến tuần tra là đầu ra; sự thay đổi về khả năng tiếp cận an toàn của người dân có thể là một chỉ dấu kết quả nếu có dữ liệu phù hợp. Không thể chỉ từ số chuyến tăng mà kết luận an ninh đã tốt hơn. Cũng không được quy mọi chuyển biến tích cực cho hoạt động của đơn vị khi còn nhiều yếu tố khác.\n\n### 6.2. Thông tin có giá trị phải rõ và có căn cứ\nMột báo cáo tốt làm rõ: Việc xảy ra ở đâu, khi nào; ai quan sát hoặc cung cấp thông tin; đơn vị đã làm gì; tác động đã xác nhận; điều gì chưa xác minh; hỗ trợ hoặc quyết định nào đang cần. Phân biệt sự kiện trực tiếp quan sát với thông tin được thuật lại và nhận định phân tích. Mức độ chắc chắn phải tương xứng với bằng chứng.\n\nHạn chế về nhân sự, liên lạc, cơ động hoặc phối hợp cần được báo cáo cùng ảnh hưởng đối với nhiệm vụ. Đừng chỉ ghi “khó khăn về trang bị”; hãy giải thích chức năng nào bị hạn chế và yêu cầu xử lý qua tuyến phù hợp. Với thông tin về vi phạm hoặc người dễ bị tổn thương, bảo vệ danh tính và dùng kênh báo cáo được quy định.\n\n### 6.3. Mandate thay đổi thì phần việc cũng phải được rà lại\nHội đồng Bảo an có thể gia hạn, điều chỉnh hoặc chấm dứt mandate. Thay đổi có thể tác động đến ưu tiên, địa bàn, quy mô và hình thức hỗ trợ. Việc học mandate không kết thúc sau buổi phổ biến đầu tiên. Đơn vị cần tiếp nhận văn bản cập nhật, phổ biến đến cán bộ và rà lại kế hoạch, phân công, chỉ thị có liên quan.\n\nTrong chuyển tiếp và rút giảm, cần xác định chủ thể tiếp nhận trách nhiệm, năng lực còn thiếu, nguy cơ và việc theo dõi sau bàn giao. Hoàn thành một thủ tục bàn giao không tự chứng minh đối tác đã đủ khả năng duy trì kết quả. Chuyển tiếp có trách nhiệm cần phối hợp, đánh giá thực tế và bảo đảm thông tin rõ ràng cho các bên liên quan.\n\n### 6.4. Sáu điều cần giữ lại sau bài học\n\n1. **Nền tảng:** Hoạt động UN phải có căn cứ trong Hiến chương và pháp luật áp dụng.\n2. **Mandate:** Đọc đúng nhiệm vụ, thẩm quyền, điều kiện và ưu tiên của phái bộ mình.\n3. **Quy chế:** Hiểu những nội dung SOFA/SOMA liên quan; miễn trừ không xóa trách nhiệm.\n4. **Phân công:** Biết mình đóng góp gì, phối hợp với ai và báo cáo cho ai.\n5. **Hành động:** Dùng đúng văn bản, nhận diện giới hạn và xin hướng dẫn đúng nơi.\n6. **Cập nhật:** Báo cáo trung thực, theo dõi thay đổi và điều chỉnh phần việc theo chỉ đạo có thẩm quyền.",
+        "en": "### 6.1. Reporting is part of mandate implementation\nA mission must know what was done, what changed, how communities were affected and what obstacles remain. Field information supports operational adjustments, leadership assessment and the Secretary-General’s reporting to the Security Council. Reporting should demonstrate more than how busy a unit has been.\n\nDistinguish **activity outputs** from **contributions to outcomes**. Patrol numbers are outputs. Changes in people’s ability to travel safely may indicate outcomes when supported by appropriate evidence. More patrols alone do not prove improved security. Nor should every positive change be attributed to the unit when other factors may have contributed.\n\n### 6.2. Useful information is clear and supported\nA sound report identifies where and when something happened; who observed it or supplied the information; what the unit did; verified effects; unresolved information; and decisions or support required. Distinguish direct observation, information reported by others and analytical judgment. Express certainty only to the extent supported by evidence.\n\nReport personnel, communications, mobility and coordination gaps together with their operational effects. Instead of merely stating an equipment problem, explain the function affected and request action through the proper channel. Information about violations and vulnerable people requires protection of identity and use of prescribed reporting channels.\n\n### 6.3. Changing mandates require review of assigned work\nThe Council may renew, adjust or terminate a mandate. Changes may affect priorities, geography, size and forms of support. Learning the mandate does not end with the initial briefing. Units need updated documents, personnel briefings and review of relevant plans, assignments and directives.\n\nTransition and drawdown require identifying who will assume responsibilities, remaining capacity gaps, risks and follow-up needs. Completing a handover procedure does not itself demonstrate that a partner can sustain the results. Responsible transition involves coordination, realistic assessment and clear information for the actors concerned.\n\n### 6.4. Six lessons to retain\n\n1. **Foundation:** UN activities require a basis in the Charter and applicable law.\n2. **Mandate:** Identify your mission’s tasks, authority, conditions and priorities.\n3. **Status:** Understand relevant SOFA/SOMA provisions; immunity does not remove responsibility.\n4. **Assignment:** Know your contribution, partners and reporting arrangements.\n5. **Action:** Consult the right instruments, recognize limits and obtain authorized guidance.\n6. **Update:** Report accurately, follow changes and adjust your work under competent direction."
+      },
+      "sourceIds": [
+        "C5"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "C4",
+      "title": "1.4 Legal Framework of UN Peacekeeping",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-407%20Lesson%201.4%20Legal%20Framework%20for%20UN%20Peacekeeping.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 31,
+      "pdf_name": "2025 - Lesson 1.4 Legal Framework for UN Peacekeeping - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "C5",
+      "title": "1.5 Implementing Security Council Mandates",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-408%20Lesson%201.5%20Implementing%20Security%20Council%20Mandates.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 24,
+      "pdf_name": "2025 - Lesson 1.5 Implementing Security Council Mandates - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "C9",
+      "title": "2.1 Overview of Mandated Tasks",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-413%20Lesson%202.1%20Overview%20of%20Mandated%20Tasks.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 31,
+      "pdf_name": "2025 - Lesson 2.1 Overview of Mandated Tasks - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "CHARTER",
+      "title": "Charter of the United Nations — Full text",
+      "url": "https://www.un.org/en/about-us/un-charter/full-text",
+      "publisher": "United Nations",
+      "year": "",
+      "format": "web"
+    },
+    {
+      "id": "PRINCIPLES",
+      "title": "Principles of UN Peacekeeping",
+      "url": "https://peacekeeping.un.org/en/principles-of-peacekeeping",
+      "publisher": "United Nations",
+      "year": "",
+      "format": "web"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Nhận định nào đúng về việc viện dẫn Chương VII?",
+        "en": "Which statement about a Chapter VII reference is correct?"
+      },
+      "options": [
+        {
+          "vi": "Tự trao quyền dùng mọi loại vũ lực.",
+          "en": "It automatically permits every form of force."
+        },
+        {
+          "vi": "Phải đọc thẩm quyền và điều kiện thực tế trong mandate.",
+          "en": "Read the authority and conditions actually established by the mandate."
+        },
+        {
+          "vi": "Mọi hoạt động cảnh sát trở thành hoạt động quân sự.",
+          "en": "All police activity becomes military activity."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Chương VII không thay thế nội dung cho phép cụ thể. Mandate, pháp luật áp dụng và ROE/DUF vẫn đặt giới hạn. Xem mục 1.2 và 5.2.",
+        "en": "Chapter VII does not replace the actual authorization. The mandate, applicable law and ROE/DUF still impose limits. See 1.2 and 5.2."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khác biệt chính giữa luật nhân quyền và luật nhân đạo là gì?",
+        "en": "What is a key distinction between human rights law and humanitarian law?"
+      },
+      "options": [
+        {
+          "vi": "Nhân quyền chỉ áp dụng trong hòa bình.",
+          "en": "Human rights apply only in peace."
+        },
+        {
+          "vi": "Luật nhân đạo áp dụng cho mọi cuộc biểu tình.",
+          "en": "Humanitarian law applies to every demonstration."
+        },
+        {
+          "vi": "Nhân quyền tiếp tục áp dụng trong xung đột; luật nhân đạo chủ yếu áp dụng trong xung đột vũ trang.",
+          "en": "Human rights continue during conflict; humanitarian law primarily applies in armed conflict."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Không suy ra rằng nhân quyền chấm dứt khi có xung đột hoặc mọi bạo lực đều đạt ngưỡng xung đột vũ trang. Xem mục 1.3.",
+        "en": "Do not assume human rights end during conflict or that all violence reaches the armed-conflict threshold. See 1.3."
+      }
+    },
+    {
+      "question": {
+        "vi": "Vì sao cần xác định chủ thể của một đoạn quyết nghị?",
+        "en": "Why identify the addressee of an operative paragraph?"
+      },
+      "options": [
+        {
+          "vi": "Để tránh coi yêu cầu dành cho nước sở tại là quyền trực tiếp của cán bộ UN.",
+          "en": "To avoid treating a request to the host State as an individual UN officer’s power."
+        },
+        {
+          "vi": "Vì mọi đoạn đều giao việc cho FPU.",
+          "en": "Because every paragraph tasks an FPU."
+        },
+        {
+          "vi": "Để không phải đọc phần còn lại của nghị quyết.",
+          "en": "To avoid reading the rest of the resolution."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Cùng một nghị quyết có thể đề cập nhiều chủ thể. Đọc cả chủ thể, hành động, phạm vi, điều kiện, ưu tiên và theo dõi. Xem mục 2.2.",
+        "en": "A resolution can address several actors. Examine actor, action, scope, conditions, priorities and review. See 2.2."
+      }
+    },
+    {
+      "question": {
+        "vi": "Có trang bị và nhân sự được huấn luyện chứng minh điều gì?",
+        "en": "What do suitable equipment and trained personnel demonstrate?"
+      },
+      "options": [
+        {
+          "vi": "Đã có quyền bắt giữ tại mọi địa bàn.",
+          "en": "Arrest powers exist everywhere."
+        },
+        {
+          "vi": "Có năng lực nhất định; vẫn phải xác định nhiệm vụ và thẩm quyền.",
+          "en": "Some capability exists; tasks and authority must still be established."
+        },
+        {
+          "vi": "Không cần văn bản phân công.",
+          "en": "Written tasking is unnecessary."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Năng lực kỹ thuật không tự tạo quyền pháp lý. Ba yếu tố cần được xem xét cùng nhau. Xem mục 2.3.",
+        "en": "Technical capability does not create legal authority. Consider all three elements together. See 2.3."
+      }
+    },
+    {
+      "question": {
+        "vi": "Chức năng nào phù hợp nhất với SOFA/SOMA?",
+        "en": "Which function best describes SOFA/SOMA?"
+      },
+      "options": [
+        {
+          "vi": "Xác định quy chế pháp lý và điều kiện hoạt động với nước tiếp nhận.",
+          "en": "Establish legal status and operating conditions with the host State."
+        },
+        {
+          "vi": "Thay thế mandate của Hội đồng Bảo an.",
+          "en": "Replace the Security Council mandate."
+        },
+        {
+          "vi": "Bảo đảm mọi nhóm địa phương đều đồng thuận.",
+          "en": "Guarantee consent from every local group."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "SOFA/SOMA điều chỉnh quy chế và điều kiện; không thay thế mandate hoặc bảo đảm sự hợp tác của mọi chủ thể. Xem mục 3.2.",
+        "en": "Status agreements address status and conditions; they do not replace the mandate or guarantee universal cooperation. See 3.2."
+      }
+    },
+    {
+      "question": {
+        "vi": "Nhận định nào đúng về miễn trừ?",
+        "en": "Which statement about immunity is correct?"
+      },
+      "options": [
+        {
+          "vi": "Mọi loại nhân sự đều có chế độ giống nhau.",
+          "en": "Every personnel category has identical arrangements."
+        },
+        {
+          "vi": "Cá nhân tự quyết định mình không bị xử lý.",
+          "en": "Individuals decide whether they can be held accountable."
+        },
+        {
+          "vi": "Phục vụ chức năng; phạm vi tùy quy chế và không xóa trách nhiệm.",
+          "en": "It serves functions; its scope depends on status and it does not erase accountability."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Cơ quan có thẩm quyền xác định vấn đề tài phán và miễn trừ. Cán bộ vẫn phải báo cáo, tuân thủ và hợp tác theo quy trình. Xem mục 3.3.",
+        "en": "Competent authorities determine jurisdiction and immunity issues. Personnel still report, comply and cooperate under applicable procedures. See 3.3."
+      }
+    },
+    {
+      "question": {
+        "vi": "Yêu cầu miệng của địa phương có tác dụng nào?",
+        "en": "What is the effect of a local oral request?"
+      },
+      "options": [
+        {
+          "vi": "Tự mở rộng quyền cho đơn vị UN.",
+          "en": "It automatically expands a UN unit’s powers."
+        },
+        {
+          "vi": "Là yêu cầu cần đánh giá và chuyển đúng tuyến theo mandate, phân công và pháp luật.",
+          "en": "It is a request to assess and route under the mandate, tasking and law."
+        },
+        {
+          "vi": "Luôn phải bỏ qua vì không phải văn bản UN.",
+          "en": "It must always be ignored because it is not a UN document."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Hợp tác cần tiếp nhận có trách nhiệm, nhưng đề nghị không tự tạo thẩm quyền. Xem mục 3.4.",
+        "en": "Responsible cooperation includes considering requests, but the request itself creates no new authority. See 3.4."
+      }
+    },
+    {
+      "question": {
+        "vi": "Quan hệ nào mô tả đúng quá trình triển khai?",
+        "en": "Which relationship correctly describes implementation?"
+      },
+      "options": [
+        {
+          "vi": "Mandate định hướng; Mission Concept, CONOPS và kế hoạch cụ thể hóa phần việc.",
+          "en": "The mandate gives direction; the Mission Concept, CONOPS and plans develop assigned work."
+        },
+        {
+          "vi": "SOP có thể sửa mandate khi cần.",
+          "en": "An SOP may amend the mandate when necessary."
+        },
+        {
+          "vi": "Mỗi đơn vị tự chọn mục tiêu riêng.",
+          "en": "Every unit independently chooses its own objectives."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Các văn bản triển khai cụ thể hóa cách đóng góp trong phạm vi được giao, không tự sửa nhiệm vụ của Hội đồng Bảo an. Xem mục 4.1.",
+        "en": "Implementation instruments develop contributions within assigned limits; they do not independently amend Council tasking. See 4.1."
+      }
+    },
+    {
+      "question": {
+        "vi": "Điều nào đúng về FPU và IPO?",
+        "en": "Which statement about FPUs and IPOs is correct?"
+      },
+      "options": [
+        {
+          "vi": "FPU chỉ làm trật tự công cộng; IPO chỉ tư vấn trong mọi phái bộ.",
+          "en": "FPUs only do public order and IPOs only advise in every mission."
+        },
+        {
+          "vi": "Kinh nghiệm trong nước tự mang theo toàn bộ quyền hạn quốc gia.",
+          "en": "National experience automatically transfers all domestic powers."
+        },
+        {
+          "vi": "Vai trò và quyền cụ thể phụ thuộc mandate, vị trí và phân công.",
+          "en": "Actual roles and powers depend on the mandate, post and tasking."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Hình thức tổ chức khác nhau không thay thế việc xác định chức năng và quyền tại phái bộ cụ thể. Xem mục 4.3.",
+        "en": "Different deployment arrangements do not remove the need to establish mission-specific roles and powers. See 4.3."
+      }
+    },
+    {
+      "question": {
+        "vi": "Một SOP hướng dẫn hành vi bị pháp luật cấm thì phải hiểu thế nào?",
+        "en": "How should an SOP directing a legally prohibited act be understood?"
+      },
+      "options": [
+        {
+          "vi": "SOP luôn được ưu tiên vì gần nhiệm vụ nhất.",
+          "en": "The SOP always takes priority because it is closest to operations."
+        },
+        {
+          "vi": "SOP không làm hành vi đó hợp pháp; phải báo cáo và xin xử lý đúng thẩm quyền.",
+          "en": "The SOP cannot make it lawful; report and seek resolution through the competent authority."
+        },
+        {
+          "vi": "Có thể làm nếu không có người chứng kiến.",
+          "en": "It is acceptable without witnesses."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Văn bản triển khai phải nằm trong khuôn khổ pháp lý. Mệnh lệnh rõ ràng trái pháp luật không được thực hiện. Xem mục 5.1 và 5.3.",
+        "en": "Implementing instruments operate within the legal framework. Manifestly unlawful orders must not be carried out. See 5.1 and 5.3."
+      }
+    },
+    {
+      "question": {
+        "vi": "Số chuyến tuần tra tăng cho phép kết luận gì?",
+        "en": "What can be concluded from an increase in patrol numbers?"
+      },
+      "options": [
+        {
+          "vi": "An ninh chắc chắn cải thiện.",
+          "en": "Security certainly improved."
+        },
+        {
+          "vi": "Không cần xem tác động đến người dân.",
+          "en": "Community effects need not be examined."
+        },
+        {
+          "vi": "Đầu ra tăng; kết quả an ninh cần thêm bằng chứng phù hợp.",
+          "en": "Outputs increased; security outcomes require further appropriate evidence."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Không đồng nhất số hoạt động với kết quả. Cần theo dõi thay đổi thực tế và những yếu tố khác có ảnh hưởng. Xem mục 6.1.",
+        "en": "Activity counts and outcomes are different. Examine actual changes and other contributing factors. See 6.1."
+      }
+    },
+    {
+      "question": {
+        "vi": "Khi mandate được điều chỉnh, việc cần làm là gì?",
+        "en": "What is needed when a mandate changes?"
+      },
+      "options": [
+        {
+          "vi": "Phổ biến cập nhật và rà lại kế hoạch, phân công, chỉ thị liên quan.",
+          "en": "Brief personnel and review related plans, assignments and directives."
+        },
+        {
+          "vi": "Giữ nguyên toàn bộ cách làm vì đã quen.",
+          "en": "Keep all practices unchanged because they are familiar."
+        },
+        {
+          "vi": "Chỉ sửa tên nghị quyết trong báo cáo.",
+          "en": "Only update the resolution number in reports."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Thay đổi có thể tác động nhiệm vụ thực tế. Cập nhật văn bản phải đi cùng cập nhật hiểu biết và tổ chức thực hiện. Xem mục 6.3.",
+        "en": "Changes can affect actual tasks. Updated documents require updated understanding and implementation. See 6.3."
+      }
+    }
+  ],
+  "updated": "2026-10-27",
+  "moduleId": "CORE-M1",
+  "moduleOrder": 1,
+  "lessonOrder": 2,
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "CORE-02-01",
+      "title": {
+        "vi": "1. Hiến chương và pháp luật áp dụng",
+        "en": "1. The Charter and applicable law"
+      },
+      "body": {
+        "vi": "### 1.1. Vì sao người làm nhiệm vụ phải hiểu khuôn khổ pháp lý?\nKhi tham gia gìn giữ hòa bình, anh/chị đại diện cho UN và quốc gia cử mình. Một việc có ích, một yêu cầu khẩn cấp hoặc một mệnh lệnh đều cần được xem xét trong khuôn khổ pháp lý. Khuôn khổ này trả lời ba câu hỏi: Phái bộ có mặt dựa trên cơ sở nào? Được giao làm gì? Phải tuân thủ những giới hạn nào khi thực hiện?\n\nHiểu pháp lý giúp cán bộ hành động có căn cứ, bảo vệ người dân và nhận ra yêu cầu vượt thẩm quyền. Không cần ghi nhớ mọi điều khoản như chuyên gia pháp luật; cần hiểu các nguyên tắc, nhận biết văn bản phải tra cứu và biết đầu mối xin hướng dẫn. Thiếu hiểu biết dễ dẫn đến hai thái cực: Làm quá quyền hoặc không thực hiện trách nhiệm đã được giao.\n\n### 1.2. Hiến chương là nền tảng\nHiến chương UN đặt mục tiêu duy trì hòa bình, an ninh quốc tế và xác định trách nhiệm chính của Hội đồng Bảo an trong lĩnh vực này. Thuật ngữ gìn giữ hòa bình không được quy định thành một chương riêng. Hoạt động này phát triển trong thực tiễn UN, trên cơ sở Hiến chương và các quyết định có liên quan.\n\n- **Chương VI:** Các biện pháp giải quyết hòa bình tranh chấp, như đàm phán, trung gian, hòa giải và giải quyết bằng tư pháp.\n- **Chương VII:** Hành động liên quan đến đe dọa hòa bình, phá hoại hòa bình và hành vi xâm lược; bao gồm biện pháp không sử dụng vũ lực và, khi được cho phép, biện pháp sử dụng vũ lực.\n- **Chương VIII:** Vai trò của các thỏa thuận và tổ chức khu vực trong duy trì hòa bình, an ninh quốc tế.\n\nKhông nên gắn nhãn đơn giản “phái bộ Chương VI” hay “phái bộ Chương VII” rồi suy ra toàn bộ quyền hạn. Cần đọc chính nội dung được Hội đồng Bảo an cho phép. Một mandate có viện dẫn Chương VII không tự biến hoạt động thành cưỡng chế hòa bình, cũng không trao quyền sử dụng vũ lực không giới hạn.\n\n### 1.3. Nhân quyền và luật nhân đạo\n**Luật nhân quyền quốc tế** bảo vệ quyền của mọi người, trong hòa bình và cả xung đột vũ trang. Với cán bộ cảnh sát, điều đó thể hiện ở việc tôn trọng tính mạng, nhân phẩm, không phân biệt đối xử, không tra tấn và bảo đảm các quyền của người bị tác động bởi hoạt động cảnh sát.\n\n**Luật nhân đạo quốc tế** chủ yếu điều chỉnh tình huống xung đột vũ trang, bảo vệ người không hoặc không còn tham gia chiến sự, đồng thời hạn chế phương tiện và phương pháp tiến hành chiến tranh. Không phải mọi cuộc biểu tình, bạo loạn hay vụ bạo lực đều là xung đột vũ trang. Việc phân loại pháp lý phải dựa trên điều kiện thực tế và đánh giá có thẩm quyền.\n\nHai lĩnh vực pháp luật có thể cùng liên quan trong một bối cảnh. Vì vậy, không được hiểu rằng có xung đột thì nhân quyền ngừng áp dụng, hoặc cứ triển khai ở địa bàn xung đột là mọi hoạt động cảnh sát đều theo phương thức tác chiến quân sự. **Điểm cần nhớ:** Nhiệm vụ, hoàn cảnh pháp lý và tính chất hành động phải được xem xét cùng nhau.",
+        "en": "### 1.1. Why does the legal framework matter?\nAs a peacekeeper, you represent the UN and your contributing country. A useful activity, an urgent request or an order must still be considered within the legal framework. That framework answers three questions: What supports the mission’s presence? What has it been tasked to do? What limits govern its actions?\n\nLegal understanding helps personnel act with authority, protect people and identify requests beyond their powers. You do not need to memorize every provision as a lawyer would. You do need to understand principles, recognize the documents to consult and know where to obtain guidance. Poor understanding can lead either to exceeding authority or to failing to carry out an assigned responsibility.\n\n### 1.2. The Charter as the foundation\nThe UN Charter establishes the maintenance of international peace and security as a purpose of the organization and gives the Security Council primary responsibility in this field. Peacekeeping does not have its own Charter chapter. It developed through UN practice, grounded in the Charter and relevant decisions.\n\n- **Chapter VI:** Peaceful settlement of disputes through measures such as negotiation, mediation, conciliation and judicial settlement.\n- **Chapter VII:** Action concerning threats to peace, breaches of peace and aggression, including measures without armed force and, when authorized, measures involving force.\n- **Chapter VIII:** The contribution of regional arrangements and organizations to international peace and security.\n\nAvoid deriving a mission’s powers from a simple Chapter VI or Chapter VII label. Read what the Council actually authorizes. A Chapter VII reference does not automatically turn peacekeeping into peace enforcement or permit unlimited force.\n\n### 1.3. Human rights and humanitarian law\n**International human rights law** protects everyone in peace and during armed conflict. In policing, this includes respect for life and dignity, non-discrimination, the prohibition of torture and safeguards for people affected by police action.\n\n**International humanitarian law** primarily applies in armed conflict. It protects people who are not, or are no longer, participating in hostilities and restricts means and methods of warfare. A demonstration, riot or isolated violent incident is not automatically an armed conflict. Classification requires the relevant factual conditions and competent assessment.\n\nBoth bodies of law can be relevant in the same setting. Armed conflict does not make human rights disappear, and deployment to a conflict area does not turn every police activity into a military operation. **Remember:** Consider the mission’s task, the applicable legal context and the nature of the proposed action together."
+      },
+      "sourceIds": [
+        "C4",
+        "CHARTER"
+      ]
+    },
+    {
+      "id": "CORE-02-02",
+      "title": {
+        "vi": "2. Đọc và hiểu mandate",
+        "en": "2. Reading and understanding a mandate"
+      },
+      "body": {
+        "vi": "### 2.1. Mandate nghĩa là gì?\nTrong bài này, **mandate** được hiểu là nhiệm vụ và phạm vi thẩm quyền Hội đồng Bảo an giao cho phái bộ thông qua nghị quyết. Mandate xác định phái bộ cần góp phần đạt mục tiêu gì, thực hiện những nhiệm vụ nào và trong những giới hạn nào. Đây vừa là căn cứ pháp lý vừa thể hiện định hướng chính trị đối với hoạt động của phái bộ.\n\nMandate được xây dựng phù hợp với bối cảnh xung đột, tiến trình chính trị và sự thống nhất đạt được trong Hội đồng Bảo an. Vì vậy, không có một danh sách nhiệm vụ giống hệt cho mọi phái bộ. Hai phái bộ cùng có cảnh sát UN nhưng có thể khác nhau về đối tượng hỗ trợ, địa bàn, ưu tiên và quyền thực thi pháp luật.\n\n### 2.2. Đọc nghị quyết theo cấu trúc\nMột nghị quyết thường có phần mở đầu nêu bối cảnh, các căn cứ và quan ngại; tiếp đến là các đoạn quyết nghị thể hiện quyết định, yêu cầu, lời kêu gọi hoặc thẩm quyền được trao. Không nên chỉ đọc bản tóm tắt hoặc một câu có từ “bảo vệ”. Cần đặt câu đó trong đoạn liên quan và toàn bộ nghị quyết.\n\nHãy dùng sáu câu hỏi khi đọc:\n\n1. **Chủ thể:** Đoạn này nói với phái bộ, Tổng Thư ký, nước sở tại hay các bên xung đột?\n2. **Hành động:** Được giao hỗ trợ, giám sát, bảo vệ, tư vấn hay trực tiếp thực hiện?\n3. **Phạm vi:** Tại địa bàn nào, đối với đối tượng nào và trong thời hạn nào?\n4. **Điều kiện:** Có giới hạn về năng lực, khu vực triển khai hoặc điều kiện phối hợp không?\n5. **Ưu tiên:** Nhiệm vụ nào cần được ưu tiên khi nguồn lực không đáp ứng đồng thời?\n6. **Theo dõi:** Ai báo cáo, báo cáo nội dung gì và kết quả được đánh giá thế nào?\n\nCác động từ như “quyết định”, “cho phép”, “yêu cầu” hay “kêu gọi” giúp nhận biết chức năng của đoạn văn; không thể chỉ dựa vào một từ để kết luận toàn bộ hiệu lực pháp lý. Cũng cần xem chủ thể được nhắc đến, nội dung và bối cảnh quyết nghị.\n\n### 2.3. Phân biệt nhiệm vụ, thẩm quyền và năng lực\n**Nhiệm vụ** là việc phải thực hiện. **Thẩm quyền** là quyền được sử dụng để thực hiện việc đó. **Năng lực** là nhân sự, trang bị, kỹ năng và điều kiện bảo đảm. Ba yếu tố liên quan nhưng không thay thế nhau. Có xe, vũ khí và cán bộ được đào tạo không tự tạo quyền khám xét hoặc bắt giữ.\n\nVí dụ để hiểu khái niệm: “Hỗ trợ cảnh sát sở tại duy trì trật tự” chưa đủ để kết luận cán bộ UN được tự mở cuộc điều tra hình sự theo luật sở tại. Cần xác định hình thức hỗ trợ, quyền hạn được giao và quy định triển khai. Tương tự, nhiệm vụ bảo vệ dân thường phải được đọc cùng thẩm quyền và điều kiện trong mandate, không hiểu thành quyền tùy ý lựa chọn mọi biện pháp.\n\n**Điểm cần nhớ:** Sau khi đọc mandate, anh/chị phải giải thích được mục tiêu, phần việc và giới hạn của phái bộ; sau đó mới xác định mình đóng góp ở đâu trong phần việc đó.",
+        "en": "### 2.1. What does mandate mean?\nIn this lesson, a **mandate** means the responsibilities and scope of authority assigned to a mission by the Security Council through a resolution. It establishes the objectives to which the mission should contribute, the tasks it should undertake and relevant limits. It provides both legal authority and political direction.\n\nA mandate reflects the conflict, the political process and agreement reached within the Council. Missions therefore do not all have identical tasks. Two missions with UN police may differ in the partners supported, geographic scope, priorities and executive law-enforcement authority.\n\n### 2.2. Read the resolution’s structure\nA resolution normally begins with preambular paragraphs describing context, relevant instruments and concerns. Operative paragraphs then express decisions, requests, calls for action and authorizations. Do not rely only on a summary or a sentence containing the word protection. Read the relevant paragraph and the resolution as a whole.\n\nUse six questions:\n\n1. **Actor:** Is the paragraph addressed to the mission, the Secretary-General, the host State or parties to the conflict?\n2. **Action:** Does it require support, monitoring, protection, advice or direct performance of a task?\n3. **Scope:** Which area, population and period does it cover?\n4. **Conditions:** Are there qualifications concerning capacity, deployment areas or coordination?\n5. **Priority:** Which task takes precedence when resources cannot meet all requirements at once?\n6. **Review:** Who reports, on what matters and against which results?\n\nVerbs such as decides, authorizes, requests and calls upon help identify a paragraph’s function. A single verb does not settle its entire legal effect. Consider the addressee, substance and context as well.\n\n### 2.3. Distinguish task, authority and capability\nA **task** is the work to be performed. **Authority** concerns the powers available to perform it. **Capability** concerns personnel, equipment, skills and support. These elements are connected but are not interchangeable. Vehicles, weapons and trained officers do not independently create powers of search or arrest.\n\nFor conceptual illustration, a task to support host-State police in maintaining public order does not establish that UN officers may independently launch criminal investigations under local law. Identify the form of support, assigned powers and implementing rules. Likewise, a protection-of-civilians task must be read with its authorization and conditions, rather than as permission to choose any measure.\n\n**Remember:** First identify the mission’s objective, task and limits; then identify your contribution within them."
+      },
+      "sourceIds": [
+        "C5"
+      ]
+    },
+    {
+      "id": "CORE-02-03",
+      "title": {
+        "vi": "3. Quan hệ với nước sở tại và trách nhiệm",
+        "en": "3. Host-State arrangements and accountability"
+      },
+      "body": {
+        "vi": "### 3.1. Đồng thuận và hợp tác có ý nghĩa gì?\nGìn giữ hòa bình UN dựa trên sự đồng thuận của các bên chính trong xung đột. Đồng thuận tạo điều kiện chính trị và thực tế để phái bộ triển khai nhiệm vụ. Tuy nhiên, sự đồng thuận ở cấp quốc gia không có nghĩa mọi nhóm hoặc mọi người tại địa phương đều hợp tác. Cán bộ cần hiểu bối cảnh, giải thích đúng vai trò và báo cáo những cản trở khi làm nhiệm vụ.\n\nTôn trọng chủ quyền và trách nhiệm của nước sở tại là yêu cầu quan trọng. Phái bộ phối hợp với cơ quan chức năng theo mandate và cơ chế được thiết lập. Quan hệ hợp tác không biến UN thành công cụ phục vụ lợi ích của một bên. Tính không thiên vị đòi hỏi thực hiện nhiệm vụ theo các nguyên tắc và căn cứ khách quan; không đồng nghĩa đứng ngoài khi có vi phạm thuộc phạm vi trách nhiệm.\n\n### 3.2. SOFA/SOMA điều chỉnh những gì?\n**SOFA** là thỏa thuận về quy chế lực lượng; **SOMA** là thỏa thuận về quy chế phái bộ. Tùy cơ chế áp dụng, các thỏa thuận này xác định quy chế pháp lý và điều kiện hoạt động giữa UN với nước tiếp nhận. Nội dung có thể bao gồm quyền đi lại, cơ sở và phương tiện, thông tin liên lạc, ưu đãi và miễn trừ, cũng như cách xử lý những vấn đề phát sinh.\n\nKhông nên hiểu SOFA chỉ dành cho quân đội hoặc coi mọi điều khoản giống nhau giữa các phái bộ. Cán bộ cần được phổ biến những nội dung tác động đến công việc của mình. Ví dụ, bộ phận thông tin cần biết cơ chế liên quan đến liên lạc và phối hợp kỹ thuật; người thực hiện nhiệm vụ di chuyển cần biết quy định và đầu mối xử lý cản trở. Khi có bất đồng, ghi nhận và báo cáo qua tuyến có thẩm quyền, tránh tự giải quyết bằng suy đoán về miễn trừ.\n\n### 3.3. Ưu đãi, miễn trừ và trách nhiệm\nƯu đãi và miễn trừ nhằm bảo đảm tổ chức, nhân sự thực hiện chức năng độc lập. Phạm vi áp dụng phụ thuộc quy chế nhân sự và văn bản liên quan; không thể khẳng định mọi quân nhân, thành viên FPU, IPO và nhân viên dân sự đều có cùng chế độ. Cũng không được hiểu miễn trừ là quyền vi phạm pháp luật hoặc quyền cản trở việc xác minh sai phạm.\n\nCán bộ phải tôn trọng pháp luật nước sở tại, tuân thủ chuẩn mực UN và chịu cơ chế trách nhiệm phù hợp. Khi có cáo buộc, cần báo cáo trung thực, bảo toàn thông tin liên quan và hợp tác theo quy trình. Việc xác định thẩm quyền tài phán hoặc xử lý miễn trừ thuộc cơ quan có thẩm quyền; cá nhân không tự kết luận rằng mình “không bị xử lý”.\n\n### 3.4. Yêu cầu của địa phương không tự mở rộng mandate\nHợp tác tốt bao gồm biết tiếp nhận và chuyển yêu cầu đúng nơi. Một đề nghị miệng của chính quyền hoặc cảnh sát sở tại không tự trao thêm quyền cho đơn vị UN. Cần kiểm tra yêu cầu với mandate, phân công, điều kiện pháp lý và hướng dẫn chỉ huy. **Điểm cần nhớ:** Hợp tác có trách nhiệm là hỗ trợ đúng chức năng, bảo vệ quyền con người và giữ được trách nhiệm giải trình.",
+        "en": "### 3.1. Consent and cooperation\nUN peacekeeping rests on the consent of the main parties to the conflict. Consent provides political and practical space for implementation. National-level consent does not mean that every local group or individual will cooperate. Personnel must understand the setting, explain their role accurately and report obstacles.\n\nRespect for sovereignty and the host State’s responsibilities is essential. The mission coordinates with national authorities within its mandate and established arrangements. Cooperation does not make the UN an instrument of one party. Impartiality requires principled, objective implementation; it does not require inactivity when violations fall within mission responsibilities.\n\n### 3.2. What do SOFA/SOMA arrangements address?\nA **SOFA** is a status-of-forces agreement; a **SOMA** is a status-of-mission agreement. Depending on the applicable arrangement, these instruments establish legal status and operating conditions between the UN and the host State. They may cover movement, premises, facilities, communications, privileges and immunities, and arrangements for resolving issues.\n\nDo not assume that a SOFA concerns only military personnel or that all missions have identical provisions. Personnel need briefings on provisions relevant to their work. Communications personnel, for example, need the applicable liaison and technical arrangements; personnel travelling on duty need relevant movement provisions and reporting contacts. Record and report disputes through authorized channels rather than relying on personal assumptions about immunity.\n\n### 3.3. Privileges, immunities and responsibility\nPrivileges and immunities protect the independent performance of organizational functions. Their scope depends on personnel status and the applicable instruments. Military personnel, FPU members, IPOs and civilians cannot simply be assumed to have identical arrangements. Immunity is neither permission to break the law nor a basis for obstructing the examination of misconduct.\n\nPersonnel must respect host-State law, comply with UN standards and remain subject to applicable accountability mechanisms. Allegations require accurate reporting, preservation of relevant information and cooperation through established procedures. Competent authorities determine jurisdiction and immunity issues; individuals cannot declare themselves beyond accountability.\n\n### 3.4. Local requests do not expand the mandate\nEffective cooperation includes receiving requests and referring them to the proper authority. An oral request from local authorities or police does not itself confer additional powers on a UN unit. Assess the request against the mandate, tasking, legal conditions and command guidance. **Remember:** Responsible cooperation means supporting within assigned functions while protecting rights and remaining accountable."
+      },
+      "sourceIds": [
+        "C4",
+        "PRINCIPLES"
+      ]
+    },
+    {
+      "id": "CORE-02-04",
+      "title": {
+        "vi": "4. Từ mục tiêu chiến lược đến phần việc cụ thể",
+        "en": "4. From strategic objectives to assigned work"
+      },
+      "body": {
+        "vi": "### 4.1. Vì sao mandate chưa phải kế hoạch công tác?\nMandate xác định định hướng và nhiệm vụ ở cấp phái bộ; không mô tả chi tiết từng ca trực, chuyến tuần tra hoặc lớp huấn luyện. Để triển khai, lãnh đạo phái bộ phải chuyển định hướng thành ưu tiên, kế hoạch và phân công. Quá trình này cần căn cứ đánh giá xung đột, nhu cầu người dân, năng lực đối tác và nguồn lực được bố trí.\n\n**Mission Concept** cụ thể hóa ý định chính trị và tầm nhìn lãnh đạo thành định hướng chung cho các thành phần. **CONOPS**, tức khái niệm hoạt động của thành phần quân sự hoặc cảnh sát, xác định cách tổ chức đóng góp của thành phần đó. Kế hoạch và chỉ thị tiếp tục chuyển thành nhiệm vụ cho bộ phận, đơn vị và cán bộ. Đây là mối liên hệ trong triển khai nhiệm vụ; không phải sơ đồ thay thế toàn bộ thứ bậc pháp lý.\n\n### 4.2. Phối hợp toàn phái bộ\nMột mục tiêu thường cần nhiều thành phần cùng đóng góp. Bảo vệ dân thường có thể liên quan đối thoại chính trị, cảnh báo sớm, hoạt động cảnh sát, quân sự, nhân quyền và phối hợp với các chủ thể nhân đạo theo vai trò của họ. Không một đơn vị nào được tự nhận toàn bộ trách nhiệm hoặc mặc nhiên cho rằng việc của thành phần khác không liên quan mình.\n\nPhối hợp hiệu quả cần xác định: Ai chủ trì; ai hỗ trợ; thông tin nào cần chia sẻ; quyết định thuộc cấp nào; và kết quả được báo cáo ra sao. Chia sẻ thông tin phải bảo vệ người cung cấp, nạn nhân và dữ liệu nhạy cảm. Phối hợp không đồng nghĩa chuyển mọi thông tin cho mọi người hoặc xóa ranh giới chức năng giữa các tổ chức.\n\n### 4.3. FPU và IPO đóng góp như thế nào?\n**FPU** cung cấp năng lực cảnh sát được tổ chức theo đơn vị, có chỉ huy và sự phối hợp nội bộ. **IPO** được bố trí vào vị trí cá nhân, có thể làm tư vấn, hướng dẫn, giám sát, đào tạo hoặc công việc chuyên môn khác tùy nhiệm vụ được giao. Không nên dùng cách phân biệt cứng rằng FPU chỉ làm trật tự công cộng còn IPO chỉ tư vấn; phải đọc mandate và vị trí thực tế.\n\nQuyền trực tiếp thực thi pháp luật của UNPOL phụ thuộc cơ chế cụ thể của phái bộ. Trong nhiệm vụ hỗ trợ, trách nhiệm của cảnh sát sở tại vẫn phải được nhận diện rõ. Kinh nghiệm công tác trong nước giúp cán bộ thực hiện nhiệm vụ tốt hơn, nhưng không tự mang theo toàn bộ quyền hạn quốc gia sang địa bàn UN.\n\n### 4.4. Kiểm tra một phân công đã đủ rõ chưa\nTrước khi nhận việc, cần làm rõ sáu nội dung: Mục đích; người chỉ huy; phạm vi thẩm quyền; cách phối hợp; nguồn lực và rủi ro; yêu cầu báo cáo. Với cán bộ thông tin hoặc hậu cần, đóng góp có thể là bảo đảm liên lạc, khả năng cơ động và duy trì hoạt động. Đây là điều kiện để đơn vị hoàn thành nhiệm vụ, không phải công việc tách rời mandate.\n\nNguồn lực thiếu phải được báo cáo để điều chỉnh ưu tiên và phương án. Không báo “đủ năng lực” khi thực tế chưa đáp ứng; cũng không tự bỏ nhiệm vụ chỉ vì gặp khó khăn. **Điểm cần nhớ:** Hiểu phần việc của mình luôn đi cùng hiểu phần việc của các thành phần liên quan.",
+        "en": "### 4.1. Why is a mandate not a work plan?\nA mandate defines mission-level direction and tasks. It does not specify every duty shift, patrol or training session. Mission leadership translates it into priorities, plans and assignments, informed by conflict analysis, community needs, partner capacity and available resources.\n\nThe **Mission Concept** translates political intent and leadership vision into common direction for mission components. A military or police **concept of operations (CONOPS)** develops how that component will contribute. Plans and directives then assign work to sections, units and individuals. This is an implementation relationship, not a substitute for a complete legal hierarchy.\n\n### 4.2. A whole-of-mission approach\nAn objective usually requires several contributions. Civilian protection may involve political engagement, early warning, policing, military action, human rights work and coordination with humanitarian actors according to their roles. No unit should claim the entire responsibility or assume that other components’ work is irrelevant to its own.\n\nEffective coordination identifies the lead, supporting actors, information requirements, decision authority and reporting arrangements. Information sharing must protect sources, victims and sensitive data. Coordination does not mean giving all information to everyone or removing functional distinctions between organizations.\n\n### 4.3. FPU and IPO contributions\nAn **FPU** provides organized unit-based police capability with command and internal coordination. An **IPO** occupies an individual post that may involve advice, mentoring, monitoring, training or other specialist work. Avoid the rigid assumption that FPUs only perform public-order tasks while IPOs only advise. Examine actual mandates and assignments.\n\nUNPOL executive law-enforcement powers depend on the mission’s specific arrangements. In a support role, the responsibilities of host-State police remain important. National experience supports professional performance, but officers do not automatically bring all their domestic legal powers into a UN mission.\n\n### 4.4. Is the assignment sufficiently clear?\nBefore accepting a task, clarify its purpose, command arrangements, scope of authority, coordination, resources and risks, and reporting requirements. Communications and logistics personnel may contribute through reliable communications, mobility and operational continuity. Their work enables mandate delivery rather than sitting outside it.\n\nReport resource gaps so that priorities and plans can be adjusted. Do not declare readiness that does not exist, and do not independently abandon tasks merely because difficulties arise. **Remember:** Understanding your own contribution includes understanding the related responsibilities of others."
+      },
+      "sourceIds": [
+        "C5",
+        "C9"
+      ]
+    },
+    {
+      "id": "CORE-02-05",
+      "title": {
+        "vi": "5. Văn bản thực hiện và quyết định hợp pháp",
+        "en": "5. Implementing instruments and lawful decisions"
+      },
+      "body": {
+        "vi": "### 5.1. Mỗi văn bản trả lời một loại câu hỏi\nKhi tra cứu, cần phân biệt chức năng của các văn bản. Hiến chương và pháp luật quốc tế xác lập nền tảng, nguyên tắc và nghĩa vụ. Nghị quyết chứa mandate xác định nhiệm vụ và thẩm quyền của phái bộ. SOFA/SOMA điều chỉnh quy chế và điều kiện hoạt động. Chính sách UN, kế hoạch, chỉ thị và SOP hướng dẫn cách tổ chức công việc trong phạm vi được phép.\n\nMOU giữa UN và quốc gia đóng góp có thể liên quan nhân sự, trang bị và trách nhiệm bảo đảm theo thỏa thuận. MOU không tự trao cho đơn vị quyền thực thi pháp luật đối với người dân. Tương tự, một SOP nội bộ không thể biến hành vi bị cấm thành hợp pháp. Muốn đọc đúng, cần biết văn bản do ai ban hành, áp dụng cho ai và đang có hiệu lực hay đã được thay thế.\n\n### 5.2. ROE và DUF\n**ROE** là quy tắc giao chiến, dùng cho thành phần quân sự theo cơ chế áp dụng. **DUF** là chỉ thị về sử dụng vũ lực đối với thành phần cảnh sát. Các văn bản này cụ thể hóa thẩm quyền và giới hạn sử dụng vũ lực trong nhiệm vụ. Cán bộ cần được huấn luyện về văn bản của chính phái bộ và thành phần mình, không lấy một tài liệu chung trên mạng thay thế.\n\nTrong hoạt động thực thi pháp luật, phải hiểu và áp dụng tính hợp pháp, cần thiết, tương xứng và trách nhiệm giải trình. Cần thiết đòi hỏi đánh giá liệu mục tiêu hợp pháp có thể đạt bằng biện pháp ít gây hại hơn hay không. Tương xứng không có nghĩa đáp trả cùng loại công cụ; phải xem mức độ vũ lực có phù hợp mục tiêu hợp pháp và nguy cơ thực tế không. Quy định cụ thể còn tùy hoàn cảnh pháp lý và chỉ thị đang áp dụng.\n\nCụm từ cho phép dùng mọi biện pháp cần thiết trong một nghị quyết không gỡ bỏ nghĩa vụ pháp lý, điều kiện mandate hoặc quy tắc sử dụng vũ lực. Vũ lực không được dùng để trừng phạt, trả đũa hoặc thể hiện uy thế. Yêu cầu báo cáo và xem xét sau việc sử dụng vũ lực là một phần của trách nhiệm nghề nghiệp.\n\n### 5.3. Làm gì khi hướng dẫn chưa rõ hoặc có mâu thuẫn?\nTrước hết, xác định điểm chưa rõ bằng câu hỏi cụ thể: Chưa rõ quyền nào, phạm vi nào, đối tượng nào hay cấp phê duyệt nào? Sau đó báo cáo qua tuyến chỉ huy và xin hướng dẫn pháp lý khi cần. Cung cấp đúng sự kiện, văn bản và mức độ khẩn cấp để cơ quan có thẩm quyền quyết định; tránh chỉ hỏi chung rằng “có được làm không”.\n\nYêu cầu làm rõ không phải lý do trì hoãn mọi hành động khẩn cấp đã nằm trong thẩm quyền. Ngược lại, tính khẩn cấp cũng không tự tạo thêm quyền. Đối với mệnh lệnh rõ ràng trái pháp luật, như tra tấn, cán bộ không được thực hiện và phải báo cáo theo cơ chế áp dụng. **Điểm cần nhớ:** Tuân thủ chỉ huy đi cùng tuân thủ pháp luật và trách nhiệm cá nhân; không thể dùng câu “tôi chỉ làm theo lệnh” để xóa mọi trách nhiệm.",
+        "en": "### 5.1. Different instruments answer different questions\nThe Charter and international law establish foundations, principles and obligations. The Security Council resolution containing the mandate establishes mission tasks and authority. SOFA/SOMA arrangements address status and operating conditions. UN policies, plans, directives and standard operating procedures organize work within authorized limits.\n\nAn MOU between the UN and a contributing country may address personnel, equipment and support responsibilities. It does not independently confer law-enforcement powers over the population. An internal SOP likewise cannot make a prohibited act lawful. Check who issued each instrument, to whom it applies and whether it remains in force or has been replaced.\n\n### 5.2. ROE and DUF\n**Rules of engagement (ROE)** apply to the military component under relevant arrangements. The **directive on the use of force (DUF)** applies to the police component. These instruments develop the authority and limits governing force in the mission. Personnel need training on the documents applicable to their own mission and component, rather than substituting a generic online document.\n\nLaw-enforcement activities require attention to legality, necessity, proportionality and accountability. Necessity involves considering whether a legitimate objective can be achieved by less harmful means. Proportionality is not simply matching the other person’s tool: it requires assessing the relationship between the degree of force, the legitimate objective and the actual threat. Detailed rules depend on the legal context and applicable directives.\n\nAuthorization to use all necessary means does not remove legal obligations, mandate conditions or use-of-force rules. Force must not serve punishment, retaliation or displays of power. Reporting and review after force are part of professional accountability.\n\n### 5.3. Unclear or conflicting guidance\nIdentify the precise uncertainty: Which power, area, category of person or approval level is unclear? Raise it through the chain of command and seek legal advice where required. Supply accurate facts, relevant documents and the urgency of the issue so that authorized personnel can decide.\n\nClarification should not become a reason to delay every urgent action already within assigned authority. Equally, urgency does not itself create additional powers. Manifestly unlawful orders, such as an order to torture, must not be carried out and must be reported through applicable mechanisms. **Remember:** Obedience to command operates alongside legal obligations and individual responsibility. Following orders does not erase all accountability."
+      },
+      "sourceIds": [
+        "C4",
+        "C5"
+      ]
+    },
+    {
+      "id": "CORE-02-06",
+      "title": {
+        "vi": "6. Báo cáo, rà soát và cập nhật nhiệm vụ",
+        "en": "6. Reporting, review and changing priorities"
+      },
+      "body": {
+        "vi": "### 6.1. Báo cáo là một phần của thực hiện mandate\nPhái bộ cần biết việc gì đã làm, kết quả ra sao, người dân chịu tác động thế nào và điều gì còn cản trở. Thông tin thực địa giúp chỉ huy điều chỉnh hoạt động, lãnh đạo đánh giá tiến độ và hỗ trợ quá trình Tổng Thư ký báo cáo Hội đồng Bảo an. Báo cáo không chỉ nhằm chứng minh đơn vị đã bận rộn hoặc hoàn thành đủ đầu việc.\n\nCần phân biệt **đầu ra hoạt động** với **kết quả đóng góp cho mục tiêu**. Số chuyến tuần tra là đầu ra; sự thay đổi về khả năng tiếp cận an toàn của người dân có thể là một chỉ dấu kết quả nếu có dữ liệu phù hợp. Không thể chỉ từ số chuyến tăng mà kết luận an ninh đã tốt hơn. Cũng không được quy mọi chuyển biến tích cực cho hoạt động của đơn vị khi còn nhiều yếu tố khác.\n\n### 6.2. Thông tin có giá trị phải rõ và có căn cứ\nMột báo cáo tốt làm rõ: Việc xảy ra ở đâu, khi nào; ai quan sát hoặc cung cấp thông tin; đơn vị đã làm gì; tác động đã xác nhận; điều gì chưa xác minh; hỗ trợ hoặc quyết định nào đang cần. Phân biệt sự kiện trực tiếp quan sát với thông tin được thuật lại và nhận định phân tích. Mức độ chắc chắn phải tương xứng với bằng chứng.\n\nHạn chế về nhân sự, liên lạc, cơ động hoặc phối hợp cần được báo cáo cùng ảnh hưởng đối với nhiệm vụ. Đừng chỉ ghi “khó khăn về trang bị”; hãy giải thích chức năng nào bị hạn chế và yêu cầu xử lý qua tuyến phù hợp. Với thông tin về vi phạm hoặc người dễ bị tổn thương, bảo vệ danh tính và dùng kênh báo cáo được quy định.\n\n### 6.3. Mandate thay đổi thì phần việc cũng phải được rà lại\nHội đồng Bảo an có thể gia hạn, điều chỉnh hoặc chấm dứt mandate. Thay đổi có thể tác động đến ưu tiên, địa bàn, quy mô và hình thức hỗ trợ. Việc học mandate không kết thúc sau buổi phổ biến đầu tiên. Đơn vị cần tiếp nhận văn bản cập nhật, phổ biến đến cán bộ và rà lại kế hoạch, phân công, chỉ thị có liên quan.\n\nTrong chuyển tiếp và rút giảm, cần xác định chủ thể tiếp nhận trách nhiệm, năng lực còn thiếu, nguy cơ và việc theo dõi sau bàn giao. Hoàn thành một thủ tục bàn giao không tự chứng minh đối tác đã đủ khả năng duy trì kết quả. Chuyển tiếp có trách nhiệm cần phối hợp, đánh giá thực tế và bảo đảm thông tin rõ ràng cho các bên liên quan.\n\n### 6.4. Sáu điều cần giữ lại sau bài học\n\n1. **Nền tảng:** Hoạt động UN phải có căn cứ trong Hiến chương và pháp luật áp dụng.\n2. **Mandate:** Đọc đúng nhiệm vụ, thẩm quyền, điều kiện và ưu tiên của phái bộ mình.\n3. **Quy chế:** Hiểu những nội dung SOFA/SOMA liên quan; miễn trừ không xóa trách nhiệm.\n4. **Phân công:** Biết mình đóng góp gì, phối hợp với ai và báo cáo cho ai.\n5. **Hành động:** Dùng đúng văn bản, nhận diện giới hạn và xin hướng dẫn đúng nơi.\n6. **Cập nhật:** Báo cáo trung thực, theo dõi thay đổi và điều chỉnh phần việc theo chỉ đạo có thẩm quyền.",
+        "en": "### 6.1. Reporting is part of mandate implementation\nA mission must know what was done, what changed, how communities were affected and what obstacles remain. Field information supports operational adjustments, leadership assessment and the Secretary-General’s reporting to the Security Council. Reporting should demonstrate more than how busy a unit has been.\n\nDistinguish **activity outputs** from **contributions to outcomes**. Patrol numbers are outputs. Changes in people’s ability to travel safely may indicate outcomes when supported by appropriate evidence. More patrols alone do not prove improved security. Nor should every positive change be attributed to the unit when other factors may have contributed.\n\n### 6.2. Useful information is clear and supported\nA sound report identifies where and when something happened; who observed it or supplied the information; what the unit did; verified effects; unresolved information; and decisions or support required. Distinguish direct observation, information reported by others and analytical judgment. Express certainty only to the extent supported by evidence.\n\nReport personnel, communications, mobility and coordination gaps together with their operational effects. Instead of merely stating an equipment problem, explain the function affected and request action through the proper channel. Information about violations and vulnerable people requires protection of identity and use of prescribed reporting channels.\n\n### 6.3. Changing mandates require review of assigned work\nThe Council may renew, adjust or terminate a mandate. Changes may affect priorities, geography, size and forms of support. Learning the mandate does not end with the initial briefing. Units need updated documents, personnel briefings and review of relevant plans, assignments and directives.\n\nTransition and drawdown require identifying who will assume responsibilities, remaining capacity gaps, risks and follow-up needs. Completing a handover procedure does not itself demonstrate that a partner can sustain the results. Responsible transition involves coordination, realistic assessment and clear information for the actors concerned.\n\n### 6.4. Six lessons to retain\n\n1. **Foundation:** UN activities require a basis in the Charter and applicable law.\n2. **Mandate:** Identify your mission’s tasks, authority, conditions and priorities.\n3. **Status:** Understand relevant SOFA/SOMA provisions; immunity does not remove responsibility.\n4. **Assignment:** Know your contribution, partners and reporting arrangements.\n5. **Action:** Consult the right instruments, recognize limits and obtain authorized guidance.\n6. **Update:** Report accurately, follow changes and adjust your work under competent direction."
+      },
+      "sourceIds": [
+        "C5"
+      ]
+    }
+  ],
+  "source_ids": [
+    "C4",
+    "C5",
+    "C9",
+    "CHARTER",
+    "PRINCIPLES"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "Mandate",
+      "definition": {
+        "vi": "Nhiệm vụ và phạm vi thẩm quyền giao cho phái bộ trong nghị quyết Hội đồng Bảo an.",
+        "en": "Mission responsibilities and scope of authority established in a Security Council resolution."
+      }
+    },
+    {
+      "term": "Task / Authority / Capability",
+      "definition": {
+        "vi": "Nhiệm vụ phải làm / quyền được sử dụng / khả năng thực hiện.",
+        "en": "Work to perform / powers available / ability to perform."
+      }
+    },
+    {
+      "term": "SOFA / SOMA",
+      "definition": {
+        "vi": "Thỏa thuận quy chế lực lượng / quy chế phái bộ với nước tiếp nhận.",
+        "en": "Status-of-forces / status-of-mission agreement with the host State."
+      }
+    },
+    {
+      "term": "ROE / DUF",
+      "definition": {
+        "vi": "Quy tắc giao chiến / chỉ thị sử dụng vũ lực theo thành phần và cơ chế áp dụng.",
+        "en": "Rules of engagement / directive on the use of force for the relevant component and arrangements."
+      }
+    },
+    {
+      "term": "CONOPS",
+      "definition": {
+        "vi": "Khái niệm hoạt động, cụ thể hóa cách thành phần tổ chức đóng góp vào nhiệm vụ.",
+        "en": "Concept of operations developing how a component contributes to mission tasks."
+      }
+    },
+    {
+      "term": "Output / Outcome",
+      "definition": {
+        "vi": "Đầu ra hoạt động / kết quả hoặc chuyển biến gắn với mục tiêu.",
+        "en": "Activity output / result or change linked to an objective."
+      }
+    }
+  ],
+  "diagram": {
+    "type": "seq",
+    "items": [
+      {
+        "vi": "Mandate",
+        "en": "Mandate"
+      },
+      {
+        "vi": "Kế hoạch phái bộ",
+        "en": "Mission plan"
+      },
+      {
+        "vi": "Phân công",
+        "en": "Tasking"
+      },
+      {
+        "vi": "Báo cáo, rà soát",
+        "en": "Reporting and review"
+      }
+    ],
+    "chapter": 1,
+    "title": {
+      "vi": "2.4. Từ mandate đến công việc thực tế",
+      "en": "2.4. From the mandate to day-to-day work"
+    },
+    "explanation": {
+      "vi": "Sơ đồ minh họa cách chuyển nhiệm vụ của phái bộ thành công việc của đơn vị, cá nhân, rồi theo dõi và điều chỉnh việc thực hiện.\n\n1. **Mandate — Xác định nhiệm vụ và giới hạn:** Đọc nghị quyết liên quan của Hội đồng Bảo an để biết phái bộ được giao làm gì, phục vụ mục tiêu nào, ở đâu và trong những điều kiện nào. Mandate không tự trao mọi quyền thực thi pháp luật cho từng cán bộ.\n2. **Kế hoạch phái bộ — Tổ chức cách thực hiện:** Lãnh đạo phái bộ cụ thể hóa nhiệm vụ thành ưu tiên, mục tiêu và kế hoạch. Kế hoạch làm rõ đơn vị chủ trì, bên phối hợp, nguồn lực, thời gian và biện pháp quản lý rủi ro; không được mở rộng thẩm quyền ngoài khuôn khổ áp dụng.\n3. **Phân công — Xác định ai làm việc gì:** Qua hệ thống chỉ huy, nhiệm vụ được giao cho thành phần, đơn vị và cá nhân phù hợp. Cán bộ cần biết mục đích công việc, phần việc của mình, giới hạn quyền hạn, đầu mối phối hợp và tuyến báo cáo. Có năng lực hoặc trang bị không đồng nghĩa với có thẩm quyền.\n4. **Báo cáo, rà soát — Kiểm tra và điều chỉnh:** Báo cáo kết quả, khó khăn, nguy cơ và nhu cầu hỗ trợ qua kênh quy định. Cấp có thẩm quyền sử dụng thông tin để rà soát ưu tiên, kế hoạch và phân công. Việc điều chỉnh phải nằm trong phạm vi nhiệm vụ, thẩm quyền và quy định áp dụng.\n\n**Ví dụ minh họa:** Nếu mandate giao phái bộ hỗ trợ phát triển năng lực cảnh sát sở tại, kế hoạch có thể xác định hoạt động cố vấn theo nhu cầu đã được đánh giá. Chỉ huy phân công IPO thực hiện phần việc phù hợp; IPO báo cáo hoạt động, kết quả và vướng mắc để cấp phụ trách xem xét điều chỉnh. Nhiệm vụ hỗ trợ đó không tự cho phép IPO bắt giữ hoặc điều tra độc lập.\n\n**Không hiểu sơ đồ như một thứ bậc pháp lý:** Đây là sơ đồ học tập do Handbook biên soạn, không phải hình trích nguyên bản của UN và không phải quy trình cứng cho mọi hoạt động. Báo cáo có thể dẫn đến xem xét lại kế hoạch hoặc phân công, nhưng không tự sửa mandate. Việc thay đổi mandate của phái bộ thuộc thẩm quyền Hội đồng Bảo an; cá nhân hoặc đơn vị không được tự mở rộng nhiệm vụ.",
+      "en": "The diagram illustrates how mission responsibilities become unit and individual tasks, followed by monitoring and review of implementation.\n\n1. **Mandate — Establish responsibilities and limits:** Read the relevant Security Council resolution to identify the mission’s tasks, objectives, geographic scope and conditions. A mandate does not automatically give every officer all executive law-enforcement powers.\n2. **Mission plan — Organize implementation:** Mission leadership translates the mandate into priorities, objectives and plans. Planning identifies responsible leads, partners, resources, timings and risk controls; it cannot expand authority beyond the applicable framework.\n3. **Tasking — Assign responsibilities:** Tasks are assigned through the command structure to appropriate components, units and individuals. Personnel must understand the purpose, their assigned work, limits of authority, coordination arrangements and reporting channels. Capability or equipment does not itself create authority.\n4. **Reporting and review — Assess and adjust:** Report results, difficulties, risks and support needs through established channels. Authorized leadership uses that information to review priorities, plans and assignments. Adjustments must remain within the applicable mandate, authority and rules.\n\n**Illustrative example:** If the mandate tasks a mission with supporting host-State police capacity development, a plan may identify advisory activities based on assessed needs. Command assigns suitable work to an IPO, who reports activities, results and difficulties so that responsible leadership can consider adjustments. A support task does not automatically authorize independent arrests or investigations.\n\n**Do not read the diagram as a legal hierarchy:** This is an instructional diagram developed by the Handbook, not a reproduced UN figure or a rigid procedure for every activity. Reporting may prompt a review of plans or assignments, but it does not amend the mandate. Changes to a peacekeeping mission’s mandate are for the Security Council; individuals and units cannot expand their own responsibilities unilaterally."
+    }
+  },
+  "contentVersion": "CORE-02-diagram-explained-2026-10-27",
+  "sourceIntro": {
+    "vi": "Các tài liệu dưới đây là nền tảng kiến thức của bài. Mở nguồn để đọc nội dung gốc; phần giải thích, sơ đồ học tập và câu hỏi được biên soạn cho Handbook.",
+    "en": "The materials below provide the lesson’s knowledge base. Open them for the original teaching material; explanations, instructional diagrams and questions are developed for the Handbook."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Hai bản Việt–Anh phục vụ học tập, không phải bản dịch chính thức của UN. Danh mục và thứ tự 48 bài là cách tổ chức học liệu của Handbook, không phải số bài chính thức của UN.",
+      "Bảng đối chiếu xác định tài liệu nền theo mục; không khẳng định mọi câu diễn giải là trích nguyên văn. Hình gốc ghi rõ tài liệu và trang PDF; sơ đồ học tập được ghi là biên soạn.",
+      "Bản mở rộng ngày 27/10/2026 dựa chủ yếu trên CPTM 2025, Lesson 1.4 (PDF trang 6–28), Lesson 1.5 (PDF trang 5–21) và Lesson 2.1. Hiến chương và trang nguyên tắc gìn giữ hòa bình bổ trợ khái niệm. Không mô tả mandate hiện hành của một phái bộ cụ thể.",
+      "Hai hình trích nguyên từ bài CPTM: Lesson 1.4, PDF trang 6 (Slide 5); Lesson 1.5, PDF trang 11 (Slide 8). Một số đầu trang trong PDF Lesson 1.5 in “Lesson 1.6”; mục lục và bìa xác định bài 1.5. Chú giải Việt–Anh và câu hỏi là phần biên soạn.",
+      "Các liên hệ công việc dùng để giải thích khái niệm; không thay thế SOFA/SOMA, DUF/ROE, SOP hoặc hướng dẫn pháp lý của phái bộ. Không suy diễn cơ chế miễn trừ hay tài phán giống nhau cho mọi loại nhân sự."
+    ],
+    "en": [
+      "The Vietnamese and English texts are for learning and are not official UN translations. The 48-lesson catalogue and numbering are the Handbook’s organization, not the official UN lesson count.",
+      "The mapping identifies source materials by section and does not present every explanation as a verbatim quotation. Original illustrations identify the material and PDF page; instructional diagrams are labelled as developed for the lesson.",
+      "Expanded on 27 October 2026, primarily using CPTM 2025 Lessons 1.4 (PDF pages 6–28), 1.5 (PDF pages 5–21) and 2.1. The Charter and UN peacekeeping principles support the concepts. This lesson does not describe a particular mission’s current mandate.",
+      "The two figures come from Lesson 1.4, PDF page 6 (Slide 5), and Lesson 1.5, PDF page 11 (Slide 8). Some Lesson 1.5 PDF page headers read Lesson 1.6; the cover and contents identify Lesson 1.5. Bilingual explanations and questions are authored for this lesson.",
+      "Work-related illustrations explain concepts and do not replace mission SOFA/SOMA, DUF/ROE, SOPs or legal guidance. Identical immunity or jurisdiction arrangements must not be assumed for every personnel category."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Hiểu căn cứ pháp lý để biết phái bộ được giao làm gì, cán bộ có quyền gì và phải chịu trách nhiệm thế nào. Bài học đi từ Hiến chương, mandate và quan hệ với nước sở tại đến phân công, quyết định và báo cáo trong công việc FPU/IPO.",
+      "en": "Understand the legal foundation for mission tasks, individual authority and accountability. The lesson connects the Charter, mandate and host-State arrangements with FPU/IPO assignments, decisions and reporting."
+    },
+    "subtitle": {
+      "vi": "Hiểu mandate · Thực hiện đúng thẩm quyền · Chịu trách nhiệm về hành động",
+      "en": "Understand the mandate · Act within authority · Remain accountable"
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích vai trò của Hiến chương, luật nhân quyền và luật nhân đạo trong hoạt động gìn giữ hòa bình.",
+        "Đọc mandate theo sáu câu hỏi; phân biệt nhiệm vụ, thẩm quyền và năng lực.",
+        "Nhận diện chức năng SOFA/SOMA và mối quan hệ giữa miễn trừ với trách nhiệm.",
+        "Trình bày cách chuyển mandate thành phần việc của FPU, IPO và bộ phận bảo đảm.",
+        "Phân biệt ROE, DUF, SOP; nhận biết việc cần xin hướng dẫn chỉ huy hoặc pháp lý.",
+        "Phân biệt đầu ra với kết quả và giải thích yêu cầu cập nhật khi mandate thay đổi."
+      ],
+      "en": [
+        "Explain the Charter, human rights law and humanitarian law in peacekeeping.",
+        "Use six questions to read a mandate and distinguish tasks, authority and capability.",
+        "Explain SOFA/SOMA and the relationship between immunity and accountability.",
+        "Connect mandate implementation with FPU, IPO and support responsibilities.",
+        "Distinguish ROE, DUF and SOPs and identify when command or legal guidance is needed.",
+        "Distinguish outputs from outcomes and explain why changing mandates require updated tasking."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc sáu mục trong tab Nội dung bài học, xem hai hình gốc và phần giải thích ngay dưới hình. Sau đó làm 12 câu kiểm tra nhận thức, đọc phản hồi và quay lại mục tương ứng khi cần. Nút VI/EN đổi ngôn ngữ và giữ đáp án trong phiên mở trang; tải lại trang sẽ bắt đầu lại.",
+      "en": "Read the six sections, study the two original figures and their explanations, then answer the 12 knowledge-check questions. Review feedback and revisit the relevant section. VI/EN switches languages while retaining answers during the session; reloading starts again."
+    }
+  },
+  "figures": [
+    {
+      "chapter": 0,
+      "image": "assets/lesson-figures/CORE-02-expanded-1-20261027.png",
+      "alt": {
+        "vi": "Hình 1. Các văn bản thuộc khuôn khổ pháp lý gìn giữ hòa bình",
+        "en": "Figure 1. Instruments in the peacekeeping legal framework"
+      },
+      "caption": {
+        "vi": "Hình 1. Các văn bản thuộc khuôn khổ pháp lý gìn giữ hòa bình",
+        "en": "Figure 1. Instruments in the peacekeeping legal framework"
+      },
+      "sourceLabel": "UN CPTM 2025 · Lesson 1.4",
+      "pdfPage": 6,
+      "explanation": {
+        "vi": "Hãy đọc hình từ nền tảng Hiến chương đến các văn bản điều chỉnh hoạt động. Mandate trả lời phái bộ được giao làm gì; SOFA/SOMA làm rõ quy chế với nước tiếp nhận; ROE/DUF hướng dẫn sử dụng vũ lực theo thành phần. Các văn bản phải được đọc cùng nhau; không được dùng SOP để bỏ qua nghĩa vụ pháp lý.",
+        "en": "Read from the Charter foundation towards instruments governing operations. The mandate establishes tasks; SOFA/SOMA address status with the host State; ROE/DUF guide force for the relevant component. Read these instruments together; an SOP cannot override legal obligations."
+      }
+    },
+    {
+      "chapter": 3,
+      "image": "assets/lesson-figures/CORE-02-expanded-2-20261027.png",
+      "alt": {
+        "vi": "Hình 2. Các văn bản lập kế hoạch triển khai mandate",
+        "en": "Figure 2. Planning documents for mandate implementation"
+      },
+      "caption": {
+        "vi": "Hình 2. Các văn bản lập kế hoạch triển khai mandate",
+        "en": "Figure 2. Planning documents for mandate implementation"
+      },
+      "sourceLabel": "UN CPTM 2025 · Lesson 1.5",
+      "pdfPage": 11,
+      "explanation": {
+        "vi": "Quan sát sự có mặt của Mission Concept, CONOPS, kế hoạch và ngân sách theo kết quả. Để thực hiện mandate, phái bộ cần cả định hướng chung, cách tổ chức hoạt động và nguồn lực. Đây là danh sách các công cụ lập kế hoạch, không phải thứ tự pháp lý hoặc quy trình cứng bắt buộc cho mọi công việc.",
+        "en": "Notice the Mission Concept, CONOPS, mission plan and results-based budget. Implementation needs common direction, operational organization and resources. This is a set of planning tools, not a legal hierarchy or an inflexible sequence for every activity."
+      }
+    }
+  ],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft"
+}

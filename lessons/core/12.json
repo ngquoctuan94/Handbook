@@ -1,0 +1,688 @@
+{
+  "schemaVersion": 2,
+  "id": "CORE-12",
+  "area": "core",
+  "groupKey": "CORE-M2",
+  "group": {
+    "vi": "Mandate, bảo vệ và các ưu tiên",
+    "en": "Mandates, protection and priorities"
+  },
+  "title": {
+    "vi": "Phòng ngừa và ứng phó CRSV",
+    "en": "Preventing and responding to conflict-related sexual violence"
+  },
+  "summary": {
+    "vi": "Bài học kết nối nhận diện CRSV, phòng ngừa nguy cơ, tiếp nhận an toàn, quyền lựa chọn, chuyển dịch vụ và quản lý thông tin. Người học hiểu hành động trong vai trò và việc cần chuyển chuyên môn.",
+    "en": "Connect CRSV recognition, prevention, safe reception, informed choice, service referral and information safeguards. Understand immediate roles and specialist boundaries."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "C14",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-418%20Lesson%202.5%20Protection%20from%20CRSV.zip",
+  "order": 206,
+  "sections": [
+    {
+      "id": "CORE-12-01",
+      "title": {
+        "vi": "1. Nhận diện CRSV và trách nhiệm bảo vệ",
+        "en": "1. Recognize CRSV and protective responsibilities"
+      },
+      "body": {
+        "vi": "### 1.1. CRSV là gì?\nConflict-Related Sexual Violence (CRSV) là bạo lực tình dục có liên hệ trực tiếp hoặc gián tiếp với xung đột. Liên hệ có thể thể hiện qua bối cảnh, người gây hại, người bị nhắm tới, mục đích hoặc môi trường miễn trừ trách nhiệm. Không phải mọi vụ bạo lực tình dục xảy ra trong một nước có xung đột đều tự được phân loại là CRSV; cần đánh giá chuyên môn phù hợp.\n\nBạo lực có thể gồm những hành vi tình dục bị ép buộc và các hình thức nghiêm trọng khác liên quan xung đột. Người làm nhiệm vụ thông thường không cần yêu cầu người kể mô tả chi tiết để tự phân loại. Việc nhận diện ban đầu nhằm bảo vệ, trợ giúp và chuyển thông tin đúng nơi, không thay điều tra hoặc kết luận pháp lý.\n\n### 1.2. Người bị ảnh hưởng không chỉ là phụ nữ và trẻ em gái\nPhụ nữ và trẻ em gái chịu ảnh hưởng nghiêm trọng, nhưng nam giới và trẻ em trai cũng có thể là người sống sót. Nguy cơ còn gắn với tuổi, khuyết tật, tình trạng di dời hoặc sự kỳ thị. Không loại một lời đề nghị giúp chỉ vì người đó không giống hình dung sẵn có về nạn nhân.\n\nNgười bị ảnh hưởng có thể không muốn dùng một cách gọi cụ thể về mình. Tôn trọng ngôn ngữ và lựa chọn phù hợp; trong bài dùng “người sống sót” để nhấn mạnh quyền, năng lực và nhu cầu, không giảm tính nghiêm trọng của hành vi hoặc phủ nhận thuật ngữ pháp lý “nạn nhân”.\n\n### 1.3. Phân biệt với các khái niệm liên quan\nBạo lực trên cơ sở giới là phạm vi rộng hơn, không chỉ liên quan xung đột. SEA là bóc lột và xâm hại tình dục gắn với chuẩn mực ứng xử và trách nhiệm của nhân sự UN hoặc người thuộc phạm vi cơ chế áp dụng. CRSV chú ý mối liên hệ với xung đột; SEA chú ý tính chất hành vi và quan hệ trách nhiệm. Một sự việc có thể cần nhiều cơ chế phối hợp, không nên ép vào một nhãn để tránh trách nhiệm khác.\n\nNếu nghi nhân sự UN có liên quan SEA, phải dùng kênh báo cáo SEA theo quy định; không chỉ chuyển như một nhu cầu y tế rồi coi đã hoàn tất. Đồng thời, việc báo không được thay chăm sóc và bảo vệ người bị ảnh hưởng.\n\n### 1.4. Mỗi người có vai trò nhưng không cùng chuyên môn\nNhân sự gìn giữ hòa bình cần nhận diện nguy cơ, phản ứng trong nhiệm vụ, biết đầu mối và bảo vệ thông tin. Women’s Protection Advisers (WPA), đầu mối CRSV, nhân quyền, y tế và các đối tác dịch vụ có vai trò chuyên môn khác nhau. Không mặc định nữ cán bộ bất kỳ là người có thể tư vấn, phỏng vấn hoặc khám.",
+        "en": "### 1.1. Understand CRSV\nConflict-related sexual violence (CRSV) has direct or indirect links to conflict, reflected in context, actors, targeting, purpose or impunity. Sexual violence occurring in a conflict-affected country does not automatically establish that link; appropriate expertise is needed.\n\nInitial recognition supports protection, assistance and responsible referral. Ordinary personnel should not demand detailed accounts to classify conduct or replace investigation and legal findings.\n\n### 1.2. Recognize diverse survivors\nWomen and girls are severely affected; men and boys can also be survivors. Age, disability, displacement and stigma can shape risk. Do not dismiss someone who differs from a stereotype.\n\nRespect the person’s preferred language. “Survivor” emphasizes rights, agency and needs without diminishing harm or excluding the legal term “victim”.\n\n### 1.3. Distinguish related concepts\nGender-based violence is broader and not limited to conflict. SEA concerns sexual exploitation and abuse under applicable conduct and accountability frameworks. CRSV focuses on conflict links; SEA includes responsibility connected to UN-affiliated personnel. Overlap can require coordinated mechanisms.\n\nSuspected SEA involving UN personnel requires the applicable reporting channel as well as care. Medical referral alone does not fulfil every reporting duty, and reporting does not replace assistance.\n\n### 1.4. Know roles and limits\nAll peacekeepers need risk recognition, appropriate action, contacts and information safeguards. WPAs, CRSV focal points, human rights staff, medical personnel and service partners have distinct expertise. Being a woman officer does not establish counselling, interviewing or clinical competence."
+      },
+      "sourceIds": [
+        "C14",
+        "C23"
+      ]
+    },
+    {
+      "id": "CORE-12-02",
+      "title": {
+        "vi": "2. Phòng ngừa qua hiểu nguy cơ và tiếp xúc an toàn",
+        "en": "2. Prevent through risk awareness and safe engagement"
+      },
+      "body": {
+        "vi": "### 2.1. Tìm mẫu nguy cơ, không tìm người để quy tội\nThông tin về tuyến đi bị tránh, khu vực kiểm soát, đe dọa, di dời hoặc thay đổi sinh hoạt có thể giúp nhận biết nguy cơ. Cần phân biệt điều quan sát được, thông tin nhận và đánh giá. Một dấu hiệu chưa chứng minh có vụ việc hoặc người cụ thể đã gây hại; vẫn có thể là lý do báo để đánh giá và phòng ngừa.\n\nKhông thu danh tính hoặc yêu cầu lời kể nhạy cảm chỉ để làm bản đồ nguy cơ. Có thể làm việc với đầu mối chuyên môn và sử dụng thông tin đã được bảo vệ phù hợp. Công khai vị trí quá cụ thể có thể làm lộ người cung cấp hoặc người sống sót.\n\n### 2.2. Hỏi về an toàn mà không ép tiết lộ trải nghiệm\nTrong tiếp xúc cộng đồng, trao đổi về nhu cầu, nơi khó tiếp cận và cách được giúp. Không hỏi giữa tập thể ai đã chịu bạo lực hoặc yêu cầu đứng ra xác nhận một tin. Người dân có quyền không trả lời; sự im lặng không chứng minh không có nguy cơ.\n\nLựa chọn thời gian, địa điểm, người hỗ trợ và ngôn ngữ cần phù hợp, tránh làm người tham gia bị chú ý hoặc gặp trả đũa. Phiên dịch phải hiểu bảo mật và vai trò, không tự hỏi thêm. Đừng dùng người quen của cộng đồng theo cách làm người sống sót mất khả năng trao đổi riêng.\n\n### 2.3. Kết nối thông tin với lựa chọn bảo vệ\nFPU hoặc UNPOL có thể được giao nhiệm vụ phòng ngừa trong phạm vi mandate, như điều chỉnh tiếp xúc, hoạt động hiện diện hoặc phối hợp bảo vệ. Mỗi lựa chọn cần căn cứ, khả năng thực tế và đánh giá tác động. Một hoạt động dễ thấy chưa chắc là hoạt động người dân cần nhất.\n\nHỏi việc thay đổi có làm người chịu nguy cơ bị nhận diện hoặc đẩy nguy cơ sang nơi khác không. Không hứa tuần tra liên tục, bắt người hoặc bảo đảm tuyệt đối khi chưa có thẩm quyền và nguồn lực. Chuyển nhu cầu ngoài khả năng tới đầu mối có trách nhiệm, xác nhận việc tiếp nhận.\n\n### 2.4. Cập nhật đầu mối và đường chuyển dịch vụ\nTrước nhiệm vụ, biết ai nhận báo nguy cơ, ai hỗ trợ CRSV và đường tiếp cận dịch vụ nào còn hoạt động. Cần xác nhận ngôn ngữ, giờ, phương tiện liên hệ và điều kiện tiếp nhận. Một danh sách cũ không đủ để hứa người dân sẽ được giúp tại một nơi đã ngừng hoạt động.",
+        "en": "### 2.1. Identify risks without assigning guilt\nAvoided routes, controlling actors, threats, displacement and changed routines may indicate risk. Separate observation, received information and assessment. Indicators warrant review without proving an incident or individual guilt.\n\nDo not collect identities or detailed accounts merely to map risk. Use protected information and specialist coordination; precise locations can expose sources and survivors.\n\n### 2.2. Discuss safety without demanding disclosure\nAsk about needs, access and assistance rather than publicly asking who experienced violence. Silence does not prove absence of risk.\n\nChoose safe timing, locations, language and support. Interpreters need confidentiality and role limits. Familiar community contacts must not eliminate private choices.\n\n### 2.3. Connect information to protection\nAuthorized police prevention may involve engagement, presence or coordinated protection. Assess authority, actual capacity and effects. Visible activity is not necessarily the most useful response.\n\nConsider identification and displaced risk. Do not promise continuous patrols, arrests or absolute safety without authority and resources. Refer needs responsibly and confirm receipt.\n\n### 2.4. Keep pathways current\nVerify risk-reporting and CRSV contacts, functioning services, language, hours and access arrangements. An old directory does not justify promising help at an unavailable service."
+      },
+      "sourceIds": [
+        "C14"
+      ]
+    },
+    {
+      "id": "CORE-12-03",
+      "title": {
+        "vi": "3. Lấy người sống sót làm trung tâm",
+        "en": "3. Put the survivor at the centre"
+      },
+      "body": {
+        "vi": "### 3.1. An toàn và không gây hại thêm\nTrước khi hỏi, xét cuộc trao đổi có làm người đó bị nghe, nhận ra hoặc gặp nguy cơ không. Tìm điều kiện phù hợp trong khả năng và không tự đưa họ tới một nơi lạ vì thuận tiện cho đơn vị. Hỏi nhu cầu cấp thiết, tôn trọng khoảng cách và không chạm nếu chưa có sự đồng ý phù hợp.\n\nNgười sống sót không phải nguồn dữ liệu để hoàn thành báo cáo. Mỗi yêu cầu kể lại có thể tạo gánh nặng và rủi ro. Chỉ hỏi điều cần cho an toàn và kết nối trợ giúp trong vai trò; phần thu thập thông tin chuyên sâu cần người đủ năng lực và quy trình được phép.\n\n### 3.2. Tôn trọng, không phán xét và không đổ lỗi\nLắng nghe bình tĩnh, thể hiện lời kể được tiếp nhận nghiêm túc. Không hỏi vì sao họ ở đó, mặc như vậy hoặc không chống cự; những câu này có thể chuyển trách nhiệm sang người bị hại. Không suy độ tin cậy từ việc họ khóc, không khóc, kể ngắt quãng hoặc trình báo muộn.\n\nKhông tự tuyên bố ai có tội hoặc buộc người kể chứng minh để được hỗ trợ. Ghi đúng trạng thái thông tin, không thêm chi tiết mình nghĩ hợp lý. Tách việc tôn trọng người kể và đáp ứng nhu cầu với thẩm quyền xác minh sự việc.\n\n### 3.3. Đồng ý sau khi được thông tin\nInformed consent đòi hỏi giải thích lựa chọn, mục đích sử dụng thông tin, ai có thể nhận, giới hạn bảo mật và điều có thể hoặc không thể thực hiện. Sự đồng ý phải tự nguyện, cụ thể và có thể được xem lại theo điều kiện áp dụng. Đồng ý nhận chăm sóc không đồng nghĩa đồng ý công bố câu chuyện hoặc tham gia mọi bước điều tra.\n\nKhông đặt trợ giúp thành điều kiện phải kể thêm hoặc phải đồng ý báo cho một nhóm rộng. Nếu có nghĩa vụ báo cáo hoặc tình huống bảo vệ đặc biệt, giải thích giới hạn sớm, xin hướng dẫn đầu mối chuyên môn và chia sẻ tối thiểu cần thiết. Không hứa giữ bí mật tuyệt đối rồi âm thầm làm khác.\n\n### 3.4. Bảo mật và lựa chọn của từng người\nChỉ người có nhu cầu công vụ hợp pháp được tiếp cận thông tin phù hợp. Không trao đổi tên, ảnh, vị trí hoặc nội dung lời kể trong nhóm không cần biết. Tránh dùng điện thoại cá nhân để ghi hoặc chuyển dữ liệu nhạy cảm.\n\nNgười sống sót có thể chọn chưa tiếp cận một dịch vụ. Cung cấp thông tin và lựa chọn phù hợp, không ép để hoàn thành chỉ tiêu. Tiếp tục xử lý nguy cơ bảo vệ trong thẩm quyền theo cơ chế chuyên môn; không coi từ chối một dịch vụ là từ chối mọi trợ giúp hoặc lý do ngừng quan tâm.",
+        "en": "### 3.1. Safety and do no harm\nAssess whether discussion exposes the person to being heard, identified or threatened. Seek suitable conditions without moving them somewhere unfamiliar merely for convenience. Ask urgent needs and respect personal space and consent.\n\nSurvivors are not data sources for report completion. Repeated accounts can add burden. Ask only what safety and assistance require within your role; specialist information gathering needs competence and authorized procedures.\n\n### 3.2. Respect without judgment\nListen calmly and take concerns seriously. Avoid questions blaming location, clothing or lack of resistance. Emotional expression, fragmented accounts and delayed disclosure do not determine credibility.\n\nDo not declare guilt or require proof before assistance. Preserve the actual information status. Respect and care differ from investigative findings.\n\n### 3.3. Informed consent\nExplain choices, purposes, recipients, confidentiality limits and realistic possibilities. Consent must be voluntary and specific under applicable arrangements. Agreement to care does not authorize publicity or every investigative step.\n\nDo not condition help on disclosure. Where mandatory reporting or special protection duties apply, explain limits early, seek specialist guidance and disclose only necessary information. Never promise absolute secrecy you cannot maintain.\n\n### 3.4. Confidentiality and choice\nRestrict information to authorized need-to-know recipients. Avoid unnecessary groups, personal devices and disclosure of identity or location.\n\nA survivor may decline a service. Offer information without pressure, follow appropriate protection arrangements and avoid treating refusal of one option as refusal of all assistance."
+      },
+      "sourceIds": [
+        "C14"
+      ]
+    },
+    {
+      "id": "CORE-12-04",
+      "title": {
+        "vi": "4. Tiếp nhận ban đầu và chuyển tuyến",
+        "en": "4. Initial reception and referral"
+      },
+      "body": {
+        "vi": "### 4.1. Xác định nhu cầu trước yêu cầu hồ sơ\nKhi một người tìm tới, giới thiệu vai trò và giới hạn, kiểm tra điều kiện trao đổi và nhu cầu cấp thiết. Có nguy cơ sinh mạng hoặc y tế thì kích hoạt trợ giúp phù hợp, không đợi hoàn thành mẫu. Không tự khám, đánh giá lâm sàng hoặc chỉ định điều trị ngoài chuyên môn.\n\nMột số chăm sóc có tính thời gian nên cần tiếp cận y tế kịp thời; việc lựa chọn và thời điểm can thiệp do người có chuyên môn quyết định. Không đưa một thời hạn chung khiến người trình báo muộn nghĩ họ không còn được giúp. Không yêu cầu giao chứng cứ hoặc có giấy xác nhận trước mới kết nối chăm sóc.\n\n### 4.2. Hỏi ít nhưng đủ để hành động\nCó thể cần biết người đó có an toàn ngay lúc này không, muốn được hỗ trợ gì và cách liên hệ nào phù hợp. Tránh câu hỏi dẫn dắt hoặc yêu cầu kể lại diễn biến nhiều lần. Nếu người đó tự nói thêm, lắng nghe mà không mở rộng thành cuộc phỏng vấn điều tra tự phát.\n\nKhông đối chất, gọi người bị nghi tới giải thích hoặc nhờ cộng đồng tự xác minh. Những việc đó có thể làm tăng nguy cơ, mất thông tin và vượt vai trò. Báo cho đúng đầu mối theo cơ chế an toàn.\n\n### 4.3. Giải thích dịch vụ và xác nhận tiếp nhận\nTrình bày những lựa chọn đã xác nhận: Y tế, hỗ trợ tâm lý xã hội, pháp lý, bảo vệ hoặc hỗ trợ khác phù hợp. Không coi một tổ chức là có đủ mọi dịch vụ. Với lựa chọn người đó đồng ý, xác nhận nơi nhận, thông tin cần chuyển, cách tới và người hỗ trợ khi cần.\n\nGửi một số điện thoại chưa chứng minh đã chuyển tuyến thành công. Khi phù hợp và an toàn, xác nhận đầu mối đã nhận trách nhiệm; chỉ chia sẻ dữ liệu cần thiết. Không yêu cầu đơn vị dịch vụ tiết lộ hồ sơ lâm sàng để chứng minh thành tích chuyển tuyến.\n\n### 4.4. Trẻ em cần cơ chế chuyên môn\nKhi liên quan trẻ em, ưu tiên lợi ích tốt nhất của trẻ, an toàn, cách giao tiếp phù hợp tuổi và phối hợp đầu mối bảo vệ trẻ. Sự tham gia của người chăm sóc cần được đánh giá, không mặc định họ luôn là người an toàn hoặc không liên quan nguy cơ.\n\nKhông tự giải quyết những vấn đề đồng ý, giám hộ hoặc phỏng vấn chuyên sâu bằng suy đoán. Gọi người có chuyên môn và thực hiện quy trình áp dụng. Không đặt trẻ kể chi tiết trước nhiều người hoặc để nhiều bộ phận lần lượt hỏi cùng nội dung.",
+        "en": "### 4.1. Needs before paperwork\nExplain your role and limits, assess privacy and urgent needs. Activate suitable emergency assistance without waiting for forms. Do not provide clinical examination or treatment beyond competence.\n\nSome care is time-sensitive; qualified professionals determine interventions. Do not give a universal deadline suggesting later survivors cannot receive help. Assistance must not depend on evidence or official certification first.\n\n### 4.2. Ask only what action requires\nEstablish immediate safety, requested assistance and safe contact. Avoid leading questions and repeated detailed accounts. Listening to voluntary information does not authorize an improvised investigation.\n\nDo not confront suspects or ask the community to verify allegations. Refer through safe authorized mechanisms.\n\n### 4.3. Explain and confirm services\nDescribe confirmed medical, psychosocial, legal, protection and other options. Do not assume one organization provides everything. For agreed referrals, confirm reception, necessary information, access and support.\n\nProviding an unverified number is not successful referral. Confirm accountable receipt where safe, share minimally and do not demand clinical records to prove performance.\n\n### 4.4. Use child-protection expertise\nPrioritize best interests, safety and age-appropriate communication. Assess caregiver involvement rather than assuming safety.\n\nSeek qualified guidance on consent, guardianship and interviews. Do not require repeated detailed accounts before multiple actors."
+      },
+      "sourceIds": [
+        "C14"
+      ]
+    },
+    {
+      "id": "CORE-12-05",
+      "title": {
+        "vi": "5. Phối hợp, báo cáo và quản lý thông tin",
+        "en": "5. Coordination, reporting and information management"
+      },
+      "body": {
+        "vi": "### 5.1. Phân biệt ba nhu cầu thông tin\nBáo nguy cơ để bảo vệ, chuyển dịch vụ để trợ giúp và thu thập chứng cứ để xác minh có mục đích cùng yêu cầu khác nhau. Không gom mọi dữ liệu vào một báo cáo phát rộng. Đầu mối hoạt động có thể chỉ cần biết nơi và loại nguy cơ; người cung cấp dịch vụ cần thông tin được phép để tiếp nhận; điều tra viên có quy trình riêng.\n\nTrước khi chuyển, xác định mình đang làm việc gì, căn cứ, người nhận và mức dữ liệu tối thiểu. Dùng hướng dẫn WPA, CRSV hoặc nhân quyền và các cơ chế bắt buộc áp dụng. Không suy rằng đã cần báo một nguy cơ thì được gửi toàn bộ danh tính cùng lời kể cho mọi cấp.\n\n### 5.2. Bảo vệ thông tin trong ghi chép và trao đổi\nGhi khách quan, phân biệt quan sát với điều được kể, nêu điều chưa rõ. Chỉ dùng phương tiện được phép, bảo vệ quyền truy cập, lưu và chuyển theo quy định. Không chụp người sống sót hoặc đăng câu chuyện để vận động ủng hộ nếu không có cơ chế cùng sự đồng ý phù hợp.\n\nThông tin chính xác vẫn có thể gây hại nếu người khác nhận ra người liên quan. Ngay cả bỏ tên cũng chưa chắc ẩn danh khi có địa điểm, thời gian hoặc đặc điểm rất cụ thể. Xin hướng dẫn chuyên môn trước khi chia sẻ dạng có thể nhận diện.\n\n### 5.3. Không điều tra thay người có trách nhiệm\nKhông tự tìm chứng cứ, phỏng vấn bổ sung hoặc đánh giá trách nhiệm hình sự khi chưa được giao và huấn luyện. Không hứa bắt giữ, truy tố hoặc kết quả bảo vệ tuyệt đối. Giải thích thực tế những điều có thể làm và người nào phụ trách bước tiếp.\n\nKhi nhận thông tin liên quan SEA của nhân sự UN, báo ngay qua kênh được quy định, không chờ mình xác minh xong. Giải thích nghĩa vụ và bảo vệ thông tin trong báo cáo. Quyền được trợ giúp không phụ thuộc việc cáo buộc đã được chứng minh.\n\n### 5.4. Bàn giao không làm mất quyền lựa chọn\nKhi đổi ca hoặc thay người, chỉ chuyển nội dung cần thiết, trạng thái tiếp nhận và cam kết chưa xử lý cho người có trách nhiệm. Không để người sống sót phải kể lại từ đầu vì đơn vị không quản lý liên tục. Theo dõi ở mức vai trò được phép, không trở thành giám sát đời tư hoặc gây áp lực buộc sử dụng dịch vụ.",
+        "en": "### 5.1. Separate information purposes\nProtection alerts, assistance referrals and evidence gathering have different purposes and requirements. Do not combine everything into a widely distributed report. Operational actors may need threat information without identities; services need authorized intake information; investigators follow separate procedures.\n\nEstablish purpose, grounds, recipient and minimum data. Follow specialist guidance and applicable duties rather than assuming a protection need authorizes every disclosure.\n\n### 5.2. Record and share securely\nSeparate observations, received accounts and uncertainty. Use authorized tools, access and retention. Publicity about survivors requires appropriate mechanisms and consent.\n\nAccurate information can still harm. Removing names may not prevent identification through precise locations, timing or rare details. Obtain specialist guidance.\n\n### 5.3. Respect investigative boundaries\nDo not independently gather evidence, extend interviews or determine criminal responsibility without assignment and competence. Avoid promises of arrest, prosecution or absolute safety.\n\nReport suspected SEA involving UN personnel promptly through required channels without self-verification. Explain duties and safeguard information. Assistance does not depend on proven allegations.\n\n### 5.4. Maintain continuity and choice\nTransfer only necessary status and outstanding commitments to responsible staff. Poor continuity should not force repeated accounts. Follow up within your role without intrusive monitoring or service-use pressure."
+      },
+      "sourceIds": [
+        "C14",
+        "C23"
+      ]
+    },
+    {
+      "id": "CORE-12-06",
+      "title": {
+        "vi": "6. Chuẩn bị đơn vị và đánh giá chất lượng ứng phó",
+        "en": "6. Prepare the unit and assess response quality"
+      },
+      "body": {
+        "vi": "### 6.1. Sẵn sàng trước khi có tiết lộ\nĐơn vị cần phổ biến nguyên tắc không gây hại, giới hạn hỏi, kênh báo và đường chuyển dịch vụ đã xác nhận. Kiểm tra người trực có biết gọi ai, bảo vệ riêng tư thế nào và làm gì khi đầu mối chính không liên hệ được. Một tài liệu nằm trên mạng không đủ nếu người cần dùng không thể truy cập trong nhiệm vụ.\n\nHuấn luyện nên thực hành tiếp nhận bằng nội dung giả định phù hợp, không yêu cầu học viên tiết lộ trải nghiệm cá nhân. Có hướng dẫn dừng, hỗ trợ khi nội dung gây khó chịu và đầu mối chuyên môn. Không dùng mức độ chi tiết gây sốc để đánh giá buổi học có thực tế hay không.\n\n### 6.2. Đánh giá quá trình bảo vệ, không chỉ lượng báo cáo\nSố vụ được báo có thể tăng do niềm tin và khả năng tiếp cận tốt hơn, không nhất thiết do nguy cơ thực tăng; số thấp cũng không chứng minh không có vấn đề. Kết hợp dữ liệu đã bảo vệ với phân tích chuyên môn, khả năng dịch vụ và phản hồi an toàn.\n\nXem người tiếp nhận có giải thích giới hạn, tránh hỏi lại, kết nối trợ giúp và chia sẻ đúng mức không. Không tạo chỉ tiêu buộc đơn vị tìm đủ người sống sót hoặc thu thêm câu chuyện. Thành công không được đánh đổi bằng quyền riêng tư và lựa chọn của người bị ảnh hưởng.\n\n### 6.3. Sửa điểm đứt trong chuyển tuyến\nNếu dịch vụ không nhận được thông tin, xem lại kênh, giờ và cách xác nhận. Nếu người dân không muốn tới, tìm hiểu rào cản qua chuyên môn mà không ép. Nếu danh tính bị chia quá rộng, phải kích hoạt xử lý sự cố thông tin và biện pháp bảo vệ theo cơ chế áp dụng.\n\nGiao việc sửa, người phụ trách và cách kiểm tra lại bằng dữ liệu tối thiểu. Không yêu cầu người sống sót tiếp tục kể để phục vụ việc rà nội bộ. Bảo vệ vẫn là mục đích xuyên suốt cả bước học từ sai sót.\n\n### 6.4. Chăm sóc người thực hiện và duy trì trách nhiệm\nTiếp xúc với nội dung bạo lực có thể gây căng thẳng cho cán bộ và phiên dịch. Bố trí hỗ trợ, trao đổi chuyên môn và nghỉ phù hợp mà không phát tán thông tin nhận diện. Không dùng áp lực tâm lý làm lý do bỏ qua nhu cầu người sống sót, cũng không coi người xin hỗ trợ là thiếu năng lực.\n\nPhản ứng tốt cần an toàn, tôn trọng, lựa chọn có thông tin, phối hợp đúng người và thông tin được bảo vệ. Người học phải hiểu mình làm được gì ngay, việc gì cần chuyển và cách không tạo thêm tổn hại trong từng bước.",
+        "en": "### 6.1. Prepare before disclosure\nBrief do-no-harm principles, question limits, reporting and verified referrals. Check contacts, privacy and fallback. Online instructions are insufficient if inaccessible during duty.\n\nUse appropriate fictional training, never compulsory personal disclosure. Provide stopping and support arrangements. Shocking detail is not a measure of training quality.\n\n### 6.2. Assess protection, not report volume alone\nMore reports can reflect improved trust or access; fewer do not prove safety. Combine protected data, expertise, service capacity and safe feedback.\n\nReview explained limits, minimized questioning, assistance and proportionate sharing. Avoid targets that pressure personnel to find survivors or collect stories.\n\n### 6.3. Repair referral gaps\nReview channels, hours and acknowledgement when referrals fail. Explore access barriers through specialists without coercion. Activate appropriate information-incident and protection arrangements after excessive disclosure.\n\nAssign corrections and verify with minimum data. Do not require survivors to retell accounts for internal review.\n\n### 6.4. Support personnel and sustain responsibility\nDistressing work can affect personnel and interpreters. Provide professional support and appropriate rest without revealing identities. Seeking support is not incompetence.\n\nQuality response combines safety, respect, informed choices, competent coordination and protected information. Know immediate actions, referral boundaries and how to avoid further harm."
+      },
+      "sourceIds": [
+        "C14"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "C14",
+      "title": "2.5 Protection from Conflict-Related Sexual Violence",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-418%20Lesson%202.5%20Protection%20from%20CRSV.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 38,
+      "pdf_name": "2025 - Lesson 2.5 Protection from CRSV - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-29"
+    },
+    {
+      "id": "C23",
+      "title": "3.3 Sexual Exploitation and Abuse",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-428%20Lesson%203.3%20Sexual%20Exploitation%20and%20Abuse.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 32,
+      "pdf_name": "2025 - Lesson 3.3 Sexual Exploitation and Abuse - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-29"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Bạo lực tình dục xảy ra trong nước có xung đột có tự là CRSV không?",
+        "en": "Is all sexual violence in a conflict-affected country automatically CRSV?"
+      },
+      "options": [
+        {
+          "vi": "Không; chỉ phụ nữ mới có thể là người sống sót CRSV.",
+          "en": "No; only women can be CRSV survivors."
+        },
+        {
+          "vi": "Có; địa điểm quốc gia là đủ để phân loại.",
+          "en": "Yes; the country location is sufficient."
+        },
+        {
+          "vi": "Không; cần đánh giá liên hệ trực tiếp hoặc gián tiếp với xung đột.",
+          "en": "No; assess direct or indirect conflict links."
+        }
+      ],
+      "correct": 2,
+      "chapter": 0,
+      "explanation": {
+        "vi": "Bối cảnh quốc gia không thay đánh giá mối liên hệ chuyên môn. Xem mục 1.",
+        "en": "Country context does not replace assessment of conflict links. See section 1."
+      }
+    },
+    {
+      "question": {
+        "vi": "Một nam giới đề nghị hỗ trợ vì bạo lực tình dục. Phản ứng phù hợp?",
+        "en": "A man requests help after sexual violence. What is appropriate?"
+      },
+      "options": [
+        {
+          "vi": "Tiếp nhận tôn trọng, đánh giá nhu cầu và kết nối hỗ trợ.",
+          "en": "Receive respectfully, assess needs and connect assistance."
+        },
+        {
+          "vi": "Yêu cầu chứng minh trước tập thể mới trợ giúp.",
+          "en": "Require public proof before assistance."
+        },
+        {
+          "vi": "Từ chối vì CRSV chỉ liên quan nữ.",
+          "en": "Refuse because CRSV concerns only women."
+        }
+      ],
+      "correct": 0,
+      "chapter": 0,
+      "explanation": {
+        "vi": "Nam giới và trẻ em trai cũng có thể bị ảnh hưởng; định kiến không được cản trợ giúp. Xem mục 1.",
+        "en": "Men and boys can be affected; stereotypes must not block assistance. See section 1."
+      }
+    },
+    {
+      "question": {
+        "vi": "Muốn đánh giá nguy cơ tại cộng đồng, cách hỏi nào phù hợp?",
+        "en": "Which question suits community risk assessment?"
+      },
+      "options": [
+        {
+          "vi": "Hỏi nhu cầu an toàn và cách tiếp cận trợ giúp.",
+          "en": "Ask about safety needs and access to assistance."
+        },
+        {
+          "vi": "Yêu cầu giữa cuộc họp ai bị hại phải đứng lên.",
+          "en": "Ask survivors to identify themselves publicly."
+        },
+        {
+          "vi": "Đòi danh tính để đủ số dòng trong bảng.",
+          "en": "Demand identities to complete a table."
+        }
+      ],
+      "correct": 0,
+      "chapter": 1,
+      "explanation": {
+        "vi": "Phòng ngừa không cần ép tiết lộ trải nghiệm hoặc danh tính. Xem mục 2.",
+        "en": "Prevention does not require forced disclosure or identification. See section 2."
+      }
+    },
+    {
+      "question": {
+        "vi": "Đường chuyển dịch vụ trong danh sách cũ chưa được kiểm tra. Cần gì?",
+        "en": "An old referral pathway has not been checked. What is needed?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ gửi địa chỉ rồi coi hoàn tất.",
+          "en": "Send the address and declare completion."
+        },
+        {
+          "vi": "Xác nhận dịch vụ, đầu mối và điều kiện tiếp nhận.",
+          "en": "Verify services, contacts and reception conditions."
+        },
+        {
+          "vi": "Hứa người dân chắc chắn được nhận tại đó.",
+          "en": "Guarantee reception there."
+        }
+      ],
+      "correct": 1,
+      "chapter": 1,
+      "explanation": {
+        "vi": "Khả năng tiếp cận phải thực có, không chỉ nằm trong tài liệu. Xem mục 2.",
+        "en": "Access must exist in practice, not just in a document. See section 2."
+      }
+    },
+    {
+      "question": {
+        "vi": "Đồng ý nhận chăm sóc có nghĩa đồng ý công bố câu chuyện không?",
+        "en": "Does consent to care authorize publishing the account?"
+      },
+      "options": [
+        {
+          "vi": "Có; mọi hình thức đồng ý đều như nhau.",
+          "en": "Yes; all consent is interchangeable."
+        },
+        {
+          "vi": "Không; sự đồng ý phải cụ thể theo mục đích.",
+          "en": "No; consent must be specific to purpose."
+        },
+        {
+          "vi": "Có; nếu câu chuyện giúp vận động nguồn lực.",
+          "en": "Yes; if publicity helps fundraising."
+        }
+      ],
+      "correct": 1,
+      "chapter": 2,
+      "explanation": {
+        "vi": "Các mục đích sử dụng thông tin cần được giải thích và đồng ý phù hợp riêng. Xem mục 3.",
+        "en": "Different information uses require appropriate explanation and consent. See section 3."
+      }
+    },
+    {
+      "question": {
+        "vi": "Có nên hứa giữ bí mật tuyệt đối khi có thể có nghĩa vụ báo không?",
+        "en": "Should absolute secrecy be promised where reporting duties may apply?"
+      },
+      "options": [
+        {
+          "vi": "Có; để người đó kể đủ chi tiết cho báo cáo.",
+          "en": "Yes; to obtain a complete report."
+        },
+        {
+          "vi": "Có; hứa trước rồi chuyển sau mà không giải thích.",
+          "en": "Yes; promise first and disclose later without explanation."
+        },
+        {
+          "vi": "Không; giải thích giới hạn và dùng hướng dẫn chuyên môn.",
+          "en": "No; explain limits and seek specialist guidance."
+        }
+      ],
+      "correct": 2,
+      "chapter": 2,
+      "explanation": {
+        "vi": "Niềm tin cần thông tin trung thực về bảo mật, không lời hứa không thể giữ. Xem mục 3.",
+        "en": "Trust requires honest confidentiality information, not impossible promises. See section 3."
+      }
+    },
+    {
+      "question": {
+        "vi": "Một người cần y tế nhưng chưa điền xong mẫu. Cần làm gì?",
+        "en": "Someone needs medical help before completing a form. What next?"
+      },
+      "options": [
+        {
+          "vi": "Chờ hoàn thành hồ sơ mới liên hệ.",
+          "en": "Wait for complete paperwork."
+        },
+        {
+          "vi": "Kích hoạt trợ giúp kịp thời trong vai trò.",
+          "en": "Activate timely assistance within your role."
+        },
+        {
+          "vi": "Tự khám và quyết định mọi điều trị.",
+          "en": "Examine and determine all treatment personally."
+        }
+      ],
+      "correct": 1,
+      "chapter": 3,
+      "explanation": {
+        "vi": "Hồ sơ không được làm chậm trợ giúp; quyết định lâm sàng thuộc chuyên môn. Xem mục 4.",
+        "en": "Paperwork must not delay care; clinical decisions require competence. See section 4."
+      }
+    },
+    {
+      "question": {
+        "vi": "Người chăm sóc đi cùng trẻ có tự chắc là người an toàn không?",
+        "en": "Is a child’s accompanying caregiver automatically safe?"
+      },
+      "options": [
+        {
+          "vi": "Không; cần đánh giá và phối hợp bảo vệ trẻ.",
+          "en": "No; assess and coordinate child-protection expertise."
+        },
+        {
+          "vi": "Có; quan hệ gia đình thay mọi đánh giá.",
+          "en": "Yes; family status replaces assessment."
+        },
+        {
+          "vi": "Có; có thể giao toàn bộ quyết định ngay.",
+          "en": "Yes; transfer every decision immediately."
+        }
+      ],
+      "correct": 0,
+      "chapter": 3,
+      "explanation": {
+        "vi": "Người đi cùng có thể không an toàn; lợi ích tốt nhất của trẻ cần cơ chế chuyên môn. Xem mục 4.",
+        "en": "Accompanying adults may not be safe; best interests require appropriate expertise. See section 4."
+      }
+    },
+    {
+      "question": {
+        "vi": "Báo nguy cơ, chuyển dịch vụ và điều tra có nên dùng một báo cáo phát rộng không?",
+        "en": "Should risk alerts, service referrals and investigation use one broad report?"
+      },
+      "options": [
+        {
+          "vi": "Không; xác định mục đích, người nhận và dữ liệu tối thiểu.",
+          "en": "No; define purpose, recipients and minimum information."
+        },
+        {
+          "vi": "Có; bỏ tên là luôn đủ an toàn.",
+          "en": "Yes; removing names always ensures safety."
+        },
+        {
+          "vi": "Có; gửi hết giúp mọi cấp đều biết.",
+          "en": "Yes; everyone should receive all details."
+        }
+      ],
+      "correct": 0,
+      "chapter": 4,
+      "explanation": {
+        "vi": "Mỗi mục đích cần mức dữ liệu và cơ chế khác nhau; bỏ tên chưa chắc ẩn danh. Xem mục 5.",
+        "en": "Purposes need different data and safeguards; removing names may not anonymize. See section 5."
+      }
+    },
+    {
+      "question": {
+        "vi": "Nghi nhân sự UN có SEA, có nên tự xác minh rồi mới báo không?",
+        "en": "Should suspected SEA involving UN personnel be verified personally before reporting?"
+      },
+      "options": [
+        {
+          "vi": "Có; tránh làm ảnh hưởng đồng nghiệp.",
+          "en": "Yes; avoid affecting colleagues."
+        },
+        {
+          "vi": "Có; chỉ báo khi đã có kết luận có tội.",
+          "en": "Yes; report only after guilt is established."
+        },
+        {
+          "vi": "Không; báo qua kênh quy định và duy trì hỗ trợ.",
+          "en": "No; use required channels and sustain assistance."
+        }
+      ],
+      "correct": 2,
+      "chapter": 4,
+      "explanation": {
+        "vi": "Tiếp nhận không thay điều tra; nghĩa vụ báo và nhu cầu trợ giúp phải được thực hiện. Xem mục 5.",
+        "en": "Reception is not investigation; reporting and assistance duties continue. See section 5."
+      }
+    },
+    {
+      "question": {
+        "vi": "Số báo cáo CRSV tăng có tự chứng minh nguy cơ tăng không?",
+        "en": "Does an increase in CRSV reports automatically prove increased risk?"
+      },
+      "options": [
+        {
+          "vi": "Có; số báo luôn bằng số vụ thực.",
+          "en": "Yes; reports always equal actual incidents."
+        },
+        {
+          "vi": "Không; có thể khả năng tiếp cận hoặc niềm tin đã tốt hơn.",
+          "en": "No; access or trust may have improved."
+        },
+        {
+          "vi": "Có; nên giảm kênh báo để cải thiện chỉ số.",
+          "en": "Yes; reduce reporting access to improve the figure."
+        }
+      ],
+      "correct": 1,
+      "chapter": 5,
+      "explanation": {
+        "vi": "Dữ liệu báo cần được giải thích bằng bối cảnh và chuyên môn. Xem mục 6.",
+        "en": "Reporting figures require contextual and specialist interpretation. See section 6."
+      }
+    },
+    {
+      "question": {
+        "vi": "Chuyển tuyến thất bại vì đầu mối không hoạt động, cần gì?",
+        "en": "A referral fails because the contact is inactive. What is needed?"
+      },
+      "options": [
+        {
+          "vi": "Yêu cầu người sống sót kể lại cho mọi bộ phận.",
+          "en": "Require retelling to every unit."
+        },
+        {
+          "vi": "Chỉ ghi đã cho số điện thoại là xong.",
+          "en": "Record that a number was supplied and close."
+        },
+        {
+          "vi": "Sửa đường chuyển, giao người và kiểm tra lại an toàn.",
+          "en": "Repair pathways, assign ownership and verify safely."
+        }
+      ],
+      "correct": 2,
+      "chapter": 5,
+      "explanation": {
+        "vi": "Sửa hệ thống phải bảo vệ người, không tạo thêm gánh nặng tiết lộ. Xem mục 6.",
+        "en": "System correction should protect people without adding disclosure burdens. See section 6."
+      }
+    }
+  ],
+  "updated": "2026-10-29",
+  "moduleId": "CORE-M2",
+  "moduleOrder": 2,
+  "lessonOrder": 6,
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "CORE-12-01",
+      "title": {
+        "vi": "1. Nhận diện CRSV và trách nhiệm bảo vệ",
+        "en": "1. Recognize CRSV and protective responsibilities"
+      },
+      "body": {
+        "vi": "### 1.1. CRSV là gì?\nConflict-Related Sexual Violence (CRSV) là bạo lực tình dục có liên hệ trực tiếp hoặc gián tiếp với xung đột. Liên hệ có thể thể hiện qua bối cảnh, người gây hại, người bị nhắm tới, mục đích hoặc môi trường miễn trừ trách nhiệm. Không phải mọi vụ bạo lực tình dục xảy ra trong một nước có xung đột đều tự được phân loại là CRSV; cần đánh giá chuyên môn phù hợp.\n\nBạo lực có thể gồm những hành vi tình dục bị ép buộc và các hình thức nghiêm trọng khác liên quan xung đột. Người làm nhiệm vụ thông thường không cần yêu cầu người kể mô tả chi tiết để tự phân loại. Việc nhận diện ban đầu nhằm bảo vệ, trợ giúp và chuyển thông tin đúng nơi, không thay điều tra hoặc kết luận pháp lý.\n\n### 1.2. Người bị ảnh hưởng không chỉ là phụ nữ và trẻ em gái\nPhụ nữ và trẻ em gái chịu ảnh hưởng nghiêm trọng, nhưng nam giới và trẻ em trai cũng có thể là người sống sót. Nguy cơ còn gắn với tuổi, khuyết tật, tình trạng di dời hoặc sự kỳ thị. Không loại một lời đề nghị giúp chỉ vì người đó không giống hình dung sẵn có về nạn nhân.\n\nNgười bị ảnh hưởng có thể không muốn dùng một cách gọi cụ thể về mình. Tôn trọng ngôn ngữ và lựa chọn phù hợp; trong bài dùng “người sống sót” để nhấn mạnh quyền, năng lực và nhu cầu, không giảm tính nghiêm trọng của hành vi hoặc phủ nhận thuật ngữ pháp lý “nạn nhân”.\n\n### 1.3. Phân biệt với các khái niệm liên quan\nBạo lực trên cơ sở giới là phạm vi rộng hơn, không chỉ liên quan xung đột. SEA là bóc lột và xâm hại tình dục gắn với chuẩn mực ứng xử và trách nhiệm của nhân sự UN hoặc người thuộc phạm vi cơ chế áp dụng. CRSV chú ý mối liên hệ với xung đột; SEA chú ý tính chất hành vi và quan hệ trách nhiệm. Một sự việc có thể cần nhiều cơ chế phối hợp, không nên ép vào một nhãn để tránh trách nhiệm khác.\n\nNếu nghi nhân sự UN có liên quan SEA, phải dùng kênh báo cáo SEA theo quy định; không chỉ chuyển như một nhu cầu y tế rồi coi đã hoàn tất. Đồng thời, việc báo không được thay chăm sóc và bảo vệ người bị ảnh hưởng.\n\n### 1.4. Mỗi người có vai trò nhưng không cùng chuyên môn\nNhân sự gìn giữ hòa bình cần nhận diện nguy cơ, phản ứng trong nhiệm vụ, biết đầu mối và bảo vệ thông tin. Women’s Protection Advisers (WPA), đầu mối CRSV, nhân quyền, y tế và các đối tác dịch vụ có vai trò chuyên môn khác nhau. Không mặc định nữ cán bộ bất kỳ là người có thể tư vấn, phỏng vấn hoặc khám.",
+        "en": "### 1.1. Understand CRSV\nConflict-related sexual violence (CRSV) has direct or indirect links to conflict, reflected in context, actors, targeting, purpose or impunity. Sexual violence occurring in a conflict-affected country does not automatically establish that link; appropriate expertise is needed.\n\nInitial recognition supports protection, assistance and responsible referral. Ordinary personnel should not demand detailed accounts to classify conduct or replace investigation and legal findings.\n\n### 1.2. Recognize diverse survivors\nWomen and girls are severely affected; men and boys can also be survivors. Age, disability, displacement and stigma can shape risk. Do not dismiss someone who differs from a stereotype.\n\nRespect the person’s preferred language. “Survivor” emphasizes rights, agency and needs without diminishing harm or excluding the legal term “victim”.\n\n### 1.3. Distinguish related concepts\nGender-based violence is broader and not limited to conflict. SEA concerns sexual exploitation and abuse under applicable conduct and accountability frameworks. CRSV focuses on conflict links; SEA includes responsibility connected to UN-affiliated personnel. Overlap can require coordinated mechanisms.\n\nSuspected SEA involving UN personnel requires the applicable reporting channel as well as care. Medical referral alone does not fulfil every reporting duty, and reporting does not replace assistance.\n\n### 1.4. Know roles and limits\nAll peacekeepers need risk recognition, appropriate action, contacts and information safeguards. WPAs, CRSV focal points, human rights staff, medical personnel and service partners have distinct expertise. Being a woman officer does not establish counselling, interviewing or clinical competence."
+      },
+      "sourceIds": [
+        "C14",
+        "C23"
+      ]
+    },
+    {
+      "id": "CORE-12-02",
+      "title": {
+        "vi": "2. Phòng ngừa qua hiểu nguy cơ và tiếp xúc an toàn",
+        "en": "2. Prevent through risk awareness and safe engagement"
+      },
+      "body": {
+        "vi": "### 2.1. Tìm mẫu nguy cơ, không tìm người để quy tội\nThông tin về tuyến đi bị tránh, khu vực kiểm soát, đe dọa, di dời hoặc thay đổi sinh hoạt có thể giúp nhận biết nguy cơ. Cần phân biệt điều quan sát được, thông tin nhận và đánh giá. Một dấu hiệu chưa chứng minh có vụ việc hoặc người cụ thể đã gây hại; vẫn có thể là lý do báo để đánh giá và phòng ngừa.\n\nKhông thu danh tính hoặc yêu cầu lời kể nhạy cảm chỉ để làm bản đồ nguy cơ. Có thể làm việc với đầu mối chuyên môn và sử dụng thông tin đã được bảo vệ phù hợp. Công khai vị trí quá cụ thể có thể làm lộ người cung cấp hoặc người sống sót.\n\n### 2.2. Hỏi về an toàn mà không ép tiết lộ trải nghiệm\nTrong tiếp xúc cộng đồng, trao đổi về nhu cầu, nơi khó tiếp cận và cách được giúp. Không hỏi giữa tập thể ai đã chịu bạo lực hoặc yêu cầu đứng ra xác nhận một tin. Người dân có quyền không trả lời; sự im lặng không chứng minh không có nguy cơ.\n\nLựa chọn thời gian, địa điểm, người hỗ trợ và ngôn ngữ cần phù hợp, tránh làm người tham gia bị chú ý hoặc gặp trả đũa. Phiên dịch phải hiểu bảo mật và vai trò, không tự hỏi thêm. Đừng dùng người quen của cộng đồng theo cách làm người sống sót mất khả năng trao đổi riêng.\n\n### 2.3. Kết nối thông tin với lựa chọn bảo vệ\nFPU hoặc UNPOL có thể được giao nhiệm vụ phòng ngừa trong phạm vi mandate, như điều chỉnh tiếp xúc, hoạt động hiện diện hoặc phối hợp bảo vệ. Mỗi lựa chọn cần căn cứ, khả năng thực tế và đánh giá tác động. Một hoạt động dễ thấy chưa chắc là hoạt động người dân cần nhất.\n\nHỏi việc thay đổi có làm người chịu nguy cơ bị nhận diện hoặc đẩy nguy cơ sang nơi khác không. Không hứa tuần tra liên tục, bắt người hoặc bảo đảm tuyệt đối khi chưa có thẩm quyền và nguồn lực. Chuyển nhu cầu ngoài khả năng tới đầu mối có trách nhiệm, xác nhận việc tiếp nhận.\n\n### 2.4. Cập nhật đầu mối và đường chuyển dịch vụ\nTrước nhiệm vụ, biết ai nhận báo nguy cơ, ai hỗ trợ CRSV và đường tiếp cận dịch vụ nào còn hoạt động. Cần xác nhận ngôn ngữ, giờ, phương tiện liên hệ và điều kiện tiếp nhận. Một danh sách cũ không đủ để hứa người dân sẽ được giúp tại một nơi đã ngừng hoạt động.",
+        "en": "### 2.1. Identify risks without assigning guilt\nAvoided routes, controlling actors, threats, displacement and changed routines may indicate risk. Separate observation, received information and assessment. Indicators warrant review without proving an incident or individual guilt.\n\nDo not collect identities or detailed accounts merely to map risk. Use protected information and specialist coordination; precise locations can expose sources and survivors.\n\n### 2.2. Discuss safety without demanding disclosure\nAsk about needs, access and assistance rather than publicly asking who experienced violence. Silence does not prove absence of risk.\n\nChoose safe timing, locations, language and support. Interpreters need confidentiality and role limits. Familiar community contacts must not eliminate private choices.\n\n### 2.3. Connect information to protection\nAuthorized police prevention may involve engagement, presence or coordinated protection. Assess authority, actual capacity and effects. Visible activity is not necessarily the most useful response.\n\nConsider identification and displaced risk. Do not promise continuous patrols, arrests or absolute safety without authority and resources. Refer needs responsibly and confirm receipt.\n\n### 2.4. Keep pathways current\nVerify risk-reporting and CRSV contacts, functioning services, language, hours and access arrangements. An old directory does not justify promising help at an unavailable service."
+      },
+      "sourceIds": [
+        "C14"
+      ]
+    },
+    {
+      "id": "CORE-12-03",
+      "title": {
+        "vi": "3. Lấy người sống sót làm trung tâm",
+        "en": "3. Put the survivor at the centre"
+      },
+      "body": {
+        "vi": "### 3.1. An toàn và không gây hại thêm\nTrước khi hỏi, xét cuộc trao đổi có làm người đó bị nghe, nhận ra hoặc gặp nguy cơ không. Tìm điều kiện phù hợp trong khả năng và không tự đưa họ tới một nơi lạ vì thuận tiện cho đơn vị. Hỏi nhu cầu cấp thiết, tôn trọng khoảng cách và không chạm nếu chưa có sự đồng ý phù hợp.\n\nNgười sống sót không phải nguồn dữ liệu để hoàn thành báo cáo. Mỗi yêu cầu kể lại có thể tạo gánh nặng và rủi ro. Chỉ hỏi điều cần cho an toàn và kết nối trợ giúp trong vai trò; phần thu thập thông tin chuyên sâu cần người đủ năng lực và quy trình được phép.\n\n### 3.2. Tôn trọng, không phán xét và không đổ lỗi\nLắng nghe bình tĩnh, thể hiện lời kể được tiếp nhận nghiêm túc. Không hỏi vì sao họ ở đó, mặc như vậy hoặc không chống cự; những câu này có thể chuyển trách nhiệm sang người bị hại. Không suy độ tin cậy từ việc họ khóc, không khóc, kể ngắt quãng hoặc trình báo muộn.\n\nKhông tự tuyên bố ai có tội hoặc buộc người kể chứng minh để được hỗ trợ. Ghi đúng trạng thái thông tin, không thêm chi tiết mình nghĩ hợp lý. Tách việc tôn trọng người kể và đáp ứng nhu cầu với thẩm quyền xác minh sự việc.\n\n### 3.3. Đồng ý sau khi được thông tin\nInformed consent đòi hỏi giải thích lựa chọn, mục đích sử dụng thông tin, ai có thể nhận, giới hạn bảo mật và điều có thể hoặc không thể thực hiện. Sự đồng ý phải tự nguyện, cụ thể và có thể được xem lại theo điều kiện áp dụng. Đồng ý nhận chăm sóc không đồng nghĩa đồng ý công bố câu chuyện hoặc tham gia mọi bước điều tra.\n\nKhông đặt trợ giúp thành điều kiện phải kể thêm hoặc phải đồng ý báo cho một nhóm rộng. Nếu có nghĩa vụ báo cáo hoặc tình huống bảo vệ đặc biệt, giải thích giới hạn sớm, xin hướng dẫn đầu mối chuyên môn và chia sẻ tối thiểu cần thiết. Không hứa giữ bí mật tuyệt đối rồi âm thầm làm khác.\n\n### 3.4. Bảo mật và lựa chọn của từng người\nChỉ người có nhu cầu công vụ hợp pháp được tiếp cận thông tin phù hợp. Không trao đổi tên, ảnh, vị trí hoặc nội dung lời kể trong nhóm không cần biết. Tránh dùng điện thoại cá nhân để ghi hoặc chuyển dữ liệu nhạy cảm.\n\nNgười sống sót có thể chọn chưa tiếp cận một dịch vụ. Cung cấp thông tin và lựa chọn phù hợp, không ép để hoàn thành chỉ tiêu. Tiếp tục xử lý nguy cơ bảo vệ trong thẩm quyền theo cơ chế chuyên môn; không coi từ chối một dịch vụ là từ chối mọi trợ giúp hoặc lý do ngừng quan tâm.",
+        "en": "### 3.1. Safety and do no harm\nAssess whether discussion exposes the person to being heard, identified or threatened. Seek suitable conditions without moving them somewhere unfamiliar merely for convenience. Ask urgent needs and respect personal space and consent.\n\nSurvivors are not data sources for report completion. Repeated accounts can add burden. Ask only what safety and assistance require within your role; specialist information gathering needs competence and authorized procedures.\n\n### 3.2. Respect without judgment\nListen calmly and take concerns seriously. Avoid questions blaming location, clothing or lack of resistance. Emotional expression, fragmented accounts and delayed disclosure do not determine credibility.\n\nDo not declare guilt or require proof before assistance. Preserve the actual information status. Respect and care differ from investigative findings.\n\n### 3.3. Informed consent\nExplain choices, purposes, recipients, confidentiality limits and realistic possibilities. Consent must be voluntary and specific under applicable arrangements. Agreement to care does not authorize publicity or every investigative step.\n\nDo not condition help on disclosure. Where mandatory reporting or special protection duties apply, explain limits early, seek specialist guidance and disclose only necessary information. Never promise absolute secrecy you cannot maintain.\n\n### 3.4. Confidentiality and choice\nRestrict information to authorized need-to-know recipients. Avoid unnecessary groups, personal devices and disclosure of identity or location.\n\nA survivor may decline a service. Offer information without pressure, follow appropriate protection arrangements and avoid treating refusal of one option as refusal of all assistance."
+      },
+      "sourceIds": [
+        "C14"
+      ]
+    },
+    {
+      "id": "CORE-12-04",
+      "title": {
+        "vi": "4. Tiếp nhận ban đầu và chuyển tuyến",
+        "en": "4. Initial reception and referral"
+      },
+      "body": {
+        "vi": "### 4.1. Xác định nhu cầu trước yêu cầu hồ sơ\nKhi một người tìm tới, giới thiệu vai trò và giới hạn, kiểm tra điều kiện trao đổi và nhu cầu cấp thiết. Có nguy cơ sinh mạng hoặc y tế thì kích hoạt trợ giúp phù hợp, không đợi hoàn thành mẫu. Không tự khám, đánh giá lâm sàng hoặc chỉ định điều trị ngoài chuyên môn.\n\nMột số chăm sóc có tính thời gian nên cần tiếp cận y tế kịp thời; việc lựa chọn và thời điểm can thiệp do người có chuyên môn quyết định. Không đưa một thời hạn chung khiến người trình báo muộn nghĩ họ không còn được giúp. Không yêu cầu giao chứng cứ hoặc có giấy xác nhận trước mới kết nối chăm sóc.\n\n### 4.2. Hỏi ít nhưng đủ để hành động\nCó thể cần biết người đó có an toàn ngay lúc này không, muốn được hỗ trợ gì và cách liên hệ nào phù hợp. Tránh câu hỏi dẫn dắt hoặc yêu cầu kể lại diễn biến nhiều lần. Nếu người đó tự nói thêm, lắng nghe mà không mở rộng thành cuộc phỏng vấn điều tra tự phát.\n\nKhông đối chất, gọi người bị nghi tới giải thích hoặc nhờ cộng đồng tự xác minh. Những việc đó có thể làm tăng nguy cơ, mất thông tin và vượt vai trò. Báo cho đúng đầu mối theo cơ chế an toàn.\n\n### 4.3. Giải thích dịch vụ và xác nhận tiếp nhận\nTrình bày những lựa chọn đã xác nhận: Y tế, hỗ trợ tâm lý xã hội, pháp lý, bảo vệ hoặc hỗ trợ khác phù hợp. Không coi một tổ chức là có đủ mọi dịch vụ. Với lựa chọn người đó đồng ý, xác nhận nơi nhận, thông tin cần chuyển, cách tới và người hỗ trợ khi cần.\n\nGửi một số điện thoại chưa chứng minh đã chuyển tuyến thành công. Khi phù hợp và an toàn, xác nhận đầu mối đã nhận trách nhiệm; chỉ chia sẻ dữ liệu cần thiết. Không yêu cầu đơn vị dịch vụ tiết lộ hồ sơ lâm sàng để chứng minh thành tích chuyển tuyến.\n\n### 4.4. Trẻ em cần cơ chế chuyên môn\nKhi liên quan trẻ em, ưu tiên lợi ích tốt nhất của trẻ, an toàn, cách giao tiếp phù hợp tuổi và phối hợp đầu mối bảo vệ trẻ. Sự tham gia của người chăm sóc cần được đánh giá, không mặc định họ luôn là người an toàn hoặc không liên quan nguy cơ.\n\nKhông tự giải quyết những vấn đề đồng ý, giám hộ hoặc phỏng vấn chuyên sâu bằng suy đoán. Gọi người có chuyên môn và thực hiện quy trình áp dụng. Không đặt trẻ kể chi tiết trước nhiều người hoặc để nhiều bộ phận lần lượt hỏi cùng nội dung.",
+        "en": "### 4.1. Needs before paperwork\nExplain your role and limits, assess privacy and urgent needs. Activate suitable emergency assistance without waiting for forms. Do not provide clinical examination or treatment beyond competence.\n\nSome care is time-sensitive; qualified professionals determine interventions. Do not give a universal deadline suggesting later survivors cannot receive help. Assistance must not depend on evidence or official certification first.\n\n### 4.2. Ask only what action requires\nEstablish immediate safety, requested assistance and safe contact. Avoid leading questions and repeated detailed accounts. Listening to voluntary information does not authorize an improvised investigation.\n\nDo not confront suspects or ask the community to verify allegations. Refer through safe authorized mechanisms.\n\n### 4.3. Explain and confirm services\nDescribe confirmed medical, psychosocial, legal, protection and other options. Do not assume one organization provides everything. For agreed referrals, confirm reception, necessary information, access and support.\n\nProviding an unverified number is not successful referral. Confirm accountable receipt where safe, share minimally and do not demand clinical records to prove performance.\n\n### 4.4. Use child-protection expertise\nPrioritize best interests, safety and age-appropriate communication. Assess caregiver involvement rather than assuming safety.\n\nSeek qualified guidance on consent, guardianship and interviews. Do not require repeated detailed accounts before multiple actors."
+      },
+      "sourceIds": [
+        "C14"
+      ]
+    },
+    {
+      "id": "CORE-12-05",
+      "title": {
+        "vi": "5. Phối hợp, báo cáo và quản lý thông tin",
+        "en": "5. Coordination, reporting and information management"
+      },
+      "body": {
+        "vi": "### 5.1. Phân biệt ba nhu cầu thông tin\nBáo nguy cơ để bảo vệ, chuyển dịch vụ để trợ giúp và thu thập chứng cứ để xác minh có mục đích cùng yêu cầu khác nhau. Không gom mọi dữ liệu vào một báo cáo phát rộng. Đầu mối hoạt động có thể chỉ cần biết nơi và loại nguy cơ; người cung cấp dịch vụ cần thông tin được phép để tiếp nhận; điều tra viên có quy trình riêng.\n\nTrước khi chuyển, xác định mình đang làm việc gì, căn cứ, người nhận và mức dữ liệu tối thiểu. Dùng hướng dẫn WPA, CRSV hoặc nhân quyền và các cơ chế bắt buộc áp dụng. Không suy rằng đã cần báo một nguy cơ thì được gửi toàn bộ danh tính cùng lời kể cho mọi cấp.\n\n### 5.2. Bảo vệ thông tin trong ghi chép và trao đổi\nGhi khách quan, phân biệt quan sát với điều được kể, nêu điều chưa rõ. Chỉ dùng phương tiện được phép, bảo vệ quyền truy cập, lưu và chuyển theo quy định. Không chụp người sống sót hoặc đăng câu chuyện để vận động ủng hộ nếu không có cơ chế cùng sự đồng ý phù hợp.\n\nThông tin chính xác vẫn có thể gây hại nếu người khác nhận ra người liên quan. Ngay cả bỏ tên cũng chưa chắc ẩn danh khi có địa điểm, thời gian hoặc đặc điểm rất cụ thể. Xin hướng dẫn chuyên môn trước khi chia sẻ dạng có thể nhận diện.\n\n### 5.3. Không điều tra thay người có trách nhiệm\nKhông tự tìm chứng cứ, phỏng vấn bổ sung hoặc đánh giá trách nhiệm hình sự khi chưa được giao và huấn luyện. Không hứa bắt giữ, truy tố hoặc kết quả bảo vệ tuyệt đối. Giải thích thực tế những điều có thể làm và người nào phụ trách bước tiếp.\n\nKhi nhận thông tin liên quan SEA của nhân sự UN, báo ngay qua kênh được quy định, không chờ mình xác minh xong. Giải thích nghĩa vụ và bảo vệ thông tin trong báo cáo. Quyền được trợ giúp không phụ thuộc việc cáo buộc đã được chứng minh.\n\n### 5.4. Bàn giao không làm mất quyền lựa chọn\nKhi đổi ca hoặc thay người, chỉ chuyển nội dung cần thiết, trạng thái tiếp nhận và cam kết chưa xử lý cho người có trách nhiệm. Không để người sống sót phải kể lại từ đầu vì đơn vị không quản lý liên tục. Theo dõi ở mức vai trò được phép, không trở thành giám sát đời tư hoặc gây áp lực buộc sử dụng dịch vụ.",
+        "en": "### 5.1. Separate information purposes\nProtection alerts, assistance referrals and evidence gathering have different purposes and requirements. Do not combine everything into a widely distributed report. Operational actors may need threat information without identities; services need authorized intake information; investigators follow separate procedures.\n\nEstablish purpose, grounds, recipient and minimum data. Follow specialist guidance and applicable duties rather than assuming a protection need authorizes every disclosure.\n\n### 5.2. Record and share securely\nSeparate observations, received accounts and uncertainty. Use authorized tools, access and retention. Publicity about survivors requires appropriate mechanisms and consent.\n\nAccurate information can still harm. Removing names may not prevent identification through precise locations, timing or rare details. Obtain specialist guidance.\n\n### 5.3. Respect investigative boundaries\nDo not independently gather evidence, extend interviews or determine criminal responsibility without assignment and competence. Avoid promises of arrest, prosecution or absolute safety.\n\nReport suspected SEA involving UN personnel promptly through required channels without self-verification. Explain duties and safeguard information. Assistance does not depend on proven allegations.\n\n### 5.4. Maintain continuity and choice\nTransfer only necessary status and outstanding commitments to responsible staff. Poor continuity should not force repeated accounts. Follow up within your role without intrusive monitoring or service-use pressure."
+      },
+      "sourceIds": [
+        "C14",
+        "C23"
+      ]
+    },
+    {
+      "id": "CORE-12-06",
+      "title": {
+        "vi": "6. Chuẩn bị đơn vị và đánh giá chất lượng ứng phó",
+        "en": "6. Prepare the unit and assess response quality"
+      },
+      "body": {
+        "vi": "### 6.1. Sẵn sàng trước khi có tiết lộ\nĐơn vị cần phổ biến nguyên tắc không gây hại, giới hạn hỏi, kênh báo và đường chuyển dịch vụ đã xác nhận. Kiểm tra người trực có biết gọi ai, bảo vệ riêng tư thế nào và làm gì khi đầu mối chính không liên hệ được. Một tài liệu nằm trên mạng không đủ nếu người cần dùng không thể truy cập trong nhiệm vụ.\n\nHuấn luyện nên thực hành tiếp nhận bằng nội dung giả định phù hợp, không yêu cầu học viên tiết lộ trải nghiệm cá nhân. Có hướng dẫn dừng, hỗ trợ khi nội dung gây khó chịu và đầu mối chuyên môn. Không dùng mức độ chi tiết gây sốc để đánh giá buổi học có thực tế hay không.\n\n### 6.2. Đánh giá quá trình bảo vệ, không chỉ lượng báo cáo\nSố vụ được báo có thể tăng do niềm tin và khả năng tiếp cận tốt hơn, không nhất thiết do nguy cơ thực tăng; số thấp cũng không chứng minh không có vấn đề. Kết hợp dữ liệu đã bảo vệ với phân tích chuyên môn, khả năng dịch vụ và phản hồi an toàn.\n\nXem người tiếp nhận có giải thích giới hạn, tránh hỏi lại, kết nối trợ giúp và chia sẻ đúng mức không. Không tạo chỉ tiêu buộc đơn vị tìm đủ người sống sót hoặc thu thêm câu chuyện. Thành công không được đánh đổi bằng quyền riêng tư và lựa chọn của người bị ảnh hưởng.\n\n### 6.3. Sửa điểm đứt trong chuyển tuyến\nNếu dịch vụ không nhận được thông tin, xem lại kênh, giờ và cách xác nhận. Nếu người dân không muốn tới, tìm hiểu rào cản qua chuyên môn mà không ép. Nếu danh tính bị chia quá rộng, phải kích hoạt xử lý sự cố thông tin và biện pháp bảo vệ theo cơ chế áp dụng.\n\nGiao việc sửa, người phụ trách và cách kiểm tra lại bằng dữ liệu tối thiểu. Không yêu cầu người sống sót tiếp tục kể để phục vụ việc rà nội bộ. Bảo vệ vẫn là mục đích xuyên suốt cả bước học từ sai sót.\n\n### 6.4. Chăm sóc người thực hiện và duy trì trách nhiệm\nTiếp xúc với nội dung bạo lực có thể gây căng thẳng cho cán bộ và phiên dịch. Bố trí hỗ trợ, trao đổi chuyên môn và nghỉ phù hợp mà không phát tán thông tin nhận diện. Không dùng áp lực tâm lý làm lý do bỏ qua nhu cầu người sống sót, cũng không coi người xin hỗ trợ là thiếu năng lực.\n\nPhản ứng tốt cần an toàn, tôn trọng, lựa chọn có thông tin, phối hợp đúng người và thông tin được bảo vệ. Người học phải hiểu mình làm được gì ngay, việc gì cần chuyển và cách không tạo thêm tổn hại trong từng bước.",
+        "en": "### 6.1. Prepare before disclosure\nBrief do-no-harm principles, question limits, reporting and verified referrals. Check contacts, privacy and fallback. Online instructions are insufficient if inaccessible during duty.\n\nUse appropriate fictional training, never compulsory personal disclosure. Provide stopping and support arrangements. Shocking detail is not a measure of training quality.\n\n### 6.2. Assess protection, not report volume alone\nMore reports can reflect improved trust or access; fewer do not prove safety. Combine protected data, expertise, service capacity and safe feedback.\n\nReview explained limits, minimized questioning, assistance and proportionate sharing. Avoid targets that pressure personnel to find survivors or collect stories.\n\n### 6.3. Repair referral gaps\nReview channels, hours and acknowledgement when referrals fail. Explore access barriers through specialists without coercion. Activate appropriate information-incident and protection arrangements after excessive disclosure.\n\nAssign corrections and verify with minimum data. Do not require survivors to retell accounts for internal review.\n\n### 6.4. Support personnel and sustain responsibility\nDistressing work can affect personnel and interpreters. Provide professional support and appropriate rest without revealing identities. Seeking support is not incompetence.\n\nQuality response combines safety, respect, informed choices, competent coordination and protected information. Know immediate actions, referral boundaries and how to avoid further harm."
+      },
+      "sourceIds": [
+        "C14"
+      ]
+    }
+  ],
+  "source_ids": [
+    "C14",
+    "C23"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "CRSV",
+      "definition": {
+        "vi": "Bạo lực tình dục liên hệ trực tiếp hoặc gián tiếp với xung đột.",
+        "en": "Sexual violence directly or indirectly linked to conflict."
+      }
+    },
+    {
+      "term": "WPA",
+      "definition": {
+        "vi": "Cố vấn bảo vệ phụ nữ, đầu mối chuyên môn về CRSV theo cơ chế.",
+        "en": "Women’s Protection Adviser with specialist CRSV functions."
+      }
+    },
+    {
+      "term": "Informed consent",
+      "definition": {
+        "vi": "Sự đồng ý tự nguyện sau giải thích đủ mục đích, lựa chọn và giới hạn.",
+        "en": "Voluntary agreement after explanation of purposes, choices and limits."
+      }
+    },
+    {
+      "term": "Survivor-centred",
+      "definition": {
+        "vi": "Đặt quyền, nhu cầu, an toàn và lựa chọn người sống sót ở trung tâm.",
+        "en": "Prioritizing survivors’ rights, needs, safety and choices."
+      }
+    },
+    {
+      "term": "Referral pathway",
+      "definition": {
+        "vi": "Đường kết nối dịch vụ đã được xác nhận và bảo vệ thông tin.",
+        "en": "A verified, information-safe route to appropriate services."
+      }
+    }
+  ],
+  "diagram": null,
+  "contentVersion": "batch-07-expanded-v1-2026-10-29",
+  "sourceIntro": {
+    "vi": "Tài liệu nền, đối chiếu theo mục và ghi chú phiên bản. Lời giảng, bản Anh, câu hỏi và chú thích được biên soạn cho Handbook. Mã bài là cách tổ chức của Handbook.",
+    "en": "Foundational materials, section mapping and edition notes. Teaching, English text, questions and commentary are authored for the Handbook. Lesson numbering belongs to the Handbook."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Bản biên soạn đợt 7 ngày 29/10/2026, chờ người dùng duyệt; không phải ấn phẩm hoặc bản dịch chính thức UN. Mã bài thuộc cách tổ chức Handbook, không phải số bài CPTM.",
+      "Nền chính là giáo án CPTM UN 2025 đã đọc trực tiếp từ PDF trong gói chính thức. Ánh xạ chỉ cơ sở kiến thức theo mục, không phải mọi câu là trích nguyên văn. Hình là vùng slide gốc có tên tài liệu, trang PDF và lời giảng riêng Việt–Anh.",
+      "Giữ bốn tab, Tahoma 14px, giãn dòng 1.75 và căn đều phần thân theo mẫu. Nội dung không thay quy định, mandate, SOP và hướng dẫn áp dụng tại phái bộ; không xác nhận chuyên môn hoặc thay huấn luyện thực hành.",
+      "Không mô tả chi tiết bạo lực, hướng dẫn khám hay điều trị. Không đặt thời hạn chung khiến người tìm trợ giúp muộn bị loại. Phân biệt đồng ý chăm sóc, chia sẻ dữ liệu, báo nguy cơ và điều tra; giải thích giới hạn bảo mật và nghĩa vụ báo SEA, không hứa bí mật tuyệt đối. Trẻ em cần cơ chế chuyên môn."
+    ],
+    "en": [
+      "Batch 7 authored on 29 October 2026 for user review; not an official UN publication or translation. Handbook identifiers are not CPTM lesson numbers.",
+      "The main foundation is UN CPTM 2025 lesson PDFs read from official packages. Mapping identifies section foundations rather than verbatim support for every sentence. Figures are original slide regions with source, PDF page and separate bilingual teaching.",
+      "The four-tab Tahoma 14px interface, 1.75 line height and justified body follow the sample. Content does not replace applicable rules, mandate, SOPs or mission guidance and provides no specialist certification.",
+      "No graphic descriptions, examinations or treatment protocols are provided. No universal deadline excludes later help-seeking. Consent to care, disclosure, protection alerts and investigation are distinguished; explain confidentiality limits and SEA reporting duties rather than promise absolute secrecy. Children require specialist arrangements."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bài học kết nối nhận diện CRSV, phòng ngừa nguy cơ, tiếp nhận an toàn, quyền lựa chọn, chuyển dịch vụ và quản lý thông tin. Người học hiểu hành động trong vai trò và việc cần chuyển chuyên môn.",
+      "en": "Connect CRSV recognition, prevention, safe reception, informed choice, service referral and information safeguards. Understand immediate roles and specialist boundaries."
+    },
+    "subtitle": {
+      "vi": "Không gây hại · Tôn trọng lựa chọn · Chuyển tuyến có trách nhiệm",
+      "en": "Do no harm · Respect choices · Refer accountably"
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích CRSV, người bị ảnh hưởng và quan hệ với SEA.",
+        "Nhận diện nguy cơ và tiếp xúc mà không ép tiết lộ.",
+        "Áp dụng an toàn, bảo mật, đồng ý có thông tin và lựa chọn.",
+        "Tiếp nhận đúng vai trò và kết nối dịch vụ đã xác nhận.",
+        "Phân biệt báo nguy cơ, chuyển dịch vụ và điều tra."
+      ],
+      "en": [
+        "Explain CRSV, affected people and its relationship to SEA.",
+        "Identify risks and engage without compelled disclosure.",
+        "Apply safety, confidentiality, informed consent and choice.",
+        "Receive within role and connect verified services.",
+        "Distinguish protection alerts, referral and investigation."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc sáu mục trong tab Nội dung bài học và lời giảng kèm hình; bấm hình để xem lớn. Làm 12 câu kiểm tra nhận thức, đọc giải thích và trở lại mục liên quan. VI/EN giữ lựa chọn trong phiên; tải lại trang bắt đầu lại.",
+      "en": "Read six content sections and figure commentary; click figures to enlarge. Complete 12 knowledge questions, review explanations and revisit relevant sections. VI/EN retains selections in the session; reloading starts again."
+    }
+  },
+  "figures": [
+    {
+      "chapter": 2,
+      "image": "assets/lesson-figures/batch-07/C14-p16.png",
+      "caption": {
+        "vi": "Hình 1. Các nguyên tắc khi làm việc về CRSV",
+        "en": "Figure 1. Principles for CRSV work"
+      },
+      "alt": {
+        "vi": "Hình 1. Các nguyên tắc khi làm việc về CRSV",
+        "en": "Figure 1. Principles for CRSV work"
+      },
+      "explanation": {
+        "vi": "Mỗi nguyên tắc làm thay đổi cách tiếp xúc. Trước khi hỏi, xem an toàn; trước khi chuyển thông tin, giải thích mục đích và giới hạn; khi liên quan trẻ, gọi chuyên môn phù hợp. Không biến danh sách thành thủ tục ký đủ mà người sống sót không có lựa chọn thực.",
+        "en": "Each principle changes practice: Assess safety before questions, explain purposes and limits before disclosure, and involve child-protection expertise where needed. A completed form does not establish real choice."
+      },
+      "sourceLabel": "UN CPTM 2025 · 2.5 Protection from Conflict-Related Sexual Violence",
+      "pdfPage": 16
+    },
+    {
+      "chapter": 3,
+      "image": "assets/lesson-figures/batch-07/C14-p24.png",
+      "caption": {
+        "vi": "Hình 2. Tiếp cận lấy người sống sót làm trung tâm",
+        "en": "Figure 2. The survivor-centred approach"
+      },
+      "alt": {
+        "vi": "Hình 2. Tiếp cận lấy người sống sót làm trung tâm",
+        "en": "Figure 2. The survivor-centred approach"
+      },
+      "explanation": {
+        "vi": "Quan sát quyền, nhu cầu và lựa chọn ở trung tâm. Chuyển dịch vụ cần giúp người đó tiếp cận điều họ đồng ý, không phải hoàn thành một chỉ tiêu. Dịch vụ, người nhận và mức thông tin chia sẻ phải được xác nhận; quyền lựa chọn tiếp tục sau khi giới thiệu.",
+        "en": "Rights, needs and choices shape referral. Connect agreed assistance rather than pursue a numerical target. Verify services, receivers and necessary information; choice continues after introduction."
+      },
+      "sourceLabel": "UN CPTM 2025 · 2.5 Protection from Conflict-Related Sexual Violence",
+      "pdfPage": 24
+    }
+  ],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft",
+  "figureZoom": true
+}

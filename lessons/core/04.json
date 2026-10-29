@@ -1,0 +1,701 @@
+{
+  "schemaVersion": 2,
+  "id": "CORE-04",
+  "area": "core",
+  "groupKey": "CORE-M4",
+  "group": {
+    "vi": "Nền tảng nghiệp vụ cảnh sát UN",
+    "en": "UN policing foundations"
+  },
+  "title": {
+    "vi": "UNPOL: Tổ chức, nhiệm vụ, chỉ huy và hành chính",
+    "en": "UNPOL organization, command and administration"
+  },
+  "summary": {
+    "vi": "UNPOL kết nối chuyên môn cảnh sát từ nhiều quốc gia vào một cách tiếp cận chung. Bài học giải thích vai trò, hình thức triển khai, SGF, chỉ huy và các hệ thống hành chính giúp thực hiện nhiệm vụ có trách nhiệm.",
+    "en": "UNPOL brings multinational expertise into a common policing approach. This lesson explains roles, deployment arrangements, the SGF, command and administrative systems enabling accountable performance."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "U32",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-002%20UNPOL%20STM%20Lesson%201%20Overview%20of%20UN%20Police.pdf",
+  "order": 401,
+  "sections": [
+    {
+      "id": "CORE-04-01",
+      "title": {
+        "vi": "1. Vai trò UNPOL trong hoạt động gìn giữ hòa bình",
+        "en": "1. The role of UNPOL in peace operations"
+      },
+      "body": {
+        "vi": "### 1.1. Từ kinh nghiệm quốc gia đến nhiệm vụ quốc tế\nKinh nghiệm cảnh sát trong nước là nền tảng chuyên môn quan trọng, nhưng môi trường UN đòi hỏi điều chỉnh cách làm. Cán bộ có thể làm việc tại địa bàn hậu xung đột, nơi niềm tin thấp, cơ quan công quyền thiếu nguồn lực và hệ thống pháp luật khác quốc gia mình. Đồng nghiệp đến từ nhiều nền văn hóa cảnh sát; đối tác sở tại có lịch sử, điều kiện và nhu cầu riêng.\n\nVì vậy, không thể lấy một mô hình quen thuộc rồi áp dụng nguyên trạng. Trước hết phải hiểu mandate, vai trò của UNPOL, pháp luật và hướng dẫn áp dụng, sau đó mới lựa chọn cách đóng góp. Một cán bộ giỏi nghiệp vụ nhưng không lắng nghe đối tác hoặc không hiểu giới hạn thẩm quyền vẫn có thể làm giảm hiệu quả và niềm tin.\n\n### 1.2. Hai hướng đóng góp cốt lõi\nUNPOL góp phần bảo đảm an toàn công cộng và củng cố pháp quyền thông qua hỗ trợ hoạt động cảnh sát, phát triển năng lực và hỗ trợ cải cách, tái cơ cấu, tái thiết cơ quan cảnh sát sở tại. Trong trường hợp được giao thẩm quyền thực thi, UNPOL có thể thực hiện chức năng cảnh sát tạm thời. Phải đọc nhiệm vụ cụ thể; không mặc định mọi phái bộ đều có quyền điều tra, bắt giữ hoặc quản lý giam giữ.\n\nHỗ trợ hoạt động và phát triển năng lực có thể bổ sung nhau. Công việc hỗ trợ trước mắt cần tính đến khả năng đối tác tự duy trì sau này. Ngược lại, phát triển năng lực không thể tách khỏi nhu cầu an toàn và trách nhiệm thực tế của cơ quan sở tại. Cách làm phải hướng tới dịch vụ cảnh sát đáp ứng cộng đồng, đại diện phù hợp và chịu trách nhiệm giải trình.\n\n### 1.3. Vị trí trong hệ thống UN\nỞ cấp trụ sở, Police Division hỗ trợ định hướng, chính sách, nhân sự và chuyên môn cho hoạt động cảnh sát UN. Tại phái bộ, người đứng đầu thành phần cảnh sát tổ chức thực hiện nhiệm vụ trong khuôn khổ lãnh đạo phái bộ. Các cơ chế hỗ trợ ở trụ sở không thay thế trách nhiệm chỉ huy tại địa bàn.\n\n**Điểm cần nhớ:** Anh/chị mang theo năng lực nghề nghiệp vào UN, nhưng nhiệm vụ và quyền hạn phải được xác định theo vị trí được giao. Sự chuyên nghiệp thể hiện ở khả năng làm việc theo chuẩn chung, phối hợp và thích ứng có căn cứ.",
+        "en": "### 1.1. From national experience to international service\nDomestic police experience provides essential expertise, but UN service requires adaptation. Officers may work in post-conflict settings with low trust, weak resources and legal systems different from their own. Colleagues bring different policing cultures, while host-State partners have distinct histories, conditions and needs.\n\nA familiar national model cannot simply be transferred unchanged. Understand the mandate, UNPOL role, applicable law and guidance before deciding how to contribute. An officer with strong technical skills can still undermine effectiveness and trust by ignoring partners or authority limits.\n\n### 1.2. Two core directions of contribution\nUNPOL contributes to public safety and the rule of law through operational support, capacity development and assistance with police reform, restructuring and rebuilding. Where executive authority is mandated, it may perform interim policing. Examine the actual assignment rather than assuming that every mission authorizes investigation, arrest or detention management.\n\nOperational support and capacity development can reinforce each other. Immediate assistance should consider what partners can sustain later. Development work must also respond to real safety needs and institutional responsibilities. Support should advance policing that is responsive, representative and accountable to communities.\n\n### 1.3. UNPOL within the UN system\nAt Headquarters, the Police Division supports direction, policy, personnel and expertise. In the field, the Head of Police Component organizes mandate delivery within mission leadership arrangements. Headquarters support does not replace field command responsibilities.\n\n**Remember:** You bring professional capability into UN service, but your assigned position establishes the relevant duties and powers. Professionalism includes working to common standards, cooperating and adapting on an informed basis."
+      },
+      "sourceIds": [
+        "U32"
+      ]
+    },
+    {
+      "id": "CORE-04-02",
+      "title": {
+        "vi": "2. IPO, nhóm chuyên môn và FPU",
+        "en": "2. IPOs, specialized teams and FPUs"
+      },
+      "body": {
+        "vi": "### 2.1. Ba hình thức đóng góp\n**Individual Police Officer (IPO)** là cán bộ cảnh sát triển khai cá nhân, được bố trí vào chức năng hoặc vị trí cụ thể. Công việc có thể liên quan hoạt động cảnh sát, cố vấn, đào tạo, phân tích, lập kế hoạch hoặc hành chính. Triển khai cá nhân không có nghĩa làm việc tự do ngoài tổ chức; IPO vẫn nằm trong phân công và tuyến báo cáo.\n\n**Specialized Police Team (SPT)** là nhóm mang năng lực chuyên môn để đáp ứng nhu cầu xác định. Nhóm giúp tập trung kỹ năng và phối hợp chuyên gia vào một kết quả cụ thể. Không nên hiểu SPT chỉ là một nhóm IPO tình cờ cùng quốc tịch, hoặc dùng tên “chuyên môn” để suy ra thẩm quyền rộng hơn mandate.\n\n**Formed Police Unit (FPU)** cung cấp năng lực cảnh sát theo đơn vị, với chỉ huy, tổ chức và sự phối hợp nội bộ. FPU có thể đóng góp cho quản lý trật tự công cộng, bảo vệ nhân sự, cơ sở UN và các hoạt động cảnh sát theo mandate, chính sách và phân công. Có tổ chức đơn vị không có nghĩa FPU tự quyết mọi yêu cầu sử dụng mình.\n\n### 2.2. Phân công theo yêu cầu và năng lực\nBố trí nhân sự cần dựa trên yêu cầu vị trí, chuyên môn, kinh nghiệm, khả năng làm việc và nhu cầu phái bộ. Bằng cấp hoặc tên chức danh trong nước không tự chứng minh cán bộ đáp ứng một vị trí quốc tế cụ thể. Cần xem năng lực thực hành, ngoại ngữ, cách phối hợp và các yêu cầu đã được công bố.\n\nCông bằng trong bố trí còn đòi hỏi không mặc định công việc theo giới hoặc quốc tịch. Không nên cho rằng phụ nữ chỉ phù hợp hành chính, hoặc cán bộ từ một quốc gia chỉ được làm một nhóm nhiệm vụ. Lựa chọn cần căn cứ năng lực và yêu cầu, đồng thời thực hiện chính sách liên quan về cơ hội và tính đại diện.\n\n### 2.3. Hiểu giới hạn của từng hình thức\nKhi giao nhiệm vụ, phải biết năng lực đang cần là chuyên môn cá nhân, một nhóm hỗ trợ hay hoạt động có tổ chức theo đơn vị. Không xé nhỏ một năng lực tập thể theo cách làm mất khả năng thực hiện an toàn, cũng không huy động cả đơn vị khi một đầu mối chuyên môn là phù hợp hơn. Những quyết định này thuộc chỉ huy có thẩm quyền, dựa trên phân tích nhiệm vụ.\n\n**Điểm cần nhớ:** IPO, SPT và FPU là cách tổ chức đóng góp, không phải ba mức quyền hạn tự động. Quyền thực hiện một hành động cụ thể vẫn phải được xác định từ mandate, văn bản áp dụng và phân công.",
+        "en": "### 2.1. Three forms of contribution\nAn **Individual Police Officer (IPO)** deploys individually and occupies an assigned function or post. Work may concern operations, advice, training, analysis, planning or administration. Individual deployment does not mean independent work outside organizational tasking and reporting.\n\nA **Specialized Police Team (SPT)** brings focused expertise to an identified need. It combines specialists around an intended result. An SPT is not merely IPOs of the same nationality working together, and specialist status does not create authority beyond the mandate.\n\nA **Formed Police Unit (FPU)** provides unit-based capability with command, organization and internal coordination. Contributions may include public-order management, protection of UN personnel and facilities, and other police activities under the mandate, policy and tasking. Unit organization does not authorize independent decisions on every request for employment.\n\n### 2.2. Assign according to requirements and capability\nPersonnel placement should reflect post requirements, expertise, experience, working ability and mission needs. Qualifications or national job titles do not independently prove suitability for a particular international role. Consider practical competence, language, coordination and published requirements.\n\nFair assignment also avoids stereotypes based on gender or nationality. Women must not be presumed suited only to administration, nor officers of one nationality confined to a particular task category. Selection requires evidence of competence and relevant policies on opportunity and representation.\n\n### 2.3. Understand the limits of each arrangement\nIdentify whether a task requires individual expertise, specialist teamwork or organized unit capability. Do not fragment a collective capability in ways that undermine safe performance, or mobilize a whole unit where a specialist contact would suffice. Authorized commanders make such decisions based on task analysis.\n\n**Remember:** IPOs, SPTs and FPUs describe deployment arrangements, not automatic levels of legal power. The mandate, applicable instruments and assignment determine authority for a particular action."
+      },
+      "sourceIds": [
+        "U32"
+      ]
+    },
+    {
+      "id": "CORE-04-03",
+      "title": {
+        "vi": "3. SGF giúp thống nhất cách làm",
+        "en": "3. How the SGF supports coherent policing"
+      },
+      "body": {
+        "vi": "### 3.1. Vì sao cần một khuôn khổ chung?\nNếu mỗi cán bộ chỉ dùng quy trình quốc gia mình, cùng một công việc có thể được hiểu và thực hiện theo nhiều cách không tương thích. **Strategic Guidance Framework for International Policing (SGF)** tạo nền tảng chung để nâng tính nhất quán và hiệu quả của cảnh sát UN. SGF gồm chính sách chung và các hướng dẫn về bốn lĩnh vực: Chỉ huy; hoạt động cảnh sát; phát triển năng lực; hành chính.\n\nSGF không phải một quyển sổ chứa mọi đáp án. Nó giúp cán bộ hiểu cách tiếp cận UN và tìm đến các hướng dẫn, sổ tay và quy định có liên quan. Khi làm nhiệm vụ cụ thể, vẫn cần đọc mandate, văn bản của phái bộ và hướng dẫn chuyên môn đang áp dụng. Không dùng một bản tóm tắt SGF thay tài liệu cần thiết cho quyết định.\n\n### 3.2. Bốn lĩnh vực bổ sung nhau\n**Chỉ huy** liên quan lãnh đạo, định hướng, phân công, quản lý và trách nhiệm. **Hoạt động cảnh sát** liên quan cách tổ chức, thực hiện công việc nhằm phục vụ an toàn và an ninh theo nhiệm vụ. **Phát triển năng lực** hướng tới khả năng thực hiện chức năng của cảnh sát sở tại một cách bền vững. **Hành chính** cung cấp hệ thống nhân sự, nguồn lực, hồ sơ và bảo đảm cho các lĩnh vực kia.\n\nKhông nên đọc bốn lĩnh vực như bốn ngăn tách biệt. Một chương trình huấn luyện cần mục tiêu phát triển năng lực, sự chỉ đạo, điều kiện bảo đảm và cách theo dõi kết quả thực hành. Một hoạt động thực địa cần phân công rõ, nguồn lực phù hợp và thông tin phản hồi để cải thiện cách làm. Nếu thiếu một mắt xích, chất lượng chung bị ảnh hưởng.\n\n### 3.3. Dùng SGF khi xử lý công việc\nTrước một yêu cầu, hãy xác định vấn đề chính thuộc lĩnh vực nào, lĩnh vực nào cần phối hợp và văn bản chuyên môn nào phải tra cứu. Ví dụ, đề nghị đào tạo sử dụng một thiết bị không chỉ là xếp lịch lớp học: Cần kiểm tra nhu cầu công việc, đối tượng, nội dung, người hướng dẫn, nguồn lực và đánh giá khả năng sử dụng sau học.\n\nKhi đồng nghiệp đưa ra hai cách làm khác nhau, nên đối chiếu chuẩn và mục tiêu chung thay vì tranh luận quốc gia nào có phương pháp tốt hơn. Kinh nghiệm quốc gia là nguồn đóng góp, nhưng phải được điều chỉnh cho môi trường sở tại và yêu cầu UN. **Điểm cần nhớ:** SGF giúp cùng một ngôn ngữ nghề nghiệp; hiệu quả nằm ở cách vận dụng có căn cứ.",
+        "en": "### 3.1. Why a common framework?\nIf officers rely only on national practice, the same assignment may be understood and delivered in incompatible ways. The **Strategic Guidance Framework for International Policing (SGF)** supports consistent, effective UN policing. It includes an overarching policy and guidelines addressing command, operations, capacity-building and development, and administration.\n\nThe SGF is not a single book containing every answer. It introduces the UN approach and provides a gateway to relevant guidance, manuals and rules. Actual decisions still require the mandate, mission instruments and applicable specialist guidance. A summary cannot replace documents needed for a specific decision.\n\n### 3.2. Four complementary areas\n**Command** concerns leadership, direction, tasking, management and accountability. **Operations** concern organizing and delivering mandated policing for safety and security. **Capacity-building and development** support sustainable host-State policing capability. **Administration** supplies personnel systems, resources, records and support enabling the other areas.\n\nThe areas are not isolated compartments. Training requires a development objective, direction, support and assessment of practical results. Field activity requires clear tasking, suitable resources and feedback. Missing one link can undermine the whole contribution.\n\n### 3.3. Apply the SGF to work\nIdentify which area primarily addresses a request, which others must contribute and which specialist documents to consult. Training on equipment involves more than scheduling a class: Examine operational need, participants, content, instructors, resources and subsequent ability to use it.\n\nWhen colleagues propose different practices, compare them against common standards and objectives instead of debating which country has the superior method. National experience contributes value when adapted to the host setting and UN requirements. **Remember:** The SGF creates a common professional language; informed application makes it useful."
+      },
+      "sourceIds": [
+        "U32",
+        "U33",
+        "U34",
+        "SGF"
+      ]
+    },
+    {
+      "id": "CORE-04-04",
+      "title": {
+        "vi": "4. Chỉ huy, kiểm soát và trách nhiệm giải trình",
+        "en": "4. Command, control and accountability"
+      },
+      "body": {
+        "vi": "### 4.1. Lãnh đạo không chỉ là ra lệnh\nLãnh đạo giúp tập thể hiểu mục tiêu, duy trì chuẩn mực và thực hiện nhiệm vụ trong môi trường phức tạp. Quản lý tổ chức con người, thời gian và nguồn lực; chỉ huy bao gồm thẩm quyền giao việc và chịu trách nhiệm về tổ chức thực hiện theo cơ chế áp dụng. Ba chức năng có liên hệ, không thể chỉ có mệnh lệnh mà thiếu hướng dẫn, bảo đảm và giám sát.\n\nỞ cấp chiến lược, cần hiểu mục tiêu dài hạn và định hướng của phái bộ. Ở cấp hoạt động, định hướng được chuyển thành kế hoạch và phân công. Ở cấp chiến thuật, cán bộ và đơn vị thực hiện phần việc cụ thể. Mức độ ủy quyền phải rõ; người nhận quyền cần hiểu được quyết định điều gì và khi nào phải báo cấp trên.\n\n### 4.2. Tuyến chỉ huy và liên hệ kỹ thuật\nNgười đứng đầu thành phần cảnh sát, thường gọi là HOPC hoặc Police Commissioner theo cơ cấu, chịu trách nhiệm lãnh đạo thành phần trong tuyến chỉ huy phái bộ. HOPC có liên hệ chuyên môn, kỹ thuật với Police Adviser và Police Division. Liên hệ đó hỗ trợ nhất quán chính sách và chuyên môn, không phải tuyến thay thế hoặc đường vòng để bỏ qua HOM.\n\nTương tự, cán bộ có thể trao đổi kỹ thuật với chuyên gia nhưng không vì vậy mà có quyền thay đổi nhiệm vụ đơn vị. Một lời khuyên cần được phân biệt với phê duyệt hoặc mệnh lệnh. Nếu chưa rõ ai quyết định, xác nhận trước khi cam kết thực hiện hoặc chuyển chỉ đạo cho người khác.\n\n### 4.3. Cảnh sát và quân sự phối hợp nhưng giữ tuyến riêng\nHai thành phần có chức năng, tổ chức, huấn luyện và cách sử dụng khác nhau. Phối hợp có thể gồm chia sẻ thông tin, lập kế hoạch dự phòng, diễn tập và hỗ trợ nhau theo cơ chế phái bộ. Không tự suy ra hoạt động chung làm mọi đơn vị chuyển sang một tuyến chỉ huy mới; mọi thỏa thuận chỉ huy hoặc kiểm soát phải rõ và được cho phép.\n\n### 4.4. Ai chịu trách nhiệm về kết quả?\nTrách nhiệm giải trình gồm cơ chế kiểm tra nội bộ và giám sát phù hợp để bảo đảm công việc đúng pháp luật, chuẩn mực và nhiệm vụ. Người chỉ huy phải giao việc rõ, xác định kết quả mong đợi, kiểm tra thực hiện và xử lý thông tin về sai phạm. Cán bộ phải thực hiện đúng, báo cáo trung thực và nêu điểm chưa rõ.\n\nKhông được che sự cố để giữ thành tích hoặc đổ mọi trách nhiệm cho cấp dưới khi phân công và nguồn lực không rõ. Mệnh lệnh không xóa trách nhiệm cá nhân; đồng thời người chỉ huy không thể coi đã ban lệnh là hết trách nhiệm. **Điểm cần nhớ:** Quyền quyết định, thông tin phản hồi và trách nhiệm phải đi cùng nhau.",
+        "en": "### 4.1. Leadership is more than issuing orders\nLeadership establishes purpose, standards and collective performance in complex conditions. Management organizes people, time and resources. Command involves authorized tasking and responsibility for implementation. Orders without guidance, support and supervision are insufficient.\n\nStrategic leadership concerns longer-term objectives and mission direction. Operational leadership translates them into plans and assignments. Tactical leadership concerns specific execution. Delegation must establish which decisions recipients may make and when they must refer matters upward.\n\n### 4.2. Command and technical links\nThe Head of Police Component, often designated HOPC or Police Commissioner according to the structure, leads the component within mission command. The HOPC maintains technical communication with the Police Adviser and Police Division to support policy and professional coherence. This link neither replaces nor bypasses the HOM command chain.\n\nSimilarly, consulting a specialist does not authorize an officer to change unit tasks. Distinguish advice from approval and orders. If decision authority is unclear, confirm it before making commitments or passing instructions onward.\n\n### 4.3. Police–military coordination preserves separate chains\nPolice and military components differ in roles, organization, training and employment. Coordination may include information sharing, contingency planning, exercises and mutual support under mission arrangements. Joint activity does not automatically transfer every unit to a new command chain. Any command or control arrangement must be explicit and authorized.\n\n### 4.4. Accountability for results\nAccountability combines internal checks and appropriate oversight to ensure lawful, professional mandate delivery. Commanders must task clearly, define expected results, supervise implementation and address misconduct information. Officers must perform properly, report accurately and identify uncertainties.\n\nDo not conceal incidents to protect performance figures or shift all blame downward where tasking and resources were unclear. Orders do not erase individual responsibility, and issuing an order does not end a commander’s responsibilities. **Remember:** Decision authority, feedback and accountability belong together."
+      },
+      "sourceIds": [
+        "U33"
+      ]
+    },
+    {
+      "id": "CORE-04-05",
+      "title": {
+        "vi": "5. Hành chính và nguồn lực phục vụ hoạt động",
+        "en": "5. Administration and resources enabling operations"
+      },
+      "body": {
+        "vi": "### 5.1. Hành chính là năng lực thực hiện nhiệm vụ\nHành chính cảnh sát tổ chức các hệ thống để con người và nguồn lực được sử dụng đúng mục đích, có hiệu quả và có thể kiểm tra. Không nên coi hành chính chỉ là biểu mẫu, nghỉ phép hoặc thanh toán. Khi nhân sự, hồ sơ, phương tiện hoặc huấn luyện không được quản lý tốt, hoạt động nghiệp vụ cũng chịu ảnh hưởng.\n\nCác chức năng thường gặp gồm lập kế hoạch và ngân sách; chuẩn mực nghề nghiệp; quản lý nhân lực; hậu cần; học tập và phát triển; an ninh, an toàn nghề nghiệp và môi trường. Tên phòng, việc gộp hoặc tách chức năng tùy phái bộ. Biết chức năng giúp tìm đúng nơi ngay cả khi tên đơn vị khác tài liệu học.\n\n### 5.2. Quản lý nhân sự gắn với nhu cầu công việc\nNhân sự cần được lựa chọn, tiếp nhận, bố trí, đánh giá và phát triển theo yêu cầu nhiệm vụ. Tiếp nhận không chỉ là có tên trong danh sách: Cần được phổ biến an ninh, nhiệm vụ, quy trình, quyền truy cập và điều kiện sử dụng trang bị theo vị trí. Không giao việc vượt năng lực mà không có huấn luyện, hỗ trợ hoặc điều chỉnh cần thiết.\n\nThông tin về quân số hiện diện, nghỉ, điều chuyển và khả năng làm việc phải chính xác. Một số liệu sai có thể khiến chỉ huy bố trí lực lượng không đủ. Hồ sơ đánh giá cần phản ánh kết quả, hành vi và nhu cầu cải thiện có căn cứ; không chỉ ghi nhận xét chung hoặc dùng đánh giá để giải quyết bất đồng cá nhân.\n\n### 5.3. Quản lý trang bị và yêu cầu hỗ trợ\nCần biết tài sản thuộc trách nhiệm ai, được cấp cho nhiệm vụ nào, tình trạng thực tế và khi nào cần bảo dưỡng. Với máy vô tuyến, máy tính hoặc phương tiện, phải tính cả người sử dụng đủ điều kiện, cấu hình, kiểm tra và hỗ trợ kỹ thuật. Ghi “đã cấp” không thay thế xác nhận có thể sử dụng.\n\nKhi đề nghị hỗ trợ, nêu mục đích, nhu cầu chức năng, số lượng, thời gian và tác động nếu chưa đáp ứng. Tránh yêu cầu theo tên sản phẩm khi chưa làm rõ chức năng cần đạt. Việc mua sắm, ngân sách, điều chuyển và cấp phát theo thẩm quyền; không dùng quan hệ cá nhân để tạo cam kết thay đơn vị.\n\n### 5.4. Hồ sơ giúp bảo vệ tính minh bạch\nPhê duyệt, cấp phát, bảo dưỡng và bàn giao phải có dấu vết phù hợp. Nếu phát hiện sai, sửa theo quy trình, giữ khả năng truy nguyên thay đổi; không tạo chứng từ sau để làm như đã phê duyệt từ trước. **Điểm cần nhớ:** Hồ sơ đúng giúp sử dụng nguồn lực đúng và cho phép phát hiện vấn đề trước khi ảnh hưởng nhiệm vụ.",
+        "en": "### 5.1. Administration is a delivery capability\nPolice administration organizes systems so that personnel and resources are used effectively, for authorized purposes and with traceable responsibility. It concerns more than forms, leave and payments. Weak personnel, records, equipment or training management undermines operational work.\n\nCommon functions include planning and budget, professional standards, human resources, logistics, learning and development, and security, occupational safety and environment. Missions may combine or separate these functions differently. Functional understanding helps officers find the right office despite different titles.\n\n### 5.2. Personnel management follows operational need\nSelection, onboarding, placement, appraisal and development should reflect task requirements. Arrival is more than joining a roster: Personnel need appropriate security briefings, task information, procedures, access and equipment permissions. Work beyond competence requires necessary training, support or adjustment.\n\nRecords of presence, leave, reassignment and fitness for work must be accurate; errors can distort staffing decisions. Appraisal should document performance, conduct and development needs using evidence, rather than generic praise or personal disagreements.\n\n### 5.3. Assets and support requests\nEstablish who is responsible for each asset, its purpose, condition and maintenance needs. Radios, computers and vehicles also require competent users, configuration, checks and technical support. Recording issue does not confirm usability.\n\nRequests should explain purpose, functional requirements, quantity, timing and consequences of non-delivery. Avoid specifying a product before clarifying the function needed. Procurement, budgets, transfers and issue follow authorized procedures; personal relationships do not permit commitments on behalf of a unit.\n\n### 5.4. Records support transparency\nApprovals, issue, maintenance and handover require appropriate records. Correct errors through established procedures while preserving traceability. Do not manufacture later documents to imply prior authorization. **Remember:** Accurate records support proper resource use and early identification of problems."
+      },
+      "sourceIds": [
+        "U34"
+      ]
+    },
+    {
+      "id": "CORE-04-06",
+      "title": {
+        "vi": "6. Vòng đời triển khai và duy trì tính liên tục",
+        "en": "6. The deployment cycle and continuity"
+      },
+      "body": {
+        "vi": "### 6.1. Tiếp nhận, làm nhiệm vụ và kết thúc đều cần quản lý\n**Check-in** đưa cán bộ vào hệ thống làm việc và hành chính của phái bộ. Nội dung có thể gồm huấn luyện nhập phái bộ, nhận dạng, trang bị, quyền truy cập và thủ tục liên quan đến vị trí. Hoàn tất một bước không có nghĩa tự động được thực hiện mọi chức năng; quyền lái xe, truy cập thông tin hoặc sử dụng trang bị có thể có điều kiện riêng.\n\nTrong thời gian công tác, cán bộ phải cập nhật thông tin nhân sự, thực hiện thủ tục nghỉ, điều chuyển, báo cáo và đánh giá theo quy định. Việc xin nghỉ cần tính khả năng duy trì nhiệm vụ, nhưng giải quyết theo chính sách và thẩm quyền. Không coi thỏa thuận miệng với đồng nghiệp là phê duyệt nghỉ hoặc thay ca hợp lệ nếu quy trình yêu cầu khác.\n\n### 6.2. Không biến chi tiết cũ thành quy định mới\nThời hạn công tác, chế độ nghỉ, phụ cấp, thủ tục gia hạn và hồi hương phụ thuộc loại nhân sự và văn bản hiện hành. Một con số đọc trong tài liệu huấn luyện của giai đoạn trước không đủ làm căn cứ yêu cầu quyền lợi hoặc tự quyết thủ tục. Cần xác định đúng chế độ áp dụng, thông báo của phái bộ và đầu mối hành chính.\n\nNếu có khác biệt giữa tài liệu tham khảo và hướng dẫn đang dùng, báo để được giải thích có thẩm quyền. Không tự chọn phương án có lợi nhất hoặc khẳng định quy định cũ đã hết hiệu lực khi chưa xác minh. Thói quen kiểm tra phiên bản là một phần của năng lực hành chính.\n\n### 6.3. Luân chuyển và bàn giao\nLuân chuyển phải tính đến khoảng trống chuyên môn, hồ sơ đang xử lý và nhu cầu hướng dẫn người đến. Cán bộ sắp kết thúc nhiệm vụ cần chuẩn bị bàn giao công việc, trả trang bị, hoàn thiện nghĩa vụ hồ sơ và xử lý các vấn đề còn tồn theo thủ tục. Không chuyển hồ sơ nhạy cảm vào tài khoản cá nhân để bàn giao thuận tiện.\n\nBản bàn giao cần cho người kế nhiệm biết việc gì đang làm, vì sao làm, đầu mối, hạn và rủi ro còn lại. Người chỉ huy cần kiểm tra tính liên tục của năng lực chứ không chỉ so số người đi với số người đến. **Kết thúc bài:** Vai trò rõ, chỉ huy đúng tuyến, nguồn lực có thật và hồ sơ chính xác giúp UNPOL biến chuyên môn của nhiều quốc gia thành năng lực chung đáng tin cậy.",
+        "en": "### 6.1. Manage arrival, service and departure\n**Check-in** integrates officers into mission work and administrative systems. It may include induction, identification, equipment, access and post-related procedures. Completing one step does not authorize every function; driving, information access and equipment use may have separate requirements.\n\nDuring service, maintain personnel information and comply with leave, reassignment, reporting and appraisal procedures. Leave planning must account for continuity but remains subject to policy and approval authority. An informal arrangement with a colleague is not necessarily authorized leave or a valid duty replacement.\n\n### 6.2. Do not turn historical details into current rules\nTours of duty, leave, allowances, extension and repatriation procedures depend on personnel category and current instruments. A figure in an older training lesson does not alone establish an entitlement or authorize a procedure. Identify the applicable arrangements, mission notices and administrative contact.\n\nIf guidance appears inconsistent, seek authorized clarification. Do not simply select the most favorable option or declare an old rule invalid without verification. Checking versions is part of administrative competence.\n\n### 6.3. Rotation and handover\nRotations must consider specialist gaps, pending files and induction needs. Departing personnel should hand over work, return assets, complete records and resolve outstanding obligations under applicable procedures. Sensitive records must not be transferred through personal accounts for convenience.\n\nHandover should explain what is underway, why, relevant contacts, deadlines and remaining risks. Commanders must check continuity of capability, not merely compare outgoing and incoming headcounts. **Retain:** Clear roles, proper command, usable resources and accurate records turn multinational expertise into reliable UNPOL capability."
+      },
+      "sourceIds": [
+        "U34"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "U32",
+      "title": "Lesson 1 Overview of UN Police",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-002%20UNPOL%20STM%20Lesson%201%20Overview%20of%20UN%20Police.pdf",
+      "year": "2021",
+      "publisher": "United Nations UNPOL STM",
+      "format": "pdf",
+      "pages": 25,
+      "pdf_name": "U32.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "U33",
+      "title": "Lesson 2 Police Command in a UN Context",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-004%20UNPOL%20STM%20Lesson%202%20Police%20Command%20in%20a%20UN%20Context.pdf",
+      "year": "2021",
+      "publisher": "United Nations UNPOL STM",
+      "format": "pdf",
+      "pages": 24,
+      "pdf_name": "U33.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "U34",
+      "title": "Lesson 3 Introduction to UNPOL Administration",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/024%20STM-UNPOL/024-006%20UNPOL%20STM%20Lesson%203%20Introduction%20to%20UNPOL%20Administration.pdf",
+      "year": "2021",
+      "publisher": "United Nations UNPOL STM",
+      "format": "pdf",
+      "pages": 34,
+      "pdf_name": "U34.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-25"
+    },
+    {
+      "id": "SGF",
+      "title": "Strategic Guidance Framework for International Policing",
+      "url": "https://police.un.org/en/strategic-guidance-framework-for-international-policing",
+      "publisher": "United Nations",
+      "year": "",
+      "format": "web"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "Kinh nghiệm cảnh sát trong nước được dùng thế nào tại UN?",
+        "en": "How should domestic police experience be used in UN service?"
+      },
+      "options": [
+        {
+          "vi": "Tự mang theo mọi quyền hạn quốc gia.",
+          "en": "Automatically carry all domestic powers into the mission."
+        },
+        {
+          "vi": "Làm nền tảng và điều chỉnh theo mandate, vị trí, pháp luật và bối cảnh.",
+          "en": "Use it as a foundation adapted to mandate, post, law and context."
+        },
+        {
+          "vi": "Không có giá trị trong môi trường quốc tế.",
+          "en": "It has no value internationally."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Chuyên môn có giá trị nhưng thẩm quyền và cách làm phải phù hợp nhiệm vụ UN. Xem mục 1.",
+        "en": "Expertise is valuable, while powers and practice must fit UN tasking. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "UNPOL có quyền trực tiếp thực thi pháp luật trong mọi phái bộ không?",
+        "en": "Does UNPOL have executive law-enforcement powers in every mission?"
+      },
+      "options": [
+        {
+          "vi": "Có, nếu sở hữu phương tiện phù hợp.",
+          "en": "Yes, suitable equipment is sufficient."
+        },
+        {
+          "vi": "Có, chỉ cần là cán bộ cảnh sát.",
+          "en": "Yes, police status alone is sufficient."
+        },
+        {
+          "vi": "Không; phải xác định mandate và cơ chế thực tế.",
+          "en": "No; establish the actual mandate and arrangements."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Hỗ trợ cảnh sát sở tại khác với được giao quyền thực thi; năng lực không tự tạo quyền. Xem mục 1.",
+        "en": "Supporting host-State police differs from mandated executive authority; capability does not create powers. See section 1."
+      },
+      "chapter": 0
+    },
+    {
+      "question": {
+        "vi": "Một IPO triển khai cá nhân phải làm việc theo cơ chế nào?",
+        "en": "Under what arrangements does an individually deployed IPO work?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ theo hướng dẫn của đồng nghiệp cùng quốc tịch.",
+          "en": "Only guidance from colleagues of the same nationality."
+        },
+        {
+          "vi": "Tự chọn việc không cần phân công.",
+          "en": "Self-selected work without tasking."
+        },
+        {
+          "vi": "Vị trí được giao, tuyến chỉ huy và yêu cầu báo cáo.",
+          "en": "Assigned post, command and reporting requirements."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Triển khai cá nhân là hình thức bố trí, không phải quyền hoạt động ngoài tổ chức. Xem mục 2.",
+        "en": "Individual deployment is an arrangement, not permission to work outside the organization. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "SPT được nhận diện chủ yếu bằng yếu tố nào?",
+        "en": "What primarily defines an SPT?"
+      },
+      "options": [
+        {
+          "vi": "Có tên nhóm nên thẩm quyền cao hơn mandate.",
+          "en": "Team status gives authority beyond the mandate."
+        },
+        {
+          "vi": "Năng lực chuyên môn tập trung vào nhu cầu xác định.",
+          "en": "Specialist capability focused on an identified need."
+        },
+        {
+          "vi": "Mọi thành viên phải làm mọi nhiệm vụ như FPU.",
+          "en": "Every member must perform every FPU task."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Nhóm chuyên môn tổ chức kỹ năng theo nhu cầu; quyền hạn vẫn theo văn bản và phân công. Xem mục 2.",
+        "en": "Specialist teams organize expertise around needs; powers still follow instruments and tasking. See section 2."
+      },
+      "chapter": 1
+    },
+    {
+      "question": {
+        "vi": "SGF bao gồm bốn lĩnh vực hướng dẫn nào?",
+        "en": "Which four guideline areas form part of the SGF?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ tuần tra, súng, lái xe và phiên dịch.",
+          "en": "Only patrols, firearms, driving and interpretation."
+        },
+        {
+          "vi": "Ngoại giao, thương mại, thuế và ngân hàng.",
+          "en": "Diplomacy, trade, taxation and banking."
+        },
+        {
+          "vi": "Chỉ huy, hoạt động, phát triển năng lực và hành chính.",
+          "en": "Command, operations, capacity-building and development, and administration."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "Bốn lĩnh vực bổ sung nhau trong tổ chức thực hiện cảnh sát UN. Xem mục 3.",
+        "en": "The four areas complement one another in UN policing delivery. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "SGF nên được sử dụng như thế nào?",
+        "en": "How should the SGF be used?"
+      },
+      "options": [
+        {
+          "vi": "Thay mọi SOP và mandate.",
+          "en": "Replace every SOP and mandate."
+        },
+        {
+          "vi": "Chỉ dành cho người chỉ huy, IPO không cần biết.",
+          "en": "Only commanders need it; IPOs do not."
+        },
+        {
+          "vi": "Làm khuôn khổ chung và dẫn tới hướng dẫn liên quan; vẫn đọc văn bản phái bộ.",
+          "en": "As a common framework and gateway to guidance, alongside mission instruments."
+        }
+      ],
+      "correct": 2,
+      "explanation": {
+        "vi": "SGF thống nhất cách tiếp cận, nhưng không chứa mọi quy định cho mọi quyết định. Xem mục 3.",
+        "en": "The SGF harmonizes approaches but does not contain every rule for every decision. See section 3."
+      },
+      "chapter": 2
+    },
+    {
+      "question": {
+        "vi": "Liên hệ kỹ thuật giữa HOPC và Police Division có tác dụng gì?",
+        "en": "What is the purpose of the HOPC–Police Division technical link?"
+      },
+      "options": [
+        {
+          "vi": "Hỗ trợ chuyên môn, không thay hoặc đi vòng tuyến chỉ huy qua HOM.",
+          "en": "Support expertise without replacing or bypassing the HOM command chain."
+        },
+        {
+          "vi": "Tự chuyển FPU sang chỉ huy quân sự.",
+          "en": "Automatically transfer FPUs to military command."
+        },
+        {
+          "vi": "Cho phép bỏ qua HOM trong mọi quyết định.",
+          "en": "Allow the HOM to be bypassed in every decision."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Cần phân biệt liên hệ kỹ thuật với quyền chỉ huy, phê duyệt và giao việc. Xem mục 4.",
+        "en": "Distinguish technical communication from command, approval and tasking authority. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Hoạt động chung cảnh sát–quân sự đồng nghĩa điều gì?",
+        "en": "What does joint police–military activity imply?"
+      },
+      "options": [
+        {
+          "vi": "Mọi đơn vị tự động thuộc bên có quân số đông hơn.",
+          "en": "All units automatically fall under the larger component."
+        },
+        {
+          "vi": "Cần cơ chế phối hợp và chỉ huy rõ; không tự động đổi tuyến chỉ huy.",
+          "en": "It needs clear coordination and command arrangements; chains do not change automatically."
+        },
+        {
+          "vi": "Không cần phân biệt chức năng.",
+          "en": "Functions no longer need to be distinguished."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Hợp tác không xóa khác biệt nhiệm vụ hoặc tự tạo thỏa thuận chuyển quyền. Xem mục 4.",
+        "en": "Cooperation neither removes role differences nor independently creates a transfer of authority. See section 4."
+      },
+      "chapter": 3
+    },
+    {
+      "question": {
+        "vi": "Hành chính cảnh sát có vai trò nào?",
+        "en": "What is the role of police administration?"
+      },
+      "options": [
+        {
+          "vi": "Tổ chức hệ thống nhân sự và nguồn lực để các phần việc thực hiện được.",
+          "en": "Organize personnel and resource systems enabling delivery."
+        },
+        {
+          "vi": "Chỉ xử lý nghỉ phép và thanh toán.",
+          "en": "Only handle leave and payments."
+        },
+        {
+          "vi": "Không ảnh hưởng kết quả nghiệp vụ.",
+          "en": "Have no effect on operational performance."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Hồ sơ, bố trí nhân sự, bảo đảm và phát triển năng lực đều tác động hoạt động thực tế. Xem mục 5.",
+        "en": "Records, staffing, support and development affect actual operations. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Đánh giá năng lực cán bộ cần dựa vào đâu?",
+        "en": "What should personnel appraisal rely on?"
+      },
+      "options": [
+        {
+          "vi": "Bằng chứng về kết quả, hành vi và nhu cầu cải thiện.",
+          "en": "Evidence of results, conduct and improvement needs."
+        },
+        {
+          "vi": "Quan hệ cá nhân với người đánh giá.",
+          "en": "Personal relationships with the appraiser."
+        },
+        {
+          "vi": "Một nhận xét chung giống nhau cho mọi người.",
+          "en": "An identical generic statement for everyone."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Đánh giá có căn cứ giúp bố trí, phát triển và chịu trách nhiệm đúng; không dùng làm công cụ xử lý bất đồng riêng. Xem mục 5.",
+        "en": "Evidence-based appraisal supports placement, development and accountability rather than personal disputes. See section 5."
+      },
+      "chapter": 4
+    },
+    {
+      "question": {
+        "vi": "Một mức phụ cấp trong tài liệu cũ đủ làm căn cứ áp dụng không?",
+        "en": "Is an allowance figure in an old lesson sufficient for current application?"
+      },
+      "options": [
+        {
+          "vi": "Chưa đủ; kiểm tra loại nhân sự và văn bản hiện hành.",
+          "en": "No; check personnel category and current instruments."
+        },
+        {
+          "vi": "Đủ vì mọi phái bộ dùng mọi chế độ giống nhau.",
+          "en": "Yes, all missions use identical entitlements."
+        },
+        {
+          "vi": "Đủ nếu con số có lợi cho cán bộ.",
+          "en": "Yes, if the figure benefits the officer."
+        }
+      ],
+      "correct": 0,
+      "explanation": {
+        "vi": "Chi tiết hành chính có thể thay đổi và khác theo quy chế; cần hướng dẫn có thẩm quyền. Xem mục 6.",
+        "en": "Administrative details can change and differ by status; obtain authorized guidance. See section 6."
+      },
+      "chapter": 5
+    },
+    {
+      "question": {
+        "vi": "Khi luân chuyển, chỉ so quân số đi và đến đã đủ chưa?",
+        "en": "Is comparing outgoing and incoming headcounts enough during rotation?"
+      },
+      "options": [
+        {
+          "vi": "Đủ, vì mọi cán bộ thay thế nhau hoàn toàn.",
+          "en": "Yes, every officer is fully interchangeable."
+        },
+        {
+          "vi": "Chưa; còn phải kiểm tra chuyên môn, việc tồn và bàn giao.",
+          "en": "No; check expertise, pending work and handover."
+        },
+        {
+          "vi": "Đủ nếu tài sản còn trong kho.",
+          "en": "Yes, if assets remain in the store."
+        }
+      ],
+      "correct": 1,
+      "explanation": {
+        "vi": "Tính liên tục phụ thuộc năng lực và thông tin công việc, không chỉ tổng số người. Xem mục 6.",
+        "en": "Continuity depends on capability and task information, not personnel totals alone. See section 6."
+      },
+      "chapter": 5
+    }
+  ],
+  "updated": "2026-10-27",
+  "moduleId": "CORE-M4",
+  "moduleOrder": 4,
+  "lessonOrder": 1,
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "CORE-04-01",
+      "title": {
+        "vi": "1. Vai trò UNPOL trong hoạt động gìn giữ hòa bình",
+        "en": "1. The role of UNPOL in peace operations"
+      },
+      "body": {
+        "vi": "### 1.1. Từ kinh nghiệm quốc gia đến nhiệm vụ quốc tế\nKinh nghiệm cảnh sát trong nước là nền tảng chuyên môn quan trọng, nhưng môi trường UN đòi hỏi điều chỉnh cách làm. Cán bộ có thể làm việc tại địa bàn hậu xung đột, nơi niềm tin thấp, cơ quan công quyền thiếu nguồn lực và hệ thống pháp luật khác quốc gia mình. Đồng nghiệp đến từ nhiều nền văn hóa cảnh sát; đối tác sở tại có lịch sử, điều kiện và nhu cầu riêng.\n\nVì vậy, không thể lấy một mô hình quen thuộc rồi áp dụng nguyên trạng. Trước hết phải hiểu mandate, vai trò của UNPOL, pháp luật và hướng dẫn áp dụng, sau đó mới lựa chọn cách đóng góp. Một cán bộ giỏi nghiệp vụ nhưng không lắng nghe đối tác hoặc không hiểu giới hạn thẩm quyền vẫn có thể làm giảm hiệu quả và niềm tin.\n\n### 1.2. Hai hướng đóng góp cốt lõi\nUNPOL góp phần bảo đảm an toàn công cộng và củng cố pháp quyền thông qua hỗ trợ hoạt động cảnh sát, phát triển năng lực và hỗ trợ cải cách, tái cơ cấu, tái thiết cơ quan cảnh sát sở tại. Trong trường hợp được giao thẩm quyền thực thi, UNPOL có thể thực hiện chức năng cảnh sát tạm thời. Phải đọc nhiệm vụ cụ thể; không mặc định mọi phái bộ đều có quyền điều tra, bắt giữ hoặc quản lý giam giữ.\n\nHỗ trợ hoạt động và phát triển năng lực có thể bổ sung nhau. Công việc hỗ trợ trước mắt cần tính đến khả năng đối tác tự duy trì sau này. Ngược lại, phát triển năng lực không thể tách khỏi nhu cầu an toàn và trách nhiệm thực tế của cơ quan sở tại. Cách làm phải hướng tới dịch vụ cảnh sát đáp ứng cộng đồng, đại diện phù hợp và chịu trách nhiệm giải trình.\n\n### 1.3. Vị trí trong hệ thống UN\nỞ cấp trụ sở, Police Division hỗ trợ định hướng, chính sách, nhân sự và chuyên môn cho hoạt động cảnh sát UN. Tại phái bộ, người đứng đầu thành phần cảnh sát tổ chức thực hiện nhiệm vụ trong khuôn khổ lãnh đạo phái bộ. Các cơ chế hỗ trợ ở trụ sở không thay thế trách nhiệm chỉ huy tại địa bàn.\n\n**Điểm cần nhớ:** Anh/chị mang theo năng lực nghề nghiệp vào UN, nhưng nhiệm vụ và quyền hạn phải được xác định theo vị trí được giao. Sự chuyên nghiệp thể hiện ở khả năng làm việc theo chuẩn chung, phối hợp và thích ứng có căn cứ.",
+        "en": "### 1.1. From national experience to international service\nDomestic police experience provides essential expertise, but UN service requires adaptation. Officers may work in post-conflict settings with low trust, weak resources and legal systems different from their own. Colleagues bring different policing cultures, while host-State partners have distinct histories, conditions and needs.\n\nA familiar national model cannot simply be transferred unchanged. Understand the mandate, UNPOL role, applicable law and guidance before deciding how to contribute. An officer with strong technical skills can still undermine effectiveness and trust by ignoring partners or authority limits.\n\n### 1.2. Two core directions of contribution\nUNPOL contributes to public safety and the rule of law through operational support, capacity development and assistance with police reform, restructuring and rebuilding. Where executive authority is mandated, it may perform interim policing. Examine the actual assignment rather than assuming that every mission authorizes investigation, arrest or detention management.\n\nOperational support and capacity development can reinforce each other. Immediate assistance should consider what partners can sustain later. Development work must also respond to real safety needs and institutional responsibilities. Support should advance policing that is responsive, representative and accountable to communities.\n\n### 1.3. UNPOL within the UN system\nAt Headquarters, the Police Division supports direction, policy, personnel and expertise. In the field, the Head of Police Component organizes mandate delivery within mission leadership arrangements. Headquarters support does not replace field command responsibilities.\n\n**Remember:** You bring professional capability into UN service, but your assigned position establishes the relevant duties and powers. Professionalism includes working to common standards, cooperating and adapting on an informed basis."
+      },
+      "sourceIds": [
+        "U32"
+      ]
+    },
+    {
+      "id": "CORE-04-02",
+      "title": {
+        "vi": "2. IPO, nhóm chuyên môn và FPU",
+        "en": "2. IPOs, specialized teams and FPUs"
+      },
+      "body": {
+        "vi": "### 2.1. Ba hình thức đóng góp\n**Individual Police Officer (IPO)** là cán bộ cảnh sát triển khai cá nhân, được bố trí vào chức năng hoặc vị trí cụ thể. Công việc có thể liên quan hoạt động cảnh sát, cố vấn, đào tạo, phân tích, lập kế hoạch hoặc hành chính. Triển khai cá nhân không có nghĩa làm việc tự do ngoài tổ chức; IPO vẫn nằm trong phân công và tuyến báo cáo.\n\n**Specialized Police Team (SPT)** là nhóm mang năng lực chuyên môn để đáp ứng nhu cầu xác định. Nhóm giúp tập trung kỹ năng và phối hợp chuyên gia vào một kết quả cụ thể. Không nên hiểu SPT chỉ là một nhóm IPO tình cờ cùng quốc tịch, hoặc dùng tên “chuyên môn” để suy ra thẩm quyền rộng hơn mandate.\n\n**Formed Police Unit (FPU)** cung cấp năng lực cảnh sát theo đơn vị, với chỉ huy, tổ chức và sự phối hợp nội bộ. FPU có thể đóng góp cho quản lý trật tự công cộng, bảo vệ nhân sự, cơ sở UN và các hoạt động cảnh sát theo mandate, chính sách và phân công. Có tổ chức đơn vị không có nghĩa FPU tự quyết mọi yêu cầu sử dụng mình.\n\n### 2.2. Phân công theo yêu cầu và năng lực\nBố trí nhân sự cần dựa trên yêu cầu vị trí, chuyên môn, kinh nghiệm, khả năng làm việc và nhu cầu phái bộ. Bằng cấp hoặc tên chức danh trong nước không tự chứng minh cán bộ đáp ứng một vị trí quốc tế cụ thể. Cần xem năng lực thực hành, ngoại ngữ, cách phối hợp và các yêu cầu đã được công bố.\n\nCông bằng trong bố trí còn đòi hỏi không mặc định công việc theo giới hoặc quốc tịch. Không nên cho rằng phụ nữ chỉ phù hợp hành chính, hoặc cán bộ từ một quốc gia chỉ được làm một nhóm nhiệm vụ. Lựa chọn cần căn cứ năng lực và yêu cầu, đồng thời thực hiện chính sách liên quan về cơ hội và tính đại diện.\n\n### 2.3. Hiểu giới hạn của từng hình thức\nKhi giao nhiệm vụ, phải biết năng lực đang cần là chuyên môn cá nhân, một nhóm hỗ trợ hay hoạt động có tổ chức theo đơn vị. Không xé nhỏ một năng lực tập thể theo cách làm mất khả năng thực hiện an toàn, cũng không huy động cả đơn vị khi một đầu mối chuyên môn là phù hợp hơn. Những quyết định này thuộc chỉ huy có thẩm quyền, dựa trên phân tích nhiệm vụ.\n\n**Điểm cần nhớ:** IPO, SPT và FPU là cách tổ chức đóng góp, không phải ba mức quyền hạn tự động. Quyền thực hiện một hành động cụ thể vẫn phải được xác định từ mandate, văn bản áp dụng và phân công.",
+        "en": "### 2.1. Three forms of contribution\nAn **Individual Police Officer (IPO)** deploys individually and occupies an assigned function or post. Work may concern operations, advice, training, analysis, planning or administration. Individual deployment does not mean independent work outside organizational tasking and reporting.\n\nA **Specialized Police Team (SPT)** brings focused expertise to an identified need. It combines specialists around an intended result. An SPT is not merely IPOs of the same nationality working together, and specialist status does not create authority beyond the mandate.\n\nA **Formed Police Unit (FPU)** provides unit-based capability with command, organization and internal coordination. Contributions may include public-order management, protection of UN personnel and facilities, and other police activities under the mandate, policy and tasking. Unit organization does not authorize independent decisions on every request for employment.\n\n### 2.2. Assign according to requirements and capability\nPersonnel placement should reflect post requirements, expertise, experience, working ability and mission needs. Qualifications or national job titles do not independently prove suitability for a particular international role. Consider practical competence, language, coordination and published requirements.\n\nFair assignment also avoids stereotypes based on gender or nationality. Women must not be presumed suited only to administration, nor officers of one nationality confined to a particular task category. Selection requires evidence of competence and relevant policies on opportunity and representation.\n\n### 2.3. Understand the limits of each arrangement\nIdentify whether a task requires individual expertise, specialist teamwork or organized unit capability. Do not fragment a collective capability in ways that undermine safe performance, or mobilize a whole unit where a specialist contact would suffice. Authorized commanders make such decisions based on task analysis.\n\n**Remember:** IPOs, SPTs and FPUs describe deployment arrangements, not automatic levels of legal power. The mandate, applicable instruments and assignment determine authority for a particular action."
+      },
+      "sourceIds": [
+        "U32"
+      ]
+    },
+    {
+      "id": "CORE-04-03",
+      "title": {
+        "vi": "3. SGF giúp thống nhất cách làm",
+        "en": "3. How the SGF supports coherent policing"
+      },
+      "body": {
+        "vi": "### 3.1. Vì sao cần một khuôn khổ chung?\nNếu mỗi cán bộ chỉ dùng quy trình quốc gia mình, cùng một công việc có thể được hiểu và thực hiện theo nhiều cách không tương thích. **Strategic Guidance Framework for International Policing (SGF)** tạo nền tảng chung để nâng tính nhất quán và hiệu quả của cảnh sát UN. SGF gồm chính sách chung và các hướng dẫn về bốn lĩnh vực: Chỉ huy; hoạt động cảnh sát; phát triển năng lực; hành chính.\n\nSGF không phải một quyển sổ chứa mọi đáp án. Nó giúp cán bộ hiểu cách tiếp cận UN và tìm đến các hướng dẫn, sổ tay và quy định có liên quan. Khi làm nhiệm vụ cụ thể, vẫn cần đọc mandate, văn bản của phái bộ và hướng dẫn chuyên môn đang áp dụng. Không dùng một bản tóm tắt SGF thay tài liệu cần thiết cho quyết định.\n\n### 3.2. Bốn lĩnh vực bổ sung nhau\n**Chỉ huy** liên quan lãnh đạo, định hướng, phân công, quản lý và trách nhiệm. **Hoạt động cảnh sát** liên quan cách tổ chức, thực hiện công việc nhằm phục vụ an toàn và an ninh theo nhiệm vụ. **Phát triển năng lực** hướng tới khả năng thực hiện chức năng của cảnh sát sở tại một cách bền vững. **Hành chính** cung cấp hệ thống nhân sự, nguồn lực, hồ sơ và bảo đảm cho các lĩnh vực kia.\n\nKhông nên đọc bốn lĩnh vực như bốn ngăn tách biệt. Một chương trình huấn luyện cần mục tiêu phát triển năng lực, sự chỉ đạo, điều kiện bảo đảm và cách theo dõi kết quả thực hành. Một hoạt động thực địa cần phân công rõ, nguồn lực phù hợp và thông tin phản hồi để cải thiện cách làm. Nếu thiếu một mắt xích, chất lượng chung bị ảnh hưởng.\n\n### 3.3. Dùng SGF khi xử lý công việc\nTrước một yêu cầu, hãy xác định vấn đề chính thuộc lĩnh vực nào, lĩnh vực nào cần phối hợp và văn bản chuyên môn nào phải tra cứu. Ví dụ, đề nghị đào tạo sử dụng một thiết bị không chỉ là xếp lịch lớp học: Cần kiểm tra nhu cầu công việc, đối tượng, nội dung, người hướng dẫn, nguồn lực và đánh giá khả năng sử dụng sau học.\n\nKhi đồng nghiệp đưa ra hai cách làm khác nhau, nên đối chiếu chuẩn và mục tiêu chung thay vì tranh luận quốc gia nào có phương pháp tốt hơn. Kinh nghiệm quốc gia là nguồn đóng góp, nhưng phải được điều chỉnh cho môi trường sở tại và yêu cầu UN. **Điểm cần nhớ:** SGF giúp cùng một ngôn ngữ nghề nghiệp; hiệu quả nằm ở cách vận dụng có căn cứ.",
+        "en": "### 3.1. Why a common framework?\nIf officers rely only on national practice, the same assignment may be understood and delivered in incompatible ways. The **Strategic Guidance Framework for International Policing (SGF)** supports consistent, effective UN policing. It includes an overarching policy and guidelines addressing command, operations, capacity-building and development, and administration.\n\nThe SGF is not a single book containing every answer. It introduces the UN approach and provides a gateway to relevant guidance, manuals and rules. Actual decisions still require the mandate, mission instruments and applicable specialist guidance. A summary cannot replace documents needed for a specific decision.\n\n### 3.2. Four complementary areas\n**Command** concerns leadership, direction, tasking, management and accountability. **Operations** concern organizing and delivering mandated policing for safety and security. **Capacity-building and development** support sustainable host-State policing capability. **Administration** supplies personnel systems, resources, records and support enabling the other areas.\n\nThe areas are not isolated compartments. Training requires a development objective, direction, support and assessment of practical results. Field activity requires clear tasking, suitable resources and feedback. Missing one link can undermine the whole contribution.\n\n### 3.3. Apply the SGF to work\nIdentify which area primarily addresses a request, which others must contribute and which specialist documents to consult. Training on equipment involves more than scheduling a class: Examine operational need, participants, content, instructors, resources and subsequent ability to use it.\n\nWhen colleagues propose different practices, compare them against common standards and objectives instead of debating which country has the superior method. National experience contributes value when adapted to the host setting and UN requirements. **Remember:** The SGF creates a common professional language; informed application makes it useful."
+      },
+      "sourceIds": [
+        "U32",
+        "U33",
+        "U34",
+        "SGF"
+      ]
+    },
+    {
+      "id": "CORE-04-04",
+      "title": {
+        "vi": "4. Chỉ huy, kiểm soát và trách nhiệm giải trình",
+        "en": "4. Command, control and accountability"
+      },
+      "body": {
+        "vi": "### 4.1. Lãnh đạo không chỉ là ra lệnh\nLãnh đạo giúp tập thể hiểu mục tiêu, duy trì chuẩn mực và thực hiện nhiệm vụ trong môi trường phức tạp. Quản lý tổ chức con người, thời gian và nguồn lực; chỉ huy bao gồm thẩm quyền giao việc và chịu trách nhiệm về tổ chức thực hiện theo cơ chế áp dụng. Ba chức năng có liên hệ, không thể chỉ có mệnh lệnh mà thiếu hướng dẫn, bảo đảm và giám sát.\n\nỞ cấp chiến lược, cần hiểu mục tiêu dài hạn và định hướng của phái bộ. Ở cấp hoạt động, định hướng được chuyển thành kế hoạch và phân công. Ở cấp chiến thuật, cán bộ và đơn vị thực hiện phần việc cụ thể. Mức độ ủy quyền phải rõ; người nhận quyền cần hiểu được quyết định điều gì và khi nào phải báo cấp trên.\n\n### 4.2. Tuyến chỉ huy và liên hệ kỹ thuật\nNgười đứng đầu thành phần cảnh sát, thường gọi là HOPC hoặc Police Commissioner theo cơ cấu, chịu trách nhiệm lãnh đạo thành phần trong tuyến chỉ huy phái bộ. HOPC có liên hệ chuyên môn, kỹ thuật với Police Adviser và Police Division. Liên hệ đó hỗ trợ nhất quán chính sách và chuyên môn, không phải tuyến thay thế hoặc đường vòng để bỏ qua HOM.\n\nTương tự, cán bộ có thể trao đổi kỹ thuật với chuyên gia nhưng không vì vậy mà có quyền thay đổi nhiệm vụ đơn vị. Một lời khuyên cần được phân biệt với phê duyệt hoặc mệnh lệnh. Nếu chưa rõ ai quyết định, xác nhận trước khi cam kết thực hiện hoặc chuyển chỉ đạo cho người khác.\n\n### 4.3. Cảnh sát và quân sự phối hợp nhưng giữ tuyến riêng\nHai thành phần có chức năng, tổ chức, huấn luyện và cách sử dụng khác nhau. Phối hợp có thể gồm chia sẻ thông tin, lập kế hoạch dự phòng, diễn tập và hỗ trợ nhau theo cơ chế phái bộ. Không tự suy ra hoạt động chung làm mọi đơn vị chuyển sang một tuyến chỉ huy mới; mọi thỏa thuận chỉ huy hoặc kiểm soát phải rõ và được cho phép.\n\n### 4.4. Ai chịu trách nhiệm về kết quả?\nTrách nhiệm giải trình gồm cơ chế kiểm tra nội bộ và giám sát phù hợp để bảo đảm công việc đúng pháp luật, chuẩn mực và nhiệm vụ. Người chỉ huy phải giao việc rõ, xác định kết quả mong đợi, kiểm tra thực hiện và xử lý thông tin về sai phạm. Cán bộ phải thực hiện đúng, báo cáo trung thực và nêu điểm chưa rõ.\n\nKhông được che sự cố để giữ thành tích hoặc đổ mọi trách nhiệm cho cấp dưới khi phân công và nguồn lực không rõ. Mệnh lệnh không xóa trách nhiệm cá nhân; đồng thời người chỉ huy không thể coi đã ban lệnh là hết trách nhiệm. **Điểm cần nhớ:** Quyền quyết định, thông tin phản hồi và trách nhiệm phải đi cùng nhau.",
+        "en": "### 4.1. Leadership is more than issuing orders\nLeadership establishes purpose, standards and collective performance in complex conditions. Management organizes people, time and resources. Command involves authorized tasking and responsibility for implementation. Orders without guidance, support and supervision are insufficient.\n\nStrategic leadership concerns longer-term objectives and mission direction. Operational leadership translates them into plans and assignments. Tactical leadership concerns specific execution. Delegation must establish which decisions recipients may make and when they must refer matters upward.\n\n### 4.2. Command and technical links\nThe Head of Police Component, often designated HOPC or Police Commissioner according to the structure, leads the component within mission command. The HOPC maintains technical communication with the Police Adviser and Police Division to support policy and professional coherence. This link neither replaces nor bypasses the HOM command chain.\n\nSimilarly, consulting a specialist does not authorize an officer to change unit tasks. Distinguish advice from approval and orders. If decision authority is unclear, confirm it before making commitments or passing instructions onward.\n\n### 4.3. Police–military coordination preserves separate chains\nPolice and military components differ in roles, organization, training and employment. Coordination may include information sharing, contingency planning, exercises and mutual support under mission arrangements. Joint activity does not automatically transfer every unit to a new command chain. Any command or control arrangement must be explicit and authorized.\n\n### 4.4. Accountability for results\nAccountability combines internal checks and appropriate oversight to ensure lawful, professional mandate delivery. Commanders must task clearly, define expected results, supervise implementation and address misconduct information. Officers must perform properly, report accurately and identify uncertainties.\n\nDo not conceal incidents to protect performance figures or shift all blame downward where tasking and resources were unclear. Orders do not erase individual responsibility, and issuing an order does not end a commander’s responsibilities. **Remember:** Decision authority, feedback and accountability belong together."
+      },
+      "sourceIds": [
+        "U33"
+      ]
+    },
+    {
+      "id": "CORE-04-05",
+      "title": {
+        "vi": "5. Hành chính và nguồn lực phục vụ hoạt động",
+        "en": "5. Administration and resources enabling operations"
+      },
+      "body": {
+        "vi": "### 5.1. Hành chính là năng lực thực hiện nhiệm vụ\nHành chính cảnh sát tổ chức các hệ thống để con người và nguồn lực được sử dụng đúng mục đích, có hiệu quả và có thể kiểm tra. Không nên coi hành chính chỉ là biểu mẫu, nghỉ phép hoặc thanh toán. Khi nhân sự, hồ sơ, phương tiện hoặc huấn luyện không được quản lý tốt, hoạt động nghiệp vụ cũng chịu ảnh hưởng.\n\nCác chức năng thường gặp gồm lập kế hoạch và ngân sách; chuẩn mực nghề nghiệp; quản lý nhân lực; hậu cần; học tập và phát triển; an ninh, an toàn nghề nghiệp và môi trường. Tên phòng, việc gộp hoặc tách chức năng tùy phái bộ. Biết chức năng giúp tìm đúng nơi ngay cả khi tên đơn vị khác tài liệu học.\n\n### 5.2. Quản lý nhân sự gắn với nhu cầu công việc\nNhân sự cần được lựa chọn, tiếp nhận, bố trí, đánh giá và phát triển theo yêu cầu nhiệm vụ. Tiếp nhận không chỉ là có tên trong danh sách: Cần được phổ biến an ninh, nhiệm vụ, quy trình, quyền truy cập và điều kiện sử dụng trang bị theo vị trí. Không giao việc vượt năng lực mà không có huấn luyện, hỗ trợ hoặc điều chỉnh cần thiết.\n\nThông tin về quân số hiện diện, nghỉ, điều chuyển và khả năng làm việc phải chính xác. Một số liệu sai có thể khiến chỉ huy bố trí lực lượng không đủ. Hồ sơ đánh giá cần phản ánh kết quả, hành vi và nhu cầu cải thiện có căn cứ; không chỉ ghi nhận xét chung hoặc dùng đánh giá để giải quyết bất đồng cá nhân.\n\n### 5.3. Quản lý trang bị và yêu cầu hỗ trợ\nCần biết tài sản thuộc trách nhiệm ai, được cấp cho nhiệm vụ nào, tình trạng thực tế và khi nào cần bảo dưỡng. Với máy vô tuyến, máy tính hoặc phương tiện, phải tính cả người sử dụng đủ điều kiện, cấu hình, kiểm tra và hỗ trợ kỹ thuật. Ghi “đã cấp” không thay thế xác nhận có thể sử dụng.\n\nKhi đề nghị hỗ trợ, nêu mục đích, nhu cầu chức năng, số lượng, thời gian và tác động nếu chưa đáp ứng. Tránh yêu cầu theo tên sản phẩm khi chưa làm rõ chức năng cần đạt. Việc mua sắm, ngân sách, điều chuyển và cấp phát theo thẩm quyền; không dùng quan hệ cá nhân để tạo cam kết thay đơn vị.\n\n### 5.4. Hồ sơ giúp bảo vệ tính minh bạch\nPhê duyệt, cấp phát, bảo dưỡng và bàn giao phải có dấu vết phù hợp. Nếu phát hiện sai, sửa theo quy trình, giữ khả năng truy nguyên thay đổi; không tạo chứng từ sau để làm như đã phê duyệt từ trước. **Điểm cần nhớ:** Hồ sơ đúng giúp sử dụng nguồn lực đúng và cho phép phát hiện vấn đề trước khi ảnh hưởng nhiệm vụ.",
+        "en": "### 5.1. Administration is a delivery capability\nPolice administration organizes systems so that personnel and resources are used effectively, for authorized purposes and with traceable responsibility. It concerns more than forms, leave and payments. Weak personnel, records, equipment or training management undermines operational work.\n\nCommon functions include planning and budget, professional standards, human resources, logistics, learning and development, and security, occupational safety and environment. Missions may combine or separate these functions differently. Functional understanding helps officers find the right office despite different titles.\n\n### 5.2. Personnel management follows operational need\nSelection, onboarding, placement, appraisal and development should reflect task requirements. Arrival is more than joining a roster: Personnel need appropriate security briefings, task information, procedures, access and equipment permissions. Work beyond competence requires necessary training, support or adjustment.\n\nRecords of presence, leave, reassignment and fitness for work must be accurate; errors can distort staffing decisions. Appraisal should document performance, conduct and development needs using evidence, rather than generic praise or personal disagreements.\n\n### 5.3. Assets and support requests\nEstablish who is responsible for each asset, its purpose, condition and maintenance needs. Radios, computers and vehicles also require competent users, configuration, checks and technical support. Recording issue does not confirm usability.\n\nRequests should explain purpose, functional requirements, quantity, timing and consequences of non-delivery. Avoid specifying a product before clarifying the function needed. Procurement, budgets, transfers and issue follow authorized procedures; personal relationships do not permit commitments on behalf of a unit.\n\n### 5.4. Records support transparency\nApprovals, issue, maintenance and handover require appropriate records. Correct errors through established procedures while preserving traceability. Do not manufacture later documents to imply prior authorization. **Remember:** Accurate records support proper resource use and early identification of problems."
+      },
+      "sourceIds": [
+        "U34"
+      ]
+    },
+    {
+      "id": "CORE-04-06",
+      "title": {
+        "vi": "6. Vòng đời triển khai và duy trì tính liên tục",
+        "en": "6. The deployment cycle and continuity"
+      },
+      "body": {
+        "vi": "### 6.1. Tiếp nhận, làm nhiệm vụ và kết thúc đều cần quản lý\n**Check-in** đưa cán bộ vào hệ thống làm việc và hành chính của phái bộ. Nội dung có thể gồm huấn luyện nhập phái bộ, nhận dạng, trang bị, quyền truy cập và thủ tục liên quan đến vị trí. Hoàn tất một bước không có nghĩa tự động được thực hiện mọi chức năng; quyền lái xe, truy cập thông tin hoặc sử dụng trang bị có thể có điều kiện riêng.\n\nTrong thời gian công tác, cán bộ phải cập nhật thông tin nhân sự, thực hiện thủ tục nghỉ, điều chuyển, báo cáo và đánh giá theo quy định. Việc xin nghỉ cần tính khả năng duy trì nhiệm vụ, nhưng giải quyết theo chính sách và thẩm quyền. Không coi thỏa thuận miệng với đồng nghiệp là phê duyệt nghỉ hoặc thay ca hợp lệ nếu quy trình yêu cầu khác.\n\n### 6.2. Không biến chi tiết cũ thành quy định mới\nThời hạn công tác, chế độ nghỉ, phụ cấp, thủ tục gia hạn và hồi hương phụ thuộc loại nhân sự và văn bản hiện hành. Một con số đọc trong tài liệu huấn luyện của giai đoạn trước không đủ làm căn cứ yêu cầu quyền lợi hoặc tự quyết thủ tục. Cần xác định đúng chế độ áp dụng, thông báo của phái bộ và đầu mối hành chính.\n\nNếu có khác biệt giữa tài liệu tham khảo và hướng dẫn đang dùng, báo để được giải thích có thẩm quyền. Không tự chọn phương án có lợi nhất hoặc khẳng định quy định cũ đã hết hiệu lực khi chưa xác minh. Thói quen kiểm tra phiên bản là một phần của năng lực hành chính.\n\n### 6.3. Luân chuyển và bàn giao\nLuân chuyển phải tính đến khoảng trống chuyên môn, hồ sơ đang xử lý và nhu cầu hướng dẫn người đến. Cán bộ sắp kết thúc nhiệm vụ cần chuẩn bị bàn giao công việc, trả trang bị, hoàn thiện nghĩa vụ hồ sơ và xử lý các vấn đề còn tồn theo thủ tục. Không chuyển hồ sơ nhạy cảm vào tài khoản cá nhân để bàn giao thuận tiện.\n\nBản bàn giao cần cho người kế nhiệm biết việc gì đang làm, vì sao làm, đầu mối, hạn và rủi ro còn lại. Người chỉ huy cần kiểm tra tính liên tục của năng lực chứ không chỉ so số người đi với số người đến. **Kết thúc bài:** Vai trò rõ, chỉ huy đúng tuyến, nguồn lực có thật và hồ sơ chính xác giúp UNPOL biến chuyên môn của nhiều quốc gia thành năng lực chung đáng tin cậy.",
+        "en": "### 6.1. Manage arrival, service and departure\n**Check-in** integrates officers into mission work and administrative systems. It may include induction, identification, equipment, access and post-related procedures. Completing one step does not authorize every function; driving, information access and equipment use may have separate requirements.\n\nDuring service, maintain personnel information and comply with leave, reassignment, reporting and appraisal procedures. Leave planning must account for continuity but remains subject to policy and approval authority. An informal arrangement with a colleague is not necessarily authorized leave or a valid duty replacement.\n\n### 6.2. Do not turn historical details into current rules\nTours of duty, leave, allowances, extension and repatriation procedures depend on personnel category and current instruments. A figure in an older training lesson does not alone establish an entitlement or authorize a procedure. Identify the applicable arrangements, mission notices and administrative contact.\n\nIf guidance appears inconsistent, seek authorized clarification. Do not simply select the most favorable option or declare an old rule invalid without verification. Checking versions is part of administrative competence.\n\n### 6.3. Rotation and handover\nRotations must consider specialist gaps, pending files and induction needs. Departing personnel should hand over work, return assets, complete records and resolve outstanding obligations under applicable procedures. Sensitive records must not be transferred through personal accounts for convenience.\n\nHandover should explain what is underway, why, relevant contacts, deadlines and remaining risks. Commanders must check continuity of capability, not merely compare outgoing and incoming headcounts. **Retain:** Clear roles, proper command, usable resources and accurate records turn multinational expertise into reliable UNPOL capability."
+      },
+      "sourceIds": [
+        "U34"
+      ]
+    }
+  ],
+  "source_ids": [
+    "U32",
+    "U33",
+    "U34",
+    "SGF"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "UNPOL",
+      "definition": {
+        "vi": "Thành phần, nhân sự và năng lực cảnh sát UN trong phạm vi nhiệm vụ áp dụng.",
+        "en": "United Nations Police within applicable mandate arrangements."
+      }
+    },
+    {
+      "term": "IPO / SPT / FPU",
+      "definition": {
+        "vi": "Cán bộ triển khai cá nhân / nhóm cảnh sát chuyên môn / đơn vị cảnh sát tổ chức.",
+        "en": "Individual Police Officer / Specialized Police Team / Formed Police Unit."
+      }
+    },
+    {
+      "term": "SGF",
+      "definition": {
+        "vi": "Khuôn khổ hướng dẫn chiến lược cho hoạt động cảnh sát quốc tế.",
+        "en": "Strategic Guidance Framework for International Policing."
+      }
+    },
+    {
+      "term": "HOPC",
+      "definition": {
+        "vi": "Người đứng đầu thành phần cảnh sát.",
+        "en": "Head of Police Component."
+      }
+    },
+    {
+      "term": "Accountability",
+      "definition": {
+        "vi": "Trách nhiệm giải trình qua các cơ chế kiểm tra và giám sát phù hợp.",
+        "en": "Accountability supported by appropriate checks and oversight."
+      }
+    },
+    {
+      "term": "Check-in / Check-out",
+      "definition": {
+        "vi": "Thủ tục tiếp nhận / kết thúc công tác theo quy định áp dụng.",
+        "en": "Arrival / departure processes under applicable arrangements."
+      }
+    }
+  ],
+  "diagram": null,
+  "contentVersion": "batch-01-expanded-v1-2026-10-27",
+  "sourceIntro": {
+    "vi": "Nguồn dưới đây là tài liệu nền để đối chiếu bài học. Nội dung giải thích Việt–Anh và câu hỏi được biên soạn cho Handbook; hình gốc ghi rõ tài liệu và trang PDF.",
+    "en": "The following materials support the lesson. Bilingual explanations and questions are authored for the Handbook; original figures identify the source and PDF page."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Bản biên soạn đợt 1 ngày 27/10/2026. Tài liệu nền gồm CPTM 2025 và/hoặc UNPOL STM 2021 theo danh mục của từng bài. Hai ngôn ngữ phục vụ học tập, không phải bản dịch chính thức của UN.",
+      "Bài học dạy kiến thức chung, không xác định cơ cấu, mandate, quyền hạn hay thủ tục hành chính hiện hành của một phái bộ cụ thể. Khi làm nhiệm vụ, sử dụng văn bản và hướng dẫn có thẩm quyền áp dụng cho vị trí.",
+      "Bảng đối chiếu chỉ ra nguồn theo mục; không coi mọi câu là trích nguyên văn. Ví dụ công việc là phần giải thích biên soạn. Hình giữ nội dung tiếng Anh gốc, kèm chú giải đầy đủ Việt–Anh trong bài.",
+      "Các nguồn UNPOL STM được phát hành trong bộ 2021; một số trang đầu của Lesson 2/3 còn ghi 2020. Phiên bản nguồn được nhận diện theo bộ phát hành và tên tài liệu, không suy ra chi tiết thủ tục cũ còn nguyên hiệu lực."
+    ],
+    "en": [
+      "Batch 1 authored on 27 October 2026 using CPTM 2025 and/or UNPOL STM 2021 as listed for each lesson. The bilingual text is learning material, not an official UN translation.",
+      "This lesson teaches general knowledge rather than establishing a particular mission’s current structure, mandate, powers or administrative procedures. Use authorized instruments applicable to your post.",
+      "The mapping identifies sources by section, not a verbatim source for every sentence. Work examples are authored explanations. Figures retain their original English text with bilingual explanations in the lesson.",
+      "The UNPOL STM documents belong to the 2021 release; some early Lesson 2/3 pages still show 2020. Identify sources by the release and title; do not assume historical administrative details remain unchanged."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "UNPOL kết nối chuyên môn cảnh sát từ nhiều quốc gia vào một cách tiếp cận chung. Bài học giải thích vai trò, hình thức triển khai, SGF, chỉ huy và các hệ thống hành chính giúp thực hiện nhiệm vụ có trách nhiệm.",
+      "en": "UNPOL brings multinational expertise into a common policing approach. This lesson explains roles, deployment arrangements, the SGF, command and administrative systems enabling accountable performance."
+    },
+    "subtitle": {
+      "vi": "Hiểu UNPOL · Đúng tuyến chỉ huy · Quản lý nguồn lực có trách nhiệm",
+      "en": "Understand UNPOL · Follow command arrangements · Manage resources responsibly"
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích điểm khác giữa kinh nghiệm cảnh sát quốc gia và nhiệm vụ UNPOL.",
+        "Phân biệt IPO, SPT và FPU theo vai trò và hình thức đóng góp.",
+        "Trình bày bốn lĩnh vực SGF và mối liên hệ trong công việc.",
+        "Phân biệt chỉ huy, liên hệ kỹ thuật, phối hợp và trách nhiệm giải trình.",
+        "Liên hệ nhân sự, trang bị, hồ sơ và bàn giao với tính liên tục nhiệm vụ."
+      ],
+      "en": [
+        "Explain how UNPOL service differs from domestic policing.",
+        "Distinguish IPO, SPT and FPU roles and deployment arrangements.",
+        "Explain the four SGF guideline areas and their connections.",
+        "Distinguish command, technical communication, coordination and accountability.",
+        "Connect personnel, assets, records and handover with continuity."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc 6 mục trong tab Nội dung bài học; xem hình và lời giải thích ở mục liên quan. Làm 12 câu kiểm tra, đọc phản hồi và quay lại mục được chỉ ra. Nút VI/EN đổi ngôn ngữ và giữ đáp án trong phiên mở trang; tải lại trang sẽ bắt đầu lại. Mỗi hình có thể bấm để xem lớn.",
+      "en": "Read the lesson sections and study each figure with its explanation. Complete 12 questions, review feedback and revisit the indicated section. VI/EN retains answers during the current session; reloading starts again. Click a figure to enlarge it."
+    }
+  },
+  "figures": [
+    {
+      "chapter": 4,
+      "image": "assets/lesson-figures/batch-01/U34-p6.png",
+      "alt": {
+        "vi": "Hình 1. Các chức năng trong trụ cột hành chính cảnh sát",
+        "en": "Figure 1. Functions within the police administration pillar"
+      },
+      "caption": {
+        "vi": "Hình 1. Các chức năng trong trụ cột hành chính cảnh sát",
+        "en": "Figure 1. Functions within the police administration pillar"
+      },
+      "explanation": {
+        "vi": "Quan sát các chức năng nhân sự, hậu cần, học tập, an toàn, chuẩn mực và ngân sách. Chúng liên hệ để tạo năng lực thực hiện nhiệm vụ. Đây là mô hình chức năng trong tài liệu; khi làm việc, cần tìm đơn vị thực sự phụ trách theo cơ cấu phái bộ mình.",
+        "en": "Notice personnel, logistics, learning, safety, professional standards and budget functions. They jointly enable performance. This is a functional training model; identify the actual responsible offices in your mission."
+      },
+      "sourceLabel": "UNPOL STM 2021 · Lesson 3",
+      "pdfPage": 6
+    }
+  ],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft",
+  "figureZoom": true
+}

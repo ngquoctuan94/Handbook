@@ -1,0 +1,653 @@
+{
+  "schemaVersion": 2,
+  "id": "CORE-11",
+  "area": "core",
+  "groupKey": "CORE-M2",
+  "group": {
+    "vi": "Mandate, bảo vệ và các ưu tiên",
+    "en": "Mandates, protection and priorities"
+  },
+  "title": {
+    "vi": "Phụ nữ, hòa bình và an ninh",
+    "en": "Women, peace and security"
+  },
+  "summary": {
+    "vi": "Bài học đi từ bốn trụ cột WPS tới phân tích giới, sự tham gia có thực chất, vai trò nữ cảnh sát và cách theo dõi kết quả. Trọng tâm là thay đổi quyền tiếp cận, cơ hội và ảnh hưởng trong nhiệm vụ.",
+    "en": "Connect WPS pillars, gender analysis, meaningful participation, women in policing and evaluation. Focus on access, opportunity and influence in the task."
+  },
+  "status": "draft",
+  "availableLanguages": [
+    "vi",
+    "en"
+  ],
+  "minutes": 5,
+  "sourceKey": "C16",
+  "sourceUrl": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-420%20Lesson%202.7%20Women,%20Peace,%20and%20Security.zip",
+  "order": 205,
+  "sections": [
+    {
+      "id": "CORE-11-01",
+      "title": {
+        "vi": "1. Hiểu đúng chương trình nghị sự WPS",
+        "en": "1. Understand the WPS agenda"
+      },
+      "body": {
+        "vi": "### 1.1. Từ quyền bình đẳng tới chất lượng hòa bình\nWomen, Peace and Security (WPS) là chương trình nghị sự về phụ nữ, hòa bình và an ninh. Nghị quyết 1325 năm 2000 của Hội đồng Bảo an là dấu mốc quan trọng, khẳng định vai trò phụ nữ trong phòng ngừa, giải quyết xung đột và xây dựng hòa bình. WPS kết nối quyền, sự tham gia và yêu cầu bảo vệ trong hoạt động gìn giữ hòa bình.\n\nĐừng chỉ nhìn phụ nữ như người cần được bảo vệ. Họ còn là người lãnh đạo, cán bộ chuyên môn, người thương lượng, thành viên cộng đồng và người đưa ra quyết định. Khi kế hoạch chỉ nói về nguy cơ với phụ nữ mà không có tiếng nói của họ, bức tranh nhiệm vụ vẫn thiếu.\n\n### 1.2. Bốn trụ cột liên kết với nhau\nTham gia hướng tới sự hiện diện bình đẳng và có ảnh hưởng trong quyết định về hòa bình, an ninh. Bảo vệ hướng tới quyền và an toàn, gồm phòng ngừa và ứng phó bạo lực. Phòng ngừa đặt vấn đề giới trong ngăn xung đột và các hình thức bạo lực. Cứu trợ và phục hồi chú ý nhu cầu, quyền và khả năng tham gia trong hỗ trợ, tái thiết và phục hồi sau xung đột.\n\nBốn trụ cột bổ sung cho nhau. Một hoạt động bảo vệ có thể thất bại nếu người chịu nguy cơ không được tham gia xác định nhu cầu. Một chương trình phục hồi có thể tiếp tục bất bình đẳng nếu điều kiện đăng ký khiến một số nhóm không tiếp cận được. Hãy đọc từng hoạt động qua cả quyền, ảnh hưởng và kết quả thực tế.\n\n### 1.3. Trách nhiệm chung trong phái bộ\nWPS không phải phần việc chỉ giao cho nữ cán bộ hoặc đầu mối giới. Chỉ huy, người lập kế hoạch và người thực hiện đều cần tính tác động giới trong phần việc của mình. Đầu mối chuyên môn hỗ trợ phân tích và điều phối; không thay trách nhiệm của người ra quyết định.\n\nTrong cảnh sát, WPS liên quan việc tiếp xúc cộng đồng, đánh giá nguy cơ, tiếp nhận thông tin, tuyển chọn, huấn luyện và phân công. Không chỉ hỏi một hoạt động có nữ cán bộ tham dự không; hỏi ai được tiếp cận, ai có tiếng nói và việc gì thay đổi từ thông tin họ cung cấp.\n\n### 1.4. Mục tiêu là quyền và cơ hội thực chất\nBình đẳng không có nghĩa mọi người có cùng hoàn cảnh hoặc luôn cần một cách hỗ trợ giống nhau. Cùng thông báo một cuộc họp nhưng một số người không thể tới vì thời gian, ngôn ngữ hoặc trách nhiệm chăm sóc thì cơ hội chưa thật sự ngang nhau. Biện pháp phù hợp cần xử lý rào cản có căn cứ, không chỉ tuyên bố ai cũng được mời.",
+        "en": "### 1.1. Equality and the quality of peace\nWomen, Peace and Security (WPS) connects rights, participation and protection. Security Council resolution 1325, adopted in 2000, marked recognition of women’s roles in conflict prevention, resolution and peacebuilding.\n\nWomen are not only people requiring protection. They are leaders, professionals, negotiators and decision-makers. A plan describing risks without including their perspectives remains incomplete.\n\n### 1.2. Four connected pillars\nParticipation concerns equal presence and influence in peace and security decisions. Protection concerns rights and safety, including violence prevention and response. Prevention incorporates gender into preventing conflict and violence. Relief and recovery address rights, needs and participation in assistance and reconstruction.\n\nThe pillars reinforce one another. Protection can fail without affected people shaping priorities; recovery can reproduce inequality through inaccessible procedures. Consider rights, influence and actual results together.\n\n### 1.3. Shared mission responsibility\nWPS is not solely women officers’ or gender focal points’ work. Commanders, planners and personnel integrate gender into their own responsibilities. Specialists support analysis without replacing decision-makers’ accountability.\n\nIn policing, consider community engagement, risk assessment, information reception, selection, training and assignments. Ask who accessed the activity, whose voice influenced it and what changed.\n\n### 1.4. Substantive opportunity\nEquality does not mean identical circumstances or support. An open invitation is insufficient where timing, language or care responsibilities prevent attendance. Address demonstrated barriers rather than relying on formal access alone."
+      },
+      "sourceIds": [
+        "C16"
+      ]
+    },
+    {
+      "id": "CORE-11-02",
+      "title": {
+        "vi": "2. Các khái niệm để phân tích, không để gán nhãn",
+        "en": "2. Concepts for analysis rather than labelling"
+      },
+      "body": {
+        "vi": "### 2.1. Giới tính và giới không đồng nghĩa\nTrong bài học, sex chỉ các đặc điểm sinh học liên quan giới tính; gender chỉ vai trò, kỳ vọng và quan hệ xã hội gắn với giới. Những kỳ vọng về ai lãnh đạo, chăm sóc gia đình hoặc làm một nghề có thể thay đổi theo thời gian và bối cảnh. Chúng không chứng minh năng lực tự nhiên của từng người.\n\nVí dụ, việc một cộng đồng ít thấy phụ nữ phát biểu công khai có thể phản ánh cơ hội, an toàn hoặc quy tắc xã hội. Không được suy rằng phụ nữ ở đó không có ý kiến hoặc không muốn tham gia. Cần tìm cách tiếp cận phù hợp để hiểu điều gì cản trở và người liên quan muốn gì.\n\n### 2.2. Bình đẳng, cân bằng và ngang bằng số lượng\nGender equality nói về quyền, trách nhiệm và cơ hội bình đẳng. Gender balance quan tâm mức đại diện giữa các giới; gender parity nhấn mạnh ngang bằng về số lượng theo phạm vi được xác định. Số lượng là dữ liệu quan trọng nhưng chưa phản ánh đầy đủ khả năng tiếp cận nguồn lực hoặc ảnh hưởng tới quyết định.\n\nMột nhóm có số nữ bằng nam vẫn có thể phân việc bất bình đẳng nếu nam luôn chỉ huy, nữ luôn ghi chép và không ai được lựa chọn theo năng lực. Ngược lại, một tỷ lệ tổng hợp có thể che chênh lệch giữa cấp bậc, chuyên môn hoặc ca làm. Cần đọc dữ liệu theo chức năng và điều kiện thực hiện.\n\n### 2.3. Lồng ghép giới là một cách làm xuyên suốt\nGender mainstreaming là xem xét tác động của quyết định đối với phụ nữ, nam giới, trẻ em gái và trẻ em trai trong các bước công việc. Phân tích giúp xác định khác biệt về nguy cơ, tiếp cận, vai trò và quyền quyết định, rồi điều chỉnh để không tái tạo bất bình đẳng.\n\nKhông đợi kế hoạch hoàn tất mới thêm một câu về giới. Hỏi từ lúc xác định vấn đề, thu thông tin, chọn mục tiêu, bố trí nguồn lực tới khi theo dõi kết quả. Nếu phân tích không thay đổi câu hỏi, lựa chọn hoặc cách đánh giá nào, có thể việc lồng ghép mới dừng ở hình thức.\n\n### 2.4. Nhìn thấy khác biệt trong từng nhóm\nPhụ nữ không phải một nhóm đồng nhất; nam giới cũng vậy. Tuổi, khuyết tật, nơi sống, ngôn ngữ, tình trạng di dời và hoàn cảnh kinh tế có thể làm cơ hội hoặc nguy cơ khác nhau. Không lấy lời một người làm đại diện mọi người cùng giới.\n\nThu thập thông tin cần có mục đích, phù hợp và bảo vệ dữ liệu. Không yêu cầu người dân tiết lộ trải nghiệm nhạy cảm chỉ để điền đủ bảng phân tích. Khi dữ liệu thiếu, ghi rõ khoảng trống và tìm nguồn an toàn thay vì tự điền bằng định kiến.",
+        "en": "### 2.1. Distinguish sex and gender\nHere, sex refers to biological characteristics; gender concerns social roles, expectations and relationships. Expectations about leadership, care or professions vary across contexts and do not establish individual ability.\n\nLimited public participation may reflect opportunity, safety or social barriers rather than absence of opinions. Explore appropriate engagement instead of assuming preferences.\n\n### 2.2. Equality and numerical representation\nGender equality concerns equal rights, responsibilities and opportunities. Gender balance addresses representation; parity emphasizes numerical equality within a defined scope. Counts alone do not establish influence or resource access.\n\nEqual numbers can coexist with unequal assignments. Aggregate figures can conceal differences by rank, role and shift. Examine both distribution and working conditions.\n\n### 2.3. Mainstream throughout the work\nGender mainstreaming assesses effects on women, men, girls and boys throughout decisions and activities. Identify differences in risk, access, roles and decision-making, then adjust to avoid reproducing inequality.\n\nBegin with problem definition and continue through information gathering, objectives, resources and evaluation. If analysis changes no question, choice or measure, integration may be merely formal.\n\n### 2.4. Recognize diversity within groups\nAge, disability, location, language, displacement and resources can shape different needs within each gender. One person does not represent everyone.\n\nCollect purposeful, proportionate information securely. Do not demand sensitive experiences simply to complete a table. Record gaps and seek safe evidence instead of inventing answers."
+      },
+      "sourceIds": [
+        "C16"
+      ]
+    },
+    {
+      "id": "CORE-11-03",
+      "title": {
+        "vi": "3. Phân tích giới trong một nhiệm vụ cảnh sát",
+        "en": "3. Gender analysis in a policing task"
+      },
+      "body": {
+        "vi": "### 3.1. Đặt câu hỏi về người sử dụng và người chưa tiếp cận\nTrước một hoạt động, xác định ai chịu ảnh hưởng, ai đang được hỏi và ai chưa hiện diện. Xem người dân sử dụng dịch vụ thế nào, tiếp nhận thông tin qua kênh nào và thời điểm nào thuận tiện hoặc nguy hiểm. Không chỉ làm việc với người dễ tiếp cận nhất rồi coi nhu cầu cộng đồng đã được xác định.\n\nCần lắng nghe khác biệt về nhận thức an toàn. Một địa điểm ban ngày có thể dễ tới nhưng buổi tối lại khó với một số người. Tuyến ngắn chưa chắc là tuyến được người dân lựa chọn nếu có nguy cơ quấy rối hoặc kiểm soát. Kiểm chứng qua nguồn phù hợp; không công khai tuyến hoặc người cung cấp thông tin nhạy cảm.\n\n### 3.2. Liên hệ vai trò với nguy cơ\nVai trò kiếm sống, lấy nước, chăm sóc hoặc đi học có thể khiến các nhóm hiện diện ở nơi và thời điểm khác nhau. Điều đó giúp định hướng câu hỏi bảo vệ, không tạo khuôn mẫu cố định rằng một giới luôn làm một việc. Khi hoạt động thay đổi, nguy cơ và nhu cầu cũng có thể đổi.\n\nTrong tuần tra hoặc tiếp xúc, thông tin về nơi người dân tránh đi có thể có giá trị hơn số lần đi qua tuyến quen. Cần xác định điều đơn vị có thể làm trong mandate, điều cần phối hợp và cách nhận phản hồi. Không hứa bảo vệ liên tục nếu năng lực chưa được xác nhận.\n\n### 3.3. So sánh tác động của phương án\nMột điểm tiếp nhận duy nhất giúp quản lý tập trung nhưng có thể làm người ở xa không sử dụng được. Thông báo trên mạng có thể bỏ sót người không có thiết bị. Thay đổi lịch có thể giúp nhóm này nhưng làm nhóm khác mất cơ hội. So sánh lợi ích, rào cản và biện pháp giảm tác động trước khi quyết định.\n\nLựa chọn cần gắn nguồn lực và người chịu trách nhiệm. Nếu giải pháp là có phiên dịch, phải xác nhận ngôn ngữ, sự sẵn sàng và bảo mật. Nếu là tiếp xúc riêng, phải tính an toàn và sự tự nguyện. Tên giải pháp chưa chứng minh điều kiện để thực hiện đã có.\n\n### 3.4. Chuyển phân tích thành nhiệm vụ cụ thể\nThay “quan tâm phụ nữ và trẻ em” bằng hành động: Điều chỉnh cách thông báo, xác nhận đầu mối trợ giúp hoặc kiểm tra nhóm nào chưa tiếp cận được. Giao người, thời điểm và cách đánh giá phù hợp. Mục tiêu cần đủ cụ thể để biết thay đổi có tác dụng, đồng thời không buộc người dân cung cấp dữ liệu cá nhân quá mức.",
+        "en": "### 3.1. Identify users and excluded people\nAsk who is affected, consulted and absent. Examine service access, information channels, timing and safety. Convenient contacts alone cannot establish community needs.\n\nSafety perceptions can vary by time and route. Shorter routes may be avoided because of harassment or control. Verify appropriately and protect sources and sensitive locations.\n\n### 3.2. Connect roles and exposure\nLivelihoods, care, water collection and school attendance can shape where and when people encounter risk. Use this to guide questions without fixing gender roles. Reassess as activities change.\n\nAvoided places can matter more than patrol counts. Identify actions within mandate, coordination needs and feedback. Do not promise unconfirmed protection capacity.\n\n### 3.3. Compare options’ effects\nCentralized reception, online notices and scheduling can help some while excluding others. Compare access, benefits and safeguards before choosing.\n\nConfirm resources and ownership. Interpreting needs available, appropriate and confidential personnel; private engagement needs safety and voluntary participation. Naming a solution does not establish readiness.\n\n### 3.4. Assign concrete actions\nReplace broad concern statements with specific communications, assistance or access checks. Assign owners, timing and meaningful measures without requiring excessive personal data."
+      },
+      "sourceIds": [
+        "C16"
+      ]
+    },
+    {
+      "id": "CORE-11-04",
+      "title": {
+        "vi": "4. Sự tham gia đầy đủ, bình đẳng và có thực chất",
+        "en": "4. Full, equal and meaningful participation"
+      },
+      "body": {
+        "vi": "### 4.1. Có mặt là điểm bắt đầu\nSự tham gia có thực chất gồm khả năng tiếp cận, chuẩn bị, phát biểu, được lắng nghe và ảnh hưởng đến quyết định. Chỉ có tên trong danh sách hoặc xuất hiện trong ảnh chưa đủ. Cần biết nội dung quan trọng có được chia sẻ trước, thời gian có phù hợp và ý kiến có được xử lý nghiêm túc không.\n\nKhông yêu cầu một nữ đại diện vừa tham gia vừa giải thích mọi vấn đề về phụ nữ. Mỗi người có chuyên môn, trải nghiệm và giới hạn riêng. Tạo điều kiện để nhiều tiếng nói được nghe thay vì đặt gánh nặng đại diện lên một người.\n\n### 4.2. Xử lý rào cản, không tự chọn thay\nTrao đổi về cách tham gia an toàn, ngôn ngữ, thời gian, địa điểm và nhu cầu hỗ trợ. Đừng tự kết luận phụ nữ không nên đi vì nguy hiểm rồi loại khỏi công việc có ý nghĩa. Đánh giá nguy cơ cần tạo điều kiện tham gia, không trở thành lý do mặc định hạn chế cơ hội.\n\nVới cộng đồng, việc mời công khai có thể tạo rủi ro cho một số người. Xác định hình thức phù hợp với họ và cơ chế bảo vệ thông tin. Không yêu cầu nói trải nghiệm bạo lực trước tập thể để chứng minh tư cách tham gia. Có quyền từ chối hoặc không trả lời câu hỏi nhạy cảm.\n\n### 4.3. Cho ý kiến một đường đi tới quyết định\nGhi nhận đề xuất theo mức cần thiết, phân tích và giải thích việc tiếp thu hoặc chưa tiếp thu. Người tham gia cần biết phản ánh được chuyển cho ai và khi nào có phản hồi phù hợp. Không coi việc ghi chép là hoàn thành đối thoại nếu không ai chịu trách nhiệm xử lý.\n\nKhi một ý kiến cho thấy rủi ro mới, phải xem lại giả định kế hoạch, kể cả khác với nhận định ban đầu của chỉ huy. Lắng nghe không có nghĩa chấp nhận mọi đề xuất; nghĩa là quyết định có căn cứ và giải thích được.\n\n### 4.4. Theo dõi ảnh hưởng thay vì chỉ đếm người\nCó thể theo dõi nhóm nào tiếp cận, ai được phát biểu, nội dung nào làm thay đổi kế hoạch và rào cản nào được giảm. Không công khai danh tính hoặc dữ liệu nhạy cảm để tạo bằng chứng thành tích. Một thay đổi nhỏ nhưng giúp người trước đây không được nghe có ảnh hưởng là kết quả cần nhận diện.",
+        "en": "### 4.1. Presence is a starting point\nMeaningful participation includes access, preparation, voice, being heard and influence. Attendance and photographs do not prove these. Check advance information, suitable timing and serious consideration.\n\nDo not make one woman responsible for representing every woman’s concern. Recognize individual expertise and limits and enable diverse perspectives.\n\n### 4.2. Remove barriers without deciding for people\nDiscuss safe formats, language, timing, location and support. Risk assessment should enable participation rather than automatically exclude women from substantive work.\n\nPublic invitations may expose some community members. Find suitable options and protect information. Never require public disclosure of violence to establish a right to participate.\n\n### 4.3. Connect views to decisions\nRecord necessary proposals, assess them and explain responses. Assign recipients and appropriate feedback. Notes alone do not complete dialogue.\n\nRevisit assumptions when new risks emerge, including those challenging command views. Listening requires reasoned consideration, not acceptance of every proposal.\n\n### 4.4. Measure influence\nReview access, voice, changed decisions and reduced barriers. Protect identity and sensitive information rather than publishing them as evidence of success. Recognize changes that give previously unheard people real influence."
+      },
+      "sourceIds": [
+        "C16"
+      ]
+    },
+    {
+      "id": "CORE-11-05",
+      "title": {
+        "vi": "5. Phụ nữ trong cảnh sát và trách nhiệm của đơn vị",
+        "en": "5. Women in policing and unit responsibilities"
+      },
+      "body": {
+        "vi": "### 5.1. Phân công theo năng lực và cơ hội phát triển\nNữ cảnh sát có thể đảm nhiệm chỉ huy, tác chiến, lái xe, thông tin, điều tra, hậu cần và các chuyên môn phù hợp năng lực. Không mặc định nữ chỉ phù hợp hành chính, phiên dịch hoặc tiếp xúc phụ nữ. Cũng không giao một nhiệm vụ chỉ để có hình ảnh đại diện mà thiếu huấn luyện, thông tin hoặc quyền thực hiện.\n\nRà cách tuyển chọn vào khóa học, nhiệm vụ có giá trị và vị trí lãnh đạo. Nếu một nhóm thường xuyên không có cơ hội tích lũy kinh nghiệm, việc đánh giá họ thiếu kinh nghiệm về sau có thể tiếp tục tái tạo bất bình đẳng. Cần tiêu chí rõ và cơ hội chuẩn bị công bằng.\n\n### 5.2. Trang bị và điều kiện làm việc\nTrang bị đúng cỡ, chỗ ở, vệ sinh, riêng tư và chăm sóc y tế ảnh hưởng khả năng thực hiện nhiệm vụ. Không yêu cầu người dùng chịu trang bị không vừa rồi đánh giá năng lực thấp do hạn chế đó. Thiếu điều kiện cần được ghi nhận và giao xử lý như vấn đề sẵn sàng của đơn vị.\n\nBảo đảm phù hợp không có nghĩa giảm tiêu chuẩn nghiệp vụ. Mục tiêu là để mỗi người có điều kiện đáp ứng yêu cầu vai trò đã xác định. Điều chỉnh dựa trên nhu cầu và căn cứ thực tế, không dựa trên giả định mọi nữ hoặc mọi nam đều giống nhau.\n\n### 5.3. Môi trường tôn trọng và không trả đũa\nLời đùa hạ thấp, quấy rối, loại khỏi trao đổi hoặc trả đũa người phản ánh làm suy giảm an toàn và hiệu quả. Người quản lý phải nhận diện, ngăn và xử lý qua cơ chế áp dụng; không coi im lặng là đồng thuận hoặc yêu cầu người bị ảnh hưởng tự thích nghi.\n\nĐầu mối báo cáo cần rõ và có lựa chọn phù hợp nếu người bị phản ánh nằm trong tuyến chỉ huy gần. Bảo vệ thông tin, không dàn xếp bằng cách ép hòa giải hoặc chuyển người phản ánh khỏi cơ hội công tác. Chỉ huy chịu trách nhiệm về môi trường đơn vị, không đẩy toàn bộ cho đầu mối giới.\n\n### 5.4. Tiếp xúc cộng đồng cần cả đội có năng lực\nĐội có thành phần đa dạng có thể mở thêm lựa chọn tiếp xúc, nhưng không tự tạo niềm tin chỉ bằng giới của người đi gặp. Năng lực, cách ứng xử, ngôn ngữ, bảo mật và việc giữ cam kết đều quan trọng. Tránh đặt mọi thông tin nhạy cảm lên vai nữ cán bộ; mọi người cần biết giới hạn tiếp nhận và đường chuyển đầu mối chuyên môn.",
+        "en": "### 5.1. Assign by competence and opportunity\nWomen police officers serve in command, operations, driving, communications, investigations, logistics and other qualified roles. Do not confine them to administration or women-only engagement. Representative visibility without preparation or authority is tokenism.\n\nReview access to training, valuable assignments and leadership. Repeatedly denying experience can later reproduce inequality through experience-based selection. Use clear criteria and fair preparation opportunities.\n\n### 5.2. Provide suitable working conditions\nFit, accommodation, sanitation, privacy and health care affect performance. Unsuitable equipment is a readiness deficiency, not evidence of individual inability.\n\nEnabling conditions support role standards rather than lower them. Base adjustments on demonstrated needs, not assumptions that everyone of one gender is alike.\n\n### 5.3. Maintain respect and prevent retaliation\nDegrading jokes, harassment, exclusion and retaliation undermine safety and effectiveness. Managers must act through applicable mechanisms. Silence is not consent.\n\nProvide reporting alternatives where the immediate chain is implicated. Protect information and avoid forced mediation or removal of opportunities for complainants. Leadership remains responsible for unit culture.\n\n### 5.4. Build whole-team competence\nDiverse teams can broaden engagement options but do not automatically create trust. Competence, respectful conduct, language, confidentiality and reliable follow-up matter. All personnel need reception limits and specialist referral knowledge."
+      },
+      "sourceIds": [
+        "C16"
+      ]
+    },
+    {
+      "id": "CORE-11-06",
+      "title": {
+        "vi": "6. Lập kế hoạch, theo dõi và sửa rào cản",
+        "en": "6. Plan, monitor and remove barriers"
+      },
+      "body": {
+        "vi": "### 6.1. Đưa phân tích vào kế hoạch từ đầu\nXác định vấn đề, dữ kiện, nhóm chưa được nghe và kết quả bình đẳng cần hướng tới. Chọn hành động trong thẩm quyền, nguồn lực, người chịu trách nhiệm và cách nhận phản hồi. Phần giới phải kết nối các nội dung chính của kế hoạch, không chỉ nằm trong một phụ lục không ai sử dụng.\n\nVới đơn vị cảnh sát, kiểm tra thông tin chỉ huy, tuyển chọn người, bảo đảm, giao tiếp và bàn giao. Một hoạt động có mục tiêu tốt vẫn có thể thất bại ở khâu thực hiện nếu lịch không phù hợp hoặc người liên hệ không sẵn sàng.\n\n### 6.2. Dữ liệu cần đúng câu hỏi và đủ an toàn\nSố liệu phân tách phù hợp giúp thấy chênh lệch bị tổng số che khuất. Xác định mục đích, mức cần thiết, người được truy cập và cách lưu trước khi thu. Không dùng dữ liệu quá chi tiết khiến một người có thể bị nhận ra trong nhóm nhỏ.\n\nKết hợp số lượng với phản hồi chất lượng. Số nữ tham gia tăng có thể là tiến bộ nhưng chưa chứng minh tiếng nói tăng. Số phản ánh thấp có thể do ít vấn đề, cũng có thể do người dân không tin kênh hoặc sợ hậu quả. Cần tìm lời giải có căn cứ thay vì chọn cách hiểu thuận lợi nhất.\n\n### 6.3. Kiểm tra kết quả và tác động ngoài dự kiến\nHỏi ai tiếp cận được, ai chưa, quyết định nào thay đổi và rủi ro nào mới xuất hiện. Việc họp riêng có thể giúp trao đổi nhưng cũng có thể làm người tham gia bị chú ý; cần phản hồi và điều chỉnh. Không lấy mục đích tốt để bỏ qua hậu quả thực tế.\n\nKhi rào cản chưa giảm, xem lại nguồn lực và thiết kế hoạt động trước khi kết luận người dân không hợp tác. Kết quả đánh giá phải dẫn tới người sửa, việc sửa và cách kiểm chứng phù hợp.\n\n### 6.4. Duy trì qua đổi người và đổi ca\nBàn giao đầu mối, cam kết, điều kiện đã xác nhận và vấn đề chưa xử lý theo nguyên tắc bảo vệ dữ liệu. Đừng để tiến bộ phụ thuộc một cá nhân tích cực rồi mất khi người đó chuyển công tác. Đưa bài học vào hướng dẫn, phân công và hoạt động theo dõi thường xuyên.\n\nThực hiện WPS có chất lượng là kết nối quyền, cơ hội và ảnh hưởng trong quyết định hằng ngày. Người học cần giải thích được thay đổi nào giúp nhiệm vụ công bằng và hiệu quả hơn, ai được lợi và bằng chứng nào cho thấy điều đó.",
+        "en": "### 6.1. Integrate analysis from the outset\nIdentify the problem, evidence, missing voices and intended equality outcomes. Assign authorized actions, resources, owners and feedback. Gender analysis should inform the main plan rather than an unused annex.\n\nReview command information, selection, support, engagement and handover. Sound objectives can fail through inaccessible scheduling or unavailable contacts.\n\n### 6.2. Collect purposeful, safe data\nAppropriate disaggregation reveals hidden differences. Define purpose, necessity, access and storage before collecting. Avoid detail that identifies people within small groups.\n\nCombine counts with qualitative feedback. Increased attendance does not prove increased influence. Few complaints may indicate few problems or inaccessible, distrusted channels. Test interpretations.\n\n### 6.3. Check outcomes and unintended effects\nAssess access, exclusion, changed decisions and new risks. Separate engagement may improve discussion but also expose participants. Good intentions do not remove duties to examine actual consequences.\n\nReview design and resources before blaming non-participation. Assign specific corrections and verification.\n\n### 6.4. Preserve continuity\nTransfer contacts, commitments, confirmed conditions and unresolved issues securely. Embed improvements in instructions, assignments and monitoring rather than relying on one individual.\n\nEffective WPS connects rights, opportunity and influence in everyday decisions. Explain which changes improve fairness and mission effectiveness and what evidence supports that conclusion."
+      },
+      "sourceIds": [
+        "C16"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "C16",
+      "title": "2.7 Women, Peace and Security",
+      "url": "https://resourcehub01.blob.core.windows.net/training-files/Training%20Materials/003%20CPTM-EN/003-420%20Lesson%202.7%20Women,%20Peace,%20and%20Security.zip",
+      "year": "2025",
+      "publisher": "United Nations CPTM",
+      "format": "zip",
+      "pages": 33,
+      "pdf_name": "2025 - Lesson 2.7 WPS - Lesson.pdf",
+      "reading": "Tài liệu bài học; số trang PDF, không phải số slide",
+      "checked": "2026-10-29"
+    }
+  ],
+  "quiz": [
+    {
+      "question": {
+        "vi": "WPS có chỉ coi phụ nữ là người cần bảo vệ không?",
+        "en": "Does WPS view women only as people needing protection?"
+      },
+      "options": [
+        {
+          "vi": "Có; chỉ đếm số người được hỗ trợ là đủ.",
+          "en": "Yes; counting assistance recipients is sufficient."
+        },
+        {
+          "vi": "Có; mọi vai trò khác thuộc chương trình riêng.",
+          "en": "Yes; other roles belong to separate agendas."
+        },
+        {
+          "vi": "Không; phụ nữ còn là người lãnh đạo và tham gia quyết định.",
+          "en": "No; women are also leaders and decision-makers."
+        }
+      ],
+      "correct": 2,
+      "chapter": 0,
+      "explanation": {
+        "vi": "WPS kết nối bảo vệ với quyền, tham gia và ảnh hưởng. Xem mục 1.",
+        "en": "WPS connects protection, rights, participation and influence. See section 1."
+      }
+    },
+    {
+      "question": {
+        "vi": "Một cuộc họp mời mọi người nhưng giờ họp khiến một nhóm không thể tới. Cần gì?",
+        "en": "An open meeting is scheduled when one group cannot attend. What is needed?"
+      },
+      "options": [
+        {
+          "vi": "Xem và xử lý rào cản tiếp cận có căn cứ.",
+          "en": "Assess and address demonstrated access barriers."
+        },
+        {
+          "vi": "Loại nhóm đó khỏi các lần tham vấn sau.",
+          "en": "Exclude that group from future consultation."
+        },
+        {
+          "vi": "Kết luận cơ hội đã bình đẳng vì đã mời.",
+          "en": "Declare equal opportunity because invitations were sent."
+        }
+      ],
+      "correct": 0,
+      "chapter": 0,
+      "explanation": {
+        "vi": "Cơ hội trên giấy khác khả năng tham gia thực tế. Xem mục 1.",
+        "en": "Formal opportunity differs from actual access. See section 1."
+      }
+    },
+    {
+      "question": {
+        "vi": "Gender mainstreaming nên được thực hiện lúc nào?",
+        "en": "When should gender mainstreaming occur?"
+      },
+      "options": [
+        {
+          "vi": "Chỉ khi hoạt động có nữ cán bộ tham gia.",
+          "en": "Only when women officers participate."
+        },
+        {
+          "vi": "Chỉ khi đã xong kế hoạch để thêm phụ lục.",
+          "en": "Only after the plan is complete, as an annex."
+        },
+        {
+          "vi": "Xuyên suốt xác định vấn đề, quyết định, thực hiện và đánh giá.",
+          "en": "Throughout problem definition, decisions, delivery and evaluation."
+        }
+      ],
+      "correct": 2,
+      "chapter": 1,
+      "explanation": {
+        "vi": "Lồng ghép phải ảnh hưởng lựa chọn và kết quả, không chỉ bổ sung câu chữ. Xem mục 2.",
+        "en": "Mainstreaming must inform choices and outcomes, not wording alone. See section 2."
+      }
+    },
+    {
+      "question": {
+        "vi": "Nhóm có số nữ bằng nam có chứng minh bình đẳng thực chất không?",
+        "en": "Do equal numbers of women and men prove substantive equality?"
+      },
+      "options": [
+        {
+          "vi": "Có; số lượng đủ thay mọi đánh giá khác.",
+          "en": "Yes; counts replace further assessment."
+        },
+        {
+          "vi": "Có; không cần xem phân công trong nhóm.",
+          "en": "Yes; task allocation is irrelevant."
+        },
+        {
+          "vi": "Chưa; xem vai trò, nguồn lực, cơ hội và ảnh hưởng.",
+          "en": "No; examine roles, resources, opportunities and influence."
+        }
+      ],
+      "correct": 2,
+      "chapter": 1,
+      "explanation": {
+        "vi": "Ngang bằng số lượng có thể cùng tồn tại với phân công bất bình đẳng. Xem mục 2.",
+        "en": "Numerical parity can coexist with unequal assignments. See section 2."
+      }
+    },
+    {
+      "question": {
+        "vi": "Chỉ hỏi người dễ gặp nhất có đủ xác định nhu cầu cộng đồng không?",
+        "en": "Does consulting only convenient contacts establish community needs?"
+      },
+      "options": [
+        {
+          "vi": "Đủ; người có mặt luôn đại diện người vắng.",
+          "en": "Yes; attendees always represent absent people."
+        },
+        {
+          "vi": "Chưa; cần tìm nhóm bị bỏ sót và cách tiếp cận an toàn.",
+          "en": "No; identify missing groups and safe access options."
+        },
+        {
+          "vi": "Đủ; giảm số nguồn sẽ làm phân tích chắc hơn.",
+          "en": "Yes; fewer sources make analysis more certain."
+        }
+      ],
+      "correct": 1,
+      "chapter": 2,
+      "explanation": {
+        "vi": "Sự thuận tiện có thể tạo thiên lệch chọn mẫu và bỏ rào cản quan trọng. Xem mục 3.",
+        "en": "Convenience can introduce selection bias and conceal barriers. See section 3."
+      }
+    },
+    {
+      "question": {
+        "vi": "Kế hoạch ghi cần phiên dịch nhưng chưa xác nhận người. Trạng thái đúng là gì?",
+        "en": "A plan requires an interpreter without confirming one. What is the correct status?"
+      },
+      "options": [
+        {
+          "vi": "Đã đủ vì nhu cầu có trong kế hoạch.",
+          "en": "Ready because the need is listed."
+        },
+        {
+          "vi": "Nguồn lực chưa được xác nhận, cần báo và giải quyết.",
+          "en": "The resource is unconfirmed and needs action."
+        },
+        {
+          "vi": "Có thể dùng bất kỳ người quen nào không cần bảo mật.",
+          "en": "Any acquaintance can be used without safeguards."
+        }
+      ],
+      "correct": 1,
+      "chapter": 2,
+      "explanation": {
+        "vi": "Đặt tên giải pháp không tạo khả năng thực hiện. Xem mục 3.",
+        "en": "Naming a solution does not establish delivery capacity. See section 3."
+      }
+    },
+    {
+      "question": {
+        "vi": "Sự tham gia có thực chất được thể hiện rõ hơn bằng điều gì?",
+        "en": "What better demonstrates meaningful participation?"
+      },
+      "options": [
+        {
+          "vi": "Có cơ hội phát biểu và ảnh hưởng quyết định.",
+          "en": "Opportunity to speak and influence decisions."
+        },
+        {
+          "vi": "Chỉ có mặt trong ảnh hoạt động.",
+          "en": "Appearance in activity photographs alone."
+        },
+        {
+          "vi": "Chỉ có tên trong danh sách mời.",
+          "en": "A name on the invitation list alone."
+        }
+      ],
+      "correct": 0,
+      "chapter": 3,
+      "explanation": {
+        "vi": "Cần xem tiếng nói và cách ý kiến đi tới quyết định. Xem mục 4.",
+        "en": "Assess voice and how contributions reach decisions. See section 4."
+      }
+    },
+    {
+      "question": {
+        "vi": "Một phụ nữ phát biểu có tự đại diện mọi phụ nữ không?",
+        "en": "Does one woman automatically represent all women?"
+      },
+      "options": [
+        {
+          "vi": "Không; cần nhận ra khác biệt và nhiều tiếng nói.",
+          "en": "No; recognize diversity and multiple perspectives."
+        },
+        {
+          "vi": "Có; cùng giới luôn có cùng nhu cầu.",
+          "en": "Yes; one gender always shares identical needs."
+        },
+        {
+          "vi": "Có; như vậy không cần hỏi thêm ai.",
+          "en": "Yes; further consultation is unnecessary."
+        }
+      ],
+      "correct": 0,
+      "chapter": 3,
+      "explanation": {
+        "vi": "Giới không làm trải nghiệm, chuyên môn và mong muốn đồng nhất. Xem mục 4.",
+        "en": "Gender does not make experience, expertise and preferences identical. See section 4."
+      }
+    },
+    {
+      "question": {
+        "vi": "Nữ cán bộ đủ điều kiện lái xe nhưng luôn chỉ được ghi chép. Cần rà điều gì?",
+        "en": "A qualified woman driver is always assigned note-taking. What needs review?"
+      },
+      "options": [
+        {
+          "vi": "Tiêu chí phân công và cơ hội sử dụng, phát triển năng lực.",
+          "en": "Assignment criteria and opportunities to use and develop skills."
+        },
+        {
+          "vi": "Mặc định ghi chép là sở trường tự nhiên của nữ.",
+          "en": "Assume note-taking is women’s natural role."
+        },
+        {
+          "vi": "Chỉ tăng số ảnh có nữ tham gia.",
+          "en": "Only increase photographs including women."
+        }
+      ],
+      "correct": 0,
+      "chapter": 4,
+      "explanation": {
+        "vi": "Phân công theo khuôn mẫu có thể làm mất cơ hội tích lũy kinh nghiệm. Xem mục 5.",
+        "en": "Stereotyped assignments can deny experience-building opportunities. See section 5."
+      }
+    },
+    {
+      "question": {
+        "vi": "Trang bị không vừa làm một người khó thực hiện nhiệm vụ. Nên đánh giá sao?",
+        "en": "Poorly fitting equipment impairs performance. How should this be assessed?"
+      },
+      "options": [
+        {
+          "vi": "Yêu cầu tự sửa phần bảo vệ cho vừa.",
+          "en": "Require personal modification of protective parts."
+        },
+        {
+          "vi": "Xem đây là thiếu điều kiện sẵn sàng cần xử lý.",
+          "en": "Treat it as a readiness condition requiring correction."
+        },
+        {
+          "vi": "Coi ngay người dùng thiếu năng lực.",
+          "en": "Immediately classify the user as incompetent."
+        }
+      ],
+      "correct": 1,
+      "chapter": 4,
+      "explanation": {
+        "vi": "Điều kiện làm việc có thể ảnh hưởng kết quả; không quy mọi hạn chế cho cá nhân. Xem mục 5.",
+        "en": "Working conditions affect results; not every limitation is individual failure. See section 5."
+      }
+    },
+    {
+      "question": {
+        "vi": "Số phản ánh thấp có chắc chứng minh không có rào cản không?",
+        "en": "Do few complaints prove there are no barriers?"
+      },
+      "options": [
+        {
+          "vi": "Có; không cần kiểm tra kênh tiếp cận.",
+          "en": "Yes; access channels need no review."
+        },
+        {
+          "vi": "Không; có thể người dân không biết, không tin hoặc sợ báo.",
+          "en": "No; people may lack awareness, trust or safety to report."
+        },
+        {
+          "vi": "Có; chỉ số thấp luôn là thành công.",
+          "en": "Yes; lower counts always indicate success."
+        }
+      ],
+      "correct": 1,
+      "chapter": 5,
+      "explanation": {
+        "vi": "Cần kiểm tra các cách giải thích khác trước khi kết luận. Xem mục 6.",
+        "en": "Test alternative explanations before concluding. See section 6."
+      }
+    },
+    {
+      "question": {
+        "vi": "Sau đánh giá phát hiện nhóm chưa được nghe, bước nào hữu ích?",
+        "en": "Evaluation finds an unheard group. What is useful follow-up?"
+      },
+      "options": [
+        {
+          "vi": "Xóa nhóm đó khỏi phạm vi đánh giá.",
+          "en": "Remove the group from evaluation scope."
+        },
+        {
+          "vi": "Chỉ ghi “tăng cường quan tâm”.",
+          "en": "Only record “increase attention”."
+        },
+        {
+          "vi": "Giao điều chỉnh, người phụ trách và cách kiểm chứng.",
+          "en": "Assign adjustments, ownership and verification."
+        }
+      ],
+      "correct": 2,
+      "chapter": 5,
+      "explanation": {
+        "vi": "Kết quả đánh giá cần thành hành động thay đổi rào cản thực tế. Xem mục 6.",
+        "en": "Evaluation should produce action on actual barriers. See section 6."
+      }
+    }
+  ],
+  "updated": "2026-10-29",
+  "moduleId": "CORE-M2",
+  "moduleOrder": 2,
+  "lessonOrder": 5,
+  "editorial": {
+    "packageReviewStatus": "Nội dung bản thảo để duyệt, không phải xác nhận bao phủ mọi slide hoặc tiêu chuẩn chứng nhận.",
+    "contentBasis": "Bản thảo 48 bài đã soạn trước đó; chưa biên soạn lại theo độ sâu của bài mẫu FPU-16."
+  },
+  "chapters": [
+    {
+      "id": "CORE-11-01",
+      "title": {
+        "vi": "1. Hiểu đúng chương trình nghị sự WPS",
+        "en": "1. Understand the WPS agenda"
+      },
+      "body": {
+        "vi": "### 1.1. Từ quyền bình đẳng tới chất lượng hòa bình\nWomen, Peace and Security (WPS) là chương trình nghị sự về phụ nữ, hòa bình và an ninh. Nghị quyết 1325 năm 2000 của Hội đồng Bảo an là dấu mốc quan trọng, khẳng định vai trò phụ nữ trong phòng ngừa, giải quyết xung đột và xây dựng hòa bình. WPS kết nối quyền, sự tham gia và yêu cầu bảo vệ trong hoạt động gìn giữ hòa bình.\n\nĐừng chỉ nhìn phụ nữ như người cần được bảo vệ. Họ còn là người lãnh đạo, cán bộ chuyên môn, người thương lượng, thành viên cộng đồng và người đưa ra quyết định. Khi kế hoạch chỉ nói về nguy cơ với phụ nữ mà không có tiếng nói của họ, bức tranh nhiệm vụ vẫn thiếu.\n\n### 1.2. Bốn trụ cột liên kết với nhau\nTham gia hướng tới sự hiện diện bình đẳng và có ảnh hưởng trong quyết định về hòa bình, an ninh. Bảo vệ hướng tới quyền và an toàn, gồm phòng ngừa và ứng phó bạo lực. Phòng ngừa đặt vấn đề giới trong ngăn xung đột và các hình thức bạo lực. Cứu trợ và phục hồi chú ý nhu cầu, quyền và khả năng tham gia trong hỗ trợ, tái thiết và phục hồi sau xung đột.\n\nBốn trụ cột bổ sung cho nhau. Một hoạt động bảo vệ có thể thất bại nếu người chịu nguy cơ không được tham gia xác định nhu cầu. Một chương trình phục hồi có thể tiếp tục bất bình đẳng nếu điều kiện đăng ký khiến một số nhóm không tiếp cận được. Hãy đọc từng hoạt động qua cả quyền, ảnh hưởng và kết quả thực tế.\n\n### 1.3. Trách nhiệm chung trong phái bộ\nWPS không phải phần việc chỉ giao cho nữ cán bộ hoặc đầu mối giới. Chỉ huy, người lập kế hoạch và người thực hiện đều cần tính tác động giới trong phần việc của mình. Đầu mối chuyên môn hỗ trợ phân tích và điều phối; không thay trách nhiệm của người ra quyết định.\n\nTrong cảnh sát, WPS liên quan việc tiếp xúc cộng đồng, đánh giá nguy cơ, tiếp nhận thông tin, tuyển chọn, huấn luyện và phân công. Không chỉ hỏi một hoạt động có nữ cán bộ tham dự không; hỏi ai được tiếp cận, ai có tiếng nói và việc gì thay đổi từ thông tin họ cung cấp.\n\n### 1.4. Mục tiêu là quyền và cơ hội thực chất\nBình đẳng không có nghĩa mọi người có cùng hoàn cảnh hoặc luôn cần một cách hỗ trợ giống nhau. Cùng thông báo một cuộc họp nhưng một số người không thể tới vì thời gian, ngôn ngữ hoặc trách nhiệm chăm sóc thì cơ hội chưa thật sự ngang nhau. Biện pháp phù hợp cần xử lý rào cản có căn cứ, không chỉ tuyên bố ai cũng được mời.",
+        "en": "### 1.1. Equality and the quality of peace\nWomen, Peace and Security (WPS) connects rights, participation and protection. Security Council resolution 1325, adopted in 2000, marked recognition of women’s roles in conflict prevention, resolution and peacebuilding.\n\nWomen are not only people requiring protection. They are leaders, professionals, negotiators and decision-makers. A plan describing risks without including their perspectives remains incomplete.\n\n### 1.2. Four connected pillars\nParticipation concerns equal presence and influence in peace and security decisions. Protection concerns rights and safety, including violence prevention and response. Prevention incorporates gender into preventing conflict and violence. Relief and recovery address rights, needs and participation in assistance and reconstruction.\n\nThe pillars reinforce one another. Protection can fail without affected people shaping priorities; recovery can reproduce inequality through inaccessible procedures. Consider rights, influence and actual results together.\n\n### 1.3. Shared mission responsibility\nWPS is not solely women officers’ or gender focal points’ work. Commanders, planners and personnel integrate gender into their own responsibilities. Specialists support analysis without replacing decision-makers’ accountability.\n\nIn policing, consider community engagement, risk assessment, information reception, selection, training and assignments. Ask who accessed the activity, whose voice influenced it and what changed.\n\n### 1.4. Substantive opportunity\nEquality does not mean identical circumstances or support. An open invitation is insufficient where timing, language or care responsibilities prevent attendance. Address demonstrated barriers rather than relying on formal access alone."
+      },
+      "sourceIds": [
+        "C16"
+      ]
+    },
+    {
+      "id": "CORE-11-02",
+      "title": {
+        "vi": "2. Các khái niệm để phân tích, không để gán nhãn",
+        "en": "2. Concepts for analysis rather than labelling"
+      },
+      "body": {
+        "vi": "### 2.1. Giới tính và giới không đồng nghĩa\nTrong bài học, sex chỉ các đặc điểm sinh học liên quan giới tính; gender chỉ vai trò, kỳ vọng và quan hệ xã hội gắn với giới. Những kỳ vọng về ai lãnh đạo, chăm sóc gia đình hoặc làm một nghề có thể thay đổi theo thời gian và bối cảnh. Chúng không chứng minh năng lực tự nhiên của từng người.\n\nVí dụ, việc một cộng đồng ít thấy phụ nữ phát biểu công khai có thể phản ánh cơ hội, an toàn hoặc quy tắc xã hội. Không được suy rằng phụ nữ ở đó không có ý kiến hoặc không muốn tham gia. Cần tìm cách tiếp cận phù hợp để hiểu điều gì cản trở và người liên quan muốn gì.\n\n### 2.2. Bình đẳng, cân bằng và ngang bằng số lượng\nGender equality nói về quyền, trách nhiệm và cơ hội bình đẳng. Gender balance quan tâm mức đại diện giữa các giới; gender parity nhấn mạnh ngang bằng về số lượng theo phạm vi được xác định. Số lượng là dữ liệu quan trọng nhưng chưa phản ánh đầy đủ khả năng tiếp cận nguồn lực hoặc ảnh hưởng tới quyết định.\n\nMột nhóm có số nữ bằng nam vẫn có thể phân việc bất bình đẳng nếu nam luôn chỉ huy, nữ luôn ghi chép và không ai được lựa chọn theo năng lực. Ngược lại, một tỷ lệ tổng hợp có thể che chênh lệch giữa cấp bậc, chuyên môn hoặc ca làm. Cần đọc dữ liệu theo chức năng và điều kiện thực hiện.\n\n### 2.3. Lồng ghép giới là một cách làm xuyên suốt\nGender mainstreaming là xem xét tác động của quyết định đối với phụ nữ, nam giới, trẻ em gái và trẻ em trai trong các bước công việc. Phân tích giúp xác định khác biệt về nguy cơ, tiếp cận, vai trò và quyền quyết định, rồi điều chỉnh để không tái tạo bất bình đẳng.\n\nKhông đợi kế hoạch hoàn tất mới thêm một câu về giới. Hỏi từ lúc xác định vấn đề, thu thông tin, chọn mục tiêu, bố trí nguồn lực tới khi theo dõi kết quả. Nếu phân tích không thay đổi câu hỏi, lựa chọn hoặc cách đánh giá nào, có thể việc lồng ghép mới dừng ở hình thức.\n\n### 2.4. Nhìn thấy khác biệt trong từng nhóm\nPhụ nữ không phải một nhóm đồng nhất; nam giới cũng vậy. Tuổi, khuyết tật, nơi sống, ngôn ngữ, tình trạng di dời và hoàn cảnh kinh tế có thể làm cơ hội hoặc nguy cơ khác nhau. Không lấy lời một người làm đại diện mọi người cùng giới.\n\nThu thập thông tin cần có mục đích, phù hợp và bảo vệ dữ liệu. Không yêu cầu người dân tiết lộ trải nghiệm nhạy cảm chỉ để điền đủ bảng phân tích. Khi dữ liệu thiếu, ghi rõ khoảng trống và tìm nguồn an toàn thay vì tự điền bằng định kiến.",
+        "en": "### 2.1. Distinguish sex and gender\nHere, sex refers to biological characteristics; gender concerns social roles, expectations and relationships. Expectations about leadership, care or professions vary across contexts and do not establish individual ability.\n\nLimited public participation may reflect opportunity, safety or social barriers rather than absence of opinions. Explore appropriate engagement instead of assuming preferences.\n\n### 2.2. Equality and numerical representation\nGender equality concerns equal rights, responsibilities and opportunities. Gender balance addresses representation; parity emphasizes numerical equality within a defined scope. Counts alone do not establish influence or resource access.\n\nEqual numbers can coexist with unequal assignments. Aggregate figures can conceal differences by rank, role and shift. Examine both distribution and working conditions.\n\n### 2.3. Mainstream throughout the work\nGender mainstreaming assesses effects on women, men, girls and boys throughout decisions and activities. Identify differences in risk, access, roles and decision-making, then adjust to avoid reproducing inequality.\n\nBegin with problem definition and continue through information gathering, objectives, resources and evaluation. If analysis changes no question, choice or measure, integration may be merely formal.\n\n### 2.4. Recognize diversity within groups\nAge, disability, location, language, displacement and resources can shape different needs within each gender. One person does not represent everyone.\n\nCollect purposeful, proportionate information securely. Do not demand sensitive experiences simply to complete a table. Record gaps and seek safe evidence instead of inventing answers."
+      },
+      "sourceIds": [
+        "C16"
+      ]
+    },
+    {
+      "id": "CORE-11-03",
+      "title": {
+        "vi": "3. Phân tích giới trong một nhiệm vụ cảnh sát",
+        "en": "3. Gender analysis in a policing task"
+      },
+      "body": {
+        "vi": "### 3.1. Đặt câu hỏi về người sử dụng và người chưa tiếp cận\nTrước một hoạt động, xác định ai chịu ảnh hưởng, ai đang được hỏi và ai chưa hiện diện. Xem người dân sử dụng dịch vụ thế nào, tiếp nhận thông tin qua kênh nào và thời điểm nào thuận tiện hoặc nguy hiểm. Không chỉ làm việc với người dễ tiếp cận nhất rồi coi nhu cầu cộng đồng đã được xác định.\n\nCần lắng nghe khác biệt về nhận thức an toàn. Một địa điểm ban ngày có thể dễ tới nhưng buổi tối lại khó với một số người. Tuyến ngắn chưa chắc là tuyến được người dân lựa chọn nếu có nguy cơ quấy rối hoặc kiểm soát. Kiểm chứng qua nguồn phù hợp; không công khai tuyến hoặc người cung cấp thông tin nhạy cảm.\n\n### 3.2. Liên hệ vai trò với nguy cơ\nVai trò kiếm sống, lấy nước, chăm sóc hoặc đi học có thể khiến các nhóm hiện diện ở nơi và thời điểm khác nhau. Điều đó giúp định hướng câu hỏi bảo vệ, không tạo khuôn mẫu cố định rằng một giới luôn làm một việc. Khi hoạt động thay đổi, nguy cơ và nhu cầu cũng có thể đổi.\n\nTrong tuần tra hoặc tiếp xúc, thông tin về nơi người dân tránh đi có thể có giá trị hơn số lần đi qua tuyến quen. Cần xác định điều đơn vị có thể làm trong mandate, điều cần phối hợp và cách nhận phản hồi. Không hứa bảo vệ liên tục nếu năng lực chưa được xác nhận.\n\n### 3.3. So sánh tác động của phương án\nMột điểm tiếp nhận duy nhất giúp quản lý tập trung nhưng có thể làm người ở xa không sử dụng được. Thông báo trên mạng có thể bỏ sót người không có thiết bị. Thay đổi lịch có thể giúp nhóm này nhưng làm nhóm khác mất cơ hội. So sánh lợi ích, rào cản và biện pháp giảm tác động trước khi quyết định.\n\nLựa chọn cần gắn nguồn lực và người chịu trách nhiệm. Nếu giải pháp là có phiên dịch, phải xác nhận ngôn ngữ, sự sẵn sàng và bảo mật. Nếu là tiếp xúc riêng, phải tính an toàn và sự tự nguyện. Tên giải pháp chưa chứng minh điều kiện để thực hiện đã có.\n\n### 3.4. Chuyển phân tích thành nhiệm vụ cụ thể\nThay “quan tâm phụ nữ và trẻ em” bằng hành động: Điều chỉnh cách thông báo, xác nhận đầu mối trợ giúp hoặc kiểm tra nhóm nào chưa tiếp cận được. Giao người, thời điểm và cách đánh giá phù hợp. Mục tiêu cần đủ cụ thể để biết thay đổi có tác dụng, đồng thời không buộc người dân cung cấp dữ liệu cá nhân quá mức.",
+        "en": "### 3.1. Identify users and excluded people\nAsk who is affected, consulted and absent. Examine service access, information channels, timing and safety. Convenient contacts alone cannot establish community needs.\n\nSafety perceptions can vary by time and route. Shorter routes may be avoided because of harassment or control. Verify appropriately and protect sources and sensitive locations.\n\n### 3.2. Connect roles and exposure\nLivelihoods, care, water collection and school attendance can shape where and when people encounter risk. Use this to guide questions without fixing gender roles. Reassess as activities change.\n\nAvoided places can matter more than patrol counts. Identify actions within mandate, coordination needs and feedback. Do not promise unconfirmed protection capacity.\n\n### 3.3. Compare options’ effects\nCentralized reception, online notices and scheduling can help some while excluding others. Compare access, benefits and safeguards before choosing.\n\nConfirm resources and ownership. Interpreting needs available, appropriate and confidential personnel; private engagement needs safety and voluntary participation. Naming a solution does not establish readiness.\n\n### 3.4. Assign concrete actions\nReplace broad concern statements with specific communications, assistance or access checks. Assign owners, timing and meaningful measures without requiring excessive personal data."
+      },
+      "sourceIds": [
+        "C16"
+      ]
+    },
+    {
+      "id": "CORE-11-04",
+      "title": {
+        "vi": "4. Sự tham gia đầy đủ, bình đẳng và có thực chất",
+        "en": "4. Full, equal and meaningful participation"
+      },
+      "body": {
+        "vi": "### 4.1. Có mặt là điểm bắt đầu\nSự tham gia có thực chất gồm khả năng tiếp cận, chuẩn bị, phát biểu, được lắng nghe và ảnh hưởng đến quyết định. Chỉ có tên trong danh sách hoặc xuất hiện trong ảnh chưa đủ. Cần biết nội dung quan trọng có được chia sẻ trước, thời gian có phù hợp và ý kiến có được xử lý nghiêm túc không.\n\nKhông yêu cầu một nữ đại diện vừa tham gia vừa giải thích mọi vấn đề về phụ nữ. Mỗi người có chuyên môn, trải nghiệm và giới hạn riêng. Tạo điều kiện để nhiều tiếng nói được nghe thay vì đặt gánh nặng đại diện lên một người.\n\n### 4.2. Xử lý rào cản, không tự chọn thay\nTrao đổi về cách tham gia an toàn, ngôn ngữ, thời gian, địa điểm và nhu cầu hỗ trợ. Đừng tự kết luận phụ nữ không nên đi vì nguy hiểm rồi loại khỏi công việc có ý nghĩa. Đánh giá nguy cơ cần tạo điều kiện tham gia, không trở thành lý do mặc định hạn chế cơ hội.\n\nVới cộng đồng, việc mời công khai có thể tạo rủi ro cho một số người. Xác định hình thức phù hợp với họ và cơ chế bảo vệ thông tin. Không yêu cầu nói trải nghiệm bạo lực trước tập thể để chứng minh tư cách tham gia. Có quyền từ chối hoặc không trả lời câu hỏi nhạy cảm.\n\n### 4.3. Cho ý kiến một đường đi tới quyết định\nGhi nhận đề xuất theo mức cần thiết, phân tích và giải thích việc tiếp thu hoặc chưa tiếp thu. Người tham gia cần biết phản ánh được chuyển cho ai và khi nào có phản hồi phù hợp. Không coi việc ghi chép là hoàn thành đối thoại nếu không ai chịu trách nhiệm xử lý.\n\nKhi một ý kiến cho thấy rủi ro mới, phải xem lại giả định kế hoạch, kể cả khác với nhận định ban đầu của chỉ huy. Lắng nghe không có nghĩa chấp nhận mọi đề xuất; nghĩa là quyết định có căn cứ và giải thích được.\n\n### 4.4. Theo dõi ảnh hưởng thay vì chỉ đếm người\nCó thể theo dõi nhóm nào tiếp cận, ai được phát biểu, nội dung nào làm thay đổi kế hoạch và rào cản nào được giảm. Không công khai danh tính hoặc dữ liệu nhạy cảm để tạo bằng chứng thành tích. Một thay đổi nhỏ nhưng giúp người trước đây không được nghe có ảnh hưởng là kết quả cần nhận diện.",
+        "en": "### 4.1. Presence is a starting point\nMeaningful participation includes access, preparation, voice, being heard and influence. Attendance and photographs do not prove these. Check advance information, suitable timing and serious consideration.\n\nDo not make one woman responsible for representing every woman’s concern. Recognize individual expertise and limits and enable diverse perspectives.\n\n### 4.2. Remove barriers without deciding for people\nDiscuss safe formats, language, timing, location and support. Risk assessment should enable participation rather than automatically exclude women from substantive work.\n\nPublic invitations may expose some community members. Find suitable options and protect information. Never require public disclosure of violence to establish a right to participate.\n\n### 4.3. Connect views to decisions\nRecord necessary proposals, assess them and explain responses. Assign recipients and appropriate feedback. Notes alone do not complete dialogue.\n\nRevisit assumptions when new risks emerge, including those challenging command views. Listening requires reasoned consideration, not acceptance of every proposal.\n\n### 4.4. Measure influence\nReview access, voice, changed decisions and reduced barriers. Protect identity and sensitive information rather than publishing them as evidence of success. Recognize changes that give previously unheard people real influence."
+      },
+      "sourceIds": [
+        "C16"
+      ]
+    },
+    {
+      "id": "CORE-11-05",
+      "title": {
+        "vi": "5. Phụ nữ trong cảnh sát và trách nhiệm của đơn vị",
+        "en": "5. Women in policing and unit responsibilities"
+      },
+      "body": {
+        "vi": "### 5.1. Phân công theo năng lực và cơ hội phát triển\nNữ cảnh sát có thể đảm nhiệm chỉ huy, tác chiến, lái xe, thông tin, điều tra, hậu cần và các chuyên môn phù hợp năng lực. Không mặc định nữ chỉ phù hợp hành chính, phiên dịch hoặc tiếp xúc phụ nữ. Cũng không giao một nhiệm vụ chỉ để có hình ảnh đại diện mà thiếu huấn luyện, thông tin hoặc quyền thực hiện.\n\nRà cách tuyển chọn vào khóa học, nhiệm vụ có giá trị và vị trí lãnh đạo. Nếu một nhóm thường xuyên không có cơ hội tích lũy kinh nghiệm, việc đánh giá họ thiếu kinh nghiệm về sau có thể tiếp tục tái tạo bất bình đẳng. Cần tiêu chí rõ và cơ hội chuẩn bị công bằng.\n\n### 5.2. Trang bị và điều kiện làm việc\nTrang bị đúng cỡ, chỗ ở, vệ sinh, riêng tư và chăm sóc y tế ảnh hưởng khả năng thực hiện nhiệm vụ. Không yêu cầu người dùng chịu trang bị không vừa rồi đánh giá năng lực thấp do hạn chế đó. Thiếu điều kiện cần được ghi nhận và giao xử lý như vấn đề sẵn sàng của đơn vị.\n\nBảo đảm phù hợp không có nghĩa giảm tiêu chuẩn nghiệp vụ. Mục tiêu là để mỗi người có điều kiện đáp ứng yêu cầu vai trò đã xác định. Điều chỉnh dựa trên nhu cầu và căn cứ thực tế, không dựa trên giả định mọi nữ hoặc mọi nam đều giống nhau.\n\n### 5.3. Môi trường tôn trọng và không trả đũa\nLời đùa hạ thấp, quấy rối, loại khỏi trao đổi hoặc trả đũa người phản ánh làm suy giảm an toàn và hiệu quả. Người quản lý phải nhận diện, ngăn và xử lý qua cơ chế áp dụng; không coi im lặng là đồng thuận hoặc yêu cầu người bị ảnh hưởng tự thích nghi.\n\nĐầu mối báo cáo cần rõ và có lựa chọn phù hợp nếu người bị phản ánh nằm trong tuyến chỉ huy gần. Bảo vệ thông tin, không dàn xếp bằng cách ép hòa giải hoặc chuyển người phản ánh khỏi cơ hội công tác. Chỉ huy chịu trách nhiệm về môi trường đơn vị, không đẩy toàn bộ cho đầu mối giới.\n\n### 5.4. Tiếp xúc cộng đồng cần cả đội có năng lực\nĐội có thành phần đa dạng có thể mở thêm lựa chọn tiếp xúc, nhưng không tự tạo niềm tin chỉ bằng giới của người đi gặp. Năng lực, cách ứng xử, ngôn ngữ, bảo mật và việc giữ cam kết đều quan trọng. Tránh đặt mọi thông tin nhạy cảm lên vai nữ cán bộ; mọi người cần biết giới hạn tiếp nhận và đường chuyển đầu mối chuyên môn.",
+        "en": "### 5.1. Assign by competence and opportunity\nWomen police officers serve in command, operations, driving, communications, investigations, logistics and other qualified roles. Do not confine them to administration or women-only engagement. Representative visibility without preparation or authority is tokenism.\n\nReview access to training, valuable assignments and leadership. Repeatedly denying experience can later reproduce inequality through experience-based selection. Use clear criteria and fair preparation opportunities.\n\n### 5.2. Provide suitable working conditions\nFit, accommodation, sanitation, privacy and health care affect performance. Unsuitable equipment is a readiness deficiency, not evidence of individual inability.\n\nEnabling conditions support role standards rather than lower them. Base adjustments on demonstrated needs, not assumptions that everyone of one gender is alike.\n\n### 5.3. Maintain respect and prevent retaliation\nDegrading jokes, harassment, exclusion and retaliation undermine safety and effectiveness. Managers must act through applicable mechanisms. Silence is not consent.\n\nProvide reporting alternatives where the immediate chain is implicated. Protect information and avoid forced mediation or removal of opportunities for complainants. Leadership remains responsible for unit culture.\n\n### 5.4. Build whole-team competence\nDiverse teams can broaden engagement options but do not automatically create trust. Competence, respectful conduct, language, confidentiality and reliable follow-up matter. All personnel need reception limits and specialist referral knowledge."
+      },
+      "sourceIds": [
+        "C16"
+      ]
+    },
+    {
+      "id": "CORE-11-06",
+      "title": {
+        "vi": "6. Lập kế hoạch, theo dõi và sửa rào cản",
+        "en": "6. Plan, monitor and remove barriers"
+      },
+      "body": {
+        "vi": "### 6.1. Đưa phân tích vào kế hoạch từ đầu\nXác định vấn đề, dữ kiện, nhóm chưa được nghe và kết quả bình đẳng cần hướng tới. Chọn hành động trong thẩm quyền, nguồn lực, người chịu trách nhiệm và cách nhận phản hồi. Phần giới phải kết nối các nội dung chính của kế hoạch, không chỉ nằm trong một phụ lục không ai sử dụng.\n\nVới đơn vị cảnh sát, kiểm tra thông tin chỉ huy, tuyển chọn người, bảo đảm, giao tiếp và bàn giao. Một hoạt động có mục tiêu tốt vẫn có thể thất bại ở khâu thực hiện nếu lịch không phù hợp hoặc người liên hệ không sẵn sàng.\n\n### 6.2. Dữ liệu cần đúng câu hỏi và đủ an toàn\nSố liệu phân tách phù hợp giúp thấy chênh lệch bị tổng số che khuất. Xác định mục đích, mức cần thiết, người được truy cập và cách lưu trước khi thu. Không dùng dữ liệu quá chi tiết khiến một người có thể bị nhận ra trong nhóm nhỏ.\n\nKết hợp số lượng với phản hồi chất lượng. Số nữ tham gia tăng có thể là tiến bộ nhưng chưa chứng minh tiếng nói tăng. Số phản ánh thấp có thể do ít vấn đề, cũng có thể do người dân không tin kênh hoặc sợ hậu quả. Cần tìm lời giải có căn cứ thay vì chọn cách hiểu thuận lợi nhất.\n\n### 6.3. Kiểm tra kết quả và tác động ngoài dự kiến\nHỏi ai tiếp cận được, ai chưa, quyết định nào thay đổi và rủi ro nào mới xuất hiện. Việc họp riêng có thể giúp trao đổi nhưng cũng có thể làm người tham gia bị chú ý; cần phản hồi và điều chỉnh. Không lấy mục đích tốt để bỏ qua hậu quả thực tế.\n\nKhi rào cản chưa giảm, xem lại nguồn lực và thiết kế hoạt động trước khi kết luận người dân không hợp tác. Kết quả đánh giá phải dẫn tới người sửa, việc sửa và cách kiểm chứng phù hợp.\n\n### 6.4. Duy trì qua đổi người và đổi ca\nBàn giao đầu mối, cam kết, điều kiện đã xác nhận và vấn đề chưa xử lý theo nguyên tắc bảo vệ dữ liệu. Đừng để tiến bộ phụ thuộc một cá nhân tích cực rồi mất khi người đó chuyển công tác. Đưa bài học vào hướng dẫn, phân công và hoạt động theo dõi thường xuyên.\n\nThực hiện WPS có chất lượng là kết nối quyền, cơ hội và ảnh hưởng trong quyết định hằng ngày. Người học cần giải thích được thay đổi nào giúp nhiệm vụ công bằng và hiệu quả hơn, ai được lợi và bằng chứng nào cho thấy điều đó.",
+        "en": "### 6.1. Integrate analysis from the outset\nIdentify the problem, evidence, missing voices and intended equality outcomes. Assign authorized actions, resources, owners and feedback. Gender analysis should inform the main plan rather than an unused annex.\n\nReview command information, selection, support, engagement and handover. Sound objectives can fail through inaccessible scheduling or unavailable contacts.\n\n### 6.2. Collect purposeful, safe data\nAppropriate disaggregation reveals hidden differences. Define purpose, necessity, access and storage before collecting. Avoid detail that identifies people within small groups.\n\nCombine counts with qualitative feedback. Increased attendance does not prove increased influence. Few complaints may indicate few problems or inaccessible, distrusted channels. Test interpretations.\n\n### 6.3. Check outcomes and unintended effects\nAssess access, exclusion, changed decisions and new risks. Separate engagement may improve discussion but also expose participants. Good intentions do not remove duties to examine actual consequences.\n\nReview design and resources before blaming non-participation. Assign specific corrections and verification.\n\n### 6.4. Preserve continuity\nTransfer contacts, commitments, confirmed conditions and unresolved issues securely. Embed improvements in instructions, assignments and monitoring rather than relying on one individual.\n\nEffective WPS connects rights, opportunity and influence in everyday decisions. Explain which changes improve fairness and mission effectiveness and what evidence supports that conclusion."
+      },
+      "sourceIds": [
+        "C16"
+      ]
+    }
+  ],
+  "source_ids": [
+    "C16"
+  ],
+  "languages": [
+    "vi",
+    "en"
+  ],
+  "bodyFormat": "markdown",
+  "terms": [
+    {
+      "term": "WPS",
+      "definition": {
+        "vi": "Phụ nữ, hòa bình và an ninh.",
+        "en": "Women, peace and security."
+      }
+    },
+    {
+      "term": "Gender mainstreaming",
+      "definition": {
+        "vi": "Lồng ghép tác động giới trong toàn bộ quyết định và hoạt động.",
+        "en": "Integrating gender considerations throughout decisions and activities."
+      }
+    },
+    {
+      "term": "Gender equality",
+      "definition": {
+        "vi": "Bình đẳng về quyền, trách nhiệm và cơ hội.",
+        "en": "Equal rights, responsibilities and opportunities."
+      }
+    },
+    {
+      "term": "Gender parity",
+      "definition": {
+        "vi": "Ngang bằng số lượng trong phạm vi xác định.",
+        "en": "Numerical equality within a defined scope."
+      }
+    },
+    {
+      "term": "Meaningful participation",
+      "definition": {
+        "vi": "Tiếp cận, tiếng nói và khả năng ảnh hưởng thực chất.",
+        "en": "Access, voice and substantive influence."
+      }
+    }
+  ],
+  "diagram": null,
+  "contentVersion": "batch-07-expanded-v1-2026-10-29",
+  "sourceIntro": {
+    "vi": "Tài liệu nền, đối chiếu theo mục và ghi chú phiên bản. Lời giảng, bản Anh, câu hỏi và chú thích được biên soạn cho Handbook. Mã bài là cách tổ chức của Handbook.",
+    "en": "Foundational materials, section mapping and edition notes. Teaching, English text, questions and commentary are authored for the Handbook. Lesson numbering belongs to the Handbook."
+  },
+  "sourceNotes": {
+    "vi": [
+      "Bản biên soạn đợt 7 ngày 29/10/2026, chờ người dùng duyệt; không phải ấn phẩm hoặc bản dịch chính thức UN. Mã bài thuộc cách tổ chức Handbook, không phải số bài CPTM.",
+      "Nền chính là giáo án CPTM UN 2025 đã đọc trực tiếp từ PDF trong gói chính thức. Ánh xạ chỉ cơ sở kiến thức theo mục, không phải mọi câu là trích nguyên văn. Hình là vùng slide gốc có tên tài liệu, trang PDF và lời giảng riêng Việt–Anh.",
+      "Giữ bốn tab, Tahoma 14px, giãn dòng 1.75 và căn đều phần thân theo mẫu. Nội dung không thay quy định, mandate, SOP và hướng dẫn áp dụng tại phái bộ; không xác nhận chuyên môn hoặc thay huấn luyện thực hành.",
+      "Không đặt tỷ lệ nữ cố định hoặc coi giới quyết định năng lực. Phân biệt bình đẳng, cân bằng, ngang bằng số lượng và tham gia có thực chất; dữ liệu phân tách vẫn cần bảo vệ riêng tư."
+    ],
+    "en": [
+      "Batch 7 authored on 29 October 2026 for user review; not an official UN publication or translation. Handbook identifiers are not CPTM lesson numbers.",
+      "The main foundation is UN CPTM 2025 lesson PDFs read from official packages. Mapping identifies section foundations rather than verbatim support for every sentence. Figures are original slide regions with source, PDF page and separate bilingual teaching.",
+      "The four-tab Tahoma 14px interface, 1.75 line height and justified body follow the sample. Content does not replace applicable rules, mandate, SOPs or mission guidance and provides no specialist certification.",
+      "No universal women-personnel target or gender-based competence claim is prescribed. Equality, balance, parity and meaningful participation are distinguished; disaggregated data still require privacy safeguards."
+    ]
+  },
+  "overview": {
+    "intro": {
+      "vi": "Bài học đi từ bốn trụ cột WPS tới phân tích giới, sự tham gia có thực chất, vai trò nữ cảnh sát và cách theo dõi kết quả. Trọng tâm là thay đổi quyền tiếp cận, cơ hội và ảnh hưởng trong nhiệm vụ.",
+      "en": "Connect WPS pillars, gender analysis, meaningful participation, women in policing and evaluation. Focus on access, opportunity and influence in the task."
+    },
+    "subtitle": {
+      "vi": "Quyền bình đẳng · Tiếng nói có ảnh hưởng · Kết quả thực chất",
+      "en": "Equal rights · Meaningful voice · Substantive outcomes"
+    },
+    "objectives": {
+      "vi": [
+        "Giải thích bốn trụ cột và trách nhiệm chung thực hiện WPS.",
+        "Phân biệt giới, giới tính, bình đẳng và đại diện số lượng.",
+        "Dùng phân tích giới để điều chỉnh quyết định và nguồn lực.",
+        "Nhận diện tham gia có thực chất và rào cản với nữ cảnh sát.",
+        "Theo dõi tiếp cận, ảnh hưởng và kết quả bằng dữ liệu phù hợp."
+      ],
+      "en": [
+        "Explain WPS pillars and shared responsibilities.",
+        "Distinguish gender, sex, equality and numerical representation.",
+        "Use gender analysis to inform decisions and resources.",
+        "Identify meaningful participation and barriers in policing.",
+        "Monitor access, influence and outcomes with appropriate data."
+      ]
+    },
+    "guide": {
+      "vi": "Đọc sáu mục trong tab Nội dung bài học và lời giảng kèm hình; bấm hình để xem lớn. Làm 12 câu kiểm tra nhận thức, đọc giải thích và trở lại mục liên quan. VI/EN giữ lựa chọn trong phiên; tải lại trang bắt đầu lại.",
+      "en": "Read six content sections and figure commentary; click figures to enlarge. Complete 12 knowledge questions, review explanations and revisit relevant sections. VI/EN retains selections in the session; reloading starts again."
+    }
+  },
+  "figures": [
+    {
+      "chapter": 0,
+      "image": "assets/lesson-figures/batch-07/C16-p18.png",
+      "caption": {
+        "vi": "Hình 1. Bốn trụ cột của WPS",
+        "en": "Figure 1. Four WPS pillars"
+      },
+      "alt": {
+        "vi": "Hình 1. Bốn trụ cột của WPS",
+        "en": "Figure 1. Four WPS pillars"
+      },
+      "explanation": {
+        "vi": "Đọc bốn trụ cột cùng nhau. Tham gia giúp xác định nhu cầu; bảo vệ và phòng ngừa cần thông tin đó; cứu trợ, phục hồi phải tiếp tục tạo cơ hội lãnh đạo. Chọn một hoạt động của đơn vị và hỏi quyền, tiếng nói và kết quả được thể hiện ở đâu.",
+        "en": "Read the pillars together. Participation informs needs; protection and prevention use that knowledge; relief and recovery must sustain leadership opportunities. Examine rights, voice and results in an actual activity."
+      },
+      "sourceLabel": "UN CPTM 2025 · 2.7 Women, Peace and Security",
+      "pdfPage": 18
+    }
+  ],
+  "reader": "handbook-four-tabs",
+  "editorialStatus": "review-draft",
+  "figureZoom": true
+}
