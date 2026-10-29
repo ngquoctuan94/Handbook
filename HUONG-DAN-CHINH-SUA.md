@@ -31,6 +31,7 @@ Nếu sửa giao diện hoặc chương trình, đổi tham số `?v=` của tà
 
 - `assets/app.js`: trang chủ, điều hướng, danh mục, thư viện và tiến độ.
 - `assets/un-institute.css`: kiểu dáng chung.
+- `assets/lesson-mobile.css`: mục lục thu gọn trên điện thoại và cách khắc phục xung đột bố cục giữa các bộ đọc.
 - `assets/multitab-reader.js`, `assets/multitab-reader.css`: bộ đọc chung.
 - `assets/core01-reader.*`, `assets/fpu16-reader.*`: hai bộ đọc riêng.
 - `data/sources.json`, `data/source-summaries.json`: thư viện nguồn và mô tả Việt–Anh.

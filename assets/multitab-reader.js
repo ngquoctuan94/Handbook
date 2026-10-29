@@ -40,6 +40,7 @@ all('[data-language]').forEach(b=>b.onclick=()=>{language=b.dataset.language;ren
   dialog.addEventListener('click',event=>{if(event.target===dialog)dialog.close()});
   dialog.addEventListener('close',()=>{if(returnFocus?.isConnected)returnFocus.focus();dialog.replaceChildren()});
  }
+ setupLessonContents(root,'.chapters');
  root.querySelector('.meta').insertAdjacentHTML('beforeend',completionBadge(detail.id)+pendingDraftBadge(detail));
  const progress=document.querySelector('#toggle-progress');
  const updateProgress=()=>{progress.textContent=state.completed.includes(detail.id)?'✓ '+t('marked'):t('markStudied')};

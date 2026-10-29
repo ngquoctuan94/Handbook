@@ -76,6 +76,7 @@ function renderFpu16Lesson(meta,detail){
   root.querySelector('#vip-next').addEventListener('click',()=>{if(chapter<6){chapter++;drawChapter()}else selectTab('practice')});
   render();
 
+ setupLessonContents(root,'.chapters');
  root.querySelector('.meta').insertAdjacentHTML('beforeend',completionBadge(detail.id));
  const progress=$('#toggle-progress');
  const updateProgress=()=>{progress.textContent=state.completed.includes(detail.id)?'✓ '+t('marked'):t('markStudied')};

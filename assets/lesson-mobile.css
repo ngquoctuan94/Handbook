@@ -1,0 +1,24 @@
+/* Keep lesson navigation separate from the site's generic .toc flex rules. */
+#core01-lesson .lesson-contents,#fpu16-teaching-illustrated .lesson-contents,#multitab-lesson .lesson-contents{min-width:0}
+#core01-lesson .lesson-contents>.toc{display:block}
+#core01-lesson .lesson-contents-toggle,#fpu16-teaching-illustrated .lesson-contents-toggle,#multitab-lesson .lesson-contents-toggle{display:none}
+@media(max-width:1030px){
+ #core01-lesson nav.tabs,#fpu16-teaching-illustrated .tabs{top:68px}
+}
+@media(max-width:760px){
+ #core01-lesson .lesson,#fpu16-teaching-illustrated .reader-layout,#multitab-lesson .reader-layout{grid-template-columns:minmax(0,1fr);gap:14px}
+ #core01-lesson .lesson-contents-toggle,#fpu16-teaching-illustrated .lesson-contents-toggle,#multitab-lesson .lesson-contents-toggle{display:flex;align-items:center;justify-content:space-between;gap:12px;width:100%;min-height:52px;padding:10px 12px;border:1px solid var(--p-line);border-radius:6px;background:var(--p-soft);text-align:left;font-size:13px;line-height:1.6;color:var(--p-ink);cursor:pointer}
+ .lesson-contents-copy{display:grid;gap:3px;min-width:0}
+ .lesson-contents-label{font-size:11px;color:var(--p-muted);font-weight:400}
+ .lesson-contents-current{font-size:13px;color:var(--p-blue);font-weight:700;white-space:normal;word-break:normal;overflow-wrap:break-word}
+ .lesson-contents-arrow{flex-shrink:0;font-size:20px;line-height:1;transition:transform .15s ease}
+ .lesson-contents.is-open .lesson-contents-arrow{transform:rotate(180deg)}
+ #core01-lesson .lesson-contents:not(.is-open)>nav,#fpu16-teaching-illustrated .lesson-contents:not(.is-open)>nav,#multitab-lesson .lesson-contents:not(.is-open)>nav{display:none}
+ #core01-lesson .lesson-contents.is-open>nav,#fpu16-teaching-illustrated .lesson-contents.is-open>nav,#multitab-lesson .lesson-contents.is-open>nav{display:block;width:100%;margin:8px 0 0;padding:8px;border:1px solid var(--p-line);border-radius:6px;background:var(--p-paper);overflow:visible}
+ #core01-lesson .lesson-contents nav [data-chapter],#fpu16-teaching-illustrated .lesson-contents nav [data-chapter],#multitab-lesson .lesson-contents nav [data-chapter]{display:block;flex:none;width:100%;max-width:100%;min-width:0;min-height:44px;margin:4px 0;padding:10px 12px;font-size:13px;line-height:1.6;white-space:normal;word-break:normal;overflow-wrap:break-word;text-align:left}
+ #core01-lesson .lesson-contents .toc-label,#fpu16-teaching-illustrated .lesson-contents .chapters>p,#multitab-lesson .lesson-contents .chapters>p{display:none}
+}
+@media(prefers-reduced-motion:reduce){.lesson-contents-arrow{transition:none}}
+@media print{
+ #core01-lesson .lesson-contents,#fpu16-teaching-illustrated .lesson-contents,#multitab-lesson .lesson-contents{display:none}
+}

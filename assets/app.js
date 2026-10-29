@@ -93,6 +93,32 @@ function homeStats(){
 function completionBadge(id){return `<span class="completion-badge" data-completion-id="${esc(id)}" ${state.completed.includes(id)?'':'hidden'}>${lang()==='vi'?'Đã học':'Studied'}</span>`}
 function pendingDraftBadge(meta){return meta.contentVersion==='4tab-2026-10-26'?`<span class="pending-draft-badge">${lang()==='vi'?'Đang dự thảo':'Draft in progress'}</span>`:''}
 function updateCompletionBadges(id){$$('[data-completion-id]').filter(el=>el.dataset.completionId===id).forEach(el=>{el.hidden=!state.completed.includes(id)})}
+function setupLessonContents(root,selector){
+ const nav=root.querySelector(selector);
+ if(!nav||nav.parentElement.classList.contains('lesson-contents'))return;
+ const wrapper=document.createElement('div');
+ wrapper.className='lesson-contents';
+ const toggle=document.createElement('button');
+ toggle.type='button';toggle.className='lesson-contents-toggle';
+ nav.id=root.id+'-contents';
+ toggle.setAttribute('aria-controls',nav.id);toggle.setAttribute('aria-expanded','false');
+ nav.before(wrapper);wrapper.append(toggle,nav);
+ const update=()=>{
+  const buttons=Array.from(nav.querySelectorAll('[data-chapter]'));
+  const current=buttons.findIndex(button=>button.getAttribute('aria-current')==='true');
+  const label=lang()==='vi'?'Mục lục bài học':'Lesson contents';
+  toggle.innerHTML='<span class="lesson-contents-copy"><span class="lesson-contents-label">'+esc(label)+' · '+(current+1)+'/'+buttons.length+'</span><span class="lesson-contents-current">'+esc(buttons[current]?.textContent||'')+'</span></span><span class="lesson-contents-arrow" aria-hidden="true">⌄</span>';
+ };
+ toggle.onclick=()=>{const open=wrapper.classList.toggle('is-open');toggle.setAttribute('aria-expanded',String(open))};
+ root.addEventListener('click',event=>{
+  if(event.target.closest('[data-chapter]')&&matchMedia('(max-width:760px)').matches){
+   wrapper.classList.remove('is-open');toggle.setAttribute('aria-expanded','false');toggle.focus({preventScroll:true});
+  }
+  update();
+ });
+ wrapper.addEventListener('keydown',event=>{if(event.key==='Escape'&&wrapper.classList.contains('is-open')){wrapper.classList.remove('is-open');toggle.setAttribute('aria-expanded','false');toggle.focus()}});
+ update();
+}
 function card(meta){const title=pairedText(meta.title);const name=state.language==='both'?`<h3>${esc(meta.title.en)}</h3><div class="subtitle">${esc(meta.title.vi)}</div>`:`<h3>${esc(localText(meta.title))}</h3>`;return `<a href="#/lesson/${encodeURIComponent(meta.id)}" class="lesson-card"><div class="lesson-meta"><span class="lesson-id">${esc(meta.id)}</span><span class="lesson-card-badges">${statusBadge(meta.status)}${pendingDraftBadge(meta)}${completionBadge(meta.id)}</span></div>${name}<div class="muted small">${esc(sectionGroup(meta))}</div><div class="lesson-card-bottom"><span>${esc(meta.minutes||20)} ${esc(t('minute'))}</span><span class="read-more">${esc(t('view'))} ↗</span></div></a>`}
 function home(){
  const areas=['core','fpu','ipo','cla'];
